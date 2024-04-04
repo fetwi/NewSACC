@@ -1,5 +1,0 @@
-<pre><div class="sacc-item">
-<p>All instructions, clauses and conditions identified in the bid solicitation by number, date and title are set out in the Standard Acquisition Clauses and Conditions Manual issued by Public Works and Government Services Canada (PWGSC). The Manual is available on the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Website: <cite><a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual">Standard Acquisition Clauses and Conditions</a></cite>.</p>
-<p>Bidders who submit a bid agree to be bound by the instructions, clauses and conditions of this bid solicitation and accept the clauses and conditions of the resulting contract.</p>
-<p>The standard instructions and conditions <span class="input-required"><var>________</var> <kbd>(<em>Insert the number</em>)</kbd></span> <span class="input-required"><var>_______</var> <kbd>(<em>Insert the date</em>)</kbd></span> are incorporated by reference into and form part of the bid solicitation.</p>
-</div></pre>

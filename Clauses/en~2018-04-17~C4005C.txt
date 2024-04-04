@@ -1,8 +1,0 @@
-<pre><div class="sacc-item">
-<p>The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, and private vehicle allowances specified in Appendices B, C and D of the <a href="http://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive</a>, and with the other provisions of the directive referring to "travellers", rather than those referring to "employees". Canada will not pay the Contractor any incidental expense allowance for authorized travel.</p>
-<p>All travel must have the prior authorization of the <span class="input-required"><var>________</var> <kbd>(<em>insert "Technical" or
-"Project" or "Contracting"</em>)</kbd></span> Authority.</p>
-<p>All payments are subject to government audit.</p>
-<p>Estimated Cost: $
-        <var>_____</var> .</p>
-</div></pre>

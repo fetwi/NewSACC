@@ -1,8 +1,0 @@
-<pre><div class="sacc-item">
-<p>Pour les conteneurs, des frais supplémentaires de
-<var>________</var> $ par conteneur seront facturés en sus du
-prix contractuel. Un crédit du plein montant sera accordé
-pour chaque conteneur retourné en bon état, les frais de
-transport payés d'avance à <span class="input-required"><var>_________</var> <kbd>(<em>insérer l'adresse
-de destination</em>)</kbd></span>.</p>
-</div></pre>

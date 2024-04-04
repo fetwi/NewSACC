@@ -1,9 +1,0 @@
-<pre><div class="sacc-item">
-<ol type="1">
-<li value="1">When identification markings are required, the Contractor must arrange for their design and manufacture in
-accordance with the current issue of Canadian Forces Specification D-02-002-001/SG-001. The markings must be affixed to the deliverable end item(s) before delivery.</li>
-<li value="2">Identification markings applicable to the United States (U.S.) Navy F-18 program must be manufactured in accordance with the current issue of MIL-STD-130, except that the "U.S." must be blanked out and the Canadian contract number, prefixed with the word "CANADA", must be specified in the Contract Number block.</li>
-<li value="3">The Contractor must submit drawings for identification markings for approval through the responsible
-Department of National Defence Technical Authority at least sixty (60) days before production.</li>
-</ol>
-</div></pre>

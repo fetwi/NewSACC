@@ -1,6 +1,0 @@
-<pre><div class="sacc-item">
-<h2>Clause 1</h2>
-<p>The requirement is detailed under the "Line Item Detail".</p>
-<h2>Clause 2</h2>
-<p>The requirement is detailed under Article <var>_____</var> of the resulting contract clauses. <span class="description">(<strong>Contracting officer to insert the article number which references <span class="clauseRef">B4008C</span></strong>.)</span></p>
-</div></pre>

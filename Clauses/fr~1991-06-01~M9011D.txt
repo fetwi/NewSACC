@@ -1,7 +1,0 @@
-<pre>Le délai relatif à l'escompte de caisse et la date du paiement spécifiés 
-   sur la facture se calculent à partir de la date de réception de la 
-   facture ou à partir de la date de livraison des biens, ou de prestation 
-   des services, la plus récente de ces deux dates étant retenue.  Le 
-   paiement se fera si les biens ou les services sont conformes aux 
-   spécifications du Contrat. 
-</pre>

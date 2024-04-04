@@ -1,4 +1,0 @@
-<pre>Gaseous pressure in the tank upon delivery is to be less than 3 PSI gauge.  
-   If the pressure exceeds 3 PSI gauge, the container will be vented to 
-   that pressure before weighing. 
-</pre>
