@@ -1,4 +1,0 @@
-<pre><div class="sacc-item">
-<p>Le soumissionnaire doit avoir un compte en règle auprès de la Commission des accidents du travail de la province ou du territoire concerné.</p>
-<p>Le soumissionnaire devra fournir un certificat ou une lettre émis par la Commission des accidents du travail attestant que son compte est en règle, dans les <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours suivant la demande de l'autorité contractante. Le défaut de répondre à la demande pourra avoir pour conséquence que la soumission soit jugée non recevable.</p>
-</div></pre>
