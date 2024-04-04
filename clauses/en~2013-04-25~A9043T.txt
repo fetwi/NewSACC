@@ -1,0 +1,7 @@
+<pre><div class="sacc-item">
+<p>This bid solicitation cancels and supersedes previous bid
+solicitation number <var>______</var> dated <var>_______</var> with
+a closing of <span class="input-required"><var>______</var>
+<kbd>(<em>insert the closing date</em>)</kbd></span> at <span class="input-required"><var>________</var> <kbd>(<em>insert the closing
+time</em>)</kbd></span>. A debriefing or feedback session will be provided upon request to bidders/offerors/suppliers who bid on the previous solicitation.</p>
+</div></pre>

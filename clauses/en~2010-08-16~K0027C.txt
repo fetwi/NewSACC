@@ -1,0 +1,56 @@
+<pre><div class="sacc-item">
+<p>The warranty clause of the general conditions forming part of
+the Contract is deleted and replaced by the following:</p>
+<blockquote><p>"08 Warranty</p>
+<ol type="1">
+<li value="1">The Contractor, if requested by Canada, must replace
+or repair at its own expense any finished work, excluding
+Government Issue incorporated in the Work, which becomes defective
+or which fails to conform to contract requirements as a result of
+faulty or inefficient manufacture, material or workmanship.</li>
+<li value="2">Despite acceptance of the finished work, and without
+restricting any other term of the Contract or any condition,
+warranty or provision imposed by law, the Contractor warrants that
+the following will be free from all defects and will conform with
+the requirements of the Contract:
+<ol type="a">
+<li value="1">The painting of the underwater portion of the hull
+for a period of <span class="input-required"><var>______</var> <kbd>(<em>insert the
+number of days as required</em>)</kbd></span> days commencing from the
+date of undocking, except that the Contractor will only be liable
+to repair and/or replace to a value to be determined as
+follows:<br/>
+Original cost to Canada of the underwater painting work, divided
+by <span class="input-required"><var>______</var> <kbd>(<em>insert the
+warranty period as indicated above</em>)</kbd></span> days and multiplied
+by the number of days remaining in the warranty period. The
+resultant sum would represent the "Dollar Credit" due to Canada
+from the Contractor.
+</li>
+<li value="2">All other painting work for a period of <span class="input-required"><var>_______</var> <kbd>(<em>insert the number of days
+as required</em>)</kbd></span> days commencing from the date of
+acceptance of the Work;</li>
+<li value="3">All other items of work for a period of ninety (90)
+days commencing from the date of acceptance of the Work, except
+that:
+<ol type="i">
+<li value="1">the warranty on the work related to any system or
+equipment not immediately placed in continuous use or service will
+be for a period of ninety (90) days from the date of acceptance of
+the vessel;</li>
+<li value="2">for all outstanding defects, deviations, and work items
+listed on the Acceptance Document at Delivery, the warranty will be
+ninety (90) days from the subsequent date of acceptance for each
+item.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="3">The Contractor agrees to pass to Canada, and exercise
+on behalf of Canada, all warranties on the materials supplied or
+held by the Contractor which exceed the periods indicated
+above.</li>
+<li value="4">Refer to Annex "<var>______</var>" for Warranty
+Defect Claim Procedures and forms."</li>
+</ol></blockquote>
+</div></pre>

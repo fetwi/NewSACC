@@ -1,0 +1,388 @@
+<pre><strong>9072A  01     (06/91)       Interpretation</strong>
+
+(1) In the Contract:  
+
+       (a) "acceptance" means the Work has been completed in accordance 
+       with the Contract, and that the equipment has successfully passed 
+       inspection, equipment check, any acceptance tests specified in the 
+       Contract and has achieved the specified availability level;
+
+       (b) "data processing component" is synonymous with "component" and 
+       means a part or sub-assembly which is an integral part of a data 
+       processing device and which is capable of operating in the manner 
+       described in the specifications, or where the specifications do not 
+       describe the manner in which the component is to operate, is capable 
+       of operating in the manner described in the Contractor's 
+       specification in effect on the Contract date;
+
+       (c) "data processing device" is synonymous with "device" and means 
+       an item of hardware which is capable of performing a function or 
+       activity, which may stand alone or be housed in common with, or be 
+       connected to, other parts of a data processing system, and which is 
+       capable of operating in the manner described in the specifications, 
+       or where specifications do not describe the manner in which the 
+       component is to operate, is capable of operating in the manner 
+       described in the Contractor's specifications in effect on the 
+       Contract date;
+
+       (d) "data processing system" is synonymous with "system" and means a 
+       series of interconnected devices together with computer programs, 
+       all as listed in the Contract as forming the system and which, 
+       unless otherwise specified in the Contract, shall be furnished by 
+       the Contractor and capable of processing data by accepting data, 
+       performing prescribed operations on the data and supplying the 
+       results, all as specified in the Contract;
+
+       (e) "documentation" means visually recorded information relating to 
+       the equipment and to the programs referred to in the Contract;
+
+       (f) "downtime" means:   
+
+              (i)  in the case of a system, the hours or part thereof 
+              during which the system is not available for use due to a 
+              cause within the system, or
+
+              (ii) in the case of a device, the hours or part thereof 
+              during which the device is not available for use due to a 
+              malfunction in the device;
+ 
+       and downtime commences when the Minister signifies to the Contractor 
+       that the system or device is not available for use and ceases when 
+       the Contractor signifies to the Minister that the cause or 
+       malfunction has been corrected and the system or device is available 
+       for use;
+
+       (g) "equipment" is an all inclusive term which refers to individual 
+       devices or components, or to the system specified in the contract 
+       and replaces the definition of equipment specified in paragraph 1.(1) 
+       (g) of General Conditions DSS-MAS 1026-S100A or DSS-MAS 1026A;
+
+       (h) "equipment check" means that the Contractor has certified that 
+       the devices and any interconnections have passed his normal 
+       diagnostic tests and are in operating condition;
+
+       (i) "medium" means decks of punched cards, magnetic or other tapes, 
+       magnetic disk, or other material or configurations thereof on which 
+       data or computer programs in machine-readable form are recorded;
+
+       (j) "operational use hours" means:   
+
+              (i)  in the case of a system, the hours or part thereof 
+              during which the system is processing data, or   
+
+              (ii) in the case of a device, the hours or part thereof 
+              during which the device is performing its function or 
+              activity;
+
+       (k) "ready for use" means that, and occurs on the date that, the 
+       equipment has been delivered, installed, connected, successfully 
+       passed inspection, equipment check, and any acceptance tests 
+       specified in the Contract and is ready for Government availability 
+       level testing. 
+
+<strong>9072A  02     (06/91)       Conduct of the Work</strong>
+
+This section replaces section 4 of General Conditions DSS-MAS 1026-S100A or 
+DSS-MAS 1026A.  
+
+(1) The Contractor shall:  
+
+       (a) carry out the work diligently so that responsible progress is 
+       made in performing the Contract and provide effective supervision 
+       and inspection thereof;
+
+       (b) ensure that the Work is of good quality and in full conformity 
+       with the Contract; and
+
+       (c) apply such quality assurance tests, inspections, controls and 
+       other tests as he normally applies in similar work.   
+(2) The Contractor acknowledges that the Minister wishes to maintain 
+maximum flexibility in acquiring equipment, data processing supplies, 
+programs and services, and the Contractor agrees not to include any feature 
+in the Work, the sole purpose of which is to prevent the Minister from 
+contracting through competition.  
+
+(3) Notwithstanding the provisions of section 4 of these Supplemental 
+General Conditions, the Minister may observe and review the conduct of the 
+Work at all reasonable times. 
+
+<strong>9072A  03     (06/91)       Documentation and Programs</strong>
+
+(1) The Contractor shall furnish to Her Majesty, as a minimum, the same 
+documentation as it provides to other purchasers of similar work, as and 
+when required by the Minister and shall include all amendments, revisions 
+and adjustments to the date of acceptance.  
+
+(2) Notwithstanding subsection 3(1) of these Supplemental General 
+Conditions, all documentation shall contain enough details to use, maintain, 
+test, check and modify the computer programs and to operate the equipment.  
+
+(3) All computer programs and program amendments (hereinafter called "
+release" or "releases") shall be supplied on the Contractor's normal medium.  
+
+(4) The Contractor shall furnish to Her Majesty the latest release of all 
+computer programs specified in the Contract up to the date of acceptance.  
+However, any release issued subsequent to the date of the Contractor's 
+offer, or after the completion of any preaward benchmark tests, whichever 
+is later, will be installed in the system pursuant to section 19 of General 
+Conditions DSS-MAS 1026-S100A or DSS-MAS 1026A if mutually agreed between 
+the parties.  
+
+(5) After acceptance, the Contractor shall offer to furnish and install all 
+computer programs and releases under terms and conditions no less 
+favourable to Her Majesty than those the Contractor normally offers to 
+purchasers of similar work. 
+
+(6) In the event of termination or nonacceptance of the Work, the Minister 
+shall, upon request of the Contractor, return or certify the destruction of 
+documentation, computer programs or releases, title to which does not vest 
+in Her Majesty. 
+
+<strong>9072A  04     (06/91)       Inspection</strong>
+
+This section replaces section 6 of General Conditions DSS-MAS 1026-S100A or 
+DSS-MAS 1026A.  
+
+(1) The Minister shall have such access to the Work for inspection purposes 
+and such rights of inspection as are specified in the Contract.  The 
+Contractor shall give notice to the Minister when the Work is ready for 
+inspection.  Upon the giving of the notice, the Minister shall promptly 
+inspect the Work mentioned in the notice.  No in-plant inspection by the 
+Government will be required of the manufacturing process for commercially 
+available products as set out in the Contract.  
+
+(2) Where the Minister inspects any work at any time prior to acceptance 
+and the Work is not in accordance with the requirements of the Contract, 
+the Minister may give notice to the Contractor that the Work is rejected, 
+and, upon the giving of the notice, the Contractor shall promptly repair or 
+replace the Work at his expense.  
+
+(3) All repaired or replaced work is subject to further inspection by the 
+Minister and subject to the provisions of section 4 of these Supplemental 
+General Conditions.  
+
+(4) If the Work is not in accordance with the requirements of the Contract, 
+and the Minister has given notice pursuant to subsection 4(2) of these 
+Supplemental General Conditions and the Contractor fails to promptly repair 
+or replace the work, the Minister may terminate the Contract pursuant to 
+section 21 of General Conditions DSS-MAS 1026-S100A or DSS-MAS 1026A.  
+
+(5) The Contractor may, within ten (10) working days of the giving of 
+notice by the Minister, notify the Minister of any objection to the 
+Minister's rejection of the Work, failing which, the Contractor shall be 
+deemed to have accepted the Minister's rejection. 
+
+(6) Inspection by the Minister shall not relieve the Contractor from its 
+obligation to conform fully with the requirements of the Contract. 
+
+<strong>9072A  05     (06/91)       Availability Level</strong>
+
+(1) At any time prior to the ready-for-use date, the Minister may, with the 
+Contractor's consent, make operational use of the equipment without 
+prejudice to any other rights under the Contract. 
+
+(2) When the equipment is ready for use, the Contractor shall promptly give 
+notice to the Minister. Upon the giving of the notice, or promptly 
+following the ready-for-use date specified in the Contract, whichever is 
+later, the Minister may subject the equipment to availability level testing.  
+The Minister shall have access to the equipment and shall have the right to 
+make unrestricted operational use of it without prejudice to any other 
+rights under the Contract provided, however, the Contractor shall, at all 
+times prior to acceptance, have a prior right of access to the equipment 
+and a prior right to use the equipment in order to maintain the equipment 
+and to fulfil the requirements of the Contract.   
+(3) All systems or devices must achieve a minimum of ninety-five per cent 
+(95%) availability level for thirty (30) consecutive calendar days. All 
+operational use hours shall be included in determining the availability 
+level. Availability level shall be calculated as follows:
+
+                        operational use                          hours                          ____________________ 
+x 100%                         operational use                         
+hours + downtime  
+
+The thirty (30)-day availability level must be achieved within one hundred 
+and eighty (180) consecutive calendar days of the first full day after 
+ready-for-use date.  
+
+(4) All equipment shall be deemed to have achieved the availability level 
+on the day of completion of any thirty (30) consecutive calendar day period 
+during which an availability level as specified in subsection 5(3) of these 
+Supplemental General Conditions is achieved. 
+
+(5) If the equipment is available to Her Majesty for a minimum of one 
+hundred (100) operational use hours during a period of thirty (30) 
+consecutive days within the 180-day period referred to in subsection 5(3) 
+of these Supplemental General Conditions and Her Majesty fails to make 
+operational use of the equipment for at least such minimum hours, then the 
+availability level shall be deemed to have been achieved.  
+
+(6) If, due to a power failure or other events beyond the control of the 
+party or parties conducting an availability level test, which event 
+prevents the normal functioning of the equipment being tested, the test may, 
+at the option of the party or parties conducting the test, be temporarily 
+suspended.  The time limits referred to above shall in such cases be 
+extended by the number of calendar days lost due to the suspension. 
+
+<strong>9072A  06     (06/91)       Acceptance</strong>
+
+This section replaces section 7 of General Conditions DSS-MAS 1026-S100A or 
+DSS-MAS 1026A.  
+
+(1) The date of acceptance shall be evidenced by a notice from the Minister 
+to the Contractor. 
+
+(2) Acceptance of part of the Work shall not constitute acceptance of the 
+whole of the Work.  
+
+<strong>9072A  07     (06/91)       Title</strong>
+
+This section replaces section 7 of General Conditions DSS-MAS 1026-S100A or 
+DSS-MAS 1026A.  
+ 
+(1) Except as provided in subsection 7(2) of these Supplemental General 
+Conditions, title to the Work furnished to Her Majesty, including computer 
+program media, shall vest in Her Majesty upon acceptance.  
+
+(2) Subject to the provisions of subsections 11(1) and 11(2) of these 
+Supplemental General Conditions, title to computer programs and releases 
+does not vest in Her Majesty, but unless otherwise stated in the Contract, 
+Her Majesty may retain and use all computer programs and releases furnished 
+under the Contract. 
+
+<strong>9072A  08     (06/91)       Warranty</strong>
+
+This section replaces section 8 of General Conditions DSS-MAS 1026-S100A or 
+DSS-MAS 1026A.  
+
+(1) Notwithstanding prior acceptance of the Work, and without restricting 
+any other term of the Contract or any condition, warranty or provision 
+implied or imposed by law, the Contractor warrants that, for a period of 
+one (1) year, commencing on the first day of the thirty (30) consecutive 
+calendar-day period in which the availability level is achieved, equipment, 
+including limited life components, shall be free of defects in materials 
+and workmanship, and other defects which cause repeated abnormal failure or 
+malfunction, and that computer programs shall operate as specified in the 
+Contract, or if not specified, in accordance with the Contractor's 
+specifications provided that if there is no availability level test the 
+warranty period shall commence on the date of acceptance.  
+
+(2) During the warranty period, the Minister shall promptly notify the 
+Contractor of any claim under warranty. Upon receipt of the claim, the 
+Contractor shall take prompt action, at no cost to Her Majesty, to correct 
+the defect specified in the claim and warranted in subsection 8(1) of these 
+Supplemental General Conditions.  The Contractor shall be allowed a 
+reasonable period of time not to exceed thirty (30) consecutive calendar 
+days in which to correct a defect by repair or replacement, provided, 
+however, that if the Contractor is unable to correct the defect within such 
+period of time, the Contractor shall, on the written request of the 
+Minister, unless otherwise specified in the Contract, provide alternate 
+compatible equipment. All replaced equipment which is removed becomes the 
+property of the Contractor. Any such replacement equipment shall be 
+warranted for the balance of the original warranty period.  
+
+(3) If the Contractor fails to perform its obligation under subsection 8(2) 
+of these Supplemental General Conditions within the time allowed, the 
+Minister may correct, or have corrected the said defective equipment at the 
+Contractor's expense. 
+
+(4) This warranty shall not apply to a defect which results from negligence 
+of Her Majesty, failure of electric power or air conditioning or humidity 
+control to perform in accordance with site preparation specifications, 
+failure by Her Majesty to properly maintain the equipment, in accordance 
+with the Contractor's furnished specification or an alteration to the 
+equipment made by other than the Contractor or from the use by the 
+Government of supplies or materials that do not conform to the Contractor's 
+specifications.  The Contractor shall be provided reasonable access to the 
+equipment in order to perform its obligations under this warranty. 
+
+<strong>9072A  09     (06/91)       Disputes</strong>
+
+(1) Pending resolution of any dispute, the Contractor shall, if directed by 
+the Minister, continue with the Work.  
+
+<strong>9072A  10     (06/91)       Site Preparation</strong>
+
+(1) Where the Contract contains site specifications provided by the 
+Contractor, which require the Crown to prepare a site for the Work, the 
+Crown shall prepare the site at its own expense pursuant to the 
+specifications prior to the date specified in the Contract for delivery of 
+the Work.  The Contractor warrants that if the site is prepared and 
+maintained in conformity with the site specifications, the resultant 
+environment will permit the operation of the equipment in conformity with 
+the specification and it will be maintainable.  
+
+(2) The Minister shall give notice to the Contractor when the site is 
+prepared.  The Contractor shall promptly inspect the site and shall advise 
+the Minister of the dates of the inspection, any rejections, and the 
+reasons therefor and the final inspection and acceptance specifications.  
+Inspection by the Contractor shall not relieve the Minister from his 
+obligations to fully conform with the requirements of the site 
+specifications.  
+
+(3) Any alterations or modifications in site preparation which are 
+attributable to incomplete or erroneous specifications provided by the 
+Contractor, which would involve additional expenses to the Government, 
+shall be made at the expense of the Contractor. 
+
+<strong>9072A  11     (06/91)       Inventions, Copyrights and Designs</strong>
+
+This section replaces section 17 of General Conditions DSS-MAS 1026-S100A 
+or DSS-MAS 1026A.  
+
+(1) Her Majesty agrees to indemnify the Contractor for expenses that the 
+Contractor sustains as a result of any claim or proceeding based upon the 
+use, by the Contractor in performing the Contract, of any patented 
+invention, copyright work or registered and industrial design:  
+
+       (a) embodied in equipment furnished to the Contractor as government 
+       issue; or  
+ 
+       (b) resulting from the Contractor complying with production drawings 
+       not prepared by the Contractor and supplied by the Minister, which 
+       direct an alteration of or modification to the Work. 
+
+(2) The Contractor agrees to indemnify Her Majesty against claims, actions 
+and proceedings based upon the use of any invention claimed in a patent 
+that is made in connection with the carrying out of the Contract and in 
+respect to the use of or disposal by Her Majesty of articles or supplies 
+furnished pursuant to the Contract.
+
+(3) In the event that a public servant, and an employee, agent or 
+representative of the Contractor together make an invention or produce 
+anything that is proper subject matter for copyright protection in carrying 
+out the Work, the invention and copyright shall vest in Her Majesty, but 
+the Contractor shall have the royalty-free right to use and to permit 
+subcontractors to use the invention and copyright.  
+
+(4) Where the Contract requires the Contractor to develop equipment, 
+programs or both, all designs, programs, technical information, inventions 
+first conceived, developed, produced or actually reduced to practice by the 
+Contractor in the performance of that part of the Work shall vest in Her 
+Majesty.  The Contractor shall promptly disclose in writing these designs, 
+programs and inventions to the Minister and, shall not, without the written 
+consent of the Minister, divulge or use them other than in performing the 
+Contract. 
+
+<strong>9072A  12     (06/91)       Conditions Precedent to Payment</strong>
+
+This section replaces section 10 of General Conditions DSS-MAS 1026-S100A 
+or DSS-MAS 1026A.  
+
+(1) Provided that the Contractor is not in default under section 21 of 
+General Conditions DSS-MAS 1026-S100A or DSS-MAS 1026A, payments, as 
+specified in the Contract, shall be made promptly to the Contractor when 
+the following conditions are met:  
+
+       (a) acceptance of the Work for which payment is being claimed has 
+       occurred; and  
+
+       (b) all invoices and other documents specified in the contract 
+       relating to payment under the Contract are submitted to and 
+       certified by the Minister; and
+
+       (c) the Contractor, if required to do so, certifies that he has no 
+       knowledge of any lien, attachment, charge, encumbrance or claim of a 
+       similar nature affecting all the Work in respect of which payment is 
+       being claimed.  
+
+</pre>

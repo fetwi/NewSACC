@@ -1,0 +1,36 @@
+<pre><div class="sacc-item">
+<p>Form B13 (Customs Export Entry Form) must accompany shipments
+under the following circumstances for all goods:</p>
+<ol type="a">
+<li value="1">exported in transit from Canada through the United
+States (FMS contracts):</li>
+<li value="2">exported to a country other than the United States;
+or</li>
+<li value="3">that fall within the following Canadian tariff
+classification:
+<ol type="i">
+<li value="1">Airplanes (8802.30.00; 8802.40.00)</li>
+<li value="2">Satellites &amp; Telecommunication equipment (8802.50.10;
+8802.50.90)</li>
+<li value="3">Simulators (8805.20.00)</li>
+<li value="4">Ships &amp; Boats (8901.10.00; 8901.20.00; 8901.30.00;
+8901.90.10; 8901.90.90; 8902.00.10; 8902.00.20)</li>
+<li value="5">Uranium (2612.10.00; 2844.10.00)</li>
+<li value="6">Gold (2616.90.00; 7108.11.00; 7108.12.00; 7108.13.10;
+7108.13.20; 7108.20.00; 7109.00.00; 7112.10.00; 7115.90.90;
+7118.90.00).</li>
+</ol>
+</li>
+</ol>
+<p>In completing form B13:</p>
+<ol type="a">
+<li value="1">Canadian Commercial Corporation, Ottawa, Canada, must
+be shown as the exporter;</li>
+<li value="2"><abbr title="Canadian Commercial Corporation">CCC</abbr> exporter <abbr title="Number">No.</abbr> MAQ616025 is to appear in "Block
+No." just above <abbr title="Canadian Commercial Corporation">CCC</abbr>'s name;</li>
+<li value="3">Forms are to be signed by the Contractor as
+authorized agent of Canadian Commercial Corporation and show the
+name of the Contractor in full.</li>
+</ol>
+<p class="description">N.B. All other shipments of goods, not included in the above do not require completion of form B13.</p>
+</div></pre>

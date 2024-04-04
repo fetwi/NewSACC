@@ -1,0 +1,7 @@
+<pre><div class="sacc-item">
+<p><span class="input-required"><var>___</var> <kbd>(<em>insert number</em>)</kbd></span> contracts were awarded as a result of Public Works and Government Services Canada bid solicitation number: <span class="input-required"><var>_____________</var> <kbd>(<em>insert number</em>)</kbd></span>. The contractors' order of ranking is as
+follows:</p>
+<p>Ranked first: <var>____________</var></p>
+<p>Ranked second: <var>___________</var></p>
+<p>(<em>Insert as many lines as there are contractors</em>)</p>
+</div></pre>

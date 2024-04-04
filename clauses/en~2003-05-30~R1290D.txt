@@ -1,0 +1,222 @@
+<pre>REQUIRED SERVICES
+
+PERCENTAGE FEE
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Firm Percentage Fee of</th>
+<td>___________%</td>
+</tr>
+<tr align="left" valign="top">
+<th>Indicative Estimate of Construction Cost (Class D):</th>
+<td>X $____________ (including GST)</td>
+</tr>
+<tr align="left" valign="top">
+<td> </td>
+<td>$____________</td>
+</tr>
+</tbody></table> <pre>
+The actual percentage fee for Required Services will recognize the 
+variability of the Construction Cost Estimate as the project develops (
+refer to formula specified in GC 5.2.1.(a).  Payments will be made as 
+specified in GC 5.4.1
+
+
+FIXED FEE
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Services</th>
+<th>Fixed Fee</th>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<th>Maximum Fixed Fees</th>
+<td>$_________</td>
+</tr>
+</tbody></table> <pre>
+
+FIXED FEE - UNIT PRICE
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th># of Units</th>
+<th>Services</th>
+<th>Cost / Unit</th>
+<th>Fixed Fee</th>
+</tr>
+<tr align="left" valign="top">
+<td>_____</td>
+<td>__________________</td>
+<td>@$______  =</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_____</td>
+<td>__________________</td>
+<td>@$______  =</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_____</td>
+<td>__________________</td>
+<td>@$______  =</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<th colspan="3">Maximum Fixed Fees</th>
+<td>$_________</td>
+</tr>
+</tbody></table> <pre>
+TIME BASED FEES
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Services</th>
+<th>Time Based Fee</th>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<th>Maximum Time Based Fees</th>
+<td>$_________</td>
+</tr>
+</tbody></table> <pre>
+Hourly rates are to be provided below.
+
+TOTAL MAXIMUM FEE FOR REQUIRED SERVICES                 $_________
+
+
+DISBURSEMENTS
+At cost without allowance for mark-up or profit, supported by invoices/
+receipts:
+
+(specify and enter limit)
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<th>Maximum Amount For Disbursements</th>
+<td>$_________</td>
+</tr>
+</tbody></table> <pre>
+
+The following hourly rates may be used in the event that the original 
+services change during the course of the contract. 
+
+PRINCIPALS -  All inclusive hourly rate to be fixed for the duration of the 
+Contract. 
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Name</th>
+<th>$ per hour</th>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>$_________</td>
+</tr>
+</tbody></table> <pre>
+STAFF - Payroll Cost Factor to be fixed for the duration of the contract.  
+For the administration of the Contract, Hourly Rate increases for staff are 
+to be documented to PWGSC for approval.
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Name / Position</th>
+<th>$ per hour (excluding factor)</th>
+<th>Factor</th>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>__________________________</td>
+<td>_____________</td>
+<td>_____________________</td>
+</tr>
+</tbody></table> <pre></pre>

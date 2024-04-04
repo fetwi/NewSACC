@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<p>The Bidder must provide the following documents with its bid:</p>
+<ol type="1">
+<li value="1"><var>______________</var></li>
+<li value="2"><var>______________</var></li>
+<li value="3"><var>______________</var>.</li>
+</ol>
+</div></pre>

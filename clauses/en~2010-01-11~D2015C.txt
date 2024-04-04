@@ -1,0 +1,17 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must ensure that in addition to the
+required interior and exterior package markings, the following
+information is provided: <var>_______</var>.
+<p class="description"><strong><em>Instruction to contracting officers: Insert</em></strong>: "For item(s) <var>_______</var> :" <em>when the
+information is not required for all items</em>.</p>
+<ol type="a">
+<li value="1"><var>___________</var>;</li>
+<li value="2"><var>___________</var>.</li>
+</ol>
+</li>
+<li value="2">These markings must be applied and positioned in
+accordance with Canadian Forces Packaging Specification
+D-LM-008-002/SF-001.</li>
+</ol>
+</div></pre>

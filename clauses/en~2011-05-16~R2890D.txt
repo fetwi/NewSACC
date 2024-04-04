@@ -1,0 +1,142 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<p>GC9.1 Obligation to Provide Contract Security</p>
+<p>GC9.2 Types and Amounts of Contract Security</p>
+</div>
+<h2>GC9.1 (2009-05-29) Obligation to Provide Contract Security</h2>
+<ol type="1">
+<li value="1">The Contractor shall, at the Contractor's expense and
+within 14 days after the date that the Contractor receives notice
+that the Contractor's bid was accepted by Canada, obtain and
+deliver Contract Security to Canada in one of the forms prescribed
+in GC9.2, "Types and Amounts of Contract Security".</li>
+<li value="2">If the whole or a part of the Contract Security
+provided is in the form of a security deposit, it shall be held and
+disposed of in accordance with GC5.13, "Return of Security
+Deposit", and GC7.4, "Security Deposit - Forfeiture or
+Return".</li>
+<li value="3">If a part of the Contract Security provided is in the
+form of a labour and material payment bond, the Contractor shall
+post a copy of that bond at the site of the Work.</li>
+<li value="4">It is a condition precedent to the release of the
+first progress payment that the Contractor has provided the
+Contract Security as specified herein.</li>
+</ol>
+<h2>GC9.2 (2011-05-16) Types and Amounts of Contract Security</h2>
+<ol type="1">
+<li value="1">The Contractor shall deliver to Canada either (a) or
+(b).
+<ol type="a">
+<li value="1">A performance bond and a labour and material payment
+bond each in an amount that is equal to not less than 50 percent of
+the Contract Amount.</li>
+<li value="2">A security deposit or an irrevocable standby letter
+of credit in an amount that is equal to not less than 20 percent of
+the Contract Amount.</li>
+</ol>
+</li>
+<li value="2">A performance bond (form <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/documents/505.pdf" rel="external">PWGSC-TPSGC
+505</a></cite>) and a labour and material payment bond (form <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/documents/506.pdf" rel="external">PWGWSC-TPSGC
+506</a></cite>) referred to in subparagraph 1)(a) of GC9.2 shall be in a
+form and be issued by a bonding or surety company (see Treasury
+Board Appendix L, <cite><a href="http://www.tbs-sct.gc.ca/pol/doc-eng.aspx?id=14494&amp;section=text#appL" rel="external">
+Acceptable Bonding Companies</a></cite>) that is approved by Canada.</li>
+<li value="3">A security deposit referred to in subparagraph 1)(b)
+of GC9.2 shall be in the form of
+<ol type="a">
+<li value="1">a bill of exchange, bank draft or money order made
+payable to the Receiver General for Canada and certified by an
+approved financial institution or drawn by an approved financial
+institution on itself; or</li>
+<li value="2">bonds of, or unconditionally guaranteed as to
+principal and interest by, the Government of Canada.</li>
+</ol>
+</li>
+<li value="4">For the purposes of subparagraph 3)(a) of GC9.2
+<ol type="a">
+<li value="1">a bill of exchange is an unconditional order in
+writing signed by the Contractor and addressed to an approved
+financial institution, requiring the said institution to pay, on
+demand, at a fixed or determinable future time a sum certain of
+money to, or to the order of, the Receiver General for Canada;</li>
+<li value="2">if a bill of exchange, bank draft or money order is
+certified by or drawn on an institution or corporation other than a
+chartered bank, it must be accompanied by proof that the said
+institution or corporation meets at least one of the criteria
+described in subparagraph 4)(c) of GC9.2, either by letter or by a
+stamped certification on the bill of exchange, bank draft or money;
+and</li>
+<li value="3">An approved financial institution is
+<ol type="i">
+<li value="1">a corporation or institution that is a member of the
+Canadian Payments Association as defined in the <cite>Canadian
+Payments Act</cite>;</li>
+<li value="2">a corporation that accepts deposits that are insured, to
+the maximum permitted by law, by the Canada Deposit Insurance
+Corporation or the "Régie de l'assurance-dépôts du
+Québec";</li>
+<li value="3">a corporation that accepts deposits from the public if
+repayment of the deposit is guaranteed by Her Majesty the Queen in
+right of a province;</li>
+<li value="4">a corporation, association or federation incorporated or
+organized as a credit union or co-operative credit society that
+conforms to the requirements of a credit union which are more
+particularly described in paragraph 137(6) of the <cite>Income Tax
+Act</cite>; or</li>
+<li value="5">Canada Post Corporation.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="5">Bonds referred to in subparagraph 3)(b) of GC9.2
+shall be provided on the basis of their market value current at the
+date of the Contract, and shall be
+<ol type="a">
+<li value="1">made payable to bearer; or</li>
+<li value="2">accompanied by a duly executed instrument of transfer
+of the bonds to the Receiver General for Canada in the form
+prescribed by the Domestic Bonds of Canada Regulations; or</li>
+<li value="3">registered as to principal, or as to principal and
+interest, in the name of the Receiver General for Canada pursuant
+to the Domestic Bonds of Canada Regulations.</li>
+</ol>
+</li>
+<li value="6">An irrevocable standby letter of credit referred to
+in subparagraph 1)(b) of GC9.2 shall
+<ol type="a">
+<li value="1">be an arrangement, however named or described,
+whereby a financial institution (the "Issuer") acting at the
+request and on the instructions of a customer (the "Applicant") or
+on its own behalf,
+<ol type="i">
+<li value="1">is to make a payment to, or to the order of, Canada
+as the beneficiary;</li>
+<li value="2">is to accept and pay bills of exchange drawn by Canada;</li>
+<li value="3">authorizes another financial institution to effect such
+payment or accept and pay such bills of exchange; or</li>
+<li value="4">authorizes another financial institution to negotiate
+against written demand(s) for payment provided that the terms and
+conditions of the letter of credit are complied with;</li>
+</ol>
+</li>
+<li value="2">state the face amount that may be drawn against
+it;</li>
+<li value="3">state its expiry date;</li>
+<li value="4">provide for sight payment to the Receiver General for
+Canada by way of the financial institution's draft against
+presentation of a written demand for payment signed by Canada;</li>
+<li value="5">provide that more than one written demand for payment
+may be presented subject to the sum of those demands not exceeding
+the face value of the letter of credit;</li>
+<li value="6">must provide that it is subject to the International
+Chamber of Commerce (ICC) Uniform Customs and Practice (UCP) for
+Documentary Credits, 2007 Revision, <abbr title="International Chamber of Commerce">ICC</abbr> Publication <abbr title="Number">No.</abbr> 600.
+Pursuant to the <abbr title="International Chamber of Commerce">ICC</abbr> <abbr title="Uniform Customs and Practice">UCP</abbr>, a credit is irrevocable even if there is
+no indication to that effect; and</li>
+<li value="7">be issued or confirmed, in either official language
+in a format left to the discretion of the issuer or confirmer, by
+an approved financial institution on its letterhead.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

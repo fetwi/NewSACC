@@ -1,0 +1,22 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">If the Contractor fails to <span class="input-required"><var title="blank">_________</var> <kbd>(<em>insert "deliver the
+goods" or "perform the services"</em>)</kbd></span> within the time
+specified in the Contract, the Contractor agrees to pay to Canada
+liquidated damages in the amount of $ <var title="blank">_____</var> for each
+calendar day of delay. The total amount of the liquidated damages
+must not exceed <var title="blank">_____</var> percent of the contract
+price.</li>
+<li value="2">Canada and the Contractor agree that the amount
+stated above is their best pre-estimate of the loss to Canada in
+the event of such a failure, and that it is not intended to be, nor
+is it to be interpreted as, a penalty.</li>
+<li value="3">Canada will have the right to hold back, drawback,
+deduct or set off from and against the amounts of any monies owing
+at any time by Canada to the Contractor, any liquidated damages
+owing and unpaid under this section.</li>
+<li value="4">Nothing in this section must be interpreted as
+limiting the rights and remedies which Canada may otherwise have
+under the Contract.</li>
+</ol>
+</div></pre>

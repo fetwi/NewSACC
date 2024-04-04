@@ -1,0 +1,28 @@
+<pre><div class="sacc-item">
+<p>Despite any other condition of the Contract, the Contractor is
+only authorized to perform the Work required to complete
+<span class="input-required"><var>__________</var> <kbd>(<em>insert the applicable
+phase or task</em>)</kbd></span>, of the Contract
+<kbd>(<em>insert "at a cost not to exceed
+$<var>_______</var> ", if applicable</em>)</kbd>.
+Upon completion of <span class="input-required"><var>____________</var>
+<kbd>(<em>insert "the phase" or "task"</em>)</kbd></span>, the Work will be reviewed
+before the Contractor is authorized to commence any Work for
+<span class="input-required"><var>_____________</var> <kbd>(<em>insert the
+applicable phase or task</em>)</kbd></span>. Depending on the results
+of the review and evaluation of the Work, Canada will decide at its
+discretion whether to continue with the Work.</p>
+<p>If Canada decides to continue with <span class="input-required"><var>__________</var>
+<kbd>(<em>insert the applicable phase or
+task</em>)</kbd></span>, the Contracting Authority will advise the
+Contractor in writing to commence work on <span class="input-required"><var>________</var> <kbd>(<em>insert the applicable
+phase or task</em>)</kbd></span>. The Contractor must immediately comply
+with the notice.</p>
+<p>If Canada decides not to proceed with <span class="input-required"><var>___________</var>
+<kbd>(<em>insert the applicable phase or
+task</em>)</kbd></span>, the Contracting Authority will advise the
+Contractor in writing of the decision and the Contract will be
+considered completed at no further costs to Canada. In no event
+will the Contractor be paid for any cost incurred for unauthorized
+work.</p>
+</div></pre>

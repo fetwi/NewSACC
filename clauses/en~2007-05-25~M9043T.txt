@@ -1,0 +1,7 @@
+<pre><div class="sacc-item">
+<p>This request for standing offers (RFSO) cancels and supersedes
+previous <abbr title="Request for Standing Offer">RFSO</abbr> number <var>______</var> dated <var>_______</var>
+with a closing of <span class="input-required"><var>______</var>
+<kbd>(<em>insert the closing date</em>)</kbd></span> at <span class="input-required"><var>________</var> <kbd>(<em>insert the closing
+time</em>)</kbd></span>.</p>
+</div></pre>

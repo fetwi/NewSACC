@@ -1,0 +1,28 @@
+<pre><ol>
+<li>The Contractor must submit invoices in accordance with the section entitled "Invoice Submission" of the general conditions. Invoices cannot be submitted until all work identified in the invoice is completed.
+        <p><kbd><cite>Instruction to contracting officers: Use the following paragraph when invoices must be accompanied by supporting documents. The documents listed are examples only and must be revised to reflect the requirement. Delete this paragraph if no supporting documents are required.</cite></kbd></p>
+<p>Each invoice must be supported by:</p>
+<ol type="a">
+<li>a copy of time sheets to support the time claimed;</li>
+<li>a copy of the release document and any other documents as specified in the Contract;</li>
+<li>a copy of the invoices, receipts, vouchers for all direct expenses, and all travel and living expenses;</li>
+<li>a copy of the monthly progress report;</li>
+<li>a copy of a completed and up-to-date Inuit Benefits Plan (IBP) Progress Report as described in Annex “___” (<abbr title="Inuit Benefits Plan">IBP</abbr> Progress Reporting) of the Contract.</li>
+</ol>
+</li>
+<li>Invoices must be distributed as follows:
+        <ol type="a">
+<li>The original and one (1) copy must be forwarded to the address shown on page 1 of the Contract for certification and payment;</li>
+</ol>
+<p><strong>Or</strong></p>
+<ol type="a">
+<li>The original and one (1) copy must be forwarded to the following address for certification and payment.
+                <br/><span class="input-required"><var>______________</var> <kbd>(<cite>Insert the name of the organization</cite>)</kbd></span>
+<br/><span class="input-required"><var>______________</var> <kbd>(<cite>Insert the address of the organization</cite>)</kbd></span>;
+            </li>
+<li>One (1) copy must be forwarded to the Contracting Authority identified under the section entitled "Authorities" of the Contract.</li>
+<li><kbd><cite>Instruction to contracting officers: Insert additional distribution as applicable. The following is an example.</cite></kbd>
+<br/>one (1) copy must be forwarded to the consignee.</li>
+</ol>
+</li>
+</ol></pre>

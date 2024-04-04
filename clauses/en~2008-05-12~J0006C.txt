@@ -1,0 +1,24 @@
+<pre><div class="sacc-item">
+<p>This is further to the Stop Work Order dated <span class="input-required"><var>________</var> <kbd>(<em>delete this paragraph if
+no Stop Work Order was sent by the Contracting
+Authority</em>)</kbd></span>.</p>
+<p>In accordance with the unrestricted right of Canada to terminate
+the Contract in part for convenience, the Contracting Authority
+notifies the Contractor that the following part of the Contract is
+terminated pursuant to section <var>______</var>, Termination for
+Convenience, of general conditions <var>________</var>.</p>
+<p class="description">(<strong><em>Describe the part of the contract that is
+terminated</em></strong>)</p>
+<p>The Contractor must continue with the rest of the Work in
+accordance with the conditions of the Contract.</p>
+<p>The Contractor has advised that the Contractor will make no
+claim against Canada as a result of this termination. The
+Contractor agrees to release Canada, its employees and agents from
+all claims and demands arising out of this termination or out of
+anything done or omitted to be done under the Contract.</p>
+<p>The Contractor is requested to confirm its agreement with this
+termination on the above conditions by signing and returning a copy
+of this Notice to the Contracting Authority.</p>
+<p><span class="input-required"><var>______________________</var><br/>
+(Signature of the Contractor)</span></p>
+</div></pre>

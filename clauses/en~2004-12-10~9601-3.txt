@@ -1,0 +1,155 @@
+<pre><strong>9601-3 00     (2004-12-10)  Systems Integration</strong>
+
+
+<strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Total System Responsibility
+03     System Testing and Acceptance
+04     Government Property
+05     System Warranty Period
+06     System Lease Obligations
+
+
+<strong>9601-3 01     (2004-12-10)  Interpretation</strong>
+
+1.     In the Contract, unless the context otherwise requires,
+
+       "General Conditions" means general conditions 9601 or 9601-10, 
+       whichever forms part of the Contract;
+
+       "Canada", "Crown", "Her Majesty", "the Government" means Her Majesty 
+       the Queen in right of Canada;
+
+       "Ready for Use", in relation to the System, means that the System 
+       has been delivered, integrated, installed and connected, has 
+       successfully passed the Contractor's normal diagnostic tests and 
+       inspection by the Inspection Authority and is ready for 
+       Availability-level Testing of the Hardware and for all additional 
+       acceptance testing required under the Contract;
+
+       "System" means an integrated combination of Hardware, Licensed 
+       Software, Custom Software, if any, and Government Property, if any, 
+       all as described in the Contract as forming the System.  If the 
+       Contract involves the acquisition by  Canada of more than one system, 
+       then "System", as used in the Contract, means all such systems.
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these supplemental general conditions shall have the meanings 
+       assigned to them in the General Conditions.
+
+3.     Words and expressions defined in any other set of supplemental 
+       general conditions forming part of the Contract and used in these 
+       supplemental general conditions shall have the meanings assigned to 
+       them in those supplemental general conditions.
+
+4.     In the event of any inconsistency between the General Conditions and 
+       these supplemental general conditions, the applicable provisions of 
+       these supplemental general conditions shall prevail.
+
+5.     In the event of any inconsistency between these supplemental general 
+       conditions and any other set of supplemental general conditions 
+       forming part of the Contract, the applicable provisions of these 
+       supplemental general conditions shall prevail.
+
+6.     The sections of the General Conditions entitled "Title" and "
+       Warranty" do not apply to the System.  The title and warranty 
+       provisions contained in the supplemental general conditions apply in 
+       place of those sections.
+
+7.     References in these supplemental general conditions to other sets of 
+       supplemental general conditions, or to sections therein, or the use 
+       in these supplemental general conditions of words or expressions 
+       defined in other sets of supplemental general conditions, shall not 
+       be interpreted as having the effect of incorporating those other 
+       sets of supplemental general conditions, or any sections thereof, 
+       into the Contract.  Other sets of supplemental general conditions 
+       shall not form part of the Contract unless they are incorporated 
+       into the Contract by provisions contained elsewhere in the Contract.
+
+<strong>9601-3 02     (1995-03-31)  Total System Responsibility</strong>
+
+1.     Except for Government Property specifically provided for in the 
+       Contract, the Contractor shall be fully responsible for the supply 
+       of the System as a whole.
+
+2.     If the Contractor is to install the System under the Contract, the 
+       Contractor shall:
+
+       (a)    integrate and make compatible all the System components to 
+              permit the System and all its components to meet the 
+              Specifications;
+
+       (b)    supply and install all interfaces and component modifications 
+              necessary to meet the requirement specified in paragraph a; 
+              and
+
+       (c)    make the System Ready for Use.
+
+3.     In the event of any inconsistency between Specifications, the 
+       Parties agree that the specified performance criteria for the System 
+       shall prevail over the specified performance criteria for any 
+       subsystem within the System, and, similarly, for lower-tier 
+       subsystems.
+
+<strong>9601-3 03     (2004-12-10)  System Testing and Acceptance</strong>
+
+1.     If Canada intends to subject the Hardware components of the System 
+       to Availability-level Testing, then, for the purposes of section 10 
+       of supplemental general conditions 9601-4 and section 13 of 
+       supplemental general conditions 9601-2, the acceptance-testing 
+       period for the Licensed Software and any Custom Software components 
+       of the System shall be the period specified in the Contract for 
+       Availability-Level Testing of the Hardware components of the System.
+
+2.     Section 07 of supplemental general conditions 9601-1 shall apply to 
+       the System as a whole and, to that end, that section is amended by 
+       deleting the word "Hardware" wherever it appears in that section, 
+       except where it appears in paragraph 7.1(c), and substituting 
+       therefor the word "System".
+
+3.     Section 10 of supplemental general conditions 9601-4 is amended by 
+       deleting subsection 2 of that section in its entirety.
+
+<strong>9601-3 04     (1995-03-31)  Government Property</strong>
+
+1.     Where the Contractor is to incorporate Government Property into the 
+       System, the Contractor shall be responsible for the integration of 
+       the Government Property into the System and for the performance of 
+       the System as a whole, but shall not be liable under the 
+       acceptance-testing provisions of the Contract or under subsection 2 
+       for any failure of the System to meet any performance or other 
+       requirements of the Specifications caused directly by a defect in 
+       any Government Property supplied to the Contractor by or on behalf 
+       of Canada, or by a failure of any such Government Property to meet 
+       its specifications.
+
+2.     During the warranty period referred to in section 05, the Contractor, 
+       at the request of Canada to do so, shall, as soon as possible, 
+       correct any failure of the System to conform to the Specifications 
+       that is caused by improper integration into the System of any 
+       Government Property supplied to the Contractor by or on behalf of 
+       Canada.  The foregoing provision shall survive inspection and 
+       acceptance of the Work by or on behalf of Canada and does not limit 
+       any of the Contractor's other warranty obligations under the 
+       Contract.
+
+<strong>9601-3 05     (2004-12-10)  System Warranty Period</strong>
+
+Notwithstanding section 13 of supplemental general conditions 9601-4 and 
+section 14 of supplemental general conditions 9601-2, the warranty period 
+with respect to the Licensed Software and any Custom Software components of 
+the System shall be the 12-month period described in subsection 8.1 of 
+supplemental general conditions 9601-1.
+
+<strong>9601-3 06     (2004-12-10)  System Lease Obligations</strong>
+
+If the Hardware components of the System are leased by Canada under the 
+Contract, then sections 12 , 13, 14 and 19 of supplemental general 
+conditions 9601-1 shall also apply to the Licensed Software and any Custom 
+Software components of the System, and to that end, those sections are 
+amended by deleting the word "Hardware", wherever it appears in those 
+sections, and substituting therefor the word "System".
+
+
+</pre>

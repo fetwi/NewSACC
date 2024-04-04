@@ -1,0 +1,4 @@
+<pre><div class="sacc-item">
+<p>While delivery is requested by <var>________</var> , the best
+delivery that could be offered is <var>________</var> .</p>
+</div></pre>

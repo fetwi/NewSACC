@@ -1,0 +1,24 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Section <var>______</var> of general conditions
+<var>_________</var> is amended by replacing the period of
+<span class="input-required"><var>________</var> <kbd>(<em>insert the
+warranty period as stated in the general conditions</em>)</kbd></span> by
+<span class="input-required"><var>_______</var> <kbd>(<em>insert the
+revised warranty period in terms of "days" or
+"months"</em>)</kbd></span>.<br/>
+All other provisions of the warranty section remain in
+effect.</li>
+<li><strong>OR</strong>
+<h2>Clause 2</h2>
+Section <var>______</var> of supplemental general conditions
+<var>________</var> is amended by replacing the period of
+<span class="input-required"><var>______</var> <kbd>(<em>insert the
+warranty period as stated in the supplemental general
+conditions</em>)</kbd></span> by <span class="input-required"><var>_______</var> <kbd>(<em>insert the revised
+warranty period in terms of "days" or "months"</em>)</kbd></span>.<br/>
+All other provisions of the warranty section remain in
+effect.</li>
+</ul>
+</div></pre>

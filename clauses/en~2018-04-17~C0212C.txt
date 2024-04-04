@@ -1,0 +1,40 @@
+<pre><div class="sacc-item">
+<p>The Contractor will be paid as follows for on-site maintenance
+and related services performed during and outside the Principal
+Period of Maintenance for the equipment listed in Annex
+<var>_____</var> .</p>
+<h2>Labour</h2>
+<p>The Contractor will be paid for the actual hours worked at the
+firm hourly rates detailed below. The Contractor will be paid an
+initial half hour minimum charge calculated from the time the
+Contractor's technician arrives on-site. All additional chargeable
+time, over and above the first half hour, will be rounded to the
+nearest quarter hour.</p>
+<p><span class="input-required"><var>__________________________</var> <kbd>(<em>Insert details</em>)</kbd></span></p>
+<h2>Material and Replacement Parts</h2>
+<p>The material and replacement parts must be provided at the list
+price detailed in Annex <var>_____</var> , less a discount of
+<var>____</var> percent. All prices for parts and material are <abbr title="Free on Board">FOB</abbr>
+destination. Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included",
+"excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<h2>On-call Services (Wait-Time)</h2>
+<p>The Contractor will be paid for the actual hours of on-call
+period (wait time) at the firm hourly rate of $<var>_____</var>
+.</p>
+<h2>Travel and Living Expenses</h2>
+<p>There will be no travel time or travel and living expenses
+payable for services rendered within <var>____</var> kilometres
+from the Designated Service Centre listed in Annex <var>_____</var>
+.</p>
+<p>For services rendered further than <var>____</var> kilometres
+from the Designated Service Centre, the Contractor will be paid its
+actual travel time in accordance with the hourly rates detailed in
+Annex <var>____</var> .</p>
+<p>The Contractor will be reimbursed for the authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for overhead or profit, in accordance with the meal and private vehicle expense allowances specified in Appendices B, C and D of the <a href="https://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive</a>, and with the other provisions of the directive referring to "travellers", rather than those referring to "employees". Canada will not pay the Contractor any incidental expense allowance for authorized travel. </p>
+<p>All travel must have the prior authorization of the <span class="input-required"><var>_________</var> <kbd>(<em>insert "Technical" or
+"Project" or "Contracting"</em>)</kbd></span> Authority.</p>
+<p>Estimated Cost: <var>________</var>.</p>
+<p><strong>Total Estimated Cost</strong> - Limitation of
+Expenditure: <span class="input-required"><var>___________</var>
+<kbd>(<em>Applicable Taxes extra</em>)</kbd></span></p>
+</div></pre>

@@ -1,0 +1,38 @@
+<pre>Please indicate how you propose to invoice for supplies items:
+
+                                       ___________________________
+                                       | TONER |DEVELOPER| PAPER |
+                                       |___|___|____|____|___|___|
+                                       |Yes|No |Yes | No |Yes|No |
+ 1.  To be shown on the equipment      |   |   |    |    |   |   |
+ rental invoice as the cost per copy   |   |   |    |    |   |   |
+ charge shown on page 1 of Appendix    |   |   |    |    |   |   |
+ "B".                                  |   |   |    |    |   |   |
+                                  _____|___|___|____|____|___|___|
+ 2.  At time of sale on a unit-of-issue|   |   |    |    |   |   |
+ basis.                                |___|___|____|____|___|___|
+                                       |       |         |       |
+ If so, provide the following          |       |         |       |
+ information:                          |       |         |       |
+                                       |       |         |       |
+ - unit of issue (i.e., CTN, CS):      |       |         |       |
+                                       |_______|_________|_______|
+ - quantity per unit of issue          |       |         |       |
+ (i.e., lbs, btl, pkg):                |       |         |       |
+                                       |_______|_________|_______|
+ - guaranteed yield per unit of        |copies | copies  |  N/A  |
+ issue:                                |       |         |       |
+                                       |_______|_________|_______|
+ - purchase price per unit of          |       |         |       |
+ issue:                                |$______|$_______ |$______|
+                                  _____|_______|_________|_______|
+                                       |       |         |       |
+ 3.  Other - please specify:           |       |         |       |
+                                  _____|_______|_________|_______|
+
+       Note:  The supplies items cost per copy arrived at using your method 
+       of invoicing must compute to the cost per copy shown on Appendix "B".
+
+UNLESS OTHERWISE INDICATED, ALL QUOTED PRICES WILL BE CONSIDERED FIRM FOR 
+   THE TERM OF THE CONTRACT. 
+</pre>

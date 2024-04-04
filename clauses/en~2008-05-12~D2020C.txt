@@ -1,0 +1,15 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must apply, on the package, bar code
+information for item(s) <var>______</var> , with Application
+Identifier(s) <var>____</var> , using bar code symbology
+<cite><abbr title="Uniform Code Council">UCC</abbr>/<abbr title="European Article Numbering">EAN</abbr>-128</cite> (Uniform Code Council/EAN International). Below the bar
+code symbol, the Contractor must apply the Human-Readable
+Interpretation (HRI) markings.</li>
+<li value="2">The bar code marking(s) must be legible, applied to a
+printable surface or label and positioned in accordance with the
+Canadian Forces Packaging Specification <cite>D-LM-008-002/SF-001,
+Marking for Storage and Shipment</cite> (in effect at the closing date of
+the bid solicitation).</li>
+</ol>
+</div></pre>

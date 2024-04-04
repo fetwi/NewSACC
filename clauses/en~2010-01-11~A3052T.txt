@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<p>This procurement is limited to Canadian goods.</p>
+<p class="description"><strong><em>Instruction to contracting
+officers</em></strong><em>: Choose one of the following
+options</em>:</p>
+<ul class="no-markers">
+<li><blockquote>"Bidders must clearly identify beside each item listed
+in the bid solicitation document which items meet the definition of
+Canadian goods and complete the following
+certification."</blockquote></li>
+<li><strong>OR</strong><br/>
+<blockquote>"Bidders must clearly identify below which items meet the
+definition of Canadian goods and complete the certification
+below.
+<br/><var>___________</var>
+<br/><var>___________</var>
+<br/><var>___________</var> "</blockquote></li>
+</ul>
+<p>The Bidder certifies that:</p>
+<p><var title="checkbox">( )</var> the item(s) offered and
+identified as Canadian goods are Canadian goods as defined in
+paragraph 1 of clause <a href="https://buyandsell.gc.ca/policy-and-guidelines/standard-acquisition-clauses-and-conditions-manual/5/A/A3050T/active">A3050T</a>.</p>
+</div></pre>

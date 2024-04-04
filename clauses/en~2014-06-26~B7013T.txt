@@ -1,0 +1,29 @@
+<pre><div class="sacc-item">
+<h2>Option 1</h2>
+<ol type="1">
+<li value="1">Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_____</var> <kbd>(<em>insert the number of pre-production samples required</em>)</kbd></span> pre-production sample(s) two (2) meters in length, full width, accompanied by the sealed sample(s) if applicable, to the Technical Authority for acceptance within <span class="input-required"><var>___</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">Production Samples: After contract award, the successful Bidder will be required to take a production sample, two (2) meters in length, full width, from the first production run and provide it to the Technical Authority, accompanied by the sealed sample(s) if applicable, for acceptance within <span class="input-required"><var>___</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+<h2>Option 3</h2>
+<ol type="1">
+<li value="1">
+<ol type="a">
+<li>Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_____</var> <kbd>(<em>insert the number of
+pre-production samples required</em>)</kbd></span> pre-production sample(s) two (2) meters in length, full width, accompanied by the sealed sample(s) if applicable, to the Technical Authority. Bidders are required to deliver the pre-production samples for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li>If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+</li>
+<li value="2">
+<ol type="a">
+<li>Production Samples: After contract award, the successful Bidder will be required to take a production sample, two (2) meters in length, full width, from the first production run and provide it to the Technical Authority, accompanied by the sealed sample(s) if applicable, for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the
+number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li>If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

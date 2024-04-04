@@ -1,0 +1,12 @@
+<pre><div class="sacc-item">
+<p>In consideration of the Pre-contractual Work described in the
+Statement of Work at Annex <var>____</var> performed during the
+period from <span class="input-required"><var>_____</var>
+<kbd>(<i>insert start date</i>)</kbd></span> up to <span class="input-required"><var>_____</var>
+<kbd>(<i>insert date before the effective date of the
+Contract</i>)</kbd></span>, the Contractor will be paid a firm price
+of $<var>_____</var> . Customs duties are <span class="input-required"><var>________</var>
+<kbd>(<i><strong>(<em>insert</em></strong> "included", "excluded"
+<strong><em>or</em></strong> "subject to exemption"</i>)</kbd></span> and Goods and
+Services Tax or Harmonized Sales Tax is extra, if applicable.</p>
+</div></pre>

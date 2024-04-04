@@ -1,0 +1,37 @@
+<pre><div class="sacc-item">
+<h2>Professional Fees</h2>
+<p>In consideration of the Contractor satisfactorily completing all
+of its obligations under the Contract, the Contractor will be paid
+a firm price of $ <span class="input-required"><var>______</var>
+<kbd>(<em>insert amount at contract award</em>)</kbd></span>. Customs duties
+are <span class="input-required"><var>___________</var> <kbd>(<em>insert
+"included", "excluded" or "are subject to exemption"</em>)</kbd></span>
+and Applicable Taxes are extra.</p>
+<h2>Travel and Living Expenses</h2>
+<p>The Contractor will be reimbursed for the authorized travel and
+living expenses reasonably and properly incurred in the performance
+of the Work, at cost, without any allowance for overhead or profit,
+in accordance with the meal, private vehicle and incidental expense
+allowances specified in Appendices B, C and D of the <cite><a href="http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/tbm_113/menu-travel-voyage-eng.asp" rel="external">
+Treasury Board Travel Directive</a></cite>, and with the other provisions
+of the directive referring to "travellers", rather than those
+referring to "employees".</p>
+<p>All travel must have the prior authorization of the <span class="input-required"><var>________</var> <kbd>(<em>insert "Technical" or
+"Project" or "Contracting"</em>)</kbd></span> Authority. All payments are
+subject to government audit.</p>
+<p>Estimated Cost: $ <var>_______</var></p>
+<h2>Other Direct Expenses</h2>
+<p>The Contractor will be reimbursed for the direct expenses
+reasonably and properly incurred in the performance of the Work.
+These expenses will be paid at actual cost without mark-up, upon
+submission of an itemized statement supported by receipt
+vouchers.</p>
+<p>Estimated Cost: $<var>_________</var></p>
+<p><strong>Total Estimated Contract Price :</strong> <span class="input-required"><var>__________</var> <kbd>(<em>insert the sum of the
+firm price and the limitation of expenditure</em>)</kbd></span>, Applicable Taxes extra.</p>
+<h2>Option to Extend the Contract</h2>
+<p>During the extended period of the Contract, the Contractor will
+be paid the firm price of $ <span class="input-required"><var>_____</var> <kbd>(<em>insert amount at contract
+award</em>)</kbd></span> to perform all the Work in relation to the
+contract extension.</p>
+</div></pre>

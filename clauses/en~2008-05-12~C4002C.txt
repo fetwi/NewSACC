@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<p>All travel outside of a radius of <var>_____</var> kilometres of
+the immediate area of <span class="input-required"><var>_______</var> <kbd>(<em>insert
+location</em>)</kbd></span> must have the prior authorization of the
+<span class="input-required"><var>________</var> <kbd>(<em>insert
+"Project" or "Technical" or "Contracting"</em>)</kbd></span>
+Authority.</p>
+</div></pre>

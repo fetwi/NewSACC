@@ -1,0 +1,18 @@
+<pre><div class="sacc-item">
+<p>The Contractor must obtain Aircraft Hull Insurance including All Risks Flight and Ground coverage, and maintain it in force throughout the duration of the contract, in an amount of not less than
+        <var>____________</var> . The Aircraft must be insured on
+        <span class="input-required"><var>________</var> <kbd>(<em><strong>contracting
+officers must insert one of the following:</strong> "Replacement Cost
+(new)"; "Actual Cash Value (depreciated cost)"
+<strong>or</strong> "Agreed Value (appraisal)"</em>)</kbd></span> value basis.
+    </p>
+<p>The Aircraft Hull insurance policy must include the following:
+    </p>
+<ol type="a">
+<li value="1">Waiver of Subrogation: Contractor's Insurer to waive all rights of subrogation against Canada as represented by
+            <span class="input-required"><var>____________</var> <kbd>(<em>insert
+department</em>)</kbd></span> and Public Works and Government Services Canada for any and all loss of or damage to the aircraft however caused.
+        </li>
+<li value="2">Notice of Cancellation: The Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+</ol>
+</div></pre>

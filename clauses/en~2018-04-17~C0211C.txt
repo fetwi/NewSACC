@@ -1,0 +1,24 @@
+<pre><div class="sacc-item">
+<p>The Contractor will be paid firm monthly rates, in arrears, as
+follows, for the preventive and remedial maintenance services
+(including parts, labour, travel and living) performed during the
+Principal Period of Maintenance (PPM), <abbr title="Free on Board">FOB</abbr> Destination. Customs
+duties are <span class="input-required"><var>_________</var>
+<kbd>(<em><strong>insert</strong> "included" <strong>or</strong> "excluded" or "subject to
+exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p>(Insert details)</p>
+<p>The Contractor will be paid firm hourly rates, as follows, for
+maintenance services performed outside of the <abbr title="Principal Period of Maintenance">PPM</abbr> for items listed
+in Annex <var>_____</var> , <abbr title="Free on Board">FOB</abbr> Destination. Customs duties are
+<span class="input-required"><var>_______</var> <kbd>(<em><strong>insert</strong>
+"included", "excluded" <strong>or</strong> "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra, as follows:</p>
+<p>(Insert details)</p>
+<h2>Travel and Living Expenses</h2>
+<p>The Contractor will be reimbursed for the authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for overhead or profit, in accordance with the meal and private vehicle allowances specified in Appendices B, C and D of the <a href="http://www.njc-cnm.gc.ca/directive/d10/en" rel="external">National Joint Council Travel Directive </a>, and with the other provisions of the directive referring to "travellers", rather than those referring to "employees". Canada will not pay the Contractor any incidental expense allowance for authorized travel. </p>
+<p>All travel must have the prior authorization of the <span class="input-required"><var>________</var> <kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong>
+"Project" <strong>or</strong> "Contracting"</em>)</kbd></span> Authority. All payments are
+subject to government audit.</p>
+<p>Estimated Cost: $ <var>________</var></p>
+<p><strong>Total Estimated Cost</strong> - Limitation of
+Expenditure: <strong>$</strong> <span class="input-required"><var>__________</var> <kbd>(<em>Applicable Taxes extra</em>)</kbd></span></p>
+</div></pre>

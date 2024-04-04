@@ -1,0 +1,45 @@
+<pre>In the performance of the Work described herein, the Contractor shall 
+comply with the requirements of:
+
+       ISO 9001:2000 - Quality management systems - Requirements, published 
+       by the International Organization for Standardization (ISO), current 
+       edition at date of submission of Contractor's bid.
+
+It is not the intent of this clause to require that the Contractor be 
+registered to the applicable standard; however, the Contractor's quality 
+management system must address each requirement contained in the standard.
+
+<strong>Assistance for Government Quality Assurance (GQA)</strong>:
+
+The Contractor shall provide the Quality Assurance Representative (QAR) 
+with the accommodation and facilities required for the proper 
+accomplishment of GQA and shall provide any assistance required by the QAR 
+for evaluation, verification, validation, documentation or release of 
+product.
+
+The QAR shall have the right of access to any area of the Contractor's or 
+subcontractor's facilities where any part of the Work is being performed.  
+The QAR shall be afforded unrestricted opportunity to evaluate and verify 
+Contractor conformity with quality system procedures and to validate 
+product conformity with contract requirements.  The Contractor shall make 
+available for reasonable use by the QAR the equipment necessary for all 
+validation purposes.  Contractor personnel shall be made available for 
+operation of such equipment as required.
+
+When the QAR determines that GQA is required at a subcontractor's 
+facilities, the Contractor shall provide for this in the purchasing 
+document and forward copies to the QAR, together with relevant technical 
+data as the QAR may request.
+
+The Contractor shall notify the QAR of non-conforming product received from 
+a subcontractor when the product has been subject to GQA.
+
+For the design, development or maintenance of software, the Contractor 
+shall interpret the requirements of ISO 9001:2000 Quality management 
+systems - Requirements, according to the guidelines of the latest issue (at 
+contract date) of ISO/IEC 90003 Software engineering - Guidelines for the 
+application of ISO 9001:2000 to computer software.
+
+
+
+</pre>

@@ -1,0 +1,419 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#definitions">GC1.1 Definitions</a></li>
+<li><a href="#interpretations">GC1.2 Interpretations</a></li>
+<li><a href="#1-3-not-applicable">GC1.3 Not applicable</a></li>
+<li><a href="#assignment">GC1.4 Assignment</a></li>
+<li><a href="#national-or-departmental-security">GC1.5 National or Departmental Security</a></li>
+<li><a href="#conflict-of-interest">GC1.6 Conflict of Interest and Values and Ethics Codes for the Public Service</a></li>
+<li><a href="#status-of-consultant">GC1.7 Status of Consultant</a></li>
+<li><a href="#entire-agreement">GC1.8 Entire Agreement</a></li>
+<li><a href="#contingency-fees">GC1.9 Contingency Fees</a></li>
+<li><a href="#taxes">GC1.10 Taxes</a></li>
+<li><a href="#joint-and-several-liability">GC1.11 Joint and Several Liability</a></li>
+<li><a href="#1-12-not-applicable">GC1.12 Not Applicable</a></li>
+<li><a href="#integrity-provisions">GC1.13 Integrity Provisions - Contract</a></li>
+<li><a href="#international-sanctions">GC1.14 International Sanctions</a></li>
+</ul>
+</div>
+<h2 id="definitions"><span class="clauseRef">R1210D</span> GC1.1 (2015-07-03) Definitions</h2>
+<dl>
+<dt>“Administrative Agreement”</dt>
+<dd>is a negotiated agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> as provided for in the <cite><a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external">Ineligibility and Suspension Policy</a></cite>. </dd>
+<dt>“Affiliate”</dt>
+<dd>is a person, including, but not limited to, organizations, bodies corporate, societies, companies, firms, partnerships, associations of persons, parent companies or subsidiaries, whether partly or wholly-owned, as well as individuals, directors, officers and key employees if: 
+<ol start="1" type="i">
+<li>one controls or has the power to control the other, or </li>
+<li>a third party has the power to control both.</li>
+</ol>
+</dd>
+<dt>"Applicable Taxes"</dt>
+<dd>means the Goods and Services Tax (GST), the Harmonized Sales Tax (HST), and any provincial tax, by law, payable by Canada such as, the Quebec Sales Tax (QST) as of April 1, 2013;
+</dd>
+<dt>"Average Bank Rate"</dt>
+<dd>means the simple arithmetic mean of
+the Bank Rate in effect at 4:00 p.m. Eastern Time each day during
+the calendar month which immediately precedes the calendar month in
+which payment is made;</dd>
+<dt>"Bank Rate"</dt>
+<dd>means the rate of interest established from
+time to time by the Bank of Canada as the minimum rate at which it
+makes short term advances to members of the Canadian Payments
+Association;</dd>
+<dt>"Canada", "Crown", "Her Majesty" or the "Government"</dt>
+<dd>means Her Majesty the Queen in right of Canada;</dd>
+<dt>"Construction Contract"</dt>
+<dd>means a contract entered into
+between Canada and a Contractor for the construction of the
+Project;</dd>
+<dt>"Construction Contract Award Price"</dt>
+<dd>means the price at
+which a Construction Contract is awarded to a Contractor;</dd>
+<dt>"Construction Cost Estimate"</dt>
+<dd>means an anticipated
+amount for which a Contractor will execute the construction of the
+Project;</dd>
+<dt>"Construction Cost Limit"</dt>
+<dd>means that portion of the
+total amount of Project funds which shall not be exceeded on
+construction of the Project;</dd>
+<dt>"Consultant"</dt>
+<dd>means the party which submitted a
+responsive proposal which was accepted by Canada to perform the
+Consultant Services under the Agreement, and includes the officer
+or employee of the Consultant identified in writing by the
+Consultant;</dd>
+<dt>"Contracting Authority"</dt>
+<dd>means the party identified on
+the front cover page responsible for the establishment of the
+agreement, its amendments, administration and any contractual
+issues related to it;</dd>
+<dt>"Contractor"</dt>
+<dd>means a person, firm or corporation with
+whom Canada enters, or intends to enter, into a Construction
+Contract;</dd>
+<dt>"Contract Price"</dt>
+<dd>means the amount stated in the Agreement to be payable to the Consultant for the Services, exclusive of Applicable Taxes;</dd>
+<dt>“Control”</dt>
+<dd>means:
+<ol start="1" type="a">
+<li>direct control, such as where:
+<ol type="i">
+<li>a person controls a body corporate if securities of the body corporate to which are attached more than 50 percent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;</li>
+<li>a person controls a corporation that is organized on a cooperative basis if the person and all of the entities controlled by the person have the right to exercise more than 50 percent of the votes that may be cast at an annual meeting or to elect the majority of the directors of the corporation;</li>
+<li>a person controls an unincorporated entity, other than a limited partnership, if more than 50 percent of the ownership interests, however designated, into which the entity is divided are beneficially owned by that person and the person is able to direct the business and affairs of the entity;</li>
+<li>the general partner of a limited partnership controls the limited partnership; and</li>
+<li>a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.</li>
+</ol>
+</li>
+<li>deemed control, such as where: 
+<br/>a person who controls an entity is deemed to control any entity that is controlled, or deemed to be controlled, by the entity</li>
+<li>indirect control, such as where: 
+<br/>a person is deemed to control, within the meaning of paragraph (a) or (b), an entity where the aggregate of:
+<ol start="1" type="i">
+<li>any securities of the entity that are beneficially owned by that person, and</li>
+<li>any securities of the entity that are beneficially owned by any entity controlled by that person
+</li></ol>
+is such that, if that person and all of the entities referred to in paragraph (c)(ii) that beneficially own securities of the entity were one person, that person would control the entity.</li>
+</ol></dd>
+<dt>"Cost Plan"</dt>
+<dd>means the allocation of proposed costs
+among the various elements of the Project, as described in the
+Project Brief or Terms of Reference;</dd>
+<dt>"Days"</dt>
+<dd>means continuous calendar days, including
+weekends and statutory public holidays;</dd>
+<dt>"Departmental Representative"</dt>
+<dd>means the officer or
+employee of Canada identified to the consultant in writing by a
+duly authorized departmental officer to perform the Departmental
+Representative's duties under the Agreement;</dd>
+<dt>“Ineligibility”</dt>
+<dd>means a person not eligible to contract with Canada;</dd>
+<dt>"Mediation"</dt>
+<dd>is a process of dispute resolution in which a
+neutral third party assists the parties involved in a dispute to
+negotiate their own settlement;</dd>
+<dt>"Project Brief" or "Terms of Reference"</dt>
+<dd>means a
+document describing in sufficient detail the Services to be
+provided by the Consultant to permit the Consultant to proceed with
+the Services and may include general project information, scope of
+the work, site and design data, and time plan, specifically related
+to the Project;</dd>
+<dt>"Project Schedule"</dt>
+<dd>means a time plan, including the
+sequence of tasks, milestone dates and critical dates which must be
+met for the implementation of the planning, design and construction
+phases of the Project;</dd>
+<dt>"Services"</dt>
+<dd>means the services provided by the
+Consultant and the services required by the project, as set forth
+in the Agreement;</dd>
+<dt>"Specialist Consultant"</dt>
+<dd>means any Architect,
+Professional Engineer, or other specialist, other than the
+Consultant, engaged by Canada directly or, at the specific request
+of Canada, engaged by the Consultant;</dd>
+<dt>"Sub-Consultant"</dt>
+<dd>means any Architect, Professional
+Engineer, or other specialist engaged by the Consultant for the
+Services included in the Agreement;</dd>
+<dt>“Suspension”</dt>
+<dd>means a determination of temporary ineligibility by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>;</dd>
+<dt>"Technical Documentation"</dt>
+<dd>includes designs, reports,
+photographs, physical models, surveys, drawings, specifications,
+computer software developed for the purpose of the Project,
+computer printouts, design notes, calculations, <abbr title="Computer-aided Design and Drafting">CADD</abbr>
+(Computer-aided Design and Drafting) files, and other data,
+information and material, prepared, computed, drawn, or produced
+and operating and maintenance manuals either prepared or collected
+for the Project.</dd>
+<dt>"Total Estimated Cost", “Revised Estimated Cost”, “Increase (Decrease)”</dt>
+<dd>on Page 1 of the Contract or Contract Amendment means an amount used for internal administrative purposes only that comprises the Contract Price, or the revised Contract Price, or the amount that would increase or decrease the Contract Price and the Applicable Taxes as evaluated by the Contracting Authority, and does not constitute tax advice on the part of Canada.</dd>
+</dl>
+<h2 id="interpretations"><span class="clauseRef">R1210D</span> GC1.2 (2011-05-16) Interpretations</h2>
+<ol type="1">
+<li value="1">Words importing the singular only also include the
+plural, and vice versa, where the context requires;</li>
+<li value="2">Headings or notes in the Agreement shall not be
+deemed to be part thereof, or be taken into consideration in its
+interpretation;</li>
+<li value="3">"<dfn>Herein</dfn>", "<dfn>hereby</dfn>", "<dfn>hereof</dfn>", "<dfn>hereunder</dfn>" and similar
+expressions refer to the Agreement as a whole and not to any
+particular subdivision or part thereof.</li>
+</ol>
+<h2 id="1-3-not-applicable"><span class="clauseRef">R1210D</span> GC1.3 (2015-03-25)
+Not applicable</h2>
+<p>Not applicable.</p>
+<h2 id="assignment"><span class="clauseRef">R1210D</span> GC1.4 (2012-07-16) Assignment</h2>
+<ol type="1">
+<li value="1">The Agreement shall not be assigned, in whole or in
+part, by the Consultant without the prior written consent of
+Canada</li>
+<li value="2">An assignment of the Agreement without such consent
+shall not relieve the Consultant or the assignee from any obligation under the
+Agreement, or impose any liability upon Canada.</li>
+</ol>
+<h2 id="national-or-departmental-security"><span class="clauseRef">R1210D</span> GC1.5 (2011-05-16) National or Departmental Security</h2>
+<ol type="1">
+<li value="1">If the Departmental Representative is of the opinion
+that the Project is of a class or kind that involves national or
+departmental security, the Consultant may be required:
+<ol type="a">
+<li value="1">to provide any information concerning persons
+employed for purposes of the Agreement unless prohibited by
+law;</li>
+<li value="2">to remove any person from the Project and its site if
+that person cannot meet the prescribed security requirements;
+and</li>
+<li value="3">to retain the Project Technical Documentation while
+in the Consultant's possession in a manner specified by the
+Departmental Representative.</li>
+</ol>
+</li>
+<li value="2">Notwithstanding the provision of GC 4 - Intellectual
+Property, if the Project is of a class or kind that involves
+national or departmental security, the Consultant shall not issue,
+disclose, discard or use the Project Technical Documentation on
+another project without the written consent of the Departmental
+Representative.</li>
+</ol>
+<h2 id="conflict-of-interest"><span class="clauseRef">R1210D</span> GC1.6 (2011-05-16) Conflict of Interest and Values and Ethics Codes for the Public Service</h2>
+<ol type="1">
+<li value="1">The Consultant declares that the Consultant has no
+pecuniary interest in the business of any third party that would
+cause, or seem to cause, a conflict of interest in carrying out the
+Services, and should such an interest be acquired during the life
+of the Agreement, the Consultant shall declare it immediately to
+the Departmental Representative.</li>
+<li value="2">The Consultant shall not have any tests or
+investigations carried out by any persons, firms, or corporations,
+that may have a direct or indirect financial interest in the
+results of those tests or investigations.</li>
+<li value="3">The Consultant shall not submit, either directly or
+indirectly, a bid for any Construction Contract related to the
+Project.</li>
+<li value="4">The Consultant acknowledges that individuals who are
+subject to the provisions of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-36.65/" rel="external">Conflict of Interest Act</a></cite>, 2006, <abbr title="chapter">c.</abbr>
+9, s.2, the <cite>Conflict of Interest Code for Members of the House of
+Commons</cite>, the <cite>Values and Ethics Code for the Public Service</cite> or all
+other codes of values and ethics applicable within specific
+organizations cannot derive any direct benefit resulting from the
+Agreement.</li>
+<li value="5">The Consultant shall not be eligible to compete as a
+consultant or sub-consultant for a project which may result from
+the provision of the Services if the Consultant is involved in the
+development of a Project Brief or Terms of Reference, a Request for
+Proposal or similar documents for such project.</li>
+</ol>
+<h2 id="status-of-consultant"><span class="clauseRef">R1210D</span> GC1.7 (2013-01-28) Status of Consultant</h2>
+<p>The Consultant is an independent contractor engaged by Canada to
+perform the Services. Nothing in the Agreement is intended to
+create a partnership, a joint venture or an agency between Canada
+and the other party or parties. The Consultant must not represent
+itself as an agent or representative of Canada to anyone. Neither
+the Consultant nor any of its personnel is engaged as an employee
+or agent of Canada. The Consultant is responsible for all
+deductions and remittances required by law in relation to its
+employees.</p>
+<h2 id="entire-agreement"><span class="clauseRef">R1210D</span> GC1.8 (2011-05-16) Entire Agreement</h2>
+<p>The Agreement constitutes the entire arrangement between the
+parties with respect to the subject matter of the Agreement, and
+supersedes all previous negotiations, communications and other
+arrangements relating to it, unless incorporated by reference
+herein.</p>
+<h2 id="contingency-fees"><span class="clauseRef">R1210D</span> GC1.9 (2011-05-16) Contingency Fees</h2>
+<p>The Consultant certifies that it has not, directly or
+indirectly, paid or agreed to pay and agrees that it will not,
+directly or indirectly, pay a contingency fee for the solicitation,
+negotiation or obtaining of the contract to any person, other than
+an employee of the Consultant acting in the normal course of the
+employee's duties. In this section, "<dfn>contingency fee</dfn>"
+means any payment or other compensation that depends or is
+calculated based on a degree of success in soliciting, negotiating
+or obtaining the contract and "person" includes any individual who
+is required to file a return with the registrar pursuant to section
+5 of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/L-12.4/" rel="external">Lobbying Act</a></cite>, 1985, <abbr title="chapter">c.</abbr>. 44 (4th Supplement).</p>
+<h2 id="taxes"><span class="clauseRef">R1210D</span> GC1.10 (2013-04-25) Taxes</h2>
+<ol start="1" type="1">
+<li value="1">
+Federal government departments and agencies are required to pay Applicable Taxes. 
+</li>
+<li value="2">
+Applicable Taxes will be paid by Canada as provided in the invoice submission. Applicable Taxes must be specified on all invoices as a separate item along with corresponding registration numbers from the tax authorities. All items that are zero-rated, exempt or to which Applicable Taxes do not apply, must be identified as such on all invoices. It is the sole responsibility of the Consultant to charge Applicable Taxes at the correct rate in accordance with applicable legislation. The Consultant agrees to remit to appropriate tax authorities any amounts of Applicable Taxes paid or due.
+</li>
+<li value="3">
+The Consultant is not entitled to use Canada’s exemptions from any tax, such as provincial sales taxes, unless otherwise specified by law. The Consultant must pay applicable provincial sales tax, ancillary taxes, and any commodity tax, on taxable goods or services used or consumed in the performance of the Agreement (in accordance with applicable legislation), including for material incorporated into real property.
+</li>
+<li value="4">
+In those cases where Applicable Taxes, customs duties, and excise taxes are included in the Contract Price, the Contract Price will be adjusted to reflect any increase, or decrease, of Applicable Taxes, customs duties, and excise taxes that will have occurred between bid submission and contract award. However, there will be no adjustment for any change to increase the Contract Price if public notice of the change was given before bid submission date in sufficient detail to have permitted the Consultant to calculate the effect of the change.
+</li>
+<li value="5">
+Tax Withholding of 15 Percent – Canada Revenue Agency
+
+<p>Pursuant to the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html" rel="external">Income Tax Act</a></cite>, 1985, <abbr title="chapter">c.</abbr> 1 (5th Supp.) and the <cite><a href="http://laws-lois.justice.gc.ca/eng/regulations/C.R.C.,_c._945/index.html" rel="external">Income Tax Regulations</a></cite>, Canada must withhold 15 percent of the amount to be paid to the Consultant in respect of services provided in Canada if the Consultant is not a resident of Canada, unless the Consultant obtains a valid waiver from the Canada Revenue Agency. The amount withheld will be held on account for the Consultant in respect to any tax liability which may be owed to Canada.</p>
+</li>
+</ol>
+<h2 id="joint-and-several-liability"><span class="clauseRef">R1210D</span> GC1.11 (2011-05-16) Joint
+and Several Liability</h2>
+<p>If at any time there is more than one legal entity constituting
+the Consultant, their covenants under the Agreement shall be
+considered to be joint and several and apply to each and every
+entity. If the Consultant is or becomes a partnership or joint
+venture, each legal entity who is a member or becomes a member of
+the partnership or joint venture or its successors is and continues
+to be jointly and severally liable for the performance of the
+services and all the covenants of the Consultant pursuant to this
+Agreement, whether or not that entity ceases to be a member of the
+partnership, joint venture or its successor.</p>
+<h2 id="1-12-not-applicable"><span class="clauseRef">R1210D</span> GC1.12 (2015-03-25)
+Not Applicable</h2>
+<p>Not applicable.</p>
+<h2 id="integrity-provisions"><span class="clauseRef">R1210D</span> GC1.13 (2015-07-03) Integrity Provisions - Contract</h2>
+<ol start="1" type="1">
+<li>Statement<br/>
+<ol start="1" type="a">
+<li>The Consultant must comply with the <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-eng.html" rel="external">Code of Conduct for Procurement</a></cite> and must comply with the terms set out in these Integrity Provisions. </li>
+<li>The Consultant confirms that it understands that convictions of certain offences, a false declaration in its bid, a false declaration under the Contract or failing to maintain up-to-date information requested may lead to a termination for default. If the Consultant or any of its Affiliates fail to remain free and clear of any convictions and any conditional or absolute discharges specified in these Integrity Provisions during the contract period, Canada may, following a notice period, terminate for default. The Consultant understands that a termination for default will not restrict Canada’s right to exercise any other remedies that may be available against the Consultant and agrees to immediately return any advance payments. </li>
+</ol></li>
+<li>List of Names<br/>
+The Consultant must immediately inform Canada in writing of any changes affecting the list of names of directors and owners during the contract period.</li>
+<li>Information Verification<br/>
+The Consultant certifies that it is aware, and its Affiliates are aware, that Canada may verify at any time during the contract period, the information provided by the Consultant, including the information relating to the acts or convictions and any conditional or absolute discharges specified in these Integrity Provisions. Canada may request additional information, validations from a qualified third party, consent forms and other evidentiary elements proving identity and eligibility to contract with Canada.</li>
+<li>Lobbying Act<br/>
+The Consultant certifies that neither it nor its Affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Contract if the payment of the fee would require the individual to file a return under section 5 of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/L-12.4/" rel="external">Lobbying Act</a></cite>.</li>
+<li>Canadian Offences Resulting in Legal Incapacity
+<ol start="1" type="a">
+<li>The Consultant has certified that neither it nor any of its Affiliates   have been convicted of or have pleaded guilty to an offence under any of the following provisions, which result in legal incapacity under section 750(3) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/" rel="external">Criminal Code</a></cite> , and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+
+<ol start="1" type="i">
+<li>paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (<em>Fraud against Her Majesty</em>) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/f-11/" rel="external">Financial Administration Act</a></cite>, or </li>
+<li>section 121 (<em>Frauds on the government and Consultant subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/" rel="external">Criminal Code</a></cite>,or </li>
+</ol>
+</li>
+<li>the Consultant has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract under (a). </li>
+</ol>
+</li>
+<li>Canadian Offences<br/>
+
+The Consultant has certified that: 
+<ol start="1" type="a">
+<li>it and its Affiliates have not, in the last three years, from the date of contract award, been convicted of or pleaded guilty to an offence under any of the following provisions for which it would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+<ol start="1" type="i">
+<li>section 119 (<em>Bribery of judicial officers, etc</em>), section 120 (<em>Bribery of officers</em>), section 346 (<em>Extortion</em>), sections 366 to 368 (<em>Forgery and other offences resembling forgery</em>), section 382 (<em>Fraudulent manipulation of stock exchange transactions</em>), section 382.1 (<em>Prohibited insider trading</em>), section 397 (<em>Falsification of books and documents</em>), section 422 (<em>Criminal breach of contract</em>), section 426 (<em>Secret commissions</em>), section 462.31 (<em>Laundering proceeds of crime</em>) or sections 467.11 to 467.13 (<em>Participation in activities of criminal organization</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/" rel="external">Criminal Code</a></cite>, or</li>
+<li>section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), section 46 (<em>Foreign directives</em>), section 47 (<em>Bid rigging</em>), section 49 (<em>Agreements or arrangements of federal financial institutions</em>), section 52 (<em>False or misleading representation</em>), section 53 (<em>Deceptive notice of winning a prize</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-34/" rel="external">Competition Act</a></cite>, or</li>
+<li>section 239 (<em>False or deceptive statements</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/I-3.3/index.html" rel="external">Income Tax Act</a></cite>, or</li>
+<li>section 327 (<em>False or deceptive statements</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/E-15/" rel="external">Excise Tax Act</a></cite>, or</li>
+<li>section 3 (<em>Bribing a foreign public official</em>), section 4 (<em>Accounting</em>), or section 5 (<em>Offence committed outside Canada</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-45.2/" rel="external">Corruption of Foreign Public Officials Act</a></cite>, or</li>
+<li>section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-38.8/" rel="external">Controlled Drugs and Substance Act</a></cite>, or  </li>
+</ol>
+</li>
+<li>the Consultant has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would make that Affiliate ineligible for contract award.</li>
+</ol> </li>
+<li>Foreign Offences<br/>
+The Consultant has certified that: 
+<ol start="1" type="a">
+<li>it and its Affiliates have not, in the last three years, from the date of contract award, been convicted of or pleaded guilty to an offence in a jurisdiction other than Canada of having committed an act or omission that would, in Canada’s opinion, be similar to an offence referenced in the Canadian Offences Resulting in Legal Incapacity and the Canadian Offences subsections and for which it would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Foreign Pardons subsection:
+<ol start="1" type="i">
+<li>the court before which the Consultant or the Affiliate of the Consultant appeared acted within the court’s jurisdiction;</li>
+<li>the Consultant or the Affiliate of the Consultant appeared during the court’s proceedings or submitted to the court’s jurisdiction;</li>
+<li>the court’s decision was not obtained by fraud; and</li>
+<li>the Consultant or the Affiliate of the Consultant was entitled to present to the court every defence that the Consultant or the Affiliate of the Consultant would have been entitled to present had the proceeding been tried in Canada; or</li>
+</ol>
+</li>
+<li>it has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract under (a).</li>
+</ol>
+</li>
+<li>Ineligibility to Contract with Canada<br/>
+<ol start="1" type="a">
+<li>The Consultant confirms that it understands that if after contract award they have been convicted of certain offences, as described in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, they will be ineligible to contract with Canada. If, after contract award, a Consultant becomes ineligible for contract award, Canada may, following a notice period, declare the Consultant to be ineligible and, to the extent that a contract has been awarded:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or</li>
+<li>require the Consultant to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Consultant confirms that it understands that where its Affiliate has been convicted of certain offences, as described in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, the Affiliate is ineligible to contract with Canada. If, after contract award, an Affiliate of a Consultant becomes ineligible to contract with Canada, Canada may, following a notice period, declare the Consultant to be ineligible and, to the extent that a contract has been concluded:
+
+<ol start="1" type="i">
+<li>terminate the contract for default if, in the opinion of Canada, there is evidence that the Consultant directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of certain acts or offences that make that Affiliate ineligible; or </li>
+<li>require the Consultant to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Consultant confirms that it understands that where it has been declared to be ineligible to contract with Canada under the <cite><a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external">Ineligibility and Suspension Policy</a></cite>, it is also ineligible to contract with Canada under these Integrity Provisions for the duration of the period that has been determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Consultant has been declared to be ineligible under the <cite>Ineligibility and Suspension Policy</cite> after contract award, Canada may, following a notice period:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or </li>
+<li>require the Consultant to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Consultant confirms that it understands that where it or its Affiliates have been held responsible for breaches under the Lobbying Act subsection, it is ineligible to contract with Canada under these Integrity Provisions for the duration of the period that has been determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Consultant has been declared to be ineligible under the <cite><a href="http://www.tpsgc-pwgsc.gc.ca/ci-if/politique-policy-eng.html" rel="external">Ineligibility and Suspension Policy</a></cite> after contract award, Canada may, following a notice period:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or </li>
+<li>require the Consultant to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+</ol></li>
+<li>Declaration of Offences Committed<br/>
+The Consultant understands that it has a continuing obligation to immediately declare all convictions to Canada under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections.</li>
+<li>Period of Ineligibility<br/>
+The following rules determine the period for which a Consultant or its Affiliate that has been convicted of certain offences is, ineligible to contract with Canada:
+<ol start="1" type="a">
+<li>for all offences referenced under the Canadian Offences Resulting in Legal Incapacity subsection for which a Consultant or its Affiliate has pleaded guilty to or has been convicted of, the period of ineligibility to be awarded a contract is indefinite, subject to the Canadian Pardons subsection;</li>
+<li>subject to an Administrative Agreement, for all offences referenced under the Canadian Offences and Foreign Offences subsections for which a Consultant or its Affiliate has pleaded guilty to or been convicted of, as the case may be, in the last three years, the period of ineligibility to contract with Canada is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections;</li>
+<li>subject to an Administrative Agreement, for all breaches under the Lobbying Act subsection for which a Consultant or its Affiliate has been found responsible, in the last three years, the period of ineligibility to contract with Canada is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+</ol></li>
+<li>Canadian Pardons<br/>
+A determination of ineligibility to contract with Canada will not be made or maintained by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under these Integrity Provisions, in respect of an offence or act that gave rise or that could give rise to a determination of ineligibility, if the Consultant or its Affiliate has:
+<ol start="1" type="a">
+<li>been granted an absolute discharge in respect of the offence, or has been granted a conditional discharge in respect of the offence and those conditions have been satisfied;</li>
+<li>been granted a pardon under Her Majesty’s royal prerogative of mercy;</li>
+<li>been granted a pardon under section 748 of the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/C-46/" rel="external">Criminal Code</a></cite>;</li>
+<li>received a record of suspension ordered under the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/c-47/" rel="external">Criminal Records Act</a></cite>; and</li>
+<li>been granted a pardon under the <cite><a href="http://laws-lois.justice.gc.ca/eng/acts/c-47/" rel="external">Criminal Records Act</a></cite>, as that Act read immediately before the day section 165 of the <cite><a href="http://laws-lois.justice.gc.ca/eng/annualstatutes/2012_1/" rel="external">Safe Streets and Communities Act</a></cite> comes into force.</li>
+</ol> </li>
+<li>Foreign Pardons<br/>
+A determination of ineligibility to contract with Canada will not be made or maintained, as the case may be, by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> in respect of matters referenced in the Foreign Offences subsection and with respect to an offence or act that gave rise or will give rise to a determination of ineligibility, if the Consultant or its Affiliate, has at any time, benefited from foreign measures that are similar to Canadian pardons at the sole discretion of Canada, conditional discharges, absolute discharges, record of suspensions, or restoration of legal capacities by the Governor in Council.</li>
+<li>Period of Ineligibility for Breaching Administrative Agreements<br/>
+The Consultant confirms that it understands that where it has concluded an Administrative Agreement and that it has breached any of its terms and conditions, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will lengthen the period of ineligibility for a period to be determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>Obligations on Sub-consultants<br/>
+The Consultant confirms that it understands that to the extent that it relies on a sub-consultant(s) to perform the Contract, the Consultant will not enter into a subcontract with a company that has been convicted of or pleaded guilty or an Affiliate of the company has been convicted of or pleaded guilty, as the case may be, to any of the offences referenced in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections for which no pardon or equivalent has been received under the Canadian Pardons and Foreign Pardons subsections, without the prior written approval of the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Consultant has entered into a contract with an ineligible sub-consultant and for which no prior written approval has been received by Canada, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will declare the Consultant to be ineligible to contract with Canada for a period of five years.</li>
+</ol>
+<h2 id="international-sanctions"><span class="clauseRef">R1210D</span> GC1.14 (2012-07-16) International Sanctions</h2>
+<ol type="1">
+<li value="1">Persons in Canada, and Canadians outside of Canada,
+are bound by economic sanctions imposed by Canada. As a result, the
+Government of Canada cannot accept delivery of goods or services
+that originate, either directly or indirectly, from the countries
+or persons subject to <a href="http://www.international.gc.ca/sanctions/index.aspx?lang=eng" rel="external">economic
+sanctions</a>.</li>
+<li value="2">The Consultant must not supply to the Government of
+Canada any goods or services which are subject to economic
+sanctions.</li>
+<li value="3">The Consultant must comply with changes to the regulations imposed during the period of the Agreement. The Consultant must immediately advise Canada if it is unable to perform the Services as a result of the imposition of economic sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services. If the parties cannot agree on a work around plan, the Agreement will be terminated for the convenience of Canada in accordance with terms and conditions of the Agreement.</li>
+</ol>
+</div></pre>

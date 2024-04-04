@@ -1,0 +1,14 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Preservation and packaging for items
+<var>_______</var> must be in accordance with the current issue of
+<cite>United States (U.S.) Department of Defense Military Standard
+MIL-STD-2073</cite> and must be marked to <cite>MIL-STD-129</cite>.</li>
+<li value="2">Packaging data forms previously approved by <abbr title="United States">U.S.</abbr>
+authorities are acceptable.</li>
+<li value="3">Approved coded packaging data is shown immediately
+below the description of the item to which it applies. Where no
+data is shown, the Contractor must submit a packaging data form for
+approval.</li>
+</ol>
+</div></pre>

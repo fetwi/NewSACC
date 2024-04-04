@@ -1,0 +1,14 @@
+<pre><div class="sacc-item">
+<h2>Clause 1</h2>
+<p>The Contractor must provide the items detailed under the "Requirement" at Annex "<var>_____</var>".</p>
+<h2>Clause 2</h2>
+<p>The Contractor must provide the items detailed under the "Line Item Detail".</p>
+<h2>Clause 3</h2>
+<p>The Contractor must provide <span class="input-required"><var>_______</var> <kbd>(<em>fill in appropriate description of the requirement</em>)</kbd></span> in accordance with the Requirement at Annex "<var>______</var>".</p>
+<h2>Clause 4</h2>
+<p>The Contractor must provide <span class="input-required"><var>________</var> <kbd>(<em>fill in appropriate
+description of the requirement</em>)</kbd></span> in accordance with the Requirement at Annex "<var>_____</var>" and the Contractor's technical bid entitled <var>_____</var>, dated <var>_____</var>.</p>
+<h2>Clause 5</h2>
+<p>The Contractor must provide <span class="input-required"><var>________</var> <kbd>(<em>fill in appropriate
+description of the requirement</em>)</kbd></span> in accordance with the Requirement at Annex "<var>_____</var>" and the technical and management portions of the Contractor's bid entitled <var>_____</var>, dated <var>_____</var>.</p>
+</div></pre>

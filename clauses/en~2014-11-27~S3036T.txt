@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<p>If requested by the Supply Arrangement Authority, the Supplier
+must provide the following certification for each owner and
+employee who is Aboriginal:</p>
+<blockquote>
+<ol type="1">
+<li value="1">I am <span class="input-required"><var>___________</var>
+<kbd>(<em>insert "an owner" and/or "a full-time employee"</em>)</kbd></span>
+of <span class="input-required"><var>_________________</var>
+<kbd>(<em>insert name of business</em>)</kbd></span>, and an Aboriginal
+person, as defined in <a href="https://buyandsell.gc.ca/policy-and-guidelines/supply-manual/annex/9/4">Annex 9.4</a> of the <cite>Supply Manual</cite>, entitled "Requirements for the Set-aside Program for Aboriginal Business".</li>
+<li value="2">I certify that the above statement is true and
+consent to its verification upon request by Canada.
+
+<br/><var>________________________________</var>
+<br/>Printed name of owner and/or employee
+<br/><var>_____________________________</var>
+<br/>Signature of owner and/or employee
+<br/><var>___________________</var>
+<br/>Date
+</li>
+</ol></blockquote>
+</div></pre>

@@ -1,0 +1,9 @@
+<pre><div class="sacc-item">
+<ol>
+<li>The Contractor will be paid for its costs reasonably and properly incurred in the performance of the Work, in accordance with a formula to share in cost savings or in cost exceeding the target cost.</li>
+<li>The target cost is $<span class="input-required"><var>_______</var></span>. </li>
+<li>The target profit is $<span class="input-required"><var>_______</var></span>(amount of profit if actual cost equals target cost).</li>
+<li>The Contractor will receive actual cost + target profit + [<span class="input-required"><var> _______</var></span> % x (target cost – actual cost)].</li>
+</ol>
+<p>Customs duties are <span class="input-required"><var>_______</var></span> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd> and applicable taxes are extra.</p>
+</div></pre>

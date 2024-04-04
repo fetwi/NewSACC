@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li>The credit card <var>__________</var> is accepted.</li>
+<li><strong>OR</strong>
+<br/>The credit cards <var>_________</var> and <var>_________</var>
+are accepted.</li>
+</ul>
+</div></pre>

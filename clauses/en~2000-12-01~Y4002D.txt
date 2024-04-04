@@ -1,0 +1,55 @@
+<pre><div class="sacc-item">
+<h2>Dangerous Goods:</h2>
+<ol type="1">
+<li value="1">The nature, quantity and United Nations number of any
+dangerous good are to be included with each dangerous good, in
+accordance with the <cite>International Maritime Dangerous Goods Code</cite> and
+the latest <cite>International Air Transport Association
+Regulations</cite>.</li>
+<li value="2">Non-compliance with this requirement will render the
+supplier liable for any punitive action that may be taken by
+regulating authorities.</li>
+<li value="3">Documents are to be distributed as follows:
+<ol type="a">
+<li value="1">To the Canadian International Development Agency
+(CIDA), at the address to which invoices are to be forwarded:
+<ol type="1">
+<li value="1">one (1) signed copy plus one (1) unsigned copy of the air
+waybill;</li>
+<li value="2">original and four (4) copies of the commercial invoice made
+out to <abbr title="Canadian International Development Agency">CIDA</abbr>;</li>
+</ol>
+<p>The Contractor shall include the following statement on all
+invoices:</p>
+<blockquote>"We certify that prices on this invoice exclude the
+Goods and Services Tax, the Harmonized Sales Tax, sales tax,
+refundable customs duty and excise tax paid on goods or on parts
+and components incorporated in the goods."</blockquote>
+<ol type="1">
+<li value="3">five (5) copies of the packing list;</li>
+<li value="4">one (1) copy of the inspection report, if inspection is
+required by the Contract;</li>
+<li value="5">two (2) copies of the insurance certificate (when on <abbr title="Cost, insurance and freight">C.I.F.</abbr>
+air shipment basis).</li>
+</ol>
+</li>
+<li value="2">To the clearing agent (consignee if no clearing agent
+is stated in the Contract):
+<ol type="1">
+<li value="1">one (1) signed copy plus one (1) unsigned copy of the air
+waybill;</li>
+<li value="2">three (3) copies of the commercial invoice;</li>
+<li value="3">three (3) copies of the packing list;</li>
+<li value="4">two (2) copies of the insurance certificate (when on <abbr title="Cost, insurance and freight">C.I.F.</abbr>
+air shipment basis).</li>
+</ol>
+</li>
+<li value="3">To the Contracting Authority of Public Works and
+Government Services Canada: one (1) copy of the commercial
+invoice.</li>
+</ol>
+<p><strong>Payment</strong>: Against commercial invoices and
+documentation as stated above by the Comptroller, <abbr title="Canadian International Development Agency">CIDA</abbr>.</p>
+</li>
+</ol>
+</div></pre>
