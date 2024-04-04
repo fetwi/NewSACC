@@ -4,8 +4,8 @@ from bs4 import BeautifulSoup
 dir_path = os.path.dirname(os.path.realpath(__file__))
 
 # Define the source folder
-source_dir = os.path.join(dir_path, "Source")
-target_dir = os.path.join(dir_path, "Clauses")
+source_dir = os.path.join(dir_path, "source")
+target_dir = os.path.join(dir_path, "clauses")
 
 
 html_files = [f for f in os.listdir(source_dir) if f.endswith('.html')]
