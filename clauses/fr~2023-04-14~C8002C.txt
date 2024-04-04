@@ -1,0 +1,9 @@
+<pre><div class="sacc-item">
+<ol>
+<li>L’entrepreneur sera remboursé pour les coûts qu’il a raisonnablement et convenablement engagés dans l’exécution des travaux, selon une formule de partage des économies de coûts ou des coûts dépassant le coût cible.</li>
+<li>Le coût cible est de <span class="input-required"><var>_______</var></span> $.</li>
+<li>Le bénéfice cible est de <span class="input-required"><var>_______</var></span> $ (montant du bénéfice si le coût réel est égal au coût cible).</li>
+<li>L’entrepreneur recevra le montant suivant : coût réel + bénéfice cible + [<span class="input-required"><var> _______</var></span> % x (coût cible - coût réel)].</li>
+</ol>
+<p>Les droits de douane sont <span class="input-required"><var>_______</var></span> <kbd>(<em>inscrire « inclus », « exclus » ou « assujettis à des exemptions »</em>)</kbd>, et les taxes applicables sont en sus.</p>
+</div></pre>

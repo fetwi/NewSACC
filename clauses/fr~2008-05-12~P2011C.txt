@@ -1,0 +1,48 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">La portion du prix directement liée au coût
+de transaction de base du papier est assujettie à un
+rajustement de prix (augmentation ou réduction) en tout temps
+durant la période de l'offre à commandes mais pas avant
+le <span class="input-required"><var>_______</var> <kbd>(<em>insérer la date qui correspond à la fin
+de la période de 30 jours après l'émission de
+l'offre à commandes</em>)</kbd></span>. Le prix sera rajusté
+en utilisant le pourcentage de l'augmentation ou de la
+réduction annoncée qui est entrée en vigueur en
+l'appliquant au coût de transaction de base.</li>
+<li value="2">Pour demander un rajustement de prix, l'offrant doit
+fournir au responsable de l'offre à commandes un avis
+indiquant l'augmentation ou la réduction du coût de
+transaction de base du papier identifié ci-dessous. Un tel
+avis doit contenir le prix annoncé publiquement par au moins
+trois (3) fournisseurs de papier qui fournissent la catégorie
+de papier spécifiée dans l'offre à commandes et la
+date à laquelle le prix est entré en vigueur.</li>
+<li value="3">Le coût de transaction de base du papier qui est
+assujetti à un rajustement de prix est comme suit :
+<ol type="a">
+<li value="1">papier de couverture (s'il y a lieu) :
+<var>______</var> lb à un coût de transaction de base de
+<var>____</var> $ aux cent livres, et qui représente
+<var>_____</var> p. cent du ou des prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>________________</var>.</li>
+<li value="2">papier pour le texte (s'il y a lieu) : lb à un
+coût de transaction de base de <var>_____</var> $ aux cent
+livres, et qui représente <var>_____</var> p. cent du ou des
+prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>__________________</var> .</li>
+</ol>
+</li>
+<li value="4">L'offrant doit fournir une copie du prix quoté
+du ou des fournisseurs de papier afin d'appuyer le coût de
+transaction de base ci-dessus et une copie du prix quoté
+révisé du ou des fournisseurs de papier afin d'appuyer le
+rajustement du coût de transaction de base.</li>
+<li value="5">Tout rajustement de prix doit être approuvé
+par le responsable de l'offre à commandes et sera
+confirmé par une révision de l'offre à
+commandes.</li>
+</ol>
+</div></pre>

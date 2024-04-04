@@ -1,0 +1,54 @@
+<pre>1.     L'entrepreneur ou l'offrant doit détenir en permanence, pendant 
+       l'exécution du contrat ou de l'offre à commandes **, une attestation 
+       de vérification d'organisation désignée en vigueur et une cote de 
+       protection des documents approuvée au niveau PROTÉGÉ ______, de même 
+       qu'une cote Sécurité électronique des communications (COMSEC) au 
+       niveau PROTÉGÉ ______, et un compte COMSEC, délivrés par la 
+       Direction de la sécurité de la technologie de l'information de 
+       Travaux publics et Services gouvernementaux Canada (TPSGC). 
+
+2.     Les membres du personnel de l'entrepreneur ou de l'offrant devant 
+       avoir accès à des renseignements ou à des biens PROTÉGÉS, ou à des 
+       établissements de travail dont l'accès est réglementé, doivent TOUS 
+       détenir une cote de FIABILITÉ en vigueur, délivrée ou approuvée par 
+       la Direction de al sécurité industrielle canadienne (DSICI) de TPSGC.
+
+3,     Les membres du personnel de l'entrepreneur ou de l'offrant devant 
+       avoir accès à des renseignements ou à des biens COMSEC doivent 
+       participer à une séance d'information COMSEC. 
+
+4.     L'entrepreneur ou l'offrant NE DOIT PAS effectuer de travaux de 
+       traitement automatique ou électronique de données et(ou) de 
+       production au niveau PROTÉGÉ tant que la DSICI de TPSGC ne lui en 
+       aura pas donné l'autorisation par écrit.  Lorsque cette autorisation 
+       aura été délivrée, ces tâches pourront être exécutées au niveau 
+       PROTÉGÉ ______.
+
+5.     Les contrats de sous-traitance comportant des exigences relatives à 
+       la sécurité NE doivent pas être attribués sans l'autorisation écrite 
+       préalable de la DSICI de TPSGC.
+
+6.     L'entrepreneur ou l'offrant doit respecter les dispositions :
+
+       a)     de la Liste de vérification des exigences relatives à la 
+              sécurité, reproduite ci-joint à l'Annexe ________;
+
+       b)     du <em>Manuel de la sécurité industrielle</em> (dernière édition), et 
+              du<em> Guide industriel de contrôle des matériaux COMSEC</em>, émis 
+              par l'entremise de la DSICI de TPSGC. 
+
+<strong>NOTA </strong>:        Le matériel de saisie de données et les périphériques 
+              connexes portant (ou destinés à porter) la mise en garde « 
+              CRYPTO » sont soumis en permanence à des mises en garde 
+              particulières, à savoir : entreposage en vrac, sous garde 
+              dans les établissements des utilisateurs; en cours 
+              d'utilisation; ou en attente de destruction.  Le matériel de 
+              saisie de données doit être entreposé dans une armoire de 
+              sécurité approuvée et fermant à clé, dans une zone protégée 
+              par des gardiens de sécurité ou par un système de détection 
+              des intrusions lorsqu'ils sont laissés sans surveillance par 
+              un personnel du compte COMSEC ou les utilisateurs autorisés. 
+
+
+
+</pre>

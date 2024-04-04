@@ -1,0 +1,5 @@
+<pre>Il faut s'assurer que les boîtes numérotées sont placées sur les patins de 
+façon à avoir le plus petit numéro en haut, de gauche à droite, pour que le 
+numéro le plus élevé soit au fond du chargement.
+
+</pre>

@@ -1,0 +1,42 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><p>Il est recommandé que le soumissionnaire ou un
+représentant de ce dernier visite les lieux d'exécution
+des travaux. Des dispositions ont été prises pour la
+visite des lieux d'exécution des travaux, qui aura lieu le
+<span class="input-required"><var>______</var> <kbd>(<i>date</i>)</kbd></span>, à <span class="input-required"><var>______</var><kbd>(<i>heure et endroit</i>)</kbd></span>. Les soumissionnaires sont priés de
+communiquer avec l'autorité contractante <var>______</var>
+jour(s) avant la visite prévue, pour confirmer leur
+présence et fournir le nom des personnes qui assisteront
+à la visite. On pourrait demander aux soumissionnaires de
+signer une feuille de présence. Aucun autre rendez-vous ne
+sera accordé aux soumissionnaires qui ne participeront pas
+à la visite ou qui n'enverront pas de représentant. Les
+soumissionnaires qui ne participeront pas à la visite pourront
+tout de même présenter une soumission. Toute
+précision ou tout changement apporté à la demande de
+soumissions à la suite de la visite des lieux sera inclus dans
+la demande de soumissions, sous la forme d'une modification.</p></li>
+<li><p><strong>OU</strong></p>
+<p>Il est recommandé que le soumissionnaire ou un
+représentant de ce dernier visite les lieux d'exécution
+des travaux. Des dispositions ont été prises pour la
+visite des lieux d'exécution des travaux, qui aura lieu le
+<span class="input-required"><var>______</var><kbd>(<i>date</i>)</kbd></span>, à <span class="input-required"><var>_____</var> <kbd>(<i>heure et endroit</i>)</kbd></span>. Les soumissionnaires doivent communiquer avec
+l'autorité contractante au plus tard <var>_____</var> jour(s)
+avant la visite prévue, pour confirmer leur présence et
+fournir le nom des personnes qui assisteront à la visite. Les
+soumissionnaires qui ne confirmeront pas leur participation et qui
+ne fourniront pas le nom des personnes qui participeront à la
+visite se verront refuser l'accès au site. On demandera aux
+soumissionnaires de signer une feuille de présence. Aucun
+autre rendez-vous ne sera accordé aux soumissionnaires qui ne
+participeront pas à la visite ou qui n'enverront pas de
+représentant. Les soumissionnaires qui ne participeront pas
+à la visite pourront tout de même présenter une
+soumission. Toute précision ou tout changement à la
+demande de soumissions à la suite de la visite des lieux sera
+inclus dans la demande de soumissions, sous la forme d'une
+modification.</p></li>
+</ul>
+</div></pre>

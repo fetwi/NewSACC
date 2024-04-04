@@ -1,0 +1,12 @@
+<pre><div class="sacc-item">
+<h2>Option 1:</h2>
+<p>L'entrepreneur doit s'assurer qu'il reste pour l'article ou les
+  articles <span class="input-required"><var>___________</var> <kbd>(<i>insérer le numéro d'article applicable</i>)</kbd></span> 75 p. 100 de la durée de conservation autorisée selon
+  la norme <cite>ISO 2230</cite> à la date de livraison au ministère de
+  la Défense nationale.</p>
+<h2>Option 2:</h2>
+<p>L'entrepreneur doit s'assurer qu'il reste pour l'article ou les
+  articles <span class="input-required"><var>___________</var> <kbd>(<i>insérer le numéro d'article applicable</i>)</kbd></span> 75 p. 100 de la durée de conservation autorisée selon
+  la norme <cite><span lang="en-CA">CFTO D-05-001-001/SF-000h</span></cite> à la date de livraison au
+  ministère de la Défense nationale.</p>
+</div></pre>

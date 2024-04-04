@@ -1,0 +1,14 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada demande que les soumissionnaires fournissent leur soumission en sections distinctes, comme suit :
+<ol type="a">
+<li value="1">soumission technique (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques)  sur <var>____</var>  » (et préciser le média tel que CD, DVD</em></kbd>);</li>
+<li value="2">soumission financière (<var>____</var> (<kbd><i>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</i></kbd>);</li>
+<li value="3">soumission de gestion (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</em></kbd>);</li>
+<li value="4"><var>__________</var> (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</em></kbd>);</li>
+</ol>
+<p class="description"><strong>Instruction aux agents de négociation des contrats :</strong> Insérer le paragraphe suivant lorsque des copies électroniques sont requises; si des copies électroniques ne sont pas requises, supprimer le paragraphe et cette instruction.</p>
+<blockquote>En cas d'incompatibilité entre le libellé des textes, le libellé de la version papier l'emportera sur celui de la version électronique.</blockquote></li>
+<li value="2">Les prix doivent figurer dans la soumission financière seulement. Aucun prix ne doit être indiqué dans une autre section de la soumission.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,9 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Une équipe d'évaluation composée de représentants du Canada évaluera les soumissions.</li>
+<li><strong>OU</strong>
+<h2>Clause 2</h2>
+Une équipe d'évaluation composée de représentants du Canada et <span class="input-required"><var>_________</var> <kbd>(<em>inscrire le nom de l'entreprise ou du consultant</em>)</kbd></span> évaluera les soumissions.</li>
+</ul>
+</div></pre>

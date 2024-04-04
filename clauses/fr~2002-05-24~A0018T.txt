@@ -1,0 +1,20 @@
+<pre>1.     Le soumissionnaire DOIT fournir les renseignements ci-après au sujet 
+       du ou des moteurs fournis avec le matériel à l'égard duquel une 
+       offre est présentée :
+
+       a)     Fabricant
+       b)     Modèle
+       c)     Puissance :
+                     Cheval-vapeur
+                     Voltage
+                     Phase
+                     Mode d'isolement
+       d)     Vitesse
+
+       Composants électriques certifiés par un organisme accrédité par le 
+       Conseil canadien des normes :
+
+              <strong>OUI</strong>_____      <strong>NON</strong>_____
+
+
+</pre>

@@ -1,0 +1,12 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Pour être déclarée recevable, une soumission doit :
+<ol type="a">
+<li value="1">respecter toutes les exigences de la demande de soumissions;</li>
+<li value="2">satisfaire à tous les critères d'évaluation techniques obligatoires; et</li>
+<li value="3"><span class="input-required"><var>______</var> <kbd>(<em>les agents de négociation des contrats doivent insérer une des options proposées sous la section des remarques.</em>)</kbd></span></li>
+</ol>
+</li>
+<li value="2">Les soumissions ne répondant pas aux exigences de a) ou b) ou c) seront déclarées non recevables. La soumission recevable ayant obtenu le plus grand nombre de points sera recommandée pour attribution d'un contrat, pourvu que le prix total évalué n'excède pas le budget disponible pour ce besoin.</li>
+</ol>
+</div></pre>

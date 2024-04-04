@@ -1,0 +1,64 @@
+<pre><div class="sacc-item">
+<h2>Autorisation de tâches</h2>
+<p>La totalité ou une partie des travaux du contrat seront
+réalisés sur demande, au moyen d'une autorisation de
+tâches (AT). Les travaux décrits dans l'<abbr title="Autorisation de tâches">AT</abbr> doivent
+être conformes à la portée du contrat.</p>
+<p class="description"><strong>Instructions à l'intention des
+agents de négociation des contrats</strong> : Insérer le
+paragraphe suivant si plus d'un contrat est attribué.</p>
+<p></p><blockquote>Puisque plus d'un contrat a été attribué dans le
+cadre du présent besoin, on transmettra une demande
+d'exécution de tâches à l'entrepreneur classé
+au premier rang. Si ce dernier confirme, par écrit, qu'il
+n'est pas en mesure d'exécuter une tâche en raison
+d'engagements antérieurs pris dans le cadre d'une <abbr title="Autorisation de tâches">AT</abbr>, la
+demande d'exécution de tâches sera transmise à
+l'entrepreneur classé au deuxième rang. On poursuivra ce
+processus jusqu'à ce qu'un entrepreneur soit en mesure
+d'exécuter la tâche. Si aucun entrepreneur n'est en
+mesure de le faire, le Canada se réserve le droit de faire
+exécuter les travaux requis autrement. Un entrepreneur peut
+informer, par écrit, le <span class="input-required"><var>__________</var> <kbd>(<i>insérer
+responsable «  du projet  » ou «  technique
+ »</i>)</kbd></span> et l'autorité contractante qu'il n'est pas
+en mesure d'exécuter des tâches supplémentaires en
+raison d'engagements antérieurs pris dans le cadre d'une <abbr title="Autorisation de tâches">AT</abbr>.
+Dans ce cas, aucune demande d'exécution de tâches ne lui
+sera envoyée jusqu'à ce qu'il informe, par écrit, le
+<span class="input-required"><var>__________</var>
+<kbd>(<i>insérer responsable «  du projet  » ou « 
+technique  »</i>)</kbd></span> et l'autorité contractante qu'il
+est en mesure d'exécuter des tâches
+supplémentaires.</blockquote><p></p>
+<h2>Processus d'autorisation des tâches :</h2>
+<ol type="1">
+<li value="1">Le <span class="input-required"><var>__________</var>
+<kbd>(<i>insérer responsable «  du projet  » ou « 
+technique  »</i>)</kbd></span> fournira à l'entrepreneur une
+description des tâches au moyen du «  Formulaire
+d'autorisation des tâches pour les clients autres que le <abbr title="Ministère de la Défense nationale">MDN</abbr>
+ », <em>ou</em> le «  Formulaire d'autorisation des
+tâches DND 626  », <em>ou encore</em> le formulaire « 
+Autorisation de tâches  » de l'annexe <var>__</var> .</li>
+<li value="2">L'<abbr title="Autorisation de tâches">AT</abbr> comprendra les détails des activités
+à exécuter, une description des produits à livrer et
+un calendrier indiquant les dates d'achèvement des
+activités principales ou les dates de livraison des produits
+livrables. L'<abbr title="Autorisation de tâches">AT</abbr> comprendra également les bases et les
+méthodes de paiement applicables, comme le précise le
+contrat.</li>
+<li value="3">Dans les <var>___</var> jours civils suivant la
+réception de l'<abbr title="Autorisation de tâches">AT</abbr>, l'entrepreneur doit fournir au <span class="input-required"><var>_________</var> <kbd>(<i>insérer responsable
+«  du projet  » ou «  technique  »</i>)</kbd></span> le
+coût total estimatif proposé pour l'exécution des
+tâches et une ventilation de ce coût, établie
+conformément à la Base de paiement du contrat.</li>
+<li value="4">L'entrepreneur ne doit pas commencer les travaux
+avant la réception de l'<abbr title="Autorisation de tâches">AT</abbr> autorisée par <span class="input-required"><var>__________</var> <kbd>(<i>insérer le
+responsable «  du projet  » ou «  technique
+ »</i>)</kbd></span>. L'entrepreneur reconnaît que avant la
+réception d'une <abbr title="Autorisation de tâches">AT</abbr> le travail effectué sera à ses
+propres risques.</li>
+</ol>
+</div></pre>

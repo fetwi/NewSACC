@@ -1,0 +1,30 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada effectuera les paiements d'étape
+conformément au calendrier des étapes détaillé
+dans le contrat et les dispositions de paiement du contrat,
+jusqu'à concurrence de <var>____</var> p. 100 du montant
+réclamé et approuvé par le Canada si :
+<ol type="a">
+<li value="1">une demande de paiement exacte et complète en
+utilisant le formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a>, Demande de paiement progressif, et tout autre document
+exigé par le contrat ont été présentés
+conformément aux instructions relatives à la facturation
+fournies dans le contrat;</li>
+<li value="2">la somme de tous les paiements d'étape
+effectués par le Canada ne dépasse pas <var>_____</var>
+p. 100 de la totalité du montant à verser en vertu du
+contrat;</li>
+<li value="3">toutes les attestations demandées sur le
+formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a> ont été signées par les
+représentants autorisés;</li>
+<li value="4">tous les travaux associés à l'étape
+et, selon le cas, tout bien livrable exigé ont été
+complétés et acceptés par le Canada.</li>
+</ol>
+</li>
+<li value="2"><span class="input-required"><var>____________</var>
+<kbd>(<em>insérer l'option appropriée selon les indications
+fournies dans les remarques plus haut.</em>)</kbd></span></li>
+</ol>
+</div></pre>

@@ -1,0 +1,54 @@
+<pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p>L'entrepreneur sera remboursé pour les coûts qu'il a
+raisonnablement et convenablement engagés dans
+l'exécution des travaux, plus <span class="input-required"><var>_________</var> <kbd>(<i>insérer « un
+tarif fixe, » ou « un profit, »</i>)</kbd></span>
+établis conformément à la base de paiement
+<span class="input-required"><var>_________</var> <kbd>(<i>insérer
+« à l'annexe <var>_____</var> »
+ou « détaillée ci-dessous »</i>)</kbd></span>, jusqu'à un prix plafond de <span class="input-required">
+<var>______</var>$ <kbd>(<i>insérer le montant au moment
+de l'attribution du contrat</i>)</kbd></span>. Les droits de douane
+<span class="input-required"><var>_______</var> <kbd>(<i>insérer
+« sont inclus », « sont exclus » ou « font
+l'objet d'une exemption »</i>)</kbd></span> et la taxe sur les
+produits et services ou la taxe de vente harmonisée est en
+sus, s'il y a lieu.</p>
+<p>Le prix plafond est assujetti à un rajustement à la
+baisse afin de ne pas dépasser les coûts réels
+engagés raisonnablement dans l'exécution des travaux,
+établis conformément à la base de paiement.</p>
+<p class="description">(<strong><em>Insérer les détails de la base de
+paiement s'ils ne sont pas inclus dans une
+annexe</em>.</strong>)</p>
+<h2>Option 2</h2>
+<p>Pour les travaux décrits <span class="input-required"><var>_________</var> <kbd>(<i>insérer la ou les
+sections appropriées de l'énoncé des travaux ou des
+besoins auxquelles la base de paiement s'applique</i>)</kbd></span>
+<span class="input-required"><var>________</var> <kbd>(<i>insérer
+« de l'énoncé des travaux » ou « des
+besoins »</i>)</kbd></span> à l'annexe <span class="input-required"><var>____</var></span> :</p>
+<p>L'entrepreneur sera remboursé pour les coûts qu'il a
+raisonnablement et convenablement engagés dans
+l'exécution des travaux, plus <span class="input-required"><var>_________</var> <kbd>(<i>insérer « un
+tarif fixe, » ou « un profit, »</i>)</kbd></span>
+établis conformément à la base de paiement
+<span class="input-required"><var>_________</var> <kbd>(<i>insérer
+« à l'annexe <span class="input-required"><var>_____</var> »</span>
+ou « détaillée
+ci-dessous »</i>)</kbd></span>, jusqu'à un prix plafond de <span class="input-required"><var>______</var>$ <kbd>(<i>insérer le montant au moment
+de l'attribution du contrat</i>)</kbd></span>. Les droits de douane
+<span class="input-required"><var>_______</var> <kbd>(<i>insérer
+« sont inclus », « sont exclus » ou « font
+l'objet d'une exemption »</i>)</kbd></span> et la taxe sur les
+produits et services ou la taxe de vente harmonisée est en
+sus, s'il y a lieu.</p>
+<p>Le prix plafond est assujetti à un rajustement à la
+baisse afin de ne pas dépasser les coûts réels
+engagés raisonnablement dans l'exécution des travaux,
+établis conformément à la base de paiement.</p>
+<p class="description">(<strong><em>Insérer les détails de la base de
+paiement s'ils ne sont pas inclus dans une
+annexe</em>.</strong>)</p>
+</div></pre>

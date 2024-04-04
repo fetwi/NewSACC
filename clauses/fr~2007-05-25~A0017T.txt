@@ -1,0 +1,7 @@
+<pre><div class="sacc-item">
+<p>Un dépouillement public des soumissions aura lieu à
+<span class="input-required"><var>_________</var> <kbd>(<em>insérer
+l'endroit</em>)</kbd></span>, à <span class="input-required"><var>__________</var> <kbd>(<em>insérer l'heure et
+le fuseau horaire</em>)</kbd></span>, le <span class="input-required"><var>__________</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>.</p>
+</div></pre>

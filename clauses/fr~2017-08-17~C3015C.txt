@@ -1,0 +1,27 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le montant en monnaie étrangère est défini comme la portion du prix ou du taux qui varie directement en fonction des fluctuations du taux de change.  Ce montant devrait comprendre l’ensemble des taxes, des droits et des autres frais payés par la soumissionnaire et qui seront compris dans le montant de rajustement.</li>
+<li value="2">Pour chaque article pour lequel un montant en monnaie étrangère est déterminé, le Canada assume les risques et les avantages liés à la fluctuation du taux de change, conformément à la Base de paiement.  Pour ces articles, le montant de rajustement du taux de change est déterminé conformément à la disposition de la présente clause.</li>
+<li value="3">Le prix total payé par le Canada sur chaque facture sera rajusté au moment du paiement.  Le montant de rajustement du taux de change sera calculé conformément à la formule suivante :
+<br/>
+<dfn>Rajustement du taux de change</dfn> = montant en monnaie étrangère x  Qté  x  ( i<sub>1</sub> - i<sub>0</sub> ) / i<sub>0</sub>
+<br/>où les variables de la formule correspondent à :
+<dl>
+<dt><strong>Montant en monnaie étrangère</strong></dt>
+<dd>Montant en monnaie étrangère (par unité)</dd>
+<dt><strong>Qté</strong></dt> <dd>quantité d’unités</dd>
+<dt><strong>i<sub>0</sub></strong></dt> <dd>taux de change initial (<abbr title="dollars canadiens">$ CA</abbr> par unité de monnaie étrangère [par exemple 1 <abbr title="dollars américains">$ US</abbr>]) <br/>Le taux de change initial correspond au taux  de la Banque du Canada à la date de clôture de la demande de soumissions. La Banque du Canada publie ses taux chaque jour ouvrable, au plus tard à 16 h 30, heure de l’Est.</dd>
+<dt><strong>i<sub>1</sub></strong></dt><dd> taux de change aux fins du rajustement (<abbr title="dollars canadiens">$ CA</abbr> par unité de monnaie étrangère [par exemple 1 <abbr title="dollars américains">$ US</abbr>]). La Banque du Canada publie ses taux chaque jour ouvrable, au plus tard à 16 h 30, heure de l’Est.
+<ol type="a">
+<li>Le taux de change aux fins du rajustement pour les biens correspondra au taux de la Banque du Canada à la date de livraison des biens.</li>
+<li>Le taux de change aux fins du rajustement pour les services correspondra au taux de la Banque du Canada pour le dernier jour ouvrable du mois durant lequel la prestation a eu lieu.</li>
+<li>Le taux de change aux fins du rajustement pour les paiements anticipés  correspondra au taux de la Banque du Canada au dernier jour ouvrable avant le paiement. Le taux publié au dernier jour ouvrable sera utilisé pour les jours non ouvrables.</li>
+</ol>
+</dd>
+</dl>
+</li>
+<li value="4">L'entrepreneur doit indiquer les montants de rajustement du taux de change (soit à la hausse, à la baisse ou invariable) séparément sur chaque facture ou demande de paiement présentée dans le cadre du contrat. Dans le cas où un rajustement s’applique, l’entrepreneur doit joindre à sa facture le formulaire <a class="gov" href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/formulaires-forms-fra.html#f" rel="external">PWGSC-TPSGC 450<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a>, Demande de rajustement du taux de change.</li>
+<li value="5">Le rajustement du taux de change aura un impact sur le paiement effectué par le Canada uniquement lorsque la fluctuation du taux de change varie de plus de 2% (augmentation ou diminution), calculé conformément à la colonne 8 du formulaire <a class="gov" href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/formulaires-forms-fra.html#f" rel="external">PWGSC-TPSGC 450<img alt="L’information n'est accessible qu'aux fonctionnaires des ministères et organismes fédéraux." class="gov-publiserve-icon" height="16" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA0AAAANCAQAAADY4iz3AAAAEUlEQVR42mNkwAkYR6UolgIACvgADsuK6xYAAAAASUVORK5CYII=" width="20"/></a> (c’est-à-dire [i<sub>1</sub> - i<sub>0</sub>  / i<sub>0</sub>]).</li>
+<li value="6">Le Canada se réserve le droit de vérifier toute révision de coûts et prix en conformément à la présente clause.</li>
+</ol>
+</div></pre>

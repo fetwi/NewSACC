@@ -1,0 +1,7 @@
+<pre>1.     Tout matériel ayant une durée utile doit porter :
+
+       a)     la date de fabrication;
+       b)     le numéro de pièce du fabricant;
+       c)     le numéro de spécification;
+       d)     la date d'expiration de la durée utile.
+</pre>

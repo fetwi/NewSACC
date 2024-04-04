@@ -1,0 +1,17 @@
+<pre>Nom et numéro de téléphone de la personne avec qui communiquer :
+
+<strong>Renseignements généraux</strong>
+
+       Nom : _____
+       No de téléphone : _____
+       No de télécopieur : _____
+       Adresse électronique : ________
+
+<strong>Suivi de la livraison</strong> :
+
+       Nom : _____
+       No de téléphone : _____
+       No de télécopieur : _____
+       Adresse électronique : ________
+
+</pre>

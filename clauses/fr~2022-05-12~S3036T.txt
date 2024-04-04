@@ -1,0 +1,16 @@
+<pre><div class="sacc-item">
+<p>À la demande du responsable de l'arrangement en matière d'approvisionnement, le fournisseur doit fournir         l'attestation suivante pour chaque propriétaire autochtone :</p>
+<blockquote>
+<ol type="1">
+<li value="1">Je suis un propriétaire de <span class="input-required"><var>______________</var> <kbd>(<em>insérer le nom de l'entreprise</em>)</kbd></span> et autochtone, au sens de la définition de l'<a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-approvisionnements/annexe/9/4">Annexe 9.4</a> du <cite>Guide des approvisionnements</cite> intitulée « Exigences relatives au Programme de marchés réservés aux entreprises autochtones ».</li>
+<li value="2">Je certifie que l'énoncé précité est vrai et je consens à sa vérification sur demande du Services aux Autochtones Canada.
+                <br/><var>________________________________</var>
+<br/>Nom du propriétaire 
+                <br/><var>___________________________________</var>
+<br/>Signature du propriétaire 
+                <br/><var>___________________</var>
+<br/>Date
+            </li>
+</ol>
+</blockquote>
+</div></pre>

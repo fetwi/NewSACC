@@ -1,0 +1,42 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire à une police
+d'assurance responsabilité civile liée aux appareils de
+levage d'un montant équivalant à celui habituellement
+fixé pour un contrat de cette nature; toutefois, la limite de
+responsabilité ne doit pas être inférieure à
+<var>___________</var> $ par accident ou par incident et suivant le
+total annuel. La police doit assurer une garantie contre les pertes
+et les dommages à tous les biens de l'État dont
+l'entrepreneur a la garde, le contrôle ou la
+responsabilité, et ce, pendant toute la durée du contrat.
+Les biens de l'État doivent être assurés à leur
+<span class="input-required"><var>___________</var>. <kbd>(<em><strong>insérer une des bases
+d'évaluation suivantes</strong> : «  coût de
+remplacement [nouveau]  », «  valeur au jour des sinistres
+[coût non amorti]  » <strong>ou</strong> « valeur agréée [estimation] »</em>)</kbd></span>.)
+<br/>L'entrepreneur doit aviser rapidement le Canada de toute perte
+ou de tout dommage à ses biens et doit superviser, examiner et
+consigner les pertes ou les dommages pour garantir que les demandes
+d'indemnité sont correctement établies et
+payées.</li>
+<li value="2">La police d'assurance doit comprendre les
+éléments suivants :
+<ol type="a">
+<li value="1">Avis d'annulation : L'assureur s'efforcera de donner
+à l'autorité contractante un avis écrit de 30 jours
+en cas d'annulation de la police.</li>
+<li value="2">Bénéficiaire : Le Canada, selon ses
+intérêts ou ses directives, pour ce qui a trait aux
+pertes et aux dommages aux biens de l'État dont l'entrepreneur
+a la garde, le contrôle ou la responsabilité.</li>
+<li value="3">Renonciation aux droits de subrogation : L'assureur
+de l'entrepreneur doit renoncer à tout droit de subrogation
+à l'encontre du Canada, représenté par <span class="input-required"><var>________</var> <kbd>(<em>insérer le
+ministère client</em>)</kbd></span> et par Travaux publics et
+Services gouvernementaux Canada pour l'ensemble des pertes ou des
+dommages aux biens, et ce, quelle qu'en soit la cause.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

@@ -1,0 +1,21 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit s'assurer que les informations
+suivantes soient fournies en plus des marques d'identification
+requises sur l'emballage intérieur et extérieur des
+articles <var>______</var>.
+<p class="description"><strong><em>Instruction aux agents de négociation des
+contrats : Insérer </em></strong> « Pour les
+articles <var>_____</var> : » <strong><em> lorsque l'information ne
+s'applique pas à tous les articles</em></strong>.</p>
+<ol type="a">
+<li value="1"><var>________</var>.</li>
+<li value="2"><var>________</var>.</li>
+</ol>
+</li>
+<li value="2">Ces marques d'identification doivent être
+placées et appliquées conformément à la
+spécification de marquage D-LM-008-002/SF-001 des Forces
+canadiennes.</li>
+</ol>
+</div></pre>

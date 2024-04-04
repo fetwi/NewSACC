@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<p>Le Canada demande que les soumissionnaires complètent l'une
+des suivantes :</p>
+<ul class="no-markers">
+<li><var title="checkbox">( )</var> les cartes d'achat du
+gouvernement du Canada (cartes de crédit) seront
+acceptées pour le paiement des factures.
+Les cartes suivantes sont acceptées  :
+<ul>
+<li><var title="checkbox">( )</var> VISA <var>______</var></li>
+<li><var title="checkbox">( )</var> MasterCard <var>______</var>.</li>
+</ul>
+</li>
+<li><strong>OU</strong>
+<br/><var title="checkbox">( )</var> les cartes d'achat du
+gouvernement du Canada (cartes de crédit) ne seront pas
+acceptées pour le paiement des factures.</li>
+</ul>
+<p>Le soumissionnaire n'est pas obligé d'accepter les
+paiements par carte de crédit.</p>
+<p>L'acceptation du paiement par carte de crédit ne sera pas
+considérée comme un critère d'évaluation.</p>
+</div></pre>

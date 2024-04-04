@@ -1,0 +1,24 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+Les travaux doivent être réalisés durant la
+période du <span class="input-required"><var>_______</var> <kbd><strong>(<em>indiquer la date du
+début  des travaux</em>)</strong></kbd></span> au <span class="input-required"><var>_______</var> <kbd><strong>(<em>indiquer la date de la fin 
+des travaux</em>)</strong></kbd></span>.
+</li>
+<li>
+<h2>OU</h2>
+La période du contrat est à partir de la date du
+contrat jusqu'au <span class="input-required"><var>_______</var> inclusivement
+<kbd><strong>(<em>indiquer la date de la fin de la
+période</em>)</strong></kbd></span>.
+</li>
+<li>
+<h2>OU</h2>
+La période du contrat est du <span class="input-required"><var>_____</var> <kbd><strong>(<em>indiquer la date du
+début de la période</em>)</strong></kbd></span> au
+<span class="input-required"><var>_____</var> inclusivement 
+<kbd><strong>(<em>indiquer la date de la fin de la période</em>)</strong></kbd></span>.
+</li>
+</ul>
+</div></pre>

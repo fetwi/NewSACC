@@ -1,0 +1,16 @@
+<pre><div class="sacc-item">
+<p><kbd>(<em>NOTE À L’INTENTION DE L’AGENT DE NÉGOCIATION DES CONTRATS : Choisir entre les deux options ci-dessous, selon le cas.</em>)</kbd></p>
+<h2>Option 1</h2>
+<ol type="1">
+<li value="1">Échantillons de pré-production : Après l'attribution du contrat, le soumissionnaire retenu devra fournir au responsable technique <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nombre d'échantillons de pré-production exigés</em>)</kbd></span>
+échantillons de pré-production, avec le ou les échantillons scellés s'il y a lieu, en vue de l'acceptation dans les <span class="input-required"><var>_______</var> <kbd>(<em>les soumissionnaires doivent insérer le nombre de jours</em>)</kbd></span> jours civilssuivant <span class="input-required"><var>________</var><kbd>(<em>insérer « la date d'attribution du contrat » ou insérer un des éléments ou les deux éléments suivants  : « la réception du matériel fourni par le gouvernement » et(ou) « la réception de l'outillage »</em>)</kbd></span>.</li>
+<li value="2">Si le ou les premiers échantillons sont rejetés, le soumissionnaire retenu devra soumettre le ou les deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<em>les soumissionnaires doivent insérer le nombre de jours</em>)</kbd></span> jours civils suivant l'avis du rejet par le responsable technique.</li>
+</ol>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">
+Matériel disponible du gouvernement : Le soumissionnaire retenu doit acheter, dans les sept (7) jours civils suivant la date d'attribution du contrat, suffisamment de matériel de la Gendarmerie royale du Canada pour confectionner le ou les échantillons de pré-production qu'il fera approuver avant de commencer la production. 
+<br/>Échantillons de pré-production : Après l'attribution du contrat, le soumissionnaire retenu devra fournir au responsable technique <span class="input-required"><var>________</var> <kbd>(<em>insérer le nombre d'échantillons de pré-production exigés</em>)</kbd></span> échantillons de pré-production, avec le ou les échantillons scellés s'il y a lieu, en vue de l'acceptation dans les <span class="input-required"><var>______</var> <kbd>(<em>les soumissionnaires doivent insérer le nombre de jours</em>)</kbd></span> jours civils suivant <span class="input-required"><var>______</var> <kbd>(<em>insérer « la date d'attribution du contrat » ou insérer un des éléments ou les deux éléments suivants  : « la réception du matériel disponible du gouvernement » et(ou) « la réception de l'outillage »</em>)</kbd></span>.</li>
+<li value="2">Si le ou les premiers échantillons sont rejetés, le soumissionnaire retenu devra soumettre le ou les deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<em>les soumissionnaires doivent insérer le nombre de jours</em>)</kbd></span> jours civils suivant l'avis du rejet par le responsable technique.</li>
+</ol>
+</div></pre>

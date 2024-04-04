@@ -1,0 +1,6 @@
+<pre><div class="sacc-item">
+<p>Cette demande de soumissions annule et remplace la demande de
+soumissions numéro <var>_______</var> , datée du
+<var>______</var> , dont la date de clôture était le
+<span class="input-required"><var>______</var> <kbd>(<i>insérer la date de clôture</i>)</kbd></span>, à <span class="input-required"><var>_______</var> <kbd>(<i>inscrire l'heure de clôture</i>)</kbd></span>.</p>
+</div></pre>

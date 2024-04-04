@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<p>Le besoin est comme suit :</p>
+<ol type="a">
+<li value="1">le carénage, l'entretien et le réaménagement du navire <span class="input-required"><var>____________</var> <kbd>(<em>insérer le nom et la désignation du navire</em>)</kbd></span> du ministère <span class="input-required"><var>____________</var><kbd>(<em>insérer le nom du ministère</em>)</kbd></span> conformément au Besoin décrit à l'annexe
+<span class="input-required"><var>____</var> <kbd>(<em>insérer les annexes supplémentaires contenant des spécifications supplémentaires, s'il y a lieu</em>)</kbd></span>.</li>
+<li value="2">tous les travaux imprévus et approuvés qui ne sont pas mentionnés au paragraphe a) ci-dessus.</li>
+</ol>
+</div></pre>

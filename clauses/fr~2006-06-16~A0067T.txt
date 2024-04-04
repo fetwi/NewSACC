@@ -1,0 +1,11 @@
+<pre>Les soumissionnaires peuvent proposer des prix pour un seul groupe 
+d'articles ou pour plusieurs groupes d'articles indiqués ci-après.  Ils 
+doivent toutefois proposer des prix ou des taux pour tous les articles 
+faisant partie des groupes pour lesquels ils proposent des prix ou des taux.  
+Les groupes d'articles sont les suivants :
+
+a)     Groupe A : Tous les articles énumérés à l'annexe « ____ »
+b)     Groupe B : Tous les articles énumérés à l'annexe « ____ »
+c)     Groupe C : Tous les articles énumérés à l'annexe « ____ »
+d)     Groupe D : Tous les articles énumérés à l'annexe « ____ ».
+</pre>

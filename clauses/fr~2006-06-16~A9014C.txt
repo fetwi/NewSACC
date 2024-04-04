@@ -1,0 +1,5 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur doit fournir les services des personnes suivantes
+pour la réalisation des travaux indiqués dans le contrat : <span class="input-required"><var>_____</var> <kbd>(<em>insérer
+le nom des personnes</em>)</kbd></span>.</p>
+</div></pre>

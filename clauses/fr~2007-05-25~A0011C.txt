@@ -1,0 +1,22 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir un calendrier de projet détaillé sous la forme d'un <span class="input-required"><var>__________</var> <kbd>(<i>insérer « diagramme en réseau », « diagramme de<br/>
+Gantt » ou « diagramme à barres détaillé »</i>)</kbd></span> à l'autorité contractante et au <span class="input-required"><var>_______</var> <kbd>(<i>insérer «responsable technique », « chargé de projet » ou « responsable de l'inspection »</i>)</kbd></span> <span class="&lt;br"></span>
+"input-required"&gt;<var>_______</var> <kbd>(<i>insérer nombre de semaines en mots</i>)</kbd><span class="input-required"><var>_______</var> <kbd>(<i>insérer nombre de semaines en chiffres</i>)</kbd></span> semaines après l'attribution du contrat. Ce calendrier doit<br/>
+mettre en évidence les échéances précises des étapes énumérées ci-dessous et de tous les éléments mentionnés à l'annexe <var>_____</var><br/>
+.</li>
+<li value="2">Le calendrier de l'entrepreneur doit comprendre les dates d'échéances prévues pour chacune des étapes importantes suivantes :<br/>
+<ol type="a">
+<li value="1"><var>_________</var> ;</li>
+<li value="2"><var>_________</var> ;</li>
+<li value="3"><var>_________</var> ;</li>
+<li value="4"><var>_________</var> ;</li>
+<li value="5"><var>_________</var> ;</li>
+<li value="6"><var>_________</var> ;</li>
+<li value="7"><var>_________</var> .</li>
+</ol>
+<p>(<strong>Paragraphe optionnel</strong> : Les agents de négociation des contrats peuvent inclure le paragraphe suivant, mais doivent savoir que toute mise à jour du calendrier de l'entrepreneur constituerait une modification du contrat.)</p>
+</li>
+<li value="3">Le calendrier doit être mis à jour régulièrement et être disponible dans les bureaux de l'entrepreneur pour que les représentants du Canada puissent l'examiner afin d'évaluer l'avancement des travaux.</li>
+</ol>
+</div></pre>

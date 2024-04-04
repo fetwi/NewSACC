@@ -1,0 +1,938 @@
+<pre><strong>9224   00     (01/12/92)    Recherche et développement</strong>
+
+
+Approvisionnements et Services Canada
+
+01     Interprétation
+02     Pouvoirs du Ministre
+03     Situation juridique de l'entrepreneur
+04     Convention
+05     Remplacement du personnel
+06     Accès à l'ouvrage
+07     Inspection
+08     Garantie de l'entrepreneur
+09     Sécurité et protection de l'ouvrage
+10     Déclarations
+11     Sous-traitance
+12     Droit de propriété
+13     Propriété des documents techniques et des prototypes
+14     Propriété des inventions et des renseignements techniques
+15     Licence
+16     Privilèges
+17     Biens de la Couronne
+18     Respect des délais
+19     Réclamations en matière de brevet, de dessin ou de modèle industriel 
+       et de droit d'auteur
+20     Garantie contre les réclamations des tiers
+21     Résiliation, suspension, modification
+22     Inexécution du contrat
+23     Modifications
+24     Cession
+25     Fondés de pouvoir
+26     Comptes
+27     Vérification
+28     Modification des droits ou du taux d'imposition applicables
+29     Avis   
+
+
+<strong>9224   01     (01/06/91)    Interprétation</strong>
+
+
+       (1)    Dans le contrat, sauf incompatibilité avec le contexte,   
+
+              «<strong>agent d'approvisionnement scientifique</strong>» désigne le 
+              représentant du directeur de la Direction des sciences, 
+              Direction générale des sciences et des services 
+              professionnels, ministère des Approvisionnements et Services, 
+              dûment autorisé par le directeur à exécuter les fonctions et 
+              les tâches attribuées dans le contrat à l'agent 
+              d'approvisionnement scientifique, y compris «les agents de 
+              négociation des contrats scientifiques» et «les agents 
+              principaux des marchés scientifiques»;
+
+              «<strong>biens de la Couronne</strong>» désigne 
+
+              a)     tout ce qui est fourni à l'entrepreneur par le Canada 
+                     ou pour le compte de celui-ci aux fins de l'exécution 
+                     du contrat, y compris les renseignements techniques; 
+                     et
+
+              b)     tout ce qui est produit ou acquis par l'entrepreneur 
+                     d'une façon quelconque relativement à l'ouvrage et 
+                     dont le coût est acquitté par le Canada en vertu du 
+                     contrat;
+
+              «<strong>Canada</strong>», «<strong>Sa Majesté</strong>», «<strong>la Couronne</strong>» et «<strong>le Gouvernement</strong>» 
+              désignent Sa Majesté la Reine du chef du Canada;
+
+              «<strong>contrat</strong>» désigne la convention, les présentes Conditions 
+              générales, ainsi que tout autre document mentionné dans la 
+              convention comme faisant partie du contrat;
+
+              «<strong>convention</strong>» désigne le document, signé par les parties, qui 
+              se rapporte aux présentes Conditions générales;
+
+              «<strong>coût</strong>» signifie le coût déterminé par le Ministre 
+              conformément aux Principes des coûts contractuels, DSS-MAS 
+              1031-2 (révision en vigueur à la date du contrat), et toute 
+              modification apportée dans la convention;
+
+              «<strong>dans les présentes</strong>», «<strong>par les présentes</strong>», «<strong>des présentes</strong>», «<strong>
+              en vertu des présentes</strong>» et autres expressions analogues 
+              employées dans un article quelconque visent l'ensemble du 
+              contrat et non pas le seul article dans lequel elles se 
+              trouvent;
+
+              «<strong>délégué scientifique</strong>» désigne la personne nommée comme telle 
+              dans le contrat pour agir comme représentant du ministre ou 
+              des ministres pour le ministère ou l'organisme duquel ou 
+              desquels l'ouvrage est exécuté, ou son mandataire dûment 
+              autorisé;
+
+              «<strong>documentation technique</strong>» signifie tout renseignement de 
+              nature scientifique ou technique ayant trait à l'ouvrage, y 
+              compris tout rapport technique, étude, photographie, dessin, 
+              plan, devis et logiciel, susceptible ou non d'être protégé 
+              par le droit d'auteur;
+
+              «<strong>entrepreneur</strong>» désigne la partie contractante qui s'engage à 
+              exécuter l'ouvrage;
+
+              «<strong>fourniture</strong>» signifie toute documentation technique, tous 
+              renseignements techniques et tout prototype, bien ou service  
+              que l'entrepreneur est expressément tenu de fournir pour 
+              remplir ses obligations aux termes du contrat;
+
+              «<strong>invention</strong>» désigne toute réalisation, procédé, méthode, 
+              technique, machine, fabrication, ou composition de matière, 
+              nouvelles ou utiles, et tout perfectionnement de l'une de 
+              celles-ci présentant un caractère de nouveauté et d'utilité, 
+              qu'elles soient ou non brevetables;
+ 
+              «<strong>Ministre</strong>» désigne le ministre des Approvisionnements et 
+              Services, y compris son sous-ministre ainsi que tout 
+              sous-ministre adjoint et tout représentant dûment autorisé du 
+              Ministre;
+
+              «<strong>ouvrage</strong>» désigne l'ensemble des travaux et services que 
+              l'entrepreneur doit exécuter ou fournir pour remplir ses 
+              obligations aux termes du contrat, notamment les fournitures, 
+              les travaux de recherche et développement ainsi que les 
+              travaux scientifiques connexes décrits dans le cahier des 
+              charges contenu dans la convention.
+
+              «<strong>prix contractuel</strong>» signifie le montant spécifié dans le 
+              contrat comme étant la somme payable à l'entrepreneur pour 
+              l'ouvrage;
+
+              «<strong>prototypes</strong>» désigne un prototype, un modèle, une maquette ou 
+              un échantillon;
+
+              «<strong>renseignements techniques</strong>» signifie les renseignements de 
+              nature scientifique ou technique concernant l'ouvrage, y 
+              compris les données expérimentales et d'essai, les techniques, 
+              les méthodes, les procédés, le savoir-faire, les inventions, 
+              les rubans magnétiques, les imprimés d'ordinateur ou les 
+              données emmagasinées dans une mémoire d'ordinateur, et toute 
+              autre donnée technique, sous quelque forme que ce soit et 
+              susceptible ou non d'être protégée par le droit d'auteur;
+
+              «<strong>sous-traitant</strong>» désigne toute personne physique ou morale, 
+              (autre qu'un employé de l'entrepreneur) à qui, dans le cadre 
+              du présent contrat, l'entrepreneur a adjugé un contrat visant 
+              l'exécution de l'ouvrage ou d'une partie de l'ouvrage, y 
+              compris un sous-traitant d'un sous-traitant;
+
+       (2)    En cas d'incompatibilité, les dispositions de la convention 
+              prévalent sur les présentes Conditions générales.
+
+<strong>9224   02     (01/06/91)    Pouvoirs du Ministre</strong>
+
+
+       Les droits ou pouvoirs conférés au Ministre par le contrat ou 
+       autrement sont cumulatifs et non limitatifs.
+
+<strong>9224   03     (01/06/91)    Situation juridique de l'entrepreneur</strong>
+
+
+       Le présent contrat est conclu en vue de l'exécution de travaux de 
+       recherche et développement, de travaux scientifiques connexes ainsi 
+       que de l'ouvrage. L'entrepreneur est engagé à titre d'entrepreneur 
+       indépendant aux seules fins d'exécuter l'ouvrage. Ni l'entrepreneur 
+       ni son personnel n'est engagé à titre d'employé, de préposé ou de 
+       mandataire du Canada. C'est à l'entrepreneur seul qu'incombe la 
+       charge d'effectuer les retenues et remises nécessaires, notamment 
+       aux fins du Régime de pensions du Canada ou du Régime des rentes du 
+       Québec, de l'assurance-chômage, de l'indemnisation des victimes 
+       d'accidents du travail ou de l'impôt sur le revenu.
+
+<strong>9224   04     (01/06/91)    Convention</strong>
+
+
+       Le contrat constitue l'intégralité de l'entente conclue entre les 
+       parties relativement à l'objet du contrat et remplace toutes les 
+       négociations, communications et autres conventions, écrites ou 
+       verbales, s'y rapportant, qui ne sont pas expressément incorporées 
+       au contrat. Seuls sont applicables les modalités, obligations, 
+       engagements, déclarations, stipulations et conditions qui figurent 
+       dans les présentes.
+ 
+<strong>9224   05     (01/06/91)    Remplacement du personnel</strong>
+
+
+       (1)    L'entrepreneur doit fournir les services des employés nommés 
+              dans le contrat pour exécuter l'ouvrage à moins qu'il n'en 
+              soit incapable pour des raisons indépendantes de sa volonté.
+
+       (2)    S'il est impossible à l'entrepreneur de fournir leurs 
+              services à un moment quelconque, il doit fournir des 
+              remplaçants qui possèdent des aptitudes et des titres et 
+              qualités similaires, et qui sont reconnus acceptables par le 
+              délégué scientifique ainsi que l'agent d'approvisionnement 
+              scientifique. Dans la mesure du possible, l'entrepreneur doit, 
+              au moins trente (30) jours avant la date d'entrée en 
+              fonctions des remplaçants, fournir par écrit au délégué 
+              scientifique ainsi qu'à l'agent d'approvisionnement 
+              scientifique :
+
+              a)     la raison pour laquelle les employés nommés dans le 
+                     contrat ne peuvent pas exécuter l'ouvrage;
+
+              b)     le nom des remplaçants proposés; et   
+
+              c)     les titres et qualités ainsi que l'expérience des 
+                     remplaçants proposés.
+
+       (3)    L'entrepreneur ne doit, en aucun cas, permettre à des 
+              personnes non autorisées d'exécuter l'ouvrage.
+
+       (4)    L'acceptation d'un remplaçant par le délégué scientifique et 
+              l'agent d'approvisionnement scientifique ne dégage aucunement 
+              l'entrepreneur de sa responsabilité en cas de non-respect des 
+              exigences du contrat.
+
+<strong>9224   06     (01/06/91)    Accès à l'ouvrage</strong>
+
+
+       (1)    Le Ministre et le délégué scientifique peuvent, à tout moment 
+              raisonnable, avoir accès à l'ouvrage de même qu'aux locaux où 
+              quelque élément de l'ouvrage est exécuté, et peuvent procéder 
+              aux examens et aux essais de l'ouvrage qu'ils estiment 
+              appropriés. L'entrepreneur s'engage à fournir l'aide dont le 
+              Ministre ou le délégué scientifique peuvent raisonnablement 
+              avoir besoin pour effectuer ces examens et essais.
+
+       (2)    L'entrepreneur s'engage à aviser l'agent d'approvisionnement 
+              scientifique et le délégué scientifique, avant qu'il ne soit 
+              procédé aux épreuves, essais ou examens critiques de 
+              l'ouvrage prévus par le contrat, de la date et de l'endroit 
+              spécifiques de ces épreuves, essais ou examens.
+
+<strong>9224   07     (01/06/91)    Inspection</strong>
+
+
+       (1)    Toutes les fournitures livrées ou remises aux termes du 
+              contrat doivent faire l'objet d'une inspection par le délégué 
+              scientifique avant leur acceptation.
+
+       (2)    Si une fourniture ou une partie de celle-ci n'est pas 
+              conforme aux exigences du contrat, le délégué scientifique 
+              est en droit de la refuser, ou d'en exiger la rectification.
+
+       (3)    L'entrepreneur doit se conformer à l'interprétation 
+              raisonnable du délégué scientifique quant au cahier des 
+              charges établi dans le contrat.
+
+       (4)    L'inspection ou l'acceptation ne dégage pas l'entrepreneur de 
+              sa responsabilité en cas de non-respect des exigences du 
+              contrat.
+ 
+<strong>9224   08     (01/06/91)    Garantie de l'entrepreneur</strong>
+
+
+       (1)    L'entrepreneur garantit sa capacité d'exécuter l'ouvrage visé 
+              par le contrat, c'est-à-dire qu'il possède les qualités 
+              requises, y compris les connaissances, les compétences et 
+              l'aptitude nécessaires pour exécuter efficacement l'ouvrage.
+
+       (2)    L'entrepreneur s'engage à exécuter les travaux de manière 
+              consciencieuse, diligente et efficace, ainsi qu'à assurer un 
+              service de qualité au moins égale à celle à laquelle les 
+              entrepreneurs en général s'attendraient d'un entrepreneur 
+              semblable dans une situation analogue.
+
+       (3)    Nonobstant l'acceptation des fournitures ou d'une partie 
+              quelconque de celles-ci, l'entrepreneur garantit en outre que 
+              la qualité des fournitures montrera clairement que 
+              l'entrepreneur a exécuté l'ouvrage conformément au susdit 
+              engagement.
+
+       (4)    Nonobstant l'acceptation antérieure de prototypes, et sans 
+              que soit restreinte la portée d'aucun autre article du 
+              contrat, ni aucune condition, garantie ou disposition 
+              prescrite par la loi, l'entrepreneur est tenu, si le Ministre 
+              en fait la demande dans les douze (12) mois de la date de 
+              livraison, de refaire, de réviser ou de réparer à ses frais 
+              tout prototype (à l'exclusion de biens de la Couronne fournis 
+              par le Canada qui y sont incorporés) qui déroge aux exigences 
+              du contrat, et de le livrer refait, révisé ou réparé au 
+              délégué scientifique. Toutefois, si le Ministre juge 
+              inopportun de déplacer un prototype qui déroge aux exigences 
+              du contrat, l'entrepreneur doit le réparer sur place et a 
+              droit au remboursement des frais réels ainsi engagés (y 
+              compris des frais de subsistance et de déplacement 
+              raisonnables), sans allocation au titre des frais généraux ou 
+              des profits, moins l'équivalent du montant qu'aurait coûté la 
+              réparation du prototype si elle avait eu lieu à l'usine de 
+              l'entrepreneur.
+
+       (5)    Au cas où une garantie donnée par un fournisseur à 
+              l'entrepreneur serait d'une durée inférieure à la période 
+              mentionnée au paragraphe (4), la période de garantie 
+              susmentionnée s'applique, à moins que l'entrepreneur n'en ait 
+              informé par écrit, le délégué scientifique et l'agent 
+              d'approvisionnement scientifique avant de l'accepter.
+
+<strong>9224   09     (01/04/92)    Sécurité et protection de l'ouvrage</strong>
+
+
+       (1)    L'entrepreneur doit garder secrète l'information que lui 
+              fournit directement ou indirectement le Canada relativement à 
+              l'ouvrage et celle qu'il met au point à l'occasion de 
+              l'exécution de cet ouvrage. Il ne doit divulguer cette 
+              information à un tiers qu'avec l'autorisation écrite du 
+              Ministre.  L'entrepreneur peut cependant divulguer à un 
+              sous-traitant autorisé, conformément au présent contrat, 
+              l'information nécessaire à l'exécution du contrat de 
+              sous-traitance.  Le présent article ne s'applique pas aux 
+              informations suivantes :
+
+              a)     celles qui sont mises à la disposition du public par 
+                     une autre source que l'entrepreneur;
+
+              b)     celles qui sont communiquées à l'entrepreneur par une 
+                     autre source que le Canada, sauf lorsque 
+                     l'entrepreneur sait que cette source s'est engagée 
+                     envers le Canada à ne pas divulguer l'information.
+
+       (2)    Lorsque le contrat, l'ouvrage ou une information mentionnée 
+              au paragraphe (1) font l'objet de la mention TRES SECRET, 
+              SECRET, CONFIDENTIEL ou PROTEGE établie par le Canada, 
+              l'entrepreneur doit, en tout temps, prendre les mesures qui 
+              sont raisonnablement nécessaires pour assurer leur protection, 
+              notamment celles prévues par le Manuel de la sécurité 
+              industrielle du ministère des Approvisionnements et Services 
+              et ses suppléments ainsi que par toute autre directive du 
+              Ministre. 
+       (3)    Sans restreindre la généralité des paragraphes (1) et (2), 
+              lorsque le contrat, l'ouvrage ou une information mentionnée 
+              au paragraphe (1) font l'objet de la mention TRES SECRET, 
+              SECRET, CONFIDENTIEL ou PROTEGE établie par le Canada, le 
+              Ministre aura le droit, à des fins de sécurité et à tout 
+              moment pendant la durée du contrat, d'inspecter les locaux de 
+              l'entrepreneur ou d'un sous-traitant, à tout échelon de la 
+              sous-traitance, et l'entrepreneur sera tenu de se conformer 
+              et de faire en sorte que tout sous-traitant se conforme aux 
+              directives écrites du Ministre relativement à tout ce qui 
+              fait l'objet d'une telle mention, notamment en exigeant que 
+              ses employés ou ceux d'un sous-traitant signent une 
+              déclaration concernant les vérifications de la fiabilité, les 
+              autorisations de sécurité et autres mesures.
+
+<strong>9224   10     (01/06/91)    Déclarations</strong>
+
+
+       (1)    L'entrepreneur doit observer toutes les conditions de travail 
+              et toutes les conditions et règles d'hygiène applicables à 
+              l'ouvrage.
+
+       (2)    L'entrepreneur déclare qu'il n'a, dans les affaires d'un 
+              tiers, aucun intérêt qui causerait ou semblerait causer un 
+              conflit d'intérêts relativement à l'exécution de l'ouvrage. 
+              Si, au cours de l'exécution du contrat, l'entrepreneur 
+              acquiert de tels intérêts, il s'engage à en avertir 
+              immédiatement l'agent d'approvisionnement scientifique.
+
+       (3)    L'entrepreneur garantit
+
+              a)     qu'il n'a versé, donné, promis ni offert aucun 
+                     pot-de-vin, cadeau ou autre avantage à qui que ce soit, 
+                     en raison ou en vue de l'adjudication du contrat;
+
+              b)     qu'il n'a employé personne pour solliciter ou obtenir 
+                     le  contrat, moyennant promesse d'une commission, d'un 
+                     pourcentage, de frais de courtage ou d'une 
+                     gratification éventuelle.
+
+       (4)    Aucun membre de la Chambre des communes n'est admis à 
+              participer au contrat, ni aux avantages qui en découlent.
+
+<strong>9224   11     (01/06/91)    Sous-traitance</strong>
+
+
+       (1)    L'entrepreneur peut confier à des sous-traitants la 
+              fourniture de produits ou de services ordinaires qu'il confie 
+              habituellement à des sous-traitants; dans tout autre cas, il 
+              ne peut confier une partie quelconque de l'ouvrage à un 
+              sous-traitant sans avoir obtenu le consentement préalable 
+              écrit du Ministre, qui peut exiger que l'entrepreneur lui 
+              fournisse les détails qu'il juge nécessaires à propos de la 
+              sous-traitance proposée.
+
+       (2)    Aucune sous-traitance ne soustrait l'entrepreneur à l'une ou 
+              l'autre de ses obligations en vertu du contrat, ni n'a pour 
+              effet de rendre le Canada ou le Ministre responsable envers 
+              un sous-traitant.
+
+       (3)    Sauf exception stipulée ou consentie par le Ministre, 
+              l'entrepreneur s'engage à imposer à tout sous-traitant du 
+              contrat les mêmes conditions et modalités auxquelles il est 
+              soumis en vertu du contrat.
+
+<strong>9224   12     (01/12/92)    Droit de propriété</strong>
+
+
+       Lorsque l'entrepreneur reçoit un paiement, y compris un paiement 
+       partiel ou une avance comptable, à l'égard de matériaux, d'un 
+       ouvrage en cours ou de fournitures finies, le droit de propriété sur 
+       tout matériaux, équipement, machinerie, appareil, système ou tout 
+       autre bien tangible ainsi payé est dévolu au Canada et 
+       l'entrepreneur en est responsable conformément aux dispositons de 
+       l'article 17 des présentes. La dévolution au Canada du droit de 
+       propriété sur les matériaux, l'équipement, la machinerie, l'appareil, 
+       le système ou tout autre bien tangible ne constitue pas une 
+       acceptation de ceux-ci par le Canada, ni ne décharge l'entrepreneur 
+       de son obligation d'exécuter l'ouvrage conformément aux exigences du 
+       contrat. 
+
+<strong>9224   13     (01/04/92)    Propriété des documents techniques et des 
+                            prototypes </strong>
+
+       (1)    Sauf indication contraire prévue au contrat, tous les 
+              documents techniques produits par l'entrepreneur lors de 
+              l'exécution des travaux prévus au contrat sont, à compter de 
+              leur production, dévolus à l'entrepreneur et demeurent sa 
+              propriété. L'entrepreneur doit en rendre compte exact au 
+              Ministre et divulguer entièrement au Ministre tout document 
+              technique produit par l'entrepreneur au cours de l'exécution 
+              des travaux à la fin des travaux ou à tout autre moment fixé 
+              par le Ministre ou prévu au contrat. 
+
+       (2)    Le droit de propriété sur tout prototype produit par 
+              l'entrepreneur lors de l'exécution des travaux est, à compter 
+              de sa production, dévolu au Canada et l'entrepreneur doit en 
+              rendre compte exact au Ministre conformément aux instructions 
+              de celui-ci.
+
+<strong>9224   14     (01/04/92)    Propriété des inventions et des</strong> <strong>renseignements 
+                            technique </strong>
+
+       (1)    L'entrepreneur s'engage à établir et à appliquer des méthodes 
+              actives et efficaces, notamment à tenir les dossiers jugés 
+              nécessaires, aux fins de documenter la conception et la mise 
+              au point des inventions, afin que toute invention découlant 
+              de l'exécution de l'ouvrage soit convenablement identifiée et 
+              promptement divulguée au Canada et l'entrepreneur doit 
+              acheminer sans délai, par écrit, toute divulgation 
+              d'invention et de renseignements techniques à l'agent 
+              d'approvisionnement scientifique, sous la forme que celui-ci 
+              juge acceptable.
+
+       (2)    Sauf indication contraire prévue au contrat et à la condition 
+              que l'entrepreneur divulgue toute invention et renseignements 
+              techniques conformément au paragraphe (1), tous les 
+              renseignements techniques et inventions conçus ou mis au 
+              point ou réellement mis en pratique pour la première fois 
+              lors de l'exécution de l'ouvrage prévu au contrat sont, une 
+              fois conçus, mis au point ou mis en pratique, dévolus à 
+              l'entrepreneur et demeurent sa propriété. Avant que 
+              l'entrepreneur divulgue au Canada tout renseignement 
+              technique ou invention conformément au paragraphe (1), il ne 
+              doit pas, sans la permission écrite du Ministre, en céder ou 
+              autrement en transférer le droit de propriété, accorder une 
+              licence ou autrement en permettre l'utilisation par une autre 
+              personne. Si l'entrepreneur néglige de divulguer les 
+              renseignements techniques et inventions conformément au 
+              paragraphe (1) ou si le contrat est résilié par le Canada 
+              pour inexécution de la part de l'entrepreneur conformément à 
+              l'article 22 (Défaut), le Ministre peut exiger que le droit 
+              de propriété sur tout renseignement technique et invention 
+              conçu, mis au point ou mis en pratique pour la première fois 
+              lors de l'exécution du contrat soit dévolu, en totalité ou en 
+              partie, au Canada et l'entrepreneur devra rendre exécutoire, 
+              à ses frais, tout document de cession ou tout autre document 
+              ayant trait au titre que pourra exiger le Ministre. 
+              L'entrepreneur devra de plus, aux frais du Canada, fournir au 
+              Ministre toute aide raisonnable dans l'acheminement de toute 
+              demande de brevet ou d'enregistrement de droit d'auteur ou de 
+              dessin industriel, y compris l'aide de l'inventeur s'il 
+              s'agit d'une invention.
+
+       (3)    Avant et après le paiement final prévu par les présentes, le 
+              Ministre aura le droit d'examiner tous les livres, dossiers, 
+              documents et autres données qu'il juge raisonnablement 
+              pertinents, relativement à la découverte ou à 
+              l'identification des inventions et renseignements techniques 
+              découlant de l'exécution de l'ouvrage en vertu du contrat, ou 
+              afin de déterminer si l'ouvrage est conforme aux exigences du 
+              contrat. 
+ 
+       (4)    A la demande écrite du Ministre, l'entrepreneur doit fournir, 
+              dans la mesure du possible sans frais supplémentaires pour le 
+              Canada, toutes les données logistiques et les données de 
+              cycle de vie relatives à l'ouvrage, y compris les listes de 
+              fournisseurs, les numéros de pièces et les plans connexes.
+
+       (5)    Sauf exception stipulée ou consentie par le Ministre, pour 
+              tout transfert de titre de propriété, toute cession ou lors 
+              de l'octroi d'une licence permettant l'utilisation de toute 
+              documentation technique, invention et renseignements 
+              techniques, l'entrepreneur doit exiger de l'autre partie le 
+              respect de toute obligation envers le Canada imposée par le 
+              présent contrat ainsi que toute restriction sur l'utilisation 
+              ou la disposition de la propriété intellectuelle prévue au 
+              présent contrat.
+
+
+<strong>9224   15     (01/12/92)    Licence</strong>
+
+
+       (1)    L'entrepreneur accorde par les présentes au Canada, 
+              relativement à toute documentation technique, invention et 
+              renseignements techniques produits, conçus, mis au point ou 
+              mis en pratique pour la première fois lors de l'exécution de 
+              l'ouvrage prévu au contrat,  une licence non exclusive, 
+              irrévocable, de portée mondiale, entièrement payée et libre 
+              de redevance pour utiliser ou faire utiliser, fabriquer ou 
+              faire fabriquer, copier, traduire, mettre en application ou 
+              produire ladite documentation technique, invention et lesdits 
+              renseignements techniques, ainsi que tout renseignement 
+              appartenant à l'entrepreneur incorporé à l'ouvrage par 
+              l'entrepreneur ou nécessaire dans l'exécution de l'ouvrage, 
+              pour toute fin gouvernementale, sauf la vente commerciale en 
+              concurrence avec l'entrepreneur. L'entrepreneur reconnait que 
+              le Canada pourrait vouloir attribuer des contrats en régime 
+              de concurrence ayant trait à l'utilisation des travaux 
+              réalisés en vertu du présent contrat ou pour l'élaboration 
+              ultérieure de ces travaux et l'entrepreneur convient que la 
+              licence accordée au Canada relativement à l'utilisation de la 
+              propriété intellectuelle comprend le droit d'accorder des 
+              sous-licences pour l'utilisation de la documentation 
+              technique, d'une invention et des renseignements techniques 
+              aux seules fins d'exécution de contrats pour le Canada à tout 
+              autre entrepreneur dont les services auront été retenus par 
+              le Canada. Toute sous-licence accordée par le Canada à un 
+              autre entrepreneur doit exiger de cet entrepreneur qu'il 
+              protège la confidentialité de la propriété intellectuelle. 
+              L'entrepreneur convient de plus que le Canada pourra 
+              divulguer les renseignements techniques à d'autres 
+              gouvernements uniquement à titre d'information.
+
+       (2)    Dans tous les cas où cela est pratique, l'entrepreneur devra 
+              marquer ou identifier toute documentation technique, 
+              invention, renseignements techniques et toute autre 
+              information appartenant à l'entrepreneur fournis au Canada en 
+              vertu du contrat comme suit: Propriété de (nom de 
+              l'entrepreneur).  le Canada ne sera pas responsable de toute 
+              utilisation ou divulgation de toute information qui aurait pu 
+              être ainsi marquée ou identifiée mais qui ne l'a pas été.
+
+<strong>9224   16     (01/12/92)    Privilèges</strong>
+
+
+       (1)    Au cas où un privilège aux termes de l'article 427 de la Loi 
+              sur les banques, ou tout autre privilège, charge ou servitude, 
+              grèverait des matériaux, un ouvrage en cours ou des 
+              fournitures finies à l'égard desquels l'entrepreneur réclame 
+              ou a l'intention de réclamer un paiement, l'entrepreneur 
+              s'engage à en informer le Ministre sur-le-champ et, sauf 
+              instruction contraire du Ministre, s'engage :
+
+              a)     à faire lever ce droit immédiatement par la banque et 
+                     à fournir au Ministre une confirmation écrite de la 
+                     banque à cet égard; ou  
+ 
+              b)     à fournir ou à obtenir que soit fourni immédiatement 
+                     au Ministre un engagement de la banque envers le 
+                     Ministre par lequel la banque s'interdit, aux termes 
+                     de l'article 427 de la Loi sur les banques, de faire 
+                     toute réclamation sur les matériaux, travaux en cours 
+                     ou fournitures finies, pour lesquels des paiements 
+                     sont faits à l'entrepreneur aux termes du contrat.
+
+       (2)    Le défaut d'informer le Ministre d'un privilège quelconque ou 
+              le défaut de se conformer aux alinéas a) et b) du présent 
+              article constitue une inexécution de la part de 
+              l'entrepreneur.
+
+<strong>9224   17     (01/06/91)    Biens de la Couronne</strong>
+
+
+       (1)    L'entrepreneur ne doit utiliser les biens de la Couronne que 
+              pour les fins du contrat, et ces biens demeurent en tout 
+              temps la propriété du Canada.
+
+       (2)    En guise de preuve à cet effet, l'entrepreneur doit, sur 
+              réception de ces biens et lorsque la chose est possible, 
+              inscrire le numéro de série du contrat sur chacun des biens 
+              de la Couronne (autres que les biens fournis par le Canada, 
+              ou installés ou incorporés dans les fournitures).
+
+       (3)    Exception faite des pertes ou des dommages découlant de 
+              l'usure normale, l'entrepreneur doit remettre au Canada, sur 
+              demande, tous les biens de la Couronne (sauf ceux qui sont 
+              installés ou incorporés dans les fournitures) dans le même 
+              état que lors de leur livraison à l'entrepreneur, ou de leur 
+              acquisition ou production par celui-ci.
+
+       (4)    Une fois l'exécution du contrat terminée, l'entrepreneur doit 
+              fournir au délégué scientifique et à l'agent 
+              d'approvisionnement scientifique un inventaire complet de 
+              tous les biens de la Couronne se rapportant au contrat.
+
+<strong>9224   18     (01/06/91)    Respect des délais</strong>
+
+
+       (1)    Le respect des délais est une condition essentielle du 
+              contrat.
+
+       (2)    Constitue un retard excusable, tout retard de l'entrepreneur 
+              à remplir ses obligations aux termes du contrat, qui est 
+              attribuable à un événement indépendant de sa volonté et qui 
+              n'aurait pu être évité par celui-ci sans entraîner des 
+              dépenses excessives, par le recours à d'autres sources, à des 
+              plans de rechange ou à d'autres moyens. Les événements 
+              susmentionnés incluent notamment les cas de force majeure, 
+              les actes du Canada et des gouvernements locaux ou 
+              provinciaux, les incendies, les inondations, les épidémies, 
+              les quarantaines, les grèves et l'agitation ouvrière, les 
+              embargos sur le fret et les conditions atmosphériques 
+              exceptionnellement rigoureuses.
+
+       (3)    Le délai d'achèvement de l'ouvrage, qui a été ou est 
+              susceptible d'être retardé en raison d'un retard excusable, 
+              est prorogé d'une période égale à la durée du retard 
+              excusable, à condition que l'entrepreneur ait avisé par écrit 
+              le Ministre de tout retard excusable dans les deux (2) 
+              semaines qui suivent le début du retard excusable. L'avis 
+              doit renfermer une description du retard et de la partie de 
+              l'ouvrage visée par le retard.
+
+       (4)    Dans les deux (2) semaines qui suivent la présentation de 
+              l'avis de retard excusable, l'entrepreneur doit fournir au 
+              Ministre, par écrit, une description satisfaisante quant au 
+              contenu et à la forme de ses plans de rechange, y compris les 
+              sources de rechange et les moyens qu'il compte utiliser en 
+              vue de rattraper le retard et prévenir tout autre retard.
+ 
+       (5)    A défaut par l'entrepreneur de donner avis d'un retard 
+              excusable, ou de présenter ses plans de rechange dans les 
+              délais prescrits dans le présent article, le retard ne 
+              constitue pas un retard excusable.
+
+       (6)    A moins d'avoir été autorisés dans un avenant au contrat, les 
+              plans de rechange de l'entrepreneur ne peuvent être mis à 
+              exécution s'ils entraînent des frais supplémentaires pour le 
+              Canada.
+
+<strong>9224   19     (01/06/91)    Réclamation en matière de brevet, de dessin ou 
+                            d industriele modèle </strong><strong></strong>
+<strong>et de droit d'auteur</strong>
+
+       (1)    L'entrepreneur garantit le Canada contre tous les coûts, 
+              frais et dépenses, quels qu'ils soient, y compris les frais 
+              judiciaires et les honoraires d'avocat, engagés par le Canada 
+              par suite de toute réclamation, action, poursuite ou procès 
+              pour la contrefaçon, réelle ou prétendue, de tout brevet, 
+              droit d'auteur, dessin ou modèle industriel déposé, découlant 
+              de l'emploi d'une invention relativement à l'exécution du 
+              contrat, ou de l'emploi ou de l'aliénation, par le Canada, de 
+              toute chose fournie en vertu du contrat.
+
+       (2)    Sur réception d'un avis écrit du Ministre l'informant de 
+              l'existence d'une réclamation, d'une action, d'un procès ou 
+              d'une poursuite mentionnés au paragraphe (1), l'entrepreneur 
+              doit fournir à ses frais l'aide nécessaire au Canada pour les 
+              régler ou les contester.
+
+       (3)    Le Canada garantit l'entrepreneur contre toute réclamation, 
+              action ou poursuite en recouvrement des redevances payables à 
+              l'égard de tout modèle, plan, dessin ou devis fourni à 
+              l'entrepreneur par le Canada, ou pour le compte de celui-ci, 
+              mais cette garantie ne s'applique qu'au présent contrat.
+
+       (4)    L'entrepreneur doit porter à la connaissance du Ministre 
+              toutes les redevances que l'entrepreneur ou ses 
+              sous-traitants sont ou peuvent être tenus de payer, ou se 
+              proposent de payer, du fait ou en raison de l'exécution du 
+              contrat, de même que le fondement de ces redevances et le nom 
+              des personnes à qui elles sont payables. Il doit informer 
+              sans délai le Ministre de toute réclamation et de toute 
+              entente, faite ou projetée, pouvant avoir pour effet 
+              d'accroître ou de modifier les montants payables par 
+              l'entrepreneur ou un de ses sous-traitants à titre de 
+              redevances.
+
+       (5)    Sur l'ordre du Ministre, et dans la mesure établie par 
+              celui-ci, l'entrepreneur doit s'abstenir de verser, et aviser 
+              ses sous-traitants de ne pas verser de redevances à l'égard 
+              de l'exécution du contrat.
+
+       (6)    A compter du moment où le Ministre donne un tel ordre, le 
+              Canada doit garantir et protéger l'entrepreneur, pourvu qu'il 
+              se conforme aux stipulations qui précèdent, contre toute 
+              réclamation, action ou poursuite en recouvrement des 
+              redevances visées par l'ordre.
+
+       (7)    Le prix contractuel doit être réduit des redevances qu'il 
+              comprend et auxquelles s'applique la garantie prévue au 
+              paragraphe (6) du présent article.
+
+<strong>9224   20     (01/06/91)    Garantie contre les réclamations des tiers</strong>
+
+
+       Sauf stipulation contraire du contrat, l'entrepreneur garantit le 
+       Canada et le Ministre et s'engage à les indemniser à l'égard des 
+       réclamations, dommages-intérêts, pertes, frais ou dépenses résultant
+
+              a)     de blessures corporelles (y compris les blessures 
+                     mortelles), de perte de biens ou de dommages à la 
+                     propriété d'autrui, censément causés ou subis en 
+                     raison de l'exécution de l'ouvrage ou de l'un 
+                     quelconque de ses éléments, à l'exception de ceux qui 
+                     sont imputables au Canada; 
+              b)     de privilèges, saisies, charges ou autres servitudes 
+                     ou réclamations grevant quelque matériau, ouvrage en 
+                     cours ou  fourniture finie, livrés au Canada ou ayant 
+                     fait l'objet d'un paiement de la part du Canada.
+
+<strong>9224   21     (01/06/91)    Résiliation, suspension, modification</strong>
+
+
+       (1)    Le Ministre peut, par avis donné à l'entrepreneur, résilier 
+              ou suspendre le contrat à l'égard de l'ensemble ou de quelque 
+              partie de l'ouvrage ou modifier l'ouvrage ou une partie de 
+              l'ouvrage. L'entrepreneur doit sur-le-champ se conformer à 
+              l'avis et, ce faisant, doit prendre toute mesure raisonnable 
+              de nature à réduire le coût d'exécution du contrat et 
+              d'observation de l'avis.
+
+       (2)    Lorsque, par suite de l'avis prévu au paragraphe (1),
+
+              a)     la suspension ou la modification de l'ouvrage entraîne 
+                     une augmentation ou une diminution du coût directement 
+                     relié à l'exécution du contrat, le prix du contrat 
+                     doit être augmenté ou réduit en conséquence; ou   
+
+              b)     l'ouvrage ou une partie de l'ouvrage est terminé, pour 
+                     toute fourniture livrée et acceptée, et pour tout 
+                     matériau ou ouvrage en cours livrés et acceptables au 
+                     Canada, l'entrepreneur a droit au remboursement de ses 
+                     coûts réellement engagés et jugés raisonnables par le 
+                     Ministre, suivant les dispositions du contrat, et de 
+                     tous les frais découlant directement et nécessairement 
+                     de la résiliation, ainsi qu'au paiement de la partie 
+                     de la rémunération correspondant au travail accompli. 
+                     Toutefois, la somme des paiements faits avant la 
+                     résiliation et des montants payables en vertu de la 
+                     présente disposition ne peut en aucun cas excéder le 
+                     prix contractuel total.
+
+<strong>9224   22     (01/06/91)    Inexécution du contrat</strong>
+
+
+       (1)    Le Canada peut, par avis écrit à l'entrepreneur, résilier 
+              l'ensemble ou une partie quelconque du contrat   
+
+              a)     si l'entrepreneur fait faillite ou devient insolvable, 
+                     fait l'objet d'une ordonnance de séquestre, fait 
+                     cession de ses biens au profit de ses créanciers, fait 
+                     l'objet d'une ordonnance ou d'une résolution de 
+                     liquidation, ou se prévaut de quelque loi alors en 
+                     vigueur, applicable aux débiteurs faillis ou 
+                     insolvables; ou
+
+              b)     si de l'avis du Ministre, l'entrepreneur est en défaut 
+                     à l'égard de l'une ou l'autre de ses obligations 
+                     contractuelles, ou accuse un tel retard dans 
+                     l'exécution de l'ouvrage qu'il risque de ne pas 
+                     pouvoir respecter les conditions du contrat.
+
+       (2)    Lorsque le Ministre résilie l'ensemble ou une partie du 
+              contrat en vertu des dispositions du présent article, le 
+              Canada peut, selon les conditions et de la façon qu'elle juge 
+              à propos, obtenir un ouvrage semblable à celui auquel il est 
+              mis fin, et l'entrepreneur demeure responsable envers le 
+              Canada des pertes et des dommages subis par le Canada par 
+              suite de la résiliation, y compris les coûts supplémentaires 
+              engagés afin d'obtenir l'ouvrage semblable à des conditions 
+              raisonnables.
+
+       (3)    Dès que le contrat est résilié en vertu du présent article, 
+              le Ministre peut exiger que l'entrepreneur remette au Canada, 
+              de la manière et dans la mesure fixée par le Ministre, toute 
+              fourniture finie mais non remise ni acceptée au moment de la 
+              résiliation, ainsi que tout matériau ou travaux en cours que 
+              l'entrepreneur a obtenu ou produit expressément pour 
+              l'exécution du contrat, et en transfère la propriété au 
+              Canada. 
+       (4)    Le Canada s'engage à payer à l'entrepreneur
+
+              a)     le prix de revient, déterminé conformément aux termes 
+                     du contrat, des fournitures remises en vertu du 
+                     paragraphe précédent et acceptées par le Canada, de 
+                     même que la partie de la rémunération correspondant au 
+                     travail accompli;
+
+              b)     le prix de revient, que le Ministre juge raisonnable, 
+                     de tous les matériaux et ouvrage en cours remis au 
+                     Canada en vertu du paragraphe précédent.
+
+       (5)    Le Canada peut déduire des sommes à verser à l'entrepreneur 
+              tout montant que le Ministre juge nécessaire pour protéger le 
+              Canada contre les coûts supplémentaires découlant de 
+              l'obtention d'un ouvrage semblable.
+
+       (6)    Si, après signification d'un avis de résiliation du contrat 
+              en vertu des dispositions du présent article, le Ministre 
+              constate ou convient que le défaut de l'entrepreneur est 
+              imputable à des causes indépendantes de la volonté de ce 
+              dernier, l'avis de résiliation doit être considéré comme 
+              ayant été donné en vertu de l'article 21 (Résiliation, 
+              suspension, modification), et les droits et obligations des 
+              parties sont régis par les dispositions de cet article.
+
+<strong>9224   23     (01/06/91)    Modifications</strong>
+
+
+       Aucun changement ou modification du contrat, ni aucune renonciation 
+       à l'égard de toute condition ou disposition des présentes ne peut 
+       être considéré comme valide à moins d'avoir été consigné dans un 
+       avenant signé par les deux parties au contrat.
+
+<strong>9224   24     (01/06/91)    Cession</strong>
+
+
+       (1)    L'entrepreneur ne peut céder l'ensemble ni une partie du 
+              contrat sans avoir obtenu au préalable le consentement écrit 
+              du Ministre, et toute cession conclue sans ce consentement 
+              est nulle et sans effet.
+
+       (2)    Aucune cession ne soustrait l'entrepreneur aux obligations 
+              qui lui incombent en vertu du contrat, ni n'impose au Canada 
+              ou au Ministre une responsabilité quelconque.
+
+       (3)    Sauf exception stipulée par le Ministre, l'entrepreneur 
+              s'engage à imposer à tout cessionnaire du contrat les mêmes 
+              conditions et modalités auxquelles il est soumis en vertu du 
+              contrat.
+
+       (4)    Les parties aux présentes ainsi que leurs exécuteurs, 
+              administrateurs et successeurs sont liés par le contrat et 
+              peuvent s'en prévaloir.
+
+<strong>9224   25     (01/06/91)    Fondés de pouvoirs</strong>
+
+
+       (1)    Le délégué scientifique ou son représentant dûment autorisé 
+              surveille et contrôle l'exécution de l'ouvrage sur le plan 
+              technique et inspecte les fournitures.
+
+       (2)    L'agent d'approvisionnement scientifique est responsable de 
+              l'administration du contrat, et est le seul à pouvoir 
+              autoriser, au moyen d'un avenant en bonne et due forme, toute 
+              modification au contrat. L'entrepreneur ne doit, malgré toute 
+              demande ou directive à cet effet présentée verbalement ou par 
+              écrit par un fonctionnaire quelconque, effectuer aucun 
+              travail dépassant les limites décrites dans le cahier des 
+              charges et dans les autres exigences contenues dans la 
+              convention.
+ 
+<strong>9224   26     (01/06/91)    Comptes</strong>
+
+
+       L'entrepreneur s'engage   
+
+              a)     à tenir des comptes et des registres relativement aux 
+                     coûts de l'exécution du contrat, à conserver tous les 
+                     documents s'y apportant et, à moins d'obtenir du 
+                     Ministre la permission écrite de disposer autrement de 
+                     ces comptes, registres et documents, à les conserver 
+                     pour une période de six (6) ans à compter de la fin de 
+                     l'année civile au cours de laquelle le contrat est 
+                     résilié ou exécuté; et   
+
+              b)     à la demande du Ministre, à mettre à la disposition de 
+                     celui-ci tous les comptes, registres et documents 
+                     mentionnés à l'alinéa a) et à permettre au Ministre 
+                     d'examiner, de vérifier et de tirer des copies et des 
+                     extraits de ces comptes, registres et documents.
+
+<strong>9224   27     (01/06/91)    Vérification</strong>
+
+
+       (1)    Le montant demandé en vertu du contrat peut faire l'objet 
+              d'une vérification par le Ministre avant ou après le 
+              versement à l'entrepreneur de la somme prévue dans le contrat.
+
+       (2)    Le Ministre peut tirer des copies et des extraits des comptes, 
+              registres, factures et pièces justificatives devant être 
+              conservés aux termes de l'article 26, et l'entrepreneur doit 
+              fournir toute l'aide nécessaire aux examens et vérifications, 
+              et fournir au Ministre tous les renseignements qu'il peut à 
+              l'occasion lui demander.  Tout paiement effectué avant la fin 
+              de la vérification ne doit être considéré que comme un 
+              paiement provisoire et doit être mofifié en fonction des 
+              résultats de la vérification en question.  Le cas échéant, le 
+              trop-perçu doit être promptement remboursé au Canada.
+
+       (3)    Une fois l'ouvrage achevé, l'entrepreneur doit, à la demande 
+              du Ministre, établir et présenter un état des coûts relatifs 
+              au contrat. L'état des coûts doit être signé et certifié par 
+              un agent financier supérieur de l'entrepreneur, et contenir 
+              une ventilation des éléments de coût applicables, y compris 
+              le coût des matériaux, les marchés de sous-traitance, les 
+              charges directes, le coût de la main-d'oeuvre et les frais 
+              généraux.
+
+<strong>9224   28     (01/06/91)    Modification des droits ou du taux</strong> <strong>d'imposition 
+                            applicable </strong>
+       
+       Si, après la date de conclusion du contrat, la modification d'un 
+       tarif de droits ou d'un taux d'imposition applicables en vertu d'un 
+       texte de loi fédéral quelconque a pour effet de changer le coût de 
+       l'ouvrage pour l'entrepreneur, le Ministre s'engage à rectifier le 
+       prix contractuel, de façon à tenir compte de l'augmentation ou de la 
+       diminution du coût.
+
+<strong>9224   29     (01/06/91)    Avis</strong>
+
+
+       (1)    Tout avis prévu au contrat peut être donné, port ou frais 
+              d'envoi acquittés, par courrier recommandé, télégramme ou 
+              autre moyen électronique de transmission de messages, tels le 
+              télex, le TWX ou le télécopieur, où une copie imprimée est 
+              fournie, et il est expédié à l'adresse du destinataire 
+              indiquée au contrat, ou à défaut d'indication,
+
+              a)     dans le cas de l'entrepreneur, à la dernière adresse 
+                     connue de celui-ci indiquée dans la convention; ou
+
+              b)     dans le cas du Ministre, à l'adresse officielle de 
+                     l'agent d'approvisionnement scientifique à : 
+                     Direction des sciences
+                     Ministère des Approvisionnements et Services
+                     Place du Portage, Phase III, 11C1
+                     11, rue Laurier
+                     Hull (Québec)
+                     K1A 0S5
+
+       et tout avis est réputé avoir été donné le jour où, selon les délais 
+       ordinaires de livraison, la lettre, le télégramme ou le message 
+       électronique aurait dû parvenir au destinataire.
+
+       (2)    Les noms et adresses indiqués ci-dessus peuvent être modifiés 
+              moyennant l'envoi, à l'autre partie, d'un avis écrit à cet 
+              effet.
+
+</pre>

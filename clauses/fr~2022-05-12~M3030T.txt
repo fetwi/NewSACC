@@ -1,0 +1,16 @@
+<pre><div class="sacc-item">
+<p>À la demande du responsable de l'offre à commandes, l'offrant doit fournir l'attestation suivante pour chaque propriétaire autochtone:</p>
+<blockquote>
+<ol type="1">
+<li value="1">Je suis un propriétaire de <span class="input-required"><var>______________</var> <kbd>(<em>insérer le nom de l'entreprise</em>)</kbd></span> et autochtone, au sens de la
+                définition de <a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-approvisionnements/annexe/9/4">l'Annexe 9.4</a> du <cite>Guide des approvisionnements</cite> intitulée « Exigences relatives au Programme de marchés réservés aux entreprises autochtones ».</li>
+<li value="2">Je certifie que l'énoncé précité est vrai et je consens à sa vérification sur demande du Services aux Autochtones Canada.</li>
+</ol>
+<p><var>________________________________</var></p>
+<p>Nom du propriétaire</p>
+<p><var>_____________________________</var></p>
+<p>Signature du propriétaire</p>
+<p><var>___________________</var></p>
+<p>Date</p>
+</blockquote>
+</div></pre>

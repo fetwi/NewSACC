@@ -1,0 +1,18 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit apposer, sur l'emballage, des
+codes à barres pour le ou les articles <var>______</var>,
+avec le numéro d'identification d'application
+<var>________</var>, en utilisant la symbologie code à barres
+UCC/EAN-128 (Uniform Code Council/EAN International). Sous le
+symbole du code à barres, l'entrepreneur doit apposer la
+traduction en clair du code.</li>
+<li value="2">Le symbole de code à barres doit être
+lisible et être appliqué sur une surface imprimable ou
+sur une étiquette et doit être placé
+conformément à la spécification relative à
+l'emballage des Forces canadiennes D-LM-008-002/SF-001, Marquage
+des articles à entreposer ou à expédier (en vigueur
+à la date de clôture de la demande de soumissions).</li>
+</ol>
+</div></pre>

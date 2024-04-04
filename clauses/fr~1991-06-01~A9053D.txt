@@ -1,0 +1,9 @@
+<pre>La valeur de reprise tient compte du fait que le véhicule usagé sera retenu 
+jusqu'à son échange pour le nouveau et qu'aucun ajustement ne sera fait 
+pour compenser la dépréciation liée à l'usure normale du véhicule entre le 
+moment où il a été évalué et celui où il est échangé.  Tout changement 
+important dans l'état du véhicule échangé doit être signalé le plus 
+rapidement possible à l'Agent de négociation des contrats du MAS.
+
+ 
+</pre>

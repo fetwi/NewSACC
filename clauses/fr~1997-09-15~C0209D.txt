@@ -1,0 +1,43 @@
+<pre>1.     La base de paiement doit être proposée dans une partie distincte de 
+       la proposition et doit inclure les éléments suivants :
+
+       <strong>Honoraires :</strong>
+
+       Taux_____(journalier/horaire) fermes tout compris, la taxe sur les 
+       produits et services (TPS) en sus ou la taxe de vente harmonisée 
+       (TVH) en sus, s'il y a lieu, FOB au point de destination, comme suit :
+
+       Catégorie de personnel. taux fermes $_____
+
+       Coût total prévu $_____, ou
+       Prix total plafond $_____.
+
+       <strong>Honoraires :</strong>
+
+       Taux_____(journalier/horaire) fermes tout compris, TPS en sus ou TVH 
+       en sus, s'il y a lieu, FOB au point de destination, comme suit :
+
+       Description personnel, taux fermes $_____
+
+       Coût total prévu $_____, ou
+       Prix total plafond $_____.
+
+       Prix unitaire ferme tout compris, TPS en sus ou TVH en sus, s'il y a 
+       lieu, FOB au point de destination, de $_____.
+
+       Coût total prévu $_____.
+
+       Prix globale ferme, tout compris, TPS en sus ou TVH en sus, s'il y a 
+       lieu, FOB au point de destination de $_____.
+
+       Coût total prévu $_____, ou
+       Coût plafond $_____, ou
+       Prix ferme total $_____.
+
+2.     Les taux journaliers indiqués ci-dessus sont basés sur une journée 
+       de travail de 7.5 heures.  Pour les travaux d'une durée supérieure 
+       ou inférieure à une journée de travail, le taux journalier indiqué 
+       sera ajusté au prorata du temps effectivement travaillé.
+
+
+</pre>

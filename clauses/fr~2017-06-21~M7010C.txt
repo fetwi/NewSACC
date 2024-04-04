@@ -1,0 +1,14 @@
+<pre><div class="sacc-item">
+<p>L'offrant doit compiler et tenir à jour des données sur les biens et services  qu’il fournit au gouvernement fédéral dans le cadre de contrats découlant de l'offre à commandes. Ces données doivent comprendre tous les achats effectués par le Canada, y compris ceux payés au moyen d'une carte d'achat du Canada.</p>
+<p>L'offrant doit fournir ces données conformément aux exigences en matière d'établissement de rapports décrites à l'annexe intitulée <var>_____</var> <kbd><em>(insérer le titre de l'annexe)</em>.</kbd> Si certaines données ne sont pas disponibles, la raison doit être indiquée dans le rapport. Si aucun bien ou service n'a été fourni pendant une période donnée, l'offrant doit soumettre un rapport portant la mention « néant ».</p>
+<p>Les données doivent être présentées tous les <span class="input-required"><var>_____</var> <kbd>(<em>insérer « trimestres » ou indiquer une autre période de référence</em>)</kbd></span> au responsable de l'offre à commandes.</p>
+<p><kbd>(<em>Si une autre période de référence est utilisée, supprimer la répartition des trimestres indiquée ci-dessous et définir la période de référence appropriée.</em>)</kbd></p>
+<p>Voici la répartition des trimestres :</p>
+<ul class="no-markers">
+<li>premier trimestre : du 1 avril au 30 juin</li>
+<li>deuxième trimestre : du 1 juillet au 30 septembre</li>
+<li>troisième trimestre : du 1 octobre au 31 décembre</li>
+<li>quatrième trimestre : du 1 janvier au 31 mars</li>
+</ul>
+<p>Les données doivent être présentées au responsable de l'offre à commandes dans les <span class="input-required"><var>______</var> <kbd>(<em>inscrire le nombre de jours</em>)</kbd></span> jours civils suivant la fin de la période de référence.</p>
+</div></pre>

@@ -1,0 +1,74 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit s'assurer que toutes les bases de
+données renfermant des renseignements liés aux travaux
+sont situées au Canada ou, si l'autorité contractante a
+donné son consentement au préalable, par écrit, dans
+un autre pays où :
+<ol type="a">
+<li value="1">les renseignements personnels jouissent d'une
+protection équivalente à celle du Canada en vertu de lois
+comme la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/P-21/index.html" rel="external">Loi sur la protection des renseignements personnels</a></cite>, <abbr title="Lois révisées">L.R.</abbr> 1985, <abbr title="chapitre">ch.</abbr> P-21, et la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/P-8.6/" rel="external">Loi sur la protection des renseignements personnels et les documents électroniques</a></cite>, <abbr title="Lois du Canada">L.C.</abbr> 2000, <abbr title="chapitre">ch.</abbr> 5, et de toute politique
+applicable du gouvernement du Canada;</li>
+<li value="2">les lois ne permettent pas au gouvernement de ce pays
+ou à toute autre entité ou personne de demander ou
+d'obtenir le droit d'examiner ou de copier des renseignements
+liés au contrat sans le consentement écrit préalable
+de l'autorité contractante.</li>
+</ol>
+Pour donner son consentement en vue d'établir une base de
+données dans un autre pays, l'autorité contractante peut,
+à son choix, demander à l'entrepreneur de fournir un avis
+juridique (d'un avocat qualifié dans le pays étranger)
+à l'effet que les lois de ce pays respectent les exigences
+décrites ci-dessus ou encore de rembourser au Canada
+l'obtention de cet avis. Le Canada a le droit de rejeter toute
+demande visant le stockage de ses données dans un autre pays
+si leur sécurité, leur confidentialité ou leur
+intégrité peuvent être menacées. Le Canada peut
+également exiger que les données transmises ou
+traitées à l'extérieur du Canada soient
+chiffrées au moyen d'une cryptographie approuvée par le
+Canada et que la clé privée requise pour déchiffrer
+les données soit gardée au Canada, conformément aux
+processus de gestion et de conservation des clés
+approuvés par le Canada.</li>
+<li value="2">L'entrepreneur doit contrôler l'accès
+à toutes les bases de données dans lesquelles sont
+stockées des données liées au contrat, afin que
+seules les personnes qui ont la cote de sécurité
+appropriée puissent avoir accès à la base de
+données, soit au moyen d'un mot de passe ou d'un autre moyen
+d'accès (comme des mesures de contrôle
+biométrique).</li>
+<li value="3">L'entrepreneur doit s'assurer que toutes les bases de
+données dans lesquelles sont stockées des données
+liées au contrat ne sont pas reliées physiquement ou
+logiquement à toutes les autres bases de données,
+(c'est-à-dire qu'il n'y a aucune connexion directe ou
+indirecte), sauf si les bases de données en question sont
+situées au Canada (ou dans un autre pays approuvé par
+l'autorité contractante aux termes du paragraphe 1) et
+qu'elles respectent les exigences de cet article.</li>
+<li value="4">L'entrepreneur doit s'assurer que toutes les
+données liées au contrat sont traitées uniquement au
+Canada ou dans un autre pays approuvé par l'autorité
+contractante conformément au paragraphe 1.</li>
+<li value="5">L'entrepreneur doit s'assurer que le trafic sur le
+réseau national (c'est-à-dire le trafic partant d'une
+partie du Canada vers une destination située dans une autre
+partie du Canada) s'effectue exclusivement au Canada, sauf si
+l'autorité contractante a approuvé au préalable, par
+écrit, une autre route. L'autorité contractante prendra
+uniquement en considération une route dans un autre pays pour
+la transmission des données, si ce pays respecte les exigences
+décrites au paragraphe 1.</li>
+<li value="6">Malgré tout article des conditions
+générales relatif à la sous-traitance,
+l'entrepreneur ne peut confier à un sous-traitant (y compris
+à une société affiliée) aucune fonction qui
+permet d'accéder aux données du contrat sans le
+consentement écrit préalable de l'autorité
+contractante.</li>
+</ol>
+</div></pre>

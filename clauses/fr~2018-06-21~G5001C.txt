@@ -1,0 +1,43 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire et maintenir pendant toute la durée du contrat une assurance responsabilité de réparateurs de navires d'un montant équivalant à celui habituellement fixé pour un contrat de cette nature; toutefois, la limite de responsabilité ne doit pas être inférieure à 10 000 000 $ par accident ou par incident et suivant le total annuel.</li>
+<li value="2">La police d'assurance responsabilité des réparateurs de navires doit comprendre les éléments suivants :
+            <ol type="a">
+<li value="1">Assuré additionnel : Le Canada est désigné comme assuré additionnel, mais seulement en ce qui concerne les responsabilités qui peuvent découler de l'exécution du contrat par l'entrepreneur. L'intérêt du Canada en tant qu'assuré additionnel devrait se lire comme suit : Le Canada, représenté par Travaux publics et Services gouvernementaux Canada.</li>
+<li value="2">Renonciation des droits de subrogation : L'assureur de l'entrepreneur doit renoncer à tout droit de subrogation contre le Canada, représenté par <span class="input-required"><var>__________</var> <kbd>(<em>insérer le nom du
+ministère</em>)</kbd></span> et par Travaux publics et Services gouvernementaux Canada relativement à toute perte ou dommage au navire, peu importe la cause.</li>
+<li value="3">Avis d'annulation : L’entrepreneur fournira à l'autorité contractante un avis écrit de trente (30) jours  avant l’annulation de la police ou tout autre changement à la police d’assurance.</li>
+<li value="4">Responsabilité contractuelle générale : La police doit, sur une base générale ou par renvoi explicite au contrat, couvrir les obligations assumées en ce qui concerne les dispositions contractuelles.</li>
+<li value="5">Responsabilité réciproque/Séparation des assurés : Sans augmenter la limite de responsabilité, la police doit couvrir toutes les parties assurées dans la pleine mesure de la couverture prévue. De plus, la police doit s'appliquer à chaque assuré de la même manière et dans la même mesure que si une police distincte avait été émise à chacun d'eux.
+                    <span class="description">(<strong><em>Les agents de négociation des contrats doivent
+insérer l'option suivante, si elle
+s'applique</em></strong>.)</span>
+</li>
+<li value="6">Droits de poursuite : Droits de poursuite : Conformément é l'alinéa 5 d) de la
+                    <a href="http://laws-lois.justice.gc.ca/fra/lois/J-2/" rel="external">Loi sur le ministère de la Justice</a>,
+                    <abbr title="Lois révisées du Canada">L.R.C.</abbr> 1993,
+                    <abbr title="chapitre">ch.</abbr> J-2, art. 1, si une poursuite est intentée par ou contre le Canada et que, indépendamment de la présente clause, l'assureur a le droit d'intervenir en poursuite ou en défense au nom du Canada à titre d'assuré additionnel désigné en vertu de la police d'assurance, l'assureur doit communiquer promptement avec le Procureur général du Canada, par lettre recommandée ou par service de messagerie, avec accusé de réception, pour s'entendre sur les stratégies juridiques.
+                    <br/><strong>Pour la province de Québec, envoyer à l'adresse
+suivante :</strong>
+<br/>
+<address>Directeur
+                        <br/>Direction du droit des affaires
+                        <br/>Bureau régional du Québec (Ottawa)
+                        <br/>Ministère de la Justice
+                        <br/>284, rue Wellington, pièce SAT-6042
+                        <br/>Ottawa (Ontario) K1A 0H8</address>
+<br/><strong>Pour les autres provinces et territoires, envoyer à
+l'adresse suivante :</strong>
+<br/>
+<address>Avocat général principal
+                        <br/>Section du contentieux des affaires civiles
+                        <br/>Ministère de la Justice
+                        <br/>234, rue Wellington, Tour de l'Est
+                        <br/>Ottawa (Ontario) K1A 0H8
+                    </address>
+<br/>Une copie de cette lettre doit être envoyée à l'autorité contractante à titre d'information. Le Canada se réserve le droit d'intervenir en codéfense dans toute poursuite intentée contre le Canada. Le Canada assumera tous les frais liés à cette codéfense. Si le Canada décide de participer à sa défense en cas de poursuite intentée contre lui et qu'il n'est pas d'accord avec un règlement proposé et accepté par l'assureur de l'entrepreneur et les plaignants qui aurait pour effet de donner lieu à un règlement ou au rejet de l'action intentée contre le Canada, ce dernier sera responsable envers l'assureur de l'entrepreneur pour toute différence entre le montant du règlement proposé et la somme adjugée ou payée en fin de compte (coûts et intérêts compris) au nom du Canada.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>

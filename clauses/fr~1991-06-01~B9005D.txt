@@ -1,0 +1,5 @@
+<pre>La pression de gaz dans le réservoir au moment de la livraison doit être 
+   inférieure à 3 lb/po2.  Si la pression est supérieure à 3 lb/po2, on 
+   doit pratiquer la ventilation du réservoir jusqu'à l'obtention de cette 
+   pression avant d'effectuer la pesée.
+</pre>

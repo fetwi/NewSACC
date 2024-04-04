@@ -1,0 +1,10 @@
+<pre><div class="sacc-item">
+<p>Tous les déplacements à l'extérieur d'un rayon de
+<var>_____</var> kilomètres de la région immédiate
+<span class="input-required"><var>_________</var>
+<kbd>(<em>insérér « de » ou « d' » et le
+lieu</em>)</kbd></span> doivent être approuvés au
+préalable par <span class="input-required"><var>__________</var> <kbd>(<em>insérer « le
+chargé de projet » ou « le responsable technique »
+ou « l'autorité contractante »</em>)</kbd></span>.</p>
+</div></pre>

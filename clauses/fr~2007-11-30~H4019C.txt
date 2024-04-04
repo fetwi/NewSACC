@@ -1,0 +1,28 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir un rapport final en
+<var>____</var> copies au <span class="input-required"><var>_______</var><kbd>(<em><strong>insérer</strong>
+« responsable technique » ou « chargé de
+projet »</em>)</kbd></span> le ou avant le <span class="input-required"><var>_____</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>. Ce rapport doit couvrir de façon
+détaillée toutes les facettes des travaux et comporter
+suffisamment de dessins, d'esquisses et de photographies, ainsi
+qu'un exposé des problèmes et des succès liés
+à la réalisation des travaux afin de faciliter
+l'évaluation complète et précise des travaux par le
+<span class="input-required"><var>_______</var> <kbd>(<em>insérer
+« responsable technique » ou « chargé de
+projet »</em>)</kbd></span>. Le rapport doit être
+rédigé conformément à de bonnes pratiques
+professionnelles et d'ingénierie et comprendre, au minimum,
+les éléments suivants : une page titre, une table des
+matières, un résumé, une introduction, un
+exposé technique accompagné des conclusions et, selon le
+cas, des graphiques, tableaux et figures à l'appui. Un
+spécimen de page titre figure à l'annexe « <var>______</var> » du contrat.</li>
+<li value="2">Le rapport final doit être préparé
+dans les deux langues officielles du Canada.</li>
+<li value="3">L'entrepreneur doit envoyer une copie de la page
+titre du rapport final à l'autorité contractante.</li>
+</ol>
+</div></pre>

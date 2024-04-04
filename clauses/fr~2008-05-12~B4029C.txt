@@ -1,0 +1,17 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur doit :</p>
+<ol type="a">
+<li value="1">effectuer le carénage, l'entretien et le
+réaménagement du navire <span class="input-required"><var>_________</var> <kbd>(<i>insérer le nom et
+la désignation du navire</i>)</kbd></span> du ministère
+<span class="input-required"><var>___________</var>
+<kbd>(<i>insérer le nom du ministère</i>)</kbd></span>
+conformément au Besoin décrit à l'annexe
+<span class="input-required"><var>______</var> <kbd>(<i>insérer
+les annexes supplémentaires contenant des spécifications
+supplémentaires, s'il y a lieu</i>)</kbd></span>.</li>
+<li value="2">effectuer tous les travaux imprévus et
+approuvés qui ne sont pas mentionnés au paragraphe a)
+ci-dessus.</li>
+</ol>
+</div></pre>
