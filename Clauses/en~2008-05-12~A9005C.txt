@@ -1,6 +1,0 @@
-<pre><div class="sacc-item">
-<p>The Contractor was notified of contract award by <span class="input-required"><var>__________</var> <kbd>(<em>insert "e-mail",
-"facsimile" or "telephone", as applicable</em>)</kbd></span> on
-<span class="input-required"><var>_________</var> <kbd>(<em>insert date</em>)</kbd></span>. The Work specified in the notice, if any,
-must not be duplicated.</p>
-</div></pre>

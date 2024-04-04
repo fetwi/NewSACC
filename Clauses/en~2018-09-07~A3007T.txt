@@ -1,6 +1,0 @@
-<pre><p>Items will be manufactured at:<span class="input-required"><var>________</var> (please indicate the complete address of the plant).</span></p> <p>The following suppliers/subcontractor(s) will be utilized in the performance of the contract:</p> <ol type="a">
-<li>Name and address of supplier/subcontractor:<span class="input-required"><var>________</var> </span></li>
-<li>Location where work will be performed:<span class="input-required"><var>________</var> (please indicate the complete address if different from the address provided in a))</span></li>
-<li>Nature of subcontracting work performed: <span class="input-required"><var>________</var></span></li>
-<li>Value of subcontract: $<span class="input-required"><var>________</var> </span></li>
-</ol> <p>(Enter the information for each supplier/subcontractor)</p> <p>Subcontractors, other than those listed above, may not be utilized without the written permission of Canada. </p> <p>The Bidder agrees that Canada may publicly disclose the information provided with respect to the countries of origin. </p></pre>

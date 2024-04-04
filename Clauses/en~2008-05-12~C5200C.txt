@@ -1,8 +1,0 @@
-<pre><div class="sacc-item">
-<p>The Contractor must ship the goods prepaid via <span class="input-required"><var>________</var> <kbd>(<em>insert the method of
-transportation</em>)</kbd></span> including all delivery charges to
-<span class="input-required"><var>_________</var> <kbd>(<em>insert the
-named place of destination</em>)</kbd></span>. Prepaid transportation
-costs must be shown as a separate item on the invoice, supported by
-a certified copy of the prepaid transportation bill of lading.</p>
-</div></pre>

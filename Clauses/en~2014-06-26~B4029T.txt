@@ -1,7 +1,0 @@
-<pre><div class="sacc-item">
-<p>The requirement is as follows:</p>
-<ol type="a">
-<li value="1">the docking, maintenance and alterations of the Department of <span class="input-required"><var>__________</var><kbd>(<em>insert the department's name</em>)</kbd></span> vessel <span class="input-required"><var>_________</var> <kbd>(<em>insert the name and vessel designator</em>)</kbd></span> in accordance with the Requirement at Annex <span class="input-required"><var>_____</var> <kbd>(<em>insert additional annexes that contain additional specifications, if applicable</em>)</kbd></span>.</li>
-<li value="2">any approved unscheduled work not covered in the above paragraph (a).</li>
-</ol>
-</div></pre>

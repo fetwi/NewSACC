@@ -1,4 +1,0 @@
-<pre><div class="sacc-item">
-<p>The Contractor acknowledges that the nature of the services provided under the Contract requires continuity and that a transition period may be required at the end of the Contract. The Contractor agrees that Canada may, at its discretion, extend the Contract by a period of <span class="input-required"><var>___________</var> <kbd>(<em>insert the number of days or months</em>)</kbd></span> under the same conditions to ensure the required transition. The Contractor agrees that, during the extended period of the Contract, it will be paid in accordance with the applicable provisions as set out in the Basis of Payment.</p>
-<p>The Contracting Authority will advise the Contractor of the extension by sending a written notice to the Contractor at least <var>____</var> calendar days before the contract expiry date. The extension will be evidenced for administrative purposes only, through a contract amendment.</p>
-</div></pre>

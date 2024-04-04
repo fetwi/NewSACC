@@ -1,7 +1,0 @@
-<pre><div class="sacc-item">
-<p>The goods described in the Contract are of a class or kind
-enumerated in <cite>Customs Tariff, Schedule II, Annex Code 1760</cite>, and are
-exempt from customs duties. The goods are for use directly in
-<var>_____</var> by <span class="input-required"><var>_____</var>
-<kbd>(<em>Authority <abbr title="Number">No.</abbr> <var>_____</var></em>)</kbd></span> .</p>
-</div></pre>
