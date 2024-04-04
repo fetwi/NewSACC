@@ -1,0 +1,62 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+<ol type="1">
+<li value="1">Les prix indiqués dans le contrat sont
+assujettis à un rajustement à la hausse ou à la
+baisse <var>_____</var> jours civils, selon les changements
+survenus après le <span class="input-required"><var>_____</var>
+<kbd>(<em><strong>insérer la date
+applicable</strong></em>)</kbd></span>, afin de permettre :
+<ol type="a">
+<li value="1">des changements attribuables au rajustement des prix
+des produits pétroliers découlant directement d'une
+augmentation ou diminution des prix imposée par le producteur
+de pétrole. Une copie de l'avis de l'entrepreneur avisant
+d'une augmentation ou diminution des prix par le producteur de
+pétrole doit être fournie à l'autorité
+contractante; et(ou)</li>
+<li value="2">l'institution de nouveaux ou changement aux droits,
+aux tarifs ou aux frais de quelque nature que ce soit, applicables
+à tout produit pétrolier autorisé, ordonné ou
+convenu par le Canada ou tout gouvernement provincial, ou par tout
+organisme gouvernemental de réglementation.</li>
+</ol>
+</li>
+<li>Le contrat sera modifié de façon à refléter
+les prix actuels de l'augmentation ou la diminution à la date
+de livraison. L'entrepreneur ne doit pas facturer des prix autres
+que ceux qui sont indiqués dans le contrat.</li>
+</ol>
+</li>
+<li><strong>OU</strong>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">Les prix indiqués dans le contrat sont
+assujettis à un rajustement à la hausse ou à la
+baisse, selon les changements survenus après le
+<span class="input-required"><var>_____</var> <kbd>(<em><strong>insérer une
+date</strong></em>)</kbd></span>, afin de permettre :
+<ol type="a">
+<li value="1">des changements attribuables au rajustement des prix
+des produits pétroliers découlant directement d'une
+augmentation ou diminution des prix imposée par le producteur
+de pétrole. Une copie de l'avis de l'entrepreneur avisant
+d'une augmentation ou diminution des prix par le producteur de
+pétrole doit être fournie à l'autorité
+contractante; et(ou)</li>
+<li value="2">l'institution de nouveaux ou changement aux droits,
+aux tarifs ou aux frais de quelque nature que ce soit, applicables
+à tout produit pétrolier autorisé, ordonné ou
+convenu par le Canada ou tout gouvernement provincial, ou par tout
+organisme gouvernemental de réglementation.</li>
+</ol>
+</li>
+<li>Le contrat sera modifié de façon à refléter
+les prix actuels de l'augmentation ou la diminution à la date
+de livraison. L'entrepreneur ne doit pas facturer des prix autres
+que ceux qui sont indiqués dans le contrat.</li>
+</ol>
+</li>
+</ul>
+</div></pre>

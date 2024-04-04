@@ -1,0 +1,25 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must submit a final report in
+<var>_____</var> copies to the <span class="input-required"><var>______</var><kbd>(<em><strong>insert</strong>
+"Technical" or "Project"</em>)</kbd></span> Authority on or before
+<span class="input-required"><var>_____</var> <kbd>(<em>insert
+date</em>)</kbd></span>. It must be a comprehensive report on all facets
+of the Work and must include sufficient drawings, sketches,
+photographs and a discussion of problems and successes associated
+with the Work to facilitate a full and accurate evaluation of the
+Work by the <span class="input-required"><var>______</var>
+<kbd>(<em>insert "Technical" or "Project"</em>)</kbd></span> Authority. The
+report must be prepared in accordance with good
+engineering/professional practices and include, as a minimum, the
+following: a title page, a table of contents, an executive summary,
+an introduction, a technical discussion with conclusions and
+include, as applicable, supporting graphs, tables and figures. A
+sample title page is attached as Annex "<var>_____</var> " to the
+Contract.</li>
+<li value="2">The final report must be prepared in both of Canada's
+official languages.</li>
+<li value="3">The Contractor must forward a copy of the title page
+of the final report to the Contracting Authority.</li>
+</ol>
+</div></pre>

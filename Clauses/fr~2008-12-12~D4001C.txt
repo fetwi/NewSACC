@@ -1,0 +1,13 @@
+<pre><div class="sacc-item">
+<p>Les biens doivent être expédiés au point de
+destination précisé dans le contrat et livrés :</p>
+<ol type="a">
+<li value="1">franco bord (destination) transporteur <span class="input-required"><var>_______</var> <kbd>(<em>insérer le point de
+destination</em>)</kbd></span> pour les expéditions en provenance du
+gouvernement des États-Unis; ou</li>
+<li value="2">rendu droits acquittés (DDP) <span class="input-required"><var>________</var> <kbd>(<em>insérer le nom du
+lieu de destination convenu</em>)</kbd></span> selon les Incoterms 2000
+pour les expéditions en provenance d'un entrepreneur
+commercial.</li>
+</ol>
+</div></pre>

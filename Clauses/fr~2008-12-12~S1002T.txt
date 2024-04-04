@@ -1,0 +1,18 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Pour être déclaré recevable, un
+arrangement doit :
+<ol type="a">
+<li value="1">respecter toutes les exigences de la demande
+d'arrangements en matière d'approvisionnement;</li>
+<li value="2">satisfaire à tous les critères
+d'évaluation technique obligatoires; et</li>
+<li value="3"><span class="input-required"><var>_______</var>
+<kbd>(<em>insérer une des options proposées sous la section
+des remarques ci-dessus.</em>)</kbd></span></li>
+</ol>
+</li>
+<li value="2">Les arrangements ne répondant pas aux exigences
+de a) ou b) ou c) seront déclarés non recevables.</li>
+</ol>
+</div></pre>

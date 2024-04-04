@@ -1,0 +1,16 @@
+<pre>The customer will accept an invoice containing the following information:
+
+- equipment model and serial number
+- location
+- installation date
+- date meter reading taken
+- current meter reading (total copies only)
+- total copies made
+- copy credits
+- net copies
+- meter charges
+- copier rental charge
+- supplies charges (if applicable)
+- accessories charge(s)/number of accessories (if applicable)
+- total billing 
+</pre>

@@ -1,0 +1,584 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#dispositions-relatives-a-l-integrite-soumission">IG01 Dispositions relatives à l’intégrité - soumission</a></li>
+<li><a href="#la-soumission">IG02 La soumission</a></li>
+<li><a href="#identite-ou-capacite-civile-du-soumissionnaire">IG03 Identité ou capacité civile du
+soumissionnaire</a></li>
+<li><a href="#taxes-applicables">IG04 Taxes Applicables</a></li>
+<li><a href="#frais-d-immobilisation">IG05 Frais d'immobilisation</a></li>
+<li><a href="#immatriculation-et-evaluation-prealable-de-l-outillage-flottant">IG06 Immatriculation et évaluation préalable de
+l'outillage flottant</a></li>
+<li><a href="#liste-des-sous-traitants-et-fournisseurs">IG07 Liste des sous-traitants et fournisseurs</a></li>
+<li><a href="#exigences-relatives-a-la-garantie-de-soumission">IG08 Exigences relatives à la garantie de soumission</a></li>
+<li><a href="#livraison-des-soumissions">IG09 Livraison des soumissions</a></li>
+<li><a href="#revision-des-soumissions">IG10 Révision des soumissions</a></li>
+<li><a href="#rejet-de-la-soumission">IG11 Rejet de la soumission</a></li>
+<li><a href="#couts-relatifs-aux-soumissions">IG12 Coûts relatifs aux soumissions</a></li>
+<li><a href="#numero-d-entreprise-approvisionnement">IG13 Numéro d'entreprise - approvisionnement</a></li>
+<li><a href="#respect-des-lois-applicables">IG14 Respect des lois applicables</a></li>
+<li><a href="#approbation-des-materiaux-de-remplacement">IG15 Approbation des matériaux de remplacement</a></li>
+<li><a href="#evaluation-du-rendement">IG16 Évaluation du rendement</a></li>
+<li><a href="#conflit-d-interets-avantage-indu">IG17 Conflit d´intérêts / Avantage indu</a></li>
+</ul>
+</div>
+<h2 id="dispositions-relatives-a-l-integrite-soumission">IG01 (2014-09-25) Dispositions relatives à l’intégrité - soumission</h2>
+<ol type="1">
+<li>Les soumissionnaires doivent se conformer au <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-fra.html" rel="external">Code de conduite pour l'approvisionnement</a></cite>. De plus Code de conduite pour l'approvisionnement, les soumissionnaires doivent répondre aux demandes de soumissions de façon honnête, juste et exhaustive, rendre compte avec précision de leur capacité à satisfaire aux exigences énoncées dans les demandes de soumissions et les contrats subséquents, et présenter des soumissions ainsi que conclure des contrats uniquement s'ils sont en mesure de satisfaire à toutes les obligations du contrat.</li>
+<li value="2">En présentent une soumission, les soumissionnaires confirment qu’ils comprennent que, pour assurer l’équité, l’ouverture et la transparence du processus d’approvisionnement, la commission de certaines actions ou infractions les rendra inadmissibles à l’attribution d’un contrat. Le Canada déclarera une soumission non recevable s’il constate que les renseignements exigés sont manquants ou inexacts, ou s’il détermine que les renseignements contenus dans les attestations sont faux, à quelque égard que ce soit, au moment de l’attribution du contrat. S’il est déterminé, après l’attribution du contrat, que le soumissionnaire a fait une fausse déclaration, le Canada aura le droit suite a une période de préavis, de résilier le contrat pour manquement. Le soumissionnaire devra agir avec diligence et maintenir à jour l’information exigée. Le soumissionnaire et tout affiliés du soumissionnaire devront également demeurer libres et quittes des actions ou condamnations et à toute absolution sous conditions ou inconditionnelle précisées aux présentes dispositions relatives à l’intégrité pendant la durée de tout contrat découlant de cette demande de soumissions.</li>
+<li value="3"><dfn>Affiliés</dfn><br/>
+Aux fins des présentes dispositions relatives à l’intégrité quiconque, incluant mais sans s’y limiter les organisations, personnes morales, sociétés, compagnies, sociétés de personnes, entreprises, associations de personnes, sociétés mères, filiales qu’elles soient en propriété exclusive ou non, individus, et administrateurs, sont des affiliés au soumissionnaire si : <br/>
+<ol type="a">
+<li value="1">	le soumissionnaire ou l’affilié contrôle directement ou indirectement l'autre ou a le pouvoir de le faire, ou</li>
+<li value="2">un tiers a le pouvoir de contrôler le soumissionnaire et l’affilié.</li>
+</ol>
+
+Les indices de contrôle comprennent, sans s’y limiter, une gestion ou une propriété interdépendante, l’identité d'intérêts des membres d'une famille, le partage d'installations et d'équipement, l'utilisation conjointe d'employés ou une entité créée suite aux actions ou aux condamnations et à toute absolution sous conditions ou inconditionnelle précisées dans les présentes dispositions relatives à l’intégrité dont la gestion, la propriété ou les employés principaux sont les mêmes ou similaires, selon le cas.</li>
+<li value="4">	Les soumissionnaires qui sont incorporés, incluant ceux soumissionnant à titre de coentreprise, doivent fournir la liste complète des noms de tous les individus qui sont actuellement administrateurs du soumissionnaire. Les soumissionnaires soumissionnant à titre d’entreprise à propriétaire unique, incluant ceux soumissionnant dans le cadre de coentreprise, doivent fournir le nom du propriétaire. Les soumissionnaires soumissionnant à titre de sociétés, de sociétés de personnes, d'entreprises ou d'associations de personnes ou d’entreprises n’ont pas à fournir de liste de noms.<br/>
+
+Si les noms requis n’ont pas été fournis par le temps où l’évaluation des soumissions est complétée, le Canada informera le soumissionnaire du délai à l’intérieur duquel les renseignements doivent être fournis. À défaut de fournir ces noms dans le délai prévu, la soumission sera déclarée non recevable. Fournir les noms requis est une exigence obligatoire pour l’attribution d’un contrat.<br/> 
+
+Le Canada peut, à tout moment, demander au soumissionnaire de fournir des formulaires de consentement dûment remplis et signés (<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/formulaires-forms-fra.html#f229" rel="external">Consentement à la vérification de l’existence d’un casier judiciaire - PWGSC-TPSGC 229</a>) pour toute personne ou toutes les personnes mentionnées ci-dessus, et ce dans un délai précis. À défaut de fournir les formulaires de consentement et les renseignements connexes dans le délai prévu, ou à défaut de coopérer dans le cadre du processus de vérification la soumission sera déclarée non recevable.</li>
+<li value="5">Le soumissionnaire doit diligemment informer le Canada par écrit de tout changement touchant la liste des noms des administrateurs pendant ce processus d’achat ainsi que pendant la période du contrat . Il doit également fournir au Canada les formulaires de consentement dûment remplis et signés lorsque la demande lui en est faite.</li>
+<li value="6">En présentant une soumission, le soumissionnaire atteste qu’il est informé, de même que ses affiliés, du fait que le Canada pourra demander d’autres informations, attestations, formulaires de consentement et élément prouvant son identité ou son éligibilité. Le Canada pourra aussi vérifier tous les renseignements fournis par le soumissionnaire, incluant les renseignements relatifs aux actions ou condamnations et à toute absolution sous conditions ou inconditionnelle précisées aux présentes dispositions relatives à l’intégrité en faisant des recherches indépendantes, en utilisant des ressources du gouvernement ou en communiquant avec des tiers.</li>
+<li value="7">En présentant une soumission, le soumissionnaire atteste que ni le soumissionnaire, ni aucun des affiliés du soumissionnaire n’ont versé ni accepté de verser, directement ou indirectement, et qu’ils ne verseront pas, directement ou indirectement, des honoraires conditionnels à un particulier pour la sollicitation, la négociation ou l’obtention du contrat, si le paiement de ces honoraires obligerait cette personne à faire une déclaration en application de l’article 5 de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/L-12.4/" rel="external">Loi sur le lobbying</a></cite>.</li>
+<li value="8"><dfn>Période de temps</dfn><br/>
+La période de temps est de 10 ans et se mesure à partir de la date de la condamnation ou de la date d’absolution sous conditions ou inconditionnelle.<br/>
+
+De plus pour une condamnation en vertu des alinéas a. ou b. du paragraphe 9, suivant la période de 10 ans, un pardon ou une suspension du casier judiciaire devra avoir été obtenu, ou les droits devront avoir été rétablis par le gouverneur en conseil. Le soumissionnaire doit donc fournir avec sa soumission ou le plus tôt possible après le dépôt de celle-ci, une copie des documents le confirmant et provenant d’une source officielle afin que le Canada juge l’attestation véridique aux fins des présentes dispositions relatives à l’intégrité. Si aucun document n’a été fourni par le temps où l’évaluation des soumissions est complété, le Canada informera le soumissionnaire du délai à l’intérieur duquel les renseignements doivent être fournis. À défaut de fournir les renseignements dans le délai prévu, la soumission sera déclaré non recevable.</li>
+<li value="9">	En présentant une soumission, le soumissionnaire atteste que ni le soumissionnaire, ni aucun des affiliés du soumissionnaire n’ont été reconnus coupables d’une infraction ou n’ont reçu une des dispositions ci-après précisées, sauf si la période de temps et ce, conformément au paragraphe Période de temps, est écoulée : 
+
+<ol type="a">
+<li value="1">l'alinéa 80(1)d) (<em>Fausse inscription, faux certificat ou faux rapport</em>), le paragraphe 80(2) (<em>Fraude commise au détriment de Sa Majesté</em>) ou l'article 154.01 (<em>Fraude commise au détriment de Sa Majesté</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/f-11/" rel="external">Loi sur la gestion des finances publiques</a></cite>, ou </li>
+<li value="2">l'article 121 (<em>Fraudes envers le gouvernement et Entrepreneur qui souscrit à une caisse électorale</em>), l'article 124 (<em>Achat ou vente d'une charge</em>), l'article 380 (<em>Fraude</em>) pour fraude commise au détriment de Sa Majesté ou l'article 418 (<em>Vente d'approvisionnements défectueux à Sa Majesté</em>), du <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-46/" rel="external">Code criminel</a></cite> , ou </li>
+<li value="3">l’article 119 (<em>Corruption de fonctionnaires judiciaires, etc.</em>), l’article 120 (<em>Corruption de fonctionnaires</em>), l’article 346 (Extorsion), les articles 366 à 368 (<em>Faux et infractions similaires</em>), l’article 382 (<em>Manipulations frauduleuses d’opérations boursières</em>), l’article 382.1 (<em>Délit d’initié</em>), l’article 397 (<em>Falsification de livres et documents</em>), l’article 422 (<em>Violation criminelle de contrat</em>), l’article 426 (<em>Commissions secrètes</em>), l’article 462.31 (<em>Recyclage des produits de la criminalité</em>) ou les articles 467.11 à 467.13 (<em>Participation aux activités d’une organisation criminelle</em>) du <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-46/" rel="external">Code criminel</a></cite>, ou</li>
+<li value="4">l’article 45 (<em>Complot, accord ou arrangement entre concurrents</em>), l’article 46 (<em>Directives étrangères</em>), l’article 47 (<em>Truquage des offres</em>), l’article 49 (<em>Accords bancaires fixant les intérêts, etc.</em>), l’article 52 (<em>Indications fausses ou trompeuses</em>), l’article 53 (<em>Documentation trompeuse</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-34/" rel="external">Loi sur la concurrence</a></cite>, ou</li>
+<li value="5">l’article 239 (<em>Déclarations fausses ou trompeuses</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/I-3.3/index.html" rel="external">Loi de l'impôt sur le revenu</a></cite>, ou</li>
+<li value="6">l’article 327 (<em>Déclarations fausses ou trompeuses</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/E-15/" rel="external">Loi sur la taxe d'accise</a></cite>, ou</li>
+<li value="7">l’article 3 (<em>Corruption d’un agent public étranger</em>), l’article 4 (<em>Comptabilité</em>), ou l’article 5 (<em>Infraction commise à l’étranger</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-45.2/" rel="external">Loi sur la corruption d’agents publics étrangers</a></cite>, ou </li>
+<li value="8">l’article 5 (<em>Trafic de substances</em>), l’article 6 (<em>Importation et exportation</em>), ou l’article 7 (<em>Production de substances</em>) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-38.8/" rel="external">Loi réglementant certaines drogues et autres substances</a></cite>.</li>
+</ol>
+
+Le soumissionnaire atteste en outre qu’aucune personne déclaré coupable de l’une des infractions énoncées en a. ou b. ne recevra un avantage en vertu d’un contrat subséquent à cette demande de soumissions, sauf si un pardon ou une suspension de casier a été obtenu ou les droits rétablis par le gouverneur en conseil, et ce conformément au paragraphe Période de temps.</li>
+<li value="10"><dfn>Infractions commises à l’étranger</dfn><br/>
+Le soumissionnaire atteste également qu’au cours d’une période et ce, conformément au paragraphe Période de temps, ni le soumissionnaire ni aucun de ses affiliés n’ont été reconnus coupables ou n’ont reçu une absolution sous conditions ou inconditionnelle en vertu d’une infraction commise à l’étranger pour laquelle le Canada juge que les éléments constitutifs sont semblables aux infractions énumérées dans les présentes dispositions relatives à l’intégrité. De plus, le Canada envisagera tenir compte des mesures étrangères qu’il juge être de nature semblable au pardon canadien, à la suspension du casier judiciaire et au rétablissement des droits par le gouverneur en conseil en vigueur au Canada.</li>
+<li value="11"><dfn>Sous-traitants</dfn><br/>
+Le soumissionnaire doit s’assurer que les contrats de sous-traitance comprennent des dispositions relatives à l’intégrité qui ne sont pas moins favorables pour le Canada que celles imposées dans la contrat subséquent.</li>
+<li value="12"><dfn>Mesures de prévention associées à la période de temps</dfn><br/>
+Dans les cas où la période (conformément au paragraphe Période de temps), pour une condamnation ou une absolution sous conditions ou inconditionnelle du soumissionnaire ou de tout affiliés du est écoulée, le soumissionnaire doit 	également attester pour lui-même et ses affiliés, que des mesures ont été 	diligemment mises en place afin d’éviter que de tels condamnations ou actes 	répréhensibles ne se reproduisent.</li>
+<li value="13"><dfn>Exception à l’égard de l’intérêt public</dfn><br/>
+Les soumissionnaires reconnaissent que le Canada pourrait, conclure un 	contrat avec un soumissionnaire même si ce soumissionnaire ou un affilié de celui-ci a été reconnu coupable ou a reçu une absolution sous conditions ou inconditionnelle pour une infraction précisée dans les présentes dispositions relatives à l’intégrité, lorsqu’ainsi requis de le faire en vertu d’une obligation légale ou judiciaire ou lorsque le Canada à sa seule discrétion l’estime nécessaire dans l’intérêt public pour des raisons incluant, mais sans s’y limiter : 
+
+
+<ul>
+<li>aucune autre personne ne peut exécuter le contrat;</li>
+<li>urgence;</li>
+<li>sécurité nationale;</li>
+<li>santé ou sécurité;</li>
+<li>préjudice économique.</li>
+</ul>
+
+
+Si toutes les soumissions sont déclaré non recevables en raison d’une 	condamnation ou d’une action pertinente énumérée aux présentes dispositions, le Canada peut invoquer l’exception visant a protéger l’intérêt public, tel que d’écrit ci-dessus. Dans de tels cas, seules les soumissions contenant une déclaration concernant une infraction ou une action pertinente, seront prises en compte. Le Canada peut également choisir de s’approvisionner à l’extérieur du présent processus. Dans tout les cas le Canada se réserve le droit d’imposer des conditions ou des mesures 	supplémentaires afin d’assurer l’intégrité du processus d’approvisionnement. </li>
+<li value="14"><dfn>Non application</dfn><br/>
+Pour les gouvernements, de même que pour les entités contrôlées par un gouvernement, y compris les sociétés d’État, les présentes dispositions relatives à l’intégrité se limitent à respecter l’article 750 du <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/C-46/" rel="external">Code criminel</a></cite>, le <cite><a href="http://laws-lois.justice.gc.ca/fra/reglements/DORS-87-402/" rel="external">Règlement sur les marchés de l’État</a></cite> et le <cite><a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/cndt-cndct/contexte-context-fra.html" rel="external">Code de conduite pour l'approvisionnement</a></cite></li>
+</ol>
+<h2 id="la-soumission">IG02 (2014-06-26) La soumission</h2>
+<ol type="1">
+<li value="1">La soumission doit:
+<ol type="a">
+<li value="1">être présentée sur le Formulaire de
+soumission et d'acceptation obtenu par l'entremise du Service
+électronique d'appels d'offres du gouvernement (SEAOG) ou sur
+une reproduction claire et lisible de ce formulaire qui doit
+être identique à tous égards au Formulaire de
+soumission et d'acceptation obtenu par l'entremise du SEAOG;</li>
+<li value="2">doit être établie en fonction des documents
+de soumission énumérés aux Instructions
+particulières aux soumissionnaires;</li>
+<li value="3">doit être remplie correctement à tous
+égards;</li>
+<li value="4">être signée par un représentant
+dûment autorisé par le soumissionnaire; et</li>
+<li value="5">être accompagnée
+<ol type="i">
+<li value="1">de la garantie de soumission précisée
+à l'IG08; et</li>
+<li value="2">de tout autre document précisé ailleurs dans les
+documents de soumissions où il est stipulé que ledit
+document doit accompagner la soumission.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Sous réserve des dispositions du paragraphe 6) de l'IG11, toute modification aux sections pré-dactylographiées ou pré-imprimées du Formulaire de soumission et d'acceptation ou toute condition ou restriction ajoutée à la soumission pourrait constituer une cause directe de rejet. Les modifications, corrections, changements ou ratures apportés à des énoncés ou à des chiffres entrés sur le Formulaire de soumission et d'acceptation par le soumissionnaire doivent être paraphés par la ou les personnes qui signent la soumission. Les modifications, corrections, changements ou ratures non paraphés seront considérés comme nuls et sans effet.</li>
+<li value="3">Les soumissions envoyées par télécopieur ne sont pas acceptables, à moins d'indication contraire aux documents de soumissions.</li>
+<li value="4">Le Canada diffusera les avis de projet de marché (APM), les demandes de soumissions et les documents connexes, aux fins de téléchargement, par l’entremise du Service électronique d’appels d’offres du gouvernement (SEAOG). Le Canada n’est pas responsable de l’information figurant sur les sites Web de tiers, et n’assumera aucune responsabilité, quelle qu’elle soit, à cet égard. Le Canada n’enverra aucun avis si un <abbr title="Avis de projet de marchés">APM</abbr>, une demande de soumissions ou des documents connexes sont modifiés. Le Canada affichera toutes les modifications, incluant les demandes de renseignements importantes reçues ainsi que les réponses, au moyen du <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr>. Il appartient entièrement au soumissionnaire de consulter de façon régulière le <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr> pour obtenir l'information la plus à jour. Le Canada ne sera pas responsable et n’assumera aucune responsabilité quant au manquement de la part du soumissionnaire à consulter les mises-à-jour sur le <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr>, ni de l’utilisation des services d'avis offerts par un tiers. </li>
+</ol>
+<h2 id="identite-ou-capacite-civile-du-soumissionnaire">IG03 (2015-02-25) Identité ou capacité civile du
+soumissionnaire</h2>
+<p>Pour confirmer le pouvoir des signataires et de
+manière à déterminer la capacité civile en
+vertu de laquelle il entend conclure un marché, le
+soumissionnaire qui exerce ses activités commerciales sous un
+nom autre que son nom personnel doit, avant l'attribution du
+contrat, fournir, à la demande du Canada, une preuve
+satisfaisante de</p>
+<ol type="a">
+<li value="1">ce pouvoir de signature;</li>
+<li value="2">la capacité civile en vertu de laquelle il
+exerce ses activités commerciales.</li></ol>
+<p>Il peut s'agir, comme preuve du pouvoir de signature, d'une
+copie certifiée conforme d'une résolution nommant le ou
+les signataires autorisés à signer la présente
+soumission au nom de la compagnie constituée en personne
+morale ou de la société de personnes et, comme preuve de
+la capacité civile, d'une copie des documents d'incorporation
+ou de l'enregistrement d'un nom commercial d'un propriétaire
+unique, d'une raison sociale (appellation commerciale) ou de la
+constitution d'une société.</p>
+<h2 id="taxes-applicables">IG04 (2015-02-25) Taxes applicables</h2>
+<p>« <dfn>Taxes applicables</dfn> » signifie la taxe sur les produits et services (TPS), la taxe de vente harmonisée (TVH), et toute taxe provinciale payable par le Canada selon la loi, tel que la taxe de vente du Québec (TVQ) à compter du 1er avril 2013.
+</p>
+<h2 id="frais-d-immobilisation">IG05 (2015-02-25) Frais d'immobilisation</h2>
+<p>Pour l'application de la CG1.8,  de R2810T « Lois, permis et taxes », seuls les droits ou les frais ayant trait
+directement au traitement et à l'émission de permis de
+construire doivent être inclus. Les soumissionnaires ne
+doivent pas inclure, dans le montant de leur soumission, les sommes
+correspondantes à des droits spéciaux d'aménagement ou
+de réaménagement municipaux qu'une administration
+municipale peut exiger comme condition préalable à
+l'établissement des permis de construire.</p>
+<h2 id="immatriculation-et-evaluation-prealable-de-l-outillage-flottant">IG06 (2015-02-25) Immatriculation et évaluation
+préalable de l'outillage flottant</h2>
+<p>Les dragues ou autres outillages flottants qui seront
+utilisés dans l'exécution des travaux doivent être
+immatriculés au Canada. Dans le cas des dragues ou des autres
+outillages flottants non fabriqués au Canada, le
+soumissionnaire doit se faire délivrer, par Industrie Canada,
+un certificat d'évaluation décrit dans l'appendice
+consacré aux outillages flottants dans le Formulaire de
+soumission et d'acceptation et joindre ce certificat à sa
+soumission. L'outillage ainsi évalué par Industrie Canada
+pourra être accepté dans le cadre de ce projet de
+dragage.</p>
+<h2 id="liste-des-sous-traitants-et-fournisseurs">IG07 (2015-02-25) Liste des sous-traitants et fournisseurs</h2>
+<p>Nonobstant toute liste de sous-traitants que le
+soumissionnaire peut être tenu de déposer dans le cadre
+de la soumission, le soumissionnaire devra, dans le délai de
+quarante-huit (48) heures suivant la réception d'un avis
+écrit à ce sujet, soumettre les noms des sous-traitants
+et des fournisseurs pour la ou les parties des travaux
+énumérées dans ledit avis. Le non-respect de ces
+exigences donnera lieu au rejet de la soumission.</p>
+<h2 id="exigences-relatives-a-la-garantie-de-soumission">IG08 (2014-06-26) Exigences relatives à la garantie de
+soumission</h2>
+<ol type="1">
+<li value="1">Le soumissionnaire doit inclure dans sa soumission
+une garantie de soumission sous la forme d'un cautionnement de
+soumission ou d'un dépôt de garantie. Ladite garantie
+doit représenter au moins 10 p. 100 du montant de la
+soumission. Les taxes applicables ne doivent pas entrer en ligne de compte dans le calcul du montant de la garantie de soumission qui peut être exigée. Le montant maximum de la garantie de soumission requise
+est de 2 000 000 $, quel que soit le montant de la soumission.</li>
+<li value="2">Le cautionnement de soumission (formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/504-fra.html" rel="external">PWGSC-TPSGC
+504</a>) doit être établi dans une forme approuvée,
+être dûment rempli, porter les signatures
+originales ainsi que le sceau d'une compagnie dont les cautionnements sont
+acceptés par le gouvernement du Canada au moment de la
+clôture des soumissions ou d'une compagnie désignée
+à l'Appendice L, <a href="http://www.tbs-sct.gc.ca/pol/doc-fra.aspx?id=14494&amp;section=text#appL" rel="external">
+Compagnies de cautionnement reconnues</a>, du Conseil du
+Trésor.</li>
+<li value="3">Le dépôt de garantie doit être un
+original, dûment rempli et signé dans l'espace
+prévu, ce peut être :
+
+<ol type="a">
+<li value="1">une lettre de change, une traite bancaire ou un mandat de poste établi à l'ordre du Receveur général du Canada et certifié par une institution financière approuvée ou tiré par une institution financière approuvée sur son propre compte; ou</li>
+<li value="2">des obligations du gouvernement du Canada ou des obligations garanties inconditionnellement quant au capital et aux intérêts par le gouvernement du Canada.</li>
+</ol>
+</li>
+<li value="4">Aux fins du sous-alinéa 3.a. de la IG08
+
+<ol type="a">
+<li value="1">une lettre de change est un ordre inconditionnel donné par écrit par le soumissionnaire à une institution financière agréée et obligeant ladite institution à verser, sur demande et à une certaine date, une certaine somme au Receveur général du Canada ou à l'ordre de ce dernier;</li>
+<li value="2">si une lettre de change, une traite bancaire ou un mandat de poste est certifié(e) ou tiré par une institution financière ou une institution autre qu'une banque à charte, elle/il doit être accompagné(e) d'une lettre ou d'une attestation estampillée confirmant que l'institution financière appartient à au moins l'une des catégories mentionnées au sous-alinéa 4.c. de la IG08</li>
+<li value="3">une institution financière agréée est :
+
+<ol type="i">
+<li value="1">	une société ou institution membre de l'Association canadienne des paiements tel que défini dans la <cite><a href="http://laws.justice.gc.ca/fra/lois/C-21/" rel="external">Loi canadienne sur les paiements</a></cite>;
+</li>
+<li value="2">	une société qui accepte les dépôts assurés par la Société d'assurance-dépôts du Canada ou l'a Régie de l'assurance-dépôts du QuébecAutorité des marchés financiers, et ce, jusqu'au maximum autorisé par la loi;
+</li>
+<li value="3">	une société qui accepte les dépôts du public et pour laquelle le remboursement des dépôts est garanti par Sa Majesté au nom d'une province;
+</li>
+<li value="4">	une société, une association ou une fédération constituée ou organisée comme caisse de crédit ou société coopérative de crédit, qui se conforme aux exigences d'une caisse de crédit, lesquelles sont plus amplement décrites au paragraphe 137(6) de la <cite><a href="http://laws-lois.justice.gc.ca/fra/lois/I-3.3/index.html" rel="external">Loi de l'impôt sur le revenu</a></cite>; ou
+</li>
+<li value="5">	La Société canadienne des Postes.
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="5">Les obligations visées au sous-alinéa 3) b)
+de l'IG08 doivent être fournies à leur valeur courante du
+marché à la date limite de réception des
+soumissions, et doivent être
+
+<ol type="a">
+<li value="1">soit payables au porteur; ou</li>
+<li value="2">soit accompagnées d'un acte dûment
+exécuté de transfert des obligations au Receveur
+général du Canada sous la forme prescrite par le
+<em>Règlement sur les obligations intérieures du
+Canada</em>; ou</li>
+<li value="3">soit enregistrées quant au principal, ou quant
+au principal et intérêts à la fois au nom du
+Receveur général du Canada conformément au
+<cite>Règlement sur les obligations intérieures du
+Canada</cite>.</li>
+</ol>
+</li>
+<li value="6">Une lettre de crédit de soutien irrévocable
+est acceptable par le Canada comme alternative à un
+dépôt de garantie et le montant doit être
+établi de la même façon qu'un dépôt de
+garantie mentionné ci-dessus.</li>
+<li value="7">Une lettre de crédit de soutien irrévocable
+mentionnée à l'alinéa 6) de l'IG08
+<ol type="a">
+<li value="1">doit être un arrangement, quel qu'en soit le nom
+ou la description, en fonction duquel une institution
+financière (l'émetteur) agissant conformément aux
+instructions ou aux demandes d'un client (demandeur), ou en son nom
+propre, qui
+<ol type="i">
+<li value="1">verse un paiement au receveur général du
+Canada, en tant que bénéficiaire;</li>
+<li value="2">accepte et paye les lettres de change tirées par le
+receveur général du Canada;</li>
+<li value="3">autorise une autre institution financière à
+effectuer un tel paiement ou à accepter et à payer de
+telles lettres de change; ou</li>
+<li value="4">autorise une autre institution financière à
+négocier, à la suite d'une demande écrite de
+paiement, à condition que les modalités de la lettre de
+crédit soient respectées;</li>
+</ol>
+</li>
+<li value="2">précise la somme nominale qui peut être
+retirée;</li>
+<li value="3">précise sa date d'expiration;</li>
+<li value="4">prévoit le paiement à vue au receveur
+général du Canada à partir de la lettre de change de
+l'institution financière sur présentation d'une demande
+écrite de paiement signée par le représentant du
+ministère autorisé identifié dans la lettre de
+crédit par son bureau;</li>
+<li value="5">prévoit que plus d'une demande écrite de
+paiement puisse être présentée à condition que
+la somme de ces demandes ne dépasse pas la valeur nominale de
+la lettre de crédit;</li>
+<li value="6">prévoit son assujettissement aux <cite>Règles et
+usances uniformes (RUU) relatives aux crédits documentaires</cite> de
+la Chambre de commerce internationale (CCI), révision de 2007,
+publication de la <abbr title="Chambre de commerce internationale">CCI</abbr> no 600; En vertu des Règles et usances
+uniformes relatives aux crédits documentaires de la CCI, un
+crédit est irrévocable même s'il n'y a pas
+d'indication à cet effet; et</li>
+<li value="7">est émise ou confirmée, dans l'une ou
+l'autre des langues officielles, par une institution
+financière qui est membre de l'Association canadienne des
+paiements et qui est sur le papier en-tête de l'émetteur
+ou du confirmateur. La mise en page est laissée à la
+discrétion de l'émetteur ou du confirmateur.</li>
+</ol>
+</li>
+<li value="8">La garantie de soumission viendra à
+échéance ou sera retournée, dans des délais
+raisonnables, suivant :
+<ol type="a">
+<li value="1">la date de fermeture des soumissions, pour un
+soumissionnaire dont la soumission est non conforme; et</li>
+<li value="2">la révision administrative des soumissions, pour
+les soumissionnaires dont la soumission est conforme et
+classée du quatrième au dernier rang dans l'échelle
+de classement; et</li>
+<li value="3">l'octroi du contrat, pour les soumissionnaires dont
+la soumission est retenue et classée au deuxième et
+troisième rangs dans l'échelle de classement; et</li>
+<li value="4">la réception de la garantie contractuelle, pour
+le soumissionnaire retenu; ou</li>
+<li value="5">l'annulation de l'invitation pour tous les
+soumissionnaires.</li>
+</ol>
+</li>
+<li value="9">Nonobstant les dispositions de l'alinéa 8 de
+l'IG08 et à condition que trois (3) soumissions conformes ou
+plus aient été reçues, si une ou plusieurs des
+soumissions classées du troisième au premier rang sont
+retirées ou rejetées, pour quelques raisons que ce soit,
+le Canada se réserve le droit de retenir la garantie de la
+soumission conforme suivante afin de retenir la garantie de
+soumission d'au moins trois (3) soumissions valides et
+conformes.</li>
+</ol>
+<h2 id="livraison-des-soumissions">IG09 (2014-03-01) Livraison des soumissions</h2>
+<ol type="1">
+<li value="1">Le Formulaire de soumission et d'acceptation rempli
+en bonne et due forme et la garantie de soumission doivent
+être joints et cachetés dans l'enveloppe fournie par le
+soumissionnaire. L'enveloppe doit être adressée et
+soumise au bureau désigné sur la page frontispice « Appel d'offres » pour la réception des soumissions. La
+soumission doit parvenir à ce bureau au plus tard à la
+date et à l'heure indiquées pour la clôture des
+soumissions.</li>
+<li value="2">Sauf indication contraire aux Instructions
+particulières aux soumissionnaires
+<ol type="a">
+<li value="1">la soumission doit être en dollars canadiens;</li>
+<li value="2">le besoin ne prévoit pas offrir d’atténuer les risques liés à la fluctuation du taux de change. Aucune demande d’atténuation des risques liés à la fluctuation du taux de change ne sera prise en considération. Toute soumission incluant une telle disposition sera déclarée non recevable.</li>
+</ol>
+</li>
+<li value="3">Avant de présenter sa soumission, le
+soumissionnaire doit s'assurer que l'information suivante est
+reproduite clairement, en caractères de frappe ou d'imprimerie
+au recto de l'enveloppe de retour :
+<ol type="a">
+<li value="1">numéro de l'invitation;</li>
+<li value="2">le nom du soumissionnaire;</li>
+<li value="3">l'adresse de l'expéditeur; et</li>
+<li value="4">l'heure et la date de clôture.</li>
+</ol>
+</li>
+<li value="4">La livraison correcte des soumissions dans les
+délais prescrits est la responsabilité exclusive du
+soumissionnaire.</li>
+</ol>
+<h2 id="revision-des-soumissions">IG10 (2014-06-26) Révision des soumissions</h2>
+<ol type="1">
+<li value="1">Une soumission présentée conformément
+aux présentes instructions peut être révisée
+par lettre ou par télécopie, pourvu que la révision
+soit reçue au bureau désigné pour la remise des
+soumissions au plus tard à la date et à l'heure limites
+de clôture des soumissions. Le document doit porter
+l'en-tête de lettre ou la signature identifiant le
+soumissionnaire.</li>
+<li value="2">Une modification à une soumission comportant des
+prix unitaires doit clairement identifier la(les) modification(s)
+au(x) prix unitaire(s) et préciser au(x)quel(s) des prix
+unitaires la(les) modification(s) s'applique(nt).</li>
+<li value="3">Une lettre ou une télécopie visant à
+confirmer une révision antérieure devrait clairement
+indiquer qu'il s'agit d'une confirmation.</li>
+<li value="4">Si des dispositions ci-dessus ne sont pas
+respectées, la ou les révisions irrecevables seulement
+pourrait/pourraient être rejetées. L'évaluation portera sur la
+soumission initiale déposée de même que sur toutes
+les autres révisions recevables.</li>
+</ol>
+<h2 id="rejet-de-la-soumission">IG11 (2014-09-25) Rejet de la soumission</h2>
+<ol type="1">
+<li value="1">Le Canada n'est tenu d'accepter aucune soumission,
+même la plus basse.</li>
+<li value="2">Sans limiter la portée générale de
+l'alinéa 1) de l'IG11, le Canada peut rejeter une soumission
+dans l'un ou l'autre des cas suivants :
+
+<ol type="a">
+<li value="1">les privilèges permettant au soumissionnaire de
+présenter des soumissions ont été suspendus ou sont
+en voie de le devenir;</li>
+<li value="2">les privilèges permettant à tout
+employé ou sous-traitant visé dans la soumission de
+présenter des soumissions sont soumis à une suspension ou
+sont en voie de le devenir, ce qui rendrait l'employé ou le
+sous-traitant inadmissible à soumissionner pour les travaux ou
+pour à la partie des travaux que le sous-traitant ou
+l'employé doit exécuter;</li>
+<li value="3">Le soumissionnaire déclare faillite ou ne peut, pour quelque motif que ce soit, exercer ses activités pour une durée prolongée;</li>
+<li value="4">des preuves de fraude, de corruption ou de fausse déclaration ou des preuves confirmant l'incapacité de respecter des lois protégeant les personnes contre toute forme de discrimination ont été déposées à la satisfaction du Canada à l'égard du soumissionnaire, de l'un quelconque de ses employés ou d'un sous-traitant visé dans sa soumission;</li>
+<li value="5">des profuse à la satisfaction du Canada que, compte tenu de son comportement antérieur, le soumissionnaire, un sous-traitant ou une personne désignée pour exécuter les travaux ne convient pas ou s'est comporté de façon inappropriée;</li>
+<li value="6">Dans le cadre de transactions actuelles ou antérieures avec le Canada
+
+<ol type="i">
+<li value="1">le Canada a exercé ou est en voie d'exercer le
+recours contractuel lui permettant de retirer les travaux au
+soumissionnaire, à un sous-traitant ou à un employé
+visé dans la soumission; ou</li>
+<li value="2">Le Canada détermine que le rendement du
+soumissionnaire dans le cadre d'autres marchés est
+suffisamment médiocre pour qu'on le considère incapable
+de répondre au besoin faisant l'objet de la soumission.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="3">Dans l'évaluation du rendement du
+soumissionnaire dans le cadre d'autres contrats conformément
+au sous-alinéa 2)(f)(ii) de l'IG11, le Canada peut tenir
+compte, notamment, des questions suivantes :
+<ol type="a">
+<li value="1">la qualité de l'exécution des travaux du
+soumissionnaire;</li>
+<li value="2">les délais dans lesquels les travaux ont
+été achevés;</li>
+<li value="3">la gestion générale des travaux de
+l'entrepreneur et son incidence sur le niveau d'effort exigé
+de la part du Ministère et de ses représentants.</li>
+<li value="4">l'intégralité et l'efficacité du
+programme de sécurité de l'entrepreneur lors de
+l'exécution des travaux.</li>
+</ol>
+</li>
+<li value="4">Sans limiter la portée générale des
+alinéas 1), 2) et 3) de l'IG11, le Canada peut rejeter toute
+soumission selon une évaluation défavorable des
+éléments suivants :
+<ol type="a">
+<li value="1">le caractère suffisant du prix soumis pour
+permettre de réaliser les travaux, dans le cas des soumissions
+proposant des prix unitaires, quant à savoir si chaque prix
+tient fidèlement compte du coût de l'exécution de la
+partie des travaux à laquelle ce prix s'applique;</li>
+<li value="2">la capacité du soumissionnaire à assurer la
+structure de gestion, le personnel compétent,
+l'expérience et l'équipement nécessaires pour
+exécuter les travaux avec compétence dans le cadre du
+contrat;</li>
+<li value="3">le rendement du soumissionnaire dans le cadre
+d'autres contrats.</li>
+</ol>
+</li>
+<li value="5">Dans les cas où une soumission devrait être
+rejetée conformément au alinéas 1), 2), 3) ou 4) de
+l'IG11, pour des motifs distincts-+ de ceux exposés au
+sous-alinéa 2)(a) de l'IG11, l'autorité contractante le
+fera savoir au soumissionnaire et lui donnera un délai de dix
+(10) jours pour faire valoir son point de vue, avant de rendre une
+décision définitive sur le rejet de la soumission.</li>
+<li value="6">Le Canada peut ignorer les vices de forme et les
+irrégularités mineures contenues dans les soumissions
+qu'il reçoit s'il détermine que les différences
+entre la soumission et les exigences énoncées dans les
+documents de soumission peuvent être corrigées ou
+ignorées sans qu'un préjudice ne soit causé aux
+autres soumissionnaires.</li>
+</ol>
+<h2 id="couts-relatifs-aux-soumissions">IG12 (2015-02-25) Coûts relatifs aux soumissions</h2>
+<p>Aucun paiement ne sera versé pour des coûts
+encourus pour la préparation et la présentation d'une
+soumission en réponse à la demande de soumissions. Le
+soumissionnaire sera seul responsable des frais engagés dans
+la préparation et la présentation d'une soumission, ainsi
+que des frais engagés par lui pour l'évaluation de sa
+soumission.</p>
+<h2 id="numero-d-entreprise-approvisionnement">IG13 (2015-02-25) Numéro d'entreprise -
+approvisionnement</h2>
+<p>Les soumissionnaires doivent avoir un
+numéro d'entreprise - approvisionnement (NEA) avant de se voir
+attribuer un contrat. Pour obtenir un NEA, les soumissionnaires
+peuvent s'inscrire au service Données d'inscription des
+fournisseurs, sur le site Web <a href="http://www.contractscanada.gc.ca/index-fra.html" rel="external">Contrats
+Canada</a>. Pour s'inscrire autrement que par Internet, les
+soumissionnaires peuvent communiquer avec <a href="http://www.contractscanada.gc.ca/pcif-srpc-fra.html" rel="external">l'agent
+d'inscription des fournisseurs</a> le plus près.</p>
+<h2 id="respect-des-lois-applicables">IG14 (2013-04-25) Respect des lois applicables</h2>
+<ol type="1">
+<li value="1">En présentant une soumission, le soumissionnaire
+atteste qu'il a la capacité juridique de conclure un contrat
+et qu'il a en sa possession toutes les licences valides, permis,
+inscription, attestation, déclarations, dépôt, ou
+autres autorisations requises pour satisfaire à toutes les
+lois et tous les règlements fédéraux, provinciaux et
+municipaux qui s'appliquent à la présentation de la
+soumission et à l'établissement du contrat
+subséquent portant sur l'exécution des travaux.</li>
+<li value="2">Aux fins de vérification des exigences
+mentionnées à l'alinéa 1) de l'IG14, le
+soumissionnaire doit, sur demande, fournir une copie de chaque
+licence, permis, inscription, attestation, déclaration,
+dépôt ou autre autorisation valides indiquée dans la
+demande, tout en respectant le délai établi pour la
+présentation de ces documents.</li>
+<li value="3">Le non-respect des exigences exprimées à
+l'alinéa 2) de l'IG14 donnera lieu au rejet de la
+soumission.</li>
+</ol>
+<h2 id="approbation-des-materiaux-de-remplacement">IG15 (2015-02-25) Approbation des matériaux de remplacement</h2>
+<p>Dans les cas où l'on précise des
+matériaux en fonction d'une appellation ou d'une marque de
+commerce ou du nom du fabricant ou du fournisseur, la soumission
+doit être basée sur l'utilisation des matériaux
+désignés. Pendant la période d'invitation, on pourra
+considérer des matériaux de remplacement à la
+condition que l'agent des contrats reçoive par écrit des
+données techniques complètes au moins dix (10) jours
+avant la date fixée pour la clôture des soumissions. Si
+on approuve des matériaux de remplacement pour les besoins de
+la soumission, on publiera un addenda aux documents de
+soumissions.</p>
+<h2 id="evaluation-du-rendement">IG16 (2010-01-11) Évaluation du rendement</h2>
+<ol type="1">
+<li value="1">Les soumissionnaires doivent noter que le Canada
+évaluera le rendement de l'entrepreneur pendant la
+réalisation des travaux et au moment de leur achèvement.
+Cette évaluation portera sur la qualité de
+l'exécution des travaux, les délais d'exécution, la
+gestion de projet, la gestion du contrat et la gestion de la
+santé et sécurité. Si le rendement de l'entrepreneur
+est jugé insatisfaisant, les privilèges lui permettant de
+présenter des soumissions dans le cadre de travaux
+ultérieurs pourront être suspendus
+indéfiniment.</li>
+<li value="2">Le formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/2913-fra.html" rel="external">PWGSC-TPSGC
+2913</a>, SELECT - Formulaire du rapport d'évaluation du
+rendement de l'entrepreneur, est utilisé pour évaluer le
+rendement.</li>
+</ol>
+<h2 id="conflit-d-interets-avantage-indu">IG17 (2012-07-16) Conflit d'intérêts / avantage
+indu</h2>
+<ol type="1">
+<li value="1">Afin de protéger l'intégrité du
+processus d'approvisionnement, les soumissionnaires sont
+avisés que le Canada peut rejeter une soumission dans les
+circonstances suivantes :
+<ol type="a">
+<li value="1">le soumissionnaire, un de ses sous-traitants, un de
+leurs employés respectifs, actuels ou anciens, a
+participé d'une manière ou d'une autre à la
+préparation de la demande de soumissions; ou est en situation
+de conflit d'intérêts ou d'apparence de conflit
+d'intérêts.</li>
+<li value="2">le Canada juge que le soumissionnaire, un de ses
+sous-traitants, un de leurs employés respectifs, actuels ou
+anciens, a eu accès à des renseignements relatifs à
+la demande de soumissions qui n'étaient pas à la
+disposition des autres soumissionnaires et que cela donne ou semble
+donner au soumissionnaire un avantage indu.</li>
+</ol>
+</li>
+<li value="2">Le Canada ne considère pas, qu'en soi,
+l'expérience acquise par un soumissionnaire qui fournit ou a
+fourni les biens et services décrits dans la demande de
+soumissions (ou des biens et services semblables) représente
+un avantage indu en faveur du soumissionnaire ou crée un
+conflit d'intérêts. Ce soumissionnaire demeure cependant
+assujetti aux critères énoncés plus hauts.</li>
+<li value="3">Dans le cas où le Canada a l'intention de
+rejeter une soumission conformément au présent article,
+l'autorité contractante préviendra le soumissionnaire et
+lui donnera la possibilité de faire valoir son point de vue,
+avant de prendre une décision définitive. Les
+soumissionnaires ayant un doute par rapport à une situation
+particulière devraient contacter l'autorité contractante
+avant la date de clôture de la demande de soumissions. En
+soumissionnant, le soumissionnaire déclare qu'il n'est pas en
+conflit d'intérêts et qu'il ne bénéficie
+d'aucun avantage indu. Le soumissionnaire reconnaît que le
+Canada est seul habilité à établir s'il existe un
+conflit d'intérêts, un avantage indu ou une apparence de
+conflit d'intérêts ou d'avantage indu.</li>
+</ol>
+</div></pre>

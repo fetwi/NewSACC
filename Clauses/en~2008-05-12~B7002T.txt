@@ -1,0 +1,26 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Government-supplied material (GSM) must be used in
+the manufacture of the item(s) detailed in the Contract. The Bidder
+must state in its bid the following <abbr title="Government-supplied material">GSM</abbr> information for each item:
+<ol type="a">
+<li value="1">description;</li>
+<li value="2">minimum width;</li>
+<li value="3">item;</li>
+<li value="4">quantity per unit;</li>
+<li value="5">unit price <var>_________</var> meters/each (Goods
+and Services Tax or Harmonized Sales Tax extra, as
+applicable).</li>
+</ol>
+<p>Material usage must be accurately estimated, as material
+required in addition to that estimated above must be purchased from
+Canada at the price indicated in the Contract. Usage of <abbr title="Government-supplied material">GSM</abbr> is a
+component of the bid price and will be a factor in the bid
+evaluation. Failure to indicate the <abbr title="Government-supplied material">GSM</abbr> required for each item will
+render the bid non-responsive.</p></li>
+<li value="2">Canada will provide to the successful Bidder the <abbr title="Government-supplied material">GSM</abbr>
+specified in the bid free of charge, including transportation to
+the following address: <span class="input-required"><var>_____</var> <kbd>(<i>the Bidder must insert the
+destination address</i>)</kbd></span>.</li>
+</ol>
+</div></pre>

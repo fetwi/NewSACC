@@ -1,0 +1,39 @@
+<pre>[*<strong>*Delete those items that do not apply, as well as this instruction</strong>**]
+
+<strong>General conditions</strong>
+
+1011A (_____), United States Purchases
+1026A (_____), Supplies - Firm Price
+1026B (_____), Supplies - Cost Reimbursement
+1031-2 (_____), Contract Cost Principles
+1034 (_____), Construction - Fixed Price and Unit Prices
+1053 (_____), Universities and other Institutions
+9329 (_____), Purchase of Commercially Available Goods and Services
+9601 (_____), General Conditions - Long Form
+9601-10 (_____), General Conditions - Medium Form
+9624 (_____), General Conditions - Research &amp; Development
+9628 (_____), Purchase of Commercially Available Goods and Services Under $25,000
+9676 (_____), General Conditions - Services
+CCC-50 (_____), Canadian Commercial Corporation
+TRA-95 (_____), Translation
+
+<strong>Supplemental general conditions</strong>
+
+1028 (_____), Ship Construction - Firm Price
+1029 (_____), Ship Repairs
+1033 (_____), Shipbuilding - Cost Reimbursement
+1036 (_____), Research and Development
+9601-1 (_____), Hardware Purchase or Lease
+9601-2 (_____), Software Development/Modification Services
+9601-3 (_____), Systems Integration
+9601-4 (_____), Licensed Software
+9601-5 (_____), Support Services for Licensed Software
+9601-6 (_____), Contractor to Own Intellectual Property Rights in 
+Foreground Information
+9601-7 (_____), Canada to Own Intellectual Property Rights in Foreground 
+Information
+LAB-180 (_____), Labour Conditions - Fair Wages and Hours of Labour 
+LAB-180B (_____), Labour Conditions
+
+
+</pre>

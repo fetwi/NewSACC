@@ -1,0 +1,71 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit soumettre une demande de paiement
+en utilisant le formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a>, Demande de paiement progressif.
+<p>Chaque demande doit présenter:</p>
+<!--<div style="margin-left: 2em" type="1">-->
+<ol type="a">
+<li value="1">toute l'information exigée sur le formulaire
+<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a>;</li>
+<li value="2">toute information pertinente détaillée
+à l'article intitulé « Présentation des
+factures » des conditions générales;</li>
+</ol>
+<p class="description"><strong><em>Instruction aux agents de négociation des
+contrats:</em></strong><em>Insérer toute information
+additionnelle qui doit être présentée et qui n'est
+pas couverte sous a) ou b) ci-dessus pour refléter le besoin.
+Ce qui suit est à titre d'exemples seulement.</em></p>
+<!--<div style="margin-left: 2em" type="1">-->
+<ol type="a">
+<li value="3">une liste de toutes les dépenses;</li>
+<li value="4">les dépenses plus le profit ou les honoraires
+calculés au prorata;</li>
+<li value="5">la description et la valeur de l'étape
+réclamée selon la description au contrat.</li>
+</ol>
+<p class="description"><strong><em>Instruction aux agents de
+négociation des contrats:</em></strong><em> Utiliser le paragraphe
+suivant lorsque les demandes doivent être accompagnées de
+documents à l'appui. Les documents énumérés
+ci-dessous sont à titre d'exemples seulement et doivent
+être révisés pour refléter le besoin.</em></p>
+<p>Chaque demande doit être appuyée par:</p>
+<ol type="a">
+<!--<li style="list-style: none; display: inline">-->
+<li value="1">une copie des feuilles de temps pour corroborer le
+temps de travail réclamé;</li>
+<li value="2">une copie des factures, reçus, pièces
+justificatives pour tous les frais directs, frais de
+déplacement et de subsistance;</li>
+<li value="3">une copie du rapport mensuel sur l'avancement des
+travaux.</li>
+</ol>
+</li>
+<li value="2">La taxe sur les produits et les services ou la taxe
+de vente harmonisée (TPS/<abbr title="Taxe de vente harmonisée">TVH</abbr>), selon le cas, doit être
+calculée pour le montant total de la demande, avant
+l'application de la retenue. Au moment de la demande de la retenue,
+il n'y aura pas de <abbr title="Taxe sur les produits et services">TPS</abbr>/<abbr title="Taxe de vente harmonisée">TVH</abbr> à payer car celle-ci a
+été réclamée et est payable sous les demandes
+de paiement progressif précédentes.</li>
+<li value="3"><p>L'entrepreneur doit préparer et certifier un
+original et deux (2) copies de la demande sur le formulaire
+<a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a>, et les envoyer au <span class="input-required"><var>_________</var> <kbd>(<i>insérer
+« chargé de projet » ou « responsable technique » ou « responsable de l'inspection »</i>)</kbd></span>
+identifié sous l'article intitulé
+« Responsables » du contrat pour fin d'attestation
+après l'inspection et l'acceptation des travaux.</p>
+<p>Le <span class="input-required"><var>_______</var>
+<kbd>(<i>insérer « chargé de projet » ou
+« responsable technique » ou « responsable de
+l'inspection »</i>)</kbd></span> fera parvenir l'original et les
+deux (2) copies de la demande à l'autorité contractante
+pour attestation et présentation au Bureau du traitement des
+paiements pour toutes autres attestations et opérations de
+paiement.</p></li>
+<li value="4">L'entrepreneur ne doit pas soumettre de demandes
+avant que les travaux identifiés sur la demande soient
+complétés.</li>
+</ol>
+</div></pre>

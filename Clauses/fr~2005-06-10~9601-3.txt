@@ -1,0 +1,164 @@
+<pre><strong>9601-3 00     (2005-06-10)  Intégration du système</strong>
+
+
+<strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Responsabilité de l'ensemble du système
+03     Essai et acceptation du système
+04     Biens de l'État
+05     Période de garantie du système
+06     Obligations relatives à la location du système
+
+
+<strong>9601-3 01     (2005-06-10)  Interprétation</strong>
+
+1.     A moins que le contexte n'indique un sens différent, les définitions 
+       qui suivent s'appliquent au présent contrat :
+
+       « clé en main », en relation avec le système, désigne que le système 
+       a été livré, intégré, installé et raccordé et a réussi les tests de 
+       diagnostic d'usage de l'entrepreneur et les formalités d'inspection 
+       du responsable de l'inspection et se trouve prêt à être soumis aux 
+       tests du niveau de disponibilité du matériel ainsi qu'à tous les 
+       autres essais d'acceptation stipulés dans le contrat;
+
+       « Canada », « Couronne », « Sa Majesté », « l'État » désigne sa 
+       Majesté la Reine du chef du Canada;
+
+       « conditions générales » : désignent les conditions générales 9601 
+       qui font partie du contrat;
+
+       « système » désigne un regroupement intégré de matériel, de 
+       logiciels sous licence, de logiciels personnalisés, le cas échéant, 
+       et de biens du gouvernement, s'il y a lieu, selon la définition du 
+       système que donne le contrat.  Si le contrat vise l'acquisition par 
+       le Canada de plus d'un système, le mot « système », utilisé dans le 
+       contrat, désigne alors tous les systèmes.
+
+2.     Les mots et expressions définis dans les conditions générales et 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales.
+
+3.     Les mots et expressions définis dans tout autre jeu de conditions 
+       générales supplémentaires faisant partie du contrat et utilisés dans 
+       les présentes conditions générales supplémentaires ont le sens qui 
+       leur est donné dans ces conditions générales supplémentaires.
+
+4.     Dans l'éventualité d'incompatibilité entre les conditions générales 
+       et les présentes conditions générales supplémentaires, les 
+       dispositions pertinentes des présentes conditions générales 
+       supplémentaires prévalent.
+
+5.     Dans l'éventualité d'incompatibilité entre les présentes conditions 
+       générales supplémentaires et tout autre série de conditions 
+       générales supplémentaires faisant partie du contrat, les 
+       dispositions pertinentes des présentes conditions générales 
+       supplémentaires prévalent.
+
+6.     Les articles intitulés « Droit de propriété » et « Garantie » qui 
+       figurent dans les conditions générales ne s'appliquent pas au 
+       système.  Les dispositions relatives au droit de propriété et à la 
+       garantie mentionnées aux présentes conditions générales 
+       supplémentaires s'appliquent au lieu de ces articles.
+
+7.     Les renvois faits dans les présentes conditions générales 
+       supplémentaires à d'autres séries de conditions générales 
+       supplémentaires ou à des articles qui y sont contenus, de même que 
+       l'utilisation dans les présentes conditions générales 
+       supplémentaires de mots ou expressions définis dans les autres 
+       séries de conditions générales supplémentaires, ne peuvent être 
+       interprétés comme ayant pour effet d'intégrer ces autres séries de 
+       conditions générales supplémentaires au présent contrat.  Les autres 
+       séries de conditions générales supplémentaires ne font pas partie du 
+       contrat à moins qu'ils ne soient intégrés à celui-ci par des 
+       dispositions expresses contenues ailleurs dans le contrat.
+
+<strong>9601-3 02     (1995-03-31)  Responsabilité de l'ensemble du système</strong>
+ 
+1.     Sauf en ce qui a trait aux biens de l'État expressément désignés 
+       dans le contrat, l'entrepreneur est entièrement responsable de la 
+       prestation du système dans son ensemble.
+
+2.     Si l'entrepreneur est tenu d'installer le système aux termes du 
+       contrat, il doit alors :
+
+       a)     intégrer et rendre compatibles les éléments du système afin 
+              de permettre au système dans son ensemble de satisfaire au 
+              devis pertinent;
+
+       b)     fournir et installer toutes les interfaces et les éléments 
+              modifiés nécessaires pour satisfaire aux exigences stipulées 
+              à l'alinéa a);
+
+       c)     mettre au point un système clé en main.
+
+3.     Les parties conviennent que, en cas de contradiction entre le devis, 
+       les critères de performance précisés pour le système l'emportent sur 
+       les critères de performance applicables à tout sous-
+système composant et, partant, à tout sous-système d'échelon moins élevé 
+dans la hiérarchie.
+
+<strong>9601-3 03     (2004-12-10)  Essai et acceptation du système</strong>
+
+1.     Si le Canada juge opportun de soumettre les éléments matériels du 
+       système à des tests du niveau de disponibilité, la période des 
+       essais d'acceptation, aux fins de l'article 10 des conditions 
+       générales supplémentaires 9601-4 et de l'article 13 des conditions 
+       générales supplémentaires 9601-2, pour les logiciels personnalisés 
+       et pour toute composante des logiciels personnalisés du système, 
+       correspond alors à la période précisée dans le contrat pour les 
+       tests du niveau de disponibilité des éléments matériels du système.
+
+2.     L'article 07 des conditions générales supplémentaires 9601-1 
+       s'applique au système dans son ensemble et, à cette fin, cet article 
+       est modifié par suppression du mot « matériel » à tous les endroits 
+       où il apparaît dans l'article, sauf à l'alinéa 7.1 c), pour être 
+       remplacé par le mot « système ».
+
+3.     L'article 10 des conditions générales supplémentaires 9601-4 est 
+       amendé en supprimant le paragraphe 2 de cet article.
+
+<strong>9601-3 04     (1995-03-31)  Biens de l'État</strong>
+
+1.     Si l'entrepreneur doit intégrer au système des éléments fournis par 
+       l'État, il a alors la responsabilité de cette intégration ainsi que 
+       du bon fonctionnement du système dans son ensemble, mais non pas, en 
+       application des dispositions du contrat relatives aux essais de 
+       réception et du paragraphe 2, de la non-conformité du système aux 
+       critères de performance ou aux autres exigences des spécifications 
+       causée par un défaut des biens de l'État fournis à un entrepreneur 
+       par le Canada ou en son nom, ou par la non-conformité des biens de 
+       l'État à rencontrer ses spécifications.
+
+2.     Pendant la période de garantie précisée à l'article 05, 
+       l'entrepreneur, à la demande expresse du Canada, corrige dans les 
+       meilleurs délais toute défaillance du système par rapport aux 
+       spécifications qui est causée par une mauvaise intégration au 
+       système de tout bien de l'État fournis à un entrepreneur par le 
+       Canada ou en son nom.  Cette dernière disposition demeure en vigueur 
+       même après l'inspection et l'acceptation des travaux par le Canada 
+       ou en son nom et ne limite en aucune façon les autres obligations de 
+       l'entrepreneur à l'égard de la garantie que prévoit le contrat.
+
+<strong>9601-3 05     (2004-12-10)  Période de garantie du système</strong>
+
+Nonobstant l'article 13 des conditions générales supplémentaires 9601-4 et 
+l'article 14 des conditions générales supplémentaires 9601-2, la période de 
+garantie applicable aux logiciels sous licence et aux composantes des 
+logiciels personnalisés du système correspond à la période de douze (12) 
+mois décrite au paragraphe 8.1 des conditions générales supplémentaires 
+9601-1.
+
+<strong>9601-3 06     (2004-12-10)  Obligations relatives à la location du système</strong>
+
+Si les éléments matériels du système sont loués par le Canada aux termes du 
+contrat, les articles 12, 13, 14 et 19 des conditions générales 
+supplémentaires 9601-1 s'appliquent alors également aux composantes des 
+logiciels sous licence et aux composantes des logiciels personnalisés du 
+système et, à cette fin, ces articles sont modifiés par suppression du mot 
+« matériel », à chaque endroit où il apparaît dans ces articles, qui est 
+remplacé par le mot « système ».
+
+
+</pre>

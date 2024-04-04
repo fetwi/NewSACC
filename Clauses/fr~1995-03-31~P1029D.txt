@@ -1,0 +1,4 @@
+<pre>Facturer la totalité de la commande au tarif prévu et créditer la quantité 
+déficitaire au tarif des exemplaires additionnels d'un même tirage.
+
+</pre>

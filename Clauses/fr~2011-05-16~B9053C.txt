@@ -1,0 +1,6 @@
+<pre><div class="sacc-item">
+<p><span class="input-required"><var>___</var> <kbd>(<em>insérer le nombre</em>)</kbd></span> contrats ont été attribués suite à la demande de soumissions de Travaux publics et Services gouvernementaux Canada (TPSGC) portant le numéro <span class="input-required"><var>________________</var> <kbd>(<em>insérer le numéro</em>)</kbd></span>. Voici l'ordre de classement des entrepreneurs :</p>
+<p>Premier rang : <var>____________</var></p>
+<p>Deuxième rang : <var>___________</var></p>
+<p>(<em>Insérer autant de lignes qu'il y a d'entrepreneurs</em>)</p>
+</div></pre>

@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Basic Pack - Commercial Standard</li>
+<li value="2">Bulk Pack:
+<ol type="a">
+<li value="1">Stock Number (Product Code);</li>
+<li value="2">Item Description;</li>
+<li value="3">Unit of Issue;</li>
+<li value="4">Quantity;</li>
+<li value="5">Batch Number or Contract Number;</li>
+<li value="6">Name and address of Consignee;</li>
+<li value="7">Name and address of the Contractor.</li>
+</ol>
+</li>
+<li value="3">In addition, marking and preparation for shipment by
+the Contractor must be in accordance with Canadian General
+Standards Board standard 43-GP-103P, Packaging of Paper, Printing
+and Stationary.</li>
+<li value="4">Failure to comply with the requirement above will
+result in return for repacking or reworking or both at the
+Contractor's expense.</li>
+</ol>
+</div></pre>

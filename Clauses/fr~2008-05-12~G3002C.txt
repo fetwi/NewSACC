@@ -1,0 +1,30 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire et maintenir pendant
+toute la durée du contrat une assurance sur coque et machines
+pour un engin nautique et son équipement, pour un montant ne
+devant pas être inférieur à la valeur
+agréée pour l'engin nautique et précisé
+ci-dessous. La protection doit être conforme aux clauses de
+<cite>l'<span lang="en-CA">American Institute Hull</span></cite> (2 juin 1977) ou de son
+équivalent.
+<br/><span class="description">(<em><strong>Les agents de négociation des contrats doivent
+insérer le type d'engin nautique (la marque et le modèle)
+et la valeur à assurer</strong></em>.)</span>
+<br/>Valeur agréée pour l'engin nautique
+</li>
+<li value="2">La police doit comprendre les avenants suivants :
+<ol type="a">
+<li value="1">Renonciation des droits de subrogation : L'assureur
+de l'entrepreneur doit renoncer à tout droit de subrogation
+contre le Canada, représenté par <span class="input-required"><var>___________</var> <kbd>(<em>insérer le nom du
+ministère</em>)</kbd></span> et par Travaux publics et Services
+gouvernementaux Canada relativement à toute perte ou dommage
+au navire, peu en importe la cause.</li>
+<li value="2">Avis d'annulation : L'assureur s'efforcera de donner
+à l'autorité contractante un avis écrit de trente
+(30) jours en cas d'annulation de la police.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

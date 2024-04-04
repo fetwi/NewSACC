@@ -1,0 +1,479 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li>GC5.1 Interpretation</li>
+<li>GC5.2 Amount Payable</li>
+<li>GC5.3 Increased Or Decreased Costs</li>
+<li>GC5.4 Progress Payment</li>
+<li>GC5.5 Substantial Performance Of The Work</li>
+<li>GC5.6 Final Completion</li>
+<li>GC5.7 Payment Not Binding On Canada</li>
+<li>GC5.8 Claims And Obligations</li>
+<li>GC5.9 Right Of Setoff</li>
+<li>GC5.10 Assessments And Damages For Late Completion</li>
+<li>GC5.11 Delay In Making Payment</li>
+<li>GC5.12 Interest On Settled Claims</li>
+</ul>
+</div>
+<h2>GC5.1 (2007-05-25) Interpretation</h2>
+<p>In these Terms of Payment</p>
+<ol type="1">
+<li value="1">The "<dfn>payment period</dfn>" means a period of 30
+consecutive days or such other longer period as may be agreed
+between the Contractor and Canada.</li>
+<li value="2">An amount is "<dfn>due and payable</dfn>" when it is due and
+payable by Canada to the Contractor according to GC5.4, "Progress
+Payment", GC5.5, "Substantial Performance of the Work", or GC5.6,
+"Final Completion".</li>
+<li value="3">An amount is "<dfn>overdue</dfn>" when it remains unpaid on the
+first day following the day upon which it is due and payable.</li>
+<li value="4">The "<dfn>date of payment</dfn>" means the date of the
+negotiable instrument of an amount due and payable by the Receiver
+General for Canada.</li>
+<li value="5">The "<dfn>Bank Rate</dfn>" means the rate of interest
+established by the Bank of Canada as the minimum rate at which it
+makes short term advances to members of the Canadian Payments
+Association.</li>
+<li value="6">The "<dfn>Average Bank Rate</dfn>" means the simple
+arithmetic mean of the Bank Rate in effect at 4:00 p.m. Eastern
+Standard Time each day during the calendar month which immediately
+precedes the calendar month in which payment is made.</li>
+</ol>
+<h2>GC5.2 (2010-01-11) Amount Payable</h2>
+<ol type="1">
+<li value="1">Subject to any other provisions of the Contract,
+Canada shall pay the Contractor, at the times and in the manner
+hereinafter set out, the amount by which the amounts payable by
+Canada to the Contractor in accordance with the Contract exceed the
+amounts payable by the Contractor to Canada, and the Contractor
+shall accept that amount as payment in full satisfaction for
+everything furnished and done by the Contractor in respect of the
+Work to which the payment relates.</li>
+<li value="2">When making any payment to the Contractor, the
+failure of Canada to deduct an amount payable to Canada by the
+Contractor shall not constitute a waiver of the right to do so, or
+an admission of lack of entitlement to do so in any subsequent
+payment to the Contractor.</li>
+<li value="3">Should any payment be made by Canada in excess of
+what is owed to the Contractor for the actual work performed, the
+Contractor will reimburse Canada the excess immediately, with or
+without demand, and any amounts outstanding shall bear simple
+interest at the Average Bank rate plus 3 percent per annum from the
+date of overpayment until the day prior to the date of repayment by
+the Contractor.</li>
+<li value="4">No payment other than a payment that is expressly
+stipulated in the Contract shall be made by Canada to the
+Contractor for any extra expense or any loss or damage incurred or
+sustained by the Contractor.</li>
+</ol>
+<h2>GC5.3 (2014-06-26) Increased or Decreased Costs</h2>
+<ol type="1">
+<li value="1">The Contract Amount shall not be increased nor
+decreased by reason of any increase or decrease in the cost of the
+Work that is brought about by an increase or decrease in the cost
+of labour, Plant, Material or any wage adjustment.</li>
+<li value="2">Notwithstanding paragraph 1) of GC5.3, if any change,
+including a new imposition or repeal, of any tax, customs or other
+duty, charge, or any similar imposition that is imposed under
+sales, customs or excise tax legislation of the Government of
+Canada or any Provincial or Territorial legislation, affects the
+cost of the Work to the Contractor, and occurs
+<ol type="a">
+<li value="1">after the date of submission by the Contractor of its
+bid; or</li>
+<li value="2">after the date of submission of the last revision, if
+the Contractor's bid was revised;</li>
+</ol>
+the Contract Amount shall be adjusted in the manner provided in
+paragraph 3) of GC5.3.
+</li>
+<li value="3">If a change referred to in paragraph 2) of GC5.3
+occurs, the Contract Amount shall be increased or decreased by an
+amount established by an examination by Canada of the relevant
+records of the Contractor referred to in GC2.8, "Accounts and
+Audits", to be the increase or decrease in the cost incurred by the
+Contractor that is directly attributable to that change.</li>
+<li value="4">For the purpose of paragraph 2) of GC5.3, if a tax is
+changed after the tender closing, but public notice of the change
+has been given by the Minister of Finance or the corresponding
+Provincial or Territorial authority before that closing, the change
+shall be deemed to have occurred before the solicitation
+closing.</li>
+<li value="5">Notwithstanding paragraphs 2) to 4) of GC5.3, no
+adjustment to the Contract Amount in respect of the Work or a part
+thereof shall be made for a change in any imposition referred to in
+this section that occurs after the date required by the Contract
+for completion of the Work or that part of the Work.</li>
+</ol>
+<h2>GC5.4 (2014-06-26) Progress Payment</h2>
+<ol type="1">
+<li value="1">Where the duration of the Work is greater than thirty
+(30) days, the Contractor shall be entitled to receive progress
+payments.</li>
+<li value="2">On the expiration of a payment period, the Contractor
+shall deliver to Canada
+<ol type="a">
+<li value="1">a written progress claim in a form acceptable to
+Canada that fully describes any part of the Work that has been
+completed, and any Material that was delivered to the Work site but
+not incorporated into the Work, during that payment period,
+and</li>
+<li value="2">a completed and signed statutory declaration
+containing a declaration that, up to the date of the progress
+claim, the Contractor has complied with all lawful obligations and that, in respect of the Work,
+all lawful obligations of the Contractor to its Subcontractors and
+Suppliers, referred to collectively in the declaration as
+"subcontractors and suppliers", have been fully discharged.</li>
+</ol>
+</li>
+<li value="3">Within 10 days of receipt of a progress claim and
+statutory declaration from the Contractor, Canada shall inspect, or
+cause to have inspected, the part of the Work and the Material
+described in the progress claim, and shall issue a progress report
+to the Contractor, that indicates the value of the part of the Work
+and the Material described in the progress claim that, in the
+opinion of Canada
+<ol type="a">
+<li value="1">is in accordance with the Contract; and</li>
+<li value="2">was not included in any other progress report
+relating to the Contract.</li>
+</ol>
+</li>
+<li value="4">Subject to GC5.2, and paragraph 6) of GC5.4, Canada
+shall pay the Contractor an amount that is equal to 90 percent of
+the value that is indicated in Canada's progress report.</li>
+<li value="5">Canada shall pay the amount referred to in paragraph
+4) of GC5.4 not later than
+<ol type="a">
+<li value="1">30 days after receipt by Canada of both a progress
+claim and a statutory declaration referred to in paragraph 2) of
+GC5.4; or</li>
+<li value="2">15 days after receipt by Canada of the Contractor's
+progress schedule or updated progress schedule, in accordance with
+GC3.1, "Progress Schedule",</li>
+</ol>
+whichever is later.
+</li>
+<li value="6">In the case of the Contractor's first progress claim,
+it is a condition precedent to Canada's obligation under paragraph
+4 of GC5.4 that the Contractor has provided all necessary
+documentation required by the Contract for the first progress
+claim.</li>
+<li value="7">Where the duration of the Work is equal to or less
+than thirty (30) days, the Contractor shall, following the issuance
+of a Certificate of Completion in accordance with GC5.6, "Final
+Completion", receive a single payment as full consideration for the
+Work performed.</li>
+</ol>
+<h2>GC5.5 (2014-06-26) Substantial Performance of the Work</h2>
+<ol type="1">
+<li value="1">If, at any time before the issuance of a Certificate
+of Completion, Canada determines that the Work has reached
+Substantial Performance as described in subparagraph 1) (b) of
+GC1.1.4, "Substantial Performance", Canada may issue a Certificate
+of Substantial Performance to the Contractor. The Certificate of
+Substantial Performance shall state or describe
+<ol type="a">
+<li value="1">the date of Substantial Performance;</li>
+<li value="2">the parts of the Work not completed to the
+satisfaction of Canada; and</li>
+<li value="3">all things that must be done by the Contractor before
+a Certificate of Completion is issued and before the 12-month warranty period referred to in GC3.13,
+"Warranty and Rectification of Defects in Work", commences for the
+said parts and all the said things.</li>
+</ol>
+</li>
+<li value="2">The issuance of a Certificate of Substantial
+Performance does not relieve the Contractor from the Contractor's
+obligations under GC3.11, "Defective Work".</li>
+<li value="3">Subject to GC5.2, "Amount Payable" and paragraph 4)
+of GC5.5, Canada shall pay the Contractor the amount referred to in
+paragraph 1) of GC5.2, "Amount Payable", less the aggregate of
+<ol type="a">
+<li value="1">the sum of all payments that were made pursuant to
+GC5.4, "Progress Payment";</li>
+<li value="2">an amount that is equal to Canada's estimate of the
+cost to Canada of rectifying defects described in the Certificate
+of Substantial Performance; and</li>
+<li value="3">an amount that is equal to Canada's estimate of the
+cost to Canada of completing the parts of the Work described in the
+Certificate of Substantial Performance other than defects listed
+therein.</li>
+</ol>
+</li>
+<li value="4">Canada shall pay the amount referred to in paragraph
+3) of GC5.5 not later than
+<ol type="a">
+<li value="1">30 days after the date of issue of a Certificate of
+Substantial Performance, or</li>
+<li value="2">15 days after the Contractor has delivered to
+Canada
+<ol type="i">
+<li value="1">a statutory declaration containing a declaration by
+the Contractor that up to the date of the Certificate of
+Substantial Performance, the Contractor has complied with all
+lawful obligations,
+discharged all its lawful obligations to its Subcontractors and
+Suppliers in respect of the work under the Contract, and discharged
+its lawful obligations referred to in GC1.8, "Laws, Permits and
+Taxes";</li>
+<li value="2">evidence of compliance with workers' compensation
+legislation in accordance with GC1.9, "Workers' Compensation";
+and</li>
+<li value="3">an update of the progress schedule in accordance with the
+requirements of GC3.1, "Progress Schedule";</li>
+</ol>
+whichever is later.
+</li>
+</ol>
+</li>
+</ol>
+<h2>GC5.6 (2008-05-12) Final Completion</h2>
+<ol type="1">
+<li value="1">When Canada is of the opinion that the Contractor has
+complied with the Contract and all orders and directions made
+pursuant thereto, and that the Work has been completed as described
+in GC1.1.5, "Completion", Canada shall issue a Certificate of
+Completion to the Contractor and, if the Work or a portion of the
+Work is subject to a Unit Price Arrangement, Canada shall issue a
+Certificate of Measurement that shall, subject to GC8, be binding
+upon and conclusive between Canada and the Contractor as to the
+quantities referred to therein.</li>
+<li value="2">Subject to GC5.2, "Amount Payable", and paragraph 3)
+of GC5.6, Canada shall pay the Contractor the amount referred to in
+GC5.2, "Amount Payable", less the aggregate of the sum of all
+payments that were made pursuant to GC5.4, "Progress Payment", and
+GC5.5, "Substantial Performance of Work".</li>
+<li value="3">Canada shall pay the amount referred to in paragraph
+2) of GC5.6 not later than
+<ol type="a">
+<li value="1">30 days after the date of issue of a Certificate of
+Completion; or</li>
+<li value="2">15 days after the Contractor has delivered to
+Canada
+<ol type="i">
+<li value="1">a statutory declaration which contains a declaration
+by the Contractor that all of the Contractor's lawful obligations
+and any lawful claims against the Contractor that arose out of the
+performance of the Contract have been discharged and satisfied;
+and</li>
+<li value="2">evidence of compliance with workers' compensation
+legislation in accordance with GC1.9, "Workers' Compensation";</li>
+</ol>
+whichever is later.
+</li>
+</ol>
+</li>
+</ol>
+<h2>GC5.7 (2008-05-12) Payment not Binding on Canada</h2>
+<ol type="1">
+<li value="1">Neither acceptance of a progress claim or progress
+report, nor any payment made by Canada under the Contract, nor
+partial or entire use or occupancy of the Work by Canada shall
+constitute an acceptance by Canada of any portion of the Work or
+Material that is not in accordance with the requirements of the
+Contract.</li>
+</ol>
+<h2>GC5.8 (2008-05-12) Claims and Obligations</h2>
+<ol type="1">
+<li value="1">The Contractor shall discharge all the Contractor's
+lawful obligations and shall satisfy all lawful claims against the
+Contractor arising out of the performance of the Work at least as
+often as the Contract requires Canada to pay the Contractor.</li>
+<li value="2">Whenever requested to do so by Canada, the Contractor
+shall make a statutory declaration declaring to the existence and
+condition of any obligations and claims against the Contractor
+arising out of the performance of the Work.</li>
+<li value="3">In order to discharge lawful obligations of and
+satisfy lawful claims against the Contractor or its Subcontractors
+arising out of the performance of the Contract, Canada may pay an
+amount that is due and payable to the Contractor directly to the
+claimant. Such payment is, to the extent of the payment, a
+discharge of Canada's liability to the Contractor under the
+Contract and may be deducted from any amount payable to the
+Contractor under the Contract.</li>
+<li value="4">For the purposes of paragraph 3) of GC5.8, and
+subject to paragraph 6) of GC5.8, a claim or obligation shall be
+considered lawful when it is so determined by
+<ol type="a">
+<li value="1">a court of legal jurisdiction;</li>
+<li value="2">an arbitrator duly appointed to arbitrate the claim;
+or</li>
+<li value="3">the written consent of the Contractor authorizing
+payment of the claim or obligation.</li>
+</ol>
+</li>
+<li value="5">If a claim or obligation would have been subject to
+the provisions of Provincial or Territorial lien legislation or, in
+the Province of Quebec, the law relating to legal hypothecs had the
+Contractor been performing the Work for an entity other than Canada
+<ol type="a">
+<li value="1">such amount as may be paid by Canada pursuant to
+paragraphs 3) and 4) of GC5.8 shall not exceed the amount that the
+Contractor would have been obliged to pay had the provisions of
+such legislation or law been applicable to the Work;</li>
+<li value="2">a claimant need not comply with the provisions of
+such legislation, setting out the steps by way of notice,
+registration or otherwise as might have been necessary to preserve
+or perfect any claim for lien or privilege which the claimant might
+have had; and</li>
+<li value="3">for the purposes of determining the entitlement of a
+claimant, the notice required by paragraph 8) of GC5.8 shall be
+deemed to replace the registration or provision of notice after the
+performance of work as required by any applicable legislation and
+no claim shall be deemed to have expired, become void or
+unenforceable by reason of the claimant not commencing any action
+within the time prescribed by such legislation.</li>
+</ol>
+</li>
+<li value="6">The Contractor shall, at the request of any claimant,
+submit to binding arbitration those questions that need to be
+answered to establish the entitlement of the claimant to payment.
+The arbitration shall have as parties to it any Subcontractor or
+Supplier to whom the claimant supplied Material, performed work or
+rented equipment should such Subcontractor or Supplier wish to be
+adjoined, and Canada shall not be a party to such arbitration.
+Subject to any agreement between the Contractor and the claimant,
+the arbitration shall be conducted in accordance with the governing
+Provincial or Territorial legislation applicable to the site of the
+Work.</li>
+<li value="7">Paragraph 3) of GC5.8 shall apply only to claims and
+obligations
+<ol type="a">
+<li value="1">the notification of which has set forth the amount
+claimed to be owing and the person who by contract is primarily
+liable and has been received by Canada in writing before final
+payment is made to the Contractor pursuant to GC5.6, "Final
+Completion", and within 120 days of the date on which the
+claimant
+<ol type="i">
+<li value="1">should have been paid in full under the claimant's
+contract with the Contractor, its Subcontractor or Supplier if the
+claim is for money that was lawfully required to be held back from
+the claimant; or</li>
+<li value="2">performed the last of the services, work or labour, or
+furnished the last of the Material pursuant to the claimant's
+contract with the Contractor or its Subcontractor or Supplier where
+the claim is for money not lawfully required to be held back from
+the claimant; and</li>
+</ol>
+</li>
+<li value="2">the proceedings to determine the right to payment of
+which, pursuant to paragraph 5 of GC5.8, shall have commenced
+within one year from the date that the notification required by
+subparagraph 7)(a) of GC5.8 was received by Canada.</li>
+</ol>
+</li>
+<li value="8">Upon receipt of a notice of claim, Canada may
+withhold, from any amount that is due and payable to the Contractor
+pursuant to the Contract, the full amount of the claim or any
+portion thereof.</li>
+<li value="9">Canada shall notify the Contractor in writing in a
+timely manner of receipt of any claim and of the intention of
+Canada to withhold funds. At any time thereafter and until payment
+is made to the claimant, the Contractor may be entitled to post,
+with Canada, security in a form acceptable to Canada in an amount
+equal to the value of the claim, and upon receipt of such security
+Canada shall release to the Contractor any funds that would be
+otherwise payable to the Contractor, that were withheld pursuant to
+the provisions of this clause in respect of the claim of any
+claimant for whom the security stands.</li>
+</ol>
+<h2>GC5.9 (2008-05-12) Right of Setoff</h2>
+<ol type="1">
+<li value="1">Without limiting any right of setoff or deduction
+given or implied by law or elsewhere in the Contract, Canada may
+set off any amount payable to Canada by the Contractor under the
+Contract, or under any current contract, against any amount payable
+to the Contractor under the Contract.</li>
+<li value="2">For the purposes of paragraph 1) of GC5.9,
+"<dfn>current contract</dfn>" means a contract between Canada and the
+Contractor
+<ol type="a">
+<li value="1">under which the Contractor has an undischarged
+obligation to perform or supply work, labour or material; or</li>
+<li value="2">in respect of which Canada has, since the date of the
+Contract, exercised any right to take the work that is the subject
+of that contract out of the Contractor's hands.</li>
+</ol>
+</li>
+</ol>
+<h2>GC5.10 (2007-05-25) Assessments and Damages for Late
+Completion</h2>
+<ol type="1">
+<li value="1">For the purposes of this clause
+<ol type="a">
+<li value="1">the Work shall be deemed to be completed on the date
+of the Certificate of Completion; and</li>
+<li value="2">the "<dfn>period of delay</dfn>" means the number of
+days commencing on the day fixed for completion of the Work and
+ending on the day immediately preceding the day on which the Work
+is completed but does not include any day within a period of
+extension granted pursuant to GC6.5, "Delays and Extension of
+Time", and any other day on which, in the opinion of Canada,
+completion of the Work was delayed for reasons beyond the control
+of the Contractor.</li>
+</ol>
+</li>
+<li value="2">If the Contractor does not complete the Work by the
+day fixed for its completion but completes it thereafter, the
+Contractor shall pay Canada an amount equal to the aggregate of
+<ol type="a">
+<li value="1">all salaries, wages and travelling expenses incurred
+by Canada in respect of persons overseeing the performance of the
+Work during the period of delay;</li>
+<li value="2">the cost incurred by Canada as a result of the
+inability to use the completed Work for the period of delay;
+and</li>
+<li value="3">all other expenses and damages incurred or sustained
+by Canada during the period of delay as a result of the Work not
+being completed by the day fixed for its completion.</li>
+</ol>
+</li>
+<li value="3">Canada may waive the right of Canada to the whole or
+any part of the amount payable by the Contractor pursuant to
+paragraph 2) of GC5.10 if, in the opinion of Canada, it is in the
+public interest to do so.</li>
+</ol>
+<h2>GC5.11 (2008-05-12) Delay in Making Payment</h2>
+<ol type="1">
+<li value="1">Notwithstanding GC1.5, "Time of the Essence", any
+delay by Canada in making any payment when it is due pursuant to
+GC5, "Terms of Payment", shall not be a breach of the Contract by
+Canada.</li>
+<li value="2">Subject to paragraph 3) of GC5.11, Canada shall pay
+to the Contractor simple interest at the Average Bank Rate plus 3
+percent per annum on any amount that is overdue pursuant to
+paragraph 3) of GC5.1, "Interpretation", and the interest shall
+apply from and include the day such amount became overdue until the
+day prior to the date of payment.</li>
+<li value="3">Interest shall be paid without demand by the
+Contractor except that
+<ol type="a">
+<li value="1">in respect of amounts that are less than 15 days
+overdue, no interest shall be paid in respect of payment made
+within such 15 days unless the Contractor so demands after such
+amounts have become due and payable; and</li>
+<li value="2">interest shall not be payable or paid on overdue
+advance payments, if any.</li>
+</ol>
+</li>
+</ol>
+<h2>GC5.12 (2008-05-12) Interest on Settled Claims</h2>
+<ol type="1">
+<li value="1">For the purposes of this clause, a claim means a
+disputed amount subject to negotiation between Canada and the
+Contractor under the Contract.</li>
+<li value="2">A claim is deemed to have been settled when an
+agreement in writing is signed by Canada and the Contractor setting
+out the amount of the claim to be paid by Canada and the items of
+work for which the said amount is to be paid.</li>
+<li value="3">A settled claim is deemed to be outstanding from the
+day immediately following the date the said claim would have been
+due and payable under the Contract had it not been disputed.</li>
+<li value="4">Canada shall pay to the Contractor simple interest on
+the amount of a settled claim at the Average Bank Rate plus 3
+percent per annum from the date the settled claim was deemed to be
+outstanding until the day prior to the date of payment.</li>
+</ol>
+</div></pre>

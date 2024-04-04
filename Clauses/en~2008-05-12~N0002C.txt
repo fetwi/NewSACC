@@ -1,0 +1,31 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">This section applies despite any other provision of
+the Contract and replaces the section of the general conditions
+entitled "Liability". Any reference in this section to damages
+caused by the Contractor also includes damages caused by its
+employees, as well as its subcontractors, agents, and
+representatives, and any of their employees.</li>
+<li value="2">Whether the claim is based in contract, tort, or
+another cause of action, the Contractor's liability for all damages
+suffered by Canada caused by the Contractor's performance of or
+failure to perform the Contract is limited to
+$<var>__________</var>. This limitation of the Contractor's
+liability does not apply to:
+<ol type="a">
+<li value="1">any infringement of intellectual property rights;
+or</li>
+<li value="2">any breach of warranty obligations.</li>
+</ol>
+</li>
+<li value="3">The Contractor agrees to pay to Canada the amounts of
+all of Canada's losses, liabilities, damages, costs, and expenses
+resulting from any claim made by a third party relating to the
+Contract, including the complete costs of defending any legal
+action by a third party. The Contractor agrees that Canada is not
+required to have satisfied its liability to the third party before
+the Contractor is obliged to pay Canada in respect of that
+liability. The Contractor also agrees, if requested by Canada, to
+defend Canada against any third party claims.</li>
+</ol>
+</div></pre>

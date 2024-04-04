@@ -1,0 +1,21 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le tissu détaillé dans le contrat ne doit comporter aucun défaut tels des imperfections ou des défauts susceptibles d'altérer son aspect ou son utilité lorsque examiné conformément aux conditions d'inspection jugées satisfaisantes pour le représentant de l'assurance de la qualité (RAQ) <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nom du <abbr title="représentant de l'assurance de la qualité">RAQ</abbr></em>)</kbd></span>.</li>
+<li value="2">Tout défaut acceptable au <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> doit être indiqué à la lisière droite de l'endroit du tissu au
+moyen d'une cordelette teintée pour chaque deux (2)  linéaires de l'endroit lié au défaut (ne s'applique pas aux tissus étroits d'une largeur inférieure à 15 <abbr title="centimètre">cm</abbr>).</li>
+<li value="3">L'entrepreneur doit déduire deux (2) décimètres linéaires pour chaque défaut ou joint noté par rapport à la longueur brute de la pièce. L'entrepreneur doit consigner la longueur brute, la longueur nette et le nombre de joints sur l'étiquette fixée à chacune des pièces.</li>
+<li value="4">Un tissu ayant plus de <span class="input-required"><var>_____</var> <kbd>(<em>insérer la quantité de défauts
+permis</em>)</kbd></span> défauts par 100 mètres <span class="input-required"><var>_____</var> <kbd>(<em>insérer « 
+carrés » ou « linéaires »</em>)</kbd></span> sera refusé.</li>
+<li value="5">Si les défauts suivants sont notés dans l'ensemble du tissu, les pièces de tissu complètes seront refusées :
+<ol type="a">
+<li value="1">plis/marques de calandrage;</li>
+<li value="2">nuances bord à bord;</li>
+<li value="3">déchirures, trous ou marques à plus de 12 <abbr title="millimètre">mm</abbr> à partir de l'arête extérieure de la lisière;</li>
+<li value="4">mauvaise pénétration du colorant et(ou) aspect barré;</li>
+<li value="5">tissu faible ou délicat;</li>
+<li value="6">défauts de la chaîne ou de la trame.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

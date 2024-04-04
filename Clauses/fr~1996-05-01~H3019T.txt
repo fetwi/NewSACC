@@ -1,0 +1,12 @@
+<pre>1.     Les factures doivent être présentées sur le formulaire de 
+       l'entrepreneur et elles doivent contenir les renseignements suivants :
+
+       a)     date;
+       b)     nom et adresse du DESTINATAIRE;
+       c)     numéro de contrat, numéro de série et code(s) financier(s);
+       d)     type d'appareil, fabricant et numéro de série.
+
+2.     Les adresses postales, en ce qui concerne les factures, seront 
+       indiquées dans le contrat attribué.
+
+</pre>

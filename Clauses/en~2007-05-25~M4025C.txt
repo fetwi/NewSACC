@@ -1,0 +1,20 @@
+<pre><p>If there is a discrepancy between the wording of any documents
+that appear on the list, the wording of the document that first
+appears on the list has priority over the wording of any document
+that subsequently appears on the list.</p> <ol type="1">
+<li value="1">the call up against the Standing Offer, including any
+annexes;</li>
+<li value="2">the Standing Offer;</li>
+<li value="3"><span class="input-required"><kbd>(<em>Contracting officer to delete if not applicable</em>)</kbd></span> the supplemental general conditions
+<span class="input-required"><var>__________</var> <kbd>(<em>insert
+number, date and title</em>)</kbd></span>;</li>
+<li value="4">the general conditions <span class="input-required"><var>___________</var> <kbd>(<em>insert number, date
+and title</em>)</kbd></span>;</li>
+<li value="5">Annex "<var>______</var> " - <var>____________</var>
+;</li>
+<li value="6">Annex "<var>______</var> " - <var>____________</var>
+;</li>
+<li value="7">the Offeror's offer dated <span class="input-required"><var>____________</var> <kbd>(<em>insert date of
+offer</em>)</kbd></span>, as amended on <span class="input-required"><var>_________</var>
+<kbd>(<em>insert date(s) of amendment(s), if applicable</em>)</kbd></span>.</li>
+</ol></pre>

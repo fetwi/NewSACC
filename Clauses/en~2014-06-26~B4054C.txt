@@ -1,0 +1,15 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The purpose of an Initial Provisioning Conference (IPC) is to allow the Department of National Defence (DND) to verify that the Provisioning Parts Breakdown reflects the current and complete configuration of the equipment being procured by comparing it against full assembly drawings, and to select the range of spares required to support the system/equipment during an initial period of service, as determined in the Statement of Work. The <abbr title="Initial Provisioning Conference">IPC</abbr> will be held in the offices of the Director Technical Information and Codification Services (DTICS), in the National Capital Region, unless Canada determines that it is necessary to hold the <abbr title="Initial Provisioning Conference">IPC</abbr> at the Contractor's facility. If so, the Contractor must provide offices to hold the <abbr title="Initial Provisioning Conference">IPC</abbr> at the Contractor's facility at no additional cost to Canada.</li>
+<li value="2">Upon acceptance of the provisioning documentation by <abbr title="Director Technical Information and Codification Services">DTICS</abbr>, the Contractor may be required to provide:
+<ol type="a">
+<li value="1">engineering and product support assistance;</li>
+<li value="2">engineering, reliability and maintainability data;</li>
+<li value="3">modification data, if applicable.</li>
+</ol>
+</li>
+<li value="3"><abbr title="Department of National Defence">DND</abbr> certifies that it will adhere to all proprietary and intellectual property rights relating to items identified in this documentation.</li>
+<li value="4">Questions regarding the preparation, format or contents of the above provisioning documentation must be directed
+to the Procurement Authority.</li>
+</ol>
+</div></pre>

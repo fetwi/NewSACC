@@ -1,0 +1,10 @@
+<pre><div class="sacc-item">
+<p>The Contractor must prepare item number(s) <var>_____</var> for
+delivery in accordance with the latest issue of the Canadian Forces
+Packaging Specification <cite>D-LM-008-036/SF-000</cite>, <abbr title="Department of National Defence">DND</abbr> Minimum
+Requirements for Manufacturer's Standard Pack.</p>
+<p>The Contractor must package item number(s) <var>_____</var> in
+quantities of <span class="input-required"><var>_____</var>
+<kbd>(<i>insert a mandatory quantity per unit pack or "up to a maximum
+of 100"</i>)</kbd></span> by package.</p>
+</div></pre>

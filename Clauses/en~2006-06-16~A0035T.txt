@@ -1,0 +1,30 @@
+<pre>1.     To be considered responsive, a bid must:
+
+       (a)    meet all the mandatory requirements of the bid solicitation; 
+              and
+
+       (b)    obtain the required minimum of _____ (<strong><em>Insert minimum 
+              percentage of points</em></strong>) percent of the points for the criteria 
+              which are subject to point rating specified in the bid 
+              solicitation.  The rating is performed on a scale of _____ (<strong><em>
+              Insert total number of available points</em></strong>) points.
+
+       <strong>OR</strong>
+
+       (b)    obtain the required minimum of _____ (<strong><em>Insert minimum number 
+              of points</em></strong>) points for the criteria which are subject to point 
+              rating specified in the bid solicitation. The rating is 
+              performed on a scale of _____ (<strong><em>Insert total number of 
+              available points</em></strong>) points.
+
+<strong>OR</strong>
+
+       (b)    obtain the required minimum points for the criteria which are 
+              subject to point rating specified in the bid solicitation.
+
+2.     Bids not meeting (a) or (b) above will be given no further 
+   consideration.  Neither the responsive bid that scores the highest 
+   number of rated points nor the one that contains the lowest price will 
+   necessarily be accepted.  The responsive bid with the lowest price per 
+   rated point will be recommended for award of a contract.
+</pre>

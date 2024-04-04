@@ -1,0 +1,30 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur sera payé, comme suit, pour les services d'entretien sur place et les services connexes exécutés relatifs à l'équipement listé à l'annexe
+        <var>_____</var> pendant la principale période d'entretien (PPE) et en dehors de la
+        <abbr title="principale période d'entretien">PPE</abbr>.</p>
+<h2>Main-d'œuvre</h2>
+<p>L'entrepreneur sera payé pour les heures réellement travaillées aux taux horaires fermes indiqués ci-dessous. L'entrepreneur sera payé un montant minimum pour la première demi-heure, calculé à partir de l'heure d'arrivée du technicien de l'entrepreneur sur place. Tout le temps facturable additionnel dépassant la première demi-heure sera arrondi au quart d'heure le plus proche.</p>
+<span class="input-required"><var>_____________________________</var> <kbd>(<em><strong>Insérer les détails</strong></em>)</kbd></span>
+<h2>Matériel et pièces de rechange</h2>
+<p>Le matériel et les pièces de rechange doivent être fournis au prix de liste indiqué à l'annexe
+        <var>_____</var> , moins un rabais de
+        <var>_____</var> p. Cent. Tous les prix des pièces et du matériel sont franco à bord destination. Les droits de douane <span class="input-required"><var>______</var>
+<kbd>(<em>insérer « sont inclus », « sont exclus » ou « font l'objet d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
+<h2>Services sur appel (délai d'attente)</h2>
+<p>L'entrepreneur sera payé pour les heures réelles de service sur appel (délai d'attente) au taux horaire ferme de
+        <var>_____</var> $.</p>
+<h2>Frais de déplacement et de subsistance</h2>
+<p>Il n'y aura pas de temps de déplacement ou de frais de déplacement et de subsistance à payer pour les services effectués dans un rayon de
+        <var>_____</var> kilomètres du centre de services désigné indiqué à l'annexe
+        <var>_____</var> .</p>
+<p>Pour les services effectués en dehors d'un rayon de
+        <var>_____</var> kilomètres du centre de services désigné, l'entrepreneur sera payé pour son temps de déplacement réel, conformément aux taux horaires spécifiés à l'annexe
+        <var>_____</var> .</p>
+<p>L'entrepreneur sera remboursé pour les frais autorisés de déplacement et de subsistance qu'il a raisonnablement et convenablement engagés dans l'exécution des travaux, au prix coûtant, sans aucune indemnité pour les frais généraux ou le profit, conformément aux indemnités relatives aux repas et à l'utilisation d'un véhicule privé qui sont précisées aux appendices B, C et D de la <a href="http://www.njc-cnm.gc.ca/directive/d10/fr" rel="external">Directive sur les voyages du Conseil national mixte</a> , et selon les autres dispositions de la Directive qui se rapportent aux « voyageurs » plutôt que celles qui se rapportent aux « employés ». Le Canada ne versera à l'entrepreneur aucune indemnité de faux frais pour les voyages autorisés. </p>
+<p>Tout déplacement doit être approuvé au préalable par le <span class="input-required"><var>_________</var> <kbd>(<em>insérer « le
+responsable technique » ou « le chargé de projet » ou « l'autorité contractante ».</em>)</kbd></span></p>
+<p>Coût estimatif :
+        <var>_____</var> .</p>
+<p><strong>Coût estimatif total</strong> - Limitation des dépenses :
+        <var>________</var> $ (taxes applicables en sus).</p>
+</div></pre>

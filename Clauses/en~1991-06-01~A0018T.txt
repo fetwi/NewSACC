@@ -1,0 +1,19 @@
+<pre>The Bidder MUST provide the following information on the motor(s) supplied 
+with the equipment quoted on:  
+
+1. Manufacturer   
+2. Model   
+3. Rating:    
+       H.P. 
+       Voltage  
+       Phase  
+       Type of Insulation   
+4. Speed  
+
+Electrics C.S.A. approved:   
+YES_____  NO_____  
+
+Electrics meet minimum requirements of Canadian Electrical Code:
+YES_____ NO_____  
+
+</pre>

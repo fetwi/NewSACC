@@ -1,0 +1,16 @@
+<pre><ul>
+<li><p><strong>First Party Liability</strong></p>
+<ul>
+<li><strong>Contract Performance:</strong> The Contractor is fully liable for all damages to Canada, arising from the Contractor's performance or failure to perform the Contract.</li>
+<li><strong>Data Breach:</strong> The Contractor is fully liable for all damages to Canada resulting from its breach of security or confidentiality obligations resulting in unauthorized access to or unauthorized disclosure of records or data or information owned by Canada or a third party.</li>
+<li><strong>Limitation Per Incident:</strong> Subject to the following section, irrespective of the basis or the nature of the claim, the Contractor's total liability per incident will not exceed the cumulative value of the Contract invoices for 12 months preceding the incident.</li>
+<li><strong>No Limitation:</strong> The above limitation of Contractor liability does not apply to:
+        <ul type="a">
+<li>wilful misconduct or deliberate acts of wrongdoing, and </li>
+<li>any breach of warranty obligations.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Third Party Liability:</strong> Regardless whether the third party claims against Canada, the Contractor or both, each Party agrees that it will accept full liability for damages that it causes to the third party in connection with the Contract. The apportionment of liability will be the amount set out by agreement of the Parties or determined by a court. The Parties agree to reimburse each other for any payment to a third party in respect of damages caused by the other, the other Party agrees to promptly reimburse for its share of the liability.</p></li>
+</ul></pre>

@@ -1,0 +1,17 @@
+<pre><div class="sacc-item">
+<p>Bidders must specify, by providing the information required below, if they offer to provide material that is new production of current manufacture, or not.</p>
+<ul class="no-markers">
+<li><strong>Material - New Production of Current Manufacture:</strong> If the material is new production of current manufacture supplied by the principal manufacturer or its accredited agent, it
+must conform to the latest issue of the applicable drawing, specification and part number, as applicable, that is in effect on the bid closing date.</li>
+<li><strong>Material - Not New Production of Current Manufacture:</strong> If the material is not new production of current manufacture, or is from a source other than the principal manufacturer or its accredited agent, it must be unused and in new condition. The material (end item) must not contain items which have been refurbished or previously placed in service. If the item contains elastomeric material, e.g., hoses, rubber, adhesive compounds, etc., the shelf life remaining can not be less than 75 percent from the date of manufacture to the procurement date.</li>
+</ul>
+<p>Bidders must further provide the name of the manufacturer, the date of manufacture and the cure date if the item contains elastomeric material.</p>
+<ul class="no-markers">
+<li><strong>Material - New Production of Current Manufacture:</strong><var>__________________</var></li>
+<li><strong>OR</strong><br/>
+<strong>Material - Not New Production of Current Manufacture:</strong> <var>______________</var></li>
+</ul>
+<p>Name of manufacturer: <var>______________</var></p>
+<p>Date of manufacturer: <var>________________</var></p>
+<p>Cure date if the item contains elastomeric material: <var>_____________________</var>.</p>
+</div></pre>

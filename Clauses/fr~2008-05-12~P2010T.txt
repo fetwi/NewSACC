@@ -1,0 +1,36 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le contrat éventuel comprendra une disposition
+pour un rajustement de prix (augmentation ou réduction) de la
+portion du prix directement lié au coût de transaction de
+base du papier. Le rajustement du prix s'appliquera seulement
+à l'augmentation ou la réduction du coût de
+transaction de base du papier qui pourrait se produire en tout
+temps durant la période du contrat mais pas avant trente (30)
+jours après l'attribution du contrat.</li>
+<li value="2">Les soumissionnaires doivent fournir leur
+coût(s) de transaction de base et la quantité de papier
+selon laquelle le coût de transaction de base est établi
+dans leur soumission comme suit :
+<ol type="a">
+<li value="1">papier de couverture (s'il y a lieu) :
+<var>_______</var> lb à un coût de transaction de base de
+<var>______</var> $ aux cent livres, et qui représente
+<var>______</var> p. cent du ou des prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>______________</var>.</li>
+<li value="2">papier pour le texte (s'il y a lieu) :
+<var>______</var> lb à un coût de transaction de base de
+<var>_____</var> $ aux cent livres, et qui représente
+<var>______</var> p. cent du ou des prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>_____________</var>.</li>
+</ol>
+</li>
+<li value="3">À la demande de l'autorité contractante,
+les soumissionnaires devront fournir de la documentation à
+l'appui pour confirmer le coût de transaction de base. Une
+telle documentation peut se composer de la copie de l'offre du ou
+des fournisseurs de papier.</li>
+</ol>
+</div></pre>

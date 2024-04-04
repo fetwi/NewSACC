@@ -1,0 +1,9 @@
+<pre><p><kbd>Instruction aux agents de négociation des contrats : Sélectionnez « soumissionnaire », « offrant » ou « fournisseur », selon le cas.</kbd></p> <p><kbd>Le soumissionnaire/L’offrant/Le fournisseur</kbd> doit fournir l’attestation suivante :</p> <ol>
+<li>Je suis le représentant autorisé de <var>__________________</var>. </li>
+<li>Je, <kbd>le soumissionnaire/l’offrant/le fournisseur</kbd>, en soumettant les présents renseignements à l’autorité contractante, atteste que <var>______</var> <kbd>(<em>insérer le nom de l’entreprise</em>)</kbd> participe à l’initiative de divulgation des émissions de gaz à effet de serre (GES) et d’établissement de cibles de réduction du Défi carboneutre ou à une initiative équivalente, et que les renseignements fournis dans <kbd>la soumission/l’offre/l’arrangement</kbd> concernant notre participation à cette initiative sont véridiques, et je consens à ce qu’ils soient vérifiés à la demande du Canada.</li>
+<li>Je, <kbd>le soumissionnaire/l’offrant/le fournisseur</kbd>, dois, à la demande de l’autorité contractante, fournir une lettre de participation signée d’Environnement et Changement climatique Canada (ECCC) ou tout autre document à l’appui confirmant la participation au Défi carboneutre ou à une initiative équivalente. Le défaut de se conformer à la demande peut faire en sorte que <kbd>la soumission/l’offre/l’arrangement</kbd> soit déclaré(e) non recevable.</li>
+</ol> <p><var>________________________________</var><br/>
+    Titre de l’initiative</p> <p><var>________________________________</var><br/>
+    Nom du représentant autorisé (en caractères d’imprimerie) </p> <p><var>________________________________</var><br/>
+    Signature du représentant autorisé</p> <p><var>________________________________</var><br/>
+    Date</p></pre>

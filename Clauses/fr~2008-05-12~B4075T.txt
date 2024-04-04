@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le soudage doit être effectué par un
+soudeur approuvé par le Bureau canadien du soudage selon les
+exigences des normes suivantes de l'Association canadienne de
+normalisation (CSA):
+<ol type="a">
+<li value="1"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.1-03, Certification des compagnies de soudage
+par fusion de l'acier <span class="input-required"><var>_____</var>
+<kbd>(<i>insérer le niveau de la division</i>)</kbd></span>; et</li>
+<li value="2"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.2-FM1987 (R2003), Certification des
+compagnies de soudage par fusion de l'aluminium <span class="input-required"><var>______</var> <kbd>(<i>insérer le niveau de
+la division</i>)</kbd></span>;</li>
+</ol>
+</li>
+<li value="2">Avant l'attribution du contrat et dans les
+<span class="input-required"><var>_______</var> <kbd>(<i>insérer
+le nombre de jours</i>)</kbd></span> jours civils suivant la demande
+écrite de l'autorité contractante, le soumissionnaire
+retenu doit montrer qu'il possède la reconnaissance de sa
+qualification en matière de soudage.</li>
+</ol>
+</div></pre>

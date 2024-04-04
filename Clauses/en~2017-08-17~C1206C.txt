@@ -1,0 +1,9 @@
+<pre><p><kbd><strong>Instruction to contracting officers: complete and insert one of the following options:</strong></kbd></p> <div class="sacc-item">
+<h2>Option 1</h2>
+<p>The Contractor will be paid for the Work performed in accordance with the Basis of payment <span class="input-required"><var>________</var> <kbd>(<em>insert "at annex <var>____</var> " or "detailed below"</em>)</kbd></span>, to a ceiling price of $ <span class="input-required"><var>________</var> <kbd>(<em>insert amount at contract award</em>)</kbd></span>. Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p class="description">(<em><strong>Insert details of the basis of payment if not included in an annex.</strong></em>)</p>
+<h2>Option 2</h2>
+<p>For the Work described in <span class="input-required"><var>_________</var> <kbd>(<em>insert the applicable section(s) of the statement of work or requirement to which this basis of payment applies</em>)</kbd></span> of the <span class="input-required"><var>________</var> <kbd>(<em>insert "Statement of Work" or "Requirement"</em>)</kbd></span> at annex <var>____</var> :</p>
+<p>The Contractor will be paid for the Work performed in accordance with the Basis of payment <span class="input-required"><var>________</var> <kbd>(<em>insert "at annex <var>____</var> " or "detailed below"</em>)</kbd></span>, to a ceiling price of $ <span class="input-required"><var>________</var> <kbd>(<em>insert amount at contract award</em>)</kbd></span>. Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p class="description">(<em><strong>Insert details of the basis of payment if not included in an annex.</strong></em>)</p>
+</div></pre>

@@ -1,0 +1,21 @@
+<pre><div class="sacc-item">
+<p>The Procurement Authority for the Contract is:</p>
+<p><span class="input-required"><var>_________</var> <kbd>(<em>Name of
+Procurement Authority</em>)</kbd></span></p>
+<p><span class="input-required"><var>_________</var> <kbd>(<em>Title</em>)</kbd></span></p>
+<p><span class="input-required"><var>_________</var> <kbd>(<em>Organization</em>)</kbd></span></p>
+<p><span class="input-required"><var>_________</var> <kbd>(<em>Address</em>)</kbd></span></p>
+<p>Telephone: <var>___</var> -<var>___</var> -<var>____</var></p>
+<p>Facsimile: <var>___</var> -<var>___</var> -<var>____</var></p>
+<p>E-mail: <var>________________</var>.</p>
+<p>The Procurement Authority is the representative of the
+department or agency for whom the Work is being carried out under
+the Contract. The Procurement Authority is responsible for the
+implementation of tools and processes required for the
+administration of the Contract. The Contractor may discuss
+administrative matters identified in the Contract with the
+Procurement Authority however the Procurement Authority has no
+authority to authorize changes to the scope of the Work. Changes to
+the scope of Work can only be made through a contract amendment
+issued by the Contracting Authority.</p>
+</div></pre>

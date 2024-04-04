@@ -1,0 +1,14 @@
+<pre>The Bidder must provide the following information concerning transportation 
+costs for the delivery of the units to destination:
+
+(a)    shipping weight by unit;
+(b)    number of items by unit;
+(c)    cubic measurement by unit;
+(d)    freight classification;
+(e)    name of shipping point;
+(f)    name of rail carrier, if shipment is by rail; and
+(g)    recommended method of shipment and its costs.
+
+
+
+</pre>

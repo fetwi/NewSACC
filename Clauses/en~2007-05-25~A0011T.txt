@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">As part of its technical bid, the Bidder must propose
+its preliminary project schedule, in <span class="input-required"><var>__________</var> <kbd>(<i>insert "network",
+"Gantt chart" or "detailed bar chart"</i>)</kbd></span> format. The
+project schedule must include the Bidder's work breakdown
+structure, the scheduling of main activities and milestone events,
+and any potential problem areas involved in completing the
+Work.</li>
+<li value="2">The Bidder's schedule must also provide a target date
+for each of the following significant events:
+<ol type="a">
+<li value="1"><var>_________</var> ;</li>
+<li value="2"><var>_________</var> ;</li>
+<li value="3"><var>_________</var> ;</li>
+<li value="4"><var>_________</var> ;</li>
+<li value="5"><var>_________</var> ;</li>
+<li value="6"><var>_________</var> ;</li>
+<li value="7"><var>_________</var> .</li>
+</ol>
+</li>
+</ol>
+</div></pre>

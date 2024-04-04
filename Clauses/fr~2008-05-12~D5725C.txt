@@ -1,0 +1,50 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Pour les articles indiqués dans le contrat comme
+étant des fixations filetées de catégorie 3
+essentielles à la sécurité, catégories
+numéro de nomenclature - <abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr> 5305, 5306, 5307, 5310 et 5315,
+l'entrepreneur doit fournir au représentant de l'assurance de
+la qualité (RAQ) un rapport d'inspection ou d'essai valide
+contenant les résultats obtenus pour les paramètres
+suivants :
+<ol type="a">
+<li value="1">diamètre fonctionnel « GO »;</li>
+<li value="2">diamètre primitif;</li>
+<li value="3">diamètre extérieur (filets externes
+seulement);</li>
+<li value="4">diamètre intérieur (ne s'applique pas aux
+filets externes <span class="input-required"><var>____</var> <kbd>(<em>insérer la
+spécification applicable</em>)</kbd></span>);</li>
+<li value="5">rayon à fond de filet (s'applique aux filets
+externes <span class="input-required"><var>_____</var> <kbd>(<em>insérer la
+spécification applicable</em>)</kbd></span> seulement);</li>
+<li value="6">angle de flanc;</li>
+<li value="7">pas hélicoïdal (incluant les variations
+d'hélice);</li>
+<li value="8">aspect circulaire;</li>
+<li value="9">conicité;</li>
+<li value="10">faux rond;</li>
+<li value="11">rugosité de la surface.</li>
+</ol>
+</li>
+<li value="2">La définition de ces termes se trouve dans la
+dernière version révisée <span class="input-required"><var>______</var> <kbd>(<em>insérer la
+spécification applicable</em>)</kbd></span>.</li>
+<li value="3">Si la différence entre le diamètre
+fonctionnel « GO » et le diamètre primitif
+n'excède pas <span class="input-required"><var>_____</var>
+<kbd>(<em>insérer la dimension applicable et la spécification
+s'y rapportant</em>)</kbd></span> de la tolérance du diamètre
+primitif, l'inspection de l'angle de flanc et du pas
+hélicoïdal (incluant les variations d'hélice) n'est
+pas nécessaire.</li>
+<li value="4">L'entrepreneur doit indiquer les mesures obtenues
+pour 100 p. 100 des quantités indiquées dans le
+contrat.</li>
+<li value="5">Si le rapport d'inspection ou d'essai ne peut
+être obtenu du fabricant, l'entrepreneur doit faire faire
+l'inspection à ses frais dans son établissement ou dans
+un autre établissement acceptable par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</li>
+</ol>
+</div></pre>

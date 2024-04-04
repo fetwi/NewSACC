@@ -1,0 +1,38 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada effectuera les paiements progressifs
+conformément aux dispositions de paiement du contrat, à
+raison de une fois par mois au plus, pour les frais engagés
+dans l'exécution des travaux, jusqu'à concurrence de
+<var>_____</var> p. 100 du montant réclamé et
+approuvé par le Canada si :
+<ol type="a">
+<li value="1">une demande de paiement exacte et complète en
+utilisant le formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a>, Demande de paiement progressif, et tout autre document
+exigé par le contrat ont été présentés
+conformément aux instructions relatives à la facturation
+fournies dans le contrat;</li>
+<li value="2">le montant réclamé est conforme à la
+base de paiement;</li>
+<li value="3">la somme de tous les paiements progressifs
+effectués par le Canada ne dépasse pas <var>_____</var>
+p. 100 de la totalité du montant à verser en vertu du
+contrat;</li>
+<li value="4">toutes les attestations demandées sur le
+formulaire <a href="http://www.tpsgc-pwgsc.gc.ca/app-acq/forms/1111-fra.html" rel="external">PWGSC-TPSGC 1111</a> ont été signées par les
+représentants autorisés.</li>
+</ol>
+</li>
+<li value="2"><span class="input-required"><var>__________</var>
+<kbd>(<em>insérer l'option appropriée selon les indications
+fournies dans les remarques plus haut.</em>)</kbd></span></li>
+<li value="3">Les paiements progressifs ne sont que des paiements
+provisoires. Le Canada peut procéder à une
+vérification gouvernementale et des vérifications
+provisoires du temps et des coûts et apporter lorsqu'il y a
+lieu des correctifs au contrat pendant l'exécution des
+travaux. Tout paiement en trop qui résulte du versement des
+paiements progressifs ou d'une autre cause doit être
+remboursé rapidement au Canada.</li>
+</ol>
+</div></pre>

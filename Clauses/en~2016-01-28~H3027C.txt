@@ -1,0 +1,16 @@
+<pre><div class="sacc-item">
+<p>
+</p><p><span class="description"><em>(Contracting officers must include in the contract Electronic Payment Instruments accepted by the contractor, as identified in its bid and renumber accordingly.)</em></span></p>
+<p></p>
+<p>
+The Contractor accepts to be paid using the following Electronic Payment Instrument(s):
+</p>
+<ol type="a">
+<li value="1">Visa Acquisition Card;</li>
+<li value="2">MasterCard Acquisition Card;</li>
+<li value="3">Direct Deposit (Domestic and International);</li>
+<li value="4">Electronic Data Interchange (EDI);</li>
+<li value="5">Wire Transfer (International Only);</li>
+<li value="6">Large Value Transfer System (LVTS) (Over $25M)</li>
+</ol>
+</div></pre>

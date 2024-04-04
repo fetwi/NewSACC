@@ -1,0 +1,31 @@
+<pre><div class="sacc-item">
+<p>Afin de préparer une soumission en réponse à la demande de soumissions, les fournisseurs doivent avoir accès à des renseignements qui sont confidentiels ou qui sont la propriété exclusive du Canada ou d'un tiers. La demande de soumissions a pour condition que les soumissionnaires signent une entente de confidentialité dont les termes sont en grande partie identiques à ceux figurant à l'annexe <var>_____</var> avant d'avoir accès aux renseignements en question à un endroit indiqué dans la demande de soumissions ou avant que ces renseignements qui font partie de la demande de soumissions ne leur soient fournis.</p>
+<p class="description"><strong>Instruction aux agents de négociation des contrats</strong> : Insérer l'entente de confidentialité suivante à titre d'annexe.</p>
+<h2>Annexe <var>_____</var></h2>
+<h3>Entente de confidentialité</h3>
+<p>À : SA MAJESTÉ LE ROI DU CHEF DU CANADA (LE « CANADA »), REPRÉSENTÉ PAR LE MINISTRE DES TRAVAUX PUBLICS ET DES SERVICES GOUVERNEMENTAUX CANADA</p>
+<p>La description du besoin dans la demande de soumissions no <var>______</var> renferme des renseignements qui sont confidentiels ou qui sont la propriété exclusive du Canada ou d'un tiers (renseignements confidentiels) et ces renseignements ne doivent pas être divulgués ou utilisés autrement que de la façon prévue ci-dessous.</p>
+<ol type="1">
+<li value="1">Le fournisseur convient : <ol type="a">
+<li value="1">que, sans la permission préalable par écrit de l'autorité contractante, il ne doit pas divulguer, à personne d'autre qu'à un de ses employés ou à un sous-traitant proposé ayant besoin de connaître les renseignements confidentiels;</li>
+<li value="2">qu'il ne fera aucune copie des renseignements confidentiels et qu'il n'utilisera pas ces renseignements à une fin autre que la préparation d'une soumission en réponse à la demande de soumissions indiquée ci-dessus;</li>
+<li value="3">qu'à la date de clôture de la période de soumission ou avant si celle-ci se termine avant, il doit remettre immédiatement les renseignements confidentiels à l'autorité contractante ainsi que chaque ébauche, document de travail et note contenant de l'information relative aux renseignements confidentiels.</li>
+</ol>
+</li>
+<li value="2">Le fournisseur doit exiger que tout sous-traitant proposé dont il est question en a) ci-dessus signe une entente de confidentialité selon les mêmes conditions de cette entente.</li>
+<li value="3">Le fournisseur reconnaît et convient qu'il sera responsable de toute réclamation, perte ou dommage subi, et de tout coût ou frais encouru par le Canada résultant du fait que le fournisseur, ou toute personne à qui il aura divulgué les renseignements confidentiels, ne se soit pas conformé aux conditions de cette entente.</li>
+<li value="4">Aucune partie de cette entente de confidentialité ne devrait être interprétée comme limitant le droit du fournisseur de divulguer tout renseignement dans la mesure où ce renseignement : <ol type="a">
+<li value="1">appartient au domaine public ou vient à en faire partie indépendamment d'une faute de la part du fournisseur ou d'un sous-traitant proposé;</li>
+<li value="2">est ou devient connu du fournisseur d'une source autre que le Canada, sauf d'une source dont le fournisseur sait qu'elle est tenue envers le Canada de ne pas divulguer ce renseignement;</li>
+<li value="3">est développé indépendamment par le fournisseur; ou</li>
+<li value="4">est divulgué en raison d'une exigence législative ou d'une ordonnance rendue par une cour de justice ou un autre tribunal compétent.</li>
+</ol>
+</li>
+</ol>
+<p><var>_________________________________</var></p>
+<p>Nom du fournisseur</p>
+<p><var>__________________________________</var></p>
+<p>Signature de son représentant autorisé</p>
+<p><var>___________________</var></p>
+<p>Date</p>
+</div></pre>

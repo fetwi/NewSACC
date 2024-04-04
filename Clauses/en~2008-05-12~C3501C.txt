@@ -1,0 +1,53 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+<ol type="1">
+<li value="1">The prices detailed in the Contract are subject to
+upward or downward adjustment <var>_____</var> calendar days after
+<span class="input-required"><var>_____</var> <kbd>(<em><strong>insert the applicable
+date</strong></em>)</kbd></span> to allow for:
+<ol type="a">
+<li value="1">changes due to price adjustment in petroleum products
+that are a direct result of increased or decreased prices imposed
+by the petroleum producer. A copy of the Contractor's notification
+of price increase or decrease from the petroleum producer must be
+provided to the Contracting Authority; and/or</li>
+<li value="2">imposition of any new or changes to any existing
+levies, tariffs or fees of whatsoever nature applicable to any
+petroleum product, authorized, imposed or agreed to by Canada or
+any provincial government or by any Governmental Regulatory
+Authority.</li>
+</ol>
+</li>
+<li value="2">The Contract will be amended to reflect the actual
+price of the increase or decrease at time of delivery. The
+Contractor must not invoice at prices other than those specified in
+the Contract.</li>
+</ol></li>
+<li><strong>OR</strong>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">The prices detailed in the Contract are subject to
+upward or downward adjustment after <span class="input-required"><var>_____</var>
+<kbd>(<em><strong>insert a date</strong></em>)</kbd></span> to allow for:
+<ol type="a">
+<li value="1">changes due to price adjustment in petroleum products
+that are a direct result of increased or decreased prices imposed
+by the petroleum producer. A copy of the Contractor's notification
+of price increase or decrease from the petroleum producer must be
+provided to the Contracting Authority; and/or</li>
+<li value="2">imposition of any new or changes to any existing
+levies, tariffs or fees of whatsoever nature applicable to any
+petroleum product, authorized, imposed or agreed to by Canada or
+any provincial government or by any Governmental Regulatory
+Authority.</li>
+</ol>
+</li>
+<li value="2">The Contract will be amended to reflect the actual
+price of the increase or decrease at time of delivery. The
+Contractor must not invoice at prices other than those specified in
+the Contract.</li>
+</ol>
+</li>
+</ul>
+</div></pre>

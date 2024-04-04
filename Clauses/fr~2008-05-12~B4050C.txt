@@ -1,0 +1,34 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit, dans un délai de
+<var>_____</var> jours après la date d'attribution du contrat,
+fournir au responsable des achats une liste provisoire des
+pièces de rechange (LPPR), préparée
+conformément au numéro le plus récent de la
+spécification D-01-100-214/SF000 des Forces canadiennes. La
+LPPR devra identifier les pièces de rechange devant être
+livrées avant ou en même temps de la mise en service de
+l'équipement, de manière à pouvoir l'utiliser à
+compter de la livraison de celui-ci et ce, jusqu'à la
+livraison des pièces de rechange sélectionnées dans
+le cadre de la réunion sur l'approvisionnement initial. La
+spécification sera fournie par l'autorité contractante
+à la demande de l'entrepreneur.</li>
+<li value="2">La documentation technique supplémentaire sur
+l'approvisionnement supplémentaire (DTSA), préparée
+par le fabricant réel de l'article, doit être fournie en
+vue de la codification et du catalogage de tous les
+éléments figurant dans la LPPR. La DTSA mentionnée
+dans la spécification ci-dessus doit accompagner la LPPR tel
+que précisé dans la spécification. Les détails
+particuliers des données requises doivent être
+énumérés dans la fiche de sélection des
+documents d'approvisionnement, préparée conformément
+à la spécification ci-dessus, et être soumis en
+caractères ASCII par voie électronique.</li>
+<li value="3">Les questions portant sur la préparation, la
+présentation ou le contenu de la documentation
+d'approvisionnement mentionnée ci-dessus doivent être
+adressées au responsable des achats.</li>
+</ol>
+</div></pre>

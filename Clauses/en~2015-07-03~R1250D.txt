@@ -1,0 +1,75 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#indemnification">GC9.1 Indemnification</a></li>
+<li><a href="#insurance-requirements">GC9.2 Insurance Requirements</a></li>
+</ul>
+</div>
+<h2 id="indemnification"><span class="clauseRef">R1250D</span> GC9.1 (2003-05-30)
+Indemnification</h2>
+<ol type="1">
+<li value="1">The Consultant shall indemnify and save harmless
+Canada, its employees and agents, from losses arising out of the
+errors, omissions or negligent acts of the Consultant, its
+employees and agents, in the performance of the Services under the
+Agreement.</li>
+<li value="2">The Consultant's liability to indemnify or reimburse
+Canada under the Agreement shall not affect or prejudice Canada
+from exercising any other rights under law.</li>
+</ol>
+<h2 id="insurance-requirements"><span class="clauseRef">R1250D</span> GC9.2 (2015-07-03)
+Insurance Requirements</h2>
+<ol type="1">
+<li value="1">General
+<ol type="a">
+<li value="1">The Consultant shall ensure that appropriate
+liability insurance coverage is in place to cover the Consultant
+and the members of the Consultant Team and shall maintain all
+required insurance policies as specified herein.</li>
+<li value="2">The Consultant shall, if requested by the Contracting
+Officer at any time, provide to the Contracting Officer an
+Insurer's Certificate of Insurance and/or the originals or
+certified true copies of all contracts of insurance maintained by
+the Consultant pursuant to the provisions contained herein.</li>
+<li value="3">The payment of monies up to the deductible amount
+made in satisfaction of a claim shall be borne by the
+Consultant.</li>
+<li value="4">Any insurance coverages additional to those required
+herein that the Consultant and the other members of the Consultant
+Team may deem necessary for their own protection or to fulfill
+their obligations shall be at their own discretion and
+expense.</li>
+</ol>
+</li>
+<li value="2">Commercial General Liability
+<ol type="a">
+<li value="1">The insurance coverage provided shall not be less
+than that provided by <abbr title="Insurance Bureau of Canada">IBC</abbr> Form 2100, as amended from time to time,
+and shall have: a limit of liability of not less than $5,000,000
+per occurrence; an aggregate limit of not less than $5,000,000
+within any policy year.</li>
+<li value="2">The policy shall insure the Consultant and shall
+include Her Majesty the Queen in right of Canada, represented by
+the Minister of Public Works and Government Services as an
+Additional Insured, with respect to liability arising out of the
+performance of the Services.</li>
+</ol>
+</li>
+<li value="3">Professional Liability
+<ol type="a">
+<li value="1">The Professional Liability insurance coverage shall
+be in an amount usual for the nature and scope of the Services but,
+shall have a limit of liability of not less than $1,000,000 per
+claim, and be continually maintained from the commencement of
+performance of the Services until five (5) years after their
+completion.</li>
+<li value="2">The following provision must be incorporated into the
+conditions of the Consultant's Professional Liability insurance
+coverage: "Notice of Cancellation of Insurance Coverage: The
+Insurer agrees to give the Contracting Authority at least thirty
+(30) days' prior written notice of any policy cancellation and
+before making any reduction in coverage."</li>
+</ol>
+</li>
+</ol>
+</div></pre>

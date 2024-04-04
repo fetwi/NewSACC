@@ -1,0 +1,20 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+<p>L'entrepreneur doit exécuter les travaux conformément
+à l'énoncé des travaux qui se trouve à l'annexe
+« <var>_____</var>  ».</p></li>
+<li><p><strong>OU</strong></p> <h2>Clause 2</h2>
+<p>L'entrepreneur doit exécuter les travaux conformément
+à l'énoncé des travaux qui se trouve à l'annexe
+«  <var>_____</var>  » et à la soumission technique de
+l'entrepreneur intitulée <var>_____</var> , en date du
+<var>_______</var>.</p></li>
+<li><p><strong>OU</strong></p> <h2>Clause 3</h2>
+<p>L'entrepreneur doit exécuter les travaux conformément
+à l'énoncé des travaux qui se trouve à l'annexe
+« <var>_____</var>  », et aux parties technique et de
+gestion de la soumission de l'entrepreneur intitulée
+<var>______</var>, en date du <var>_____</var> .</p></li>
+</ul>
+</div></pre>

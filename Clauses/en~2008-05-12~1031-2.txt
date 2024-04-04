@@ -1,0 +1,185 @@
+<pre><div class="sacc-item">
+<div class="toc">
+<p>01 General Principle</p>
+<p>02 Definition of a Reasonable Cost</p>
+<p>03 Direct Costs</p>
+<p>04 Indirect Costs</p>
+<p>05 Allocation of Indirect Costs</p>
+<p>06 Credits</p>
+<p>07 Non-applicable Costs</p>
+</div>
+<h2>1031-2 01 (2008-05-12) General Principle</h2>
+<p>The total cost of the Contract must be the sum of the applicable
+direct and indirect costs which are, or must be reasonably and
+properly incurred and/or allocated, in the performance of the
+Contract, less any applicable credits. These costs must be
+determined in accordance with the Contractor's cost accounting
+practices as accepted by Canada and applied consistently over
+time.</p>
+<h2>1031-2 02 (2008-05-12) Definition of a Reasonable Cost</h2>
+<ol type="1">
+<li value="1">A cost is reasonable if the nature and amount do not
+exceed what would be incurred by an ordinary prudent person in the
+conduct of a competitive business.</li>
+<li value="2">In determining the reasonableness of a particular
+cost, consideration will be given to:
+<ol type="a">
+<li value="1">whether the cost is of a type generally recognized as
+normal and necessary for the conduct of a contractor's business or
+performance of the Contract;</li>
+<li value="2">the restraints and requirements by such factors as
+generally accepted sound business practices, arm's length
+bargaining, federal, provincial and local laws and regulations, and
+contract conditions;</li>
+<li value="3">the action that prudent business persons would take
+in the circumstances, considering their responsibilities to the
+owners of the business, their employees, customers, the Government
+and public at large;</li>
+<li value="4">significant deviations from the established practices
+of the Contractor which may unjustifiably increase the contract
+costs; and</li>
+<li value="5">the specifications, delivery schedule and quality
+requirements of the particular contract as they affect costs.</li>
+</ol>
+</li>
+</ol>
+<h2>1031-2 03 (2008-05-12) Direct Costs</h2>
+<p>There are three categories of direct costs:</p>
+<ol type="a">
+<li value="1"><dfn>"Direct Material Costs"</dfn> meaning the cost of materials
+which can be specifically identified and measured as having been
+used or to be used in the performance of the Contract and which are
+so identified and measured consistently by the Contractor's cost
+accounting practices as accepted by Canada.
+<ol type="i">
+<li value="1">These materials may include, in addition to materials
+purchased solely for the performance of the Contract and processed
+by the Contractor, or obtained from subcontractors, any other
+materials issued from the Contractor's general stocks.</li>
+<li value="2">Materials purchased solely for the performance of the
+Contract or subcontracts must be charged to the Contract at the net
+laid-down cost to the Contractor before cash discounts for prompt
+payment.</li>
+<li value="3">Materials issued from the Contractor's general stocks must
+be charged to the Contract in accordance with the method as used
+consistently by the Contractor in pricing material inventories.</li>
+</ol></li>
+<li value="2"><dfn>"Direct Labour Costs"</dfn> meaning the costs of the
+portion of gross wages or salaries incurred for the Work, which can
+be specifically identified and measured as having been incurred or
+to be incurred in the performance of the Contract and which are so
+identified and measured consistently by the Contractor's cost
+accounting practices as accepted by Canada.</li>
+<li value="3"><dfn>"Other Direct Costs"</dfn> meaning those applicable costs,
+not falling within the categories of direct material or direct
+labour, but which can be specifically identified and measured as
+having been incurred or to be incurred in the performance of the
+Contract and which are so identified and measured consistently by
+the Contractor's cost practices as accepted by Canada.</li>
+</ol>
+<h2>1031-2 04 (2008-05-12) Indirect Costs</h2>
+<ol type="1">
+<li value="1"><dfn>"Indirect Costs" (overhead)"</dfn> meaning those costs which, though
+necessarily having been incurred during the performance of the
+Contract for the conduct of the Contractor's business in general,
+cannot be identified and measured as directly applicable to the
+performance of the Contract.</li>
+<li value="2">These Indirect Costs may include, but are not
+necessarily restricted to, such items as:
+<ol type="a">
+<li value="1">indirect materials and supplies <a href="#1031-2_04_footnote-1">(*)</a>;</li>
+<li value="2">indirect labour;</li>
+<li value="3">fringe benefits (the Contractor's contribution
+only);</li>
+<li value="4">public services expenses: expenses of a general
+nature such as power, heat, light, operation and maintenance of
+general assets and facilities;</li>
+<li value="5">fixed/period charges: recurring charges such as
+property taxes, rentals and reasonable depreciation costs;</li>
+<li value="6">general and administrative expenses: including
+remuneration of executive and corporate officers, office wages and
+salaries and expenses such as stationery, office supplies, postage
+and other necessary administration and management expenses;</li>
+<li value="7">selling and marketing expenses associated with the
+goods, services or both being acquired under the Contract;</li>
+<li value="8">general research and development expenses as
+considered applicable by Canada.</li>
+</ol>
+</li>
+</ol>
+<p><a name="1031-2_04_footnote-1">(*)</a> For supplies of similar low-value, high-usage items the
+costs of which meet the above definition of Direct Material Costs
+but for which it is economically expensive to account for these
+costs in the manner prescribed for direct costs, then they may be
+considered to be indirect costs for the purposes of the
+Contract.</p>
+<h2>1031-2 05 (2008-05-12) Allocation of Indirect Costs</h2>
+<p>Indirect Costs must be accumulated in appropriate indirect cost
+pools, reflecting a contractor's organizational or operational
+lines and these pools subsequently allocated to contracts in
+accordance with the following two principles:</p>
+<ol type="a">
+<li value="1">the costs included in a particular indirect cost pool
+should have a similarity of relationship with each contract to
+which that indirect cost pool is subsequently distributed; further,
+the costs included in an indirect cost pool should be similar
+enough in their relationship to each other that the allocation of
+the total costs in the pool provides a result which would be
+similar to that achieved if each cost within that pool were
+separately distributed;</li>
+<li value="2">the allocation basis for each indirect cost pool
+should reflect, as far as possible, the causal relationship of the
+pooled costs to the contracts to which these costs are
+distributed.</li>
+</ol>
+<h2>1031-2 6 (2008-05-12) Credits</h2>
+<p>The applicable portion of any income, rebate, allowance, or any
+other credit relating to any applicable direct or indirect cost,
+received by or accruing to the Contractor, must be credited to the
+Contract.</p>
+<h2>1031-2 07 (2008-05-12) Non-applicable Costs</h2>
+<p>Despite that the following costs may have been or may be
+reasonably and properly incurred by the Contractor in the
+performance of the Contract, they are considered non-applicable
+costs to the Contract:</p>
+<ol type="a">
+<li value="1">allowance for interest on invested capital, bonds,
+debentures, bank or other loans together with related bond
+discounts and finance charges;</li>
+<li value="2">legal, accounting and consulting fees in connection
+with financial reorganization, security issues, capital stock
+issues, obtaining of patents and licenses and prosecution of claims
+against Canada;</li>
+<li value="3">losses on investments, bad debts and collection
+charges;</li>
+<li value="4">losses on other contracts;</li>
+<li value="5">federal and provincial income taxes, excess profit
+taxes or surtaxes and/or special expenses in connection with those
+taxes;</li>
+<li value="6">provisions for contingencies;</li>
+<li value="7">premiums for life insurance on the lives of officers
+and/or directors where proceeds accrue to the Contractor;</li>
+<li value="8">amortization of unrealized appreciation of
+assets;</li>
+<li value="9">depreciation of assets paid for by Canada;</li>
+<li value="10">fines and penalties;</li>
+<li value="11">expenses and depreciation of excess facilities;</li>
+<li value="12">unreasonable compensation for officers and
+employees;</li>
+<li value="13">product development or improvement expenses not
+associated with the product being acquired under the Contract;</li>
+<li value="14">advertising, except reasonable advertising of an
+industrial or institutional character placed in trade, technical or
+professional journals for the dissemination of information for the
+industry or institution;</li>
+<li value="15">entertainment expenses;</li>
+<li value="16">donations except those to charities registered under
+the <cite>Income Tax Act</cite>;</li>
+<li value="17">dues and other memberships other than regular trade
+and professional associations;</li>
+<li value="18">fees, extraordinary or abnormal for professional
+advice in regard to technical, administrative or accounting
+matters, unless approval from the Contracting Authority is
+obtained.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,91 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">To be declared responsive, a bid must: <ol type="a">
+<li value="1">comply with all the requirements of the bid solicitation; and</li>
+<li value="2">meet all mandatory criteria; and</li>
+</ol> <span class="description">Instruction to contracting officers: choose one of the following options:</span>
+<ul class="no-markers">
+<li>
+<h2>Option 1</h2>
+<ol type="a">
+<li value="3">obtain the required minimum of <span class="input-required"><var>____</var> <kbd>(<em>insert minimum number of points</em>)</kbd></span> points overall for the technical evaluation criteria which are subject to point rating. <br/>The rating is performed on a scale of <span class="input-required"><var>____</var> <kbd>(<em>insert total number of available points</em>)</kbd></span> points. </li>
+</ol>
+</li>
+<li><strong>OR</strong> <br/>
+<h2>Option 2</h2>
+<ol type="a">
+<li value="3"> obtain the required minimum points specified <span class="input-required"><kbd>(choose "for each criterion"<strong> OR </strong>"for criterion number <var>___</var>"<strong> OR </strong>"for criteria numbers <var>___</var> , <var>___</var>")</kbd></span> for the technical evaluation, and </li>
+<li value="4"> obtain the required minimum of <span class="input-required"><var>____</var> <kbd>(<em>insert minimum number of points</em>)</kbd></span> points overall for the technical evaluation criteria which are subject to point rating. <br/>The rating is performed on a scale of <span class="input-required"><var>____</var> <kbd>(<em>insert total number of available points</em>)</kbd></span> points. </li>
+</ol>
+</li>
+</ul>
+</li>
+<li value="2"> Bids not meeting (choose "(a) or (b) or (c)" OR "(a) or (b) or (c) and (d)") will be declared non-responsive. </li>
+<li value="3"> The selection will be based on the highest responsive combined rating of technical merit and price. The ratio will be <span class="input-required"><var>____</var> % <kbd>(<em>insert the percentage for technical merit</em>)</kbd></span> for the technical merit and <span class="input-required"><var>____</var> % <kbd>(<em>insert the percentage for price</em>)</kbd> for the price.</span> </li>
+<li value="4"> To establish the technical merit score, the overall technical score for each responsive bid will be determined as follows: total number of points obtained / maximum number of points available multiplied by the ratio of <span class="input-required"><var>____</var> % <kbd>(<em>insert the percentage for technical merit</em>)</kbd></span>. </li>
+<li value="5"> To establish the pricing score, each responsive bid will be prorated against the lowest evaluated price and the ratio of <span class="input-required"><var>____</var> % <kbd>(<em>insert the percentage for price</em>)</kbd></span>. </li>
+<li value="6"> For each responsive bid, the technical merit score and the pricing score will be added to determine its combined rating. </li>
+<li value="7"> Neither the responsive bid obtaining the highest technical score nor the one with the lowest evaluated price will necessarily be accepted. The responsive bid with the highest combined rating of technical merit and price will be recommended for award of a contract. </li>
+</ol>
+<p>The table below illustrates an example where all three bids are responsive and the selection of the contractor is determined by a 60/40 ratio of technical merit and price, respectively. The total available points equals 135 and the lowest evaluated price is $45,000 (45).</p>
+<table>
+<caption>Basis of Selection - Highest Combined Rating Technical Merit (60%) and Price (40%)</caption>
+<tbody>
+<tr>
+<td colspan="2"></td>
+<th id="T005111-ac1"> Bidder 1 </th>
+<th id="T005111-ac2"> Bidder 2 </th>
+<th id="T005111-ac3"> Bidder 3 </th>
+</tr>
+<tr>
+<th colspan="2" id="T005111-ar1"> Overall Technical Score </th>
+<td headers="T005111-ar1 T005111-ac1"> 115/135 </td>
+<td headers="T005111-ar1 T005111-ac2"> 89/135 </td>
+<td headers="T005111-ar1 T005111-ac3"> 92/135 </td>
+</tr>
+<tr>
+<th colspan="2" id="T005111-ar2"> Bid Evaluated Price </th>
+<td headers="T005111-ar2 T005111-ac1"> $55,000.00 </td>
+<td headers="T005111-ar2 T005111-ac2"> $50,000.00 </td>
+<td headers="T005111-ar2 T005111-ac3"> $45,000.00 </td>
+</tr>
+<tr>
+<th id="T005111-ar3" rowspan="2"> Calculations </th>
+<th headers="T005111-ar3" id="T005111-ar4"> Technical Merit Score </th>
+<td headers="T005111-ar3 T005111-ar4 T005111-ac1">
+<p>115/135 x 60 = 51.11</p>
+</td>
+<td headers="T005111-ar3 T005111-ar4 T005111-ac2">
+<p>89/135 x 60 = 39.56</p>
+</td>
+<td headers="T005111-ar3 T005111-ar4 T005111-ac3">
+<p>92/135 x 60 = 40.89</p>
+</td>
+</tr>
+<tr>
+<th headers="T005111-ar3" id="T005111-ar5"> Pricing Score </th>
+<td headers="T005111-ar3 T005111-ar5 T005111-ac1">
+<p>45/55 x 40 = 32.73</p>
+</td>
+<td headers="T005111-ar3 T005111-ar5 T005111-ac2">
+<p>45/50 x 40 = 36.00</p>
+</td>
+<td headers="T005111-ar3 T005111-ar5 T005111-ac3">
+<p>45/45 x 40 = 40.00</p>
+</td>
+</tr>
+<tr>
+<th colspan="2" id="T005111-ar6"> Combined Rating </th>
+<td headers="T005111-ar6 T005111-ac1"> 83.84 </td>
+<td headers="T005111-ar6 T005111-ac2"> 75.56 </td>
+<td headers="T005111-ar6 T005111-ac3"> 80.89 </td>
+</tr>
+<tr>
+<th colspan="2" id="T005111-ar7"> Overall Rating </th>
+<td headers="T005111-ar7 T005111-ac1"> 1st </td>
+<td headers="T005111-ar7 T005111-ac2"> 3rd </td>
+<td headers="T005111-ar7 T005111-ac3"> 2nd </td>
+</tr>
+</tbody>
+</table>
+</div></pre>

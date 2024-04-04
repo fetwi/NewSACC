@@ -1,0 +1,27 @@
+<pre>Maintenance/enhancements shall include:
+
+       a) CODE CORRECTIONS<strong><strong><strong> OR </strong></strong></strong>FIXES:  To supply code corrections as 
+       required to correct errors and product malfunctions within the 
+       limits of the specifications.  Such corrections shall be made within 
+       a reasonable amount of time after their discovery.
+
+       b) PRODUCT UPDATES/UPGRADES:  To supply upgrade products as required 
+       to operate under new releases of the computer manufacturer's 
+       operating systems and improvements in the software package which 
+       relate to operating performance but do not change the basic function 
+       of the software package. 
+
+       c) PRODUCT VERSION:  To supply improvements, extensions, and other 
+       changes to such products which the Contractor, at its discretion, 
+       deems to be logical improvements or extensions to the original 
+       products supplied. 
+
+       d) TECHNICAL SUPPORT:  To supply a reasonable amount of assistance 
+   in the event of difficulties in the use of the products or in the 
+   interpretation of results of product use to the extent of mail and 
+   telephone contact.  If on-site assistance is required and the problem is 
+   the failure of the product to perform to specifications as contained in 
+   the current Product Description Document, no charge will be made.  If 
+   the problem is due to other causes, the standard rates for such services 
+   will be applicable. 
+</pre>

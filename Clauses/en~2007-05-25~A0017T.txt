@@ -1,0 +1,6 @@
+<pre><div class="sacc-item">
+<p>A public bid opening will be held in <span class="input-required"><var>________</var> <kbd>(<em>Insert the
+location</em>)</kbd></span> at <span class="input-required"><var>_________</var> <kbd>(<em>Insert the time and time
+zone</em>)</kbd></span> on <span class="input-required"><var>___________</var> <kbd>(<em>Insert the
+date</em>)</kbd></span>.</p>
+</div></pre>

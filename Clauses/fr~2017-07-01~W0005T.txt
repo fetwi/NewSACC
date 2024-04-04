@@ -1,0 +1,7 @@
+<pre><div class="sacc-item">
+<p>Ce marché est réservé pour les bénéficiaires d'une ou des ententes sur les revendications territoriales globales (ERTG) suivantes: <span class="input-required"><var>____________</var><kbd>(<em>insérer la ou les <abbr title="Entente sur les revendications territoriales globales">ERTG</abbr> qui s'appliquent</em>)</kbd></span>, en vertu du paragraphe <span class="input-required"><var>________</var> <kbd>(<em>insérer les numéros de paragraphe qui s'appliquent</em>)</kbd></span>.</p>
+<p class="description"><strong><em>Instruction aux agents de négociation des marchés:</em></strong> <em>insérer l'énoncé suivant, s'il y a lieu</em>.</p>
+<blockquote>Ce marché est exclu des accords commerciaux internationaux en vertu des dispositions de chaque accord relativement aux mesures portant sur les Peuples autochtones ou relativement aux marchés réservés aux petites entreprises et aux entreprises minoritaires.</blockquote>
+<p class="description"><strong><em>Instruction aux agents de négociation des marchés:</em></strong> <em>insérer l'énoncé suivant, s'il y a lieu</em>.</p>
+<blockquote>Conformément à l’article 800 de l’Accord de libre-échange canadien (ALEC), l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> ne s’applique pas au présent marché.</blockquote>
+</div></pre>

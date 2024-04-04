@@ -1,0 +1,23 @@
+<pre><div class="sacc-item">
+<p>The Contractor grants to Canada the irrevocable option to acquire the goods, services or both described at <var>________</var> of the Contract under the same conditions and at the prices and/or rates stated in the Contract. The option may only be exercised by the Contracting Authority and will be evidenced, for administrative purposes only, through a contract amendment.</p>
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+The Contracting Authority may exercise the option at any time
+before the expiry of the Contract by sending a written notice to
+the Contractor.</li>
+<li><strong>OR</strong>
+<br/>
+<h2>Option 2</h2>
+The Contracting Authority may exercise the option at any time
+before <span class="input-required"><var>_________</var>
+<kbd>(<em>insert date</em>)</kbd></span> by sending a written notice to the
+Contractor.</li>
+<li><strong>OR</strong>
+<br/>
+<h2>Option 3</h2>
+The Contracting Authority may exercise the option within
+<span class="input-required"><var>___________</var> <kbd>(<em>insert the
+number of days or months</em>)</kbd></span> after contract award by
+sending a written notice to the Contractor.</li>
+</ul>
+</div></pre>

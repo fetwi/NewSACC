@@ -1,0 +1,211 @@
+<pre><strong>AUTHORITY</strong>
+
+1.     Under the authority of the Department of Public Works and Government 
+Services Act:
+
+              "21.(1) The Minister may fix terms and conditions of 
+              contracts, and instructions and terms and conditions with 
+              respect to other documents relating to contracts and their 
+              formation.
+
+              (2) The terms and conditions and instructions may be 
+              identified by number or other designation and may be 
+              incorporated in a contract or other document by reference to 
+              their number or other designation."
+
+<strong>DISTRIBUTION</strong>
+
+2.     The <em>Standard Acquisition Clauses and Conditions</em> (SACC) Manual has 
+       been produced in both conventional (print) and electronic format. 
+       The print format contains information on current clauses and 
+       conditions as well as instructions on how these clauses and 
+       conditions are used. It may be purchased in English and/or French, 
+       from Canadian Government Publishing.  Copies of the Manual have also 
+       been distributed to Canadian public libraries through the Depository 
+       Services Program.
+
+       An electronic version of the Manual is also available and contains 
+       all of the information that is in the print version, as well as the 
+       detailed text of previous versions of older clauses that have been 
+       cancelled or superseded.
+
+       <strong>Electronic versions</strong> are available through the following internet 
+       sites:
+
+       Public Works and Government Services:
+       <strong><a href="http://w3.pwgsc.gc.ca/sacc" rel="external">http://w3.pwgsc.gc.ca/sacc</a></strong>
+
+       Contracts Canada:
+       <strong><a href="http://www.contractscanada.gc.ca" rel="external">http://www.contractscanada.gc.ca</a></strong>.
+
+<strong>Amendments</strong>
+
+3.     Electronic versions available to PWGSC procurement personnel, and on 
+       the Internet, will automatically be updated as amendments to the 
+       Manual are released.
+
+4.     Subscribers to the print version of the Manual will be provided with 
+       amendments on a Standing Order basis - the cost of each update will 
+       depend on the number of pages it contains. In most instances, this 
+       will mean replacing individual pages of the print version while in 
+       others, whole sections or subsections may require replacement. PWGSC 
+       will provide a synopsis for each amendment, identifying what has 
+       been changed. Users are urged to read these amendments immediately 
+       and register these update on the Record of Amendments page at the 
+       beginning of the Manual.
+
+<strong>Additional copies</strong> 
+5.     Subscribers to the print version may obtain additional copies of the 
+       Manual from Associated Bookstores and other booksellers, or by mail 
+       from:
+
+       Canadian Government Publishing
+       Ottawa, Canada
+       K1A 0S9
+
+       Telephone:    (819) 956-4800
+       Facsimile:    (819) 994-1498
+
+       Catalogue No. P60-4/1-1998E (English)
+                     P60-4/1-1998F (French)
+
+<strong>STRUCTURE</strong>
+
+6.     The Manual has been organized to follow the progression of 
+       information presented in procurement documents:
+
+<strong>Section 1 - Standard Instructions and Conditions</strong>
+
+7.     Previously printed on the reverse of page 1 of solicitations and 
+       contracts, or included as attachments, these instructions and 
+       conditions are now identified in standard clause A0000D at the 
+       beginning of the clause section in procurement documents.
+
+<strong>Section 2 - Forms</strong>
+
+8.     This section contains forms commonly used in the procurement process. 
+       Forms included are:
+
+       (a)    Federal Contractors Program on Employment Equity - includes a 
+              description of the program and Certificate of Commitment.
+
+       (b)    Security Requirements Check List.
+
+       (c)    Claim for Exchange Rate Adjustments - DSS-MAS 9411.
+
+       (d)    Information on Incumbent Employees
+
+       The reader is directed to the specific clauses and/or conditions 
+       which may be referred to in a procurement document. In certain cases, 
+       the applicable certificates or forms have been reproduced for the 
+       perusal and/or use of the reader.
+
+<strong>Sections 3 and 4 - General Conditions and Supplemental General Conditions</strong>
+
+9.     These sections present those sets of standard conditions which form 
+       the foundation upon which all procurement documents issued by PWGSC 
+       are built. Section 3 defines the basic sets of conditions which 
+       apply to specific classes of contracts (e.g. DSS-MAS 1011A - General 
+       Conditions - United States Purchases).  Section 4, Supplemental 
+       General Conditions, addresses areas unique to specific sub-classes 
+       of contracts (e.g. DSS-MAS 1028 - Supplemental General Conditions - 
+       Ship Construction - Firm Price).
+
+10.    Each section/article within a condition set has been given its own 
+       effective date. The condition set as a whole has also been given an 
+       effective date which is reflected in section 00 and is determined by 
+       the latest revision date of one or more of its sections.
+
+<strong>Section 5 - Standard Procurement Clauses</strong>
+
+11.    This section contains a collection of national procurement clauses, 
+       common to various classes of contracts. The full text of individual 
+       clauses, incorporated by reference into a bid solicitation or 
+       contract by their Number, Title and Effective Date, can be found in 
+       this section of the Manual. Each subsection (A-Z) is devoted to a 
+       particular subject area. Please note that some subsections have not 
+       been assigned at this time.
+
+12.    Clauses may be identified by their numbers which break down as 
+       follows:
+
+       (a)    the first alphabetic character (A-Z) indicates the subsection 
+              in Section 5;
+
+       (b)    the four numeric characters (0000-9999) indicate the clause's 
+              position within the numeric sequence of the subsection;
+
+       (c)    the final alphabetic character (T, C or D) indicates the type 
+              of document in which a given clause would be used (i.e. T = 
+              Tender; C = Contract; D = Dual purpose, used in both tenders 
+              and contracts).
+
+       Example:      Clause C0004T - Price Certification. This is the 
+                     fourth sequential clause found in subsection C - Price, 
+                     of Section 5 and is used in Tender (solicitation) 
+                     documents.
+
+<strong>Section 6 - Indexes</strong>
+
+13.    <strong>Print Version (Index)</strong> - This section provides two indexes: Index by 
+       Title and Index by Reference Number.
+
+       <strong>PWGSC Smartext Version (Synopsis)</strong> - A synopsis of the changes made 
+       since the last release is provided for each section. It can be 
+       accessed through the "Outline Window".
+
+<strong>USE OF THE MANUAL</strong>
+
+<strong>Reference clauses (R)</strong>
+
+14.    Bid solicitations and contracts will contain references to specific 
+       clauses and general conditions which will apply to that particular 
+       requirement. Clause references will include the clause number, its 
+       effective date and its title (e.g. A0001T (01/06/91) Survey of 
+       Facilities).  All clauses referred to in this manner can be found in 
+       Section 5 of this Manual. 
+<strong>Fill-in clauses (F)</strong>
+
+15.    Clauses which require the insertion of specific information by the 
+       contracting officer or the supplier (fill-in clauses) will be 
+       produced in full on procurement documents.
+
+       <strong>NOTE:  </strong>In the case of discrepancies in clause versions between 
+              solicitation documents and the Manual, any clause appearing 
+              in full text in a procurement document will override any 
+              version set out in the Manual.
+
+<strong>Updates</strong>
+
+16.    Any standard clause, and any condition or instruction set, used or 
+       referenced in a bid solicitation or contract may be updated from 
+       time to time. When this happens, the version used in an 
+       already-issued document will remain in effect in that document, 
+       unless the updated version is legally incorporated.
+
+<strong>Enquiries</strong>
+
+17.    Enquiries may be directed to:
+
+       Policy Analysis and Implementation Division
+       Supply Policy Directorate
+       14A1, Place du Portage, Phase III
+       Hull, Quebec  K1A 0S5
+
+       <strong>Phone Numbers</strong>:
+
+       <strong>Printed version</strong>:
+
+       For issues related to the <strong>content</strong>: (819) 956-0863
+       For issues regarding the <strong>distribution</strong>, eg. missing pages, etc.: (819) 
+       956-4800.
+
+       <strong>Electronic versions</strong> (PWGSC Smartext and Internet):
+
+              For issues related to the <strong>conten</strong>t: (819) 956-0880
+
+              For any other issues (besides the content) related to the <strong>
+              Internet</strong> version, contact the Webmaster: (819) 956-3371.
+
+
+</pre>

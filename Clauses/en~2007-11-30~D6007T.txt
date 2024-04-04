@@ -1,0 +1,13 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><p>Work must commence and be completed as follows:</p>
+<p>Commence: <span class="input-required"><var>_______</var>
+<kbd>(<i>insert date</i>)</kbd></span><br/>
+Complete: <span class="input-required"><var>________</var>
+<kbd>(<i>insert date</i>)</kbd></span>.</p></li>
+<li value="2">By submitting a bid, the Bidder certifies that they
+have sufficient material and human resources allocated or available
+and that the above work period is adequate to both complete the
+known work and absorb a reasonable amount of unscheduled work.</li>
+</ol>
+</div></pre>

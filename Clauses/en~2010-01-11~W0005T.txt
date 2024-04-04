@@ -1,0 +1,15 @@
+<pre><div class="sacc-item">
+<p>This procurement is reserved for beneficiaries of the following
+Comprehensive Land Claims Agreement(s) (CLCAs) : <span class="input-required"><var>___________</var> <kbd>(<em>insert the applicable
+<abbr title="Comprehensive Land Claims Agreement">CLCA</abbr>(s)</em>)</kbd></span> under <span class="input-required"><var>_____</var> <kbd>(<em>insert the applicable
+paragraph numbers</em>)</kbd></span>.</p>
+<p class="description"><strong><em>Instruction to contracting officers:</em></strong>
+<em>Insert the following sentence, if applicable</em>.</p>
+<blockquote>This procurement is set aside from the international
+trade agreements under the provision each has for set-asides for
+small and minority businesses.</blockquote>
+<p class="description"><strong><em>Instruction to contracting officers</em></strong><em>: 
+Insert the following sentence, if applicable</em>.</p>
+<blockquote>Further to Article 1802 of the Agreement on Internal
+Trade (AIT), <abbr title="Agreement on Internal Trade">AIT</abbr> does not apply to this procurement.</blockquote>
+</div></pre>

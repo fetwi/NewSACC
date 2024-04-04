@@ -1,0 +1,47 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The evaluation price must include the cost for transferring the vessel from its home port to the shipyard/ship repair facility where the Work will be performed and the cost of transferring the vessel to its home port following completion of the Work, in accordance with the following:
+<ol type="a">
+<li value="1">The Bidder must provide the location of the shipyard/ship repair facility where it proposes to perform the Work together with the applicable vessel transfer cost from the list provided under paragraph 2 of this clause:
+<br/>Proposed shipyard/ship repair facility: <var>______</var>
+<br/>Applicable vessel transfer cost: <var>______</var>.
+</li>
+<li value="2">If the list in paragraph 2 of this clause does not provide the shipyard/ship repair location where the Bidder intends to perform the Work, then the Bidder must advise the Contracting Authority, in writing, at least <span class="input-required"><var>_____</var> calendar days <kbd><em>(<strong>insert the number of days</strong>)</em></kbd></span> before the bid closing date, of its proposed location for performing the Work. The Contracting Authority will confirm to the Bidder, in writing, at least <span class="input-required"><var>_____</var> calendar days <kbd><em>(<strong>insert the number of days</strong>)</em></kbd></span> before the bid closing date, the location of the shipyard/ship repair and the applicable vessel transfer cost.</li>
+</ol>
+<br/>A bid that specifies a location for executing the Work which is not on the list of paragraph 2 of this clause, and for which a notification in writing has not been received by the Contracting Authority as required above, will be considered non-responsive.
+</li>
+<li value="2">List of shipyard/ship repair facilities and applicable vessel transfer costs
+<br/>Vessel: <var>_____</var>
+<br/>Home port: <var>_____</var>
+<br/>Transfer costs in the case of vessels transferred using a government delivery crew include the fuel cost at the vessel's most economical speed of transit and for unmanned refits only, crew transportation costs for the delivery crew based on the location of the vessel's home port and the shipyard/ship repair facility. Crew transportation costs do not include any members of the delivery crew who remain at the shipyard/ship repair facility in order to discharge project responsibilities related to the vessel being transferred.
+
+<br/>Transfer costs in the case of vessels transferred unmanned by either commercial towing, railway, highway or other suitable means of transportation must be:
+<ol type="i">
+<li value="1">included as part of the Bidder's financial bid in the case where the Bidder is responsible for the transfer; or</li>
+<li value="2">identified as the applicable vessel transfer cost, as given in the list below, in the case when Canada is responsible for the </li></ol>
+</li>
+</ol>
+<p class="description">(<em>Contracting officers must enter the list of shipyard/ship repair facilities where the Work could potentially be performed together with the applicable vessel transfer costs based on the latest approved table issued by the Refit, Logistics and Small Vessel Construction Directorate</em>).</p>
+<table>
+<tbody><tr>
+<th>Shipyard/ship repair facility</th>
+<th>Applicable vessel transfer cost</th>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+</tbody></table>
+</div></pre>

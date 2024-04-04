@@ -1,0 +1,33 @@
+<pre>In the performance of the Work described herein, the Contractor shall 
+comply with the quality system requirements identified in the Contract 
+which correspond to the Quality Assurance Codes (QACs) listed on the 
+continuation sheets.
+
+D5530D - Verification at destination (QAC B)
+
+D5531D - Inspection at destination (QAC A)
+
+D5532D - AQAP-110 Design/Development/Production (QAC H)
+
+D5533D - AQAP-130 Inspection (QAC G)
+
+D5534D - AQAP-131 Final Inspection (QAC D)
+
+D5535D - AQAP-150 Software Development (QAC F)
+
+D5536D - D-QA-001-015/SF-001 (QAC E)
+
+D5537D - D-QA-001-015/SF-002 (QAC P)
+
+D5539D - AQAP-120 Production (QAC W)
+
+D5540D - ISO 9001 Design/Development/Production (QAC X)
+
+D5541D - ISO 9002 Production and Installation (QAC Y)
+
+D5542D - ISO 9003 Final Inspection (QAC Z)
+
+D5580D - U.S. FAA/DOT (QAC J)
+
+
+</pre>

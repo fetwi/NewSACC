@@ -1,0 +1,36 @@
+<pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p>In consideration of the Contractor satisfactorily completing all
+of its obligations under the Contract, the Contractor will be paid
+a <span class="input-required"><var>________</var> <kbd>(<em>insert
+"firm price"<strong> OR </strong>"firm unit price(s)
+<strong>OR</strong> "firm lot price(s)", as specified in
+<var>________</var> insert
+"contract"<strong> OR </strong>"in Annex <var>___</var>" for a cost of
+$ <var>_________</var> insert the
+amount at contract award</em>)</kbd></span>. Customs duties are
+<span class="input-required"><var>_________</var> <kbd>(<em>insert
+"included", "excluded"<strong> OR </strong>"subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p>Canada will not pay the Contractor for any design changes,
+modifications or interpretations of the Work, unless they have been
+approved, in writing, by the Contracting Authority before their
+incorporation into the Work.</p>
+<h2>Option 2</h2>
+<p>For the Work described in <span class="input-required"><var>_________</var> <kbd>(<em>insert the applicable
+section(s) of the statement of work or requirement to
+which this basis of payment applies</em>)</kbd></span> of the <span class="input-required"><var>__________</var> <kbd>(<em>insert "Statement of
+Work"<strong> OR </strong>"Requirement"</em>)</kbd></span> in Annex <var>____</var> :</p>
+<p>In consideration of the Contractor satisfactorily completing its
+obligations under the Contract, the Contractor will be paid a
+<span class="input-required"><var>_____</var> , <kbd>(<em>insert "firm price"
+<strong>OR</strong> "firm lot price(s)"</em>)</kbd></span> for a cost of
+$<span class="input-required"><var>_______</var> <kbd>(<em>insert the
+amount at contract award</em>)</kbd></span>. Customs duties are
+<span class="input-required"><var>_____</var> <kbd>(<em>insert
+"included", "excluded"<strong> OR </strong>"subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p>For the firm price portion of the Work only, Canada will not pay
+the Contractor for any design changes, modifications or
+interpretations of the Work unless they have been approved, in
+writing, by the Contracting Authority before their incorporation
+into the Work.</p>
+</div></pre>

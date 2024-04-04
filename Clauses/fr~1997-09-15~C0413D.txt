@@ -1,0 +1,10 @@
+<pre>Fourniture des marchandises indiquées ci-dessus, PRIX FERME : _____$;
+
+Frais de transport de marchandises, PRIX FERME : _____$;
+
+PRIX FERME TOTAL : _____$;
+
+Taxe sur les produits et services en sus ou la taxe de vente harmonisée en 
+sus s'il y a lieu.
+
+</pre>

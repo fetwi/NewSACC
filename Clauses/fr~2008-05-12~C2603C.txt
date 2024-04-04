@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<p>Les biens décrits dans le contrat appartiennent à la
+catégorie ou au type énuméré dans le <cite>Tarif des
+douanes, Appendice II, code d'annexe 1760</cite>, et sont exemptés
+des droits de douane. Les biens sont destinés à servir
+directement dans <var>_____</var> par <span class="input-required"><var>_____</var> <kbd>(<em>no d'autorisation
+<var>_____</var></em>)</kbd></span> .</p>
+</div></pre>

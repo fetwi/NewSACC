@@ -1,0 +1,8 @@
+<pre><div class="sacc-item">
+<p>Toutes les instructions, clauses et conditions identifiées dans la demande de soumissions par un numéro, une date et un titre sont reproduites dans le Guide des clauses et conditions uniformisées d'achat publié par Travaux publics et Services gouvernementaux Canada (TPSGC). Le guide est disponible sur le site Web de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> : <cite><a href="https://achatsetventes.gc.ca/politiques-et-lignes-directrices/guide-des-clauses-et-conditions-uniformisees-d-achat">Guide des clauses et conditions uniformisées d'achat</a></cite>.</p>
+<p>Les soumissionnaires qui présentent une soumission s'engagent à respecter les instructions, les clauses et les conditions de cette demande de soumissions et acceptent les clauses et les conditions du contrat subséquent.</p>
+<p>Les instructions et conditions uniformisées <span class="input-required"><var>_______</var>
+<kbd>(<strong><em>insérer le numéro</em></strong>)</kbd></span><span class="input-required"><var>________</var><kbd>(<strong><em>insérer la date</em></strong>)</kbd></span> sont incorporées par
+renvoi à la demande de soumissions et en font partie
+intégrante.</p>
+</div></pre>

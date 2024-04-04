@@ -1,0 +1,31 @@
+<pre>1.     Tous les pneus doivent porter l'année de leur fabrication, qui sera 
+       indiquée en faisant appel à l'une des méthodes suivantes.
+
+       a)     Les pneus doivent être codés au moyen d'une bande de 
+              circonférence de ruban de 3/4 de po à 1 po de largeur, 
+              faisant le tour complet du pneu et centrée approximativement 
+              sur la bande de roulement.  Les autres numéros devront être 
+              inversés pour pouvoir être lisibles sur la courbure des pneus.  
+              La couleur à reproduire est indiquée dans le tableau ci-après
+               :
+
+              <strong>ANNÉE DE FABRICATION COULEUR DE LA BANDE</strong>
+              1995                        Jaune
+              1996                        Magenta
+              1997                        Rouge
+              1998                        Gris argent
+              1999                        Vert
+              2000                        Bleu
+              2001                        Orange
+              2002                        Jaune
+
+       b)     Les pneus doivent être codés à l'aide d'une bande de 
+              circonférence de ruban blanc de 3/4 de po de largeur, faisant 
+              le tour complet du pneu et centrée approximativement sur la 
+              bande de roulement, l'année de fabrication étant indiquée en 
+              chiffres noirs de 1/2 po de hauteur, répétés à des 
+              intervalles de 12 po.  Les autres numéros doivent être 
+              inversés pour pouvoir être lisibles sur la courbure des pneus.
+
+
+</pre>

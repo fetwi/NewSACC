@@ -1,0 +1,10 @@
+<pre><div class="sacc-item">
+<p>Le <span class="input-required"><var>__________</var><kbd>(<i>insérer responsable " du projet " ou " technique "</i>)</kbd></span> 
+peut autoriser les autorisations de tâches individuelles jusqu'à une limite de 
+<span class="input-required"><var>_______</var> $<kbd>(<i>insérer le montant</i>)</kbd></span>, les taxes applicables incluses, y compris toutes révisions.</p>
+<p>Une autorisation de tâches qui dépasserait cette
+limite doit être autoriser par le <span class="input-required"><var>__________</var> <kbd>(<i>insérer
+responsable " du projet " ou " technique " et
+l'autorité contractante " <em>ou</em> " l'autorité
+contractante "</i>)</kbd></span> avant d'être émise.</p>
+</div></pre>

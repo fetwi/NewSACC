@@ -1,0 +1,16 @@
+<pre>Le client acceptera une facture comprenant les renseignements suivants :
+
+- modèle et numéro de série de l'equipement
+- emplacement
+- date d'installation
+- date des relevés du compteur
+- relevé actuel du compteur (nombre total de copies uniquement)
+- nombre total de copies faites
+- crédits
+- nombre net de copies
+- frais relatifs au compteur
+- frais de location du photocopieur
+- coût des fournitures (le cas échéant)
+- coût des accessoires/nombre d'accessoires (le cas échéant)
+- coût total 
+</pre>

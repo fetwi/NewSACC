@@ -1,0 +1,28 @@
+<pre><div class="sacc-item">
+<p>The Offeror must provide the services of temporary help
+personnel who meets the applicable minimum standards in the:</p>
+<ol type="a">
+<li value="1">Classification and Descriptions for Administrative
+Support Temporary Help published by Canadian General Standards
+Board (CGSB), catalogue number CAN/CGSB-168.1-991, with the
+exception of minimum typing level for secretaries that is amended
+to read "40 words by minute to a maximum of 5 percent error
+rate".<br/>
+The standard may be purchased from <abbr title="Canadian General Standards Board ">CGSB</abbr>, Ottawa, Ontario.
+Information for placing orders are available on: <cite><a href="http://www.tpsgc-pwgsc.gc.ca/ongc-cgsb/index-eng.html" rel="external">Canadian General Standards Board</a></cite>.</li>
+<li value="2">Public Works and Government Services Canada
+"Catalogue of Temporary Employee Classification Descriptions for
+Professional, Administrative, Technical and Operational Temporary
+Help Services", dated March 1992.<br/>
+<span class="description"><strong>Instruction to contracting
+officers:</strong> Choose one of the following options</span>
+<ul class="no-markers">
+<li>Copies of this catalogue are available, upon request, from:
+<var>_________</var> .<br/>
+<strong>OR</strong></li>
+<li>These descriptions are available on the following Website:
+<var>_________</var> .</li>
+</ul>
+</li>
+</ol>
+</div></pre>

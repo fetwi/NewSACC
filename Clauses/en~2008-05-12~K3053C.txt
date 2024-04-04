@@ -1,0 +1,27 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">In this section,
+<ol type="a">
+<li value="1"><dfn>"copyright work"</dfn> means any work in which a
+copyright may subsist, produced in or as a result of performing the
+Contract;</li>
+<li value="2">"publication" or "publish" do not include disclosure
+to an academic supervisor or appraiser, for the sole purpose of
+academic evaluation.</li>
+</ol>
+</li>
+<li value="2">Canada grants to the Contractor and to the author a
+royalty-free non-exclusive license to publish or have published any
+copyright work in the course of the normal dissemination of
+knowledge in the subject field. The Contractor or the author must
+not however publish or have published any copyright work during the
+performance of the Contract or for a period of <span class="input-required"><var>________</var>
+<kbd>(<em>insert the the number of days, months or
+years</em>)</kbd></span> after without obtaining before the
+written consent of Canada.</li>
+<li value="3">Any copyright work published by or on behalf of the
+Contractor or the author must acknowledge that the Work was
+performed under the Contract with Canada, unless specified
+otherwise by Canada.</li>
+</ol>
+</div></pre>

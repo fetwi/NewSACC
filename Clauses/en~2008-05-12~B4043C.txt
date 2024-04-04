@@ -1,0 +1,28 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must prepare nomenclature data (or
+confirm existing data) in accordance with the current issue of
+Canadian Forces Specification D-01-000-200/SF-001 and the most
+recent issue of United States (U.S.) MIL-STD-196 for electronic
+equipment or MIL-STD-1812 for aeronautical and photographic
+equipment. Upon request from the Contractor, the specification will
+be provided by the Contracting Authority.</li>
+<li value="2">The Contractor must submit the nomenclature data
+electronically through the <cite><a href="http://tdas6.monmouth.army.mil" rel="external">Joint Electronics Type Designation
+Automated System</a></cite>
+or the <cite><a href="http://asetds.casc.af.mil" rel="external">Aeronautical and Support Equipment Type Designation System</a></cite>. These
+systems allow users to query and submit <cite>Requests for Nomenclature, <abbr title="United States">U.S.</abbr> Department of Defence DD Form 61</cite> (formerly CF710 or <abbr title="Department of National Defence">DND</abbr> 2091)
+via the Internet.</li>
+<li value="3">The Contractor must submit the data at least ninety
+(90) days before delivery of the deliverable end item(s) to which
+the data relates.</li>
+<li value="4">Access to the Joint Electronics Type Designation
+Automated System is restricted and users must apply for Logon <abbr title="Identification">ID</abbr>
+and Password. The Contractor's representatives responsible for
+submitting Requests for Nomenclature must have a valid Reliability
+Check registered with the Department of National Defence and/or
+Public Works and Government Services Canada. For an Application for
+Logon-ID and Password, see the above specification or contact the
+Procurement Authority.</li>
+</ol>
+</div></pre>

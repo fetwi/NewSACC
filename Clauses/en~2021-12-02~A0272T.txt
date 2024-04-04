@@ -1,0 +1,3 @@
+<pre><div class="sacc-item">
+<p>A bid must comply with the requirements of the bid solicitation and meet all mandatory technical evaluation criteria to be declared responsive. The responsive bid with the <span class="input-required"><var>______</var> <kbd>(<em><strong>insert</strong>: "lowest evaluated price on an item by item basis" <strong>or</strong> "lowest evaluated price on an aggregate basis"</em>)</kbd></span> will be recommended for award of a contract.</p>
+</div></pre>

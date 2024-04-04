@@ -1,0 +1,35 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit préparer un Rapport
+intérimaire de production (formule DD 375)
+<ol type="a">
+<li value="1">à tous les mois;</li>
+<li value="2">en cas de dérogation au calendrier des
+livraisons prévu par le contrat. La formule DD 375 doit
+être présentée, mensuellement, au plus tard le
+deuxième jour ouvrable suivant le mois de référence.
+La formule DD 375 doit être distribuée comme suit :
+</li>
+</ol>
+</li>
+</ol>
+<table>
+<caption>Formule DD 375 - Rapport intérimaire de production</caption>
+<tbody><tr>
+<th>Nombre d'exemplaires</th>
+<th>Nom et adresse</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+</div></pre>

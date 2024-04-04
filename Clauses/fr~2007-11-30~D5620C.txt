@@ -1,0 +1,36 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur doit remplir les documents de sortie dans un
+format électronique en vigueur et les distribuer comme suit
+:</p>
+<ol type="a">
+<li value="1">exemplaire 1 : envoyé par la poste au
+destinataire avec la mention : «  À l'attention de l'agent
+de réception  »</li>
+<li value="2">exemplaires 2 et 3 : avec l'envoi au destinataire,
+dans une enveloppe imperméable à l'eau;</li>
+<li value="3">exemplaire 4 : à l'autorité
+contractante;</li>
+<li value="4">exemplaire 5 : au <var>_________________</var>
+<p>Quartier général de la Défense nationale</p>
+<p>Édifice Mgén George R. Pearkes</p>
+<p>101, promenade Colonel By</p>
+<p>Ottawa (ON) K1A OK2</p>
+<p>À l'attention de : <var>_____</var></p>
+</li>
+<li value="5">exemplaire 6 : au représentant de l'assurance de
+la qualité;</li>
+<li value="6">exemplaire 7 : à l'entrepreneur;</li>
+<li value="7">exemplaire 8 : pour les entrepreneurs non-canadiens
+:
+<p>DAQ/Administration des contrats</p>
+<p>Quartier général de la Défense nationale</p>
+<p>Édifice Mgén George R. Pearkes</p>
+<p>101, promenade Colonel By</p>
+<p>Ottawa (ON) K1A OK2</p>
+<p>Courriel :<a href="mailto:ContractAdmin.DQA@forces.gc.ca" rel="external">ContractAdmin.DQA@forces.gc.ca</a></p>
+<p><strong>Remarque</strong> : Pour les contrats relatifs à la
+livraison de carburant aux aéronefs, les exemplaires 2, 3, 4
+et 5 ne sont pas requis et peuvent être détruits.</p>
+</li>
+</ol>
+</div></pre>

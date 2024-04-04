@@ -1,0 +1,39 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit présenter les factures conformément à l'article intitulé « Présentation des factures » des conditions générales. <br/>Chaque facture doit contenir :
+
+<ol type="a">
+<li value="1">toute information pertinente décrite à l'article intitulé « Présentation des factures » des conditions générales;
+li&gt;
+</li><li value="2">le montant total à payer selon la Base de paiement;
+li&gt;
+</li><li value="3">le nom et l'adresse du ministère client apparaissant sur la commande;
+li&gt;
+</li><li value="4">le numéro de la commande;
+</li>
+<li value="5">toutes dépenses encourues, appuyées par une copie des factures.
+</li>
+</ol>
+</li>
+<li value="2">Chaque facture originale de vol doit être présentée avec, à l'appui, les billets d'affrètement signés de l'affréteur après chaque vol, indiquant que le service inscrit sur la facture a été effectué conformément au contrat.</li>
+</ol>
+<p class="description">Les agents de négociation des contrats doivent sélectionner une des options suivantes :</p>
+<ul class="no-markers">
+<li>
+<ol type="1">
+<li value="3">L'original et un (1) exemplaire de la facture doivent être envoyé au consignataire pour attestation et paiement.</li>
+</ol></li>
+<li><strong>OU</strong>
+<ol type="1">
+<li value="3">La facture doit être distribué comme suit :
+<ol type="a">
+<li value="1">l'original et un (1) exemplaire doit être envoyés à l'adresse suivant pour attestation et paiement : <span class="input-required"><var>_________</var>. <kbd>(<em>Les agents de négociation des contrats doivent insérer le nom et l'adresse de l'organisation
+</em>)</kbd></span></li>
+<li value="2">b.une copie doit être envoyée au responsable de l'offre à commandes identifié sous la section intitulé « Responsables » de l'offre à commandes.
+</li>
+</ol>
+</li>
+</ol>
+</li>
+</ul>
+</div></pre>

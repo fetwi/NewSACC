@@ -1,0 +1,20 @@
+<pre>Le Soumissionnaire DOIT fournir les renseignements ci-après au sujet du ou 
+des moteurs fournis avec le matériel à l'égard duquel une offre est 
+présentée :  
+
+1. Fabricant    
+2. Modèle    
+3. Puissance :                    
+       H.P.                   
+       Voltage                
+       Phase                   
+       Mode d'isolement   
+4.Vitesse  
+
+Matériel électrique approuvé par l'association canadienne des normes : 
+OUI_____  NON_____  
+
+Matériel électrique conforme aux exigences minimales du Code canadien de 
+l'électricité : 
+OUI_____  NON_____  
+</pre>

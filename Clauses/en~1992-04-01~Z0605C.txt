@@ -1,0 +1,50 @@
+<pre><div class="sacc-item">
+<ol type="a">
+<li value="1">At the option of the cognizant <abbr title="Department of National Defence">DND</abbr> Quality Assurance
+Representative, the Contractor may be required to deliver the
+supplies for which the Contract would otherwise require inspection
+with a Certification of Conformance. This certificate may be used
+by the <abbr title="United States">U.S.</abbr> Government as the basis for acceptance of such supplies
+without performing prior government quality assurance evaluations.
+The certificate shall be attached to, or included on, all copies of
+the applicable Material Inspection and Receiving Report, form DD
+250. The certificate shall be prepared by the Contractor and shall
+read as follows:
+
+<blockquote>"I certify that on <span class="input-required"><var>_____</var> <kbd>(<em>insert date</em>)</kbd></span>, the <span class="input-required"><var>_____</var> <kbd>(<em>insert
+Contractor's name</em>)</kbd></span> furnished the supplies called
+for by Contract <abbr title="Number">No.</abbr> <span class="input-required"><var>_____</var> <kbd>(<em>insert contract number</em>)</kbd></span> , via 
+<span class="input-required"><var>_____</var> <kbd>(<em>insert name of Carrier</em>)</kbd></span>-  <span class="input-required"><var>_____</var> <kbd>(<em>insert Bill of Lading, or Shipping Document
+Identification</em>)</kbd></span> in accordance with all applicable
+requirements.
+
+<br/>I further certify that the supplies or services are of the
+quality specified and conform in all respects with the Contract
+requirements, including specifications, drawings, preservation,
+packaging, marking requirements, and physical item identification
+(part number), and in the quantity shown on this, or on the
+attached acceptance document.
+
+<br/>Date of Execution <var>_____</var>
+<br/>Signature <var>_____</var>
+<br/>Title <var>_____</var>"
+</blockquote>
+</li>
+<li value="2">Notwithstanding prior <abbr title="United States">U.S.</abbr> Government acceptance
+under the provisions of (a) above, and notwithstanding the
+provisions of any other clause of the Contract, the <abbr title="United States">U.S.</abbr> Government
+shall have the right to inspect the supplies upon receipt by the
+consignee. If there are shortages in quantity or the supplies are
+not in conformity with the requirements of this Contract, the
+Contractor shall, at its expense, promptly correct or replace the
+shortage of or defective supplies, provided that instructions to do
+so are furnished by the <abbr title="United States">U.S.</abbr> Government within ninety (90) days
+from the date such supplies were accepted. However, if this
+Contract contains a Supply Warranty Clause, such warranty shall
+prevail in the event of any inconsistency or ambiguity between it
+and this paragraph b).</li>
+<li value="3">One signed copy of form DD 250 and the Certificate of
+Conformance must be forwarded to Canadian Commercial Corporation
+together with the invoice.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,21 @@
+<pre><div class="sacc-item">
+<p>Le responsable des achats pour le contrat est :</p>
+<p><span class="input-required"><var>________</var> <kbd>(<em>Nom du responsable des achats</em>)</kbd></span></p>
+<p><span class="input-required"><var>________</var> <kbd>(<em>Titre</em>)</kbd></span></p>
+<p><span class="input-required"><var>________</var> <kbd>(<em>Organisation</em>)</kbd></span></p>
+<p><span class="input-required"><var>________</var> <kbd>(<em>Adresse</em>)</kbd></span></p>
+<p>Téléphone : <var>___</var>-<var>___</var>-<var>____</var></p>
+<p>Télécopieur : <var>___</var>-<var>___</var>-<var>____</var></p>
+<p>Courriel : <var>________________</var>.</p>
+<p>Le responsable des achats représente le ministère ou
+organisme pour lequel les travaux sont exécutés en vertu
+du contrat. Il est responsable de la mise en oeuvre d'outils et de
+procédures exigés pour l'administration du contrat.
+L'entrepreneur peut discuter de questions administratives
+identifiées dans le contrat avec le responsable des achats;
+cependant, celui-ci ne peut pas autoriser de changements à
+l'énoncé des travaux. Des changements à
+l'énoncé des travaux peuvent être effectués
+uniquement au moyen d'une modification au contrat émise par
+l'autorité contractante.</p>
+</div></pre>

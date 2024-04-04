@@ -1,0 +1,4 @@
+<pre><div class="sacc-item">
+<p>The Contractor must provide the services of the following
+person(s) to perform the Work as stated in the Contract:<span class="input-required"><var>_______</var> <kbd>(<em>insert name(s) of person(s)</em>)</kbd></span>.</p>
+</div></pre>

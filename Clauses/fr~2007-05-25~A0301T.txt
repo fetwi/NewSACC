@@ -1,0 +1,79 @@
+<pre><div class="sacc-item">
+<p>Le numéro de pièce et le code <abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr> des fabricants
+(COF) ou le code <span lang="en-CA">Commercial And Government Entity (CAGE)</span>
+spécifié dans la demande de soumissions sont les seuls,
+à la connaissance du ministère de la Défense
+nationale, qui répondent aux exigences en matière de
+forme, d'ajustage et de fonction pour la conception du type
+d'aéronef approuvée par le fabricant original de
+l'équipement (FOE) sur lequel les pièces seront
+posées.</p>
+<p>Si le soumissionnaire propose de fournir une pièce avec un
+numéro de pièce, un <abbr title="code OTAN des fabricants">COF</abbr> ou code <span lang="en-CA"><abbr title="Commercial and Government Entity">CAGE</abbr></span> différent, le
+soumissionnaire doit fournir, soit avec sa soumission ou dans les
+trois (3) jours ouvrables suivant la demande de l'autorité
+contractante, toute l'information technique (c'est-à-dire les
+dessins, les spécifications, les rapports techniques et(ou)
+les rapports d'essai) nécessaire pour montrer clairement que
+la pièce proposée possède des caractéristiques
+de forme, d'ajustage et de fonction équivalentes à celles
+du numéro de pièce, du <abbr title="code OTAN des fabricants">COF</abbr> ou du code <span lang="en-CA"><abbr title="Commercial and Government Entity">CAGE</abbr></span>
+spécifié dans la demande de soumissions.</p>
+<p>Le défaut de fournir l'information technique exigée
+aura pour conséquence que la soumission sera jugée non
+recevable pour ce qui est de chaque pièce pour laquelle cette
+information est exigée.</p>
+<p>Si la pièce n'est pas fabriquée par le <abbr title="fabricant original de l'équipement">FOE</abbr> de l'avion,
+elle doit l'être par un de ses fournisseurs autorisés ou
+par le fabricant original de la pièce retenue par le <abbr title="fabricant original de l'équipement">FOE</abbr> de
+l'avion (ou par l'entreprise qui lui succède, ou encore par
+une entreprise agréée par ce fabricant). Le Canada se
+réserve le droit de s'assurer, auprès du <abbr title="fabricant original de l'équipement">FOE</abbr> de l'avion,
+que le fabricant de la pièce proposée est effectivement
+autorisé, par ce <abbr title="fabricant original de l'équipement">FOE</abbr>, à la produire ou à la fournir
+au <abbr title="fabricant original de l'équipement">FOE</abbr>.</p>
+<p>Si le soumissionnaire propose de fournir une pièce avec un
+numéro de pièce, un <abbr title="code OTAN des fabricants">COF</abbr> ou code <span lang="en-CA"><abbr title="Commercial and Government Entity">CAGE</abbr></span> différent, le
+soumissionnaire doit fournir l'avis de substitution suivant
+dûment complété.</p>
+<h2>Avis de substitution</h2>
+<ol type="1">
+<li value="1">Numéro d'article :
+<var>_______________________________</var></li>
+<li value="2">Données techniques originales
+(désignées ci-après)
+<ol type="a">
+<li value="1">Numéro de pièce
+<var>_______________________________</var></li>
+<li value="2"><abbr title="code OTAN des fabricants">COF</abbr> ou code <span lang="en-CA"><abbr title="Commercial and Government Entity">CAGE</abbr></span>
+<var>_______________________________</var></li>
+<li value="3">Autres
+<var>_______________________________</var><br/>
+<var>_______________________________</var><br/>
+<var>_______________________________</var>
+</li>
+</ol>
+</li>
+<li value="3">Changements proposés
+<ol type="a">
+<li value="1">Numéro de pièce
+<var>_______________________________</var></li>
+<li value="2"><abbr title="code OTAN des fabricants">COF</abbr> ou code <span lang="en-CA"><abbr title="Commercial and Government Entity">CAGE</abbr></span>
+<var>_______________________________</var></li>
+<li value="3">Autres
+<var>_______________________________</var><br/>
+<var>_______________________________</var><br/>
+<var>_______________________________</var>
+</li>
+</ol>
+</li>
+<li value="4">Motif du changement/données justificatives<br/>
+<var>________________________________________________________</var><br/>
+<var>________________________________________________________</var>
+</li>
+</ol>
+<p>Le soumissionnaire est prié de noter que la
+disponibilité et la conservation des registres du fabricant
+constituant la preuve d'origine seront des exigences du contrat
+subséquent.</p>
+</div></pre>

@@ -1,0 +1,15 @@
+<pre><div class="sacc-item">
+<p>The Contractor will be reimbursed its authorized travel and
+living expenses reasonably and properly incurred in the performance
+of the Work, at cost, without any allowance for profit and/or
+administrative overhead, in accordance with the meal, private
+vehicle and incidental expenses provided in Appendices B, <abbr title="Contract">C</abbr> and D
+of the <a href="http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/tbm_113/td-dv-eng.asp" rel="external">Treasury
+Board Travel Directive</a>, and with the other provisions of the
+directive referring to "travellers", rather than those referring to
+"employees".</p>
+<p>All travel must have the prior authorization of the <span class="input-required"><var>________</var> <kbd>(<i>insert "Technical" or
+"Project" or "Contracting"</i>)</kbd></span> Authority.</p>
+<p>All payments are subject to government audit.</p>
+<p>Estimated Cost: $ <var>_____</var> .</p>
+</div></pre>

@@ -1,0 +1,25 @@
+<pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+The Contractor must provide material that is new production of
+current manufacture supplied by the principal manufacturer or its
+accredited agent. The material must conform to the latest issue of
+the applicable drawing, specification and part number, as
+applicable, that was in effect on the bid closing date.</li>
+<li><strong>OR</strong>
+<h2>Option 2</h2>
+If the material is not new production of current manufacture, or
+is from a source other than the principal manufacturer or its
+accredited agent, it must be unused and in new condition, provided
+by an approved contractor with the latest approved modifications
+incorporated as applicable, and include the release notes.
+</li>
+</ul>
+<p class="description"><strong>Instruction to contracting
+officers</strong> : Complete fill-ins as specified by the
+Contractor in its bid.</p>
+<p>Name of manufacturer: <var>______________</var></p>
+<p>Date of manufacture: <var>________________</var></p>
+<p>Cure date if the item contains elastomeric material:
+<var>___________________</var> .</p>
+</div></pre>

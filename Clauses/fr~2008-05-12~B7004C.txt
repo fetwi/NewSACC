@@ -1,0 +1,9 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit décatisser tous les tissus de laine ou tissus comprenant un mélange de laine fournis par le Canada avant qu'ils soient coupés. Les frais de décatissage et les pertes dues au rétrécissement sont inclus dans le prix.</li>
+<li value="2">Le Canada fournira sans frais le tissu àl'entrepreneur, y compris le transport à l'adresse du décatisseur indiqué ci-dessous. L'entrepreneur sera
+responsable des frais de transport du décatisseur jusqu'à son usine.</li>
+</ol>
+<p>Nom du décatisseur : <var>_____</var></p>
+<p>Adresse : <var>_____</var> .</p>
+</div></pre>

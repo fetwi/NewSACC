@@ -1,0 +1,19 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur doit fournir une ébauche du rapport final en
+format électronique au <span class="input-required"><var>_____</var> <kbd>(<em>insérer « responsable technique » ou « chargé de projet »</em>)</kbd></span> pour son approbation le ou avant le
+<span class="input-required"><var>____</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>. Ce rapport doit couvrir de façon
+détaillée toutes les facettes des travaux et comporter
+suffisamment de dessins, d'esquisses et de photographies, ainsi
+qu'un exposé des problèmes et des succès liés
+à la réalisation des travaux afin de faciliter
+l'évaluation complète et précise des travaux par le
+<span class="input-required"><var>________</var> <kbd>(<em>insérer
+« responsable technique » ou « chargé de projet »</em>)</kbd></span>. Le rapport doit être rédigé
+conformément à de bonnes pratiques professionnelles et
+d'ingénierie et comprendre, au minimum, les éléments
+suivants : une page titre, une table des matières, un
+résumé, une introduction, un exposé technique
+accompagné des conclusions et, selon le cas, des graphiques,
+tableaux et figures à l'appui.</p>
+</div></pre>

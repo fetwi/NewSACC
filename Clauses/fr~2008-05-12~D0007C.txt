@@ -1,0 +1,9 @@
+<pre><div class="sacc-item">
+<p>La préparation en vue de la livraison pour le ou les
+articles <span class="input-required"><var>____</var>
+<kbd>(<i>insérer le(s) numéro(s) de ou des
+articles</i>)</kbd></span> doit être conforme aux instructions
+de la commande d'emballage pour le transport - Forces canadiennes
+(CETFC) <var>____</var> , en date du <span class="input-required"><var>____</var> <kbd>(<i>insérer le numéro
+et la date de la CETFC</i>)</kbd></span>.</p>
+</div></pre>

@@ -1,0 +1,43 @@
+<pre><div class="sacc-item">
+<p>As provided for in <abbr title="United States">U.S.</abbr> Contract no. <var>____</var> which
+includes the following:</p>
+<p>This clause applies to cost reduction proposals initiated and
+developed by the Contractor for changing the drawings, designs,
+specifications, or other requirements of this Contract. This clause
+does not, however, apply to any such proposal unless it is
+identified by the Contractor, at the time of its submission to the
+ <abbr title="United States">U.S.</abbr> Contracting Officer, as a proposal submitted pursuant to this
+clause. The cost reduction proposals contemplated are those
+that:</p>
+<ol type="a">
+<li value="1">would require, in order to be applied to this
+Contract, a change to this Contract; and</li>
+<li value="2">would result in savings to the <abbr title="United States">U.S.</abbr> Government by
+providing
+<ol type="1">
+<li value="1">a decrease in the cost of performance of this
+Contract, without impairing any of the items' essential functions
+and characteristics such as service life, reliability, economy of
+operation, ease of maintenance, and necessary standardized
+features; or</li>
+<li value="2">items, regardless of the acquisition cost, producing
+a net reduction in the cost of government-furnished property,
+operations, maintenances, or other areas which exceed any increased
+acquisition cost, without impairing any of the items' essential
+functions and characteristics.</li>
+</ol>
+</li>
+</ol>
+<p>Any Value Engineering Proposal must include the information
+outlined in sub clause 2) of the Value Engineering Incentive clause
+of the Contract between <abbr title="Canadian Commercial Corporation">CCC</abbr> and the <abbr title="United States">U.S.</abbr> Government and be
+submitted in accordance with instructions from the <abbr title="United States">U.S.</abbr> Contracting
+Officer.</p>
+<p>In connection with the Value Engineering Incentive clause, the
+Contractor will receive a share percentage of all savings in the
+amount of <var>___</var> percent of the savings under this Contract
+plus <var>___</var> percent of the projected collateral savings and
+<var>_____</var> percent of the savings payments for a period of
+two (2) years.</p>
+<p><strong>Note</strong>: See <abbr title="United States">U.S.</abbr> Contract for percentage factors.</p>
+</div></pre>

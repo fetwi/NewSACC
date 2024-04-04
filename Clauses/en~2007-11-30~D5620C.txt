@@ -1,0 +1,30 @@
+<pre><div class="sacc-item">
+<p>The Contractor must prepare the release documents in a current
+electronic format and distribute them as follows:</p>
+<ol type="a">
+<li value="1">Copy 1: mail to consignee marked: "Attention:
+Receipts Officer";</li>
+<li value="2">Copies 2 and 3: with shipment (in a waterproof
+envelope) to the consignee;</li>
+<li value="3">Copy 4: to the Contracting Authority;</li>
+<li value="4">Copy 5: to: <var>_______________</var>
+<p>National Defence Headquarters</p>
+<p>Mgen George <abbr title="Reference clauses">R</abbr>. Pearkes Building</p>
+<p>101 Colonel By Drive</p>
+<p>Ottawa, ON K1A OK2</p>
+<p>Attention: <var>_____</var></p>
+</li>
+<li value="5">Copy 6: to the Quality Assurance Representative;</li>
+<li value="6">Copy 7: to the Contractor;</li>
+<li value="7">Copy 8: all non-Canadian contractors to:
+<p>DQA/Contract Administration</p>
+<p>National Defence Headquarters</p>
+<p>Mgen George <abbr title="Reference clauses">R</abbr>. Pearkes Building</p>
+<p>101 Colonel By Drive</p>
+<p>Ottawa, ON K1A OK2</p>
+<p>E-mail: <a href="mailto:ContractAdmin.DQA@forces.gc.ca" rel="external">ContractAdmin.DQA@forces.gc.ca</a>.</p>
+<p><strong>NOTE</strong>: For into-plane refuelling contracts
+copies 2, 3, 4 and 5 are not required and may be destroyed.</p>
+</li>
+</ol>
+</div></pre>

@@ -1,0 +1,40 @@
+<pre><div class="sacc-item">
+<p>L'entrepreneur sera payé des taux mensuels fermes,
+rétroactivement, comme suit, pour les services d'entretien
+préventif et de réparation (y compris les pièces, la
+main-d'oeuvre, les frais de déplacement et de subsistance assurés pendant la principale période d'entretien <abbr title="principale période d'entretien">PPE</abbr>),
+<abbr title="franco à bord">FAB</abbr> destination. Les droits de douane <span class="input-required"><var>_____</var> <kbd>(<em><strong>insérer</strong> «  sont
+inclus  », « sont exclus  » <strong>ou</strong> «  font l'objet
+d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
+<p>(Insérer les détails)</p>
+<p>L'entrepreneur sera payé des taux horaires fermes, comme
+suit, pour les services d'entretien effectués en dehors de la
+<abbr title="principale période d'entretien">PPE</abbr>, pour les articles énumérés à l'annexe
+<var>___</var> , <abbr title="franco à bord">FAB</abbr> destination. Les droits de douane <span class="input-required"><var>____</var> <kbd>(<em><strong>insérer</strong> « sont
+inclus  », «  sont exclus  » <strong>ou</strong> «  font l'objet
+d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus, comme suit :</p>
+<p>(Insérer les détails)</p>
+<h2>Frais de déplacement et de subsistance</h2>
+<p>L'entrepreneur sera remboursé pour les frais autorisés
+de déplacement et de subsistance qu'il a raisonnablement et
+convenablement engagés dans l'exécution des travaux, au
+prix coûtant, sans aucune indemnité pour les frais
+généraux ou le profit, conformément aux
+indemnités relatives aux repas, à l'utilisation d'un
+véhicule privé et aux faux frais qui sont
+précisées aux appendices B, C et D de la <cite><a href="http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/tbm_113/td-dv-fra.asp" rel="external">Directive
+sur les voyages</a></cite> du Conseil du Trésor, et selon les autres
+dispositions de la Directive qui se rapportent aux
+« voyageurs » plutôt que celles qui se rapportent aux
+« employés ».</p>
+<p>Tout déplacement doit être approuvé au
+préalable par le <span class="input-required"><var>____________</var> <kbd>(<em><strong>insérer</strong> « 
+le responsable technique  » <strong>ou</strong> «  le chargé de projet
+ » <strong>ou</strong> «  l'autorité contractante  ».</em>)</kbd></span>
+Tous les paiements sont assujettis à une vérification par
+le gouvernement.</p>
+<p>Coût estimatif : <var>_____</var> $</p>
+<p><strong>Coût estimatif total</strong> - Limitation des
+dépenses : <strong><var>________</var> $</strong> (taxes applicables en
+sus).</p>
+</div></pre>

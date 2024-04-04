@@ -1,0 +1,34 @@
+<pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le matériel fourni par le gouvernement (MFG)
+doit servir à la fabrication de l'article ou des articles
+détaillés dans le contrat. Le soumissionnaire doit
+indiquer dans sa soumission l'information suivante portant sur le
+MFG pour chaque article:
+<ol type="a">
+<li value="1">description;</li>
+<li value="2">largeur minimale;</li>
+<li value="3">article;</li>
+<li value="4">quantité par unité;</li>
+<li value="5">prix unitaire <var>_______</var> mètres/chacun
+(la taxe sur les produits et services ou la taxe de vente
+harmonisée en sus, selon le cas.)</li>
+</ol>
+</li>
+</ol>
+<p>L'utilisation du matériel doit être calculée de
+façon précise puisque toute demande additionnelle à
+celle qui figure ci-dessus doit être achetée du Canada au
+prix indiqué dans le contrat. L'utilisation du MFG est une
+partie composante du prix de soumission et contribuera dans
+l'évaluation des soumissions. Le défaut de ne pas
+indiquer l'utilisation du MFG pour chaque article aura pour
+conséquence que la soumission soit déclarée non
+recevable.</p>
+<ol type="1">
+<li value="2">Le Canada fournira sans frais le MFG
+précisé dans la soumission du soumissionnaire retenu, y
+compris le transport à l'adresse suivante : <span class="input-required"><var>______</var> <kbd>(<i>le soumissionnaire doit
+insérer l'adresse de destination</i>)</kbd></span>.</li>
+</ol>
+</div></pre>
