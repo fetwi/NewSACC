@@ -1,0 +1,175 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ These Insurance Terms are applicable to the majority of construction contracts 
+that require insurance coverage for Commercial General Liability and Builder's 
+Risk/Installation Floater.
+
+Contracting officers must consult
+ <abbr title="Public Works and Government Services Canada">
+  PWGSC
+ </abbr>
+ Risk Management Advisory Services, at:
+ 
+  NCR.RMIAS-SCGRA@pwgsc.gc.ca
+ 
+ if the suggested limits of liability are not 
+considered adequate.
+
+Builder's Risk/Installation Floater insurance is generally not required for 
+contracts were there is no work/property to ensure, such as paving, asbestos 
+abatement and dredging.
+
+Commercial General Liability (CGL) insurance might not be sufficient or 
+appropriate for certain construction contracts.  For work taking place on the 
+airside of an airport,
+ <abbr title="Commercial General Liability">
+  CGL
+ </abbr>
+ should be substituted with Aviation Liability 
+Insurance (G2030C). For work done from a floating plant or with a dredge,
+ <abbr title="Commercial General Liability">
+  CGL
+ </abbr>
+ should be substituted with Marine Liability Insurance (G5003C).
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>IT1 General</p>
+<p>IT1.1 Proof of Insurance</p>
+<p>IT1.2 Payment of Deductible</p>
+<p>IT2 Commercial General Liability</p>
+<p>IT2.1 Scope of Policy</p>
+<p>IT2.2 Insured</p>
+<p>IT2.3 Period of Insurance</p>
+<p>IT3 Builder's Risk / Installation Floater</p>
+<p>IT3.1 Scope of Policy</p>
+<p>IT3.2 Amount of Insurance</p>
+<p>IT3.3 Insured</p>
+<p>IT3.4 Period of Insurance</p>
+<p>IT3.5 Insurance Proceeds</p>
+</div>
+<h2>IT1 (2008-12-12) General</h2>
+<h3>IT1.1 Proof of Insurance</h3>
+<ol type="1">
+<li value="1">Before commencement of the Work, and within thirty
+(30) days after acceptance of its bid, the Contractor shall deposit
+with Canada a <cite>Certificate of Insurance Form 357</cite>,
+available on Public Works and Government Services Canada Web
+site.</li>
+<li value="2">Upon request by Canada, the Contractor shall provide
+originals or certified true copies of all contracts of insurance
+maintained by the Contractor pursuant to the provisions contained
+herein.</li>
+<li value="3">The insurance policies shall be endorsed to provide
+Canada with not less than thirty (30) days notice in writing in
+advance of a cancellation of insurance or any reduction in
+coverage.</li>
+</ol>
+<h3>IT1.2 Payment of Deductible</h3>
+<ol type="1">
+<li value="1">The payment of monies up to the deductible amount
+made in satisfaction of a claim shall be borne by the
+Contractor.</li>
+</ol>
+<h2>IT2 (2008-05-12) Commercial General Liability</h2>
+<h3>IT2.1 Scope of Policy</h3>
+<ol type="1">
+<li value="1">The insurance coverage provided shall not be less
+than that provided by <abbr title="Insurance Bureau of Canada">IBC</abbr> Form 2100, as amended from time to time,
+and shall have:
+<ol type="a">
+<li value="1">an Each Occurrence Limit of not less than
+$5,000,000;</li>
+<li value="2">a Products/Completed Operations Aggregate Limit of
+not less than $5,000,000; and</li>
+<li value="3">a General Aggregate Limit of not be less than
+$10,000,000 per policy year, if the policy is subject to such a
+limit.</li>
+</ol>
+</li>
+<li value="2">The policy shall either include or be endorsed to
+include coverage for the following exposures or hazards if the Work
+is subject thereto:
+<ol type="a">
+<li value="1">Blasting.</li>
+<li value="2">Pile driving and caisson work.</li>
+<li value="3">Underpinning.</li>
+<li value="4">Removal or weakening of support of any building or
+land whether such support be natural or otherwise if the work is
+performed by the insured contractor.</li>
+</ol>
+</li>
+</ol>
+<h3>IT2.2 Insured</h3>
+<ol type="1">
+<li value="1">The policy shall insure the Contractor and shall
+include Her Majesty the Queen in right of Canada, represented by
+the Minister of Public Works and Government Services Canada as an
+additional Insured, with respect to liability arising out of the
+operations of the contractor with regard to the work.</li>
+</ol>
+<h3>IT2.3 Period of Insurance</h3>
+<ol type="1">
+<li value="1">Unless otherwise directed in writing by Canada, or,
+otherwise stipulated elsewhere herein, the policy required herein
+shall be in force and be maintained from the date of contract award
+until the day of issue of the Certificate of Completion except that
+the coverage for Completed Operations Liability shall, in any
+event, be maintained for a period of at least six (6) years beyond
+the date of the Certificate of Substantial Performance.</li>
+</ol>
+<h2>IT3 (2007-05-25) Builder's Risk / Installation Floater</h2>
+<h3>IT3.1 Scope of Policy</h3>
+<ol type="1">
+<li value="1">The insurance coverage provided by a Builder's Risk
+policy or an Installation Floater policy shall not be less than
+that provided by <abbr title="Insurance Bureau of Canada">IBC</abbr> Forms 4042 and 4047, as amended from time to
+time.</li>
+<li value="2">The policy shall permit use and occupancy of the
+project, or any part thereof, where such use and occupancy is for
+the purposes for which the project is intended upon
+completion.</li>
+<li value="3">The policy may exclude or be endorsed to exclude
+coverage for loss or damage caused by any of the following:
+<ol type="a">
+<li value="1">Asbestos.</li>
+<li value="2">Fungi or spores.</li>
+<li value="3">Cyber.</li>
+<li value="4">Terrorism.</li>
+</ol>
+</li>
+</ol>
+<h3>IT3.2 Amount of Insurance</h3>
+<ol type="1">
+<li value="1">The amount of insurance shall not be less than the
+sum of the contract value plus the declared value (if any) set
+forth in the contract documents of all material and equipment
+supplied by Canada at the site of the project to be incorporated
+into and form part of the finished Work. If the value of the Work
+is changed, the policy shall be changed to reflect the revised
+contract value.</li>
+</ol>
+<h3>IT3.3 Insured</h3>
+<ol type="1">
+<li value="1">The policy shall insure the Contractor and shall
+include, as an additional Insured, Her Majesty the Queen in right
+of Canada, represented by the Minister of Public Works and
+Government Services Canada.</li>
+</ol>
+<h3>IT3.4 Period of Insurance</h3>
+<ol type="1">
+<li value="1">Unless otherwise directed in writing by Canada, or,
+stipulated elsewhere herein, the policy required herein shall be in
+force and be maintained from prior to the commencement of work
+until the day of issue of the Certificate of Substantial
+Performance.</li>
+</ol>
+<h3>IT3.5 Insurance Proceeds</h3>
+<ol type="1">
+<li value="1">The policy shall provide that the proceeds thereof
+are payable to Her Majesty or as Canada may direct in accordance
+with GC10.2, "Insurance Proceeds".</li>
+<li value="2">The Contractor shall, without delay, do such things
+and execute such documents as are necessary to effect payment of
+the proceeds.</li>
+</ol>
+</div></pre>

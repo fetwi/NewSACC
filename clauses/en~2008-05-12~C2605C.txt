@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in  contracts with foreign-based contractors when the 
+contractor is not responsible for the importation of goods into Canada, and when 
+customs duties and sales tax, if applicable, are extra to the contract price.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canadian customs duties and sales tax, if applicable, are extra
+to the Contract Price and payable by Canada.</p>
+</div></pre>

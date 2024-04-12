@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in "Limitation of Expenditure" or "Ceiling Price" 
+contracts when the basis of payment is other than cost reimbursable.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">If requested by the Contracting Authority or auditor
+designated by the Contracting Authority, the Contractor must submit
+to the Contracting Authority or the auditor as applicable, a cost
+submission, upon completion of the Contract or annually for
+multi-year contracts spanning more than one contractor fiscal
+year.</li>
+<li value="2">The cost submission must contain a breakdown of all
+applicable cost elements as detailed in the Contract and must be
+signed and certified accurate by the Contractor's Senior Financial
+Officer, unless stated otherwise in writing.</li>
+<li value="3">Supporting information for each cost element must be
+available in sufficient detail to allow for an in-depth audit.</li>
+</ol>
+</div></pre>

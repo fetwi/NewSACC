@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Unless equivalent language has already been included, use the following clause in the ‘Certifications’ section of the
+  <abbr title="Request for Standing Offers">
+   RFSO
+  </abbr>
+  when the
+  <abbr title="Request for Standing Offers">
+   RFSO
+  </abbr>
+  will include certifications.
+ </p>
+<p>
+  If using the
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Standard Procurement Templates, this clause will not be needed.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Offerors must provide the required certifications and additional information to be issued a standing offer.</p> <p>The certifications provided by offerors to Canada are subject to verification by Canada at all times. Unless specified otherwise, Canada will declare an offer non-responsive, will have the right to set-aside a standing offer, or will declare a contractor in default if any certification made by the Offeror is found to be untrue whether made knowingly or unknowingly during the offer evaluation period, during the Standing Offer period, or during the contract period.</p> <p>The Standing Offer Authority will have the right to ask for additional information to verify the Offeror’s certifications. Failure to comply and to cooperate with any request or requirement imposed by the Standing Offer Authority will render the offer non-responsive, result in the setting aside of the Standing Offer or constitute a default under the Contract.</p></pre>

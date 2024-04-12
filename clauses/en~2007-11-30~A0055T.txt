@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when all bids submitted must include separate sections.  These sections will normally include a technical bid and a financial bid, but may also include a management bid or other sections.
+ </p>
+<p>
+  Contracting officers may delete "management bid" and add other bid sections, as appropriate.
+ </p>
+<p>
+  Use the following clause only if the medium complexity (2T-MED1) or higher complexity (2T-HIGH1) template is not used. Contracting officers must consult 
+the procedures 2T-PROC1 to confirm they cannot use the template for the requirement.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Canada requests that bidders provide their bid in separately bound sections as follows:
+<ol type="a">
+<li value="1">Technical Bid (<var>_____</var> hard copies) (<kbd><em>if applicable, add "and <var>____</var> soft copies
+on <var>____</var>", and specify the medium such as CD, DVD</em></kbd>);</li>
+<li value="2">Financial Bid (<var>_____</var> hard copies) (<kbd><em>if applicable, add "and <var>____</var> soft copies
+on <var>____</var>", and specify the medium such as CD, DVD</em></kbd>);</li>
+<li value="3">Management Bid (<var>_____</var> hard copies) (<kbd><em>if applicable, add "and <var>____</var> soft copies
+on <var>____</var>", and specify the medium such as CD, DVD</em></kbd>);</li>
+<li value="4"><var>___________</var> (<var>_____</var> hard copies) (<kbd><em>if applicable, add "and <var>____</var> soft copies 
+on <var>____</var>", and specify the medium such as CD, DVD</em></kbd>).</li></ol>
+<p class="description">
+<strong>Instruction to contracting officers</strong> : Insert the following paragraph when soft copies are requested; if soft copies are not requested, delete the paragraph and this instruction.</p>
+<blockquote>If there is a discrepancy between the wording of the soft copy and the hard copy, the wording of the hard copy will have priority over the wording of the soft copy.</blockquote></li>
+<li value="2">Prices must appear in the financial bid only. No prices must be indicated in any other section of the bid.</li>
+</ol>
+</div></pre>

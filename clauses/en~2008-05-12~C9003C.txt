@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contract amendments when the total contract price 
+has been established, if applicable.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Work covered by the Contract has been completed in
+accordance with the conditions of the Contract. The Parties agree
+that the total Contract Price for all of the Work is
+$<var>_______</var> .</p>
+</div></pre>

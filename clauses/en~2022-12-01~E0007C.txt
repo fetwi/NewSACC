@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor is required to provide contract financial security after contract award.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   E0008C
+  
+  .
+ </p>
+<p>
+  Contracting officers must insert the amount of percentage required under paragraph 1.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide one of the following contract financial securities within <var>_____</var> calendar days after the date of contract award:
+            <ol type="a">
+<li value="1">a performance bond form PWGSC-TPSGC 505 in the amount of <var>_____</var> percent of the Contract Price; or</li>
+<li value="2">a performance bond form PWGSC-TPSGC 505 and a labour and material payment bond form PWGSC-TPSGC 506, each in the amount of <var>_____</var> percent of the Contract Price; or</li>
+<li value="3">a labour and material payment bond form PWGSC-TPSGC 506 in the amount of <var>_____</var> percent of the Contract Price; or</li>
+<li value="4">a security deposit as defined in clause E0008C in the amount of <var>_____</var> percent of the Contract Price.</li>
+</ol>
+<p>Any bond must be accepted as security by one of the bonding companies, in accordance with the <cite>Guidance on Source Lists of Companies Licensed to Provide Surety Within Canada</cite>. </p>
+</li>
+</ol>
+<ol type="1">
+<li value="2">Security deposits in the form of government guaranteed bonds with coupons attached will be accepted only if all coupons that are unmatured, at the time the security deposit is provided, are attached to the bonds. The Contractor must provide written instructions concerning the action to be taken with respect to coupons that will mature while the bonds are pledged as security, when such coupons are in excess of the security deposit requirement.</li>
+<li value="3">If Canada does not receive the required financial security within the specified period, Canada may terminate the Contract for default pursuant to the Contract default provision.</li>
+</ol>
+</div></pre>

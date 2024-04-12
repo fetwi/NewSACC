@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a draft final report is required and 
+details of the report content are not included in the Statement of Work.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   H4018C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must submit a draft of the final report in
+electronic format to the <span class="input-required"><var>________</var> <kbd>(<em>insert "Technical" or
+"Project"</em>)</kbd></span> Authority for approval on or before
+<span class="input-required"><var>_____</var> <kbd>(<em>insert
+date</em>)</kbd></span>. It must be a comprehensive report on all facets
+of the Work and must include sufficient drawings, sketches,
+photographs and a discussion of problems and successes associated
+with the Work to facilitate a full and accurate evaluation of the
+Work by the <span class="input-required"><var>________</var>
+<kbd>(<em>insert "Technical" or "Project"</em>)</kbd></span> Authority. The
+report must be prepared in accordance with good
+engineering/professional practices and include, as a minimum, the
+following: a title page, a table of contents, an executive summary,
+an introduction, a technical discussion with conclusions and
+include, as applicable, supporting graphs, tables and figures.</p>
+</div></pre>

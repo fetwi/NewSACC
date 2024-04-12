@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts, with the exception of the Department of 
+National Defence contracts, when delivery is FOB origin and Canada will be 
+responsible for all delivery charges, administration, costs and risk of 
+transport and customs clearance and customs duties, if applicable.
+ 
+
+Use clause C5200T in the bid solicitation and C5200C or C5201C in the contract.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Goods must be consigned to the destination specified in the Contract 
+       and delivered:
+
+       (a)    Free on Board (Origin) common carrier ________ (<strong><em>insert the 
+              named port of shipment</em></strong>) Incoterms 2000 for shipments from the 
+              United States government, or
+
+       (b)    FCA Free Carrier ________ (<strong><em>insert the named place, e.g. 
+              Contractor's facility</em></strong>) Incoterms 2000 for shipments from a 
+              commercial contractor.
+
+2.     Canada is responsible for all delivery charges, administration, 
+       costs and risk of transport and customs clearance and customs duties, 
+       if applicable.
+
+
+</pre>

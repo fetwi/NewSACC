@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a contractor, who has care, custody 
+or control of government property, is required to use a rigger to lift heavy 
+equipment.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   G2020C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Rigger's Liability Insurance, in an amount usual for a contract of this nature, but for not less than $
+            <var>___________</var> per accident or occurrence and in the annual aggregate. The Contractor's Riggers Liability Insurance must provide coverage for loss or damage to all Government Property under its care, custody or control, and must be maintained in force throughout the duration of the Contract. The Government Property must be insured on <span class="input-required"><var>___________</var>
+basis. <kbd>(<em><strong>insert one of the following basis of
+valuation</strong>: "Replacement Cost (new)"; "Actual Cash
+Value (depreciated cost)" <strong>or</strong> "Agreed
+Value (appraisal)"</em>)</kbd></span>.
+            <br/>The Contractor must notify Canada promptly about any losses or damages to Government Property and monitor, investigate and document losses of or damage to ensure that claims are properly made and paid.</li>
+<li value="2">The Rigger's Liability Insurance policy must include the following:
+            <ol type="a">
+<li value="1">Notice of Cancellation: The Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="2">Loss Payee: Canada as its interest may appear or as it may direct, for loss or damage to Government property in the Contractor's care, custody or control.</li>
+<li value="3">Waiver of Subrogation Rights: Contractor's Insurer to waive all rights of subrogation against Canada as represented by
+                    <span class="input-required"><var>________</var> <kbd>(<em>insert client
+department</em>)</kbd></span> and Public Works and Government Services Canada for any and all loss of or damage to the property however caused.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>

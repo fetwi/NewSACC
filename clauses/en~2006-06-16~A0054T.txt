@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations when the specified format applies.
+
+Do not use for Medium Complexity requirements if the Plain Language template 
+2T-MED1 is used with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is required that bids follow the response format/instructions as 
+detailed below:
+
+(a)    use 8.5 x 11 inch (216 mm x 279 mm) paper;
+(b)    use a numbering system corresponding to that of the bid solicitation 
+   and Statement of Work.
+</pre>

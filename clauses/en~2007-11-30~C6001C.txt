@@ -1,0 +1,38 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contracts, except firm priced contracts, when it 
+is necessary to ensure against the contractor making changes or carrying out 
+additional work without the prior approval of the contracting officer.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada's total liability to the Contractor under the Contract must 
+       not exceed $ _______.  Customs duties are _____ (<strong><em>insert</em></strong><em> "</em><span class="wsInlineRemark">included</span><em>", </em><span class="wsInlineRemark">
+       "excluded</span><em>" </em><strong><em>or</em></strong><em> "</em><span class="wsInlineRemark">exempt</span>") and Goods and Services Tax or Harmonized 
+       Sales Tax is extra, if applicable.
+
+2.     No increase in the total liability of Canada or in the price of the 
+       Work resulting from any design changes, modifications or 
+       interpretations of the specifications, will be authorized or paid to 
+       the Contractor unless these design changes, modifications or 
+       interpretations have been approved, in writing, by the Contracting 
+       Authority before their incorporation into the Work.  The Contractor  
+       must not perform any work or provide any service that would result 
+       in Canada's total liability being exceeded before obtaining the 
+       written approval of the Contracting Authority.  The Contractor must 
+       notify the Contracting Authority in writing as to the adequacy of 
+       this sum:
+
+       (a)    when it is 75 percent committed, or 
+
+       (b)    four (4) months before the Contract expiry date, or 
+
+       (c)    if the Contractor considers that the contract funds provided 
+              are inadequate for the completion of the Work,
+
+              whichever comes first.
+
+3.     If the notification is for inadequate contract funds, the Contractor 
+       must provide to the Contracting Authority, a written estimate for 
+       the additional funds required.  Provision of such information by the 
+       Contractor does not increase Canada's liability.
+
+
+</pre>

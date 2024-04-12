@@ -1,0 +1,43 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts if the clause
+  
+   D5606C
+  
+  was used except where 
+the contract is for  repair and overhaul with a Canadian-based contractor who 
+has an account on the Canadian Forces Supply System.  Contracting officers are 
+to insert the designation of the originator of the requisition.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must prepare the release documents in a current
+electronic format and distribute them as follows:</p>
+<ol type="a">
+<li value="1">One (1) copy mailed to consignee marked: "Attention: Receipts Officer";</li>
+<li value="2">Two (2) copies with shipment (in a waterproof envelope) to the consignee;</li>
+<li value="3">One (1) copy to the Contracting Authority;</li>
+<li value="4">One (1) copy to: 
+<address>
+<br/>National Defence Headquarters
+<br/>Mgen George R. Pearkes Building
+<br/>101 Colonel By Drive
+<br/>Ottawa, ON K1A OK2
+<br/>Attention: <var>_____</var>
+</address>
+</li>
+<li value="5">One (1) copy to the Quality Assurance Representative;</li>
+<li value="6">One (1) copy to the Contractor; and</li>
+<li value="7">For all non-Canadian contractors, one (1) copy to:
+<address>
+<br/>DQA/Contract Administration
+<br/>National Defence Headquarters
+<br/>Mgen George R. Pearkes Building
+<br/>101 Colonel By Drive
+<br/>Ottawa, ON K1A OK2
+</address>
+<br/>E-mail: ContractAdmin.DQA@forces.gc.ca.
+</li>
+</ol>
+<p><strong>NOTE</strong>: For into-plane refuelling contracts  b, c and d above are not required.</p>
+</div></pre>

@@ -1,0 +1,60 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in ship refit contracts, if applicable. Contracting 
+officers must identify the "Lead On-site Inspector" in the contract.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide marine inspection and
+related technical services to Public Works and Government Services
+Canada (PWGSC), as-and-when requested in the following area(s) of
+expertise:
+<ol type="a">
+<li value="1"><var>__________</var></li>
+<li value="2"><var>__________</var></li>
+<li value="3"><var>__________</var></li>
+<li value="4"><var>__________</var> .</li>
+</ol>
+</li>
+<li value="2">The duties include:
+<ol type="a">
+<li value="1">the examination, analysis and processing, to
+Inspection and Technical Services (I. &amp; T.S.) Directorate
+instructions, of plans, drawings and specifications as received
+from contractors on site or from other sources;</li>
+<li value="2">the examination, analysis and processing, to I. &amp;
+T.S. Directorate instructions, of purchase orders or subcontracts
+issued by the contractors with regard to their compliance with
+approved drawings, specifications and amendments, special
+contractual requirements and the applicable Classification and
+Regulatory requirements;</li>
+<li value="3">the examination of all significant material and
+equipment on arrival at the shipyard for compliance with the
+approved purchase order or subsequent requirements, physical
+condition and proposed storage conditions;</li>
+<li value="4">the examination and evaluation of cost elements of
+design changes proposed by the Contractors during the term of the
+Contract;</li>
+<li value="5">the surveillance and inspection of the work in
+progress at the contractors' offices and plant to ensure compliance
+with approved plans, drawings, specifications, contractual
+documents and amendments and also to ensure that the practices,
+procedures, techniques, workmanship, equipment and quality do not
+deviate from the standards as set out in the approved
+specifications and/or contractual documents;</li>
+<li value="6">the inspection and approval of work in progress to
+ensure compliance with contractual requirements in the selection
+and use of critical materials and the clean and orderly assembly of
+units, equipment and materials so as to minimize operational
+problems after acceptance;</li>
+<li value="7">the witnessing of systems and equipment preliminary
+tests, and trials, including dock trials for main and auxiliary
+machinery, evaluating results, reporting and inspecting the
+correction of defects;</li>
+<li value="8">attendance at sea trials and final inspection to
+assist in evaluating results, compiling final defect and deficiency
+lists and advising the Lead On-site Inspector of the <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
+Inspection Office on acceptability of the finished work.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

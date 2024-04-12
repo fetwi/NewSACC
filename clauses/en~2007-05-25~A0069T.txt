@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when there is no technical evaluation criteria in the bid solicitation and the basis of selection will be the responsive bid with the lowest evaluated price.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>A bid must comply with all requirements of the bid solicitation to be declared responsive. The responsive bid with the lowest evaluated price will be recommended for award of a contract.</p>
+</div></pre>

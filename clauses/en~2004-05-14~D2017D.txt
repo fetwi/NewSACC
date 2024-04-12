@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The requirement for this clause will be identified by the Department of National 
+Defence procurement and finance staff generating the requisition.  They will 
+also be responsible for providing the fill-in information.  This clause should 
+be used in conjunction with B4060D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall apply bar code information on items _______ (<strong><em>Insert 
+list</em></strong>) with the Permanent System Control Number (PSCN) or NATO Stock Number 
+(NSN) provided elsewhere in this document or by the Department of National 
+Defence (DND), using bar code standard UCC/EAN-128 (Uniform Code Council/
+EAN International) with Application Identifier 241 for PSCN or 7001 for NSN.  
+Below the bar code symbol, the Contractor shall apply the Human-Readable 
+Interpretation (HRI) markings.
+
+These markings must be applied and positioned in accordance with DND 
+standard D-02-002-001/SG-001, Identification Marking of Canadian Military 
+Property (<em>in effect at the closing date of the Request for Proposal</em>), and 
+must be of such quality that it will remain readable for the expected life 
+of the item.  The bar code shall be imprinted upon material which will be 
+compatible with the item to which it is to be attached, which items include, 
+but are not limited to, items constructed of plastic, metal, cloth, 
+synthetics or paper, or a combination of two or more of them.
+
+</pre>

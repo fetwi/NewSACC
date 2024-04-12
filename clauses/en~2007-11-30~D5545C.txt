@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for the Department of National Defence for 
+goods  when conformance with the requirements of the contract can adequately be 
+determined at destination (identity, condition and count).  In the event the 
+requisition has multiple quality assurance codes, the contracting officer is to 
+identify the line items that are associated with each quality assurance clause.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor is responsible for implementing a quality system appropriate 
+to the scope of the work to be performed.  It is recommended that the 
+quality system be based on ISO 9001:2000 - Quality Management Systems - 
+Requirements.
+
+The Contractor is responsible for performing or having performed all 
+inspections and tests necessary to substantiate that the materiel or 
+services provided conform to the drawings, specifications and  the 
+requirements of the contract.  The Contractor must keep accurate and 
+complete inspection records which must, upon request, be made available to 
+the authorized Department of National Defence (DND) representative, who may 
+make copies and take extracts during the performance of the Contract and 
+for a period of one (1) year after the completion of the Contract.
+ 
+Despite the above, all materiel is subject to verification and acceptance 
+by DND at destination.  The authorized DND representative at destination 
+may either be the consignee(s), the Technical Authority, or the Quality 
+Assurance Authority.
+
+
+</pre>

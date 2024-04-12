@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for fabric requirements when pre-production and/or production sample(s) are required.
+ </p>
+<p>
+  Use Option 1 when pre-production sample(s) are required. Use Option 2 when production sample(s) are required. Use Option 3 when both pre-production and production samples are required.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   B7015C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h3>Option 1</h3>
+<ol type="1">
+<li value="1">Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_____</var> <kbd>(<em>insert the number of pre-production samples required</em>)</kbd></span> pre-production sample(s) two (2) meters in length, full width, accompanied by the sealed sample(s) if applicable, to the Technical Authority for acceptance within <span class="input-required"><var>___</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+<h3>Option 2</h3>
+<ol type="1">
+<li value="1">Production Samples: After contract award, the successful Bidder will be required to take a production sample, two (2) meters in length, full width, from the first production run and provide it to the Technical Authority, accompanied by the sealed sample(s) if applicable, for acceptance within <span class="input-required"><var>___</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+<h3>Option 3</h3>
+<ol type="1">
+<li value="1">Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_____</var> <kbd>(<em>insert the number of pre-production samples required</em>)</kbd></span> pre-production sample(s) two (2) meters in length, full width, accompanied by the sealed sample(s) if applicable, to the Technical Authority. Bidders are required to deliver the pre-production samples for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+<li value="3">Production Samples: After contract award, the successful Bidder will be required to take a production sample, two (2) meters in length, full width, from the first production run and provide it to the Technical Authority, accompanied by the sealed sample(s) if applicable, for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from date of contract award.</li>
+<li value="4">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+</div></pre>

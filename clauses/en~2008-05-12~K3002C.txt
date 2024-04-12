@@ -1,0 +1,51 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts to delete the copyright clause in general 
+conditions
+  
+   2010B
+  
+  and
+  
+   2035
+  
+  , when the client department has specified that 
+copyright in the work will belong to the contractor and when Canada does not 
+wish to have any license to the work.
+ </p>
+<p>
+  Use this clause in conjunction with general conditions
+  
+   2010B
+  
+  and
+  
+   2035
+  
+  . Clause
+  
+   K3030C
+  
+  may be used in conjunction with this clause when material subject to 
+copyright protection will be created in the performance of the contract and the 
+client department wishes to ensure that it obtains a license to exercise all 
+rights comprised in the copyright in that material.
+ </p>
+<p>
+  Do not use this clause in conjunction with general conditions
+  
+   2040
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The general conditions are amended by deleting in its entirety
+the section entitled "Copyright", and replacing it with the
+following:</p>
+<blockquote>"Without affecting any existing intellectual property
+rights or relating to information or data supplied by Canada for
+purposes of the Contract, copyright in anything conceived,
+developed, or produced as part of the Work under the Contract will
+belong to the Contractor."</blockquote>
+</div></pre>

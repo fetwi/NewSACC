@@ -1,0 +1,43 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in all bid solicitations when the client department or agency has determined that Canada will own any intellectual property arising from the work under the contract.
+ </p>
+<p>
+  Contracting officers will insert one or more of the following reasons for Canada to claim ownership of the intellectual property rights in foreground information, as identified by the client department or agency, based on the exceptions or exemption set out in the
+  <cite>
+
+    Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts
+   
+</cite>
+  :
+ </p>
+<ul>
+<li>
+   national security;
+  </li>
+<li>
+   statutes, regulations or prior obligations of Canada to a third party or parties preclude Contractor ownership of the Intellectual Property Rights in Foreground Information;
+  </li>
+<li>
+   the Bidder declares in writing that they are not interested in owning the Intellectual Property Rights in Foreground Information;
+  </li>
+<li>
+   the main purpose of the Contract, or of the deliverables contracted for, is to generate knowledge and information for public dissemination;
+  </li>
+<li>
+   the main purpose of the Contract, or of the deliverables contracted for, is to augment an existing body of Canada's Background Information as a prerequisite to the transfer of the expanded Background to the private sector, through licensing or assignment of ownership (not necessarily to the original Contractor), for the purposes of Commercial Exploitation;
+  </li>
+<li>
+   the main purpose of the Contract, or of the deliverables contracted for, is to deliver a not-yet fully developed component or subsystem that will be incorporated into a complete system at a later date, as a prerequisite to the planned transfer of the complete system to the private sector, through licensing or assignment of ownership, for the purposes of Commercial Exploitation;
+  </li>
+<li>
+   the Intellectual Property in Foreground Information consists of material subject to copyright, with the exception of computer software and all documentation pertaining to that software;
+  </li>
+<li>
+   an exemption has been granted through a Treasury Board submission.
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The <span class="input-required"><var>_____</var> <kbd>(<em>insert the name of the client department or agency</em>)</kbd></span> has determined that any intellectual property rights arising from the performance of the Work under the resulting contract will belong to Canada, for the following reasons, as set out in the <cite>Policy on Title to Intellectual Property Arising Under Crown Procurement Contracts</cite>: <span class="input-required"><var>_____</var> <kbd>(<em>insert one or more of the reasons listed above for Canada to claim ownership of Intellectual Property Rights in Foreground Information</em>)</kbd></span>.</p>
+</div></pre>

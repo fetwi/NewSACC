@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations, for any vessel refit, repair or 
+docking requirements, when unscheduled work will arise after the vessel and the 
+equipment is opened up and surveyed.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   C0902C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>In any vessel refit, repair or docking contract, unscheduled
+work will arise after the vessel and its equipment is opened up and
+surveyed. The anticipated cost of the Work will be included in the
+evaluation of bids. The overall total cost will be calculated by
+including an estimated amount of additional person-hours (and/or
+material) multiplied by a firm hourly charge-out labour rate and is
+added to the firm price for the Work.</p>
+<p>The overall total referred to as the "Evaluation Price" will be
+used for evaluating the bids. The estimated work will be based on
+historical experience and there is no minimum or maximum amount of
+unscheduled work nor is there a guarantee of such work.</p>
+</div></pre>

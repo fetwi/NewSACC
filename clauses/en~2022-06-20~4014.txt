@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in the ‘Resulting Contract Clauses’ section of any solicitations that include
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual Clause
+  
+   4013: Compliance with on-site measures, standing orders, policies, and rules
+  
+  where a ‘Suspension of the work’ clause
+  <strong>
+   is not
+  </strong>
+  otherwise included in the general conditions.
+ </p>
+<p>
+  In paragraph 1, the contracting authority must:
+ </p>
+<ol>
+<li>
+   fill in the section(s) of the general conditions that refer to Default by the Contractor and Termination for Convenience or cancelling an order; and
+  </li>
+<li>
+   indicate which general conditions are being used.
+  </li>
+</ol>
+<p>
+  Use this clause in conjunction with
+  
+   4013: Compliance with on-site measures, standing orders, policies, and rules
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><ol>
+<li>The Contracting Authority may at any time, by written notice, order the Contractor to suspend or stop the Work or part of the Work under the Contract for a period of up to 180 days. The Contractor must immediately comply with any such order in a way that minimizes the cost of doing so. While such an order is in effect, the Contractor must not remove any part of the Work from any premises without first obtaining the written consent of the Contracting Authority. Within these 180 days, the Contracting Authority must either cancel the order or terminate the Contract, in whole or in part, under section(s) <span class="input-required"><kbd>[<em>insert section entitled “Default by the Contractor”</em>]</kbd> <var>____________________________</var></span> or <span class="input-required"><kbd>[<em>insert section entitled “Termination for convenience”</em>]</kbd> <var>____________________________</var></span> of general conditions <span class="input-required"><var>____________________________</var></span>.</li>
+<li>When an order is made under subsection 1, unless the Contracting Authority terminates the Contract by reason of default by the Contractor or the Contractor abandons the Contract, the Contractor will be entitled to be paid its additional costs incurred as a result of the suspension plus a fair and reasonable profit.</li>
+<li>When an order made under subsection 1 is cancelled, the Contractor must resume work in accordance with the Contract as soon as practicable. If the suspension has affected the Contractor's ability to meet any delivery date under the Contract, the date for performing the part of the Work affected by the suspension will be extended for a period equal to the period of suspension plus a period, if any, that in the opinion of the Contracting Authority, following consultation with the Contractor, is necessary for the Contractor to resume the Work. Any equitable adjustments will be made as necessary to any affected conditions of the Contract.</li>
+</ol></pre>

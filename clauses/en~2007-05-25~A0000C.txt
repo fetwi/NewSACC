@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts in conjunction with general conditions 
+1026A, 1026B, 2010, 2029, 9601, 9624, 9676 or TRA-95.
+
+Use the following clause only if the low dollar value (2T-LDV1), medium 
+complexity (2T-MED1) and higher complexity (2T-HIGH1) templates are not used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All clauses and conditions identified in the Contract by number, date and 
+title are set out in the <em>Standard Acquisition Clauses and Conditions</em> Manual 
+issued by Public Works and Government Services Canada (PWGSC).  The Manual 
+is available on the PWGSC Website: <strong class="wsStyleUnderline">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</strong>.
+
+</pre>

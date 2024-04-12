@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all contracts for the printing of forms.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must perform the Work in accordance with the
+quality requirement described in the publication entitled "<cite>Quality
+Levels for Forms</cite>".</p>
+</div></pre>

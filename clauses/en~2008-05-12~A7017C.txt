@@ -1,0 +1,57 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts including general conditions
+  
+   2010A
+  
+  ,
+  
+   2010B
+  
+  ,
+  
+   2010C
+  
+  and
+  
+   2029
+  
+  when specific individuals are identified in the contract will 
+perform the work.
+ </p>
+<p>
+  The clause is not to be used with general conditions 2030, 2035 and 2040 as 
+these general conditions already include the provision.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">If specific individuals are identified in the
+Contract to perform the Work, the Contractor must provide the
+services of those individuals unless the Contractor is unable to do
+so for reasons beyond its control.</li>
+<li value="2">If the Contractor is unable to provide the services
+of any specific individual identified in the Contract, it must
+provide a replacement with similar qualifications and experience.
+The replacement must meet the criteria used in the selection of the
+Contractor and be acceptable to Canada. The Contractor must, as
+soon as possible, give notice to the Contracting Authority of the
+reason for replacing the individual and provide:
+<ol type="a">
+<li value="1">the name, qualifications and experience of the
+proposed replacement; and</li>
+<li value="2">proof that the proposed replacement has the required
+security clearance granted by Canada, if applicable.</li>
+</ol>
+</li>
+<li value="3">The Contractor must not, in any event, allow
+performance of the Work by unauthorized replacement persons. The
+Contracting Authority may order that a replacement stop performing
+the Work. In such a case, the Contractor must immediately comply
+with the order and secure a further replacement in accordance with
+subsection 2. The fact that the Contracting Authority does not
+order that a replacement stop performing the Work does not relieve
+the Contractor from its responsibility to meet the requirements of
+the Contract.</li>
+</ol>
+</div></pre>

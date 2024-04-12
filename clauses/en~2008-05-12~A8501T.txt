@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in bid solicitations when the bidder is to provide 
+details of its vessel.
+
+Use this clause in conjunction with
+ 
+  A8501C
+ 
+ .
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The vessel must meet the requirements listed in the attached
+specifications. The Bidder must provide the following details of
+its vessel:</p>
+<div type="1">
+<ol type="a">
+<li value="1">name of vessel <var>_____</var> ;</li>
+<li value="2">official number <var>_____</var> ;</li>
+<li value="3">length, beam, displacement <var>_____</var> ;</li>
+<li value="4">name of vessel's skipper during charter period
+<var>_____</var> .</li>
+</ol>
+</div>
+</div></pre>

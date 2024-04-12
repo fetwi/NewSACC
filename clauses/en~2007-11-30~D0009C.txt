@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts for goods when inspection and shipment 
+dates are required.  This clause should not be used for Department of National 
+Defence contracts.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Goods must be ready for inspection within <var>_____</var> days
+from effective date of the Contract, and shipment must be made
+<var>_____</var> days from date of approval by Canada.</p>
+</div></pre>

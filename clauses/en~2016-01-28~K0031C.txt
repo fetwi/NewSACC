@@ -1,0 +1,46 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when General Conditions
+  
+   2010A
+  
+  are used and 
+the warranty section is to be amended to indicate that the contractor will be 
+responsible for all costs associated with the replacement, repair or making good 
+of the work or any part of the work.
+ </p>
+<p>
+  For General Conditions
+  
+   2030
+  
+  or
+  
+   2040
+  
+  , use clause
+  
+   K0030C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Section 09 entitled <cite>Warranty of general conditions 2010A</cite> is
+amended by deleting subsection 2 in its entirety and replacing it
+with the following:</p>
+<p>The Contractor must pay the transportation cost
+associated with returning the Work or any part of the Work to the
+Contractor's plant for replacement, repair or making good. The
+Contractor must also pay the transportation cost associated with
+forwarding the replacement or returning the Work or part of the
+Work when rectified to the delivery point specified in the Contract
+or to another location as directed by Canada. If, in the opinion of
+Canada, it is not expedient to remove the Work from its location,
+the Contractor must carry out any necessary repair or making good
+of the Work at that location. In such cases, the Contractor will be
+responsible for all Costs (including travel and living expenses)
+incurred in so doing, Canada will not reimburse these Costs.</p>
+<p>All other provisions of the warranty section remain in
+effect.</p>
+</div></pre>

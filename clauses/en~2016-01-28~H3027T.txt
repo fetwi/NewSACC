@@ -1,0 +1,45 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when the client department would like to know whether the bidder is willing to accept payment of invoices by Electronic Payment Instruments listed in the clause below.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   H3027C
+  
+  .
+ </p>
+<p>
+  Refer to section
+  
+   4.70.55
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  for more information.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada requests that Bidders complete  option 1 or 2 below:</p>
+<ol>
+<li>
+<var title="checkbox">( )</var> Electronic Payment Instruments will be accepted for payment of invoices.
+<br/>The following Electronic Payment Instrument(s) are accepted:
+<ul class="no-markers">
+<li><var title="checkbox">( )</var> VISA Acquisition Card;</li>
+<li><var title="checkbox">( )</var> MasterCard Acquisition Card;</li>
+<li><var title="checkbox">( )</var> Direct Deposit (Domestic and International);</li>
+<li><var title="checkbox">( )</var> Electronic Data Interchange (EDI);</li>
+<li><var title="checkbox">( )</var> Wire Transfer (International Only);</li>
+<li><var title="checkbox">( )</var> Large Value Transfer System (LVTS) (Over $25M)</li>
+</ul>
+</li>
+<li><var title="checkbox">( )</var> Electronic Payment Instruments will not be accepted for payment of invoices.</li>
+</ol>
+<p>The Bidder is not obligated to accept payment by Electronic Payment Instruments.</p>
+<p>Acceptance of Electronic Payment Instruments will not be considered as an evaluation criterion.</p>
+</div></pre>

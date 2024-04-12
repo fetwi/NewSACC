@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations  when the client department has 
+indicated that Government of Canada Acquisition Card (credit card) may be used 
+to pay invoices in the resulting contract, if applicable.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   H3027C
+  
+  .
+ </p>
+ Refer to the
+ <cite>
+
+   Supply Manual
+  
+</cite>
+ procedure
+ 
+  4.70.55
+ 
+ .
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada requests that bidders complete one of the following:</p>
+<ul class="no-markers">
+<li>
+<var title="checkbox">( )</var> Government of Canada Acquisition
+Cards (credit cards) will be accepted for payment of invoices.
+<br/>The following credit card(s) are accepted:
+<ul>
+<li><var title="checkbox">( )</var> VISA</li>
+<li><var title="checkbox">( )</var> MasterCard</li>
+</ul>
+</li>
+<li><strong>OR</strong>
+<br/><var title="checkbox">( )</var> Government of Canada Acquisition
+Cards (credit cards) will not be accepted for payment of
+invoices.</li>
+</ul>
+<p>The Bidder is not obligated to accept payment by credit
+card.</p>
+<p>Acceptance or credit cards for payment of invoices will not be
+considered as an evaluation criterion.</p>
+</div></pre>

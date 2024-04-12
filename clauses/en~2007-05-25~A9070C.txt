@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts.  The contracting officer must ensure that 
+the applicable law selected by the bidder, or in absence of such selection, the 
+law indicated in the bid solicitation, is inserted in the blank.  The bidder, as 
+instructed, will be able to propose a change to the applicable laws in its bid.
+
+Use the following clause only if the low dollar value (2T-LDV1), medium 
+complexity (2T-MED1) and higher complexity (2T-HIGH1) templates are not used.
+
+Note: 	For the French version of the clause, the term "in" was not translated 
+because there is no such common term in French for all the provinces and 
+territory.  Therefore, the word "en" must be added in front of Alberta, 
+Colombie-Britannique, Saskatchewan, Ontario and Nouvelle-Écosse; the word "au" 
+in front of Manitoba, Québec, Nouveau-Brunswick, Yukon and Nunavut, the word "à" 
+in front of Terre-Neuve-et-Labrador and l'Ile-du-Prince-Édouard, and the words 
+"dans les" in front of Territoires du Nord Ouest.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contract must be interpreted and governed, and the relations
+between the parties determined, by the laws in force in
+<var>______</var> .</p>
+</div></pre>

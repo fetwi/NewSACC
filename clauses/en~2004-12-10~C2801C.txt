@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in Canadian defence contracts with Canadian contractors 
+for the provision of goods to be directly used in Canadian defence activities.
+
+NOTE: 	A threshold of US$25,000 has been introduced in the DPAS (U.S. Defence 
+Priorities and Allocations System) regulations, stating that for contracts under 
+this value, "use of a priority rating is optional, provided that delivery of the 
+needed items can be obtained in a timely fashion without the use of a priority 
+rating."
+
+		For further information, refer to Supply Manual, procedure 6B.196.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     This Contract concerns a Canadian defence requirement and therefore 
+       is eligible to be assigned a "U.S. Priority Rating" for any 
+       materials/services imported from the United States which may be 
+       required in the performance of the Work.  Accordingly, the 
+       Contractor shall:
+
+       (a)    make an application to the Central Allocations and Defence 
+              Priorities Section, Public Works and Government Services 
+              Canada (PWGSC), Gatineau, Quebec  K1A 0S5, in the event that 
+              any materials/services are to be imported from the United 
+              States for the performance of the Work; and
+
+       (b)    include this clause in subcontracts with Canadian suppliers, 
+              and quote the PWGSC Contract Number therein.
+
+2.     Failure to take the above actions may jeopardize the Contractor's 
+       delivery commitments. Therefore, the Contractor assumes sole 
+       responsibility for any breach of this Contract that arises from such 
+       a failure.
+
+
+</pre>

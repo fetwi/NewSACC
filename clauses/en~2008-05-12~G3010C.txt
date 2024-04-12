@@ -1,0 +1,58 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor has care, custody or 
+control of government property while in transit.
+ </p>
+<p>
+  The value and basis of valuation of government property must be filled in the 
+clause.  The basis of valuation of this property should be established with the 
+client and mentioned in the contractor's insurance policy.  Contracting officers 
+must insert one of the options provided in the second blank of paragraph 1.
+ </p>
+<p>
+  The limits are to be evaluated on a case-by-case basis.  For further assistance, 
+contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain on the Government's
+Property, and maintain in force throughout the duration of the
+Contract, All Risk Property in Transit insurance coverage for all
+applicable conveyances while under its care, custody or control, in
+an amount of not less than $<var>______</var> per shipment.
+Government Property must be insured on <span class="input-required"><var>_________</var> basis.
+<kbd>(<em><strong>Contracting officers must insert one of the following
+basis of valuation:</strong> "Replacement Cost (new)"; "Actual
+Cash Value (depreciated cost)" <strong>or</strong> "Agreed
+Value (appraisal)"</em>)</kbd></span></li>
+<li value="2">Administration of Claims: The Contractor must notify
+Canada promptly about any losses or damages to Government Property
+and monitor, investigate and document losses of or damage to ensure
+that claims are properly made and paid.</li>
+<li value="3">The All Risk Property in Transit insurance must
+include the following:
+<ol type="a">
+<li value="1">Notice of Cancellation: The Insurer will endeavour to
+provide the Contracting Authority at least thirty (30) days written
+notice of any policy cancellation.</li>
+<li value="2">Loss Payee: Canada as its interest appears or as it
+may direct.</li>
+<li value="3">Waiver of Subrogation Rights: Contractor's Insurer to
+waive all rights of subrogation against Canada as represented by
+<span class="input-required"><var>____________</var> <kbd>(<em><strong>insert
+department</strong></em>)</kbd></span> and Public Works and Government Services
+Canada for any and all loss of or damage to the property however
+caused.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

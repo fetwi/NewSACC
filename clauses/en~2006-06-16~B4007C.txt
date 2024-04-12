@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Contracting officers are required to choose one of the clauses and delete the 
+unused choices.  Alternatively, use clause
+ 
+  B4008C
+ 
+ when the contract refers to a 
+requirement.
+
+Choose the first clause when the Statement of Work provided by the customer 
+department is the sole specification for the work to be performed.
+
+Choose the second clause when the Statement of Work provided by the customer 
+department is the prevailing specification and the contract must also refer to 
+the contractor's technical bid.  If not applicable, delete the wording "entitled 
+_____,."
+
+Choose the third clause when the Statement of Work provided by the customer 
+department is the prevailing specification and the contract must also refer to 
+the technical and management portions of the contractor's bid.  If not 
+applicable, delete the wording "entitled _____,".
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+<p>The Contractor must perform the Work in accordance with the
+Statement of Work at Annex "<var>____</var>".</p></li>
+<li>
+<p><strong>OR</strong></p> <h2>Clause 2</h2>
+<p>The Contractor must perform the Work in accordance with the
+Statement of Work at Annex "<var>____</var> " and the Contractor's
+technical bid entitled <var>______</var> , dated <var>_______</var>.</p></li>
+<li><p><strong>OR</strong></p> <h2>Clause 3</h2>
+<p>The Contractor must perform the Work in accordance with the
+Statement of Work at Annex "<var>____</var>" and the technical and
+management portions of the Contractor's bid entitled
+<var>______</var>, dated <var>_____</var>.</p></li>
+</ul>
+</div></pre>

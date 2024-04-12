@@ -1,0 +1,126 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when Environmental Impairment Liability 
+insurance is required. Environmental Impairment Liability insurance protects the 
+Contractor against claims caused by gradual and sudden and accidental pollution 
+damage to the environment as well as Bodily Injury and Property Damage to third 
+parties.
+
+There are four main types of Environmental Insurance coverage that may be 
+carried by contractors depending on their operations.  Contracting officers must 
+insert one of the four types of insurance in paragraph 1 and 3 below:
+
+	Type 1: "Pollution Legal Liability - Fixed Site Coverage"
+	Type 2: "Contractors Pollution Liability"
+	Type 3: "Storage Tank Third Party Liability"
+	Type 4: "Contractors Professional Liability"
+
+Whenever the liabilities of Canada and the Contractor with respect to the 
+contract are difficult to separate, contracting officers must replace paragraph 
+3. (a) by the following option:
+
+"Additional Named Insured: Canada is added as an additional named insured, but 
+only with respect to liability arising out of the performance of the Contract."
+
+Contracting officers must choose options (f) and/or (g) in paragraph 3 when 
+applicable to their contract.
+
+Depending on the services being provided by the Contractor (ex: non-hazardous 
+operations), it is acceptable to simply use clause
+ 
+  G2001C
+ 
+ and include 
+endorsement (r) Sudden and Accidental Pollution.  However, it is important to 
+note that Canada would have to discover the claim and report it within 120 hours 
+for the coverage to respond.
+
+Contracting officers must consult
+ <abbr title="Public Works and Government Services Canada">
+  PWGSC
+ </abbr>
+ Risk Management Advisory Services, at:
+ 
+  NCR.RMIAS-SCGRA@pwgsc.gc.ca
+ 
+ if the suggested limit of $1,000,000 per accident or 
+occurrence is not considered adequate.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain <span class="input-required"><var>_______</var> <kbd>(<i>Contracting officers must
+insert one of the four types of environmental insurance coverage
+provided under the remarks section above</i>)</kbd></span> insurance,
+and maintain it in force throughout the duration of the Contract,
+in an amount usual for a contract of this nature, but for not less
+than $1,000,000 per accident or occurrence and in the annual
+aggregate.</li>
+<li value="2">If the policy is written on a claims-made basis,
+coverage must be in place for a period of at least 12 months after
+the completion or termination of the Contract.</li>
+<li value="3">The <span class="input-required"><var>________</var>
+<kbd>(<i>Contracting officers must insert one of the four types of
+environmental insurance coverage provided under the remarks section
+above</i>)</kbd></span> policy must include the following:
+<ol type="a">
+<li value="1">Additional Insured: Canada is added as an additional
+insured, but only with respect to liability arising out of the
+Contractor's performance of the Contract. The interest of Canada as
+additional insured should read as follows: Canada, represented by
+Public Works and Government Services Canada.</li>
+<li value="2">Notice of Cancellation: The Insurer will endeavour to
+provide the Contracting Authority thirty (30) days written notice
+of policy cancellation.</li>
+<li value="3">Separation of Insureds: The policy must apply to each
+Insured in the same manner and to the same extent as if a separate
+policy had been issued to each.</li>
+<li value="4">Contractual Liability: The policy must, on a blanket
+basis or by specific reference to the Contract, extend to assumed
+liabilities with respect to contractual provisions.</li>
+<li value="5">Incidental Transit Extension: The policy must extend
+to losses arising from any waste, products or materials
+transported, shipped, or delivered via any transportation mode to a
+location beyond the boundaries of a site at which the Contractor or
+any entity for which the Contractor is legally liable is performing
+or has performed the operations described in the contract.
+<p class="description">(<strong><em>Contracting officers must insert the applicable options below and renumber accordingly.</em></strong>)</p></li>
+<li value="6">Storage Tank Third-Party Liability - The policy must
+extend to off-site third party bodily injury and property damage
+due to releases from storage tanks (above and below ground).
+Coverage must include corrective action and clean-up due to
+releases from storage tanks.</li>
+<li value="7">Litigation Rights: Pursuant to subsection 5(d) of the
+<cite>Department of Justice Act</cite>, <abbr title="Statutes of Canada">S.C.</abbr> 1993, <abbr title="chapter">c.</abbr> J-2, s.1, if
+a suit is instituted for or against Canada which the Insurer would,
+but for this clause, have the right to pursue or defend on behalf
+of Canada as an Additional Named Insured under the insurance
+policy, the Insurer must promptly contact the Attorney General of
+Canada to agree on the legal strategies by sending a letter, by
+registered mail or by courier, with an acknowledgement of
+receipt.</li>
+</ol>
+</li>
+<p>For the province of Quebec, send to:<br/>
+Director Business Law Directorate,<br/>
+Quebec Regional Office (Ottawa),<br/>
+Department of Justice,<br/>
+284 Wellington Street, Room SAT-6042,<br/>
+Ottawa, Ontario, K1A 0H8</p>
+<p>For other provinces and territories, send to:<br/>
+Senior General Counsel,<br/>
+Civil Litigation Section,<br/>
+Department of Justice<br/>
+234 Wellington Street, East Tower<br/>
+Ottawa, Ontario K1A 0H8</p>
+<p>A copy of the letter must be sent to the Contracting Authority.
+Canada reserves the right to co-defend any action brought against
+Canada. All expenses incurred by Canada to co-defend such actions
+will be at Canada's expense. If Canada decides to co-defend any
+action brought against it, and Canada does not agree to a proposed
+settlement agreed to by the Contractor's insurer and the
+plaintiff(s) that would result in the settlement or dismissal of
+the action against Canada, then Canada will be responsible to the
+Contractor's insurer for any difference between the proposed
+settlement amount and the amount finally awarded or paid to the
+plaintiffs (inclusive of costs and interest) on behalf of
+Canada.</p></ol>
+</div></pre>

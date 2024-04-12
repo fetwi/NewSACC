@@ -1,0 +1,95 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for services when firm hourly rates are 
+established for professional fees and when travel and living expenses and direct 
+expenses are to be reimbursed at actual cost without mark-up.
+ </p>
+<p>
+  Add or delete paragraphs as applicable to meet specific requirements.  Add the 
+paragraph relative to the option to extend the contract, if applicable.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   C6001C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor will be paid firm hourly rates as follows, for
+work performed in accordance with the Contract. Customs duties are
+<span class="input-required"><var>__________</var> <kbd>(<em>insert
+"included", "excluded" or "subject to exemption"</em>)</kbd></span> and
+Applicable Taxes are extra.</p>
+<table>
+<tbody><tr>
+<th>Category</th>
+<th>
+Name (if applicable)
+</th>
+<th>
+Firm Hourly Rate
+</th>
+</tr>
+<tr>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>_________________</var></p>
+</td>
+<td>
+<p>$<var>________________</var></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>_________________</var></p>
+</td>
+<td>
+<p>$<var>________________</var></p>
+</td>
+</tr>
+</tbody></table>
+<p><strong>Total Estimated Cost</strong>: $<var>______</var></p>
+<h2>Travel and Living Expenses</h2>
+<p>The Contractor will be reimbursed for the authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for overhead or profit, in accordance with the meal and private vehicle allowances specified in Appendices B, C and D of the National Joint Council Travel Directive, and with the other provisions of the directive referring to "travellers", rather than those referring to "employees". Canada will not pay the Contractor any incidental expense allowance for authorized travel. </p>
+<p>All travel must have the prior authorization of the <span class="input-required"><var>________</var> <kbd>(<em>insert "Technical" or
+"Project" or "Contracting"</em>)</kbd></span> Authority. All payments are
+subject to government audit.</p>
+<p>Estimated cost: $<var>_____</var></p>
+<h2>Other Direct Expenses</h2>
+<p>The Contractor will be reimbursed for the direct expenses
+reasonably and properly incurred in the performance of the Work.
+These expenses will be paid at actual cost without mark-up, upon
+submission of an itemized statement supported by receipt
+vouchers.</p>
+<p>Estimated cost: $ <var>_________</var></p>
+<p><strong>Total Estimated Cost</strong> - Limitation of
+Expenditure<strong>:</strong> <span class="input-required"><var>______________</var> <kbd>(<em>Applicable Taxes extra.</em>)</kbd></span></p>
+<p class="description"><strong>Instruction to contracting
+officers:</strong> Insert the following paragraph when the contract
+contains an option to extend the contract.</p>
+<h2>Option to Extend the Contract</h2>
+<p>During the extended period of the Contract, the Contractor will
+be paid the following firm hourly rates to perform all the Work in
+relation to the contract extension.</p>
+<table>
+<tbody><tr>
+<th>Category</th>
+<th>Firm Hourly Rate</th>
+</tr>
+<tr>
+<td><var>_______</var></td>
+<td>$<var>______</var></td>
+</tr>
+<tr>
+<td><var>_______</var></td>
+<td>$<var>______</var></td>
+</tr>
+</tbody></table>
+</div></pre>

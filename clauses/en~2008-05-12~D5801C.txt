@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in marine refit, repair, and conversion contracts.
+ </p>
+<p>
+  If a warranty holdback will be applied to the final payment for the contract 
+then contracting officers are to insert the sentence that makes reference to the 
+holdback.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Inspection Authority, in conjunction with the
+Contractor, will prepare a list of outstanding work items at the
+end of the work period. This list will form the annexes to the
+formal acceptance document for the vessel. A contract completion
+meeting will be convened by the Inspection Authority on the work
+completion date to review and sign off the form <abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 1205,
+Acceptance. (<strong><em>Insert, if applicable:</em></strong> "In
+addition to any amount held under the Warranty Holdback Clause, a
+holdback of twice the estimated value of outstanding work will be
+held until that work is completed").</li>
+<li value="2">The Contractor must complete the above form in three
+(3) copies, which will be distributed by the Inspection Authority
+as follows:
+<ol type="a">
+<li value="1">original to the Contracting Authority;</li>
+<li value="2">one copy to the Technical Authority;</li>
+<li value="3">one copy to the Contractor.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

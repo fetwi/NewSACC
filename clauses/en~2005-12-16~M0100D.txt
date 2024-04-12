@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in Requests for a Standing Offer (RFSO) and in Standing 
+Offer and Call-up Authority (SOCA) documents in conjunction with: 
+
+(i)	either clause M0000T or M0000C, as appropriate, to incorporate by reference 
+9403-6, Standard Instructions and Conditions - Standing Offers; and
+
+(ii)	K0000D to incorporate by reference the general conditions and, if any, 
+supplemental general conditions. 
+
+It is suggested that this clause be inserted in the RFSO or SOCA immediately 
+after clause M0000T or M0000C.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>9403-6 (_________) (<strong><em>Insert the date)</em></strong>, Standard Instructions and Conditions 
+   - Standing Offers, are incorporated by reference into and form part of 
+   this document.
+</pre>

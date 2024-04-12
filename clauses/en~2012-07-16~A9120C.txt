@@ -1,0 +1,49 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a proposed contractor will be paid 
+for work performed before the effective date of the contract.
+ </p>
+<p>
+  If this clause is used, a section entitled: "Pre-contractual Work" must be 
+included in the statement of work to clearly describe all of the required work 
+performed by the contractor before the effective date of the contract.
+ </p>
+<p>
+  If the work has been completed, the contracting officer must instead request 
+that a confirming order be prepared by legal counsel.
+ </p>
+<p>
+  The second paragraph must be deleted if the client department does not wish to 
+retain the rights to the intellectual property.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   C0201C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Parties acknowledge that, as of <var title="insert date">_______</var> , the
+Contractor, with the consent of <span class="input-required"><var>_______</var> <kbd>(<em><strong>insert name of client
+department</strong></em>)</kbd></span> and without a written contract, has started
+the Work required pursuant to the Contract (Pre-contractual Work)
+and has incurred costs in the performance of such Work. Costs
+incurred by the Contractor in the performance of the
+Pre-contractual Work, that would have been treated as costs
+reasonably and properly incurred if they had been incurred after
+the effective date of the Contract, will be paid to the Contractor
+in accordance with the Basis of Payment of the Contract subject to
+acceptance of the Pre-contractual Work by Canada. The Contractor
+agrees that upon such payment by Canada to the Contractor, Canada
+will be released and forever discharged from all manner of actions,
+claims, suits or demands in relation to the Pre-contractual
+Work.</p>
+<p>The Parties confirm that copyright in the Pre-contractual Work
+belongs to Canada and that ownership of all intellectual property
+rights in all information of a scientific, technical or artistic
+nature relating to the Work, in any form or medium, conceived,
+developed or produced by the Contractor in the performance of the
+Pre-contractual Work belongs to Canada.</p>
+</div></pre>

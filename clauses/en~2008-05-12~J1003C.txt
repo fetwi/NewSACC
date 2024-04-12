@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause to terminate the entire contract for default when 
+default arises as a result of bankruptcy, insolvency or receivership.
+ </p>
+<p>
+  Contracting officers must seek advice from Legal Services before issuing a 
+notice of termination for default.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This is further to the Stop Work Order dated <span class="input-required"><var>_____</var> <kbd>(<em>delete this paragraph if no
+Stop Work Order was sent by the Contracting
+Authority</em>)</kbd></span>.</p>
+<p>In accordance with the unrestricted right of Canada to terminate
+the Contract for default if the Contractor becomes bankrupt or
+insolvent or a receiving order is made against the Contractor, the
+Contracting Authority notifies the Contractor that the Contract is
+terminated for default pursuant to section <var>_____</var>,
+Default by the Contractor, of general conditions <var>____</var> as
+the Contractor is <span class="input-required"><var>__________</var> <kbd>(<em>insert "bankrupt",
+"insolvent" or "in receivership", as applicable</em>)</kbd></span>.</p>
+<p>Canada reserves its right under the Contract to charge the
+Contractor for all losses and damages which Canada may suffer by
+reason of the default, including any amount in excess of the
+Contract Price which Canada may be obliged to pay in procuring the
+goods, services or both elsewhere.</p>
+</div></pre>

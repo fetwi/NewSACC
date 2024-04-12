@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in all solicitation documents processed through the Automated 
+Buyers Environment (ABE), since ABE contains an edit that prevents the release 
+of a contract to a Canadian company that does not have a Procurement Business 
+Number.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     For procurement purposes, Canada uses a unique Procurement Business 
+       Number (PBN) to identify a company and its branches, divisions, or 
+       offices, where appropriate.  The PBN is created using the entity's 
+       Canada Revenue Agency Business Number.
+
+2.     All Canadian companies are required to have a PBN prior to contract 
+       award in order to receive a Public Works and Government Services 
+       Canada (PWGSC) contract.  In exceptional circumstances, PWGSC may 
+       decide to award, at its own discretion, a contract to a company 
+       without a PBN.  Non-Canadian companies are strongly encouraged to 
+       obtain a PBN.
+
+3.     Companies may register for a PBN in the Supplier Registration 
+       Information (SRI) service on line at the Contracts Canada Internet 
+       site at: <strong class="wsStyleUnderline">http://contractscanada.gc.ca</strong>.  In order for companies to be 
+       sourced by government buyers, they must complete the registration 
+       process and activate their account in the SRI service.
+
+4.     For non-Internet registration, contact the Contracts Canada InfoLine 
+       at 1-800-811-1148 or (819) 956-3440, in the National Capital Area, 
+       to obtain the telephone number of the nearest Supplier Registration 
+       Agent.
+
+
+</pre>

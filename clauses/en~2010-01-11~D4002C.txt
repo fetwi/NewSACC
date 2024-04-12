@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when delivery is at destination and the 
+contractor is responsible for all delivery charges, administration, costs and 
+risks of transport and customs clearance, including the payment of customs 
+duties and taxes.
+
+Use Option 1 when delivery is
+ <abbr title="Free on Board">
+  FOB
+ </abbr>
+ Destination.  Use Option 2 when Incoterms 2000 
+are used and delivery is "Delivered Duty Paid".
+
+Do not use this clause in Department of National Defence (DND) contracts when
+ <abbr title="Department of National Defence">
+  DND
+ </abbr>
+ is responsible for shipping.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Goods must be consigned and delivered to the destination
+specified in the contract:</p>
+<h2>Option 1:</h2>
+<p><abbr title="Free on Board">FOB</abbr> Destination <span class="input-required"><var>________</var>
+<kbd>(<i>insert the place of destination</i>)</kbd></span> including all
+delivery charges and customs duties and taxes.</p>
+<h2>Option 2:</h2>
+<p>Incoterms 2000 "<abbr title="Delivered duty paid">DDP</abbr> Delivered Duty Paid" <span class="input-required"><var>_______</var> <kbd>(<i>insert the place of
+destination</i>)</kbd></span>.</p>
+</div></pre>

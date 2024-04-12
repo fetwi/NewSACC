@@ -1,0 +1,102 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>It is important to include G2030D and refer to G2035D for important additional 
+endorsements in contracts related to aviation activities.
+
+These should be used in conjunction with the following clause, and contracting 
+officers are encouraged to enquire with the Risk Management and Insurance 
+Advisor, Public Works and Government Services Canada (NCR 
+RMIAS-SCGRA@pwgsc.gc.ca).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall not provide a domestic aircraft charter service 
+       or an international aircraft charter service to Canada unless, for 
+       every incident related to the Contractor's operation of that service, 
+       it has:
+
+       (a)    liability insurance covering risks of injury to or death of 
+              passengers in an amount that is not less than the amount 
+              determined by multiplying $300,000 by the number of passenger 
+              seats on board the aircraft engaged in the service; and
+
+       (b)    insurance covering risks of public liability in an amount 
+              that is not less than:
+
+              (i)    $1,000,000, where the Maximum Certified Take-off 
+                     Weight (MCTOW) of the aircraft engaged in the service 
+                     is not greater than 7,500 lbs;
+
+              (ii)   $2,000,000, where the MCTOW of the aircraft engaged in 
+                     the service is greater than 7,500 lbs but not greater 
+                     than 18,000 lbs; and,
+
+              (iii)  where the MCTOW of the aircraft engaged in the service 
+                            is greater than 18,000 lbs, $2,000,000 plus an 
+                            amount determined by multiplying $150 by the 
+                            number of pounds by which the MCTOW of the 
+                            aircraft exceeds 18,000 lbs.
+
+2.     The insurance coverage required by subsection 1.(a) need not extend 
+       to any passenger who is an employee of the Contractor if workers' 
+       compensation legislation governing a claim for damages against that 
+       Contractor by the employee is applicable.
+
+3.     The Contractor shall not take out third party liability insurance to 
+       comply with section 1 that contains an exclusion or waiver provision 
+       reducing insurance coverage for any incident below the applicable 
+       minima determined pursuant to that subsection, unless that provision:
+
+       (a)    consists of standard exclusion clauses adopted by the 
+              international aviation insurance industry dealing with:
+
+              (i)    war, hijacking and other perils;
+              (ii)   noise and pollution and other perils; or,
+              (iii)  aviation radioactive contamination;
+
+       (b)    is in respect of chemical drift;
+
+       (c)    is to the effect that the insurance does not apply to 
+              liability assumed by the Contractor under any contract or 
+              agreement unless such liability would have attached to the 
+              Contractor even in the absence of such contract or agreement; 
+              or
+
+       (d)    is to the effect that the entire policy shall be void if the 
+              Contractor has concealed or misrepresented any material fact 
+              or circumstance concerning the insurance or the subject 
+              thereof or if there has been any fraud, attempted fraud or 
+              false statement by the Contractor touching any matter 
+              relating to the insurance or the subject thereof, whether 
+              before or after a loss.
+
+       Notwithstanding subsections 3.(b) and (c), the Contractor's 
+       liability stipulated in the Contract terms and conditions shall 
+       remain unchanged.
+
+4.     The Contractor may have a commercial single limit liability coverage 
+       where liability risks are covered by a single policy or a 
+       combination of primary and excess policies, but no single limit 
+       liability coverage of that Contractor shall be for an amount that is 
+       less than the applicable combined insurance minima determined 
+       pursuant to subsections 1.(a) and (b).
+
+5.     The policy must include the following endorsements:
+
+       (a)    Additional Insured:  Canada is named as an additional insured 
+              under any liability insurance policies for Canada's 
+              respective rights and interests under the Contract.
+
+       (b)    Notice of Cancellation:  The Insurer agrees to provide the 
+              Contracting Authority thirty (30) days written notice of 
+              cancellation.
+
+       (c)    Cross Liability:  Without increasing the limit of liability, 
+              the policy shall protect all insured parties to the full 
+              extent of coverage provided.  Further, the policy shall apply 
+              to each Insured in the same manner and to the same extent as 
+              if a separate policy had been issued to each.
+
+       (d)    Contractual Liability:  The policy shall, on a blanket basis 
+              or by specific reference to this contract, extend to assumed 
+              liabilities with respect to contractual insurance provisions.
+
+</pre>

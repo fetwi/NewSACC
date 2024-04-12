@@ -1,0 +1,114 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2015-02-25R2950Dgeneral">01 General</a></li>
+<li><a href="#2015-02-25R2950Dhourly-labour-rates">02 Hourly Labour Rates</a></li>
+<li><a href="#2015-02-25R2950Dmaterial-plant-and-equipment-costs">03 Material, Plant and Equipment Costs</a></li>
+<li><a href="#2015-02-25R2950Dallowance-to-the-contractor-or-subcontractor">04 Allowance to the Contractor or
+Subcontractor</a></li>
+</ul>
+</div>
+<h2 id="2015-02-25R2950Dgeneral">01 (2007-05-25) General</h2>
+<ol type="1">
+<li value="1">The Contractor shall submit a cost estimate breakdown
+for each contemplated change, in accordance with paragraph 4) of
+GC6.4.1, "Price Determination Prior to Undertaking Changes". The breakdown shall itemize all labour, material, plant
+and equipment costs estimated by the Contractor and subcontractors,
+and the amount of each allowance.</li>
+<li value="2">It is the responsibility of the Contractor to ensure
+that all prices included in the Contractor's breakdown to Canada,
+including those of subcontractors, are fair and reasonable in view
+of the terms expressed herein.</li>
+<li value="3">The labour hours required for the contemplated change
+shall be based on the estimated number of hours to perform the
+work.</li>
+<li value="4">Time spent by a working foreman may be included in
+the number of labour hours, at a rate agreed to in writing by the
+Contractor and Canada.</li>
+<li value="5">Time attributable to material handling, productivity
+factors and approved rest periods is to be included in the number
+of hours required by the contemplated change and will not be paid
+as a separate item under hourly rates.</li>
+<li value="6">Allowances referred to in section 04 below are not to
+be included in the hourly labour rates.</li>
+<li value="7">Credit for work deleted will only be for the work
+directly associated with the change.</li>
+<li value="8">When a change deletes work which has not yet been
+performed, Canada is entitled to an adjustment in the Contract
+Amount equal to the cost the Contractor would have incurred had the
+work not been deleted.</li>
+<li value="9">Allowances referred to in Section 04 below shall not
+be applied to any credit amounts for deleted work.</li>
+<li value="10">In those cases where the change involves additions
+and deletions to the work, the allowances referred to in section 04
+below shall apply only when the cost of the additions minus the
+cost of the deletions would result in an increase in the Contract
+Amount. The percentage allowance shall only be applied to that
+portion of the costs of the additions that is in excess of the cost
+of the deletions.</li>
+<li value="11">If the contemplated change in the work necessitates
+a change in the contract completion date, or has an impact on the
+work, the Contractor shall identify and include the resulting cost
+in the breakdown.</li>
+</ol>
+<h2 id="2015-02-25R2950Dhourly-labour-rates">02 (2015-02-25) Hourly Labour Rates</h2>
+<p>The hourly labour rates listed in the Contractor's
+breakdown shall be determined in accordance with the collective
+agreements that are applicable at the site of the work and shall
+include </p>
+<ol type="a">
+<li value="1">the base rate of pay;</li>
+<li value="2">vacation pay;</li>
+<li value="3">benefits which includes
+<ol type="i">
+<li value="1">welfare contributions;</li>
+<li value="2">pension contributions;</li>
+<li value="3">union dues;</li>
+<li value="4">training and industry funds contributions; and</li>
+<li value="5">other applicable benefits, if any, that can be
+substantiated by the Contractor.</li>
+</ol>
+</li><li value="4">statutory and legislated requirements, assessed and
+payable under statutory authority, which includes
+<ol type="i">
+<li value="1">Employment Insurance contributions;</li>
+<li value="2">Canada Pension Plan or Quebec Pension Plan
+contributions;</li>
+<li value="3">Worker's Compensation Board or "<span lang="fr-CA">Commission de la
+santé et de la sécurité du travail</span>" premiums;</li>
+<li value="4">Public Liability and Property Damage insurance premiums;
+and</li>
+<li value="5">health tax premiums.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2015-02-25R2950Dmaterial-plant-and-equipment-costs">03 (2015-02-25) Material, Plant and Equipment Costs</h2>
+<p>The costs of all purchases and rentals must be based
+on the actual amount paid to the suppliers by the Contractor or
+subcontractor and said costs are to include all applicable
+discounts.</p>
+<h2 id="2015-02-25R2950Dallowance-to-the-contractor-or-subcontractor">04 (2015-02-25) Allowance to the Contractor or
+Subcontractor</h2>
+<p>The allowances determined in accordance with
+paragraph 1) of GC6.4.1, "Price Determination Prior to
+Undertaking Changes", shall be considered as full
+compensation for:</p>
+<ol type="a">
+<li value="1">supervision, co-ordination, administration, overhead,
+margin and the risk of undertaking the work within the stipulated
+amount; and</li>
+<li value="2">miscellaneous additional costs related to
+<ol type="i">
+<li value="1">the purchase or rental of material, plant and
+equipment;</li>
+<li value="2">the purchase of small tools and supplies;</li>
+<li value="3">safety and protection measures; and</li>
+<li value="4">permits, bonds, insurance, engineering, as built drawings,
+commissioning and site office.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

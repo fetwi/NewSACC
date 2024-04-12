@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for standing offers when the period of the 
+resulting standing offer will be longer than six months and Canada will allow 
+the transaction cost of paper to be adjusted during the standing offer period.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   P2011C
+  
+  .
+ </p>
+<p>
+  Contracting officers must review paragraph 2 of the clause to identify the 
+type(s) of paper required.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The resulting standing offer will a contain provision
+for price adjustment (increase or decrease) of the portion of the
+price directly related to the base transaction cost of paper. Price
+adjustment will apply only to increase or decrease of the base
+transaction cost of paper that may occur at any time during the
+resulting standing offer period but not before thirty (30) days
+after the issuance of the standing offer.</li>
+<li value="2">Offerors must provide their base transaction cost(s)
+and the quantity of the paper on which the base transaction cost is
+established in their offer as follows:
+<ol type="a">
+<li value="1">cover stock (if applicable): <var>_____</var> <abbr title="pounds">lb</abbr>. at
+a base transaction cost per <abbr title="per hundred weight">Cwt</abbr>. of $<var>______</var> , and which
+represent <var>______</var> percent of the unit price(s).
+<br/>Brand name and paper supplier: <var>____________________</var>.</li>
+<li value="2">text stock (if applicable): <var>_____</var> <abbr title="pounds">lb</abbr>. at a
+base transaction cost per <abbr title="per hundred weight">Cwt</abbr>. of $<var>______</var> , and which
+represent <var>______</var> percent of the unit price(s).
+<br/>Brand name and paper supplier: <var>____________________</var>.</li>
+</ol>
+</li>
+<li value="3">Upon request from the Standing Offer Authority,
+offerors must provide supporting documentation to confirm the base
+transaction cost. Such documentation may consist of a copy of the
+quotation from the paper supplier(s).</li>
+</ol>
+</div></pre>

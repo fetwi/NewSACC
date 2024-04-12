@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when title to the vessel, including any government issue obtained or constructed with money provided by Canada, belongs to Canada.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A9006C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If the Contractor is in default in carrying any of its
+obligations under the Contract, Canada, or its agents, will have
+the immediate right to enter the shipyard, without first obtaining
+a court order, to take possession of the vessel and all other
+property of Canada, including, but not limited to, work-in-process
+located on the premises, and to perform any further work required
+to enable the vessel and other such property to be removed from the
+shipyard.</p>
+</div></pre>

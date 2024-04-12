@@ -1,0 +1,60 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in multi-departmental (master) standing offers (SOs) 
+when more than one department is identified as a user of the standing offer, 
+unless otherwise authorized by the responsible Commodity Team.  The clause 
+refers to the business volume report format provided by the Value Management 
+Office (VMO) and is available on the Business Access Canada Website, under 
+"Publications, Manuals and Forms", at the following address: 
+http://contractscanada.gc.ca/en/infoplus-e.htm.  The Standing Offer Authority 
+must forward to the VMO, on a quarterly basis, the completed reports provided by 
+the offerors to the following e-mail address: ncr.acqbvmo@pwgsc.gc.ca.
+
+Some Commodity Team (CT) Leaders or Regional Reviewers (RR) may want to receive 
+more complete or specific information on multi-departmental (master) or 
+individual SOs to ensure comprehensive commodity management.  Customized 
+reporting remains the responsibility of each CT Leader or RR.  If a customized 
+format is identified by the CT Leader or by the RR, the alternate report must 
+contain as a minimum the list of data elements required by the VMO and the 
+clause below must be modified to reflect the additional requirements.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Offeror must compile and maintain records on its provision of goods, 
+services or both to the federal government under contracts resulting from 
+the Standing Offer.  This data must include all purchases paid for by a 
+Government of Canada Acquisition Card.  The data must be submitted on a ______ 
+(<strong><em>the Standing Offer Authority must insert "quarterly basis" or specify an 
+alternate reporting period</em></strong>) to the Public Works and Government Services 
+Canada Standing Offer Authority.
+
+(<strong>If an alternate reporting period is required, the Standing Offer Authority 
+must delete the quarterly periods provided below and define the alternate 
+reporting period</strong>.)
+Quarterly periods are defined as follows: 
+
+1st quarter: April 1 to June 30;
+2nd quarter: July 1 to September 30;
+3rd quarter: October 1 to December 31;
+4th quarter: January 1 to March 31.
+
+Electronic reports must be completed and forwarded to the Standing Offer 
+Authority no later than 15 calendar days after the end of the _______ (<strong><em>the 
+Standing Offer Authority must insert "quarterly period" or the alternate 
+reporting period as identified in the first paragraph above</em></strong>).  An 
+electronic version of the form in Excel and/or Lotus spreadsheet format _______ 
+<strong><em>(the Standing Offer Authority must choose "will be provided to 
+the Offeror electronically by the Standing Offer Authority" or "is 
+available on the Business Access Canada Website, under "Publications, 
+Manuals, Forms", at the following address: </em></strong><strong><em class="wsStyleUnderline">http://contractscanada.gc.ca/en/
+infoplus-e.htm</em></strong><strong><em>"</em></strong>).
+
+All data fields of the report must be completed as requested.  If some data 
+is not available, the reason must be indicated in the report.  If no goods 
+or services are provided during a given period, the Offeror must still 
+provide a "NIL" report.
+
+Failure to provide fully completed reports in accordance with the above 
+instructions may result in the setting aside of the Standing Offer and the 
+application of a vendor performance corrective measure.
+
+
+</pre>

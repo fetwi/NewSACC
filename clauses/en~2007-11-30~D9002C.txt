@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when an authority is required to ship 
+incomplete assemblies.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must not ship incomplete assemblies unless the
+authorization for such shipment has been obtained before from the
+Contracting Authority.</p>
+</div></pre>

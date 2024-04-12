@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts including general conditions 2010 and 2029 
+when specific persons named in the contract will perform the work.  The clause 
+is not to be used with general conditions 9601, 9624 and 9676 as those general 
+conditions include such a provision.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     When specific persons have been named in the Contract as the persons 
+       who must perform the Work, the Contractor must provide the services 
+       of the persons so named unless the Contractor is unable to do so for 
+       reasons beyond its control.
+
+2.     If at any time the Contractor is unable to provide the services of 
+       any specific person named in the Contract, it must provide a 
+       replacement person with similar qualifications and experience.  The 
+       Contractor must, as soon as possible, give notice to the Minister of:
+
+       (a)    the reason for the removal of the named person from the Work;
+
+       (b)    the name, qualifications and experience of the proposed 
+              replacement person; and
+
+       (c)    proof that the person has the required security clearance 
+              granted by Canada, if applicable.
+
+3.     The Minister may order the removal from the Work of any replacement 
+       person and the Contractor must immediately remove the person from 
+       the Work and must, in accordance with subsection (2), provide a 
+       replacement.
+
+4.     The fact that the Minister does not order the removal of a 
+   replacement person from the Work must not relieve the Contractor from 
+   its responsibility to meet the requirements of the Contract.
+</pre>

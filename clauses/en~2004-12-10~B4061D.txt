@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause for capital acquisition procurement requirements, in bid 
+solicitations and contracts, when controlled goods are to be purchased or 
+repaired.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall furnish the Technical Authority with a Technical Data 
+Summary, a technical description or a technical specification, which shall 
+include the physical and performance characteristics and a functional 
+description of the deliverable end item, and where applicable a complete 
+list of accessories and peripheral items required to complete the 
+deliverable end item being supplied.  For a deliverable end item procured 
+by the Contractor from a subcontractor or supplier, the Contractor shall 
+furnish the name of the manufacturer and its part numbers along with the 
+necessary documentation.
+
+The Contractor must also identify any controlled goods as defined in the 
+Schedule to the<em> Defence Production Act</em>. (See <em>Standard Acquisition Clauses 
+and Conditions </em>Manual clauses A9130T and A9131C).  All data shall be 
+submitted at least sixty (60) days prior to the scheduled delivery date of 
+the deliverable end item.
+
+
+</pre>

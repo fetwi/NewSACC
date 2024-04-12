@@ -1,0 +1,61 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause to cancel a stop work order.
+ </p>
+<p>
+  Use option 1 when general conditions
+  
+   2010B
+  
+  ,
+  
+   2010C
+  
+  ,
+  
+   2030
+  
+  ,
+  
+   2035
+  
+  and
+  
+   2040
+  
+  have been used.
+ </p>
+<p>
+  Use option 2 when general conditions
+  
+   2029
+  
+  and
+  
+   2010A
+  
+  have been used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p>The Stop Work Order dated <var>_____</var> and issued pursuant
+to section <var>_____</var>, Suspension of the Work of general
+conditions <var>_____</var> is cancelled.</p>
+<p>The Contractor must resume work in accordance with the Contract
+and inform the Contracting Authority immediately, in writing, if
+performance of the Work will be affected by the suspension.</p>
+<p>The Contractor is entitled to be paid additional costs and
+expenses reasonably and properly incurred as a result of the
+suspension of the Work, plus a fair profit in accordance with the
+"Suspension of the Work" provision of the Contract. The Contractor
+must submit any claim he may have for payment of costs incurred as
+a result of the suspension, in writing, to the Contracting
+Authority.</p>
+<h2>Option 2</h2>
+<p>The Stop Work Order dated <var>____________</var> is
+cancelled.</p>
+<p>The Contractor must resume work in accordance with the Contract
+and inform the Contracting Authority immediately, in writing, if
+performance of the Work will be affected by the suspension.</p>
+</div></pre>

@@ -1,0 +1,62 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when limiting a Contractor's liability to the Crown and 
+requiring the Contractor to indemnify the Crown against third party claims.  
+Typically, N0001D is used when a Contractor's first party liability is limited 
+and third party is unlimited.  N0001D relies on the law to protect the Crown 
+against third party claims, whereas this clause states the Crown's position with 
+respect to third party claims.
+
+Limiting a Contractor's liability should be an exception to the normal practice 
+of using the standard terms and conditions.  When the decision is made to limit 
+a Contractor's liability to the Crown, contracting officers, in conjunction with 
+client departments, must be able to demonstrate that the risks associated with 
+the procurement have been analyzed and that the limitation of liability provides 
+adequate protection to the Crown.  Decisions with respect to limiting a 
+Contractor's liability should be made prior to the Request for Proposal release 
+or in instances of sole source contracts, prior to the start of negotiations.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Notwithstanding any other clause in the Contract but subject to the 
+       remaining provisions of 1 and 2 of this clause, the Contractor's 
+       total cumulative liability to Canada for all losses or damage 
+       suffered by Canada as a result of all breaches of the Contractor's 
+       obligations under the Contract or the faulty carrying out of the 
+       Contract (including any such liability in tort, negligence or any 
+       other cause of action) shall be limited to __________ <strong>(insert $ 
+       amount)</strong> **
+
+       **<strong>Note</strong>:       <strong>It is preferable to add the following wording for 
+                     multi year service contracts</strong>: "for losses or damage 
+                     caused in any one year of carrying out of the Contract, 
+                     each such year starting on the date of coming into 
+                     force of the Contract or its anniversary".
+
+       The foregoing limitation shall not apply: 
+
+       (a)    to any breach of the repair or replacement or rework warranty 
+              obligations of the Contract,
+
+       (b)    to any breach of intellectual property rights that results in 
+              Canada losing in whole or in part the enjoyment of anything 
+              delivered under the Contract, or 
+
+       (c)    to any liability of Canada to a third party.
+
+2.     The Contractor agrees to indemnify and save harmless Canada, the 
+       Minister and their servants and agents from and against any claim, 
+       action, suit or other proceeding or any loss or damage for which 
+       they or any of them may be liable to another person arising out of 
+       the Contractor's faulty carrying out of or breach of the Contract, 
+       except that Canada and the Minister shall not claim such indemnity 
+       to the extent that the loss or damage has been caused by Canada.  
+       The Minister shall give notice to the Contractor of any such claim, 
+       action, suit or proceeding and the Contractor shall, to the extent 
+       requested by the Attorney General of Canada, at its own expense 
+       participate in or conduct the defence of the claim, action, suit or 
+       proceeding and any negotiations for settlement of the same with all 
+       reasonable assistance and co-operation by Canada, but the Contractor 
+       shall not be liable to indemnify Canada for payment of any 
+       settlement unless it has consented to the settlement.
+
+
+</pre>

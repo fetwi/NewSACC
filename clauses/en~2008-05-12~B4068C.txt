@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence when a system or equipment is newly introduced in the Canadian Forces Supply System, and Canada must review the publications that constitute deliverable end items.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide to the Contracting Authority, a production and delivery schedule for the publications that constitute deliverable end items that will ensure availability of the publications concurrently with the delivery of the goods to which the publications relate. The Contractor's schedule must account for the time required by Canada to conduct reviews and provide acknowledgement or comments.</li>
+<li value="2"><strong>Stages</strong>
+<br/>The following production milestone review stages will be used for initial planning purposes:
+<ol type="a">
+<li value="1">english manuscript approval;</li>
+<li value="2">french manuscript translation accuracy check;</li>
+<li value="3">camera-ready pages (reproducible);</li>
+<li value="4">printed copy;</li>
+<li value="5">consignment of approved manuals.</li>
+</ol>
+</li>
+<li value="3"><strong>Quantities</strong>
+<br/>Following Certificate of Compliance approval, <var title="insert number of copies">_____</var> copies of the publications that constitute deliverable end items must be delivered to the consignees indicated in the Contract.</li>
+</ol>
+</div></pre>

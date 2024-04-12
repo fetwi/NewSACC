@@ -1,0 +1,175 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all bid solicitations when the requirement is subject to the Canadian Content Policy.
+ </p>
+<p>
+  Use this clause in conjunction with one of the following clauses:
+  
+   A3051T
+  
+  ,
+  
+   A3052T
+  
+  ,
+  
+   A3053T
+  
+  ,
+  
+   A3055T
+  
+  ,
+  
+   A3056T
+  
+  ,
+  
+   A3059T
+  
+  ,
+  
+   A3061T
+  
+  ,
+  
+   A3062T
+  
+  ,
+  
+   A3063T
+  
+  ,
+  
+   A3065T
+  
+  ,
+  
+   A3066T
+  
+  ,
+  
+   A3069T
+  
+  ,
+  
+   M3051T
+  
+  ,
+  
+   M3052T
+  
+  ,
+  
+   M3053T
+  
+  ,
+  
+   M3055T
+  
+  ,
+  
+   M3056T
+  
+  ,
+  
+   M3059T
+  
+  ,
+  
+   M3061T
+  
+  ,
+  
+   M3062T
+  
+  ,
+  
+   M3063T
+  
+  ,
+  
+   M3065T
+  
+  ,
+  
+   M3066T
+  
+  ,
+  
+   M3069T
+  
+  .
+ </p>
+<p>
+  There is no equivalent clause for the Canadian Content Definition under subsection "5-M" of the
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual. As an exception to procedures 2T-PROC2, article 2.(b)(i), this clause must be used in request for standing offers, and no modification is required to reflect the terminology used in standing offers.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><strong>Canadian good</strong>: A good wholly
+manufactured or originating in Canada is considered a Canadian
+good. A product containing imported components may also be
+considered Canadian for the purpose of this policy when it has
+undergone sufficient change in Canada, in a manner that satisfies
+the definition specified under the <cite>North American Free Trade Agreement</cite> (NAFTA) Rules of Origin. For the purposes of this
+determination, the reference in the <abbr title="North American Free Trade Agreement">NAFTA</abbr> Rules of Origin to
+"territory", is to be replaced with "Canada". (Consult Annex 3.6(9)
+of the <cite>Supply Manual</cite>.)
+<p>For photocopiers, computers and office equipment within Federal
+Supply Classification (FSC) groups 36, 70 and 74, see paragraph
+6.(a)).</p></li>
+<li value="2"><strong>Canadian service</strong>: A service provided
+by an individual based in Canada is considered a Canadian service.
+Where a requirement consists of only one service, which is being
+provided by more than one individual, the service will be
+considered Canadian if a minimum of 80 percent of the total bid
+price for the service is provided by individuals based in
+Canada.</li>
+<li value="3"><strong>Variety of goods</strong>: When requirements
+consist of more than one good, one of the two methods below is
+applied:
+<ol type="a">
+<li value="1">aggregate evaluation: no less than 80 percent of the
+total bid price must consist of Canadian goods; or,</li>
+<li value="2">item by item evaluation: in some cases, the bid
+evaluation may be conducted on an item-by-item basis and contracts
+may be awarded to more than one supplier. In these cases, suppliers
+will be asked to identify separately each item that meets the
+definition of Canadian goods.</li>
+</ol>
+</li>
+<li value="4"><strong>Variety of services</strong>: For
+requirements consisting of more than one service, a minimum of 80
+percent of the total bid price must be provided by individuals
+based in Canada.</li>
+<li value="5"><strong>Mix of goods and services</strong>: When
+requirements consist of a mix of goods and services, no less than
+80 percent of the total bid price must consist of Canadian goods
+and services (as defined above).
+<p>For more information on how to determine the Canadian content
+for a mix of goods, a mix of services or a mix of goods and
+services, consult Annex 3.6.(9), Example 2, of the <cite>Supply Manual</cite>.</p></li>
+<li value="6"><strong>Other Canadian goods and services</strong>:
+<ol type="a">
+<li value="1">For photocopiers, computers and office equipment
+within <abbr title="Federal Supply Classification">FSC</abbr> groups 36, 70 and 74, only the products of the following
+firms are considered Canadian goods:
+<ol type="i">
+<li value="1">MERIT Partner under the MERIT Partnership Program (administered by Industry Canada [IC] and Public Works and Government Services Canada [PWGSC]);</li>
+<li value="2">Companies which, on March 31, 1992, were allocated to
+Priority Group 1 under the Priority Groups Policy in effect at that time; or</li>
+<li value="3">CIRCLE Canada companies as agreed on by <abbr title="Industry Canada">IC</abbr> and <abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</li>
+</ol></li>
+<li value="2">Textiles: Textiles are considered to be Canadian
+goods according to a modified rule of origin, copies of which are
+available from the Clothing and Textiles Division, Commercial and
+Consumer Products Directorate.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

@@ -1,0 +1,71 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the form
+  
+   PWGSC-TPSGC 1111
+  
+  is required to make progress or milestone payments and supporting documents must be submitted with the claim.
+ </p>
+<p>
+  See clause
+  
+   H3024C
+  
+  when no supporting document is required with the claim.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must submit a claim for payment using
+form PWGSC-TPSGC 1111, Claim for Progress Payment.
+
+<br/>Each claim must show:
+<ol type="a">
+<li value="1">all information required on form PWGSC-TPSGC 1111;</li>
+<li value="2">all applicable information detailed under the section
+entitled "Invoice Submission" of the general conditions;</li>
+</ol>
+<span class="description"><strong><em>Instruction to contracting officers:</em></strong>
+<em>Insert specific information that must be shown on the claim and
+is not covered under (a) and (b) above to reflect the requirement.
+The following are examples only</em>.</span>
+<ol type="a">
+<li value="3">a list of all expenses;</li>
+<li value="4">expenditures plus pro-rated profit or fee;</li>
+<li value="5">the description and value of the milestone claimed as
+detailed in the Contract.</li>
+</ol>
+<span class="description"><strong><em>Instruction to contracting officers:</em></strong>
+<em>Use the following paragraph when claims must be accompanied by
+supporting documents. The documents listed are examples only and
+must be revised to reflect the requirement</em>.</span>
+<br/>Each claim must be supported by:
+<ol type="a">
+<li value="1">a copy of time sheets to support the time
+claimed;</li>
+<li value="2">a copy of the invoices, receipts, vouchers for all
+direct expenses, travel and living expenses;</li>
+<li value="3">a copy of the monthly progress report.</li>
+</ol>
+</li>
+<li value="2">Applicable Taxes must be calculated on the total amount of
+the claim before the holdback is applied. At the time the holdback
+is claimed, there will be no Applicable Taxes payable as it was claimed and
+payable under the previous claims for progress payments.</li>
+<li value="3">The Contractor must prepare and certify one original
+and two (2) copies of the claim on form PWGSC-TPSGC 1111, and
+forward it to the <span class="input-required"><var>______</var>
+<kbd>(<em>insert "Project" or "Technical" or "Inspection"</em>)</kbd></span>
+Authority identified under the section entitled "Authorities" of
+the Contract for appropriate certification after inspection and
+acceptance of the Work takes place.
+<br/>The <span class="input-required"><var>______</var> <kbd>(<em>insert
+"Project" or "Technical" or "Inspection"</em>)</kbd></span> Authority
+will then forward the original and two (2) copies of the claim to
+the Contracting Authority for certification and onward submission
+to the Payment Office for the remaining certification and payment
+action.</li>
+<li value="4">The Contractor must not submit claims until all work
+identified in the claim is completed.</li>
+</ol>
+</div></pre>

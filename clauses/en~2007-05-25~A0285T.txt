@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in bid solicitations mainly for marine refit, repair 
+and new construction when registration with the Workers' Compensation Board is 
+mandatory under the applicable province or territorial jurisdiction.  The intent 
+of the clause is to help protect workers in high risk industry sectors. 
+
+Use clause A0285C in resulting contracts.
+
+Contracting officers may consult the following Human Resources and Social 
+Development Canada Website
+ 
+  http://www.hrsdc.gc.ca/asp/gateway.asp?hr=en/lp/lo/fwcs/boards.shtml&amp;hs=fxf
+ 
+ for 
+a list of the provincial and territorial workers compensation organization and 
+Website addresses.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Bidder must have an account in good standing with the
+applicable provincial or territorial Workers' Compensation
+Board.</p>
+<p>The Bidder must provide, within <span class="input-required"><var>_______</var> <kbd>(<i>insert number of
+days</i>)</kbd></span> days following a request from the Contracting
+Authority, a certificate or letter from the applicable Workers'
+Compensation Board confirming the Bidder's good standing account.
+Failure to comply with the request may result in the bid being
+declared non-responsive.</p>
+</div></pre>

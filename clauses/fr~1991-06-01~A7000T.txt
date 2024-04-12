@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entretien et les améliorations devront comprendre les éléments suivants : 
+
+       a) CORRECTIONS OU AJUSTEMENTS DE CODES : Apporter les corrections 
+       requises de codes pour supprimer les erreurs et les déficiences de 
+       produits, dans les limites des spécifications. Ces corrections 
+       doivent être apportées dans un délai raisonnable après la découverte 
+       des erreurs.
+
+       b) MISES A JOUR ET AMÉLIORATIONS DES PRODUITS : Fournir des produits 
+       d'amélioration nécessaires pour fonctionner selon les nouvelles 
+       versions des systèmes d'exploitation du fabricant d'ordinateurs et 
+       les améliorations du progiciel, qui ont trait au rendement 
+       opérationnel mais ne modifient pas la fonction de base du progiciel.
+
+       c) VERSION DU PRODUIT : Apporter aux produits initiaux des 
+       améliorations, des extensions et d'autres changements que 
+       l'Entrepreneur, à sa discrétion, considère comme logiques. 
+
+       d) SOUTIEN TECHNIQUE : Fournir une aide raisonnable en cas de 
+   difficultés causées par l'utilisation des produits, ou pour 
+   l'interprétation des résultats de l'utilisation des produits, dans la 
+   mesure où le permettent les communications postales et téléphoniques. Si 
+   une aide sur place s'impose et si le problème consiste en une 
+   défaillance du produit par rapport aux spécifications contenues dans le 
+   document courant de description du produit, la réparation sera gratuite.  
+   Si le problème est attribuable à d'autres causes, les tarifs standard 
+   pour ces services s'appliqueront. 
+</pre>

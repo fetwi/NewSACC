@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Insert the following clause in full text at the beginning of the bid 
+solicitation when the procurement is being set aside under the Land Claims 
+Set-Aside Policy. Ensure that the applicable trade agreement is identified in 
+the clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is set aside from ______ [<strong class="wsStyleUnderline">Insert applicable agreement(s)</strong>]: 
+
+       <em>the North American Free Trade Agreement (NAFTA), Annex 1001.2b, 
+       Article 1(d); </em><em></em>
+
+<em>       the World Trade Organization Agreement on Government Procurement 
+       (WTO-AGP), Appendix I, article 1(d); </em><em></em>
+
+<em>       the Canada-Korea Telecommunications Equipment Agreement (CKTEA), 
+       Article 1, part 5; and </em><em></em>
+
+<em>       the Agreement on Internal Trade (AIT), Article 1802.</em>
+
+</pre>

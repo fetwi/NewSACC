@@ -1,0 +1,227 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  As prescribed in
+  <abbr title="Federal Acquisition Regulation">
+   FAR
+  </abbr>
+  45.106(b)(3), substitute the following paragraphs (c) and (g) for paragraphs (c) and (g) of clause
+  
+   Z0801C
+  
+  if the contract is for the 
+conduct of basic applied research at non profit institutions of higher education 
+or at nonprofit organizations whose primary purpose is the conduct of scientific 
+research.
+ </p>
+<p>
+  Note: This clause may only be used in conjunction with clause
+  
+   Z0801C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p class="description">The following replaces paragraphs (c) and (g) of clause
+Z0801C.</p>
+<ol type="a">
+<li value="3">Title to Government property.
+<ol type="1">
+<li value="1">The <abbr title="United States">U.S.</abbr> Government shall retain title to all
+Government- furnished property.</li>
+<li value="2">All Government-furnished property and all property
+acquired by the Contractor, title to which vests in the <abbr title="United States">U.S.</abbr>
+Government under this paragraph (collectively referred to as
+"Government property"), are subject to the provisions of this
+clause. Title to Government property shall not be affected by its
+incorporation into or attachment to any property not owned by the
+Government, nor shall Government property become a fixture or lose
+its identity as personal property by being attached to any real
+property.</li>
+<li value="3">Title to each item of facilities, special test
+equipment, and special tooling (other than that subject to a
+special tooling clause) acquired by the Contractor for the <abbr title="United States">U.S.</abbr>
+Government under this Contract shall pass to and vest in the <abbr title="United States">U.S.</abbr>
+Government when its use in performing this Contract commences, or
+when the <abbr title="United States">U.S.</abbr> Government has paid for it, whichever is earlier,
+whether or not title previously vested in the <abbr title="United States">U.S.</abbr> Government.</li>
+<li value="4">Title to equipment (and other tangible personal
+property) purchased with funds available for research and having an
+acquisition cost of less than $5,000 shall vest in the Contractor
+upon acquisition or as soon thereafter as feasible, provided that
+the Contractor obtained the Contracting Officer's approval before
+each acquisition. Title to equipment purchased with funds available
+for research and having an acquisition cost of $5,000 or more shall
+vest as set forth in the Contract. If title to equipment vests in
+the Contractor under this subparagraph (c)4., the Contractor agrees
+that no charge will be made to <abbr title="Canadian Commercial Corporation">CCC</abbr> or the <abbr title="United States">U.S.</abbr> Government for any
+depreciation, amortization, or use under any existing or future
+Contract or subcontract thereunder. The Contractor shall furnish
+the Contracting Officer a list of all equipment to which title is
+vested in the Contractor under this subparagraph (c)4. within ten
+(10) days following the end of the calendar quarter during which it
+was received.</li>
+<li value="5">Vesting title under this paragraph (c) is subject to
+civil rights legislation, 42 <abbr title="United States Code">U.S.C.</abbr> 2000d. Before title is vested
+and by signing this Contract, the Contractor accepts and agrees
+that:
+<blockquote>"No person in the United States shall, on the ground of
+race, colour, or national origin, be excluded from participation
+in, be denied the benefits of, or be otherwise subjected to
+discrimination under this contemplated financial assistance (title
+to equipment)."</blockquote></li>
+</ol>
+</li>
+<li value="7">Limited risk of loss.
+<ol type="1">
+<li value="1">The term "<dfn>Contractor's managerial personnel</dfn>", as used
+in this paragraph (g), means the Contractor's directors, officers,
+and any of the Contractor's managers, superintendents, or
+equivalent representatives who have supervision or direction of:
+<ol type="i">
+<li value="1">all or substantially all of the Contractor's
+business;</li>
+<li value="2">all or substantially all of the Contractor's operation at
+any one plant, laboratory, or separate location at which the
+Contract is being performed; or</li>
+<li value="3">a separate and complete major industrial operation
+connected with performing this Contract.</li>
+</ol>
+</li>
+<li value="2">The Contractor shall not be liable for loss or
+destruction of, or damage to, the Government property provided
+under this Contract (or, if an educational or nonprofit
+organization, for expenses incidental to such loss, destruction, or
+damage), except as provided in subparagraphs 3. and 4. below.</li>
+<li value="3">The Contractor shall be responsible for loss or
+destruction of, or damage to, the Government property provided
+under this Contract (including expenses incidental to such loss,
+destruction, or damage):
+<ol type="i">
+<li value="1">that results from a risk expressly required to be
+insured under this Contract, but only to the extent of the
+insurance required to be purchased and maintained, or to the extent
+of insurance actually purchased and maintained, whichever is
+greater;</li>
+<li value="2">that results from a risk which is in fact covered by
+insurance or for which the Contractor is otherwise reimbursed, but
+only to the extent of such insurance or reimbursement;</li>
+<li value="3">for which the Contractor is otherwise responsible under
+the express terms of this Contract;</li>
+<li value="4">that results from wilful misconduct or lack of good faith
+on the part of the Contractor's managerial personnel; or</li>
+<li value="5">that results from a failure on the part of the
+Contractor, due to wilful misconduct or lack of good faith on the
+part of the Contractor's managerial personnel, to establish and
+administer a program or system for the control, use, protection,
+preservation, maintenance, and repair of Government property as
+required by paragraph (e) of clause Z0801C.</li>
+</ol>
+</li>
+<li value="4">
+<ol type="i">
+<li value="1">If the Contractor fails to act as provided in
+subdivision (g)3.(v) above, after being notified (by certified mail
+addressed to one of the Contractor's managerial personnel) of <abbr title="Canadian Commercial Corporation">CCC</abbr>
+or the <abbr title="United States">U.S.</abbr> Government's disapproval, withdrawal of approval, or
+nonacceptance of the system or program, it shall be conclusively
+presumed that such failure was due to wilful misconduct or lack of
+good faith on the part of the Contractor's managerial
+personnel.</li>
+<li value="2">Furthermore, any loss or destruction of, or damage to, the
+Government property shall be presumed to have resulted from such
+failure, unless the Contractor can establish by clear and
+convincing evidence that such loss, destruction, or damage:
+<ol type="A">
+<li value="1">did not result from the Contractor's failure to maintain an
+approved program or system; or</li>
+<li value="2">occurred while an approved program or system was maintained
+by the Contractor.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="5">If the Contractor transfers Government property to
+the possession and control of a subcontractor, the transfer shall
+not affect the liability of the Contractor for loss or destruction
+of, or damage to, the property as set forth above. However, the
+Contractor shall require the subcontractor to assume the risk of,
+and be responsible for, any loss or destruction of, or damage to,
+the property while in the subcontractor's possession or control,
+except to the extent that the subcontract, with the advance
+approval of the Contracting Officer, relieves the subcontractor
+from such liability. In the absence of such approval, the
+subcontract shall contain appropriate provisions requiring the
+return of all Government property in as good condition as when
+received, except for reasonable wear and tear or for its use in
+accordance with the provisions of the prime Contract.</li>
+<li value="6">Upon loss or destruction of, or damage to, Government
+property provided under this Contract, the Contractor shall so
+notify the Contracting Officer and shall communicate with the loss
+and salvage organization, if any, designated by the Contracting
+Officer. With the assistance of any such organization, the
+Contractor shall take all reasonable action to protect the
+Government property from further damage, separate the damaged and
+undamaged Government property, put all the affected Government
+property in the best possible order, and furnish to the Contracting
+Officer a statement of:
+<ol type="i">
+<li value="1">the lost, destroyed, or damaged Government
+property;</li>
+<li value="2">the time and origin of the loss, destruction, or
+damage;</li>
+<li value="3">all known interests in commingled property of which the
+Government property is a part; and</li>
+<li value="4">the insurance, if any, covering any part of or interest in
+such commingled property.</li>
+</ol>
+</li>
+<li value="7">The Contractor shall repair, renovate, and take such
+other action with respect to damaged Government property as the
+Contracting Officer directs. If the Government property is
+destroyed or damaged beyond practical repair, or is damaged and so
+commingled or combined with property of others (including the
+Contractor's) that separation is impractical, the Contractor may,
+with the approval of and subject to any conditions imposed by the
+Contracting Officer, sell such property for the account of the
+Government. Such sales may be made in order to minimize the loss to
+the Government, to permit the resumption of business, or to
+accomplish a similar purpose. The Contractor shall be entitled to
+an equitable adjustment in the Contract Price for the expenditures
+made in performing the obligations under this subparagraph (g)7. in
+accordance with paragraph (h) of clause Z0801C. However, the Government may directly
+reimburse the loss and salvage organization for any of their
+charges. The Contracting Officer shall give due regard to the
+Contractor's liability under this paragraph (g) when making any
+such equitable adjustment.</li>
+<li value="8">The Contractor represents that it is not including in
+the price, and agrees it will not hereafter include in any price to
+<abbr title="Canadian Commercial Corporation">CCC</abbr>, any charge or reserve for insurance (including any
+self-insurance fund or reserve) covering loss or destruction of, or
+damage to, Government property, except to the extent that <abbr title="Canadian Commercial Corporation">CCC</abbr> may
+have expressly required the Contractor to carry such insurance
+under another provision of this Contract.</li>
+<li value="9">In the event the Contractor is reimbursed or
+otherwise compensated for any loss or destruction of, or damage to,
+the Government property, the Contractor shall use the proceeds to
+repair, renovate, or replace the lost, destroyed, or damaged
+Government property or shall otherwise credit the proceeds to or
+equitably reimburse <abbr title="Canadian Commercial Corporation">CCC</abbr> or the Government, as directed by the
+Contracting Officer.</li>
+<li value="10">The Contractor shall do nothing to prejudice <abbr title="Canadian Commercial Corporation">CCC</abbr>'s
+or the <abbr title="United States">U.S.</abbr> Government's rights to recover against third parties
+for any loss or destruction of, or damage to, Government property.
+Upon the request of the Contracting Officer, the Contractor shall,
+at the expense of <abbr title="Canadian Commercial Corporation">CCC</abbr> or the <abbr title="United States">U.S.</abbr> Government, furnish to that party
+all reasonable assistance and cooperation (including the
+prosecution of suit and the execution of instruments of assignment
+in favour of that party) in obtaining recovery. In addition, where
+a subcontractor has not been relieved from liability for any loss
+or destruction of, or damage to, Government property, the
+Contractor shall enforce for the benefit of the Government the
+liability of the subcontractor for such loss, destruction, or
+damage.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

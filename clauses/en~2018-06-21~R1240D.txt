@@ -1,0 +1,69 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-06-21R1240Dtaking-the-services-out-of-the-consultants-hands">GC7.1 Taking the Services Out of the Consultant's Hands</a></li>
+<li><a href="#2018-06-21R1240Dsuspension">GC7.2 Suspension</a></li>
+<li><a href="#2018-06-21R1240Dtermination">GC7.3 Termination</a></li>
+</ul>
+</div>
+<h2 id="2018-06-21R1240Dtaking-the-services-out-of-the-consultants-hands"><span class="clauseRef">R1240D</span> GC7.1 (2011-05-16) Taking
+the Services Out of the Consultant's Hands</h2>
+<ol type="1">
+<li value="1">Canada may take all or any part of the Services out
+of the Consultant's hands and may employ reasonable means necessary
+to complete such Services in the event that:
+<ol type="a">
+<li value="1">the Consultant has become insolvent or has committed
+an act of bankruptcy, and has neither made a proposal to the
+Consultant's creditors nor filed a notice of intention to make such
+a proposal, pursuant to the <cite>Bankruptcy and Insolvency Act</cite>, or</li>
+<li value="2">the Consultant fails to perform any of the
+Consultant's obligations under the Agreement or, in Canada's
+opinion, so fails to make progress as to endanger performance of
+the Agreement, in accordance with its terms.</li>
+</ol>
+</li>
+<li value="2">If the Consultant has become insolvent or has
+committed an act of bankruptcy, and has either made a proposal to
+the Consultant's creditors or filed a notice of intention to make
+such a proposal, pursuant to the <cite>Bankruptcy and Insolvency Act</cite>, the
+Consultant must immediately forward a copy of the proposal or the
+notice of intention to the Contracting Authority.</li>
+<li value="3">Before the Services or any part thereof are taken out
+of the Consultant's hands under paragraph 1.(b), the Departmental
+Representative will provide notice to the Consultant, and may
+require such failure of performance or progress to be corrected. If
+within fourteen (14) days after receipt of notice the default is
+not corrected or corrective action is not initiated to correct such
+fault, Canada may, by notice, without limiting any other right or
+remedy, take all or any part of the Services out of the
+Consultant's hands.</li>
+<li value="4">If the Services or any part thereof have been taken
+out of the Consultant's hands, the Consultant will be liable for,
+and upon demand pay to Canada, an amount equal to all loss and
+damage suffered by Canada by reason of the non-completion of the
+Services by the Consultant.</li>
+<li value="5">If the Consultant fails to pay on demand for the loss
+or damage as a result of subsection 4, Canada will be entitled to
+deduct and withhold the same from any payments due and payable to
+the Consultant.</li>
+<li value="6">The taking of the Services, or any part thereof, out
+of the Consultant's hands does not relieve or discharge the
+Consultant from any obligation under the Agreement, or imposed upon
+the Consultant by law, in respect to the Services or any part
+thereof that the Consultant has performed.</li>
+</ol>
+<h2 id="2018-06-21R1240Dsuspension"><span class="clauseRef">R1240D</span> GC7.2 (2018-06-21)
+Suspension</h2>
+<ol type="1">
+<li value="1">Canada may, in Canada’s sole and absolute discretion suspend the Services being provided, or any part thereof, for a specified or unspecified period by giving notice of suspension in writing to the Consultant.  The Consultant shall not be entitled to be paid any amount whatsoever for a suspension, other than such amount, if any, payable to the Consultant in accordance with Suspension Costs provisions in GC 5.10.</li>
+<li value="2">If a period of suspension does not exceed sixty (60) days and when taken together with other periods of suspension does not exceed ninety (90) days, the Consultant shall, upon the expiration of that period, resume the performance of the Services in accordance with the terms of the Agreement.</li>
+<li value="3">If a period of suspension exceeds sixty (60) days, or when taken together with other periods of suspension the total exceeds ninety (90) days, Canada and the Consultant may agree that the performance of the Services shall be continued by the Consultant, and the Consultant shall resume performance of the Services, subject only to such terms and conditions agreed upon by Canada and the Consultant in writing.<br/>If Canada and the Consultant do not agree that performance of the Services shall be continued by the Consultant, or upon the terms and conditions under which the Consultant shall continue the Services, the notice of suspension shall be deemed to be a notice of termination in accordance with the terms of GC 7.3.  For clarity, Termination Costs in GC5.11 shall be without duplication of Suspension Costs provisions in GC 5.10. </li>
+</ol>
+<h2 id="2018-06-21R1240Dtermination"><span class="clauseRef">R1240D</span> GC7.3 (2018-06-21)
+Termination</h2>
+<p>Canada may, in Canada’s sole and absolute discretion, terminate the Agreement at any time by giving notice of termination in writing to the Consultant.  The Consultant shall not be paid any amount whatsoever for a termination, other than such amount, if any, payable to the Consultant in accordance with the Termination Costs provisions in GC5.11.</p>
+</div></pre>

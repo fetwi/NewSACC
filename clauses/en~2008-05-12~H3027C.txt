@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the successful bidder indicated in 
+its bid that payment of invoices by Government of Canada Acquisition Card 
+(credit card) will be accepted, and clause H3027T was included in the bid 
+solicitation.
+
+Refer to Supply Manual procedure 7A.042.
+
+Contracting officers must indicate below the name of credit card(s) accepted by 
+the bidder as specified in its bid, e.g. Visa, Master Card.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The credit card <span class="wsStyleUnderline">                    </span> is accepted.
+
+<strong><em>OR</em></strong>
+
+The credit cards <span class="wsStyleUnderline">                   </span> and <span class="wsStyleUnderline">                </span> are accepted.
+
+
+
+</pre>

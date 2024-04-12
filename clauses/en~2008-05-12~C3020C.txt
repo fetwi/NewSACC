@@ -1,0 +1,48 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in firm price contracts subject to exchange rate 
+fluctuation adjustment when the goods, services or both include a foreign 
+currency component and the method of payment provides for milestone payments.  
+Refer to Supply Manual procedures 7E.574 and 11.007.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The price in Canadian currency includes the foreign currency 
+       component in respect of goods, services or both originating outside 
+       Canada, as detailed on form PWGSC-TPSGC 9411, Claim for Exchange 
+       Rate Adjustments (http://www.pwgsc.gc.ca/acquisitions/text/forms/
+       forms-e.html), in Annex ______.  In the event that one or more of 
+       the milestones involve a foreign currency component that becomes due 
+       and payable on that particular milestone, a separate form 
+       PWGSC-TPSGC 9411 must accompany the invoice for each applicable 
+       milestone.
+
+2.     When a milestone payable includes the importation of goods, services 
+       or both into Canada, the exchange rate used to calculate the 
+       adjustment will be the rate applied by Canada Border Services Agency 
+       (CBSA) on the date of importation.  For a milestone that does not 
+       involve the importation of goods, services or both, but still 
+       includes a foreign currency component, the exchange rate used to 
+       calculate the adjustment will be the Bank of Canada exchange rate in 
+       effect at noon, on the date when the milestone became due and 
+       payable.
+
+3.     No price adjustment directly resulting from the application of the 
+       provisions contained in this clause will be applied for increases or 
+       decreases in the exchange rate within a variation of: plus or minus 
+       2 percent of the exchange rate(s) mentioned above; or plus or minus $100 
+       of the total cumulative amount claimed for exchange rate adjustment 
+       under the Contract.
+
+4.     On each invoice or claim for milestone payment submitted under the 
+       Contract, the Contractor must indicate the exchange rate adjustment 
+       amount (either upward, downward or no change) as a separate item.  
+       In the event of delivery, the invoice or claim for milestone payment 
+       must be accompanied by a copy of CBSA Form B3-3, Canada Customs 
+       Coding Form.  When the goods, services or both have not been 
+       imported, the Contractor must provide evidence, satisfactory to 
+       Canada, that the amount claimed is due and payable in foreign 
+       currency by the Contractor.
+
+5.     Canada will have the right to audit any revision to costs and prices 
+under this clause.
+
+
+</pre>

@@ -1,0 +1,106 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when insurance requirements are specifically described 
+in the contract (except when using
+  
+   G2030C
+  
+  ,
+  
+   G4001C
+  
+  or
+  
+   G5003C
+  
+  ).
+ </p>
+<p>
+  Whenever the liabilities of Canada and the contractor with respect to the 
+contract are difficult to separate, contracting officers must replace paragraph 
+2.(a) by the following option:
+ </p>
+<p>
+  "Additional Named Insured: Canada is added as an additional named insured, but 
+only with respect to liability arising out of the performance of the Contract."
+ </p>
+<p>
+  Contracting officers must choose options (l), (m), (n), (o), (p), (q) and/or (r) 
+in paragraph 2 when applicable to their specific contract.
+ </p>
+<p>
+  Contracting officers must consult
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  if the suggested limit of $2,000,000 per accident or occurrence is not considered adequate.
+ </p>
+<p>
+  Construction Contracts: For the majority of construction contracts, the 
+Contractor's Commercial General Liability policy is sufficient to protect the 
+interests of Canada.  If a large, multi-million dollar project involving many 
+contractors and subcontractors is being planned, then a separate Wrap-Up 
+Liability policy should be arranged specific to the project. Clauses pertaining 
+to wrap-up liability should be drafted at that time and will be specific to the 
+project.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Commercial General Liability Insurance, and maintain it in force throughout the duration of the Contract, in an amount usual for a contract of this nature, but for not less than $2,000,000 per accident or occurrence and in the annual aggregate.</li>
+<li value="2">The Commercial General Liability policy must include the following:
+            <ol type="a">
+<li value="1">Additional Insured: Canada is added as an additional insured, but only with respect to liability arising out of the Contractor's performance of the Contract. The interest of Canada should read as follows: Canada, as represented by Public Works and Government Services Canada.</li>
+<li value="2">Bodily Injury and Property Damage to third parties arising out of the operations of the Contractor.</li>
+<li value="3">Products and Completed Operations: Coverage for bodily injury or property damage arising out of goods or products manufactured, sold, handled, or distributed by the Contractor and/or arising out of operations that have been completed by the Contractor.
+                </li>
+<li value="4">Personal Injury: While not limited to, the coverage must include Violation of Privacy, Libel and Slander, False Arrest, Detention or Imprisonment and Defamation of Character.</li>
+<li value="5">Cross Liability/Separation of Insureds: Without increasing the limit of liability, the policy must protect all insured parties to the full extent of coverage provided. Further, the policy must apply to each Insured in the same manner and to the same extent as if a separate policy had been issued to each.</li>
+<li value="6">Blanket Contractual Liability: The policy must, on a blanket basis or by specific reference to the Contract, extend to assumed liabilities with respect to contractual provisions.</li>
+<li value="7">Employees and, if applicable, Volunteers must be included as Additional Insured.</li>
+<li value="8">Employers' Liability (or confirmation that all employees are covered by Worker's compensation (WSIB) or similar program)
+                </li>
+<li value="9">Broad Form Property Damage including Completed Operations: Expands the Property Damage coverage to include certain losses that would otherwise be excluded by the standard care, custody or control exclusion found in a standard policy.</li>
+<li value="10">Notice of Cancellation: The  Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="11">If the policy is written on a claims-made basis, coverage must be in place for a period of at least 12 months after the completion or termination of the Contract.</li>
+</ol>
+<span class="description">(<strong><em>Contracting officers must insert the applicable
+options below and renumber accordingly</em></strong>.)</span>
+<ol type="a">
+<li value="12">Owners' or Contractors' Protective Liability: Covers the damages that the Contractor becomes legally obligated to pay arising out of the operations of a subcontractor.</li>
+<li value="13">Non-Owned Automobile Liability - Coverage for suits against the Contractor resulting from the use of hired or non-owned vehicles.
+                </li>
+<li value="14">Advertising Injury: While not limited to, the endorsement must include coverage piracy or misappropriation of ideas, or infringement of copyright, trademark, title or slogan.
+                </li>
+<li value="15">All Risks Tenants Legal Liability - to protect the Contractor for liabilities arising out of its occupancy of leased premises.
+                </li>
+<li value="16">Amendment to the Watercraft Exclusion to extend to incidental repair operations on board watercraft.</li>
+<li value="17">Sudden and Accidental Pollution Liability (minimum 120 hours): To protect the Contractor for liabilities arising from damages caused by accidental pollution incidents.</li>
+<li value="18">Litigation Rights: Pursuant to subsection 5(d) of the
+                    Department of Justice Act, 
+                    <abbr title="Statutes of Canada">S.C.</abbr> 1993,
+                    <abbr title="chapter">c.</abbr> J-2, s.1, if a suit is instituted for or against Canada which the Insurer would, but for this clause, have the right to pursue or defend on behalf of Canada as an Additional Named Insured under the insurance policy, the Insurer must promptly contact the Attorney General of Canada to agree on the legal strategies by sending a letter, by registered mail or by courier, with an acknowledgement of receipt.
+                    <br/><strong>For the province of Quebec, send to:</strong>
+<br/>
+<address>Director Business Law Directorate,
+                        <br/>Quebec Regional Office (Ottawa),
+                        <br/>Department of Justice,
+                        <br/>284 Wellington Street, Room SAT-6042,
+                        <br/>Ottawa, Ontario, K1A 0H8</address>
+<br/><strong>For other provinces and territories, send to:</strong>
+<br/>
+<address>Senior General Counsel,
+                        <br/>Civil Litigation Section,
+                        <br/>Department of Justice
+                        <br/>234 Wellington Street, East Tower
+                        <br/>Ottawa, Ontario K1A 0H8</address>
+<br/>A copy of the letter must be sent to the Contracting Authority. Canada reserves the right to co-defend any action brought against Canada. All expenses incurred by Canada to co-defend such actions will be at Canada's expense. If Canada decides to co-defend any action brought against it, and Canada does not agree to a proposed settlement agreed to by the Contractor's insurer and the plaintiff(s) that would result in the settlement or dismissal of the action against Canada, then Canada will be responsible to the Contractor's insurer for any difference between the proposed settlement amount and the amount finally awarded or paid to the plaintiffs (inclusive of costs and interest) on behalf of Canada.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>

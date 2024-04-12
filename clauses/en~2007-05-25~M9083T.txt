@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for standing offers when an offerors' 
+conference will be held.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>An offerors' conference will be held at <span class="input-required"><var>________</var> <kbd>(<em>insert
+address</em>)</kbd></span> on <span class="input-required"><var>________</var> <kbd>(<em>insert date</em>)</kbd></span>.
+The conference will begin at <span class="input-required"><var>________</var> <kbd>(<em>insert time</em>)</kbd></span>,
+in <span class="input-required"><var>________</var> <kbd>(<em>insert
+location/room number</em>)</kbd></span>. The scope of the requirement
+outlined in the Request for Standing Offers (RFSO) will be reviewed
+during the conference and questions will be answered. It is
+recommended that offerors who intend to submit an offer attend or
+send a representative.</p>
+<p>Offerors are requested to communicate with the Standing Offer
+Authority before the conference to confirm attendance. Offerors
+should provide, in writing, to the Standing Offer Authority, the
+name of the person(s) who will be attending and a list of issues
+they wish to table at least <var>_____</var> working days before
+the scheduled conference.</p>
+<p>Any clarifications or changes to the <abbr title="Request for Standing Offer">RFSO</abbr> resulting from the
+offerors' conference will be included as an amendment to the <abbr title="Request for Standing Offer">RFSO</abbr>.
+Offerors who do not attend will not be precluded from submitting an
+offer.</p>
+</div></pre>

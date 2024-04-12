@@ -1,0 +1,38 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in firm price contracts subject to exchange rate 
+fluctuation adjustment when the goods, services or both include a foreign 
+currency component and the method of payment provides for  payment on delivery.  
+Refer to Supply Manual procedures 7E.574 and 11.007.
+
+Use this clause in conjunction with H1000C or H1001C, as applicable.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The price in Canadian currency includes the foreign currency 
+       component in respect of goods,  services or both originating outside 
+       Canada, as detailed in Annex _____ of form PWGSC-TPSGC 9411, Claim 
+       for Exchange Rate Adjustments (http://www.pwgsc.gc.ca/acquisitions/
+       text/forms/forms-e.html).
+
+2.     The price must be adjusted to reflect the exchange rate in effect 
+       and applied by Canada Border Services Agency (CBSA) on the date of 
+       importation, but only in respect of the foreign currency component 
+       detailed in the above form.
+
+3.     No price adjustment directly resulting from the application of the 
+       provisions contained in this clause will be applied for increases or 
+       decreases in the exchange rate within a variation of: plus or minus 
+       2 percent of the exchange rate(s) mentioned above; or plus or minus $100 
+       of the total cumulative amount claimed for exchange rate adjustment 
+       under the Contract.
+
+4.     On each invoice or claim for payment submitted under the Contract, 
+       the Contractor must indicate the exchange rate adjustment amount 
+       (either upward, downward or no change) as a separate item.  In 
+       addition, the invoice must be accompanied by a copy of CBSA Form B3-
+       3, Canada Customs Coding Form, for the imported goods, services or 
+       both.
+
+5.     Canada will have the right to audit any revision to costs and prices 
+under this clause.
+
+
+</pre>

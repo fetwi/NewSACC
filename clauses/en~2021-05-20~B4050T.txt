@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for the Department of National Defence when an Interim Spares List is required.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   B4050C
+  
+  ,
+  
+   B4060C
+  
+  and
+  
+   B4061C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Bidders must quote the cost of an Interim Spares List (ISL) in their bid, and the list must indicate the approximate number of line items.</p>
+</div></pre>

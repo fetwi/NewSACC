@@ -1,0 +1,111 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for supply arrangements when a financial 
+opinion is required. If the required information must be received either before 
+or after the number of days indicated in the clause, the supply arrangement 
+authority may modify the clause accordingly.
+ </p>
+<p>
+  Supply arrangement authorities must consult with the Cost and Price Analysis 
+Group of the Policy, Risk, Integrity and Strategic Management Sector, during the 
+evaluation of arrangements to determine what financial information may be 
+required from the supplier(s).
+ </p>
+<p>
+  Supply arrangement authorities should note that since the statement of work or 
+requirement cannot be adequately defined in advance, only a preliminary review 
+of the supplier's financial viability will be conducted for the sole purpose of 
+pre-qualifying suppliers for supply arrangements. A complete review of the 
+bidder's financial capability may be required for subsequent requirements issued 
+under the supply arrangement, therefore, supply arrangement authorities must 
+include clause
+  
+   A9033T
+  
+  in all bid solicitation documents.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><strong>Financial Viability Requirement</strong>: The
+Supplier must be financially viable to enter into this Supply
+Arrangement. To determine the Supplier's financial viability, the
+Supply Arrangement Authority may, by written notice to the
+Supplier, require the submission of some or all of the financial
+information detailed below during the evaluation of arrangements.
+The Supplier must provide the following information to the Supply
+Arrangement Authority within fifteen (15) working days of the
+request or as specified by the Supply Arrangement Authority in the
+notice:
+<ol type="a">
+<li value="1">Audited financial statements, if available, or the
+unaudited financial statements (prepared by the Supplier's outside
+accounting firm, if available, or prepared in-house if no external
+statements have been prepared) for the Supplier's last three fiscal
+years, or for the years that the Supplier has been in business if
+this is less than three years (including, as a minimum, the Balance
+Sheet, the Statement of Retained Earnings, the Income Statement and
+any notes to the statements).</li>
+<li value="2">If the date of the financial statements in (a) above
+is more than five months before the date of the request for
+information by the Supply Arrangement Authority, the Supplier must
+also provide, unless this is prohibited by legislation for public
+companies, the last quarterly financial statements (consisting of a
+Balance Sheet and a year-to-date Income Statement), as of two
+months before the date on which the Supply Arrangement Authority
+requests this information.</li>
+<li value="3">If the Supplier has not been in business for at least
+one full fiscal year, the following must be provided:
+<ol type="i">
+<li value="1">the opening Balance Sheet on commencement of business
+(in the case of a corporation, the date of incorporation); and</li>
+<li value="2">the last quarterly financial statements (consisting of a
+Balance Sheet and a year-to-date Income Statement) as of two months
+before the date on which the Supply Arrangement Authority requests
+this information.</li>
+<li value="4">A certification from the Chief Financial Officer or
+an authorized signing officer of the Supplier that the financial
+information provided is complete and accurate.</li>
+</ol>
+</li>
+</ol></li>
+<li value="2">If the Supplier is a joint venture, the financial
+information required by the Supply Arrangement Authority must be
+provided by each member of the joint venture.</li>
+<li value="3">If the Supplier is a subsidiary of another company,
+then any financial information in 1. (a) to (d) above required by
+the Supply Arrangement Authority must be provided by the ultimate
+parent company.</li>
+<li value="4"><strong>Financial Information Already Provided to
+Public Works and Government Services Canada (PWGSC)</strong>: The
+Supplier is not required to resubmit any financial information
+requested by the Supply Arrangement Authority that is already on
+file at <abbr title="Public Works and Government Services Canada">PWGSC</abbr> with the Contract Cost Analysis, Audit and Policy
+Directorate of the Policy, Risk, Integrity and Strategic Management
+Sector, provided that within the above-noted time frame:
+<ol type="a">
+<li value="1">the Supplier identifies to the Supply Arrangement
+Authority in writing the specific information that is on file and
+the requirement for which this information was provided; and</li>
+<li value="2">the Supplier authorizes the use of the information
+for this requirement.</li>
+</ol>
+
+It is the Supplier's responsibility to confirm with the Supply
+Arrangement Authority that this information is still on file with
+<abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</li>
+<li value="5"><strong>Other Information</strong>: Canada reserves
+the right to request from the Supplier any other information that
+Canada requires to conduct a complete financial capability
+assessment of the Supplier. The Supplier also understands that a
+complete financial capability review of the Supplier may also be
+conducted at the time individual bid solicitations are issued under
+the supply arrangement.</li>
+<li value="6"><strong>Confidentiality</strong>: If the Supplier
+provides the information required above to Canada in confidence
+while indicating that the disclosed information is confidential,
+then Canada will treat the information in a confidential manner as
+permitted by the <cite>Access to Information Act</cite>, <abbr title="Revised Statutes">R.S.</abbr>,
+1985, <abbr title="chapter">c.</abbr> A-1, Section 20(1) (b) and (c).</li>
+</ol>
+</div></pre>

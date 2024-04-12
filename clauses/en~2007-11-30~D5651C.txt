@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for ship refits when acceptance of ships 
+and vessels is subject to procedures.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The acceptance of ships and vessels must be in accordance with
+the procedures of <cite><abbr title="Canadian Forces Technical Order">CFTO</abbr> C-03-005-012/AM-001</cite>, Part 13, using form <cite><abbr title="Canadian Forces">CF</abbr>
+1148</cite>, Report of Inspection of (SHIP) and, as applicable, form <cite><abbr title="Canadian Forces">CF</abbr>
+702</cite>, Acceptance of (SHIP) into the Canadian Forces.</p>
+</div></pre>

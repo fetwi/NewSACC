@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when there is no technical evaluation criteria in the 
+request for standing offers and the basis of selection will be the responsive 
+offer with the lowest evaluated price.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>An offer must comply with the requirements of the Request for
+Standing Offers to be declared responsive. The responsive offer
+with the lowest evaluated price will be recommended for issuance of
+a standing offer.</p>
+</div></pre>

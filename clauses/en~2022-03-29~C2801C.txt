@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in Canadian defence contracts awarded to Canadian-based contractors who may obtain material from United States (U.S.) suppliers, for the provision of goods to be used directly in Canadian defence activities.
+ </p>
+<p>
+  Note: A threshold of US$50,000 is included in the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  Defence Priorities and Allocations System regulations (15 CFR Part 700.17) where it is stated that for contracts under this value, a priority rating is not required, "provided that 
+delivery can be obtained in a timely fashion without the use of the priority rating."
+ </p>
+<p>
+  For more information on the application of a priority rating, consult section
+  
+   3.190
+  
+  Defence Priorities and Allocations System of the Supply Manual.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contract concerns a Canadian defence requirement and therefore is eligible to be assigned a "United States Priority Rating" for any materials/services imported from the United States which may be required in the performance of the Work. Accordingly, the Contractor must:
+            <ol type="a">
+<li value="1">make an application to the Defence Priorities and Allocations Officer, Public Works and Government Services Canada
+                    (PWGSC), by email at: 
+                        TPSGC.PAPrioritesdedefense-APDefencePriorities.PWGSC@tpsgc-pwgsc.gc.ca</li>
+<li value="2">include this clause in subcontracts with Canadian-based contractors, and quote the <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Contract Number indicated in the Contract.</li>
+</ol>
+</li>
+<li value="2">Failure to comply with the above may impact on the Contractor's delivery commitments. Therefore, the Contractor is responsible for any breach of the Contract that arises from such a failure.</li>
+</ol>
+</div></pre>

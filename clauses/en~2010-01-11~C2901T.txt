@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for goods when price(s) must not 
+contain any element representing refundable duties and/or taxes paid on the 
+import of materials, parts and components incorporated in the goods that are 
+subsequently exported from Canada.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   C2001C
+  
+  .
+ </p>
+<p>
+  For more information, consult
+  
+   Annex 4.3
+  
+  (6) of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The goods to be purchased under the Contract are for export. The
+Bidder certifies that the price(s) quoted in its bid do not contain
+any element representing refundable duties and/or taxes paid on the
+import of materials, parts and components incorporated in the
+goods.</p>
+</div></pre>

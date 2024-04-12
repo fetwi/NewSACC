@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for services when Canada wants to reserve the right to terminate the contract on thirty (30) days notice without paying 
+termination costs, if applicable.
+ </p>
+<p>
+  Do not use this clause:
+ </p>
+<ol type="a">
+<li>
+   when the work is to be performed on an as and when requested basis; and
+  </li>
+<li>
+   when clause
+   
+    B9030C
+   
+   is used.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Canada reserves the right to terminate the Contract at any time in whole or in part by giving thirty (30) calendar days written notice to the Contractor.</li>
+<li value="2">In the event of such termination, Canada will only pay for costs incurred for services rendered and accepted by Canada up to the date of the termination. Despite any other provision of the Contract, there will be no other costs that will be paid to the Contractor as a result of the termination.</li>
+</ol>
+</div></pre>

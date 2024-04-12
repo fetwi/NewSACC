@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts with phased delivery, if applicable.  The 
+term "calendar days" may be replaced by "weeks" or "months", as appropriate, and 
+"by week" may be replaced by "by day" or "by  month", as appropriate.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The first delivery must be made within _____ calendar days from the 
+effective date of the Contract.  The quantity delivered must be _____.  The 
+balance must be delivered at the rate of _____ by week after the first 
+delivery until completion.
+
+
+</pre>

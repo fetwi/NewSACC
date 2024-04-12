@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause only where the Contractor is to own the foreground 
+information and where either supplemental general conditions 9601-6 or general 
+conditions 9624 form part of the Contract.
+
+Add the following clause where the Contractor is to be required to keep 
+foreground information confidential for a specific period of time following 
+completion of the Contract.  This clause would be suitable where the client 
+department wishes to give the intellectual property rights to the Contractor but 
+wishes to prevent publishing and to restrict disclosure of that information for 
+a period of time for security or other reasons.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor, during the performance of the Contract and for a period of _____ 
+months thereafter, shall keep confidential and shall not publish or 
+otherwise disclose to any person any Foreground Information, except as may 
+be necessary to carry out the Work under the Contract in which case the 
+Contractor shall impose the same obligation of confidentiality on any 
+person to whom the information is disclosed.  The foregoing obligation does 
+not apply to any Foreground Information where the same information is 
+publicly available form a source other than Canada.
+
+</pre>

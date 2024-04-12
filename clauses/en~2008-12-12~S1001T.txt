@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when the request for supply arrangements contains 
+mandatory technical evaluation criteria and the basis of selection will be the 
+responsive arrangements meeting all mandatory technical and financial evaluation 
+criteria.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>An arrangement must comply with the requirements of the Request
+for Supply Arrangements and meet all mandatory technical evaluation
+criteria and financial evaluation criteria to be declared
+responsive.</p>
+</div></pre>

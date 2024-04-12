@@ -1,0 +1,68 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in conjunction with clause G2030D and refer to clause 
+G2035D for important additional endorsements in contracts related to aviation 
+activities.
+
+For further assistance, contact Public Works and Government Services Canada's 
+Risk Management and Insurance Advisory Services at NCR RMIAS-SCGRA@pwgsc.gc.ca.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall not provide a domestic aircraft charter service 
+       or an international aircraft charter service to Canada unless, for 
+       every incident related to the Contractor's operation of that service, 
+       it has:
+
+       (a)    liability insurance covering risks of injury to or death of 
+              passengers in an amount that is not less than the amount 
+              determined by multiplying $300,000 by the number of passenger 
+              seats on board the aircraft engaged in the service, or in 
+              accordance with regulatory agreements and acts, whichever is 
+              greater;
+
+       (b)    insurance covering risks of public liability in an amount 
+              that is not less than:
+
+              (i)    $1,000,000, where the Maximum Certified Take-off 
+                     Weight (MCTOW) of the aircraft engaged in the service 
+                     is not greater than 3.17 kg;
+
+              (ii)   $2,000,000, where the MCTOW of the aircraft engaged in 
+                     the service is greater than 3.17 kg but not greater 
+                     than 8.16 kg; and,
+
+              (iii)  where the MCTOW of the aircraft engaged in the service 
+                            is greater than 8.16 kg, $2,000,000 plus an 
+                            amount determined by multiplying $150 by the 
+                            number of pounds by which the MCTOW of the 
+                            aircraft exceeds 8.15 kg.
+
+2.     The insurance coverage required by subsection 1.(a) need not extend 
+       to any passenger who is an employee of the Contractor if workers' 
+       compensation legislation governing a claim for damages against that 
+       Contractor by the employee is applicable.
+
+3.     The following endorsements must be included:
+
+       (a)    Additional Insured:  Canada is named as an additional insured 
+              under any liability insurance policies for Canada's 
+              respective rights and interests under the Contract.
+
+              The interest of Canada as additional insured should read as 
+              follows: Canada, represented by ________ (<strong class="wsStyleUnderline">insert client 
+              department's name</strong>) and/or Public Works and Government 
+              Services Canada.
+
+       (b)    Notice of Cancellation or Amendment:  The Insurer agrees to 
+              provide the Contracting Authority thirty (30) days written 
+              notice of cancellation.
+
+       (c)    Cross Liability:  Without increasing the limit of liability, 
+              the policy shall protect all insured parties to the full 
+              extent of coverage provided.  Further, the policy shall apply 
+              to each Insured in the same manner and to the same extent as 
+              if a separate policy had been issued to each.
+
+       (d)    Contractual Liability:  The policy shall, on a blanket basis 
+   or by specific reference to this contract, extend to assumed liabilities 
+   with respect to contractual insurance provisions.
+</pre>

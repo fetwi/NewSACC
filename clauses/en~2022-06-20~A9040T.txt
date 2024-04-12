@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when it is mandatory for bidders to view the work site during the solicitation period to fully understand the scope of the work and the conditions of the site. In the case of marine requirements, the word "Vessel" may be added to the title.
+ </p>
+<p>
+  Select Option 1 when personnel security screening is required prior to gaining authorized access to PROTECTED information, assets, or sites  or CLASSIFIED information, assets or sites.
+ </p>
+<p>
+  Select Option 2 when there is no security requirement associated with the site visit.
+ </p>
+<p>
+  Consult section
+  
+   3.116 Site Visits
+  
+  of the
+  <em>
+   Supply Manual
+  </em>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p class="description">(<em>Use this option when security requirements are associated with the site visit)</em></p>
+<p>It is mandatory that the Bidder or a representative of the Bidder visit the work site. Arrangements have been made for the site visit to be held at <span class="input-required"><var>____________________</var> <kbd>(<em>insert address</em>)</kbd></span> on <span class="input-required"><var>_______</var> <kbd>(<em>insert date [for <abbr title="for example">e.g.</abbr> 17 March 2014]</em>)</kbd></span>. The site visit will begin at <span class="input-required"><var>____________________</var> <kbd>(<em>insert time [for <abbr title="for example">e.g.</abbr> 14:00 <abbr title="Eastern standard time">EST</abbr> or <abbr title="Eastern daylight time">EDT</abbr>]</em>)</kbd></span>, in <span class="input-required"><var>_______</var> <kbd>(<em>insert location/room number</em>)</kbd></span>.</p>
+<p>Personnel security screening is required prior to gaining authorized access to <span class="input-required"><var>_______</var> <kbd>(<em>insert PROTECTED information, assets, or sites or CLASSIFIED information, assets or sites</em>)</kbd></span>. Bidders must communicate with the Contracting Authority no later than <span class="input-required"><var>_______</var> <kbd>(<em>insert date and time</em>)</kbd></span> to confirm attendance and provide the name(s) of the person(s) who will attend. The Bidder’s Company Security Officer (CSO) must ensure that their representatives hold a valid security clearance at the required level for the site visit. Failure to comply with the security requirements will result in the representative(s) being denied access to the site.</p>
+<p>Bidders will be required to sign an attendance sheet. Bidders should confirm in their bid that they have attended the site visit. Bidders who do not attend the mandatory site visit or do not send a representative will not be given an alternative appointment and their bid will be declared non-responsive. Any clarifications or changes to the bid solicitation resulting from the site visit will be included as an amendment to the bid solicitation.</p>
+<h2>Option 2</h2>
+<p class="description"><em>(Use this option when there is no security requirement associated with the site visit)</em></p>
+<p>It is mandatory that the Bidder or a representative of the Bidder visit the work site. Arrangements have been made for the site visit to be held at <span class="input-required"><var>____________________</var> <kbd>(<em>insert address</em>)</kbd></span> on <span class="input-required"><var>_______</var> <kbd>(<em>insert date [for <abbr title="for example">e.g.</abbr> 17 March 2014]</em>)</kbd></span>. The site visit will begin at <span class="input-required"><var>____________________</var> <kbd>(<em>insert time [for <abbr title="for example">e.g.</abbr> 14:00 <abbr title="Eastern standard time">EST</abbr> or <abbr title="Eastern daylight time">EDT</abbr>]</em>)</kbd></span>, in <span class="input-required"><var>_______</var> <kbd>(<em>insert location/room number</em>)</kbd></span>.</p>
+<p>Bidders must communicate with the Contracting Authority no later than <span class="input-required"><var>____________________</var> <kbd>(<em>insert date and time</em>)</kbd> to confirm attendance and provide the name(s) of the person(s) who will attend. Bidders will be required to sign an attendance sheet. Bidders should confirm in their bid that they have attended the site visit. Bidders who do not attend the mandatory site visit or do not send a representative will not be given an alternative appointment and their bid will be declared non-responsive. Any clarifications or changes to the bid solicitation resulting from the site visit will be included as an amendment to the bid solicitation.</span></p>
+</div></pre>

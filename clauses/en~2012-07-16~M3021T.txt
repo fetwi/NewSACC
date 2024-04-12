@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for standing offers when the education and 
+experience of individuals will be evaluated.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Offeror certifies that all the information provided in the
+<span lang="en-CA">résumés</span> and supporting material submitted with its offer,
+particularly the information pertaining to education, achievements,
+experience and work history, has been verified by the Offeror to be
+true and accurate. Furthermore, the Offeror warrants that every
+individual offered by the Offeror for the requirement is capable of
+performing the Work resulting from a call-up against the Standing
+Offer.</p>
+</div></pre>

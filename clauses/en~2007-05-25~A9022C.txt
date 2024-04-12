@@ -1,0 +1,37 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for services.  Use in conjunction with
+  
+   A9009C
+  
+  if the contract contains option periods.
+ </p>
+<p>
+  Contracting officers are required to choose between three options, appropriately 
+fill-in the blanks and delete the unused options. Choose the third option if 
+the starting date of the contract period does not coincide with the contract 
+award date.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+The Work is to be performed during the period of
+<span class="input-required"><var>______</var> <kbd><strong>(<em>fill in start date of the work</em>)</strong></kbd></span> to 
+<span class="input-required"><var>______</var> <kbd><strong>(<em>fill in end date of the work</em>)</strong></kbd></span>.
+</li>
+<li>
+<h2>OR</h2>
+The period of the Contract is from date of Contract to
+<span class="input-required"><var>_____</var> inclusive <kbd><strong>(<em>fill in end date of the
+period</em>)</strong></kbd></span>.
+</li>
+<li>
+<h2>OR</h2>
+The period of the Contract is from <span class="input-required"><var>_____</var> <kbd><strong>(<em>fill in start date
+of the period</em>)</strong></kbd></span> to
+<span class="input-required"><var>_____</var> inclusive <kbd><strong>(<em>fill in end date
+of the period</em>)</strong></kbd></span>.
+</li>
+</ul>
+</div></pre>

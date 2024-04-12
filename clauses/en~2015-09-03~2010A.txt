@@ -1,0 +1,720 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following general conditions for medium complexity competitive or 
+non-competitive requirements, for the acquisition of goods (i.e. off-the-shelf 
+commercial products, off-the-shelf electrical and electronics products, 
+off-the-shelf commercial spare parts with military specifications, standard 
+information management/information technology requirements, etc.)
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2015-09-032010Ainterpretation">01 Interpretation</a></li>
+<li><a href="#2015-09-032010Astandard-clauses-and-conditions">02 Standard Clauses and Conditions</a></li>
+<li><a href="#2015-09-032010Apowers-of-canada">03 Powers of Canada</a></li>
+<li><a href="#2015-09-032010Astatus-of-the-contractor">04 Status of the Contractor</a></li>
+<li><a href="#2015-09-032010Acondition-of-material">05 Condition of Material</a></li>
+<li><a href="#2015-09-032010Atime-of-the-essence">06 Time of the Essence</a></li>
+<li><a href="#2015-09-032010Aexcusable-delay">07 Excusable Delay</a></li>
+<li><a href="#2015-09-032010Ainspection-and-acceptance-of-the-work">08 Inspection and Acceptance of the Work</a></li>
+<li><a href="#2015-09-032010Awarranty">09 Warranty</a></li>
+<li><a href="#2015-09-032010Ainvoice-submission">10 Invoice Submission</a></li>
+<li><a href="#2015-09-032010Ataxes">11 Taxes</a></li>
+<li><a href="#2015-09-032010Atransportation-costs">12 Transportation Costs</a></li>
+<li><a href="#2015-09-032010Atransportation-carriers-liability">13 Transportation Carriers' Liability</a></li>
+<li><a href="#2015-09-032010Ashipment-documentation">14 Shipment Documentation</a></li>
+<li><a href="#2015-09-032010Apayment-period">15 Payment Period</a></li>
+<li><a href="#2015-09-032010Ainterest-on-overdue-accounts">16 Interest on Overdue Accounts</a></li>
+<li><a href="#2015-09-032010Aaudit">17 Audit</a></li>
+<li><a href="#2015-09-032010Acompliance-with-applicable-laws">18 Compliance with Applicable Laws</a></li>
+<li><a href="#2015-09-032010Aownership">19 Ownership</a></li>
+<li><a href="#2015-09-032010Agovernment-property">20 Government Property</a></li>
+<li><a href="#2015-09-032010Aamendment">21 Amendment</a></li>
+<li><a href="#2015-09-032010Aassignment">22 Assignment</a></li>
+<li><a href="#2015-09-032010Adefault-by-the-contractor">23 Default by the Contractor</a></li>
+<li><a href="#2015-09-032010Atermination-for-convenience">24 Termination for Convenience</a></li>
+<li><a href="#2015-09-032010Aright-of-set-off">25 Right of Set-off</a></li>
+<li><a href="#2015-09-032010Aconflict-of-interest-and-values-and-ethics-codes">26 Conflict of Interest and Values and Ethics
+Codes for the Public Service</a></li>
+<li><a href="#2015-09-032010Acontingency-fees">27 Contingency Fees</a></li>
+<li><a href="#2015-09-032010Ainternational-sanctions">28 International Sanctions</a></li>
+<li><a href="#2015-09-032010Aintegrity-provisions">29 Integrity Provisions - Contract</a></li>
+<li><a href="#2015-09-032010Aentire-agreement">30 Entire Agreement</a></li>
+</ul>
+</div>
+<h2 id="2015-09-032010Ainterpretation">2010A 01 (2015-09-03) Interpretation</h2>
+<p>In the Contract, unless the context otherwise requires:</p>
+<dl>
+<dt>“Administrative Agreement”</dt>
+<dd>is a negotiated agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> as provided for in the <cite>Ineligibility and Suspension Policy</cite>. </dd>
+<dt>“Affiliate”</dt>
+<dd>is a person, including, but not limited to, organizations, bodies corporate, societies, companies, firms, partnerships, associations of persons, parent companies or subsidiaries, whether partly or wholly-owned, as well as individuals, directors, officers and key employees if: 
+<ol start="1" type="i">
+<li>one controls or has the power to control the other, or </li>
+<li>a third party has the power to control both.</li>
+</ol>
+</dd>
+<dt>"Applicable Taxes"</dt>
+<dd>means the Goods and Services Tax (GST), the Harmonized Sales Tax (HST), and any provincial tax, by law, payable by Canada such as, the Quebec Sales Tax (QST) as of April 1, 2013;
+</dd>
+<dt>"Articles of Agreement"</dt>
+<dd>means the clauses and
+conditions incorporated in full text or incorporated by reference
+from the <cite><em>Standard Acquisition Clauses and Conditions</em>
+Manual</cite> to form the body of the Contract; it does not include these
+general conditions, any supplemental general conditions, annexes,
+the Contractor's bid or any other document;</dd>
+<dt>"Canada", "Crown", "Her Majesty" or "the Government"</dt>
+<dd>means Her Majesty the Queen in right of Canada as represented by
+the Minister of Public Works and Government Services and any other
+person duly authorized to act on behalf of that minister or, if
+applicable, an appropriate minister to whom the Minister of Public
+Works and Government Services has delegated his or her powers,
+duties or functions and any other person duly authorized to act on
+behalf of that minister;</dd>
+<dt>"Contract"</dt>
+<dd>means the Articles of Agreement, these
+general conditions, any supplemental general conditions, annexes
+and any other document specified or referred to as forming part of
+the Contract, all as amended by agreement of the Parties from time
+to time;</dd>
+<dt>"Contracting Authority"</dt>
+<dd>means the person designated by
+that title in the Contract, or by notice to the Contractor, to act
+as Canada's representative to manage the Contract;</dd>
+<dt>"Contractor"</dt>
+<dd>means the person, entity or entities named
+in the Contract to supply goods, services or both to Canada;</dd>
+<dt>"Contract Price"</dt>
+<dd>means the amount stated in the Contract to be payable to the Contractor for the Work, exclusive of Applicable Taxes;</dd>
+<dt>“Control”</dt>
+<dd>means:
+<ol start="1" type="a">
+<li>direct control, such as where:
+<ol type="i">
+<li>a person controls a body corporate if securities of the body corporate to which are attached more than 50 percent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;</li>
+<li>a person controls a corporation that is organized on a cooperative basis if the person and all of the entities controlled by the person have the right to exercise more than 50 percent of the votes that may be cast at an annual meeting or to elect the majority of the directors of the corporation;</li>
+<li>a person controls an unincorporated entity, other than a limited partnership, if more than 50 percent of the ownership interests, however designated, into which the entity is divided are beneficially owned by that person and the person is able to direct the business and affairs of the entity;</li>
+<li>the general partner of a limited partnership controls the limited partnership; and</li>
+<li>a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.</li>
+</ol>
+</li>
+<li>deemed control, such as where: 
+<br/>a person who controls an entity is deemed to control any entity that is controlled, or deemed to be controlled, by the entity</li>
+<li>indirect control, such as where: 
+<br/>a person is deemed to control, within the meaning of paragraph (a) or (b), an entity where the aggregate of:
+<ol start="1" type="i">
+<li>any securities of the entity that are beneficially owned by that person, and</li>
+<li>any securities of the entity that are beneficially owned by any entity controlled by that person</li>
+</ol>
+is such that, if that person and all of the entities referred to in paragraph (c)(ii) that beneficially own securities of the entity were one person, that person would control the entity.	</li>
+</ol></dd>
+<dt>"Cost"</dt>
+<dd>means cost determined according to Contract Cost
+Principles 1031-2 as revised to the date of the bid solicitation
+or, if there was no bid solicitation, the date of the Contract;</dd>
+<dt>"Government Property"</dt>
+<dd>means anything supplied to the
+Contractor by or on behalf of Canada for the purposes of performing
+the Contract and anything acquired by the Contractor in any manner
+in connection with the Work, the cost of which is paid by Canada
+under the Contract;</dd>
+<dt>“Ineligibility”</dt>
+<dd>means a person not eligible to contract with Canada;</dd>
+<dt>"Party"</dt>
+<dd>means Canada, the Contractor, or any other
+signatory to the Contract and "<dfn>Parties</dfn>" means all of
+them;</dd>
+<dt>“Suspension”</dt>
+<dd>means a determination of temporary ineligibility by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>;</dd>
+<dt>"Total Estimated Cost", "Revised Estimated Cost", "Increase (Decrease)"</dt>
+<dd>on Page 1 of the Contract or Contract Amendment means an amount used for internal administrative purposes only that comprises the Contract Price, or the revised Contract Price, or the amount that would increase or decrease the Contract Price and the Applicable Taxes as evaluated by the Contracting Authority, and does not constitute tax advice on the part of Canada;</dd>
+<dt>"Work"</dt>
+<dd>means all the activities, services, goods,
+equipment, matters and things required to be done, delivered or
+performed by the Contractor under the Contract.</dd>
+</dl>
+<h2 id="2015-09-032010Astandard-clauses-and-conditions">2010A 02 (2008-05-12) Standard Clauses and Conditions</h2>
+<p>Pursuant to the <cite>Department of Public Works and Government Services Act</cite>, <abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr> 16, the clauses and conditions
+identified by number, date and title in the Contract are
+incorporated by reference and form part of the Contract as though
+expressly set out in the Contract.</p>
+<h2 id="2015-09-032010Apowers-of-canada">2010A 03 (2008-05-12) Powers of Canada</h2>
+<p>All rights, remedies, powers and discretions granted or acquired
+by Canada under the Contract or by law are cumulative, not
+exclusive.</p>
+<h2 id="2015-09-032010Astatus-of-the-contractor">2010A 04 (2008-05-12) Status of the Contractor</h2>
+<p>The Contractor is an independent contractor engaged by Canada to
+perform the Work. Nothing in the Contract is intended to create a
+partnership, a joint venture or an agency between Canada and the
+other Party or Parties. The Contractor must not represent itself as
+an agent or representative of Canada to anyone. Neither the
+Contractor nor any of its personnel is engaged as an employee or
+agent of Canada. The Contractor is responsible for all deductions
+and remittances required by law in relation to its employees.</p>
+<h2 id="2015-09-032010Acondition-of-material">2010A 05 (2008-05-12) Condition of Material</h2>
+<p>Unless provided otherwise in the Contract, material supplied
+must be new and conform to the latest issue of the applicable
+drawing, specifications and part number that is in effect on the
+bid closing date or, if there was no bid solicitation, the date of
+the Contract.</p>
+<h2 id="2015-09-032010Atime-of-the-essence">2010A 06 (2008-05-12) Time of the Essence</h2>
+<p>It is essential that the Work be delivered within or at the time
+stated in the Contract.</p>
+<h2 id="2015-09-032010Aexcusable-delay">2010A 07 (2014-09-25) Excusable Delay</h2>
+<ol type="1">
+<li value="1">A delay in the performance by the Contractor of any
+obligation under the Contract that is caused by an event that:
+<ol type="a">
+<li value="1">is beyond the reasonable control of the
+Contractor;</li>
+<li value="2">could not reasonably have been foreseen;</li>
+<li value="3">could not reasonably have been prevented by means
+reasonably available to the Contractor; and</li>
+<li value="4">occurred without the fault or neglect of the
+Contractor, will be considered an "Excusable Delay" if the Contractor
+advises the Contracting Authority of the occurrence of the delay or
+of the likelihood of the delay as soon as the Contractor becomes
+aware of it. The Contractor must also advise the Contracting
+Authority, within 15 working days, of all the
+circumstances relating to the delay and provide to the Contracting
+Authority for approval a clear work around plan explaining in
+detail the steps that the Contractor proposes to take in order to
+minimize the impact of the event causing the delay.
+</li>
+</ol>
+</li>
+<li value="2">Any delivery date or other date that is directly
+affected by an Excusable Delay will be postponed for a reasonable
+time that will not exceed the duration of the Excusable Delay.</li>
+<li value="3">However, if an Excusable Delay has continued for
+30 days or more, the Contracting Authority may, by giving
+notice in writing to the Contractor, terminate the Contract. In
+such a case, the Parties agree that neither will make any claim
+against the other for damages, costs, expected profits or any other
+loss arising out of the termination or the event that contributed
+to the Excusable Delay. The Contractor agrees to repay immediately
+to Canada the portion of any advance payment that is unliquidated
+at the date of the termination.</li>
+<li value="4">Unless Canada has caused the delay by failing to meet
+an obligation under the Contract, Canada will not be responsible
+for any costs incurred by the Contractor or any of its
+subcontractors or agents as a result of an Excusable Delay.</li>
+<li value="5">If the Contract is terminated under this section, the
+Contracting Authority may require the Contractor to deliver to
+Canada, in the manner and to the extent directed by the Contracting
+Authority, any completed parts of the Work not delivered and
+accepted before the termination and anything that the Contractor
+has acquired or produced specifically to perform the Contract.
+Canada will pay the Contractor:
+<ol type="a">
+<li value="1">the value, of all completed parts of the Work
+delivered to and accepted by Canada, based on the Contract Price,
+including the proportionate part of the Contractor's profit or fee
+included in the Contract Price; and</li>
+<li value="2">the Cost to the Contractor that Canada considers
+reasonable in respect of anything else delivered to and accepted by
+Canada.</li>
+</ol>
+</li>
+</ol>
+<p>The total amount paid by Canada under the Contract to the date
+of termination and any amounts payable under this subsection must
+not exceed the Contract Price.</p>
+<h2 id="2015-09-032010Ainspection-and-acceptance-of-the-work">2010A 08 (2008-05-12) Inspection and Acceptance of the
+Work</h2>
+<p>All the Work is subject to inspection and acceptance by Canada.
+Inspection and acceptance of the Work by Canada do not relieve the
+Contractor of its responsibility for defects or other failures to
+meet the requirements of the Contract. Canada will have the right
+to reject any work that is not in accordance with the requirements
+of the Contract and require its correction or replacement at the
+Contractor's expense.</p>
+<h2 id="2015-09-032010Awarranty">2010A 09 (2014-09-25) Warranty</h2>
+<ol type="1">
+<li value="1">Despite inspection and acceptance of the Work by or
+on behalf of Canada and without restricting any provisions of the
+Contract or any condition, warranty or provision imposed by law,
+the Contractor, if requested by Canada to do so, must replace,
+repair or correct, at its own option and expense any work that
+becomes defective or fails to conform to the requirements of the
+Contract, where applicable. The warranty period will be 12
+months after delivery and acceptance of the Work or the length of
+the Contractor's or manufacturer's standard warranty period,
+whichever is longer.</li>
+<li value="2">Canada must pay the transportation cost associated
+with returning the Work or any part of the Work to the Contractor's
+plant for replacement, repair or making good, and the Contractor
+must pay the transportation cost associated with forwarding the
+replacement or returning the Work or part of the Work when
+rectified to the delivery point specified in the Contract or to
+another location as directed by Canada. If, in the opinion of
+Canada, it is not expedient to remove the Work from its location,
+the Contractor must carry out any necessary repair or making good
+of the Work at that location and will be reimbursed its reasonable
+travel and living expenses.</li>
+<li value="3">The warranty period is automatically extended by the
+duration of any period or periods where the Work is unavailable for
+use or cannot be used because of a defect or non-conformance during
+the original warranty period. The warranty applies to any part of
+the Work replaced, repaired or corrected pursuant to subsection 1,
+for the greater of:
+<ol type="a">
+<li value="1">the warranty period remaining, including the
+extension, or</li>
+<li value="2">90 days or such other period as may be
+specified for that purpose by agreement between the Parties.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2015-09-032010Ainvoice-submission">2010A 10 (2014-11-27) Invoice Submission</h2>
+<ol type="1">
+<li value="1">Invoices must be submitted in the Contractor's name.
+The Contractor must submit invoices for each delivery or shipment;
+invoices must only apply to the Contract. Each invoice must
+indicate whether it covers partial or final delivery.</li>
+<li value="2">Invoices must show:
+<ol type="a">
+<li value="1">the date, the name and address of the client
+department, item or reference numbers, deliverable/description of the Work, contract number, Client Reference Number
+(CRN), Procurement Business Number (PBN), and financial
+code(s);</li>
+<li value="2">details of expenditures (such as item, quantity, unit of issue, unit price, fixed time labour rates and level of effort, subcontracts, as applicable) in accordance with the Basis of Payment, exclusive of Applicable Taxes;</li>
+<li value="3">deduction for holdback, if applicable;</li>
+<li value="4">the extension of the totals, if applicable; and</li>
+<li value="5">if applicable, the method of shipment together with
+date, case numbers and part or reference numbers, shipment charges
+and any other additional charges.</li>
+</ol>
+</li>
+<li value="3">Applicable Taxes must be specified on all invoices as a separate item along with corresponding registration numbers from the tax authorities. All items that are zero-rated, exempt or to which Applicable Taxes do not apply, must be identified as such on all invoices.</li>
+<li value="4">By submitting an invoice, the Contractor certifies
+that the invoice is consistent with the Work delivered and is in
+accordance with the Contract.</li>
+</ol>
+<h2 id="2015-09-032010Ataxes">2010A 11 (2013-03-21) Taxes</h2>
+<ol type="1">
+<li value="1">
+Federal government departments and agencies are required to pay Applicable Taxes.
+</li>
+<li value="2">
+Applicable Taxes will be paid by Canada as provided in the Invoice Submission section. It is the sole responsibility of the Contractor to charge Applicable Taxes at the correct rate in accordance with applicable legislation. The Contractor agrees to remit to appropriate tax authorities any amounts of Applicable Taxes paid or due.
+</li>
+<li value="3">
+The Contractor is not entitled to use Canada’s exemptions from any tax, such as provincial sales taxes, unless otherwise specified by law. The Contractor must pay applicable provincial sales tax, ancillary taxes, and any commodity tax, on taxable goods or services used or consumed in the performance of the Contract (in accordance with applicable legislation), including for material incorporated into real property. 
+</li>
+<li value="4">
+In those cases where Applicable Taxes, customs duties, and excise taxes are included in the Contract Price, the Contract Price will be adjusted to reflect any increase, or decrease, of Applicable Taxes, customs duties, and excise taxes that will have occurred between bid submission and contract award. However, there will be no adjustment for any change to increase the Contract Price if public notice of the change was given before bid submission date in sufficient detail to have permitted the Contractor to calculate the effect of the change. 
+</li>
+<li value="5">Tax Withholding of 15 Percent – Canada Revenue Agency 
+</li>
+</ol>
+<p>Pursuant to the <cite>Income Tax Act</cite>, 1985, <abbr title="chapter">c.</abbr> 1 (5th Supp.) and the <cite>Income Tax Regulations</cite>, Canada must withhold 15 percent of the amount to be paid to the Contractor in respect of services provided in Canada if the Contractor is not a resident of Canada, unless the Contractor obtains a valid waiver from the <cite>Canada Revenue Agency.</cite> The amount withheld will be held on account for the Contractor in respect to any tax liability which may be owed to Canada.
+</p>
+<h2 id="2015-09-032010Atransportation-costs">2010A 12 (2010-01-11) Transportation Costs</h2>
+<p>If transportation costs are payable by Canada under the Contract
+and the Contractor makes the transportation arrangements, shipments
+must be made by the most direct and economical means consistent
+with normal shipping practice. The costs must be shown as a
+separate item on the invoice.</p>
+<h2 id="2015-09-032010Atransportation-carriers-liability">2010A 13 (2010-01-11) Transportation Carriers' Liability</h2>
+<p>The federal government's policy of underwriting its own risks
+precludes payment of insurance or valuation charges for
+transportation beyond the point at which ownership of goods passes
+to the federal government (determined by the <abbr title="Free on Board">FOB</abbr> point or
+Incoterms). Where increased carrier liability is available without
+charge, the Contractor must obtain the increased liability for
+shipment.</p>
+<h2 id="2015-09-032010Ashipment-documentation">2010A 14 (2008-05-12) Shipment Documentation</h2>
+<p>For the shipment of goods, the transportation bill of lading
+must accompany the original invoice, except for "collect" shipments
+(if and when stipulated), in which event it must accompany the
+shipment. In addition, a packing slip must accompany each shipment,
+showing item, quantity, part or reference numbers, description of
+the goods and contract number, including the <abbr title="Client Reference Number">CRN</abbr> and <abbr title="Procurement Business Number">PBN</abbr>. If the
+goods have been inspected at the Contractor's plant, the signed
+inspection voucher must be attached to the packing slip normally
+enclosed in the packing note envelope.</p>
+<h2 id="2015-09-032010Apayment-period">2010A 15 (2014-09-25) Payment Period</h2>
+<ol type="1">
+<li value="1">Canada's standard payment period is 30 days.
+The payment period is measured from the date an invoice in
+acceptable form and content is received in accordance with the
+Contract or the date the Work is delivered in acceptable condition
+as required in the Contract, whichever is later. A payment is
+considered overdue on the 31<sup>st</sup> day following that date and interest
+will be paid automatically in accordance with the section 16.</li>
+<li value="2">If the content of the invoice and its substantiating
+documentation are not in accordance with the Contract or the Work
+is not in acceptable condition, Canada will notify the Contractor
+within 15 days of receipt. The 30-day payment period
+begins upon receipt of the revised invoice or the replacement or
+corrected Work. Failure by Canada to notify the Contractor within
+15 days will only result in the date specified in
+subsection 1 to apply for the sole purpose of calculating interest
+on overdue accounts.</li>
+</ol>
+<h2 id="2015-09-032010Ainterest-on-overdue-accounts">2010A 16 (2008-12-12) Interest on Overdue Accounts</h2>
+<ol type="1">
+<li value="1">For the purpose of this section:
+<dl>
+<dt>"Average Rate"</dt>
+<dd>means the simple arithmetic mean of the
+Bank Rates in effect at 4:00 p.m. Eastern Time each day during the
+calendar month immediately before the calendar month in which
+payment is made;</dd>
+<dt>"Bank Rate"</dt>
+<dd>means the rate of interest established from
+time to time by the Bank of Canada as the minimum rate at which the
+Bank of Canada makes short term advances to members of the Canadian
+Payments Association;</dd>
+<dt>"<dfn>date of payment</dfn>"</dt>
+<dd>means the date of the negotiable
+instrument drawn by the Receiver General for Canada to pay any
+amount under the Contract;</dd>
+<dt>an amount becomes "overdue"</dt>
+<dd>when it is unpaid on the first day
+following the day on which it is due and payable according to the
+Contract.</dd>
+</dl>
+</li><li value="2">Canada will pay to the Contractor simple interest at
+the Average Rate plus 3 percent per year on any amount that is
+overdue, from the date that amount becomes overdue until the day
+before the date of payment, inclusive. The Contractor is not
+required to provide notice to Canada for interest to be
+payable.</li>
+<li value="3">Canada will pay interest in accordance with this
+section only if Canada is responsible for the delay in paying the
+Contractor. Canada will not pay interest on overdue advance
+payments.</li>
+</ol>
+<h2 id="2015-09-032010Aaudit">2010A 17 (2014-09-25) Audit</h2>
+<p>The amount claimed under the Contract is subject to government
+audit both before and after payment is made. The Contractor must
+keep proper accounts and records of the cost of performing the Work
+and keep all documents relating to such cost for six years
+after it receives the final payment under the Contract.</p>
+<h2 id="2015-09-032010Acompliance-with-applicable-laws">2010A 18 (2008-05-12) Compliance with Applicable Laws</h2>
+<ol type="1">
+<li value="1">The Contractor must comply with all laws applicable
+to the performance of the Contract. The Contractor must provide
+evidence of compliance with such laws to Canada at such times as
+Canada may reasonably request.</li>
+<li value="2">The Contractor must obtain and maintain at its own
+cost all permits, licenses, regulatory approvals and certificates
+required to perform the Work. If requested by the Contracting
+Authority, the Contractor must provide a copy of any required
+permit, license, regulatory approvals or certificate to
+Canada.</li>
+</ol>
+<h2 id="2015-09-032010Aownership">2010A 19 (2008-05-12) Ownership</h2>
+<ol type="1">
+<li value="1">Unless provided otherwise in the Contract, the Work
+or any part of the Work belongs to Canada after delivery and
+acceptance by or on behalf of Canada.</li>
+<li value="2">However if any payment is made to the Contractor for
+or on account of any work, either by way of progress or milestone
+payments, that work paid for by Canada belongs to Canada upon such
+payment being made. This transfer of ownership does not constitute
+acceptance by Canada of the Work or any part of the Work and does
+not relieve the Contractor of its obligation to perform the Work in
+accordance with the Contract.</li>
+<li value="3">Despite any transfer of ownership, the Contractor is
+responsible for any loss or damage to the Work or any part of the
+Work until it is delivered to Canada in accordance with the
+Contract. Even after delivery, the Contractor remains responsible
+for any loss or damage to any part of the Work caused by the
+Contractor or any subcontractor.</li>
+<li value="4">Upon transfer of ownership to the Work or any part of
+the Work to Canada, the Contractor must, if requested by Canada,
+establish to Canada's satisfaction that the title is free and clear
+of all claims, liens, attachments, charges or encumbrances. The
+Contractor must execute any conveyances and other instruments
+necessary to perfect the title that Canada may require.</li>
+</ol>
+<h2 id="2015-09-032010Agovernment-property">2010A 20 (2008-05-12) Government Property</h2>
+<p>The Contractor must take reasonable and proper care of all
+Government Property while it is in its possession or subject to its
+control. The Contractor is responsible for any loss or damage
+resulting from its failure to do so other than loss or damage
+caused by ordinary wear and tear.</p>
+<h2 id="2015-09-032010Aamendment">2010A 21 (2008-05-12) Amendment</h2>
+<p>To be effective, any amendment to the Contract must be done in
+writing by the Contracting Authority and the authorized
+representative of the Contractor.</p>
+<h2 id="2015-09-032010Aassignment">2010A 22 (2008-05-12) Assignment</h2>
+<ol type="1">
+<li value="1">The Contractor must not assign the Contract without
+first obtaining the written consent of the Contracting Authority.
+Any assignment made without that consent is void and will have no
+effect. The assignment will be effective upon execution of an
+assignment agreement signed by the Parties and the assignee.</li>
+<li value="2">Assignment of the Contract does not relieve the
+Contractor from any obligation under the Contract and it does not
+impose any liability upon Canada.</li>
+</ol>
+<h2 id="2015-09-032010Adefault-by-the-contractor">2010A 23 (2014-09-25) Default by the Contractor</h2>
+<ol type="1">
+<li value="1">If the Contractor is in default in carrying out any
+of its obligations under the Contract, the Contracting Authority
+may, by giving written notice to the Contractor, terminate for
+default the Contract or part of the Contract. The termination will
+take effect immediately or at the expiration of a cure period
+specified in the notice, if the Contractor has not cured the
+default to the satisfaction of the Contracting Authority within
+that cure period.</li>
+<li value="2">If the Contractor becomes bankrupt or insolvent,
+makes an assignment for the benefit of creditors, or takes the
+benefit of any statute relating to bankrupt or insolvent debtors,
+or if a receiver is appointed under a debt instrument or a
+receiving order is made against the Contractor, or an order is made
+or a resolution passed for the winding-up of the Contractor, the
+Contracting Authority may, to the extent permitted by the laws of
+Canada, by giving written notice to the Contractor, immediately
+terminate for default the Contract or part of the Contract.</li>
+<li value="3">If Canada gives notice under subsection 1 or 2, the
+Contractor will have no claim for further payment except as
+provided in this section. The Contractor will be liable to Canada
+for all losses and damages suffered by Canada because of the
+default or occurrence upon which the notice was based, including
+any increase in the cost incurred by Canada in procuring the Work
+from another source. The Contractor agrees to repay immediately to
+Canada the portion of any advance payment that is unliquidated at
+the date of the termination.</li>
+<li value="4">Upon termination of the Contract under this section,
+the Contracting Authority may require the Contractor to deliver to
+Canada, in the manner and to the extent directed by the Contracting
+Authority, any completed parts of the Work which have not been
+delivered and accepted before the termination and any materials,
+parts, plant, equipment or work-in-process which the Contractor has
+acquired or produced specifically in the fulfilment of the
+Contract.</li>
+<li value="5">Subject to the deduction of any claim that Canada may
+have against the Contractor arising under the Contract or out of
+the termination, Canada will pay the Contractor the value,
+determined on the basis of the Contract Price, including the
+proportionate part of the Contractor's profit or fee included in
+the Contract Price, of all completed parts of the Work and the Cost
+to the Contractor that the Contracting Authority considers
+reasonable in respect of all materials, parts, plant, equipment or
+work-in-process delivered to Canada pursuant to a direction under
+subsection 4 and accepted by Canada.</li>
+</ol>
+<h2 id="2015-09-032010Atermination-for-convenience">2010A 24 (2012-07-16) Termination for Convenience</h2>
+<ol type="1">
+<li value="1">At any time before the completion of the Work, the
+Contracting Authority may, by giving notice in writing to the
+Contractor, terminate for convenience the Contract or part of the
+Contract. Once such a notice of termination for convenience is
+given, the Contractor must comply with the requirements of the
+termination notice. If the Contract is terminated in part only, the
+Contractor must proceed to complete any part of the Work that is
+not affected by the termination notice. The termination will take
+effect immediately or, as the case may be, at the time specified in
+the termination notice.</li>
+<li value="2">If a termination notice is given pursuant to
+subsection 1, the Contractor will be entitled to be paid, for costs
+that have been reasonably and properly incurred to perform the
+Contract to the extent that the Contractor has not already been
+paid or reimbursed by Canada. The Contractor will be paid:
+<ol type="a">
+<li value="1">on the basis of the Contract Price, for all completed
+work that is inspected and accepted in accordance with the
+Contract, whether completed before, or after the termination in
+accordance with the instructions contained in the termination
+notice;</li>
+<li value="2">the Cost to the Contractor plus a fair and reasonable
+profit for all work terminated by the termination notice before
+completion; and</li>
+<li value="3">all costs incidental to the termination of the Work
+incurred by the Contractor but not including the cost of severance
+payments or damages to employees whose services are no longer
+required, except wages that the Contractor is obligated by statute
+to pay.</li>
+</ol>
+</li>
+<li value="3">Canada may reduce the payment in respect of any part
+of the Work, if upon inspection, it does not meet the requirements
+of the Contract.</li>
+<li value="4">The total of the amounts, to which the Contractor is
+entitled to be paid under this section, together with any amounts
+paid, due or becoming due to the Contractor must not exceed the
+Contract Price. The Contractor will have no claim for damages,
+compensation, loss of profit, allowance arising out of any
+termination notice given by Canada under this section except to the
+extent that this section expressly provides. The Contractor agrees
+to repay immediately to Canada the portion of any advance payment
+that is unliquidated at the date of the termination.</li>
+</ol>
+<h2 id="2015-09-032010Aright-of-set-off">2010A 25 (2008-05-12) Right of Set-off</h2>
+<p>Without restricting any right of set-off given by law, Canada
+may set-off against any amount payable to the Contractor under the
+Contract, any amount payable to Canada by the Contractor under the
+Contract or under any other current contract. Canada may, when
+making a payment pursuant to the Contract, deduct from the amount
+payable to the Contractor any such amount payable to Canada by the
+Contractor which, by virtue of the right of set-off, may be
+retained by Canada.</p>
+<h2 id="2015-09-032010Aconflict-of-interest-and-values-and-ethics-codes">2010A 26 (2008-05-12) Conflict of Interest and Values and
+Ethics Codes for the Public Service</h2>
+<p>The Contractor acknowledges that individuals who are subject to
+the provisions of the <cite>Conflict of Interest Act</cite>, 2006,
+<abbr title="chapter">c.</abbr> 9, <abbr title="section">s.</abbr> 2, the Conflict of Interest Code for Members of the House
+of Commons, the Values and Ethics Code for the Public Service or
+all other codes of values and ethics applicable within specific
+organizations cannot derive any direct benefit resulting from the
+Contract.</p>
+<h2 id="2015-09-032010Acontingency-fees">2010A 27 (2008-12-12) Contingency Fees</h2>
+<p>The Contractor certifies that it has not, directly or
+indirectly, paid or agreed to pay and agrees that it will not,
+directly or indirectly, pay a contingency fee for the solicitation,
+negotiation or obtaining of the Contract to any person, other than
+an employee of the Contractor acting in the normal course of the
+employee's duties. In this section, "<dfn>contingency fee</dfn>"
+means any payment or other compensation that depends or is
+calculated based on a degree of success in soliciting, negotiating
+or obtaining the Contract and "<dfn>person</dfn>" includes any individual who
+is required to file a return with the registrar pursuant to section
+5 of the <cite>Lobbying Act</cite>, 1985, <abbr title="chapter">c.</abbr> 44 (4th
+Supplement).</p>
+<h2 id="2015-09-032010Ainternational-sanctions">2010A 28 (2012-07-16) International Sanctions</h2>
+<ol type="1">
+<li value="1">Persons in Canada, and Canadians outside of Canada,
+are bound by economic sanctions imposed by Canada. As a result, the
+Government of Canada cannot accept delivery of goods or services
+that originate, either directly or indirectly, from the countries
+or persons subject to economic
+sanctions.</li>
+<li value="2">The Contractor must not supply to the Government of
+Canada any goods or services which are subject to economic
+sanctions.</li>
+<li value="3">The Contractor must comply with changes to the
+regulations imposed during the period of the Contract. The
+Contractor must immediately advise Canada if it is unable to
+perform the Work as a result of the imposition of economic
+sanctions against a country or person or the addition of a good or
+service to the list of sanctioned goods or services. If the Parties
+cannot agree on a work around plan, the Contract will be terminated
+for the convenience of Canada in accordance with section 24.</li>
+</ol>
+<h2 id="2015-09-032010Aintegrity-provisions">2010A 29(2015-07-03) Integrity Provisions - Contract</h2>
+<ol start="1" type="1">
+<li>Statement<br/>
+<ol start="1" type="a">
+<li>The Contractor must comply with the <cite>Code of Conduct for Procurement</cite>  and must comply with the terms set out in these Integrity Provisions. </li>
+<li>The Contractor confirms that it understands that convictions of certain offences, a false declaration in its bid, a false declaration under the Contract or failing to maintain up-to-date information requested may lead to a termination for default. If the Contractor or any of its Affiliates fail to remain free and clear of any convictions and any conditional or absolute discharges specified in these Integrity Provisions during the contract period, Canada may, following a notice period, terminate for default. The Contractor understands that a termination for default will not restrict Canada’s right to exercise any other remedies that may be available against the Contractor and agrees to immediately return any advance payments. </li>
+</ol></li>
+<li>List of Names<br/>
+The Contractor must immediately inform Canada in writing of any changes affecting the list of names of directors and owners during the contract period.</li>
+<li>Information Verification<br/>
+The Contractor certifies that it is aware, and its Affiliates are aware, that Canada may verify at any time during the contract period, the information provided by the Contractor, including the information relating to the acts or convictions and any conditional or absolute discharges specified in these Integrity Provisions. Canada may request additional information, validations from a qualified third party, consent forms and other evidentiary elements proving identity and eligibility to contract with Canada.</li>
+<li>Lobbying Act<br/>
+The Contractor certifies that neither it nor its Affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Contract if the payment of the fee would require the individual to file a return under section 5 of the <cite>Lobbying Act</cite>.</li>
+<li>Canadian Offences Resulting in Legal Incapacity
+<ol start="1" type="a">
+<li>The Contractor has certified that neither it nor any of its Affiliates   have been convicted of or have pleaded guilty to an offence under any of the following provisions, which result in legal incapacity under section 750(3) of the <cite>Criminal Code</cite> , and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+
+<ol start="1" type="i">
+<li>paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (<em>Fraud against Her Majesty</em>) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite>Financial Administration Act</cite>, or</li>
+<li>section 121 (<em>Frauds on the government and Contractor subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>) of the <cite>Criminal Code</cite>, or </li>
+</ol>
+</li>
+<li>the Contractor has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract under (a). </li>
+</ol>
+</li>
+<li>Canadian Offences<br/>
+
+The Contractor has certified that: 
+<ol start="1" type="a">
+<li>it and its Affiliates have not, in the last three years, from the date of contract award, been convicted of or pleaded guilty to an offence under any of the following provisions for which it would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+<ol start="1" type="i">
+<li>section 119 (<em>Bribery of judicial officers, etc</em>), section 120 (<em>Bribery of officers</em>), section 346 (<em>Extortion</em>), sections 366 to 368 (<em>Forgery and other offences resembling forgery</em>), section 382 (<em>Fraudulent manipulation of stock exchange transactions</em>), section 382.1 (<em>Prohibited insider trading</em>), section 397 (<em>Falsification of books and documents</em>), section 422 (<em>Criminal breach of contract</em>), section 426 (<em>Secret commissions</em>), section 462.31 (<em>Laundering proceeds of crime</em>) or sections 467.11 to 467.13 (<em>Participation in activities of criminal organization</em>) of the <cite>Criminal Code</cite>, or</li>
+<li>section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), section 46 (<em>Foreign directives</em>), section 47 (<em>Bid rigging</em>), section 49 (<em>Agreements or arrangements of federal financial institutions</em>), section 52 (<em>False or misleading representation</em>), section 53 (<em>Deceptive notice of winning a prize</em>) of the <cite>Competition Act</cite>, or</li>
+<li>section 239 (<em>False or deceptive statements</em>) of the <cite>Income Tax Act</cite>, or</li>
+<li>section 327 (<em>False or deceptive statements</em>) of the <cite>Excise Tax Act</cite>, or</li>
+<li>section 3 (<em>Bribing a foreign public official</em>), section 4 (<em>Accounting</em>), or section 5 (<em>Offence committed outside Canada</em>) of the <cite>Corruption of Foreign Public Officials Act</cite>, or</li>
+<li>section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite>Controlled Drugs and Substance Act</cite>, or  </li>
+</ol>
+</li>
+<li>the Contractor has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would make that Affiliate ineligible for contract award.</li>
+</ol> </li>
+<li>Foreign Offences<br/>
+The Contractor has certified that: 
+<ol start="1" type="a">
+<li>it and its Affiliates have not, in the last three years, from the date of contract award, been convicted of or pleaded guilty to an offence in a jurisdiction other than Canada of having committed an act or omission that would, in Canada’s opinion, be similar to an offence referenced in the Canadian Offences Resulting in Legal Incapacity and the Canadian Offences subsections and for which it would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Foreign Pardons subsection:
+<ol start="1" type="i">
+<li>the court before which the Contractor or the Affiliate of the Contractor appeared acted within the court’s jurisdiction;</li>
+<li>the Contractor or the Affiliate of the Contractor appeared during the court’s proceedings or submitted to the court’s jurisdiction;</li>
+<li>the court’s decision was not obtained by fraud; and</li>
+<li>the Contractor or the Affiliate of the Contractor was entitled to present to the court every defence that the Contractor or the Affiliate of the Contractor would have been entitled to present had the proceeding been tried in Canada; or</li>
+</ol>
+</li>
+<li>it has not been convicted of or pleaded guilty to the offences described in paragraph (a) and has certified that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract under (a).</li>
+</ol>
+</li>
+<li>Ineligibility to Contract with Canada<br/>
+<ol start="1" type="a">
+<li>The Contractor confirms that it understands that if after contract award they have been convicted of certain offences, as described in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, they will be ineligible to contract with Canada. If, after contract award, a Contractor becomes ineligible for contract award, Canada may, following a notice period, declare the Contractor to be ineligible and, to the extent that a contract has been awarded:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or</li>
+<li>require the Contractor to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Contractor confirms that it understands that where its Affiliate has been convicted of certain offences, as described in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, the Affiliate is ineligible to contract with Canada. If, after contract award, an Affiliate of a Contractor becomes ineligible to contract with Canada, Canada may, following a notice period, declare the Contractor to be ineligible and, to the extent that a contract has been concluded:
+
+<ol start="1" type="i">
+<li>terminate the contract for default if, in the opinion of Canada, there is evidence that the Contractor directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of certain acts or offences that make that Affiliate ineligible; or </li>
+<li>require the Contractor to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Contractor confirms that it understands that where it has been declared to be ineligible to contract with Canada under the <cite>Ineligibility and Suspension Policy</cite>, it is also ineligible to contract with Canada under these Integrity Provisions for the duration of the period that has been determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Contractor has been declared to be ineligible under the <cite>Ineligibility and Suspension Policy</cite> after contract award, Canada may, following a notice period:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or </li>
+<li>require the Contractor to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+<li>The Contractor confirms that it understands that where it or its Affiliates have been held responsible for breaches under the Lobbying Act subsection, it is ineligible to contract with Canada under these Integrity Provisions for the duration of the period that has been determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Contractor has been declared to be ineligible under the <cite>Ineligibility and Suspension Policy</cite> after contract award, Canada may, following a notice period:
+
+<ol start="1" type="i">
+<li>terminate the contract for default; or </li>
+<li>require the Contractor to enter into an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> on such terms and conditions as are necessary to safeguard the integrity of the procurement process.</li>
+</ol>
+</li>
+</ol></li>
+<li>Declaration of Offences Committed<br/>
+The Contractor understands that it has a continuing obligation to immediately declare all convictions to Canada under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections.</li>
+<li>Period of Ineligibility<br/>
+The following rules determine the period for which a Contractor or its Affiliate that has been convicted of certain offences is, ineligible to contract with Canada:
+<ol start="1" type="a">
+<li>for all offences referenced under the Canadian Offences Resulting in Legal Incapacity subsection for which a Contractor or its Affiliate has pleaded guilty to or has been convicted of, the period of ineligibility to be awarded a contract is indefinite, subject to the Canadian Pardons subsection;</li>
+<li>subject to an Administrative Agreement, for all offences referenced under the Canadian Offences and Foreign Offences subsections for which a Contractor or its Affiliate has pleaded guilty to or been convicted of, as the case may be, in the last three years, the period of ineligibility to contract with Canada is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections;</li>
+<li>subject to an Administrative Agreement, for all breaches under the Lobbying Act subsection for which a Contractor or its Affiliate has been found responsible, in the last three years, the period of ineligibility to contract with Canada is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+</ol></li>
+<li>Canadian Pardons<br/>
+A determination of ineligibility to contract with Canada will not be made or maintained by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under these Integrity Provisions, in respect of an offence or act that gave rise or that could give rise to a determination of ineligibility, if the Contractor or its Affiliate has:
+<ol start="1" type="a">
+<li>been granted an absolute discharge in respect of the offence, or has been granted a conditional discharge in respect of the offence and those conditions have been satisfied;</li>
+<li>been granted a pardon under Her Majesty’s royal prerogative of mercy;</li>
+<li>been granted a pardon under section 748 of the <cite>Criminal Code</cite>;</li>
+<li>received a record of suspension ordered under the <cite>Criminal Records Act</cite>; and</li>
+<li>been granted a pardon under the <cite>Criminal Records Act</cite>, as that Act read immediately before the day section 165 of the <cite>Safe Streets and Communities Act</cite> comes into force.</li>
+</ol> </li>
+<li>Foreign Pardons<br/>
+A determination of ineligibility to contract with Canada will not be made or maintained, as the case may be, by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> in respect of matters referenced in the Foreign Offences subsection and with respect to an offence or act that gave rise or will give rise to a determination of ineligibility, if the Contractor or its Affiliate, has at any time, benefited from foreign measures that are similar to Canadian pardons at the sole discretion of Canada, conditional discharges, absolute discharges, records of suspension, or restoration of legal capacities by the Governor in Council.</li>
+<li>Period of Ineligibility for Breaching Administrative Agreements<br/>
+The Contractor confirms that it understands that where it has concluded an Administrative Agreement and that it has breached any of its terms and conditions, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will lengthen the period of ineligibility for a period to be determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>Obligations on Subcontractors<br/>
+The Contractor confirms that it understands that to the extent that it relies on a subcontractor(s) to perform the Contract, the Contractor will not enter into a subcontract with a company that has been convicted of or pleaded guilty or an Affiliate of the company has been convicted of or pleaded guilty, as the case may be, to any of the offences referenced in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections for which no pardon or equivalent has been received under the Canadian Pardons and Foreign Pardons subsections, without the prior written approval of the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Contractor has entered into a contract with an ineligible subcontractor and for which no prior written approval has been received by Canada, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will declare the Contractor to be ineligible to contract with Canada for a period of five years.</li>
+</ol>
+<h2 id="2015-09-032010Aentire-agreement">2010A 30 (2008-05-12) Entire Agreement</h2>
+<p>The Contract constitutes the entire and only agreement between
+the Parties and supersedes all previous negotiations,
+communications and other agreements, whether written or oral,
+unless they are incorporated by reference in the Contract. There
+are no terms, covenants, representations, statements or conditions
+binding on the Parties other than those contained in the
+Contract.</p>
+</div></pre>

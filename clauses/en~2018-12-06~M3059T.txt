@@ -1,0 +1,38 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in competitive requests for standing offers when the requirement is a mix of goods and services, and the competition is solely limited to Canadian goods and Canadian services as defined in paragraph 5 of clause
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Use this clause in conjunction with clause
+  
+   A3050T
+  
+  and
+  
+   M3060C
+  
+  .
+ </p>
+<p>
+  Contracting officers must consult the Canadian Content Policy (
+  
+   Section 3.130
+  
+  of the Supply Manual) to establish if the requirement is subject to the policy.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This procurement is limited to Canadian goods and Canadian
+services.</p>
+<p>The Offeror certifies that:</p>
+<p><var title="checkbox">( )</var> a minimum of 80 percent of the
+total price for the offer consist of Canadian goods and Canadian
+services as defined in paragraph 5 of clause A3050T.</p>
+<p>For more information on how to determine the Canadian content
+for a mix of goods, a mix of services or a mix of goods and
+services, consult Annex 3.6, Example 2, of the Supply Manual.</p>
+</div></pre>

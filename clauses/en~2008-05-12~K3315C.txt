@@ -1,0 +1,48 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when Canada will own the foreground 
+information pursuant to supplemental general conditions
+  
+   4007
+  
+  or clause
+  
+   K3410C
+  
+  , 
+if the client department or agency agrees to grant the contractor access to 
+Canada-owned information for purposes of contractor's further development or 
+commercial exploitation of the licensed foreground information, where such 
+development and commercial exploitation is permitted under the license from 
+Canada.  Such a license to Canada-owned information would be negotiated 
+separately between the client department or agency and the contractor.
+ </p>
+<p>
+  If appropriate, replace "certain Canada-owned information" by a list of specific 
+items Canada may be willing to licence to the contractor.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   K3305C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If the Contractor wishes to make use of certain Canada-owned
+information for purposes of the commercial exploitation or further
+development of the Foreground Information licensed to the
+Contractor, the Contractor may make a written request for a license
+to exercise the required Intellectual Property Rights in such
+Canada-owned information, to the client department or agency for
+whom the Work is or was performed. The Contractor must give the
+client department or agency an explanation as to why such a license
+is required. The client department or agency must respond in
+writing to any request for such a license within a reasonable
+period of time. If the client department or agency agree to grant
+such a license, it will be on conditions to be negotiated between
+the Contractor and the client department or agency. It is
+understood that those conditions may include payment of
+compensation to Canada.</p>
+</div></pre>

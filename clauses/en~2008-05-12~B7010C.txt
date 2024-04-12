@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for Department of National Defence (DND) when goods must be marked and labeled in accordance with
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  specification D-80-001-055/SF-001.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must clearly mark labels in accordance with the following:
+<ol type="a">
+<li value="1"><strong>Marking</strong>: A label must be positioned as described in the technical data. The label and markings must be in accordance with Department of National Defence specification D-80-001-055/SF-001. The markings must include characters not less than 1/8 inch (3.2 mm) and not more than 1/4 inch (6.3 mm) in height the following information:
+<ol type="1">
+<li value="1">Contract Number (e.g. W8463-2-BD0W/01-PC);</li>
+<li value="2"><abbr title="North Atlantic Treaty Organization">NATO</abbr> Stock Number (number will be designated in the Contract for item or size) (e.g. 8415-21-909-7043);</li>
+<li value="3">size identification (see Scale of Measurements, e.g. 6732); and</li>
+<li value="4">date of start of production (month and year, e.g. 12 2007).</li>
+</ol>
+<br/>When the marking of items as required above is not feasible, the <abbr title="North Atlantic Treaty Organization">NATO</abbr> Stock Number must be etched or indelibly marked where
+possible.</li>
+<li value="2"><strong>Care labelling</strong>: As specified in the technical data, the care symbols must be in accordance with Canadian General Standards Board CAN/<abbr title="Canadian General Standards Board ">CGSB</abbr>-86.1 and as detailed in item description of the Contract.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

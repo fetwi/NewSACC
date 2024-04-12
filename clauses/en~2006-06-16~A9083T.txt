@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause when a bidder's conference will be held.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>A bidders' conference will be held at <span class="input-required"><var>________</var> <kbd>(<i>insert
+address</i>)</kbd></span> on <span class="input-required"><var>________</var> <kbd>(<i>insert date</i>)</kbd></span>.
+The conference will begin at <span class="input-required"><var>________</var> <kbd>(<i>insert time</i>)</kbd></span>,
+in <span class="input-required"><var>________</var> <kbd>(<i>insert
+location/room number</i>)</kbd></span>. The scope of the requirement
+outlined in the bid solicitation will be reviewed during the
+conference and questions will be answered. It is recommended that
+bidders who intend to submit a bid attend or send a
+representative.</p>
+<p>Bidders are requested to communicate with the Contracting
+Authority before the conference to confirm attendance. Bidders
+should provide, in writing, to the Contracting Authority, the names
+of the person(s) who will be attending and a list of issues they
+wish to table at least <var>_____</var> working days before the
+scheduled conference.</p>
+<p>Any clarifications or changes to the bid solicitation resulting
+from the bidders' conference will be included as an amendment to
+the bid solicitation. Bidders who do not attend will not be
+precluded from submitting a bid.</p>
+</div></pre>

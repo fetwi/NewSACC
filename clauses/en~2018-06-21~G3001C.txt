@@ -1,0 +1,66 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all contracts where the contractor has care, custody 
+or control of government property other than for maintenance, repair or storage. 
+ For maintenance and repair, use clause
+  
+   G2050C
+  
+  ; for storage facilities, use clause
+  
+   G2052C
+  
+  ; for money and securities, use clause
+  
+   G3005C
+  
+  ; and while the property is in transit, use clause
+  
+   G3010C
+  
+  .
+ </p>
+<p>
+  All Risks Property insurance is required to cover loss or damage to government 
+property.
+ </p>
+<p>
+  The value and basis of valuation of government property must be filled in the 
+clause.  The basis of valuation of this property should be established with the 
+client and mentioned in the contractor's insurance policy.  Contracting officers 
+must insert one of the options provided in the second blank of paragraph 1.
+ </p>
+<p>
+  The values are to be evaluated on a case-by-case basis. For further assistance, 
+contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must obtain All Risks Property insurance while the Government Property is under its care, custody or control, and maintain it in force throughout the duration of the Contract, in an amount of not less than $
+        <var>______</var> . The Government's Property must be insured on <span class="input-required"><var>_________</var> basis.
+<kbd>(<em><strong>Contracting officers must insert one of the following
+basis of valuation</strong>: "Replacement Cost (new)"; "Actual
+Cash Value (depreciated cost)" <strong>or</strong> "Agreed
+Value (appraisal)"</em>)</kbd></span>
+</p><ol type="1">
+<li value="1">Administration of Claims: The Contractor must notify Canada promptly about any losses or damages to Government Property and monitor, investigate and document losses of or damage to ensure that claims are properly made and paid.</li>
+<li value="2">The All Risks Property insurance policy must include the following:
+                <ol type="a">
+<li value="1">Notice of Cancellation: The Contractor will provide the Contracting Authority at least thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="2">Loss Payee: Canada as its interest may appear or as it may direct.</li>
+<li value="3">Waiver of Subrogation Rights: Contractor's Insurer to waive all rights of subrogation against Canada as represented by
+                        <span class="input-required"><var>____________</var> <kbd>(<em>insert
+department</em>)</kbd></span> and Public Works and Government Services Canada for any and all loss of or damage to the property however caused.
+                    </li>
+</ol>
+</li>
+</ol>
+</div></pre>

@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in non-competitive contracts for non-commercial goods 
+and/or services valued at $50,000 or more.
+
+Use this clause in conjunction with C0003T and C0601T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The estimated amount of profit included in the Contractor's price or rate 
+certification is subject to audit by Canada, before or after payment is 
+made to the Contractor under the conditions of the Contract.  The purpose 
+of the audit would be to determine whether the actual profit earned on a 
+single contract if only one exists, or the aggregate of actual profit 
+earned by the Contractor on a series of negotiated firm price and 
+fixed-time rate contracts performed during a particular period selected, is 
+fair and reasonable based on the estimated amount of profit included in 
+earlier price or rate certification(s).
+
+If the audit demonstrates that the actual profit is not fair and reasonable, 
+as defined above, the Contractor must repay Canada the amount found to be 
+in excess.
+
+
+
+</pre>

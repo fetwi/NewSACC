@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in non-competitive contracts, for requirements valued 
+at $50,000 or more, awarded to Canadian universities, affiliated institutions 
+and colleges where a price certification was obtained.  (For more information, 
+please refer to Supply Manual procedures 10.090 to 10.098.)
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor's certification that the price quoted is based on costs 
+computed in accordance with Public Works and Government Services Canada 
+Supply Manual procedures 10.090 to 10.098 (<strong class="wsStyleUnderline">http://www.pwgsc.gc.ca/
+acquisitions/text/sm/chapter10-e.html#researchuniversity</strong>) on the pricing of 
+research and development contracts with universities and colleges is 
+subject to audit.  The audit will determine if the total price charged by 
+the Contractor on a single contract, where only one exists, or a series of 
+negotiated firm price contracts, where more than one exists, is in 
+accordance with the procedures.
+
+If the audit demonstrates that the certification is in error after payment 
+is made to the Contractor, the Contractor must, at the discretion of Canada, 
+refund any overpayment or authorize the retention by Canada of the 
+overpayment by way of deduction from any sum of money that may be due or 
+payable to the Contractor pursuant to the Contract.
+
+If the audit demonstrates that the certification is in error before payment 
+is made, the Contractor agrees that any pending invoice will be adjusted by 
+Canada in accordance with the results of the audit.  It is further agreed 
+that if the Contract is still in effect at the time of the verification, 
+the price will be lowered in accordance with the results of the audit.
+
+</pre>

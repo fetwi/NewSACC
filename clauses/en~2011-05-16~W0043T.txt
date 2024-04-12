@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Contracting Officers must consult
+  
+   9.35 Comprehensive Land Claims Agreements
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  for guidance on 
+Comprehensive Land Claims Agreements and determine when to use this clause. It 
+is to appear in full text at the end of the bid solicitation, before any annexes 
+or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in
+Part 6 - Bid Criteria of Article 24 - Government Contracts of the
+Nunavut Land Claims Agreement (NLCA), section:</p>
+<p><strong>24.6.1</strong> Whenever practicable, and
+consistent with sound procurement management, and subject to
+Canada's international obligations, all of the following criteria,
+or as many as may be appropriate with respect to any particular
+contract, shall be included in the bid criteria established by the
+Government of Canada for the awarding of its government contracts
+in the Nunavut Settlement Area:</p>
+<ol type="a">
+<li value="1">the existence of head offices, administrative offices
+or other facilities in the Nunavut Settlement Area;</li>
+<li value="2">the employment of Inuit labour, engagement of Inuit
+professional services, or use of suppliers that are Inuit or Inuit
+firms in carrying out the contracts; or</li>
+<li value="3">the undertaking of commitments, under the contract,
+with respect to on-the-job training or skills development for
+Inuit.</li>
+</ol>
+</div></pre>

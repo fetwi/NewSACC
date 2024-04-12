@@ -1,0 +1,355 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use these supplemental general conditions only when the contractor must collect 
+and/or use personal information about individuals to perform the work (e.g., 
+processing individuals' health information).  Before including these 
+supplemental general conditions in the contract, contracting officers must 
+consult with Legal Services to ensure they are necessary.
+
+These conditions do not specifically address the numerous policies that apply to 
+Canada's use and handling of personal information, such as the Treasury Board 
+(TB) Privacy Impact Assessment Policy and Guidelines, the various TB policies 
+concerning privacy and data protection, and the TB Policy on Management of 
+Information Technology.  Any additional requirements necessitated by these 
+policies will need to be reflected elsewhere in the contract.
+
+Contracting officers must consult Legal Services if there are concerns about the 
+personal information being stored in Canada, to determine whether it would also 
+be appropriate to use clause A9122C.
+
+When more than one supplemental general conditions are used, contracting 
+officers must list the  supplemental general conditions in the priority of 
+documents clause in ascending order based on the identification number.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Ownership of Personal Information and Records
+03     Use of Personal Information
+04     Collection of Personal Information
+05     Maintaining the Accuracy, Privacy and Integrity of Personal 
+Information
+06     Safeguarding Personal Information
+07     Appointment of Privacy Officer
+08     Quarterly Reporting Obligations
+09     Threat and Risk Assessment
+10     Audit
+11     Statutory Obligations
+12     Disposing of Records and Returning Records to Canada
+13     Legal Requirement to Disclose Personal Information
+14     Complaints
+15     Exception
+
+<strong>4008   01     (2008-05-12)  Interpretation</strong><strong></strong>
+
+1.     In the Contract, unless the context otherwise requires,
+
+       "General Conditions" means the general conditions that form part of 
+       the Contract;
+
+       "Personal Information" means information about an individual, 
+       including the types of information specifically described in the <em>
+       Privacy Act,</em> R.S. 1985, c. P-21;
+
+       "Record" means any hard copy document or any data in a 
+       machine-readable format containing Personal Information;
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these supplemental general conditions have the meanings given to 
+       them in the General Conditions.
+
+3.     If there is any inconsistency between the General Conditions and 
+       these supplemental general conditions, the applicable provisions of 
+       these supplemental general conditions prevail.
+
+<strong>4008   02     (2008-05-12)  Ownership of Personal Information and Records</strong><strong></strong>
+
+To perform the Work, the Contractor will be provided with and/or will be 
+collecting Personal Information from third parties.  The Contractor 
+acknowledges that it has no rights in the Personal Information or the 
+Records and that Canada owns the Records.  On request, the Contractor must 
+make all the Personal Information and Records available to Canada 
+immediately in a format acceptable to Canada.
+
+<strong>4008   03     (2008-05-12)  Use of Personal Information</strong><strong></strong>
+
+The Contractor agrees to create, collect, receive, manage, access, use, 
+retain, and dispose of the Personal Information and the Records only to 
+perform the Work in accordance with the Contract.
+
+<strong>4008   04     (2008-05-12)  Collection of Personal Information</strong><strong></strong>
+
+1.     If the Contractor must collect Personal Information from a third 
+       party to perform the Work, the Contractor must only collect Personal 
+       Information that is required to perform the Work.  The Contractor 
+       must collect the Personal Information from the individual to whom it 
+       relates and the Contractor must inform that individual (at or before 
+       the time when it collects the Personal Information) of the following:
+
+       (a)    that the Personal Information is being collected on behalf of, 
+              and will be provided to, Canada;
+
+       (b)    the ways the Personal Information will be used;
+
+       (c)    that the disclosure of the Personal Information is voluntary 
+              or, if there is a legal requirement to disclose the Personal 
+              Information, the basis of that legal requirement;
+
+       (d)    the consequences, if any, of refusing to provide the 
+              information;
+
+       (e)    that the individual has a right to access and correct his or 
+              her own Personal Information; and
+
+       (f)    that the Personal Information will form part of a specific 
+              personal information bank (within the meaning of the <em>Privacy 
+              Act</em>), and also provide the individual with information about 
+              which government institution controls that personal 
+              information bank, if the Contracting Authority has provided 
+              this information to the Contractor.
+
+2.     The Contractor, its subcontractors, and their respective employees 
+       must identify themselves to the individuals from whom they are 
+       collecting Personal Information and must provide those individuals 
+       with a way to verify that they are authorized to collect the 
+       Personal Information under a Contract with Canada.
+
+3.     If requested by the Contracting Authority, the Contractor must 
+       develop a request for consent form to be used when collecting 
+       Personal Information, or a script for collecting the Personal 
+       Information by telephone.  The Contractor must not begin using a 
+       form or script unless the Contracting Authority first approves it in 
+       writing.  The Contractor must also obtain the Contracting Authority'
+       s approval before making any changes to a form or script.
+
+4.     At the time it requests Personal Information from any individual, if 
+       the Contractor doubts that the individual has the capacity to 
+       provide consent to the disclosure and use of his or her Personal 
+       Information, the Contractor must ask the Contracting Authority for 
+       instructions.
+
+<strong>4008   05     (2008-05-12)  Maintaining the Accuracy, Privacy and Integrity 
+                            of Personal Information</strong><strong></strong>
+
+The Contractor must ensure that the Personal Information is as accurate, 
+complete, and up to date as possible.  The Contractor must protect the 
+privacy of the Personal Information.  To do so, at a minimum, the 
+Contractor must:
+
+(a)    not use any personal identifiers (e.g., social insurance number) to 
+       link multiple databases containing Personal Information;
+
+(b)    segregate all Records from the Contractor's own information and 
+       records;
+
+(c)    restrict access to the Personal Information and the Records to 
+       people who require access to perform the Work (for example, by using 
+       passwords or biometric access controls);
+
+(d)    provide training to anyone to whom the Contractor will provide 
+       access to the Personal Information regarding the obligation to keep 
+       it confidential and use it only to perform the Work.  The Contractor 
+       must provide this training before giving an individual access to any 
+       Personal Information and the Contractor must keep a record of the 
+       training and make it available to the Contracting Authority if 
+       requested;
+
+(e)    if requested by the Contracting Authority, before providing anyone 
+       with access to the Personal Information, require anyone to whom the 
+       Contractor provides access to the Personal Information to 
+       acknowledge in writing (in a form approved by the Contracting 
+       Authority) their responsibilities to maintain the privacy of the 
+       Personal Information;
+
+(f)    keep a record of all requests made by an individual to review his or 
+       her Personal Information, and any requests to correct errors or 
+       omissions in the Personal Information (whether those requests are 
+       made directly by an individual or by Canada on behalf of an 
+       individual);
+
+(g)    include a notation on any Record(s) that an individual has requested 
+       be corrected if the Contractor has decided not to make the 
+       correction for any reason.  Whenever this occurs, the Contractor 
+       must immediately advise the Contracting Authority of the details of 
+       the requested correction and the reasons for the Contractor's 
+       decision not to make it.  If directed by the Contracting Authority 
+       to make the correction, the Contractor must do so; 
+
+(h)    keep a record of the date and source of the last update to each 
+       Record;
+
+(i)    maintain an audit log that electronically records all instances of 
+       and attempts to access Records stored electronically.  The audit log 
+       must be in a format that can be reviewed by the Contractor and 
+       Canada at any time; and
+
+(j)    secure and control access to any hard copy Records.
+
+<strong>4008   06     (2008-05-12)  Safeguarding Personal Information</strong><strong></strong>
+
+The Contractor must safeguard the Personal Information at all times by 
+taking all measures reasonably necessary to secure it and protect its 
+integrity and confidentiality.  To do so, at a minimum, the Contractor must:
+
+(a)    store the Personal Information electronically so that a password (or 
+       a similar access control mechanism, such as biometric access) is 
+       required to access the system or database in which the Personal 
+       Information is stored;
+
+(b)    ensure that passwords or other access controls are provided only to 
+       individuals who require access to the Personal Information to 
+       perform the Work;
+
+(c)    not outsource the electronic storage of Personal Information to a 
+       third party (including an affiliate) unless the Contracting 
+       Authority has first consented in writing;
+
+(d)    safeguard any database or computer system on which the Personal 
+       Information is stored from external access using methods that are 
+       generally used, from time to time, by prudent public and private 
+       sector organizations in Canada in order to protect highly secure or 
+       sensitive information;
+
+(e)    maintain a secure back-up copy of all Records, updated at least 
+       weekly;
+
+(f)    implement any reasonable security or protection measures requested 
+       by Canada from time to time; and
+
+(g)    notify the Contracting Authority immediately of any security 
+       breaches; for example, any time an unauthorized individual accesses 
+       any Personal Information.
+
+<strong>4008   07     (2008-05-12)  Appointment of Privacy Officer</strong><strong></strong>
+
+The Contractor must appoint someone to be its privacy officer and to act as 
+its representative for all matters related to the Personal Information and 
+the Records.  The Contractor must provide that person's name to the 
+Contracting Authority within ten (10) days of the award of the Contract.
+
+<strong>4008   08     (2008-05-12)  Quarterly Reporting Obligations</strong><strong></strong>
+
+Within thirty (30) calendar days of the end of each quarter (January-March; 
+April-June; July-September; October-December), the Contractor must submit 
+the following to the Contracting Authority:
+
+(a)    a description of any new measures taken by the Contractor to protect 
+       the Personal Information (for example, new software or access 
+       controls being used by the Contractor);
+
+(b)    a list of any corrections made to Personal Information at the 
+       request of an individual (including the name of the individual, the 
+       date of the request, and the correction made); 
+
+(c)    details of any complaints received from individuals about the way in 
+       which their Personal Information is being collected or handled by 
+       the Contractor; and
+
+(d)    a complete copy (in an electronic format agreed to by the 
+       Contracting Authority and the Contractor) of all the Personal 
+       Information stored electronically by the Contractor.
+
+<strong>4008   09     (2008-05-12)  Threat and Risk Assessment</strong><strong></strong>
+
+Within ninety (90) calendar days of the award of the Contract and, if the 
+Contract lasts longer than one year, within thirty (30) calendar days of 
+each anniversary date of the Contract, the Contractor must submit to the 
+Contracting Authority a threat and risk assessment, which must include:
+
+(a)    a copy of the current version of any request for consent form or 
+       script being used by the Contractor to collect Personal Information;
+
+(b)    a list of the types of Personal Information used by the Contractor 
+       in connection with the Work;
+
+(c)    a list of all locations where hard copies of Personal Information 
+       are stored;
+
+(d)    a list of all locations where Personal Information in 
+       machine-readable format is stored (for example, the location where 
+       any server housing a database including any Personal Information is 
+       located), including back-ups;
+
+(e)    a list of every person to whom the Contractor has granted access to 
+       the Personal Information or the Records;
+
+(f)    a list of all measures being taken by the Contractor to protect the 
+       Personal Information and the Records;
+
+(g)    a detailed explanation of any potential or actual threats to the 
+       Personal Information or any Record, together with an assessment of 
+       the risks created by these threats and the adequacy of existing 
+       safeguards to prevent these risks; and
+
+(h)    an explanation of any new measures the Contractor intends to 
+       implement to safeguard the Personal Information and the Records.
+
+<strong>4008   10     (2008-05-12)  Audit</strong><strong></strong>
+
+Canada may audit the Contractor's compliance with these supplemental 
+general conditions at any time.  If requested by the Contracting Authority, 
+the Contractor must provide Canada (or Canada's authorized representative) 
+with access to its premises and to the Personal Information and Records at 
+all reasonable times.  If Canada identifies any deficiencies during an 
+audit, the Contractor must immediately correct the deficiencies at its own 
+expense.
+
+<strong>4008   11     (2008-05-12)  Statutory Obligations</strong><strong></strong>
+
+1.     The Contractor acknowledges that Canada is required to handle the 
+       Personal Information and the Records in accordance with the 
+       provisions of Canada's <em>Privacy Act</em>, <em>Access to Information Act</em>, R.S. 
+       1985, c. A-1, and <em>Library and Archives of Canada Act</em>,<em> </em>S.C. 2004, c. 
+       11.  The Contractor agrees to comply with any requirement 
+       established by the Contracting Authority that is reasonably required 
+       to ensure that Canada meets its obligations under these acts and any 
+       other legislation in effect from time to time.
+
+2.     The Contractor acknowledges that its obligations under the Contract 
+       are in addition to any obligations it has under the <em>Personal 
+       Information Protection and Electronic Documents Act</em>, S.C. 2000, c. 5, 
+       or similar legislation in effect from time to time in any province 
+       or territory of Canada.  If the Contractor believes that any 
+       obligations in the Contract prevent it from meeting its obligations 
+       under any of these laws, the Contractor must immediately notify the 
+       Contracting Authority of the specific provision of the Contract and 
+       the specific obligation under the law with which the Contractor 
+       believes it conflicts.
+
+<strong>4008   12     (2008-05-12)  Disposing of Records and Returning Records to 
+Canada</strong><strong></strong>
+
+The Contractor must not dispose of any Record, except as instructed by the 
+Contracting Authority.  On request by the Contracting Authority, or once 
+the Work involving the Personal Information is complete, the Contract is 
+complete, or the Contract is terminated, whichever of these comes first, 
+the Contractor must return all Records (including all copies) to the 
+Contracting Authority.
+
+<strong>4008   13     (2008-05-12)  Legal Requirement to Disclose Personal 
+Information</strong><strong></strong>
+
+Before disclosing any of the Personal Information pursuant to any 
+applicable legislation, regulation, or an order of any court, tribunal or 
+administrative body with jurisdiction, the Contractor must immediately 
+notify the Contracting Authority, in order to provide the Contracting 
+Authority with an opportunity to participate in any relevant proceedings.
+
+<strong>4008   14     (2008-05-12)  Complaints</strong><strong></strong>
+
+Canada and the Contractor each agree to notify the other immediately if a 
+complaint is received under the <em>Access to Information Act</em> or the <em>Privacy 
+Act</em> or other relevant legislation regarding the Personal Information.  Each 
+Party agrees to provide any necessary information to the other to assist in 
+responding to the complaint and to inform the other immediately of the 
+outcome of that complaint.<strong></strong>
+
+<strong>4008   15     (2008-05-12)  Exception</strong><strong></strong>
+
+The obligations set out in these supplemental general conditions do not 
+apply to any Personal Information that is already in the public domain, as 
+long as it did not become part of the public domain as a result of any act 
+or omission of the Contractor or any of its subcontractors, agents, or 
+representatives, or any of their employees.
+
+
+</pre>

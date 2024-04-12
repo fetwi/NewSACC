@@ -1,0 +1,82 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ This clause is generally used for contracts with an estimated value of less than 
+$100,000.
+
+Contracting officers must consult
+ <abbr title="Public Works and Government Services Canada">
+  PWGSC
+ </abbr>
+ Risk Management Advisory Services, at:
+ 
+  NCR.RMIAS-SCGRA@pwgsc.gc.ca
+ 
+ if the suggested limit of liability is not 
+considered adequate. 
+
+Commercial General Liability (CGL) insurance might not be sufficient or 
+appropriate for certain construction contracts. For work taking place on the 
+airside of an airport,
+ <abbr title="Commercial General Liability">
+  CGL
+ </abbr>
+ should be substituted with Aviation Liability 
+Insurance (G2030C). For work done from a floating plant or with a dredge,
+ <abbr title="Commercial General Liability">
+  CGL
+ </abbr>
+ should be substituted with Marine Liability Insurance (G5003C).
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>GC 9.1 General</h2>
+<ol type="1">
+<li value="1">The Contractor shall, at the Contractor's expense,
+obtain and maintain insurance contracts in accordance with the
+requirements contained herein.</li>
+<li value="2">The payment of monies up to the deductible amount
+made in satisfaction of a claim shall be borne by the
+Contractor.</li>
+</ol>
+<h2>GC9.2 Proof of Insurance</h2>
+<ol type="1">
+<li value="1">Before commencement of the Work, and within thirty
+(30) days after acceptance of its bid, the Contractor shall deposit
+with Canada a Certificate of Insurance form PWGSC-TPSGC 357.
+</li>
+<li value="2">Upon request by Canada, the Contractor shall provide
+originals or certified true copies of all contracts of insurance
+maintained by the Contractor pursuant to the provisions contained
+herein.</li>
+<li value="3">The insurance policies shall be endorsed to provide
+Canada with not less than thirty (30) days notice in writing in
+advance of a cancellation of insurance or any reduction in
+coverage.</li>
+</ol>
+<h2>GC9.3 Commercial General Liability</h2>
+<ol type="1">
+<li value="1">The insurance coverage provided shall not be less
+than that provided by <abbr title="Insurance Bureau of Canada">IBC</abbr> Form 2100, as amended from time to time,
+and shall have an Each Occurrence Limit of not less than
+$5,000,000.</li>
+<li value="2">The policy shall either include or be endorsed to
+include coverage for the following exposures or hazards if the Work
+is subject thereto:
+<ol type="a">
+<li value="1">Blasting.</li>
+<li value="2">Pile driving and caisson work.</li>
+<li value="3">Underpinning.</li>
+<li value="4">Removal or weakening of support of any building or
+land whether such support be natural or otherwise if the work is
+performed by the insured contractor.</li>
+</ol>
+</li>
+<li value="3">The policy shall insure the Contractor and shall
+include Her Majesty the Queen in right of Canada, represented by
+the Minister of Public Works and Government Services Canada as an
+additional Insured, with respect to liability arising out of the
+operations of the contractor with regard to the work.</li>
+<li value="4">Unless otherwise directed in writing by Canada, or,
+otherwise stipulated elsewhere herein, the policy required herein
+shall be in force and be maintained from the date of contract award
+until the day of issue of the Certificate of Completion.</li>
+</ol>
+</div></pre>

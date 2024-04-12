@@ -1,0 +1,49 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Unless otherwise authorized by the responsible Commodity Team, use the following 
+clause in multi-departmental (master) standing offers and supply arrangements 
+when more than one department is identified as a user of the standing offer or 
+supply arrangement.  Contracting officers must choose between the terms 
+"Standing Offer" and "Supply Arrangement", and between the terms "Offeror" (for 
+standing offers) and "Supplier" (for supply arrangements), as appropriate.  The 
+contracting officer must attach a list of the data to be reported on by the 
+contractor as an annex to the request for standing offer and standing offer 
+documents, or the request for supply arrangement and supply arrangement 
+documents.  The Value Management Office, Acquisition Renewal Sector, requires as 
+a minimum the data elements that are detailed within the business volume report 
+made available at the Standing Offer Index (http://soi.pwgsc.gc.ca).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Offeror/Supplier must compile and maintain records on its provision of 
+goods, services or both to the federal government under contracts resulting 
+from the Standing Offer / Supply Arrangement.  This data must include all 
+purchases ordered, including purchases paid for by a Government of Canada 
+Acquisition Card.  The data must be aggregated and submitted on a quarterly 
+basis to the Public Works and Government Services Canada (PWGSC) 
+Contracting Authority responsible for the Standing Offer / Supply 
+Arrangement.  The reported data must include the data shown at Annex "_____."
+
+Quarterly periods are defined as follows: 
+
+1st quarter: April 1, to June 30;
+2nd quarter: July 1 to September 30;
+3rd quarter: October 1 to December 31;
+4th quarter: January 1 to March 31.
+
+The reporting cut-off date for each quarter is the last Friday of the third 
+calendar month of the quarter. Goods, services or both provided in the 
+period after that day must be included in the next quarter's report. 
+Electronic reports must be completed and forwarded to the PWGSC Contracting 
+Authority no later than 15 calendar days after the end of the quarterly 
+period.
+
+All data fields of the report must be completed as requested.  If some data 
+is not available, the reason must be indicated in the report.  If no goods 
+or services are provided during a given period, the Offeror/Supplier must 
+still provide a "NIL" report.
+
+Failure to provide fully completed quarterly reports in accordance with the 
+above instructions may result in the setting aside of the Standing Offer / 
+Supply Arrangement and the application of a vendor performance corrective 
+measure.
+
+</pre>

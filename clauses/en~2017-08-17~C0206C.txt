@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in all cost reimbursable contracts when the price of the work is subject to a
+  
+   limitation of expenditure
+  
+  .
+ </p>
+<p>
+  Use option 1 when all the work is subject to a limitation of expenditure.
+ </p>
+<p>
+  Use option 2 when only a portion of the work is subject to a limitation of expenditure.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   C6001C
+  
+  ; for option 2, clause
+  
+   C6001C
+  
+  applies only to the portion of the work which is subject to a limitation of expenditure.
+ </p>
+<p>
+  For contracts with task authorizations, use clause
+  
+   C0204C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p><kbd><strong>Instruction to contracting officers: complete and insert one of the following options:</strong></kbd> </p> <div class="sacc-item">
+<h2>Option 1</h2>
+<p>The Contractor will be paid for its costs reasonably and properly incurred in the performance of the Work, <em><span class="input-required"><var>______</var> <kbd>(insert, if applicable, "and profit,")</kbd></span></em> in accordance with the Basis of payment in annex <var>_____</var>, to a limitation of expenditure of <span class="input-required"><em>$<var>________</var></em> <kbd>(<em>insert the amount at contract award</em>)</kbd></span>. Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<h2>Option 2</h2>
+<p>For the Work described in <span class="input-required"><var>_________</var> <kbd>(<em>insert the applicable section(s) of the statement of work or requirement to which this basis of payment applies</em>)</kbd></span> of the <span class="input-required"><var>________</var> <kbd>(<em>insert "Statement of Work" or "Requirement"</em>)</kbd></span> in annex <var>____</var> :</p>
+<p>The Contractor will be paid for its costs reasonably and properly incurred in the performance of the Work, <span class="input-required"><var>_______</var> <kbd>(<em>insert, if applicable, "and a profit,"</em>)</kbd></span> in accordance with the Basis of payment in annex <var>____</var>, to a limitation of expenditure of <span class="input-required"><em>$<var>________</var></em><kbd>(<em>insert the amount at contract award</em>).</kbd></span> Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+</div></pre>

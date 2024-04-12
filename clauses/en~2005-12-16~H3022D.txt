@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to provide invoicing instructions when progress 
+payments are made.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Progress payments will only be made upon receipt of satisfactory 
+       form PWGSC-TPSGC 1111, Claim for Progress Payment (<strong>http://www.pwgsc.gc.ca
+       /acquisitions/text/forms/forms-e.html</strong>), as specified in the Contract.
+
+2.     Progress claims are to be forwarded to the Project/Inspection 
+       Authority for appropriate certification after inspection and 
+       acceptance of the Work takes place.  Upon certification, the 
+       original and two (2) copies of the claim are then forwarded to the 
+       Contracting Authority for certification and onward submission to the 
+       Project Manager's Payment Office for all remaining certifications 
+       and payment action.
+
+3.     Progress claims shall not be submitted by the Contractor until all 
+       Work identified in the claim has been completed.
+
+4.     Goods and Services Tax or Harmonized Sales Tax (GST/HST), as 
+       appropriate, is to be calculated and paid on the total amount of the 
+       claim before the 10 percent holdback is applied.  At the time that 
+       the holdback is released, there will be no GST/HST payable, as it 
+       was included in the previous payments.
+
+</pre>

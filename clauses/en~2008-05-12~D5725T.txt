@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for the Department of National 
+Defence for procurement of Safety Critical Class 3 threaded fasteners,
+  <abbr title="North Atlantic Treaty Organization">
+   NATO
+  </abbr>
+  Stock Number classes 5305, 5306, 5307, 5310 and 5315.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   D5725C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>By submitting a bid, the Bidder certifies that the stated price
+for each of the items above includes inspection/test reports called
+up under clause D5725C.</p>
+</div></pre>

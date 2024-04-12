@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations.  The contracting officer should 
+use discretion, but it is recommended that this clause be used when the work 
+will not exceed four months.  This clause is generally used for, but not limited 
+to, marine requirements.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Where the Bidder has a labour agreement, or other suitable
+instrument, in place with its unionized labour, it must be valid
+for the proposed period of any resulting contract. Documentary
+evidence of the agreement or suitable instrument must be provided
+on or before bid closing date.</p>
+</div></pre>

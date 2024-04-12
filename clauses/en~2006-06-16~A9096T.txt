@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations.
+
+Do not use for Low Dollar Value and Medium Complexity requirements if the Plain 
+Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada requires that the bid be signed by the Bidder or by an authorized 
+   representative of the Bidder.  If a bid is being submitted by a joint 
+   venture, the bid must clearly state that it is submitted as a joint 
+   venture and must be signed by all members of the joint venture or a 
+   statement must be provided to the effect that the signatory represents 
+   all members of the joint venture.
+</pre>

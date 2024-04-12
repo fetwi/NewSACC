@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when work is performed on government 
+premises and the Contractor is required to dispose of hazardous waste that is 
+removed from or uncovered on the site in accordance with applicable laws.
+ </p>
+<p>
+  Use clause
+  
+   A9016C
+  
+  when the contract includes specific hazardous waste disposal 
+requirements.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must dispose of any hazardous waste removed or
+uncovered in the performance of the Work in accordance with any
+applicable law.</p>
+</div></pre>

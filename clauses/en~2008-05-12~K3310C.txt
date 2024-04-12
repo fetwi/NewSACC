@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts only if Canada owns the Intellectual 
+Property Rights in the Foreground Information pursuant to the conditions of the 
+contract and agrees to grant a license to the contractor to use the foreground 
+information without the right to sublicense the use of that foreground 
+information.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   K3305C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor does not have the right to sub-license or
+otherwise authorize any party to exercise any of the Intellectual
+Property Rights in the Foreground Information.</p>
+</div></pre>

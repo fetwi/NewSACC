@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause only where the Contractor is to own the foreground 
+information and where either supplemental general conditions 9601-6 or general 
+conditions 9624 form part of the Contract.
+
+Add the following clause if the Contractor is to be required to protect its or 
+Canada's interest in the intellectual property (usually where there is also a 
+requirement to exploit the intellectual property in Canada).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall take reasonable measures to protect the Intellectual 
+Property Rights in the Foreground Information, and in any case shall take 
+at least the same measures as it takes in relation to other similar 
+intellectual property owned by the Contractor.
+
+
+</pre>

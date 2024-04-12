@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in requests for standing offers which are estimated 
+over $25,000 and below $200,000 (including all applicable taxes), except 
+requirements excluded under paragraphs 5.129 (d), (e) and (f) of Supply Manual. 
+
+For bid solicitations, use clause K2002T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Offerors who are subject to the Federal Contractors Program for Employment 
+Equity (FCP-EE) and have been declared ineligible contractors by Human 
+Resources and Social Development Canada (HRSDC) are no longer eligible to 
+receive federal government contracts over the threshold for solicitation of 
+bids as set out in the <em>Government Contracts Regulations</em>.  Offerors may be 
+declared ineligible contractors either as a result of a finding of 
+non-compliance by HRSDC, or following their voluntary withdrawal from the 
+FCP-EE for a reason other than a reduction of their workforce.  Any offers 
+from ineligible contractors will not be considered for issuance of a 
+standing offer.
+
+The Offeror certifies that it has not been declared an ineligible 
+contractor by HRSDC and has a valid certificate number.
+
+
+</pre>

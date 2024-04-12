@@ -1,0 +1,44 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when contractor's employees will have 
+care, custody or control of money, securities, and other valuable property 
+belonging to other parties such as administering cash or instruments of 
+securities; property of value that is in the trust of the contractor or that the 
+contractor purchases on behalf of Canada.
+ </p>
+<p>
+  Employee Dishonesty insurance can be regarded as a formal bonding for the 
+contractor's employees.
+ </p>
+<p>
+  The limits are to be evaluated on a case-by-case basis.  For further assistance, 
+contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Comprehensive Crime (Fidelity) insurance on a Blanket basis, and maintain it in force throughout the duration of the Contract period, in an amount as listed below:
+            <ol type="a">
+<li value="1">Insuring Agreement 1: Employee Dishonesty (Form A) in an amount of not less than $
+                    <var>______</var> covering all employees of the Contractor. Such Fidelity Insurance must contain a "Third-Party Extension" or "Client Coverage" extending such coverage to Canada with respect to the risks associated with this agreement.
+                </li>
+<li value="2">Agreement II/III: Money &amp; Securities Loss Inside Premises/Outside Premises in an amount not less than $
+                    <var>________</var> ;</li>
+</ol>
+</li>
+<li value="2">The Comprehensive Crime insurance must include the following:
+            <ol type="a">
+<li value="1">Notice of Cancellation: The Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="2">Loss Payee: Canada as its interest may appear or as it may direct.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

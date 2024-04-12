@@ -1,0 +1,44 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts with task authorizations (TAs) when the 
+project or technical authority may authorize individual
+  <abbr title="Task Authorization">
+   TA
+  </abbr>
+  s up to a specific 
+limit.
+ </p>
+<p>
+  Contracting officers may need to modify the text of this clause to address their 
+specific requirement.  For Department of National Defence (DND) contracts with 
+task authorizations, contracting officers may need to delete the reference to 
+Project and Technical Authority and insert the name, address and
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  designation, as applicable.
+ </p>
+<p>
+  For more information, consult
+  
+   3.35.1.20
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The <span class="input-required"><var>__________</var>
+<kbd>(<em>insert: "Project" or "Technical" Authority</em>)</kbd></span> may
+authorize individual task authorizations up to a limit of
+$<span class="input-required"><var>_______</var> <kbd>(<em>insert amount</em>)</kbd></span>, Applicable Taxes included, inclusive of any revisions.</p>
+<p>Any task authorization to be issued in excess of that limit must
+be authorized by the <span class="input-required"><var>_________</var> <kbd>(<em>insert "Project" or
+"Technical" Authority and Contracting Authority"
+or "the Contracting Authority"</em>)</kbd></span> before issuance.</p>
+</div></pre>

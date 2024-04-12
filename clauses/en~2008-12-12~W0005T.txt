@@ -1,0 +1,19 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the procurement is reserved for beneficiaries of a 
+Comprehensive Land Claims Agreement (CLCA), further to a right of first refusal 
+under one or more CLCAs.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is reserved for beneficiaries of the following 
+Comprehensive Land Claims Agreement(s) (CLCAs) : _____ (<span class="wsInlineRemark">insert the 
+applicable CLCA(s)</span>) under _____ (<span class="wsInlineRemark">insert the applicable paragraph and 
+article numbers).</span>
+
+This procurement is set aside from the  ______ [<span class="wsInlineRemark">insert the applicable 
+international trade agreements</span>: "North American Free Trade Agreement (NAFTA) 
+under Annex 1001.2b, Article 1.(d)" <span class="wsInlineRemark">and/or</span> "World Trade Organization - 
+Agreement on Government Procurement (WTO-AGP) under Appendix 1, article 1.(
+d)"].
+
+
+
+</pre>

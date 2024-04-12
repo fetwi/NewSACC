@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor must provide the 
+services of specific person(s) with particular qualifications and experience to 
+perform the work as requested by the client department.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must provide the services of the following
+person(s) to perform the Work as stated in the Contract:<span class="input-required"><var>_______</var> <kbd>(<em>insert name(s) of person(s)</em>)</kbd></span>.</p>
+</div></pre>

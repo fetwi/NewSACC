@@ -1,0 +1,178 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2022-01-28R1210Ddefinitions">GC1.1 Definitions</a></li>
+<li><a href="#2022-01-28R1210Dinterpretations">GC1.2 Interpretations</a></li>
+<li><a href="#2022-01-28R1210D1-3-not-applicable">GC1.3 Not applicable</a></li>
+<li><a href="#2022-01-28R1210Dassignment">GC1.4 Assignment</a></li>
+<li><a href="#2022-01-28R1210Dnational-or-departmental-security">GC1.5 National or departmental security</a>
+</li>
+<li><a href="#2022-01-28R1210Dconflict-of-interest">GC1.6 Conflict of Interest and Values and Ethics Codes for the Public Service</a></li>
+<li><a href="#2022-01-28R1210Dstatus-of-consultant">GC1.7 Status of Consultant</a></li>
+<li><a href="#2022-01-28R1210Dentire-agreement">GC1.8 Entire agreement</a></li>
+<li><a href="#2022-01-28R1210Dcontingency-fees">GC1.9 Contingency fees</a></li>
+<li><a href="#2022-01-28R1210Dtaxes">GC1.10 Taxes</a></li>
+<li><a href="#2022-01-28R1210Djoint-and-several-liability">GC1.11 Joint and several liability</a>
+</li>
+<li><a href="#2022-01-28R1210Dperformance-evaluation">GC1.12 Performance-evaluation: Contract</a>
+</li>
+<li><a href="#2022-01-28R1210Dintegrity-provisions">GC1.13 Integrity provisions: Contract</a></li>
+<li><a href="#2022-01-28R1210Dinternational-sanctions">GC1.14 International sanctions</a></li>
+<li><a href="#2022-01-28R1210Dcode-of-conduct-for-procurement">GC1.15 Code of Conduct for Procurement: Contract </a></li>
+</ul>
+</div>
+<h2 id="2022-01-28R1210Ddefinitions"><span class="clauseRef">R1210D</span> GC1.1 (2018-06-21) Definitions</h2>
+<dl>
+<dt>"Applicable Taxes"</dt>
+<dd>means the Goods and Services Tax (GST), the Harmonized Sales Tax (HST), and any provincial tax, by law, payable by Canada such as, the Quebec Sales Tax (QST) as of April 1, 2013; </dd>
+<dt>"Architectural and Engineering Services"</dt>
+<dd>means services to provide a range of investigation and recommendation reports, planning, design, preparation, or supervision of the construction, repair, renovation or restoration of a work and includes contract administration services, for real property projects;</dd>
+<dt>"Average Bank Rate"</dt>
+<dd>means the simple arithmetic mean of the Bank Rate in effect at 4:00 p.m. Eastern Time each day during the calendar month which immediately precedes the calendar month in which payment is made;</dd>
+<dt>"Bank Rate"</dt>
+<dd>means the rate of interest established from time to time by the Bank of Canada as the minimum rate at which it makes short term advances to members of the Canadian Payments Association (Payments Canada);</dd>
+<dt>"Canada", "Crown", "Her Majesty" or the "Government"</dt>
+<dd>means Her Majesty the Queen in right of Canada;</dd>
+<dt>"Construction Contract"</dt>
+<dd>means a contract entered into between Canada and a Contractor for the construction of the Project;</dd>
+<dt>"Construction Services"</dt>
+<dd>means construction, repair, renovation or restoration of any work except a vessel and includes; the supply and erection of a prefabricated structure; dredging; demolition; environmental services related to a real property; or, the hire of equipment to be used in or incidentally to the execution of any construction services referred to above;</dd>
+<dt>"Construction Contract Award Price"</dt>
+<dd>means the price at which a Construction Contract is awarded to a Contractor;</dd>
+<dt>"Construction Cost Estimate"</dt>
+<dd>means an anticipated amount for which a Contractor will execute the construction of the Project;</dd>
+<dt>"Construction Cost Limit"</dt>
+<dd>means that portion of the total amount of Project funds which shall not be exceeded on construction of the Project;</dd>
+<dt>"Consultant"</dt>
+<dd>means the party which submitted a responsive proposal which was accepted by Canada to perform the Consultant Services under the Agreement, and includes the officer or employee of the Consultant identified in writing by the Consultant;</dd>
+<dt>"Contracting Authority"</dt>
+<dd>means the party identified on the front cover page responsible for the establishment of the agreement, its amendments, administration and any contractual issues related to it;</dd>
+<dt>"Contractor"</dt>
+<dd>means a person, firm or corporation with whom Canada enters, or intends to enter, into a Construction Contract;</dd>
+<dt>"Contract Price"</dt>
+<dd>means the amount stated in the Agreement to be payable to the Consultant for the Services, exclusive of Applicable Taxes;</dd>
+<dt>"Cost Plan"</dt>
+<dd>means the allocation of proposed costs among the various elements of the Project, as described in the Project Brief or Terms of Reference;</dd>
+<dt>"Days"</dt>
+<dd>means continuous calendar days, including weekends and statutory public holidays;</dd>
+<dt>"Departmental Representative"</dt>
+<dd>means the officer or employee of Canada identified to the consultant in writing by a duly authorized departmental officer to perform the Departmental Representative's duties under the Agreement;</dd>
+<dt>"Facility Maintenance Services"</dt>
+<dd>means services related to activities normally associated with the maintenance of a facility and keeping spaces, structures and infrastructure in proper operating condition in a routine, scheduled, or anticipated fashion to prevent failure and degradation including inspection, testing, servicing, classification as to serviceability, repairs, rebuilding and reclamation, as well as cleaning, waste removal, snow removal, lawn care, replacement of flooring, lighting or plumbing fixtures, painting and other minor works;</dd>
+<dt>"Mediation"</dt>
+<dd>is a process of dispute resolution in which a neutral third party assists the parties involved in a dispute to negotiate their own settlement;</dd>
+<dt>"Project Brief" or "Terms of Reference"</dt>
+<dd>means a document describing in sufficient detail the Services to be provided by the Consultant to permit the Consultant to proceed with the Services and may include general project information, scope of the work, site and design data, and time plan, specifically related to the Project;</dd>
+<dt>"Project Schedule"</dt>
+<dd>means a time plan, including the sequence of tasks, milestone dates and critical dates which must be met for the implementation of the planning, design and construction phases of the Project;</dd>
+<dt>"Services"</dt>
+<dd>means the services provided by the Consultant and the services required by the project, as set forth in the Agreement;</dd>
+<dt>"Specialist Consultant"</dt>
+<dd>means any Architect, Professional Engineer, or other specialist, other than the Consultant, engaged by Canada directly or, at the specific request of Canada, engaged by the Consultant;</dd>
+<dt>"Sub-Consultant"</dt>
+<dd>means any Architect, Professional Engineer, or other specialist engaged by the Consultant for the Services included in the Agreement;</dd>
+<dt>"Technical Documentation"</dt>
+<dd>includes designs, reports, photographs, physical models, surveys, drawings, specifications, computer software developed for the purpose of the Project, computer printouts, design notes, calculations, <abbr title="Computer-aided Design and Drafting">CADD</abbr> (Computer-aided Design and Drafting) files, and other data, information and material, prepared, computed, drawn, or produced and operating and maintenance manuals either prepared or collected for the Project.</dd>
+<dt>"Total Estimated Cost", “Revised Estimated Cost”, “Increase (Decrease)”</dt>
+<dd>on page 1 of the Contract or Contract Amendment means an amount used for internal administrative purposes only that comprises the Contract Price, or the revised Contract Price, or the amount that would increase or decrease the Contract Price and the Applicable Taxes as evaluated by the Contracting Authority, and does not constitute tax advice on the part of Canada.</dd>
+</dl>
+<h2 id="2022-01-28R1210Dinterpretations"><span class="clauseRef">R1210D</span> GC1.2 (2011-05-16) Interpretations</h2>
+<ol>
+<li>Words importing the singular only also include the plural, and vice versa, where the context requires;</li>
+<li>Headings or notes in the Agreement shall not be deemed to be part thereof, or be taken into consideration in its interpretation;</li>
+<li>"<dfn>Herein</dfn>", "<dfn>hereby</dfn>", "<dfn>hereof</dfn>", "<dfn>hereunder</dfn>" and similar expressions refer to the Agreement as a whole and not to any particular subdivision or part thereof.</li>
+</ol>
+<h2 id="2022-01-28R1210D1-3-not-applicable"><span class="clauseRef">R1210D</span> GC1.3 (2015-03-25)
+        Not applicable</h2>
+<p>Not applicable.</p>
+<h2 id="2022-01-28R1210Dassignment"><span class="clauseRef">R1210D</span> GC1.4 (2012-07-16) Assignment</h2>
+<ol>
+<li>The Agreement shall not be assigned, in whole or in part, by the Consultant without the prior written consent of Canada</li>
+<li>An assignment of the Agreement without such consent shall not relieve the Consultant or the assignee from any obligation under the Agreement, or impose any liability upon Canada.</li>
+</ol>
+<h2 id="2022-01-28R1210Dnational-or-departmental-security"><span class="clauseRef">R1210D</span> GC1.5 (2011-05-16) National or departmental security
+    </h2>
+<ol>
+<li>If the Departmental Representative is of the opinion that the Project is of a class or kind that involves national or departmental security, the Consultant may be required:
+            <ol type="a">
+<li>to provide any information concerning persons employed for purposes of the Agreement unless prohibited by law;</li>
+<li>to remove any person from the Project and its site if that person cannot meet the prescribed security requirements;
+                    and</li>
+<li>to retain the Project Technical Documentation while in the Consultant's possession in a manner specified by the Departmental Representative.</li>
+</ol>
+</li>
+<li>Notwithstanding the provision of GC 4 - Intellectual Property, if the Project is of a class or kind that involves national or departmental security, the Consultant shall not issue, disclose, discard or use the Project Technical Documentation on another project without the written consent of the Departmental Representative.</li>
+</ol>
+<h2 id="2022-01-28R1210Dconflict-of-interest"><span class="clauseRef">R1210D</span> GC1.6 (2011-05-16) Conflict of Interest and Values and Ethics Codes for the Public Service</h2>
+<ol>
+<li>The Consultant declares that the Consultant has no pecuniary interest in the business of any third party that would cause, or seem to cause, a conflict of interest in carrying out the Services, and should such an interest be acquired during the life of the Agreement, the Consultant shall declare it immediately to the Departmental Representative.</li>
+<li>The Consultant shall not have any tests or investigations carried out by any persons, firms, or corporations, that may have a direct or indirect financial interest in the results of those tests or investigations.</li>
+<li>The Consultant shall not submit, either directly or indirectly, a bid for any Construction Contract related to the Project.</li>
+<li>The Consultant acknowledges that individuals who are subject to the provisions of the <cite>Conflict of interest Act</cite>, 2006, <abbr title="chapter">c.</abbr> 9, <abbr title="section">s.</abbr>2, the <cite>Conflict of interest Code for Members of the House of Commons</cite>, the <cite>Values and Ethics Code for the Public Service</cite> or all other codes of values and ethics applicable within specific organizations cannot derive any direct benefit resulting from the Agreement.</li>
+<li>The Consultant shall not be eligible to compete as a consultant or sub-consultant for a project which may result from the provision of the Services if the Consultant is involved in the development of a Project Brief or Terms of Reference, a Request for Proposal or similar documents for such project.</li>
+</ol>
+<h2 id="2022-01-28R1210Dstatus-of-consultant"><span class="clauseRef">R1210D</span> GC1.7 (2013-01-28) Status of Consultant</h2>
+<p>The Consultant is an independent contractor engaged by Canada to perform the Services. Nothing in the Agreement is intended to create a partnership, a joint venture or an agency between Canada and the other party or parties. The Consultant must not represent itself as an agent or representative of Canada to anyone. Neither the Consultant nor any of its personnel is engaged as an employee or agent of Canada. The Consultant is responsible for all deductions and remittances required by law in relation to its employees.</p>
+<h2 id="2022-01-28R1210Dentire-agreement"><span class="clauseRef">R1210D</span> GC1.8 (2011-05-16) Entire agreement</h2>
+<p>The Agreement constitutes the entire arrangement between the parties with respect to the subject matter of the Agreement, and supersedes all previous negotiations, communications and other arrangements relating to it, unless incorporated by reference herein.</p>
+<h2 id="2022-01-28R1210Dcontingency-fees"><span class="clauseRef">R1210D</span> GC1.9 (2011-05-16) Contingency fees</h2>
+<p>The Consultant certifies that it has not, directly or indirectly, paid or agreed to pay and agrees that it will not, directly or indirectly, pay a contingency fee for the solicitation, negotiation or obtaining of the contract to any person, other than an employee of the Consultant acting in the normal course of the employee's duties. In this section, "<dfn>contingency fee</dfn>"
+        means any payment or other compensation that depends or is calculated based on a degree of success in soliciting, negotiating or obtaining the contract and "person" includes any individual who is required to file a return with the registrar pursuant to section 5 of the <cite>Lobbying Act</cite>, 1985, <abbr title="chapter">c.</abbr>. 44 (4th Supplement).</p>
+<h2 id="2022-01-28R1210Dtaxes"><span class="clauseRef">R1210D</span> GC1.10 (2013-04-25) Taxes</h2>
+<ol>
+<li> Federal government departments and agencies are required to pay Applicable Taxes. </li>
+<li> Applicable Taxes will be paid by Canada as provided in the invoice submission. Applicable Taxes must be specified on all invoices as a separate item along with corresponding registration numbers from the tax authorities. All items that are zero-rated, exempt or to which Applicable Taxes do not apply, must be identified as such on all invoices. It is the sole responsibility of the Consultant to charge Applicable Taxes at the correct rate in accordance with applicable legislation. The Consultant agrees to remit to appropriate tax authorities any amounts of Applicable Taxes paid or due. </li>
+<li> The Consultant is not entitled to use Canada’s exemptions from any tax, such as provincial sales taxes, unless otherwise specified by law. The Consultant must pay applicable provincial sales tax, ancillary taxes, and any commodity tax, on taxable goods or services used or consumed in the performance of the Agreement (in accordance with applicable legislation), including for material incorporated into real property. </li>
+<li> In those cases where Applicable Taxes, customs duties, and excise taxes are included in the Contract Price, the Contract Price will be adjusted to reflect any increase, or decrease, of Applicable Taxes, customs duties, and excise taxes that will have occurred between bid submission and contract award. However, there will be no adjustment for any change to increase the Contract Price if public notice of the change was given before bid submission date in sufficient detail to have permitted the Consultant to calculate the effect of the change. </li>
+<li> Tax Withholding of 15 Percent – Canada Revenue Agency
+            <p>Pursuant to the <cite>Income Tax Act</cite>, 1985, <abbr title="chapter">c.</abbr> 1 (5th Supp.) and the <cite>Income Tax Regulations</cite>, Canada must withhold 15 percent of the amount to be paid to the Consultant in respect of services provided in Canada if the Consultant is not a resident of Canada, unless the Consultant obtains a valid waiver from the Canada Revenue Agency. The amount withheld will be held on account for the Consultant in respect to any tax liability which may be owed to Canada.</p>
+</li>
+</ol>
+<h2 id="2022-01-28R1210Djoint-and-several-liability"><span class="clauseRef">R1210D</span> GC1.11 (2011-05-16) Joint and several liability
+    </h2>
+<p>If at any time there is more than one legal entity constituting the Consultant, their covenants under the Agreement shall be considered to be joint and several and apply to each and every entity. If the Consultant is or becomes a partnership or joint venture, each legal entity who is a member or becomes a member of the partnership or joint venture or its successors is and continues to be jointly and severally liable for the performance of the services and all the covenants of the Consultant pursuant to this Agreement, whether or not that entity ceases to be a member of the partnership, joint venture or its successor.</p>
+<h2 id="2022-01-28R1210Dperformance-evaluation"><span class="clauseRef">R1210D</span> GC1.12 (2017-08-17)
+        Performance-evaluation: Contract</h2>
+<ol>
+<li>The performance of the Consultant during and upon completion of the services will be evaluated by Canada. The evaluation includes all or some of the following criteria:
+            <ol type="a">
+<li>design</li>
+<li>quality of results</li>
+<li>management</li>
+<li>time</li>
+<li>cost</li>
+</ol>
+</li>
+<li>A weighting factor of 20 points will be assigned to each of the five criteria as follows:
+            <ol type="a">
+<li>unacceptable: 0 to 5 points</li>
+<li>not satisfactory: 6 to 10 points</li>
+<li>satisfactory: 11 to 16 points</li>
+<li>superior: 17 to 20 points</li>
+</ol>
+</li>
+<li>The consequences resulting from the performance evaluation are as follows:
+            <ol type="a">
+<li>For an overall rating of 85% or higher, a congratulation letter is sent to the Consultant.</li>
+<li>For an overall rating of between 51% and 84%, a standard "meets expectations", letter is sent to the Consultant.</li>
+<li>For an overall rating of between 30% and 50%, a warning letter is sent to the Consultant indicating that if, within the next two years from the date of the letter, they receive 50% or less on another evaluation, the Consultant may be suspended from any new Public Works and Government Services Canada (PWGSC) solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year.</li>
+<li>For an overall rating of less than 30%, a suspension letter is sent to the Consultant indicating that the Consultant is suspended from any new <abbr title="Public Works and Government Services Canada">PWGSC</abbr> solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year from the date of the letter. </li>
+<li>When general average is between 30% and 50% and one of the rating is of 5 points or less on any one criterion, a suspension letter is sent to the Consultant indicating that the Consultant is suspended from any new <abbr title="Public Works and Government Services Canada">PWGSC</abbr> solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year from the date of the letter.</li>
+</ol>
+</li>
+</ol>
+<p>The form PWGSC-TPSGC 2913-1, Select - Consultant Performance Evaluation Report (CPERF), is used to record the performance.</p>
+<h2 id="2022-01-28R1210Dintegrity-provisions"><span class="clauseRef">R1210D</span> GC1.13 (2016-04-04 Integrity provisions: Contract</h2>
+<p>The <cite>Ineligibility and Suspension Policy</cite> (the “Policy”) and all related Directives incorporated by reference into the bid solicitation on its closing date are incorporated into, and form a binding part of the Contract. The Consultant must comply with the provisions of the Policy and Directives, which can be found on Public Works and Government Services Canada’s website at <cite>Ineligibility and Suspension Policy</cite>.</p>
+<h2 id="2022-01-28R1210Dinternational-sanctions"><span class="clauseRef">R1210D</span> GC1.14 (2021-12-02) International sanctions</h2>
+<ol>
+<li>Persons in Canada, and Canadians outside of Canada, are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries or persons subject to economic sanctions.</li>
+<li>The Consultant must not supply to the Government of Canada any goods or services which are subject to economic sanctions.</li>
+<li>The Consultant must comply with changes to the regulations imposed during the period of the Agreement. The Consultant must immediately advise Canada if it is unable to perform the Services as a result of the imposition of economic sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services. If the parties cannot agree on a work around plan, the Agreement will be terminated for the convenience of Canada in accordance with terms and conditions of the Agreement.</li>
+</ol>
+<h2 id="2022-01-28R1210Dcode-of-conduct-for-procurement"><span class="clauseRef">R1210D</span> GC1.15 (2022-01-28) Code of Conduct for Procurement: Contract</h2>
+<p>The Consultant agrees to comply with the <cite>Code of Conduct for Procurement</cite> and to be bound by its terms for the period of the Contract.</p>
+</div></pre>

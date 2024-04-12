@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when the client has confirmed that the 
+contract will be a defence contract as defined in the Defence Production Act.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contract is a defence contract within the meaning of the
+<cite>Defence Production Act</cite>, <abbr title="Revised Statutes of Canada">R.S.C.</abbr> 1985, <abbr title="chapter">c.</abbr> D-1, and must
+be governed accordingly.</p>
+<p>Title to the Work or to any materials, parts, work-in-process or
+finished work must belong to Canada free and clear of all claims,
+liens, attachments, charges or encumbrances. Canada is entitled, at
+any time, to remove, sell or dispose of the Work or any part of the
+Work in accordance with section 20 of the <cite>Defence Production Act</cite>.</p>
+</div></pre>

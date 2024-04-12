@@ -1,0 +1,50 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive requests for standing offers for 
+multiple items (line item) when competition is conditionally limited to Canadian 
+goods and the certification must be done on an item by item basis as defined in 
+paragraph 3(b) of clause A3050T.
+
+Contracting officers must select one of the options provided in the clause.
+
+Use clause M3063T for multiple items when the certification must be done on an 
+aggregate basis.
+
+Use this clause in conjunction with A3050T and M3060C.
+
+Contracting officers must review the Canadian Content Policy (Supply Manual, 
+Chapter 5 and Annex 5.1) to establish if the requirement is subject to the 
+policy.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is conditionally limited to Canadian goods.
+
+Subject to the evaluation procedures contained in the request for standing 
+offer, offerors acknowledge that only offers for items with a certification 
+that the item(s) offered are Canadian goods, as defined in clause A3050T, 
+may be considered.
+
+Failure to provide this certification completed with the offer will result 
+in the item(s) offered being treated as non-Canadian goods.
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers: </strong></span><span class="wsInlineRemark">Choose one of the following options:</span>
+
+       "Offerors must clearly identify beside each item listed in the 
+       request for standing offer document which items meet the definition 
+       of Canadian good and complete the following certification." 
+
+<strong>       </strong><strong><em>OR</em></strong>
+
+       "Offerors must clearly identify below which items meet the 
+       definition of Canadian good and complete the certification below."
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+The Offeror certifies that: 
+
+              (     )       the item(s) offered and identified as Canadian 
+              goods are Canadian goods as defined in paragraph 1 of clause 
+              A3050T.
+       
+
+</pre>

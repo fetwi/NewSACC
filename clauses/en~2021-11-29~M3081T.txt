@@ -1,0 +1,67 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in the ‘Certifications’ section of any Requests for Standing Offers (RFSOs) where any of the call-ups under the resulting Standing Offer may be subject to the COVID-19 Vaccination Policy for Supplier Personnel.
+ </p>
+<p>
+  Use this clause in conjunction with:
+ </p>
+<ul>
+<li>
+
+    2035: General Conditions - Higher Complexity – Services
+   
+   ,
+   
+    2040: General Conditions - Research and Development
+   
+   , or
+   
+    4013: Compliance with on-site measures, standing orders, policies, and rules
+   
+   ;
+  </li>
+<li>
+
+    4014: Suspension of the work
+   
+   (only if a ‘Suspension of the work’ clause is not already included in the General Conditions);
+  </li>
+<li>
+
+    M3080T: COVID-19 vaccination requirement for Standing Offers
+   
+   ;
+  </li>
+<li>
+
+    M3082T: COVID-19 vaccination requirement certification compliance – Standing Offers
+   
+   ;
+  </li>
+<li>
+
+    M3015T: Certification – Standing Offers
+   
+   (only if equivalent language is not already included in the solicitation; clause not needed if using
+   <abbr title="Public Works and Government Services Canada">
+    PWGSC
+   </abbr>
+   Standard Procurement Templates); and
+  </li>
+<li>
+
+    M3015C: Compliance with Certification – Standing Offers
+   
+   (only if equivalent language is not already included in the contract; clause not needed if using
+   <abbr title="Public Works and Government Services Canada">
+    PWGSC
+   </abbr>
+   Standard Procurement Templates).
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>In accordance with the COVID-19 Vaccination Policy for Supplier Personnel, all offerors must provide with their offer, the COVID-19 Vaccination Requirement Certification attached to this <abbr title="Request for Standing Offers">RFSO</abbr>, to be given further consideration in this procurement process. This Certification is incorporated into, and forms a binding part of any resulting Contract.</p> <h3>COVID-19 Vaccination Requirement Certification </h3> <span class="input-required"><var>_______________________</var> <em>(first and last name)</em></span> <span class="input-required"><var>_______________________</var> <em>(name of business)</em></span> <span class="input-required"><var>_______________________</var> <em>(insert solicitation number)</em></span> <var>_______________________</var> <em>(name of business)</em> <ol type="a">
+<li>fully vaccinated against COVID-19;</li>
+<li>for personnel that are unable to be vaccinated due to a certified medical contraindication, religion or other prohibited grounds of discrimination under the <cite>Canadian Human Rights Act</cite>, subject to accommodation and mitigation measures that have been presented to and approved by Canada; or</li>
+<li>partially vaccinated against COVID-19 for a period of up to 10 weeks from the date of their first dose and subject to temporary measures that have been presented to and approved by Canada, immediately after which period the personnel will meet the conditions of (a) or (b) or will no longer access federal government workplaces where they may come into contact with public servants under this Contract;</li>
+</ol> <p>until such time that Canada indicates that the vaccination requirements of the COVID-19 Vaccination Policy for Supplier Personnel are no longer in effect.</p> <p>I certify that all personnel provided by <var>_______________________</var> <em>(name of business)</em> have been notified of the vaccination requirements of the Government of Canada’s COVID-19 Vaccination Policy for Supplier Personnel, and that the <var>_______________________</var> <em>(name of business)</em> has certified to their compliance with this requirement. </p> <p>I certify that the information provided is true as of the date indicated below and will continue to be true for the duration of the Standing Offer and any resulting call-ups (contracts). I understand that the certifications provided to Canada are subject to verification at all times. I also understand that Canada will declare an Offeror or contractor in default, if a certification is found to be untrue, whether made knowingly or unknowingly, during the period of the Standing Offer or call-up (contract). Canada reserves the right to ask for additional information to verify the certifications. Failure to comply with any request or requirement imposed by Canada will constitute a default under the Standing Offer and call-up (contract).</p> <p>Signature: <span class="input-required"><var>_______________________</var></span></p> <p>Date: <span class="input-required"><var>_______________________</var></span></p> <h4>Optional</h4> <p>For data purposes only, initial below if your business already has its own mandatory vaccination policy or requirements for employees in place. Initialing below <strong>is not</strong> a substitute for completing the mandatory certification above.</p> <p>Initials: <span class="input-required"><var>________</var></span></p> <p>Information you provide on this Certification Form and in accordance with the Government of Canada’s COVID-19 Vaccination Policy for Supplier Personnel will be protected, used, stored and disclosed in accordance with the <cite>Privacy Act</cite>. Please note that you have a right to access and correct any information on your file, and you have a right to file a complaint with the Office of the Privacy Commissioner regarding the handling of your personal information. These rights also apply to all individuals who are deemed to be personnel for the purpose for any resulting Contract and who require access to federal government workplaces where they may come into contact with public servants.</p></pre>

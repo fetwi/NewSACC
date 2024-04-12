@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the services involve 
+medical/healthcare professionals.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   G2001C
+  
+  .
+ </p>
+<p>
+  Contracting officers must consult
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  if the suggested limit of $1,000,000 per accident or 
+occurrence is not considered adequate as alternate limits may be established.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Medical Malpractice
+Liability Insurance, and maintain it in force throughout the
+duration of the Contract, in an amount usual for a contract of this
+nature, but for not less than $1,000,000 per loss and in the annual
+aggregate, inclusive of the defence costs.</li>
+<li value="2">Coverage is for what is standard in a Medical
+Malpractice policy and must be for claims arising out of the
+rendering or failure to render medical services resulting in
+injury, mental injury, illness, disease or death of any person
+caused by any negligent act, error or omission committed by the
+Contractor in or about the conduct of the Contractor's professional
+occupation or business of good samaritan acts.</li>
+<li value="3">If the policy is written on a claims-made basis,
+coverage must be in place for a period of at least 12 months after
+the completion or termination of the Contract.</li>
+<li value="4">Notice of Cancellation: The Insurer will endeavour to
+provide the Contracting Authority thirty (30) days written notice
+of cancellation.</li>
+</ol>
+</div></pre>

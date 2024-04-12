@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in contracts to define the palletization requirements for 
+shipments to Canadian Forces Supply Depots.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">For all shipments exceeding 0.566 m3 or 15.88 kg (20
+ft3 or 35 lbs), except for those shipped by courier, the following
+applies:
+<ol type="a">
+<li value="1">The Contractor must strap, and if necessary wrap,
+shipments on standard 1.22 m x 1.02 m (48 in. x 40 in.) wood
+pallets. The four-way forklift entry pallet must be supplied at no
+charge to Department of National Defence. Total height, including
+pallet, must not exceed 1.19 m (47 in.). The pallet load must not
+extend further than 2.54 cm (1 in.) from any edge of the
+pallet.</li>
+<li value="2">The Contractor must group items by stock number (on
+the same pallet) within consolidated shipments. Pallet loads
+composed of more than one stock number must be marked as "<strong>Mixed
+Items</strong>".</li>
+<li value="3">Individual items exceeding 1.22 m (48 in.) in length
+or 453.6 kg (1000 lbs) must be secured to larger pallets or must
+have 10.16 cm x 10.16 cm (4 in. x 4 in.) skids securely fastened to
+the bottom of the item. Skids must be separated by a minimum of
+71.12 cm (28 in.).</li>
+</ol>
+</li>
+<li value="2">Any exception requires the prior approval of the
+Contracting Authority.</li>
+</ol>
+</div></pre>

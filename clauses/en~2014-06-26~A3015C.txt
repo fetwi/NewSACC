@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the bid solicitation includes 
+certifications.
+ </p>
+<p>
+  Use the following clause only if the medium complexity (2T-MED1) and higher 
+complexity (2T-HIGH1) templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Compliance with the certifications provided by the Contractor in
+its bid is a condition of the Contract and subject to verification
+by Canada during the term of the Contract. If the Contractor does
+not comply with any certification or it is determined that any
+certification made by the Contractor in its bid is untrue, whether
+made knowingly or unknowingly, Canada has the right, pursuant to
+the default provision of the Contract, to terminate the Contract
+for default.</p>
+</div></pre>

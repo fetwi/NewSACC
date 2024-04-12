@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when the contractor is a non-resident and 
+is responsible for customs clearance of any tools, equipment or spare parts 
+imported into Canada by its employees or a subcontractor and its employees for 
+use in performing the work.
+
+For more information, consult
+ 
+  Annex 4.3
+ 
+ (8) of the
+ <cite>
+
+   Supply Manual
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor is responsible for customs clearance of any
+tools, equipment or spare parts imported into Canada by its
+employees or a subcontractor and its employees for use in
+performing the Work under the Contract. The Contractor is
+responsible for any customs duties, excise taxes and the Goods and
+Services Tax or Harmonized Sales Tax, if applicable, assessed by
+the customs officials and payable to the Canada Border Services
+Agency.</p>
+</div></pre>

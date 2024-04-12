@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the National Research Council Canada 
+claims exemption of customs duties for goods imported under the Customs Tariff.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The goods described in the Contract constitute apparatus,
+utensils, instruments and related parts, other than glassware, and
+are for use directly in research by National Research Council
+Canada. They are exempt from customs duties under <cite>tariff item <abbr title="Number">No.</abbr>
+9988.00.00</cite> and <cite>Customs Ruling <abbr title="Number">No.</abbr> 153418</cite>, dated 15 September
+1998.</p>
+</div></pre>

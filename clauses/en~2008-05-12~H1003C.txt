@@ -1,0 +1,65 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when progress payments will be made based 
+on cost incurred using progress claim form PWGSC-TPSGC 1111.
+
+Use this clause in conjunction with H3022C or H3024C, if applicable; and in 
+conjunction with H4500C in contracts for goods with a Canadian-based contractor.
+
+Refer to the policy on progress payments (Supply Manual, Section 6E).
+
+Instructions to contracting officers:
+
+1.	Complete the clause where required.
+
+2.	Insert one of the following options in paragraph 2 of the clause.  If the 
+options provided below do not reflect the requirement, contracting officers may 
+revise the paragraph accordingly.
+
+Option 1: Use this paragraph in unit prices contract when the holdback will be 
+paid upon delivery and acceptance of each item.
+
+"The balance of the amount payable will be paid in accordance with the payment 
+provisions of the Contract upon completion and delivery of the item if the Work 
+has been accepted by Canada and a final claim for the payment is submitted."
+
+Option 2: Use this paragraph when payment will be made upon completion and 
+acceptance of all work and deliveries.
+
+"The balance of the amount payable will be paid in accordance with the payment 
+provisions of the Contract upon completion and delivery of all work required 
+under the Contract if the Work has been accepted by Canada and a final claim for 
+the payment is submitted."</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada will make progress payments in accordance with the payment 
+       provisions of the Contract, no more than once a month, for cost 
+       incurred in the performance of the Work up to _____ percent of the 
+       amount claimed and approved by Canada if:
+
+              (a)    an accurate and complete claim for payment using form 
+              PWGSC-TPSGC 1111  (http://www.pwgsc.gc.ca/acquisitions/text/
+              forms/forms-e.html) and any other document required by the 
+              Contract have been submitted in accordance with the invoicing 
+              instructions provided in the Contract;
+              
+              (b)    the amount claimed is in accordance with the Basis of 
+              payment;
+              
+              (c)    the total amount for all progress payments paid by 
+              Canada does not exceed _____ percent of the total amount to 
+              be paid under the Contract;
+              
+              (d)    all certificates appearing on form PWGSC-TPSGC 1111 
+              have been signed by the respective authorized representatives.
+       
+2.     <em>_________</em><span class="wsInlineRemark"> </span><em>(</em><span class="wsInlineRemark"><strong>insert one of the options provided under the Remarks 
+       section above</strong></span><span class="wsInlineRemark">.</span><em>)</em>
+
+3.     Progress payments are interim payments only.  Canada may conduct a 
+       government audit and interim time and cost verifications and 
+       reserves the rights to make adjustments to the Contract from time to 
+       time during the performance of the Work.  Any overpayment resulting 
+       from progress payments or otherwise must be refunded promptly to 
+       Canada.
+
+
+</pre>

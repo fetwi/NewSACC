@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in competitive solicitations or requests for standing offers or supply arrangements for procurements valued above $25 million
+  <abbr title="Canadian dollars">
+   CAD
+  </abbr>
+  including taxes, fees and options when competition is conditionally limited to suppliers who are participating in a greenhouse gas (GHG) emissions disclosure, target-setting and reduction initiative such as the Net-Zero Challenge or equivalent, when evaluation criteria related to
+  <abbr title="greenhouse gas">
+   GHG
+  </abbr>
+  emission targets or participation in the Net-Zero challenge or equivalent, cannot be used. The bidders/offerors/suppliers must not be affiliated within the meaning used in the
+  
+
+    Competition Act
+   
+
+  , R.S.C., 1985, c. C-34.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A9076T
+  
+  and
+  
+   A3021C
+  
+  if applicable. Use this clause in conjunction with
+  
+   A3015T
+  
+  and
+  
+   A3015C
+  
+  if the high complexity or medium complexity templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p><kbd>Instruction to contracting officers: Select “bidder”, “offeror” or “supplier” accordingly.</kbd></p> <p>This procurement is conditionally limited to suppliers who are participating in the Net-Zero Challenge or equivalent.</p> <p>Subject to the evaluation procedures contained in the solicitation, <kbd>bidders/offerors/suppliers</kbd> acknowledge that only <kbd>bids/offers/arrangements</kbd> with a signed Net-Zero Challenge letter of participation may be considered for <var>____</var> <kbd>(<em>insert: “contract award”, “standing offer issuance”, “supply arrangement issuance”, whichever is applicable</em>)</kbd>.</p> <p>Failure to provide a letter of participation and this certification with the <kbd>bid/offer/arrangement</kbd> will result in the <kbd>bid/offer/arrangement</kbd> being treated as not participating in the Net-Zero Challenge or equivalent.</p> <p>The <kbd>bidder/offeror/supplier</kbd> certifies that:</p> <p>(<var>____</var>) they are participating in the Net-Zero Challenge or equivalent.</p> <p>(<var>____</var>) they will maintain participation in the Net-Zero Challenge or equivalent for the duration of the resulting <var>______</var> <kbd>(<em>insert: “contract”, “standing offer”, “supply arrangement”, as applicable</em>)</kbd>.</p></pre>

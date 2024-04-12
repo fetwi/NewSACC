@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all ship refit contract and in all ship/ship system 
+repair and overhaul contracts when the ship will be docked at the contractor's 
+facility or a service facility other than the client department's own docking 
+facility, and Canada reserves the right to have its personnel carry out limited 
+work.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada reserves the right to have its personnel carry out
+limited work on equipment on board the vessel. This work will be
+carried out at times mutually acceptable to Canada and the
+Contractor.</p>
+</div></pre>

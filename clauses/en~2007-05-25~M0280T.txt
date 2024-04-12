@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for standing offers when offerors are 
+required to provide specific documents with their offer.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Offeror must provide the following documents with its
+offer:</p>
+<ol type="1">
+<li value="1"><var>______________</var></li>
+<li value="2"><var>______________</var></li>
+<li value="3"><var>______________</var> .</li>
+</ol>
+</div></pre>

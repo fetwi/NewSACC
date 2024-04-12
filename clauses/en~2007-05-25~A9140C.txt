@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts.  The order of documents shown below 
+reflects current policy and legal advice.  Contracting officers must amend the 
+list to reflect the documents applicable to each contract and list the annexes 
+by order of priority, as applicable.
+ </p>
+<p>
+  Use the following clause only if the low dollar value (2T-LDV1), medium 
+complexity (2T-MED1) and higher complexity (2T-HIGH1) templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If there is a discrepancy between the wording of any documents
+that appear on the list, the wording of the document that first
+appears on the list has priority over the wording of any document
+that subsequently appears on the list.</p>
+<ol type="1">
+<li value="1">the Articles of Agreement;</li>
+<li value="2"><span class="description">(<strong><em>Contracting officer to delete if not
+applicable</em></strong>)</span> the supplemental general conditions
+<span class="input-required"><var>___________</var> <kbd>(<em>insert
+number, date and title</em>)</kbd></span>;</li>
+<li value="3">the general conditions <span class="input-required"><var>_______</var> <kbd>(<em>insert number, date and
+title</em>)</kbd></span>;</li>
+<li value="4">Annex "<var>_____</var> " - <var>____________</var>
+;</li>
+<li value="5">Annex "<var>_____</var> " - <var>____________</var>
+;</li>
+<li value="6">the Contractor's bid dated <span class="input-required"><var>________</var> <kbd>(<em>insert date of
+bid</em>)</kbd></span>, as amended on <var>_______</var>
+<span class="input-required"><strong><em>(insert date(s) of amendment(s), if
+applicable</em></strong>)</span>.</li>
+</ol>
+</div></pre>

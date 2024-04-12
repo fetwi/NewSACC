@@ -1,0 +1,76 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor must create a database 
+containing personal information on employees or third parties.  This clause 
+should not be used routinely, but may be appropriate where there are concerns 
+about the protection of sensitive information (either for security or privacy 
+reasons), particularly where there are concerns about foreign legislation giving 
+other governments or third parties rights to access this information without 
+Canada's consent.
+ </p>
+<p>
+  Contracting officers must consult with Legal Services before including this 
+clause and, when the clause is used, if there are any requests from a bidder or 
+contractor to store data outside of Canada.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must ensure that all the databases
+containing any information related to the Work are located in
+Canada or, if the Contracting Authority has first consented in
+writing, in another country where:
+<ol type="a">
+<li value="1">equivalent protections are given to personal
+information as in Canada under legislation such as the
+<cite>Privacy Act</cite>, <abbr title="Revised Statutes">R.S.</abbr> 1985, <abbr title="chapter">c.</abbr>P-21, and the
+<cite>Personal Information Protection and Electronic Documents Act</cite>, <abbr title="Statutes of Canada">S.C.</abbr> 2000, <abbr title="chapter">c.</abbr>5, and under any applicable policies of
+the Government of Canada; and</li>
+<li value="2">the laws do not allow the government of that country
+or any other entity or person to seek or obtain the right to view
+or copy any information relating to the Contract without first
+obtaining the Contracting Authority's written consent.</li>
+</ol>
+In connection with giving its consent to locating a database in
+another country, the Contracting Authority may, at its option,
+require the Contractor to provide a legal opinion (from a lawyer
+qualified in the foreign country) that the laws in that country
+meet the above requirements, or may require the Contractor to pay
+for Canada to obtain such a legal opinion. Canada has the right to
+reject any request to store Canada's data in a country other than
+Canada if there is any reason to be concerned about the security,
+privacy, or integrity of Canada's data. Canada may also require
+that any data sent or processed outside of Canada be encrypted with
+Canada-approved cryptography and that the private key required to
+decrypt the data be kept in Canada in accordance with key
+management and storage processes approved by Canada.</li>
+<li value="2">The Contractor must control access to all databases
+on which any data relating to the Contract is stored so that only
+individuals with the appropriate security clearance are able to
+access the database, either by using a password or other form of
+access control (such as biometric controls).</li>
+<li value="3">The Contractor must ensure that all databases on
+which any data relating to the Contract is stored are physically
+and logically independent (meaning there is no direct or indirect
+connection of any kind) from all other databases, unless those
+databases are located in Canada (or in an another country approved
+by the Contracting authority under subsection 1) and otherwise meet
+the requirements of this article.</li>
+<li value="4">The Contractor must ensure that all data relating to
+the Contract is processed only in Canada or in another country
+approved by the Contracting Authority under subsection 1.</li>
+<li value="5">The Contractor must ensure that all domestic network
+traffic (meaning traffic or transmissions initiated in one part of
+Canada to a destination or individual located in another part of
+Canada) is routed exclusively through Canada, unless the
+Contracting Authority has first consented in writing to an
+alternate route. The Contracting Authority will only consider
+requests to route domestic traffic through another country that
+meets the requirements of subsection 1.</li>
+<li value="6">Despite any section of the General Conditions
+relating to subcontracting, the Contractor must not subcontract
+(including to an affiliate) any function that involves providing a
+subcontractor with access to any data relating to the Contract
+unless the Contracting Authority first consents in writing.</li>
+</ol>
+</div></pre>

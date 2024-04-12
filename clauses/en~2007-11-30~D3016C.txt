@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts to define the packaging specification for 
+the procurement of items covered by a commodity packaging specification.
+
+In the first blank, specify the item number(s).
+
+In the second blank, insert the specified Commodity Packaging Specification 
+number and title.
+
+(a)	D-LM-008-015/SF-000, Piezoelectric Crystals;
+
+(b)	D-LM-008-026/SF-001, Preformed Packing, Gaskets or Seals (rubber 
+natural/synthetic, cork, asbestos or leather);
+
+(c)	D-LM-008-027/SF-001, Small Arms Weapons;
+
+(d)	D-LM-008-030/SF-001, Hose, Rubber, Plastic, Fabric or Metal (including 
+tubing) and Fittings, Nozzles and Strainers;
+
+(e)	D-LM-008-033/SF-000, Maritime Bearings, Matched Sets;
+
+(f)	D-LM-008-035/SF-001, Electrostatic Discharge Protective Packaging - 
+Electronic Parts, Assemblies and Equipment;
+
+(g)	D-LM-008-037/SF-000, Antifriction Bearings (other than instrument precision 
+bearings).
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must prepare item(s) <var>______</var> for
+delivery in accordance with the latest issue of the Canadian Forces
+packaging specifications <var>_____</var> .</p>
+</div></pre>

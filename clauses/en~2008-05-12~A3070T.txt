@@ -1,0 +1,50 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in the Evaluation Procedures of the bid solicitation 
+when the competition is conditionally limited to bids offering Canadian goods, 
+Canadian services or both.
+
+Use this clause in conjunction with
+ 
+  A3061T
+ 
+ ,
+ 
+  A3062T
+ 
+ ,
+ 
+  A3063T
+ 
+ ,
+ 
+  A3065T
+ 
+ ,
+ 
+  A3066T
+ 
+ or
+ 
+  A3069T
+ 
+ as applicable.
+
+Contracting officers must insert this clause as the first step within the 
+evaluation procedures of the bid solicitation.
+
+Use this clause only if the medium complexity (2T-MED1) or higher complexity 
+(2T-HIGH1) template is not used.  Contracting officers must consult the 
+procedures 2T-PROC1 to confirm they cannot use the template for the requirement.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The evaluation team will determine first if there are three (3)
+or more bids with a valid Canadian content certification. In that
+event, the evaluation process will be limited to the bids with the
+certification; otherwise, all bids will be evaluated. If some of
+the bids with a valid certification are declared non-responsive, or
+are withdrawn, and less than three responsive bids with a valid
+certification remain, the evaluation will continue among those bids
+with a valid certification. If all bids with a valid certification
+are subsequently declared non-responsive, or are withdrawn, then
+all the other bids received will be evaluated.</p>
+</div></pre>

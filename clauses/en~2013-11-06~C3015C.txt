@@ -1,0 +1,70 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in firm price contracts that may be subject to exchange rate fluctuation provisions where the goods or services or both include a foreign currency component.  This clause may be used for various methods of payment.
+ </p>
+<p>
+  For solicitations, use this clause in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C3010T
+  
+  , Exchange Rate Risk Mitigation.  If not part of a solicitation, subsection 4 must be changed to set an "initial exchange rate" for the contract.
+ </p>
+<p>
+  Where the "exchange rate for adjustment" is to be based on a date other than the delivery date, contracting officers must modify subsection 5, in consultation with legal services.  For example, if using the direct shipment date, as indicated on the Canada Customs Coding Form,
+  <abbr title="Canada Border Services Agency">
+   CBSA
+  </abbr>
+  Form B3-3, the following would apply:
+ </p>
+<blockquote>
+  The exchange rate for adjustment will be the noon rate as published by the Bank of Canada on the date the goods were imported.  The Canada Customs Coding Form,
+  <abbr title="Canada Border Services Agency">
+   CBSA
+  </abbr>
+  Form B3-3, showing the direct shipment date (release date), must accompany each applicable invoice.
+ </blockquote>
+<p>
+  For more information, refer to sections
+  
+   4.65 Exchange Rate Fluctuation Risk Mitigation
+  
+  and
+  
+   8.40 Exchange Rate Fluctuation Provision
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The foreign currency component (FCC) is defined as the portion of the price or rate that will be directly affected by exchange rate fluctuation.  The <abbr title="Foreign currency component">FCC</abbr> should include all related taxes, duties and other costs paid by the Bidder and which are to be included in the adjustment amount.</li>
+<li value="2">For each line item where a <abbr title="Foreign currency component">FCC</abbr> is identified, Canada assumes the risks and benefits for exchange rate fluctuation, as shown in the Basis of Payment.  For such items, the exchange rate fluctuation amount is determined in accordance with the provision of this clause.</li>
+<li value="3">The total price paid by Canada on each invoice will be adjusted at the time of payment, based on the <abbr title="Foreign currency component">FCC</abbr> and the exchange rate fluctuation provisions in the contract.  The exchange rate adjustment amount will be calculated in accordance with the following formula:
+<br/>
+<dfn>Adjustment</dfn> = FCC x  Qty  x  ( i<sub>1</sub> - i<sub>0</sub> ) / i<sub>0</sub>
+<br/>where formula variables correspond to:
+<dl>
+<dt><strong>FCC</strong></dt>
+<dd>Foreign Currency Component (per unit)</dd>
+<dt><strong>i<sub>0</sub></strong></dt> <dd>Initial exchange rate (<abbr title="Canadian Dollars">CAN$</abbr> per unit of foreign currency [e.g. <abbr title="United States Dollars">US$</abbr>1]) </dd>
+<dt><strong>i<sub>1</sub></strong></dt><dd> exchange rate for adjustments (<abbr title="Canadian Dollars">CAN$</abbr> per unit of foreign currency [e.g. <abbr title="United States Dollars">US$</abbr>1])</dd>
+<dt><strong>Qty</strong></dt> <dd>quantity of units</dd>
+</dl>
+</li>
+<li value="4">The initial exchange rate is typically set as the noon rate as published by the Bank of Canada on the solicitation closing date.</li>
+<li value="5">For goods, the exchange rate for adjustment will be the noon rate as published by the Bank of Canada on the date the goods were delivered.  For services, the exchange rate for adjustment will be the noon rate on the last business day of the month for which the services were performed.  For advance payments, the exchange rate for adjustment will be the noon rate on the date the payment was due.  The most recent noon rate will be used for non-business days.</li>
+<li value="6">The Contractor must indicate the total exchange rate adjustment amount (either upward, downward or no change) as a separate item on each invoice or claim for payment submitted under the Contract.  Where an adjustment applies, the Contractor must submit with their invoice form PWGSC-TPSGC 450, Claim for Exchange Rate Adjustments.</li>
+<li value="7">The exchange rate adjustment will only be applied where the exchange rate fluctuation is greater than 2% (increase or decrease), calculated in accordance with column 8 of form PWGSC-TPSGC 450 (i.e [ i<sub>1</sub> - i<sub>0</sub> ) / i<sub>0</sub>]).</li>
+<li value="8">Canada reserves the right to audit any revision to costs and prices under this clause.</li>
+</ol>
+</div></pre>

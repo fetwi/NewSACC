@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for the procurement of goods, and in 
+repair and overhaul services contracts.  The clause defines the bar code 
+requirement for content identification of Department of National Defence's (DND) 
+packaged military equipment, in particular for items of a repairable nature or 
+military purpose. 
+
+The requirement for this clause will be identified by the DND procurement staff 
+generating the requisition.  They will also be responsible for providing the 
+fill-in information, as follows: in the first blank, the item number(s) will be 
+inserted; in the second blank, the bar code's Application Identifier number, as 
+shown in the list below, will be inserted:
+
+7001	for the NATO Stock Number (NSN)
+241	for the Permanent System Control Number (PSCN)
+21	for the item's serial number
+400	for the Contract Serial Number
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall apply, on the package, bar code information for 
+       item(s) ______, with Application Identifier(s) ____, using bar code 
+       symbology UCC/EAN-128 (Uniform Code Council/EAN International).  
+       Below the bar code symbol, the Contractor shall apply the 
+       Human-Readable Interpretation (HRI) markings.
+
+2.     The bar code marking(s) shall be legible, applied to a printable 
+       surface or label and positioned in accordance with the Canadian 
+       Forces Packaging Specification, D-LM-008-002/SF-001, Specification 
+       for Marking for Storage and Shipping (<em>in effect at the closing date 
+       of the Request for Proposal</em>).
+
+</pre>

@@ -1,0 +1,145 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2008-05-12R2870Dtaking-the-work-out-of-the-contractor-s-hands">GC7.1 Taking the Work out of the Contractor's Hands</a></li>
+<li><a href="#2008-05-12R2870Dsuspension-of-work">GC7.2 Suspension of Work</a></li>
+<li><a href="#2008-05-12R2870Dtermination-of-contract">GC7.3 Termination of Contract</a></li>
+<li><a href="#2008-05-12R2870Dsecurity-deposit">GC7.4 Security Deposit - Forfeiture or Return</a></li>
+</ul>
+</div>
+<h2 id="2008-05-12R2870Dtaking-the-work-out-of-the-contractor-s-hands">GC7.1 (2008-05-12) Taking the Work out Of the Contractor's
+Hands</h2>
+<ol type="1">
+<li value="1">By giving notice in writing to the Contractor in
+accordance with GC2.3, "Notices", Canada, without any other
+authorization, may take all or any part of the Work out of the
+Contractor's hands, and may employ such means as Canada sees fit to
+have the Work completed if the Contractor
+<ol type="a">
+<li value="1">fails to remedy any delay in the commencement or
+default in the diligent performance of the Work to the satisfaction
+of Canada within six days of Canada giving notice to the Contractor
+in writing in accordance with GC2.3, "Notices";</li>
+<li value="2">defaults in the completion of any part of the Work
+within the time fixed for its completion by the Contract;</li>
+<li value="3">becomes insolvent, or has committed an act of
+bankruptcy, and has neither made a proposal to its creditors nor
+filed a notice of intention to make such a proposal, pursuant to
+the <cite>Bankruptcy and Insolvency Act</cite>;</li>
+<li value="4">abandons the work;</li>
+<li value="5">makes an assignment of the Contract without the
+consent required by GC1.16, "Assignment", or</li>
+<li value="6">otherwise fails to observe or perform any of the
+provisions of the Contract.</li>
+</ol>
+</li>
+<li value="2">If the whole or any part of the Work is taken out of
+the Contractor's hands, the Contractor's right to any further
+payment that is due or accruing due under the Contract is, subject
+only to paragraph 3) of GC7.1, extinguished, and the Contractor is
+liable to pay Canada, upon demand, an amount that is equal to the
+amount of all loss and damage incurred or sustained by Canada in
+respect of the Contractor's failure to complete the Work.</li>
+<li value="3">If the whole or any part of the Work that is taken
+out of the Contractor's hands is completed by Canada, Canada may
+pay the Contractor the amount, if any, of the holdback or a
+progress claim as determined by Canada that had accrued and was due
+prior to the date on which the Work was taken out of the
+Contractor's hands and that is not required for the purposes of
+having the Work performed or of compensating Canada for any other
+loss or damage incurred or sustained by reason of the Contractor's
+default.</li>
+<li value="4">The taking of the Work or any part thereof out of the
+Contractor's hands does not relieve the Contractor from any
+obligation under the Contract or imposed by law except the
+obligation to complete the performance of that part of the Work
+that was taken out of the Contractor's hands.</li>
+<li value="5">If the Work or any part thereof is taken out of the
+Contractor's hands, all Plant and Material and the interest of the
+Contractor, or its suppliers or subcontractors at any tier, in all
+real property, licences, powers and privileges acquired, used or
+provided by the Contractor, or its suppliers or subcontractors at
+any tier, under the Contract shall continue to be the property of
+Canada without compensation.</li>
+<li value="6">When Canada certifies that any Plant, Material, or
+any interest of the Contractor is no longer required for the
+purposes of the Work, or that it is not in the interests of Canada
+to retain that Plant, Material, or interest, it shall revert to the
+Contractor.</li>
+<li value="7">If the Contractor has become insolvent or has
+committed an act of bankruptcy, and has either made a proposal to
+its creditors or filed a notice of intention to make such a
+proposal, pursuant to the <cite>Bankruptcy and Insolvency Act</cite>, the Contractor shall immediately forward a copy of the
+proposal or the notice of intention to Canada.</li>
+</ol>
+<h2 id="2008-05-12R2870Dsuspension-of-work">GC7.2 (2007-05-25) Suspension of Work</h2>
+<ol type="1">
+<li value="1">When, in Canada's opinion, it is in the public
+interest to do so, Canada may require the Contractor to suspend
+performance of the Work either for a specified or an unspecified
+period, by giving a notice of suspension in writing to the
+Contractor in accordance with GC2.3, "Notices".</li>
+<li value="2">When a notice of suspension is received by the
+Contractor, the Contractor shall suspend all operations in respect
+of the Work except those that Canada determines are necessary for
+the care and preservation of the Work, Plant and Material.</li>
+<li value="3">During a period of suspension, the Contractor shall
+not remove any part of the Work, Plant or Material from its site
+without the consent of Canada.</li>
+<li value="4">If a period of suspension is 60 days or less, the
+Contractor shall resume the performance of the Work on the
+expiration of that period, and the Contractor is entitled to be
+paid the extra costs necessarily incurred by the Contractor as a
+result of the suspension, determined in accordance with GC6.4,
+"Determination of Price".</li>
+<li value="5">If a period of suspension is more than 60 days,
+Canada and the Contractor may agree that the performance of the
+Work shall be continued by the Contractor, and the Contractor shall
+resume performance of the Work subject to any terms and conditions
+agreed upon by Canada and the Contractor. If Canada and the
+Contractor do not agree that performance of the Work shall be
+continued by the Contractor, or upon the terms and conditions under
+which the Contractor shall continue the Work, the notice of
+suspension shall be deemed to be a notice of termination pursuant
+to GC7.3, "Termination of Contract".</li>
+</ol>
+<h2 id="2008-05-12R2870Dtermination-of-contract">GC7.3 (2007-05-25) Termination of Contract</h2>
+<ol type="1">
+<li value="1">Canada may terminate the Contract at any time by
+giving a notice of termination in writing to the Contractor in
+accordance with GC2.3, "Notices".</li>
+<li value="2">If the Contractor receives a notice of termination,
+the Contractor shall forthwith cease all operations in performance
+of the Contract, subject to any conditions stipulated in the
+notice.</li>
+<li value="3">Subject to paragraph 4) of GC7.3, if the Contract is
+terminated, Canada shall pay the Contractor an amount determined to
+be due to the Contractor pursuant to GC6.4, "Determination of
+Price", less the aggregate of all amounts that were paid to the
+Contractor by Canada and all amounts that are due to Canada from
+the Contractor pursuant to the Contract.</li>
+<li value="4">In no event shall the total amount payable by Canada
+to the Contractor exceed the amount, calculated in accordance with
+GC5, "Terms of Payment", that would have been payable to the
+Contractor had the Contractor completed the Work.</li>
+<li value="5">Payment to the Contractor, if any, shall be made as
+soon as practicable under the circumstances.</li>
+</ol>
+<h2 id="2008-05-12R2870Dsecurity-deposit">GC7.4 (2008-05-12) Security Deposit - Forfeiture or Return</h2>
+<ol type="1">
+<li value="1">If the Work is taken out of the Contractor's hands,
+or the Contractor is in breach of, or in default under, the
+Contract, Canada may convert a security deposit to Canada's own
+use.</li>
+<li value="2">If Canada converts a security deposit, the amount
+realized shall be deemed to be an amount due from Canada to the
+Contractor under the Contract.</li>
+<li value="3">Any balance of the amount realized that remains after
+payment of all losses, damage and claims of Canada and others shall
+be paid by Canada to the Contractor if, in the opinion of Canada,
+it is not required for the purposes of the Contract.</li>
+</ol>
+</div></pre>

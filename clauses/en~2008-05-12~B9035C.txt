@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when progress meetings chaired and scheduled by the contracting officer will take place at the contractor's facility.
+ </p>
+<p>
+  Contracting officers must identify the Contract (Project) Manager, Production Manager (Superintendent) and Quality Assurance Manager in the contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Progress meetings, chaired by the Contracting Authority, will take place at the Contractor's facility as and when required, generally once a month. Interim meetings may also be scheduled. Contractor's attendees at these meetings will, as a minimum, be its Contract (Project) Manager, Production Manager (Superintendent) and Quality Assurance Manager. Progress meetings will generally incorporate technical meetings to be chaired by the Technical Authority.</p>
+</div></pre>

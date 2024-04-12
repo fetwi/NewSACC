@@ -1,0 +1,86 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the Department of National Defence 
+requires additional package markings and the markings will be different for some 
+items.
+ </p>
+<p>
+  Consult clause
+  
+   D2015C
+  
+  when the additional package markings are the same for all 
+items.
+ </p>
+<p>
+  Contracting officer must identify the item number and insert all applicable 
+information in paragraph 1:
+ </p>
+<ol type="a">
+<li>
+   specification number;
+  </li>
+<li>
+   manufacturer's name;
+  </li>
+<li>
+   drawing number;
+  </li>
+<li>
+   batch or lot number;
+  </li>
+<li>
+   qualification number;
+  </li>
+<li>
+   cure date of rubber components;
+  </li>
+<li>
+   data required by the contract or by the commodity specification;
+  </li>
+<li>
+   date of manufacture;
+  </li>
+<li>
+   date of repair or overhaul;
+  </li>
+<li>
+   name of repair or overhaul contractor;
+  </li>
+<li>
+   modification status;
+  </li>
+<li>
+   serial number; and
+  </li>
+<li>
+   expiration date of shelf life.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must ensure that in addition to the
+required interior and exterior package markings, the following
+information is provided:
+
+<br/>For item(s) <var>___________</var>:
+
+<ol type="a">
+<li value="1"><var>__________</var> ;</li>
+<li value="2"><var>__________</var> ;</li>
+</ol>
+
+For item(s) <var>________</var> :
+
+
+<ol type="a">
+<li value="1"><var>__________</var> ;</li>
+<li value="2"><var>__________</var> ;</li>
+</ol>
+</li>
+<li value="2">These markings must be applied and positioned in
+accordance with Canadian Forces Packaging Specification
+D-LM-008-002/SF-001.</li>
+</ol>
+</div></pre>

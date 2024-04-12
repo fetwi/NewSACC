@@ -1,0 +1,439 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-06-21R1230Dfees">GC5.1 Fees</a></li>
+<li><a href="#2018-06-21R1230Dfee-arrangement-s-for-services">GC5.2 Fee Arrangement(s) for Services</a></li>
+<li><a href="#2018-06-21R1230Dpayments-to-the-consultant">GC5.3 Payments to the Consultant</a></li>
+<li><a href="#2018-06-21R1230Dpayments-for-services">GC5.4 Payments for Services</a></li>
+<li><a href="#2018-06-21R1230Ddelayed-payment">GC5.5 Delayed Payment</a></li>
+<li><a href="#2018-06-21R1230Dclaims-against-and-obligations-of-the-consultant">GC5.6 Claims Against, and Obligations of, the Consultant</a></li>
+<li><a href="#2018-06-21R1230Dno-payment-for-errors-and-omissions">GC5.7 No Payment for Errors and Omissions</a></li>
+<li><a href="#2018-06-21R1230Dpayment-for-changes-and-revisions">GC5.8 Payment for Changes and Revisions</a></li>
+<li><a href="#2018-06-21R1230Dextension-of-time">GC5.9 Extension of Time</a></li>
+<li><a href="#2018-06-21R1230Dsuspension-costs">GC5.10 Suspension Costs</a></li>
+<li><a href="#2018-06-21R1230Dtermination-costs">GC5.11 Termination Costs</a></li>
+<li><a href="#2018-06-21R1230Ddisbursements">GC5.12 Disbursements</a></li>
+</ul>
+</div>
+<h2 id="2018-06-21R1230Dfees"><span class="clauseRef">R1230D</span> GC 5.1 (2011-05-16)
+Fees</h2>
+<ol type="1">
+<li value="1">Subject to the terms and conditions of the Agreement,
+and in consideration for the performance of the Services, Canada
+shall pay to the Consultant a sum of money calculated in accordance
+with the provisions herein and the Agreement Particulars.</li>
+<li value="2">The Consultant's fees are only payable when the
+Consultant has performed the Services as determined by the
+Departmental Representative. Payment in respect of a Service, or
+part of a Service, is not to be deemed a waiver of Canada's rights
+of set off at law or under the Agreement for costs or expenses
+arising from default or negligence of the Consultant.</li>
+<li value="3">The maximum amount payable under the Agreement,
+including fees and disbursements, shall not exceed the sum
+specified in the Agreement Particulars, without the prior written
+authorization of the Departmental Representative in accordance with
+the terms of the Agreement.</li>
+</ol>
+<h2 id="2018-06-21R1230Dfee-arrangement-s-for-services"><span class="clauseRef">R1230D</span> GC 5.2 (2015-02-25) Fee
+Arrangement(s) for Services</h2>
+<p>The fee to be paid to the Consultant for the Services
+described herein, shall be determined by one or more of the
+following arrangements as specified in the Agreement Particulars:</p>
+<ol type="a">
+<li value="1">Percentage Fee
+<br/>The calculation of the total fee recognizes the variability of
+the Construction Cost Estimate as the Project develops. The fee for
+the various Services of the Project development shall be calculated
+on the basis of the following formula:
+<br/>An amount equal to <abbr title="Fill-in clauses">F</abbr> x A
+<br/>Where <abbr title="Fill-in clauses">F</abbr> = the percentage specified in the Agreement Particulars
+, and A = as follows:
+<ol type="i">
+<li value="1">At Analysis of Project Requirements and Design
+Concept:
+<br/>A = the Construction Cost Estimate at the time of signing the
+Agreement.</li>
+<li value="2">At Design Development:
+<br/>A = the accepted preliminary Construction Cost Estimate prepared
+on completion of the design concept documents.</li>
+<li value="3">At Construction Documents:
+<br/>A = the accepted updated Construction Cost Estimate prepared on
+completion of the design development documents.</li>
+<li value="4">At Tender Call and Tender Evaluation:
+<br/>A = the accepted final Construction Cost Estimate prepared on
+completion of the construction documents.</li>
+<li value="5">At Construction and Contract Administration and Post
+Construction Warranty Review:
+<br/>A = the Construction Contract Award Price.</li>
+</ol>
+The total fee is adjusted in accordance with the terms of any
+authorization pursuant to GC 5.8.</li>
+<li value="2">Fixed Fee
+<br/>The fixed fee may be in the form of a fixed lump sum or an
+amount made up of fixed unit prices multiplied by a number of units
+of deliverables in the amount(s) specified in the Agreement
+Particulars.</li>
+<li value="3">Time Based Fee
+<ol type="i">
+<li value="1">Principals and executives, and other personnel
+approved in that capacity by the Departmental Representative shall
+be paid at the hourly rate specified in the Agreement
+Particulars.</li>
+<li value="2">Staff approved by the Departmental Representative shall be
+paid at the Hourly Rate specified in the Agreement Particulars.</li>
+<li value="3">Normal Working Hours
+<br/>The normal working hours per day for principals, executives and
+Consultant's employees, shall be deemed to be seven and a half
+(7.5) hours of any day during which they are actually engaged in
+the performance of the Services.</li>
+<li value="4">Travel Time
+<br/>Travel time during normal working hours, that is related to the
+Project and authorized by the Departmental Representative, shall be
+chargeable as time worked.
+<br/>Travel time outside normal working hours, that is related to the
+Project and authorized by the Departmental Representative, shall be
+chargeable up to a maximum of three (3) hours per day, unless
+otherwise authorized.</li>
+<li value="5">Maximum Amount(s) Payable
+
+<br/>The maximum amount(s) that applies (apply) to the Services to be
+carried out at time rates shall be as specified in the Agreement
+Particulars, which amount(s) shall not be exceeded without the
+prior authorization of the Departmental Representative, with the
+approval of Canada.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-06-21R1230Dpayments-to-the-consultant"><span class="clauseRef">R1230D</span> GC 5.3 (2011-05-16)
+Payments to the Consultant</h2>
+<ol type="1">
+<li value="1">The Consultant shall be entitled to receive progress
+payments at monthly or other agreed intervals, subject to the
+limitations of the Terms of Payment, if applicable. Such payments
+shall be made prior to or on the due date. The due date shall be
+the 30th day following receipt of an acceptable invoice.</li>
+<li value="2">An acceptable invoice shall be an invoice delivered
+to the Departmental Representative in the agreed format with
+sufficient detail and information to permit verification. The
+invoice shall also identify, as separate items:
+<ol type="a">
+<li value="1">the amount of the progress payment being claimed for
+Services satisfactorily performed,</li>
+<li value="2">the amount for any tax calculated in accordance with
+the applicable federal legislation, and</li>
+<li value="3">the total amount which shall be the sum of the
+amounts referred to in (a) and (b) above.</li>
+</ol>
+</li>
+<li value="3">The amount of the tax shown on the invoice shall be
+paid by Canada to the Consultant in addition to the amount of the
+progress payment for Services satisfactorily performed.</li>
+<li value="4">The Departmental Representative shall notify the
+Consultant within fifteen (15) days after the receipt of an invoice
+of any error or missing information therein. Payment shall be made
+prior to or on the thirtieth (30) day after acceptance of the
+corrected invoice or the required information.</li>
+<li value="5">Upon completion of each Service as described
+elsewhere in the Agreement, provided at least one progress payment
+has been made, the Consultant shall provide a Statutory Declaration
+evidencing that all the Consultant's financial obligations for
+Services rendered to the Consultant or on the Consultant's account,
+in connection with the Agreement, have been satisfied, before any
+further payment is made.</li>
+<li value="6">Upon written notice by a Sub-Consultant, with whom
+the Consultant has a direct contract, of an alleged non payment to
+the Sub-Consultant, the Departmental Representative may provide the
+Sub-Consultant with a copy of the latest approved progress payment
+made to the Consultant for the Services.</li>
+<li value="7">Upon the satisfactory completion of all Services, the
+amount due, less any payments already made, shall be paid to the
+Consultant not later than thirty (30) days after receipt of an
+acceptable invoice, together with the Final Statutory Declaration
+in accordance with subsection 5 above.</li>
+</ol>
+<h2 id="2018-06-21R1230Dpayments-for-services"><span class="clauseRef">R1230D</span> GC 5.4 (2011-05-16)
+Payments for Services</h2>
+<ol type="1">
+<li value="1">Payments in respect of the percentage fee arrangement
+shall be made during the performance of the Services, on the basis
+of the fee calculations as described in GC 5.2.1.(a), for each of
+the Services equal to the amounts specified below:
+<ol type="a">
+<li value="1">Payment for Analysis of Project Requirements and
+Design Concept:
+<p>Upon acceptance of the design concept documents, an amount equal
+to 10 percent of the fee;</p></li>
+<li value="2">Payment for Design Development:
+
+<br/>Upon acceptance of the design development documents, an amount
+equal to 15 percent of the fee;</li>
+<li value="3">Payment for Construction Documents:
+<br/>Upon acceptance of the construction documents, an amount equal
+to 45 percent of the fee;</li>
+<li value="4">Payment for Tender Call, Tender Evaluation and
+Contract Award:
+<br/>Upon award of the Construction Contract, or upon completion of
+tender evaluation(s) in such cases where Canada does not award a
+Construction Contract for reasons other than those specified in
+subsection 6 below, an amount equal to 5 percent of the fee;</li>
+<li value="5">Payment for Construction and Contract
+Administration:
+<br/>Upon interim completion of the Construction Contract, an amount
+equal to 22 percent of the fee;</li>
+<li value="6">Payment for Final Completion and Post Construction
+Warranty Review:
+<br/>Upon reporting to the Departmental Representative on the status
+of the defects at the end of the warranty period(s) an amount equal
+to 3 percent of the fee.</li>
+</ol>
+</li>
+<li value="2">Payments in respect of the fixed fee arrangement
+shall be made upon satisfactory performance of the Services but
+such payments shall not exceed the amount(s) as specified in the
+Agreement Particulars, for each Service.</li>
+<li value="3">Payments in respect of the time based fee arrangement
+shall be made upon satisfactory performance of the Services but
+such payments shall not exceed the amount(s) as specified in the
+Agreement Particulars, for each Service.</li>
+<li value="4">Progress payments, in respect of all fee
+arrangements, shall be made in accordance with GC 5.3 of the
+Agreement, but such payments shall not exceed the value of the fee
+indicated for each Service under consideration.</li>
+<li value="5">Progress payments in respect of construction and
+contract administration for percentage fee or fixed fee
+arrangements may be made in proportion to the percentage of the
+construction work completed and approved for payment under the
+Construction Contract.</li>
+<li value="6">If, for reasons attributable to the Consultant, a
+price cannot be obtained by a tender or negotiation within the
+Construction Cost Limit, or acceptable to the Departmental
+Representative for the award of the Construction Contract, the
+Consultant shall be entitled to receive payment for the tender
+call, bid evaluation and construction contract award Services, only
+when the requirements of GC 3.11.3, have been met.</li>
+</ol>
+<h2 id="2018-06-21R1230Ddelayed-payment"><span class="clauseRef">R1230D</span> GC 5.5 (2011-05-16)
+Delayed Payment</h2>
+<ol type="1">
+<li value="1">If Canada delays in making a payment that is due in
+accordance with GC 5.3, the Consultant will be entitled to receive
+interest on the amount that is overdue for the period of time as
+defined in subsection 2 below including the day previous to the
+date of payment. Such date of payment shall be deemed to be the
+date on the cheque given for payment of the overdue amount. An
+amount is overdue when it is unpaid on the first day following the
+due date described in GC 5.3.1.</li>
+<li value="2">Interest shall be paid automatically on all amounts
+that are not paid by the due date or fifteen (15) days after the
+Consultant has delivered a Statutory Declaration in accordance with
+GC 5.3.5 or GC 5.3.7 whichever is the later.</li>
+<li value="3">The rate of interest shall be the Average Bank Rate
+plus 3 percent per year on any amount which is overdue pursuant to
+subsection 1 above.</li>
+</ol>
+<h2 id="2018-06-21R1230Dclaims-against-and-obligations-of-the-consultant"><span class="clauseRef">R1230D</span> GC 5.6 (2012-07-16)
+Claims Against, and Obligations of, the Consultant</h2>
+<ol type="1">
+<li value="1">Canada may, in order to discharge lawful obligations
+of and satisfy lawful claims against the Consultant by a
+Sub-Consultant, with whom the Consultant has a direct contract, for
+Services rendered to, or on behalf of, the Consultant, pay an
+amount from money that is due and payable to the Consultant
+directly to the claimant Sub-Consultant.</li>
+<li value="2">For the purposes of subsection 1 a claim shall be
+considered lawful when it is so determined
+<ol type="a">
+<li value="1">by a court of legal jurisdiction, or</li>
+<li value="2">by an arbitrator duly appointed to arbitrate the said
+claim, or</li>
+<li value="3">by a written notice delivered to the Departmental
+Representative and signed by the Consultant authorizing payment of
+the said claim or claims.</li>
+</ol>
+</li>
+<li value="3">A payment made pursuant to subsection 1 is, to the
+extent of the payment, a discharge of Canada's liability to the
+Consultant under the Agreement and will be deducted from any amount
+payable to the Consultant under the Agreement.</li>
+<li value="4">Subsection 1 shall only apply to claims and
+obligations
+<ol type="a">
+<li value="1">the notification of which has set forth the amount
+claimed to be owing and a full description of the Services or a
+part of the Services for which the claimant has not been paid. The
+notification must be received by the Departmental Representative in
+writing before the final payment is made to the Consultant and
+within one hundred twenty (120) days of the date on which the
+claimant
+<ol type="i">
+<li value="1">should have been paid in full under the claimant's
+Agreement with the Consultant where the claim is for an amount that
+was lawfully required to be held back from the claimant; or</li>
+<li value="2">performed the last of the Services pursuant to the
+claimant's Agreement with the Consultant where the claim is not for
+an amount referred to in subparagraph 4.(a)(i), and</li></ol></li>
+<li value="2">the proceedings to determine the right to payment of
+which shall have commenced within one year from the date that the
+notification referred to in paragraph 4.(a) was received by the
+Departmental Representative.</li>
+</ol>
+</li>
+<li value="5">Canada may, upon receipt of a notification of claim
+referred to in paragraph 4.(a), withhold from any amount that is
+due and payable to the Consultant pursuant to the Agreement the
+full amount of the claim or any portion thereof.</li>
+<li value="6">The Departmental Representative shall notify the
+Consultant in writing of receipt of any notification of claim and
+of the intention of Canada to withhold funds pursuant to subsection
+5. The Consultant may, at any time thereafter and until payment is
+made to the claimant, post with Canada, security in a form
+acceptable to Canada in an amount equal to the value of the said
+claim. Upon receipt of such security Canada shall release to the
+Consultant any funds which would be otherwise payable to the
+Consultant, that were withheld pursuant to the provision of
+subsection 5.</li>
+<li value="7">The Consultant shall discharge all lawful obligations
+and shall satisfy all lawful claims against the Consultant for
+Services rendered to, or on behalf of, the Consultant in respect of
+the Agreement at least as often as the Agreement requires Canada to
+discharge its obligations to the Consultant.</li>
+</ol>
+<h2 id="2018-06-21R1230Dno-payment-for-errors-and-omissions"><span class="clauseRef">R1230D</span> GC 5.7 (2011-05-16) No
+Payment for Errors and Omissions</h2>
+<p>The Consultant shall not be entitled to payment in respect of
+costs incurred by the Consultant in remedying errors and omissions
+in the Services that are attributable to the Consultant, the
+Consultant's employees, or persons for whom the Consultant had
+assumed responsibility in performing the Services.</p>
+<h2 id="2018-06-21R1230Dpayment-for-changes-and-revisions"><span class="clauseRef">R1230D</span> GC 5.8 (2012-07-16)
+Payment for Changes and Revisions</h2>
+<ol type="1">
+<li value="1">Payment for any additional or reduced Services
+authorized by the Departmental Representative prior to their
+performance, and for which a basis of payment has not been
+established at the time of execution of the Agreement, shall be in
+an amount or amounts to be determined by the Departmental
+Representative, acting reasonably, subject to these Terms of
+Payment.</li>
+<li value="2">Where it is not possible, or not appropriate, to
+determine a fixed price fee or percentage fee prior to the
+performance of the additional or reduced Services, payment shall be
+made on the basis of a time based fee in accordance with GC
+5.2.1.(c). Disbursements shall be paid in accordance with GC
+5.12.</li>
+<li value="3">Prior to the performance of additional or reduced
+Services on the basis of a time based fee, the Consultant shall
+comply with any request made by the Departmental Representative
+pursuant to GC 3.8, regarding persons to be employed by the
+Consultant or the Consultant's subconsultants to provide the
+additional or reduced Services. In addition, the Departmental
+Representative shall determine, based on industry practice and
+input from the Consultant, hourly rates for any of those persons
+for whom the relevant information does not appear in the Agreement
+Particulars.</li>
+<li value="4">Payment for additional Services not identified at the
+time of execution of the Agreement shall be made only to the extent
+that
+<ol type="a">
+<li value="1">the additional Services are Services that are not
+included in stated Services in the Agreement,</li>
+<li value="2">the additional Services are required for reasons
+beyond the control of the Consultant, and</li>
+<li value="3">any fee adjustment for Services resulting from an
+adjustment in the Construction Cost Estimate arising from the
+additional Services is not commensurate with the additional
+Services performed.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-06-21R1230Dextension-of-time"><span class="clauseRef">R1230D</span> GC 5.9 (2011-05-16)
+Extension of Time</h2>
+<p>If, and to the extent that, the time for completion of the
+Construction Contract is exceeded or extended through no fault of
+the Consultant in the opinion of Canada, payment for the Services
+required for such extended period of the contract administration
+shall be subject to review and equitable adjustment by Canada.</p>
+<h2 id="2018-06-21R1230Dsuspension-costs"><span class="clauseRef">R1230D</span> GC 5.10 (2018-06-21)
+Suspension Costs</h2>
+<ol type="1">
+<li value="1">In the event of a suspension of any Services pursuant to GC7.2, Canada shall pay: 
+<ol type="a">
+<li>for clarity, an amount based on these Terms of Payment, for Services satisfactorily performed before the date of suspension; and</li>
+<li>those out-of-pocket costs and expenses that, in the opinion of Canada, are substantiated as having been reasonably incurred during the suspension period, as more particularly provided for in GC 5.10.2, 5.10.3, and 5.10.4.</li>
+</ol>
+</li>
+<li value="2">The Consultant shall minimize all GC 5.10.1(b) out-of-pocket costs and expenses.</li>
+<li value="3">Within fourteen (14) days of notice of such suspension, the Consultant shall submit to the Departmental Representative a schedule of all out-of-pocket costs and expenses, if any, that the Consultant expects to incur during the period of suspension, and for which the Consultant will request reimbursement, failing which, the Consultant shall, for all purposes, be deemed to have no such costs and expenses.</li>
+<li value="4">Save and except for the specified payment provided for GC 5.10.1(b), if any, the Consultant shall not be paid and has no claim for damages, compensation, loss of profit, loss of opportunity, allowance or otherwise by reason of, or directly or indirectly arising out of, the suspension of Services pursuant to GC 7.2.</li>
+</ol>
+<h2 id="2018-06-21R1230Dtermination-costs"><span class="clauseRef">R1230D</span> GC 5.11 (2018-06-21)
+Termination Costs</h2>
+<ol type="1">
+<li value="1">In the event of termination of the Agreement pursuant to GC 7.3, Canada shall pay, and the Consultant shall accept in full settlement:
+<ol type="a">
+<li>an amount based on these Terms of Payment, for Services satisfactorily performed before the date of termination; and</li>
+<li>those out-of-pocket costs and expenses that, in the opinion of Canada, are substantiated as having been reasonably incurred to terminate the Agreement, as more particularly provided for in GC 5.11.2, 5.11.3, 5.11.4 and 5.11.5.</li>
+</ol>
+</li>
+<li value="2">The Consultant shall minimize all GC 5.11.1(b) out-of-pocket costs and expenses.</li>
+<li value="3">Within fourteen (14) days of notice of such termination, the Consultant shall submit to the Departmental Representative a schedule of all out-of-pocket costs and expenses, if any, reasonably incurred after the date of termination, failing which, the Consultant shall, for all purposes, be deemed to have no such costs and expenses.</li>
+<li value="4">Payment shall be made to the Consultant only for those out-of-pocket costs and expenses that in the opinion of Canada are substantiated as having been reasonably incurred after the date of termination of the Agreement.</li>
+<li value="5">Save and except for the specified payment provided for in GC 5.11.1, if any, the Consultant shall not be paid any amount and has no claim for damages, compensation, loss of profit, loss of opportunity, allowance or otherwise by reason of, or directly or indirectly arising out of, the termination of the Agreement pursuant to GC 7.3 Termination.</li>
+</ol>
+<h2 id="2018-06-21R1230Ddisbursements"><span class="clauseRef">R1230D</span> GC 5.12 (2011-05-16)
+Disbursements</h2>
+<ol type="1">
+<li value="1">Subject to any provisions specifically to the
+contrary in the Supplementary Conditions, the following costs shall
+be included in the fees required to deliver the consultant services
+and shall not be reimbursed separately;
+<ol type="a">
+<li value="1">reproduction and delivery costs of drawings, <abbr title="Computer-aided Design and Drafting">CADD</abbr>
+files, specifications and other Technical Documentation specified
+in the Project Brief;</li>
+<li value="2">standard office expenses such as any photocopying,
+computer costs, Internet, cellular phone costs, long distance
+telephone and fax costs, including that between the Consultant's
+main office and branch offices or between the Consultant's offices
+and other team members offices;</li>
+<li value="3">courier and delivery charges for deliverables
+specified in the Project Brief;</li>
+<li value="4">plotting;</li>
+<li value="5">presentation material;</li>
+<li value="6">parking fees;</li>
+<li value="7">taxi charges;</li>
+<li value="8">travel time;</li>
+<li value="9">travel expenses; and</li>
+<li value="10">local project office.</li>
+</ol>
+</li>
+<li value="2">Subject to any provisions specifically to the
+contrary in the Supplementary Conditions, the following
+disbursements reasonably incurred by the Consultant, that are
+related to the Services and approved by the Departmental
+Representative, shall be reimbursed to the Consultant at actual
+cost:
+<ol type="a">
+<li value="1">reproduction and delivery costs of drawings, <abbr title="Computer-aided Design and Drafting">CADD</abbr>
+files, specifications and other Technical Documentation additional
+to that specified in the Project Brief;</li>
+<li value="2">transportation costs for material samples and models
+additional to that specified in the Project Brief;</li>
+<li value="3">project related travel and accommodation additional
+to that specified in the Project Brief shall be reimbursed in
+accordance with current <cite>National
+Joint Council (NJC) Travel Directive</cite> ; and</li>
+<li value="4">other disbursements made with the prior approval and
+authorization of the Departmental Representative.</li>
+</ol>
+</li>
+<li value="3">Disbursements shall be Project related and shall not
+include expenses that are related to the normal operation of the
+Consultant's business. The amounts payable, shall not exceed the
+amount entered in the Agreement Particulars, without the prior
+authorization of the Departmental Representative.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,59 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when limiting a Contractor's liability to 
+Canada for first and third party claims. Limiting a contractor's liability to 
+Canada should be an exception to the normal practice of using the standard 
+conditions.  Limiting a Contractor's liability to Canada for third party claims 
+should be avoided at all costs, as the exposure of risk to Canada could be 
+extensive.  Limiting a contractor's third party liability can only be done under 
+a very limited number of circumstances, the main one being non-competitive 
+contracts.
+ </p>
+<p>
+  When the decision is made to limit a contractor's liability to Canada, 
+contracting officers, in conjunction with client departments, must be able to 
+demonstrate that the risks associated with the procurement have been analyzed 
+and that the limitation of liability provides adequate protection to Canada or, 
+if there is a substantive transfer of risk to Canada, that appropriate approvals 
+have been sought.  Decisions with respect to limiting a contractor's liability 
+should be made before the start of negotiations.
+ </p>
+<p>
+  The dollar amount below must be completed using the amount from the appropriate 
+commodity grouping, or in consultation with Risk Management Advisory Services.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">This section applies despite any other provision of
+the Contract and replaces the section of the general conditions
+entitled "Liability". Any reference in this section to damages
+caused by the Contractor also includes damages caused by its
+employees, as well as its subcontractors, agents, and
+representatives, and any of their employees.</li>
+<li value="2">Whether the claim is based in contract, tort, or
+another cause of action, the Contractor's liability for all damages
+suffered by Canada caused by the Contractor's performance of or
+failure to perform the Contract is limited to
+$<var>___________</var>. This limit applies not only to damages to
+Canada, but also limits the amount that the Contractor must
+reimburse to Canada if Canada is required, as a result of joint and
+several liability, to pay a third party in respect of damages
+caused by the Contractor. This limitation of the Contractor's
+liability does not apply to:
+<ol type="a">
+<li value="1">any infringement of intellectual property rights;
+or</li>
+<li value="2">any breach of warranty obligations.</li>
+</ol>
+</li>
+<li value="3">Despite the above, this article does not require
+Canada to reimburse the Contractor for amounts that the Contractor
+is required by law to pay directly to any third party, even if
+those amounts are for damages that relate to the Contractor's
+performance of or failure to perform the Contract. Canada is not
+required to defend the Contractor against any third party claims
+made directly against the Contractor, even if Canada is also a
+party to the litigation.</li>
+</ol>
+</div></pre>

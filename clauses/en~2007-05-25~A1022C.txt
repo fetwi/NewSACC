@@ -1,0 +1,36 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the term "Project Authority" is to be 
+included in the contract (as requested by the client department).  If the term 
+"Technical Authority" is to be used instead, refer to clause
+  
+   A1030C
+  
+  . If both 
+terms "Project Authority" and "Technical Authority" are required in the 
+contract, contracting officers must revise the responsibilities of both 
+authorities to reflect their respective roles.
+ </p>
+<p>
+  Use the following clause only if the low dollar value (2T-LDV1), medium 
+complexity (2T-MED1) and higher complexity (2T-HIGH1) templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Project Authority for the Contract is:</p>
+<p>Name: <var>_____</var></p>
+<p>Title: <var>_____</var></p>
+<p>Organization: <var>_____</var></p>
+<p>Address: <var>_____</var></p>
+<p>Telephone: <var>___</var>-<var>___</var>-<var>____</var></p>
+<p>Facsimile: <var>___</var>-<var>___</var>-<var>____</var></p>
+<p>E-mail: <var>________________</var></p>
+<p>The Project Authority is the representative of the department or
+agency for whom the Work is being carried out under the Contract
+and is responsible for all matters concerning the technical content
+of the Work under the Contract. Technical matters may be discussed
+with the Project Authority, however the Project Authority has no
+authority to authorize changes to the scope of the Work. Changes to
+the scope of the Work can only be made through a contract amendment
+issued by the Contracting Authority.</p>
+</div></pre>

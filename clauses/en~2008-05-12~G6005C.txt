@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts involving short-term automobile leases 
+(fewer than 31 days).
+ </p>
+<p>
+  This clause is used to ensure that any liability claim arising from the use of 
+the rented vehicle by federal government employees traveling on official 
+government business, be resolved by Canada rather than the employees own 
+Automobile Liability policy.  (Bill 18, Ontario - changes to the Highway Traffic 
+Act).
+ </p>
+<p>
+  For further assistance, contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>For vehicles rented by federal government employees, while
+travelling on official government business, for a period of less
+than 31 days, the Contractor must insert as lessee, Canada, as
+presented by <span class="input-required"><var>___________</var>
+<kbd>(<em>insert the employee's department</em>)</kbd></span>.</p>
+</div></pre>

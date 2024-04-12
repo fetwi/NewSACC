@@ -1,0 +1,45 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the contractor is required to provide 
+contract financial security after contract award.
+
+Use this clause in conjunction with E0004T and E0008C.
+
+Contracting officers must insert the amount of percentage required under 
+paragraph 1.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor must provide one of the following contract financial 
+       securities within _____ calendar days after the date of contract 
+       award:
+
+       (a)    a performance bond (form PWGSC-TPSGC 505) in the amount of _____ 
+              percent of the Contract Price; or
+
+       (b)    a performance bond (form PWGSC-TPSGC 505) and a labour and 
+              material payment bond (form PWGSC-TPSGC 506), each in the 
+              amount of _____ percent of the Contract Price; or
+
+       (c)    a labour and material payment bond (form PWGSC-TPSGC 506) in 
+              the amount of _____ percent of the Contract Price; or
+
+       (d)    a security deposit as defined in clause E0008C in the amount 
+              of _____ percent of the Contract Price.
+
+       Any bond must be accepted as security by one of the bonding 
+       companies listed in Treasury Board Contracting Policy, Appendix L, 
+       Acceptable Bonding Companies.
+
+2.     Security deposits in the form of government guaranteed bonds with 
+       coupons attached will be accepted only if all coupons that are 
+       unmatured, at the time the security deposit is provided, are 
+       attached to the bonds.  The Contractor must provide written 
+       instructions concerning the action to be taken with respect to 
+       coupons that will mature while the bonds are pledged as security, 
+       when such coupons are in excess of the security deposit requirement.
+
+3.     If Canada does not receive the required financial security within 
+       the specified period, Canada may terminate the Contract for default 
+       pursuant to the Contract default provision.
+
+
+
+</pre>

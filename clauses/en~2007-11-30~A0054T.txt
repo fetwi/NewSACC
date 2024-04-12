@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations if a the specific format is requested.
+ </p>
+<p>
+  Insert the following only if the medium complexity (2T-MED1) or higher complexity (2T-HIGH1) template is not used.  Contracting officers must consult the procedures 2T-PROC1 to confirm they cannot use the template for the requirement.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada requests that bidders follow the format instructions described below in the preparation of their bid.</p>
+<ol type="a">
+<li value="1">use 8.5 x 11 inch (216 mm x 279 mm) paper;</li>
+<li value="2">use a numbering system corresponding to that of the
+bid solicitation; 
+<br/><span class="description"><strong>Instruction to contracting officers</strong> : Insert the following text when the bid solicitation contains certifications to be provided by bidders.</span></li>
+<li value="3">include the certification as a separate section of the bid.</li>
+</ol>
+</div></pre>

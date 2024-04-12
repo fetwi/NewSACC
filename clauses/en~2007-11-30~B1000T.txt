@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in bid solicitations when the requirement is for new 
+material and must conform to the latest version of the drawing, specification 
+and part number that is in effect on the bid solicitation closing date.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Material supplied must be new and conform to the latest issue of
+the applicable drawing, specification and/or part number that is in
+effect on the bid solicitation closing date.</p>
+</div></pre>

@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when Block 12 indicates Site Access and it is on a Treasury 
+Board approved program.
+
+Use this clause in consultation with the Canadian and International Industrial 
+Security Directorate.
+
+Completion of the Security Requirement Check List, form TBS/SCT 350-103, is 
+mandatory and is available on line at: 
+http://www.ciisd.gc.ca/text/forms/form-e.asp.
+
+NOTE: 	** The clause must identify the procurement, i.e. a Contract or Standing 
+Offer, as applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Security Requirement:  ** PWGSC FILE #______</strong>
+
+1.     The Contractor/Offeror personnel requiring access to secure work 
+       site(s) must, at all times during the performance of the Contract/
+       Standing Offer, EACH hold a valid SITE ACCESS clearance, granted or 
+       approved by the Canadian and International Industrial Security 
+       Directorate.
+
+2.     The Contractor/Offeror must comply with the provision of the 
+       Security Requirements Check List, attached at Annex _______.
+
+
+</pre>

@@ -1,0 +1,425 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-4 00     (2005-06-10)  Licensed Software</strong>
+
+
+<strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     License Grant
+03     Personal Computer License
+04     License Restricting Use to a Designated Computer
+05     Site or Corporate License
+06     Licensed Documentation
+07     Copyright Notices
+08     Media
+09     Term of License
+10     Acceptance Tests
+11     Non-Disclosure Obligations
+12     Right to License
+13     Warranty
+14     Availability of Source Code
+15     Right to Modify
+16     Risk of Loss
+17     Destruction on Termination
+
+
+<strong>9601-4 01     (2005-06-10)  Interpretation</strong>
+
+1.     In the Contract, unless the context otherwise requires,
+
+       "General Conditions" means general conditions 9601 which forms part 
+       of the Contract;
+
+       "Canada", "Crown", "Her Majesty", "the Government" means Her Majesty 
+       the Queen in right of Canada;
+
+       "Licensed Documentation" means all of the manuals, handbooks, user 
+       guides and other human-readable material to be furnished by the 
+       Contractor to Canada under the Contract for use with the Licensed 
+       Programs, whether that material is to be supplied in printed form or 
+       on Media;
+
+       "Licensed Programs" means all of the computer programs, in 
+       object-code form, which are to be furnished by the Contractor to 
+       Canada under the Contract, other than those computer programs, if 
+       any, which are to be developed by the Contractor under the Contract 
+       and which are covered by supplemental general conditions 9601-2;
+
+       "Licensed Software" means the Licensed Programs and the Licensed 
+       Documentation collectively;
+
+       "Media" means the material on which the Licensed Programs are stored 
+       for delivery to Canada, such as magnetic or other tapes, magnetic 
+       disks, or optical disks;
+
+       "User" means the minister responsible for the department or agency 
+       for which the Work is carried out, or, in the event of a transfer 
+       under subsection 2.2, the minister to whom the Licensed Software is 
+       transferred; and "minister", for the purposes of this definition, 
+       includes any employee, agent or contractor duly authorized to act on 
+       behalf of the minister.
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these supplemental general conditions shall have the meanings 
+       assigned to them in the General Conditions.
+
+3.     In the event of any inconsistency between the General Conditions and 
+       these supplemental general conditions, the applicable provisions of 
+       these supplemental general conditions shall prevail.
+
+4      The sections of the General Conditions entitled "Title" and "
+       Warranty" do not apply to the Licensed Software and the Media.  The 
+       title and warranty provisions contained in these supplemental 
+       general conditions apply in place of those sections.
+
+5.     Subsections 23.5 to 23.8 inclusive of general conditions 9601, if 
+       that set forms part of the Contract, shall only apply to royalties 
+       which are payable in connection with the Licensed Software if the 
+       Contract is a defence contract within the meaning of the <em>Defence 
+       Production Act</em>, R.S.C. 1985, c. D-1.
+
+<strong>9601-4 02     (1992-12-01)  License Grant</strong>
+
+1.     The Contractor hereby grants to Canada a non-exclusive license to 
+       use and reproduce the Licensed Software in accordance with and 
+       subject to the terms and conditions of the Contract.
+
+2.     The User shall be the only entity authorized to use and reproduce 
+       the Licensed Software on behalf of Canada.  If the department or 
+       agency for which the User is responsible is reconfigured, absorbed 
+       by another government department or agency, or is disbanded entirely, 
+       the Minister may, by giving notice to the Contractor, designate 
+       another minister as the "User" for the purposes of the Contract.
+
+3.     Canada acknowledges that title to the Licensed Software shall remain 
+       with the Contractor or its licensor.
+
+<strong>9601-4 03     (1992-12-01)  Personal Computer License</strong>
+
+1.     In this section, "PC Software" means Licensed Software that is 
+       designed for use on a personal computer.
+
+2.     Subsections 3 and 4 apply to any PC Software furnished under the 
+       Contract except for PC Software that is subject to section 05.
+
+3.     The User may use each licensed copy of PC Software only on a single 
+       personal computer, the type of which is specified in the Contract or, 
+       where the Contract is silent, in the Licensed Documentation related 
+       to the PC Software.  The User may transfer each such copy from one 
+       personal computer to another, without giving notice thereof to the 
+       Contractor, provided that the copy is only used on one personal 
+       computer at a time.
+
+4.     The User may make copies of the PC Software in machine-readable or 
+       printed form, for back-up purposes only, in support of the use of 
+       each licensed copy on a single personal computer.
+
+<strong>9601-4 04     (1995-03-31)  License Restricting Use to a Designated 
+                            Computer</strong>
+
+1.     This section applies to Licensed Software that is designed for use 
+       on computers other than a personal computer as described in section 
+       03 but does not apply to Licensed Software that is subject to 
+       section 05.
+
+2.     Subject to the other provisions of this section, and except as 
+       otherwise provided in the Contract, Canada shall only use the 
+       Licensed Software with the computer system or systems on which the 
+       Licensed Programs are originally installed (each such system is 
+       hereinafter called the "Designated Computer System").
+
+3.     If the Designated Computer System includes remote terminals, the 
+       User shall be free to concurrently access and use the Licensed 
+       Programs from such terminals, subject to the limitations, if any, of 
+       the usage terms of the Contract.
+
+4.     The User may temporarily transfer the Licensed Software to back-up 
+       equipment if the Designated Computer System is inoperative, or if 
+       Canada's facilities are inaccessible.  Should any transfer be 
+       expected to exceed a cumulative total of sixty (60) calendar days 
+       within any 90-day period, the Contractor shall be given notice of 
+       the transfer by the Technical Authority.
+
+5.     Canada, by notice from the Contracting Authority to the Contractor, 
+       may, at any time, redesignate the Designated Computer System on 
+       which the Licensed Software is used.
+
+6.     If Canada wishes to transfer the Licensed Software to a new release 
+       or upgrade of the Designated Computer System or of its operating 
+       system, and if such transfer requires a different version of the 
+       Licensed Software in order for the Licensed Software to continue to 
+       meet the functional and performance criteria set out in the 
+       Specifications, then the Contractor shall provide the appropriate 
+       version, if available, to Canada on substantially the same terms and 
+       conditions as set out in the Contract, and at a price which shall 
+       not exceed the lowest price charged by the Contractor to anyone else 
+       for that version, including its most favoured commercial customer.
+ 
+7.     The User may make copies of the Licensed Software in 
+       machine-readable or printed form, for back-up purposes only, in 
+       support of the use of the Licensed Software on the Designated 
+       Computer System.
+
+<strong>9601-4 05     (1992-12-01)  Site or Corporate License</strong>
+
+1.     This section applies to Licensed Software which the Contract 
+       indicates is subject to a "site" or "corporate" license.
+
+2.     Subject to subsection 3, the User may use the Licensed Software 
+       referred to in subsection 1 on any and all computer systems owned, 
+       leased or operated by Canada on the date of the Contract or at any 
+       time thereafter at the site or sites designated in the Contract.
+
+3.     The User shall only use the Licensed Programs on the type of 
+       computer system specified in the Contract or, where the Contract is 
+       silent, in the Licensed Documentation related to the Licensed 
+       Programs.
+
+4.     Except where there is an express restriction in the Contract on the 
+       number of copies of the Licensed Software that can be made, Canada 
+       shall have the right to reproduce the Licensed Software, without 
+       restriction, for use by Canada on computer systems at the site or 
+       sites designated in the Contract.
+
+<strong>9601-4 06     (1992-12-01)  Licensed Documentation</strong>
+
+1.     Except as provided in sections 03, 04 and 05, and except as 
+       otherwise provided in the Contract, Canada shall not reproduce the 
+       Licensed Documentation without the prior written consent of the 
+       Contractor.
+
+2.     The Contractor represents and warrants that the Licensed 
+       Documentation shall contain enough detail to permit an experienced 
+       user to install, test and use all features of the Licensed Programs.  
+       If the source code for the Licensed Programs is to be furnished to 
+       Canada under the Contract, the Contractor represents and warrants 
+       that the code so furnished shall contain enough detail to permit a 
+       programmer, experienced in the use of the programming language or 
+       languages in which the source code is written, to modify the 
+       Licensed Programs.
+
+<strong>9601-4 07     (1992-12-01)  Copyright Notices</strong>
+
+If the Licensed Software contains copyright or other proprietary notices, 
+Canada shall reproduce those notices on all copies of the Licensed Software.
+
+<strong>9601-4 08     (1992-12-01)  Media</strong>
+
+1.     The Contractor represents and warrants that the Media shall be 
+       compatible with the computer system on which the Licensed Programs 
+       are to be installed.
+
+2.     The Contractor further represents and warrants that the Media, as 
+       supplied by the Contractor, shall be free from computer viruses.
+
+3.     Title to the Media shall vest in Canada upon delivery to and 
+       acceptance thereof by or on behalf of Canada.  "Media", for the 
+       purposes of this subsection, does not include the Licensed Software 
+       stored on the Media.
+
+<strong>9601-4 09     (1992-12-01)  Term of License</strong>
+
+1.     Unless otherwise indicated in the Contract, Canada's license with 
+       respect to the Licensed Software shall be perpetual, subject only to 
+       the termination provisions set out in the Contract.
+
+2.     If Canada is in breach of Canada's license with respect to the 
+       Licensed Software, and if that breach continues for a period of 
+       thirty (30) days following receipt by the Contracting Authority of 
+       written notice from the Contractor giving particulars of the breach, 
+       the Contractor may terminate Canada's license  with respect to the 
+       Licensed Software by giving the Contracting Authority written notice 
+       to that effect.
+
+<strong>9601-4 10     (1995-03-31)  Acceptance Tests</strong>
+ 
+1.     After installation of the Licensed Programs in accordance with the 
+       terms of the Contract, the Technical Authority shall perform the  
+       acceptance tests set out or referred to in the Contract to determine 
+       whether the Licensed Software and the Media conform to the 
+       requirements of the Contract, including the Specifications.  If the 
+       Contract does not provide for any such tests, the Parties may agree 
+       upon the acceptance tests to be conducted, provided, however, that 
+       if the Parties do not or are unable to agree, the Technical 
+       Authority may conduct whatever acceptance tests it reasonably deems 
+       necessary to verify conformity with the requirements of the Contract.  
+       Unless otherwise specified in the Contract, the acceptance tests 
+       shall be conducted at Canada's facilities.
+
+2.     Except as otherwise provided in the Contract, the acceptance tests 
+       referred to in subsection 1 shall be conducted over a period of 
+       forty (40) days from the date of installation of the Licensed 
+       Software at Canada's facilities.  If the Licensed Software and Media 
+       pass those acceptance tests, the Technical Authority shall give 
+       notice to the Contractor that the Licensed Software and Media are 
+       accepted.
+
+3.     Notwithstanding anything else contained in this section, if Canada 
+       is unable to commence or continue the acceptance tests in relation 
+       to the Licensed Software because of an act in Canada's sovereign 
+       capacity or the occurrence of an event of force majeure, the 
+       acceptance tests may be temporarily suspended for a period of time 
+       not to exceed sixty (60) days.  The time limits for testing referred 
+       to in this section or elsewhere in the Contract shall in such cases 
+       be extended by the number of calendar days of the suspension.  If 
+       the delay exceeds sixty (60) days, the Parties shall thereafter use 
+       reasonable efforts to negotiate a mutually acceptable amendment to 
+       the Contract.
+
+<strong>9601-4 11     (2004-12-10)  Non-Disclosure Obligations</strong>
+
+1.     Canada acknowledges that the Licensed Software contains information 
+       which the Contractor considers to be proprietary and confidential.  
+       Subject to the<em> Access to Information Act</em>, R.S.C. 1985, c. A-1, and 
+       to Canada's rights under the Contract to disclose such information 
+       to contractors and agents of Canada engaged in the work of the User, 
+       Canada shall not release or disclose such information outside the 
+       Government of Canada without the prior written consent of the 
+       Contractor.
+
+2.     The foregoing obligation does not apply to information that:
+
+       (a)    is publicly available from a source other than Canada;
+
+       (b)    is or becomes known to Canada from a source other than the 
+              Contractor, except from any source that is known to Canada to 
+              be under an obligation to the Contractor not to disclose the 
+              information; or
+
+       (c)    is developed by Canada without the use of the information of 
+              the Contractor or its licensor.
+
+<strong>9601-4 12     (1992-12-01)  Right to License</strong>
+
+1.     The Contractor represents and warrants that it has the right to 
+       license the Licensed Software and full power and authority to grant 
+       to Canada the rights granted under the Contract.  The Contractor 
+       further represents and warrants that all necessary consents to that 
+       grant have been obtained.
+
+2.     Except to the extent that those conditions may be expressly 
+       incorporated in the Contract, it is agreed that conditions 
+       accompanying or enclosed with the Licensed Software, if any, shall 
+       not form part of Canada's license or affect the rights of the 
+       Parties in any manner whatsoever.  In no event shall Canada or any 
+       end user be required to enter into any further license agreement 
+       with respect to the Licensed Software or any portion thereof after 
+       the effective date of the Contract.
+
+<strong>9601-4 13     (1992-12-01)  Warranty</strong>
+
+1.     In this section, unless otherwise indicated in the Contract, "
+       Warranty Period" means a period of ninety (90) days from the date on 
+       which the Contractor has completed the whole of the Work in 
+       accordance with the terms of the Contract, except for warranty work 
+       and any other work which is scheduled under the Contract to be 
+       performed after the start of the Warranty Period.
+
+2.     The Contractor warrants that, during the Warranty Period, the 
+       Licensed Programs shall operate in conformity with the 
+       Specifications on the computer system or systems on which the 
+       Licensed Programs are installed.  In the event that the Licensed 
+       Programs fail to meet the foregoing warranty at any time during the 
+       Warranty Period, the Contractor, at the request of Canada to do so, 
+       shall, as soon as possible, correct, at its expense, any programming 
+       errors and defects and make such additions, modifications or 
+       adjustments to the Licensed Software as may be necessary to keep the 
+       Licensed Programs in operating order, in accordance with the 
+       Specifications.  Although the Contractor shall use all reasonable 
+       efforts to provide permanent corrections for all software errors, 
+       Canada acknowledges that certain errors may not be permanently 
+       corrected by the Contractor under the foregoing warranty.  The 
+       Contractor shall provide a software patch or by-pass around the 
+       error in all cases where the error will not be permanently corrected.  
+       As a minimum, any such software patch or by-pass shall cause the 
+       Licensed Programs to meet the functional and performance criteria 
+       set out in the Specifications.
+
+3.     The Contractor warrants that, during the Warranty Period, the 
+       Licensed Documentation shall be free from all defects in materials 
+       and shall conform with the requirements of the Contract.  If Canada 
+       discovers a defect or nonconformance in any part of the Licensed 
+       Documentation during the Warranty Period, the Contractor, at the 
+       request of Canada to do so, shall, as soon as possible, correct, at 
+       its expense, the part of the Licensed Documentation found to be 
+       defective or not in conformance with the requirements of the 
+       Contract.
+
+4.     The Contractor warrants that, during the Warranty Period, the Media 
+       shall be free from all defects in materials or workmanship, and 
+       shall conform with the requirements of the Contract.  Canada may 
+       return nonconforming or defective Media to the Contractor within the 
+       Warranty Period, with notice of the nonconformance or the defect, 
+       and the Contractor shall promptly replace such Media with corrected 
+       Media at no additional cost to Canada.
+
+5.     If the Contractor is to perform support services with respect to the 
+       Licensed Software during the Warranty Period, it is agreed that the 
+       provisions concerning support shall not be interpreted so as to 
+       derogate from the warranty provisions set out in this section.
+
+6.     The warranties set out in this section shall survive inspection and 
+       acceptance of the Work by or on behalf of Canada, and do not 
+       restrict any other provision of the Contract or any condition, 
+       warranty or provision implied or imposed by law.
+
+<strong>9601-4 14     (1992-12-01)  Availability of Source Code</strong>
+
+1.     This section applies if the Contract does not otherwise require the 
+       Contractor to provide the source code for the Licensed Software to 
+       Canada.
+
+2.     If the Contractor and Canada have not entered into a separate escrow 
+       agreement concerning the source code with an escrow agent on or 
+       prior to the effective date of the Contract, then the Contractor 
+       shall put in place for Canada, at no additional charge, whatever 
+       escrow arrangements, if any, it usually puts in place for its 
+       customers, and shall give Canada, within thirty (30) days of the 
+       date of execution of the Contract, a copy of the agreement with its 
+       escrow agent which sets out the terms under which the escrow agent 
+       is authorized to release the source code to Canada.
+
+<strong>9601-4 15     (1992-12-01)  Right to Modify</strong>
+
+If the source code for the Licensed Programs is provided to Canada under 
+the terms of the Contract, that code shall form part of the "Licensed 
+Software" for the purposes of the Contract, and Canada shall have the right, 
+at Canada's discretion, to independently copy and modify the Licensed 
+Software for Canada's own purposes and use, through the services of Canada'
+s own employees or of independent contractors provided such contractors 
+agree not to disclose or distribute any part of the Licensed Software to 
+any other person or entity or otherwise violate the proprietary rights of 
+the owner of the Licensed Software.  Canada shall be the owner of any such 
+modifications, but shall obtain no ownership interest in the Licensed 
+Software, and any portion of the Licensed Software contained in such 
+modifications shall remain subject to the terms and conditions of Canada's 
+license.  The Contractor shall not incorporate any such modifications into 
+its software for distribution to third parties unless Canada has granted 
+the necessary distribution rights to the Contractor pursuant to a written 
+license agreement.  The provisions of this section shall not be interpreted 
+so as to preclude the Contractor or its third-party licensors from 
+independently developing modifications.
+
+<strong>9601-4 16     (1992-12-01)  Risk of Loss</strong>
+
+1.     Risk of loss of or damage to the Licensed Software or the Media, or 
+       to any part thereof, shall pass to Canada upon delivery of the 
+       Licensed Software or the Media, or that part, to Canada.
+
+2.     Notwithstanding subsection 1, the Contractor shall be liable for 
+       loss or damage to the Licensed Software or Media that is caused by 
+       the Contractor or any of its Subcontractors after delivery.
+
+<strong>9601-4 17     (1992-12-01)  Destruction on Termination</strong>
+
+In the event of termination or expiration of Canada's license, Canada will, 
+upon the written request of the Contractor, either return all copies of the 
+Licensed Software to the Contractor or, at Canada's option, will represent 
+in writing to the Contractor that all copies of the Licensed Software have 
+been destroyed except for one copy which may be retained by Canada for 
+archival purposes only.
+
+
+</pre>

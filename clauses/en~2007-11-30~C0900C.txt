@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in rental and maintenance contracts.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor will be paid firm monthly rates for rental and firm rates 
+per specified number of copies for maintenance (covering all parts, labour, 
+preventive and remedial maintenance), payable each month in arrears.  
+Customs duties are _________ (<strong><em>insert</em></strong><em> "</em><span class="wsInlineRemark">included</span><em>", "</em><span class="wsInlineRemark">excluded</span><em>" or "</em><span class="wsInlineRemark">exempt</span>") 
+and Goods and Services Tax or Harmonized Sales Tax is extra, if<strong> </strong>applicable.
+
+
+
+</pre>

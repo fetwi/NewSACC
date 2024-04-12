@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the National Joint
+  <br/>
+  Council Travel Directive will be used and when there is no allowance
+  <br/>
+  for profit and/or administrative overhead on travel costs.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor will be reimbursed its authorized travel and living expenses reasonably and properly incurred in the performance of the Work, at cost, without any allowance for profit and/or administrative overhead, in accordance with the meal, private vehicle and incidental expenses provided in Appendices B, <abbr title="Contract">C</abbr> and D of the <cite>National Joint Council Travel Directive</cite>and with the other provisions of the directive referring to "travellers", rather than those referring to "employees".</p>
+<p>All travel must have the prior authorization of the <span class="&lt;br"></span>
+"input-required"&gt;<var>________</var> <kbd>(<i>insert "Technical" or<br/>
+"Project" or "Contracting"</i>)</kbd> Authority.</p>
+<p>All payments are subject to government audit.</p>
+<p>Estimated Cost: $ <var>_____</var> .</p>
+</div></pre>

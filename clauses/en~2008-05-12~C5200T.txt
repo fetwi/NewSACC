@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations for goods when transportation 
+costs must be submitted to Traffic Management Directorate, Services and 
+Specialized Acquisitions Management Sector, for analysis.
+
+Do not use this clause in bid solicitations for the Department of National 
+Defence when it is responsible for shipping.
+
+Refer to Supply Manual procedures 6E.621, 6E.622 and 7D.409.
+
+Use this clause in conjunction with C5200C, and D4000C or D4001C, if applicable.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder must provide the following information concerning transportation 
+costs for the delivery of the units to destination:
+
+(a)    shipping weight by unit;
+(b)    number of items by unit;
+(c)    cubic measurement by unit;
+(d)    freight classification;
+(e)    name of shipping point;
+(f)    name of rail carrier, if shipment is by rail; and
+(g)    recommended method of shipment and its costs.
+
+
+
+</pre>

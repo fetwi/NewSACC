@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause where a manufacturer's brand name, model and/or part number are used in the item description and a substitute product will be considered.  Before issuing the bid solicitation, the contracting officer should 
+contact the client to discuss the potential for equivalent products and any mandatory performance criteria related to the item being specified that must be included in the bid solicitation to ensure proper evaluation of a substitute product's equivalency.
+ </p>
+<p>
+  Note: Contracting officers must ensure that all references to a manufacturer's brand name, model and/or part number contained anywhere within the bid solicitation are followed by the words "or equivalent".
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Products that are equivalent in form, fit, function and quality to the item(s) specified in the bid solicitation will be considered where the Bidder:
+<ol type="a">
+<li value="1">designates the brand name, model and/or part number of the substitute product;</li>
+<li value="2">states that the substitute product is fully interchangeable with the item specified;</li>
+<li value="3">provides complete specifications and descriptive literature for each substitute product;</li>
+<li value="4">provides compliance statements that include technical specifics showing the substitute product meets all mandatory performance criteria that are specified in the bid solicitation; and</li>
+<li value="5">clearly identifies those areas in the specifications and descriptive literature that support the substitute product's compliance with any mandatory performance criteria.</li>
+</ol>
+</li>
+<li value="2">Products offered as equivalent in form, fit, function and quality will not be considered if:
+<ol type="a">
+<li value="1">the bid fails to provide all the information requested to allow the Contracting Authority to fully evaluate the
+equivalency of each substitute product; or</li>
+<li value="2">the substitute product fails to meet or exceed the mandatory performance criteria specified in the bid solicitation for that item.</li>
+</ol>
+</li>
+<li value="3">In conducting its evaluation of the bids, Canada may, but will have no obligation to, request bidders offering a substitute product to demonstrate, at the sole cost of bidders, that the substitute product is equivalent to the item specified in the bid solicitation.</li>
+</ol>
+</div></pre>

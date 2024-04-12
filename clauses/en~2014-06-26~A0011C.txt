@@ -1,0 +1,29 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a project schedule has not been requested elsewhere in the contract, if applicable.  Use the clause in conjunction with
+  
+   A0011T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide a detailed project schedule in <span class="input-required"><var>__________</var> <kbd>(<em>insert "network", "Gantt chart", or "detailed bar chart"</em>)</kbd></span> format to the Contracting Authority and the <span class="input-required"><var>_______</var> <kbd>(<em>insert "Technical", "Project", or "Inspection"</em>)</kbd></span> Authority <span class="input-required"><var>_______</var> <kbd>(<em>insert spelled out number</em>)</kbd></span> <span class="input-required"><var>(_____)</var> <kbd>(<em>insert number</em>)</kbd></span> weeks after award of Contract. This schedule must highlight the specific dates for the events listed below and all items listed in Annex <var>_____</var> .</li>
+<li value="2">The Contractor's schedule must include target dates for each of the following significant events:
+<ol type="a">
+<li value="1"><var>_________</var>;</li>
+<li value="2"><var>_________</var>;</li>
+<li value="3"><var>_________</var>;</li>
+<li value="4"><var>_________</var>;</li>
+<li value="5"><var>_________</var>;</li>
+<li value="6"><var>_________</var>;</li>
+<li value="7"><var>_________</var>.</li>
+</ol>
+</li>
+</ol>
+<p>(<strong>Option</strong>: Contracting officers may include the following paragraph, but are advised that any update to the Contractor's schedule would then constitute an amendment to the Contract.)</p>
+<ol type="1">
+<li value="3">The schedule is to be regularly updated and available in the Contractor's office for review by Canada's authorities to determine the progress of the Work.</li>
+</ol>
+</div></pre>

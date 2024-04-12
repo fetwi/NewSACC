@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence when item(s) contain elastomeric material, e.g. hoses, rubber, adhesive compounds, etc.
+ </p>
+<p>
+  Use Option 1 for submarine spares containing elastomeric materials; and use Option 2 for all other items.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   D2015C
+  
+  and
+  
+   D2016C
+  
+  , if applicable.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>Option 1:</h2>
+<p>The Contractor must ensure that item(s) <span class="input-required"><var>___________</var> <kbd>(<i>insert the applicable item number</i>)</kbd></span> will contain 75 percent of the authorized shelf life as listed in <cite>ISO 2230</cite> at date of delivery to the Department of National Defence.</p>
+<h2>Option 2:</h2>
+<p>The Contractor must ensure that item(s) <span class="input-required"><var>___________</var> <kbd>(<i>insert the applicable item number</i>)</kbd></span> will contain 75 percent of the authorized shelf life as listed in <cite>CFTO D-05-001-001/SF-000</cite> at date of delivery to the Department of National Defence.</p>
+</div></pre>

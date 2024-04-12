@@ -1,0 +1,58 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when the price of the work is subject to a 
+ceiling price.
+
+Use option 1 when all the work is subject to a ceiling price.
+Use option 2 when only a portion of the work is subject to a ceiling price.
+
+Use this clause in conjunction with
+ 
+  C6000C
+ 
+ ; for option 2, clause
+ 
+  C6000C
+ 
+ applies 
+only to the ceiling price portion of the work.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p>The Contractor will be reimbursed for the costs reasonably and
+properly incurred in the performance of the Work, plus <span class="input-required"><var>_________</var> <kbd>(<i>insert "a fixed fee," or
+"a profit,"</i>)</kbd></span> as determined in accordance with the Basis
+of Payment <span class="input-required"><var>________</var>
+<kbd>(<i>insert "in Annex <var>____</var> " or  "detailed below"</i>)</kbd></span>, to a
+ceiling price of $ <span class="input-required"><var>________</var>
+<kbd>(<i>insert amount at contract award</i>)</kbd></span>. Customs duties
+are <span class="input-required"><var>________</var> <kbd>(<i>insert
+"included", "excluded" or "subject to exemption"</i>)</kbd></span> and
+Goods and Services Tax or Harmonized Sales Tax is extra, if
+applicable.</p>
+<p>The ceiling price is subject to downward adjustment so as not to
+exceed the actual costs reasonably incurred in the performance of
+the Work and computed in accordance with the Basis of Payment.</p>
+<p class="description">(<strong><i>Insert details of the Basis of Payment if not included in an annex.</i></strong>)</p>
+<h2>Option 2</h2>
+<p>For the Work described in <span class="input-required"><var>_________</var> <kbd>(<i>insert the applicable
+section(s) of the statement of work or requirement to
+which this basis of payment applies</i>)</kbd></span> of the <span class="input-required"><var>________</var> <kbd>(<i>insert "Statement of
+Work" or "Requirement"</i>)</kbd></span> in Annex <var>____</var> :</p>
+<p>The Contractor will be reimbursed for the costs reasonably and
+properly incurred in the performance of the Work, plus <span class="input-required"><var>_________</var> <kbd>(<i>insert "a fixed fee," or
+"a profit,"</i>)</kbd></span> as determined in accordance with the Basis
+of Payment <span class="input-required"><var>________</var>
+<kbd>(<i>insert "in Annex <var>____</var> "
+or "detailed below"</i>)</kbd></span>, to a
+ceiling price of $ <span class="input-required"><var>________</var>
+<kbd>(<i>insert amount at contract award</i>)</kbd></span>. Customs duties
+are <span class="input-required"><var>________</var> <kbd>(<i>insert
+"included", "excluded" or "subject to exemption"</i>)</kbd></span> and
+Goods and Services Tax or Harmonized Sales Tax is extra, if
+applicable.</p>
+<p>The ceiling price is subject to downward adjustment so as not to
+exceed the actual costs reasonably incurred in the performance of
+the Work and computed in accordance with the Basis of Payment.</p>
+<p class="description">(<strong><em>Insert details of the Basis of Payment if not
+included in an annex.</em></strong>)</p>
+</div></pre>

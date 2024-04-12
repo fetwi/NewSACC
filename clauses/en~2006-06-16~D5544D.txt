@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the work under contract is for calibration or 
+testing of equipment.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+conform to the requirements of:
+
+       ISO/IEC 17025:2005 General requirements for the competence of 
+       testing and calibration laboratories.
+
+It is not the intent of this clause to require that the Contractor be 
+registered to the applicable standard; however, the Contractor's quality 
+management system must address each requirement contained in the standard.
+
+Assistance for Government Quality Assurance (GQA):
+
+The Contractor shall provide the Quality Assurance Representative (QAR) 
+with the accommodation and facilities required for the proper 
+accomplishment of GQA and shall provide any assistance required by the QAR 
+for evaluation, verification, validation, documentation or release of 
+product.
+
+The QAR shall have the right of access to any area of the Contractor's or 
+Subcontractor's facilities where any part of the Work is being performed.  
+The QAR shall be afforded unrestricted opportunity to evaluate and verify 
+Contractor conformity with Quality System procedures and to validate 
+product conformity with contract requirements.  The Contractor shall make 
+available for reasonable use by the QAR the equipment necessary for all 
+validation purposes.  Contractor personnel shall be made available for 
+operation of such equipment as required.
+
+When the QAR determines that GQA is required at a Subcontractor's 
+facilities, the Contractor shall provide for this in the purchasing 
+document and forward copies to the QAR, together with relevant technical 
+data as the QAR may request.
+
+The Contractor shall notify the QAR of non-conforming product received from 
+   a Subcontractor when the product has been subject to GQA.
+</pre>

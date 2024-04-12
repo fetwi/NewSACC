@@ -1,0 +1,62 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in conjunction with general conditions
+  
+   2040
+  
+  or 
+supplemental general conditions
+  
+   4006
+  
+  or
+  
+   4007
+  
+  , when the contractor must provide a 
+certification of disclosure on completion of the work.
+ </p>
+<p>
+  When used in conjunction with general conditions
+  
+   2040
+  
+  , insert: "section 27 of 
+general conditions
+  
+   2040
+  
+  ".
+ </p>
+<p>
+  When used in conjunction with supplemental general conditions
+  
+   4006
+  
+  or
+  
+   4007
+  
+  , 
+insert: "section 02 of supplemental general conditions
+  
+   4006
+  
+  or
+  
+   4007
+  
+  ".
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>On completion of the Work, the Contractor must submit to the
+<span class="input-required"><var>_________</var> <kbd>(<em>insert
+"Technical Authority" or "Project Authority"</em>)</kbd></span> and to
+the Contracting Authority a copy of the Disclosure Certification
+attached as Annex <span class="input-required">"<var>_____</var>" <kbd>(<em>insert the
+applicable annex</em>)</kbd></span> stating that all applicable
+disclosures were submitted or that there were no disclosures to
+submit under <span class="input-required"><var>________</var>
+<kbd>(<em>insert applicable section</em>)</kbd></span>.</p>
+</div></pre>

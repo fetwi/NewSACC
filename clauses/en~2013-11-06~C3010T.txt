@@ -1,0 +1,56 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when it is proposed to offer bidders a choice to mitigate their risk by having Canada assume the risks and benefits of exchange rate fluctuations.  The total price paid by Canada will be adjusted up or down based on currency fluctuations.
+ </p>
+<p>
+  Contracting officers should assess the risks and the applicability of this text to their commodity.  Changes to this text must be discussed with the Procurement Process Tools Division at
+  
+   Outilsd'approvisionnement.ProcurementTools@tpsgc-pwgsc.gc.ca
+  
+  in the Policy, Risk, Integrity and Strategic Management Sector and with Legal Services.
+ </p>
+<p>
+  For sole source requirements, in the event that the price is subject to negotiation, the foreign currency component of the negotiated price and the dates for the fluctuation calculations must be confirmed before contract award.
+ </p>
+<p>
+  Use this clause in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C3015C
+  
+  , Exchange Rate Fluctuation Adjustment.  Whenever exchange rate fluctuation is not expected to be an issue and it is not proposed to offer risk mitigation against it, use
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C3011T
+  
+  .
+ </p>
+<p>
+  For more information, refer to section
+  
+   4.65 Exchange Rate Fluctuation Risk Mitigation
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Bidder may request Canada to assume the risks and benefits of exchange rate fluctuations.  If the Bidder claims for an exchange rate adjustment, this request must be clearly indicated in the bid at time of bidding.  The Bidder must submit form PWGSC-TPSGC 450, Claim for Exchange Rate Adjustments with its bid, indicating the Foreign Currency Component (FCC) in Canadian dollars for each line item for which an exchange rate adjustment is required. </li>
+<li value="2">The <abbr title="Foreign currency component">FCC</abbr> is defined as the portion of the price or rate that will be directly affected by exchange rate fluctuations.  The <abbr title="Foreign currency component">FCC</abbr> should  include all related taxes, duties and other costs paid by the Bidder and which are to be included in the adjustment amount.</li>
+<li value="3">The total price paid by Canada on each invoice will be adjusted at the time of payment, based on the <abbr title="Foreign currency component">FCC</abbr> and the exchange rate fluctuation provision in the contract.  The exchange rate adjustment will only be applied where the exchange rate fluctuation is greater than 2% (increase or decrease). </li>
+<li value="4">At time of bidding, the Bidder must complete columns (1) to (4) on form PWGSC-TPSGC 450, for each line item where they want to invoke the exchange rate fluctuation provision.  Where bids are evaluated in Canadian dollars, the dollar values provided in column (3) should also be in Canadian dollars, so that the adjustment amount is in the same currency as the payment.</li>
+<li value="5">Alternate rates or calculations proposed by the Bidder will not be accepted for the purposes of this exchange rate fluctuation provision.</li>
+</ol>
+</div></pre>

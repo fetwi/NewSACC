@@ -1,0 +1,90 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when firm time rates are established for 
+professional fees and when travel and living expenses and direct expenses are to 
+be reimbursed at actual cost without markup. 
+
+Add or delete paragraphs as applicable to meet specific requirements.  Add the 
+paragraph relative to the option to extend the contract, if applicable.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor will be paid firm, all inclusive hourly rates as follows, 
+for Work performed in accordance with the Contract. Customs duties are _____
+_____ (<strong><em>insert</em></strong><em> "</em><span class="wsInlineRemark">included</span><em>", "</em><span class="wsInlineRemark">excluded</span><em>" </em><strong><em>or</em></strong><em> "</em><span class="wsInlineRemark">exempt</span>") and Goods and Services 
+Tax or Harmonized Sales Tax is extra, if applicable.
+
+</pre> <table border="1" summary="Rates">
+<thead>
+<tr align="left" valign="top">
+<th>Category</th>
+<th>Name (if applicable)</th>
+<th>Firm Hourly Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr align="left" valign="top">
+<td>________________________</td>
+<td>________________________</td>
+<td>$_______________________</td>
+</tr>
+<tr align="left" valign="top">
+<td>________________________</td>
+<td>________________________</td>
+<td>$_______________________</td>
+</tr>
+</tbody>
+</table> <pre>
+       Total Estimated Cost: $______
+
+<strong>Travel and Living Expenses</strong>
+
+The Contractor will be paid its authorized travel and living expenses 
+reasonably and properly incurred in the performance of the Work, at cost, 
+without any allowance for overhead or profit, in accordance with the meal, 
+private vehicle and incidental allowances specified in Appendices B, C and 
+D of the Treasury Board Travel Directive (http://www.tbs-sct.gc.ca/hr-rh/
+gtla-vgcl/), and with the other provisions of the directive referring to "
+travellers", rather than those referring to "employees". 
+
+All travel must have the prior authorization of the<em> ________</em><span class="wsInlineRemark"> </span><em>(</em><strong><em>insert name 
+of relevant authority</em></strong><em>).</em><em></em>
+All payments are subject to government audit.
+
+Estimated cost:  $_____
+
+<strong>Other Direct Expenses</strong>
+
+The Contractor will be reimbursed its direct expenses reasonably and 
+properly incurred in the performance of the Work.  These expenses will be 
+paid at actual cost without markup, upon submission of an itemized 
+statement supported by receipt vouchers.<strong></strong>
+
+Estimated cost:  $  _________
+
+<strong>Total Estimated Cost to a Limitation of Expenditure: ______________ (GST/
+HST) extra)</strong><strong></strong>
+
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers</strong></span><span class="wsInlineRemark">:  Insert the following paragraph when 
+the contract contains an option to extend the contract.</span><span class="wsInlineRemark"><strong></strong></span>
+<strong>Option to Extend the Contract</strong>
+During the extended period of the Contract,  the Contractor will be paid 
+the following firm hourly rates to perform all the Work in relation to the 
+contract extension.
+
+</pre> <table border="0" summary="Extension Firm Hourly Rates">
+<thead>
+<tr align="left" valign="top">
+<th>Category</th>
+<th>Firm Hourly Rate</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+<tr>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+</tbody>
+</table> <pre></pre>

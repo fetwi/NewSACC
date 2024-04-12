@@ -1,0 +1,45 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all cost reimbursable contracts with a limitation of 
+expenditure.
+
+Do not use this clause in firm price or ceiling price contracts.
+
+Use this clause in conjunction with C0206C.  When contracts include two types of 
+basis of payment, (e.g. firm price and cost reimbursable with a limitation of 
+expenditure), contracting officers must insert the amount in the space below 
+that is subject to the Limitation of Expenditure portion of the basis of payment 
+only.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada's total liability to the Contractor under the Contract must 
+       not exceed $ _______.  Customs duties are _____ (<span class="wsInlineRemark"><strong>insert</strong></span><em> </em>"included", 
+       "excluded"<em> </em><span class="wsInlineRemark"><strong>or</strong></span><em> </em>"subject to exemption") and Goods and Services Tax or 
+       Harmonized Sales Tax is extra, if applicable.
+
+2.     No increase in the total liability of Canada or in the price of the 
+       Work resulting from any design changes, modifications or 
+       interpretations of the Work, will be authorized or paid to the 
+       Contractor unless these design changes, modifications or 
+       interpretations have been approved, in writing, by the Contracting 
+       Authority before their incorporation into the Work. The Contractor  
+       must not perform any work or provide any service that would result 
+       in Canada's total liability being exceeded before obtaining the 
+       written approval of the Contracting Authority. The Contractor must 
+       notify the Contracting Authority in writing as to the adequacy of 
+       this sum:
+
+       (a)    when it is 75 percent committed, or
+
+       (b)    four (4) months before the contract expiry date, or
+
+       (c)    as soon as the Contractor considers that the contract funds 
+              provided are inadequate for the completion of the Work,
+
+       whichever comes first.
+
+3.     If the notification is for inadequate contract funds, the Contractor 
+       must provide to the Contracting Authority a written estimate for the 
+       additional funds required. Provision of such information by the 
+       Contractor does not increase Canada's liability.
+
+
+</pre>

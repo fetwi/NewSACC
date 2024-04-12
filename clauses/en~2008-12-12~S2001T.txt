@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for supply arrangements for goods when 
+ceiling prices are required.
+ </p>
+<p>
+  Use clause 1 when the supplier must submit ceiling prices for all items; or 
+clause 2 when the supplier must submit ceiling prices for one or multiple groups 
+of items. Delete the clause not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+<h2>Clause 1</h2>
+Suppliers must submit ceiling prices for all items listed in
+Annex(es) "<var>_____</var> ".</li>
+<li>OR
+<h2>Clause 2</h2>
+Suppliers must submit ceiling prices for one or multiple groups
+of items. However, suppliers must submit ceiling prices for all
+items listed in the group(s) of items for which they submit prices.
+The groups of items are as follows:
+<ol type="a">
+<li value="1">Group A: All items listed in Annex "<var>____</var>"</li>
+<li value="2">Group B: All items listed in Annex "<var>____</var>"</li>
+<li value="3">Group C: All items listed in Annex "<var>____</var>"</li>
+<li value="4">Group D: All items listed in Annex "<var>____</var>".</li>
+</ol>
+</li>
+</ul>
+</div></pre>

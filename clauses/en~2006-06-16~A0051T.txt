@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Contracting officers may use the following clause in bid solicitations issued by Public Works and Government Services Canada regional offices, or when bids must be submitted directly to the contracting officer.
+ </p>
+<p>
+  Do not use for Low Dollar Value and Medium Complexity requirements if the Plain Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
+ </p>
+<p>
+  Contracting officers must ensure that the bid receiving address on page 1 of the bid solicitation document is correct.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Bids must be submitted by the date, time and place indicated on page 1 of the bid solicitation document.</p>
+<p class="description">(<strong><em>NOTE TO CONTRACTING OFFICER</em></strong><em>: Include the following sentence if applicable).</em></p>
+<p>Bids submitted by facsimile will not be accepted.</p>
+</div></pre>

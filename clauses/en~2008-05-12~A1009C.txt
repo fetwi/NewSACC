@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when Canada's representatives may need to access work 
+site(s) or the contractor's facilities during the contract period.
+ </p>
+<p>
+  Use this clause only in conjunction with general conditions
+  
+   2010A
+  
+  ,
+  
+   2010B
+  
+  ,
+  
+   2010C
+  
+  or
+  
+   2029
+  
+  ; not with 2030, 2035 and 2040 as the subject is already covered under 
+the inspection provision.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Authorized representatives of Canada must have access to any
+site where any part of the Work is being carried out at any time
+during working hours to make examinations and such tests of the
+Work as they may think fit.</p>
+</div></pre>

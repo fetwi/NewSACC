@@ -1,0 +1,53 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when design changes or additional work may 
+be required and the procedures are not included in the statement of work. This may include contracts for ship new construction/refit, repair contracts, general construction, etc.
+ </p>
+<p>
+  Consult
+  
+   8.70.25
+  
+  and
+  
+   8.70.25.1
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>These procedures must be followed for any design change or additional work.</p>
+<ol type="1">
+<li value="1">When Canada requests design change or additional work:
+<ol type="a">
+<li value="1">The Technical Authority will provide the Contracting Authority with a description of the design change or additional work in sufficient detail to allow the Contractor to provide the
+following information: 
+<ol type="i">
+<li value="1">any impact of the design change or additional work on the requirement of the Contract;</li>
+<li value="2">a price breakdown of the cost (increase or decrease) associated with the implementation of the design change or the performance of the additional work using either the form PWGSC-TPSGC 1686, Quotation for Design Change or Additional Work, or the form <span lang="fr">PWGSC-TPSGC 1379</span> (PDF 56KB) - (Help on File Formats) Work Arising or New Work.</li>
+<li value="3">a schedule to implement the design change or to perform the additional work and the impact on the contract delivery schedule.</li>
+</ol>
+</li>
+<li value="2">The Contracting Authority will then forward this information to the Contractor.</li>
+<li value="3">The Contractor will return the completed form to the Contracting Authority for evaluation and negotiation. Once agreement has been reached, the form must be signed by all parties in the appropriate signature blocks. This constitutes the written authorization for the Contractor to proceed with the work, and the Contract will be amended accordingly.</li>
+</ol>
+</li>
+<li value="2">When the Contractor requests design change or additional work:
+<ol type="a">
+<li value="1">The Contractor must provide the Contracting Authority with a request for design change or additional work in sufficient detail for review by Canada.</li>
+<li value="2">The Contracting Authority will forward the request to the Technical Authority for review.</li>
+<li value="3">If Canada agrees that a design change or additional work is required, then the procedures detailed in paragraph 1 are to be followed.</li>
+<li value="4">The Contracting Authority will inform the Contractor in writing if Canada determines that the design change or additional work is not required.</li>
+</ol>
+</li>
+<li value="3">Approval
+<br/>The Contractor must not proceed with any design change or additional work without the written authorization of the Contracting Authority. Any work performed without the Contracting
+Authority's written authorization will be considered outside the scope of the Contract and no payment will be made for such work.</li>
+</ol>
+</div></pre>

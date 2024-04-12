@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for supply arrangements for procurements that have been set aside under the federal government Procurement Strategy for Indigenous Business.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   S3036T
+  
+  , and if applicable,
+  
+   A3002T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">This procurement is set aside under the federal government Procurement Strategy for Indigenous Business. For more information on Indigenous business requirements of the Set-aside Program for Indigenous Business see Annex 9.4, of the <cite>Supply Manual</cite>.</li>
+<li value="2">The Supplier: <ol type="i">
+<li value="1">certifies that it meets, and will continue to meet throughout the duration of the Arrangement, the requirements described in the above-mentioned annex.</li>
+<li value="2">agrees that any subcontractor it engages under the Arrangement must satisfy the requirements described in the above-mentioned annex.</li>
+<li value="3">agrees to provide to Canada, immediately upon request, evidence supporting any subcontractor's compliance with the requirements described in the above-mentioned annex.</li>
+</ol>
+</li>
+<li value="3">The Supplier must check one applicable box below: <br/><var title="checkbox">( )</var> The Supplier is an Indigenous business that is a sole proprietorship, band, limited company, co-operative, partnership or not-for-profit organization. <br/><var title="checkbox">( )</var> The Supplier is either a joint venture consisting of two or more Indigenous businesses or a joint venture between an Indigenous business and a non-Indigenous business.
+        </li>
+<li value="4">The Supplier must, upon request by Canada, provide all information and evidence supporting this certification. The Supplier must ensure that this evidence will be available for audit during normal business hours by a representative of Canada, who may make copies and take extracts from the evidence. The Supplier must provide all reasonably required facilities for any audits.</li>
+<li value="5">By submitting an arrangement, the Supplier certifies that the information submitted by the Supplier in response to the above requirements is accurate and complete.</li>
+</ol>
+</div></pre>

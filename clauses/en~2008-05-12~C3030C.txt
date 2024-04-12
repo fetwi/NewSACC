@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in firm price contracts subject to exchange rate 
+fluctuation adjustment, when the goods, services or both include a foreign 
+currency component and the method of payment provides for "costs incurred" 
+progress payments only.  Refer to Supply Manual procedures 7E.574 and 11.007.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The price in Canadian currency includes the foreign currency 
+       component in respect of goods, services or both originating outside 
+       Canada, as detailed in Annex _____ of form PWGSC-TPSGC 9411, Claim 
+       for Exchange Rate Adjustments, (http://www.pwgsc.gc.ca/acquisitions/
+       text/forms/forms-e.html).
+
+2.     The price must be adjusted either upwards or downwards to reflect 
+       the actual costs incurred associated with the actual foreign 
+       currency exchange rate obtained by the Contractor when remitting 
+       payment to a foreign-based supplier or subcontractor for the goods, 
+       services or both.
+
+3.     On each claim for progress payment submitted under the Contract, the 
+       Contractor must indicate the foreign value or exchange rate 
+       adjustment amount (either upward, downward or no change) as a 
+       separate item.  The Contractor must provide appropriate 
+       documentation showing evidence of payment to a foreign-based 
+       subcontractor or supplier for the goods, services or both included 
+       in the claimed amount.
+
+4.     Canada will have the right to audit any revision to costs and prices 
+       under this clause.
+
+
+</pre>

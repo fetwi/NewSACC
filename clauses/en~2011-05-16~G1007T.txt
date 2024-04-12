@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when proof of availability of 
+insurance is required before contract award.
+ </p>
+<p>
+  For requests for standing offers, use clause
+  
+   M9015T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Bidder must provide a letter from an insurance broker or an
+insurance company licensed to operate in Canada stating that the
+Bidder, if awarded a contract as a result of the bid solicitation,
+can be insured in accordance with the Insurance Requirements
+specified in Annex <var>______</var> .</p>
+<p>If the information is not provided in the bid, the Contracting
+Authority will so inform the Bidder and provide the Bidder with a
+time frame within which to meet the requirement. Failure to comply
+with the request of the Contracting Authority and meet the
+requirement within that time period will render the bid
+non-responsive.</p>
+</div></pre>

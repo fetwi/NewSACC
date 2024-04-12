@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where one or more items in the contract 
+Basis of Payment is subject to a ceiling price, and when the basis of payment 
+for these items involves audited costs in accordance with Contract Cost 
+Principles 1031-2.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The ceiling price(s) specified in the Basis of Payment is(are) subject to 
+downward adjustment so as not to exceed the actual cost incurred, as 
+established by government audit in accordance with Contract Cost Principles 
+1031-2 ________ (<strong><em>insert, if applicable, "plus a profit of _____ percent of 
+such cost"</em></strong>).  Upon completion of the audit, the price(s) shall be adjusted 
+to the extent necessary to reflect the results of the audit.  If there has 
+been any overpayment, it shall be promptly refunded to Canada.
+
+The Contractor shall segregate its costs for each item for which a ceiling 
+price has been established so that the cost of each such item may be 
+determined.
+
+
+</pre>

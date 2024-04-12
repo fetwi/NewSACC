@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor is required to warrant 
+that it is not under common ownership control of another division, parent 
+company or affiliate supplying materials and/or services in connection with the 
+work under the contract.  Consult 10.55(e) of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor warrants that it is not under common ownership
+control of another division, parent company or affiliate supplying
+materials and/or services in connection with the performance of the
+Work under the Contract. For the purposes of this warranty, the
+phrase <dfn>"ownership control"</dfn> means that at least 50 percent
+of the voting rights are held by the related entity.</p>
+<p>The Contractor acknowledges that Canada has relied on the
+warranty in establishing the price payable under the Contract. In
+the event of breach of such warranty, Canada will have the right to
+terminate the Contract for default or, alternatively, the right to
+readjust the price to reflect the level of profit payable under
+departmental policy when common ownership control exists, as set
+out in the Department of Public Works and Government Services
+Transfer Pricing Policy published in Chapter 10 of the <cite>Supply Manual</cite>.</p>
+</div></pre>

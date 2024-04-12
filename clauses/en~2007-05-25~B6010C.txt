@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for the procurement of a licence to use a 
+software when Canada wants to have the right to transfer the licence to other 
+government departments, corporations or agencies.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The licence to use the licenced software obtained pursuant to the Contract 
+is freely transferable<strong> </strong>in whole or in part by Canada to any Canadian 
+government department, corporation or agency as defined in Schedules I, I.1, 
+II or III, IV and V of the <em>Financial Administration Act</em>, R.S.C., 1985, c. 
+F-11, or to any other party for which Canada has been authorized to act 
+pursuant to section 16 of the <em>Department of Public Works and Government 
+Services Act</em>, S.C., 1996, c. 16, provided that: 
+
+(a)    the transferee agrees to be bound by all the licence terms governing 
+       the use of the licenced software under the Contract;
+
+(b)    the transfer is a complete transfer of the licenced software where 
+       Canada may retain only one archival copy of the licenced software;
+
+(c)    Canada informs the Contractor of the transfer and the location(s) of 
+       the licensed software within thirty (30) days of the transfer 
+       occurring.
+
+</pre>

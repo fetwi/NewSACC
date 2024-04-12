@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the Department of National Defence 
+requires additional package markings and the markings will be different for some 
+items.
+
+Refer to clause D2015C when the additional package markings are the same for all 
+items.
+
+Contracting officer is to identify the item number and insert all applicable 
+information in paragraph 1:
+
+(a)	specification number;
+(b)	manufacturer's name;
+(c)	drawing number;
+(d)	batch or lot number;
+(e)	qualification number;
+(f)	cure date of rubber components;
+(g)	data required by the contract or by the commodity specification;
+(h)	date of manufacture;
+(i)	date of repair or overhaul;
+(j)	name of repair or overhaul contractor;
+(k)	modification status; and
+(l)	serial number.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor must ensure that in addition to the required interior 
+       and exterior package markings, the following information is provided:
+
+       For item(s) ___________:
+       (a) __________;
+       (b) __________;
+
+       For item(s) ________:
+       (a) __________;
+       (b) __________;
+
+2.     These markings must be applied and positioned in accordance with 
+       Canadian Forces Packaging Specification D-LM-008-002/SF-001.
+
+</pre>

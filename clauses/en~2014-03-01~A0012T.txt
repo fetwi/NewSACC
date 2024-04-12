@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in competitive bid solicitations in conjunction with 
+standard instructions
+  
+   2003
+  
+  .
+ </p>
+<p>
+  Use the following clause only if the low dollar value (2T-LDV1), medium 
+complexity (2T-MED1) and higher complexity (2T-HIGH1) templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>All enquiries must be submitted to the Contracting Authority no
+later than <var>_____</var> calendar days before the bid closing
+date. Enquiries received after that time may not be answered.</p>
+<p>Bidders should reference as accurately as possible the numbered
+item of the bid solicitation to which the enquiry relates. Care
+should be taken by bidders to explain each question in sufficient
+detail in order to enable Canada to provide an accurate answer.
+Technical enquiries that are of a "proprietary " nature must be
+clearly marked "proprietary" at each relevant item. Items
+identified as proprietary will be treated as such except where
+Canada determines that the enquiry is not of a proprietary nature.
+Canada may edit the question(s) or may request that the Bidder do so,
+so that the proprietary nature of the question(s) is eliminated and
+the enquiry can be answered to all bidders. Enquiries
+not submitted in a form that can be distributed to all bidders may
+not be answered by Canada.</p>
+</div></pre>

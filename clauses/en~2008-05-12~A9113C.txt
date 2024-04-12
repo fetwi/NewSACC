@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contracts including the collection or creation 
+of personal information.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor acknowledges that Canada is bound by the <em>Privacy Act</em>, R.S.C. 
+1985, c. P-21, with respect to the protection of personal information as 
+defined in the Act.  The Contractor must keep private and confidential any 
+such personal information collected, created or handled by the Contractor 
+under the Contract, and must not use, copy, disclose, dispose of or destroy 
+such personal information except in accordance with this clause and the 
+delivery provisions of the Contract. 
+
+All such personal information is the property of Canada, and the Contractor 
+has no right in or to that information.  The Contractor must deliver to 
+Canada all such personal information in whatever form, including all 
+working papers, notes, memoranda, reports, data in machine-readable format 
+or otherwise, and documentation which have been made or obtained in 
+relation to the Contract, upon the completion or termination of the 
+Contract, or at such earlier time as Canada may request.  Upon delivery of 
+the personal information to Canada, the Contractor will have no right to 
+retain that information in any form and must ensure that no record of the 
+personal information remains in the Contractor's possession.
+
+
+</pre>

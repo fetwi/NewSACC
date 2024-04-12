@@ -1,0 +1,110 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in contracts that are subject to the Nunavut Directive.
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Holdback clause must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on the implementation of Inuit and Nunavut benefits in procurements subject to the
+  
+   Nunavut Directive
+  
+  , please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Holdback clause, please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><ol>
+<li>The Contractor must submit a claim for payment using form PWGSC-TPSGC 1111, Claim for Progress Payment.
+        <p>Each claim must show:</p>
+<ol type="a">
+<li>all information required on form PWGSC-TPSGC 1111;</li>
+<li>all applicable information detailed under the section entitled "Invoice Submission" of the general conditions;</li>
+</ol>
+<p><kbd><cite>Instruction to contracting officers: Insert specific information that must be shown on the claim and is not covered under (a) and (b) above to reflect the requirement. The following are examples only:</cite></kbd></p>
+<ol start="3" type="a">
+<li>a list of all expenses;</li>
+<li>expenditures plus pro-rated profit or fee;</li>
+<li>the description and value of the milestone claimed as detailed in the Contract.</li>
+</ol>
+<p><kbd><cite>Instruction to contracting officers: Use the following paragraph when claims must be accompanied by supporting documents. The documents listed are examples only and must be revised to reflect the requirement.</cite></kbd></p>
+<p>Each claim must be supported by:</p>
+<ol type="a">
+<li>a copy of time sheets to support the time claimed;
+            </li><li>a copy of the invoices, receipts, vouchers for all direct expenses, travel and living expenses;
+            </li><li>a copy of the monthly progress report;</li>
+<li>a copy of a completed and up-to-date Inuit Benefits Plan (IBP) Progress Report as described in Annex “___” (<abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report) of the Contract.</li>
+</ol>
+</li>
+<li>Applicable Taxes must be calculated on the total amount of the claim before the holdback is applied, including any <abbr title="Inuit Benefits Plan">IBP</abbr> Holdbacks. At the time the holdback is claimed, or if Canada determines that it is appropriate to release any portion of the <abbr title="Inuit Benefits Plan">IBP</abbr> Holdbacks, there will be no Applicable Taxes payable as it was claimed and payable under the previous claims for progress payments.</li>
+<li>The Contractor must prepare and certify one original and two (2) copies of the claim on form PWGSC-TPSGC 1111, and forward it to the <span class="input-required"><var>______</var> <kbd>(<cite>insert "Project"</cite> <strong><cite>or</cite></strong> <cite>"Technical"</cite> <strong><cite>or</cite></strong> <cite>"Inspection"</cite>)</kbd></span> Authority identified under the section entitled "Authorities" of the Contract for appropriate certification after inspection and acceptance of the Work takes place.<br/>The <span class="input-required"><var>______</var> <kbd>(<cite>insert "Project"</cite> <strong><cite>or</cite></strong> <cite>"Technical"</cite> <strong><cite>or</cite> </strong><cite>"Inspection"</cite>)</kbd></span> Authority will then forward the original and two (2) copies of the claim to the Contracting Authority for certification and onward submission to the Payment Office for the remaining certification and payment action.</li>
+<li>The Contractor must not submit claims until all work identified in the claim is completed.</li>
+</ol></pre>

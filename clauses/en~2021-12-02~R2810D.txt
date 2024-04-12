@@ -1,0 +1,311 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2021-12-02R2810Dinterpretation">GC1.1 Interpretation</a>
+<ul class="no-markers">
+<li><a href="#2021-12-02R2810Dheadings-and-references">GC1.1.1 Headings and references</a>
+</li><li><a href="#2021-12-02R2810Dterminology">C1.1.2 Terminology</a></li>
+<li><a href="#2021-12-02R2810Dapplication-of-certain-provisions">GC1.1.3 Application of certain provisions</a>
+</li><li><a href="#2021-12-02R2810Dsubstantial-performance">GC1.1.4 Substantial performance</a>
+</li><li><a href="#2021-12-02R2810Dcompletion">GC1.1.5 Completion</a></li>
+</ul>
+</li>
+<li><a href="#2021-12-02R2810Dcontract-documents">GC1.2 Contract documents</a>
+<ul class="no-markers">
+<li><a href="#2021-12-02R2810Dgeneral">GC1.2.1 General</a></li>
+<li><a href="#2021-12-02R2810Dorder-of-precedence">GC1.2.2 Order of precedence</a>
+</li><li><a href="#2021-12-02R2810Dsecurity-and-protection-of-documents-and-work">GC1.2.3 Security and protection of documents and Work</a>
+</li></ul>
+</li>
+<li><a href="#2021-12-02R2810Dstatus-of-the-contractor">GC1.3 Status of the Contractor</a></li>
+<li><a href="#2021-12-02R2810Drights-and-remedies">GC1.4 Rights and remedies</a>
+</li><li><a href="#2021-12-02R2810Dtime-of-the-essence">GC1.5 Time of the essence</a></li>
+<li><a href="#2021-12-02R2810Dindemnification-by-the-contractor">GC1.6 Indemnification by the Contractor</a></li>
+<li><a href="#2021-12-02R2810Dindemnification-by-canada">GC1.7 Indemnification by Canada</a></li>
+<li><a href="#2021-12-02R2810Dlaws-permits-and-taxes">GC1.8 Laws, permits and taxes</a>
+</li><li><a href="#2021-12-02R2810Dworkers-compensation">GC1.9 Workers' compensation</a>
+</li><li><a href="#2021-12-02R2810Dnational-security">GC1.10 National security</a>
+</li><li><a href="#2021-12-02R2810Dunsuitable-workers">GC1.11 Unsuitable workers</a>
+</li><li><a href="#2021-12-02R2810Dpublic-ceremonies-and-signs">GC1.12 Public ceremonies and signs</a>
+</li><li><a href="#2021-12-02R2810Dconflict-of-interest">GC1.13 Conflict of interest</a>
+</li>
+<li><a href="#2021-12-02R2810Dagreements-and-amendments">GC1.14 Agreements and amendments</a></li>
+<li><a href="#2021-12-02R2810Dsuccession">GC1.15 Succession</a></li>
+<li><a href="#2021-12-02R2810Dassignment">GC1.16 Assignment</a></li>
+<li><a href="#2021-12-02R2810Dno-bribe">GC1.17 No bribe</a></li>
+<li><a href="#2021-12-02R2810Dcertification">GC1.18 Certification—contingency fees</a>
+</li><li><a href="#2021-12-02R2810Dinternational-sanctions">GC1.19 International sanctions</a></li>
+<li><a href="#2021-12-02R2810Dintegrity-provisions">GC1.20 Integrity provisions: Contract</a></li>
+<li><a href="#2021-12-02R2810Dcode-of-conduct">GC1.21 Code of Conduct for Procurement: Contract</a></li>
+<li><a href="#2021-12-02R2810Dperformance-evaluation">GC1.22 Performance evaluation: Contract</a></li>
+</ul>
+</div>
+<h2 id="2021-12-02R2810Dinterpretation">GC1.1 (2017-11-28) Interpretation</h2>
+<p>The following is an interpretation of heading and references.</p>
+<h3 id="2021-12-02R2810Dheadings-and-references">GC1.1.1 Headings and references
+  </h3><ol>
+<li>The headings in the contract documents, other than those in the drawings and specifications, form no part of the Contract but are inserted for convenience of reference only.</li>
+<li>A reference made to a part of the Contract by means of numbers preceded by letters is a reference to the particular part of the Contract that is identified by that combination of letters and numbers and to any other part of the Contract referred to therein.</li>
+<li>A reference to a paragraph or subparagraph followed by an identifying number, letter or combination thereof is, unless specifically stated otherwise, a reference to the paragraph or subparagraph that forms part of the clause within which the reference is made.</li>
+</ol>
+<h3 id="2021-12-02R2810Dterminology">GC1.1.2 Terminology</h3>
+<p>In the Contract, unless the context otherwise requires:</p>
+<dl>
+<dt>"Applicable Taxes"</dt>
+<dd>means the Goods and Services Tax (GST), the Harmonized Sales Tax (HST), and any provincial tax, by law, payable by Canada such as, the Quebec Sales Tax (QST) as of April 1, 2013; </dd>
+<dt>"Architectural and Engineering Services"</dt>
+<dd>means services to provide a range of investigation and recommendation reports, planning, design, preparation, or supervision of the construction, repair, renovation or restoration of a work and includes contract administration services, for real property projects;</dd>
+<dt>"Canada", "Crown", "Her Majesty"</dt>
+<dd>means Her Majesty the Queen in right of Canada;</dd>
+<dt>"Construction Services"</dt>
+<dd>means construction, repair, renovation or restoration of any work except a vessel and includes; the supply and erection of a prefabricated structure; dredging; demolition; environmental services related to a real property; or, the hire of equipment to be used in or incidentally to the execution of any construction services referred to above;</dd>
+<dt>"Contract"</dt>
+<dd>means the contract documents referred to as such therein and every other document specified or referred to in any of them as forming part of the Contract, all as amended by agreement of the parties;</dd>
+<dt>"Contract Amount"</dt>
+<dd>means the amount set out in the Contract to be payable to the Contractor for the Work, subject to the terms and conditions of the Contract, exclusive of Applicable Taxes;</dd>
+<dt>"Contract Security"</dt>
+<dd>means any security given by the Contractor to Canada in accordance with the Contract;</dd>
+<dt>"Contractor"</dt>
+<dd>means the person contracting with Canada to provide or furnish all labour, Material and Plant for the execution of the Work under the Contract, and includes the Contractor's superintendent as designated in writing to Canada.</dd>
+<dt>"Certificate of Completion"</dt>
+<dd>means a certificate issued by Canada when the Work reaches Completion;</dd>
+<dt>"Certificate of Measurement"</dt>
+<dd>means a certificate issued by Canada certifying the correctness of the final quantities, prices per unit and values of labour, Plant and Material performed, used and supplied by the Contractor for the construction of the part of the Work to which a Unit Price Arrangement applies;</dd>
+<dt>"Certificate of Substantial Performance"</dt>
+<dd>means a certificate issued by Canada when the Work reaches Substantial Performance;</dd>
+<dt>"Departmental Representative"</dt>
+<dd>means the person designated in the Contract, or by written notice to the Contractor, to act as the Departmental Representative for the purposes of the Contract, and includes a person, designated and authorized in writing by the Departmental Representative to the Contractor;</dd>
+<dt>"Facility Maintenance Services"</dt>
+<dd>means services related to activities normally associated with the maintenance of a facility and keeping spaces, structures and infrastructure in proper operating condition in a routine, scheduled, or anticipated fashion to prevent failure and/or degradation including inspection, testing, servicing, classification as to serviceability, repairs, rebuilding and reclamation, as well as cleaning, waste removal, snow removal, lawn care, replacement of flooring, lighting or plumbing fixtures, painting and other minor works;</dd>
+<dt>"herein", "hereby", "hereof", "hereunder"</dt>
+<dd>and similar expressions refer to the Contract as a whole and not to any particular section or part thereof;</dd>
+<dt>"Lump Sum Arrangement"</dt>
+<dd>means that part of the Contract that prescribes a lump sum as payment for performance of the Work to which it relates;</dd>
+<dt>"Material"</dt>
+<dd>includes all commodities, articles, machinery, equipment, fixtures and things required to be furnished in accordance with the Contract for incorporation into the Work;</dd>
+<dt>"person"</dt>
+<dd>also includes, unless there is an express stipulation in the Contract to the contrary, any partnership, proprietorship, firm, joint venture, consortium or corporation;</dd>
+<dt>"Plant"</dt>
+<dd>includes all tools, implements, machinery, vehicles, structures, equipment, articles and things that are necessary for the performance of the Contract, other than Material and those tools customarily provided by a tradesperson in practicing a trade;</dd>
+<dt>"Subcontractor"</dt>
+<dd>means a person having a direct contract with the Contractor, subject to GC3.6 "Subcontracting", to perform a part or parts of the Work, or to supply Material customized for the Work;</dd>
+<dt>"Superintendent"</dt>
+<dd>means the employee or representative of the Contractor designated by the Contractor to act pursuant to GC2.6, "Superintendent";</dd>
+<dt>"Supplementary Conditions"</dt>
+<dd>means the part of the Contract that amends or supplements the General Conditions;</dd>
+<dt>"Supplier"</dt>
+<dd>means a person having a direct contract with the Contractor to supply Plant or Material not customized for the Work;</dd>
+<dt>“Total Estimated Cost”, “Revised Estimated Cost”, “Increase (Decrease)”</dt>
+<dd>on Page 1 of the Contract or Contract Amendment means an amount used for internal administrative purposes only that comprises the Contract Amount, or the revised Contract Amount, or the amount that would increase or decrease the Contract Amount and the Applicable Taxes as evaluated by the Contracting Authority, and does not constitute tax advice on the part of Canada;</dd>
+<dt>"Unit Price Arrangement"</dt>
+<dd>means that part of the Contract that prescribes the product of a price per unit of measurement multiplied by a number of units of measurement for performance of the Work to which it relates;</dd>
+<dt>"Unit Price Table"</dt>
+<dd>means the table of prices per unit set out in the Contract;</dd>
+<dt>"Work"</dt>
+<dd>means, subject only to any express stipulation in the Contract to the contrary, everything that is necessary to be done, furnished or delivered by the Contractor to perform the Contract in accordance with the contract documents; and</dd>
+<dt>"Working Day"</dt>
+<dd>means a day other than a Saturday, Sunday, or a statutory holiday that is observed by the construction industry in the area of the place of the Work.</dd>
+</dl>
+<h3 id="2021-12-02R2810Dapplication-of-certain-provisions">GC1.1.3 Application of certain provisions
+  </h3><ol>
+<li>Any provisions of the Contract that are expressly stipulated to be applicable only to a Unit Price Arrangement are not applicable to any part of the Work to which a Lump Sum Arrangement applies.</li>
+<li>Any provisions of the Contract that are expressly stipulated to be applicable only to a Lump Sum Arrangement are not applicable to any part of the Work to which a Unit Price Arrangement applies.</li>
+</ol>
+<h3 id="2021-12-02R2810Dsubstantial-performance">GC1.1.4 Substantial performance
+  </h3><ol>
+<li>The Work shall be considered to have reached Substantial Performance when
+      <ol type="a">
+<li>the Work or a substantial part thereof has passed inspection and testing and is, in the opinion of Canada, ready for use by Canada or is being used for the intended purposes; and</li>
+<li>the Work is, in the opinion of Canada, capable of completion or correction at a cost of not more than
+          <ol type="i">
+<li>3 percent of the first $500,000;</li>
+<li>2 percent of the next $500,000; and</li>
+<li>1 percent of the balance</li>
+</ol>
+<p>of the Contract Amount at the time this cost is calculated.</p>
+</li>
+</ol>
+</li>
+<li>Where the Work or a substantial part thereof is ready for use or is being used for the purposes intended and
+      <ol type="a">
+<li>the remainder of the Work or a part thereof cannot be completed by the time specified in the Contract, or as amended in accordance with GC6.5, "Delays and Extension of Time", for reasons beyond the control of the Contractor; or</li>
+<li>Canada and the Contractor agree not to complete a part of the Work within the specified time;</li>
+</ol>
+      the cost of that part of the Work that was either beyond the control of the Contractor to complete or Canada and the Contractor have agreed not to complete by the time specified, shall be deducted from the value of the Contract referred to in subparagraph 1)(b) of GC1.1.4 and the said cost shall not form part of the cost of the Work remaining to be done in determining Substantial Performance.</li>
+</ol>
+<h3 id="2021-12-02R2810Dcompletion">GC1.1.5 Completion</h3>
+<p>The Work shall be deemed to have reached Completion when all labour, Plant and Material required have been performed, used or supplied, and the Contractor has complied with the Contract and all orders and directions made pursuant thereto, all to the satisfaction of Canada.</p>
+<h2 id="2021-12-02R2810Dcontract-documents">GC1.2 (2015-03-25) Contract documents</h2>
+<p>The following discusses contract documents</p>
+<h3 id="2021-12-02R2810Dgeneral">GC1.2.1 General</h3>
+<ol>
+<li>The contract documents are complementary, and what is required by any one shall be as binding as if required by all.</li>
+<li>References in the contract documents to the singular shall be considered to include the plural as the context requires.</li>
+<li>Nothing contained in the contract documents shall create a contractual relationship between Canada and any Subcontractor or Supplier, their subcontractors or suppliers, or their agents or employees.</li>
+</ol>
+<h3 id="2021-12-02R2810Dorder-of-precedence">GC1.2.2 Order of precedence
+  </h3><ol>
+<li>In the event of any discrepancy or conflict in the contents of the following documents, such documents shall take precedence and govern in the following order:
+      <ol type="a">
+<li>any amendment or variation of the contract documents that is made in accordance with the General Conditions;</li>
+<li>any amendment issued prior to tender closing;</li>
+<li>Supplementary Conditions;</li>
+<li>General Conditions;</li>
+<li>the duly completed Bid and Acceptance Form when accepted;</li>
+<li>drawings and specifications.</li>
+</ol>
+      later dates shall govern within each of the above categories of documents.</li>
+<li>In the event of any discrepancy or conflict in the information contained in the drawings and specifications, the following rules shall apply:
+      <ol type="a">
+<li>specifications shall govern over drawings;</li>
+<li>dimensions shown in figures on a drawings shall govern where they differ from dimensions scaled from the same drawings; and</li>
+<li>drawings of larger scale govern over those of smaller scale.</li>
+</ol>
+</li>
+</ol>
+<h3 id="2021-12-02R2810Dsecurity-and-protection-of-documents-and-work">GC1.2.3 Security and protection of documents and Work
+  </h3><ol>
+<li>The Contractor shall guard and protect contract documents, drawings, information, models and copies thereof, whether supplied by Canada or the Contractor, against loss or damage from any cause.</li>
+<li>The Contractor shall keep confidential all information provided to the Contractor by or on behalf of Canada in connection with the Work, and all information developed by the Contractor as part of the Work, and shall not disclose any such information to any person without the written permission of Canada, except that the Contractor may disclose to a subcontractor, authorized in accordance with the Contract, information necessary to the performance of a subcontract. This section does not apply to any information that
+      <ol type="a">
+<li>is publicly available from a source other than the Contractor; or</li>
+<li>is or becomes known to the Contractor from a source other than Canada, except any source that is known to the Contractor to be under an obligation to Canada not to disclose the information.</li>
+</ol>
+</li>
+<li>When the Contract, the Work, or any information referred to in paragraph 2) is identified as top secret, secret, confidential, or protected by Canada, the Contractor shall, at all times, take all measures reasonably necessary for the safeguarding of the material so identified, including such measures as may be further specified elsewhere in the Contract or provided, in writing, from time to time by Canada.</li>
+<li>Without limiting the generality of paragraphs 2) and 3) of GC1.2.3, when the Contract, the Work, or any information referred to in paragraph 2) is identified as top secret, secret, confidential, or protected by Canada, Canada shall be entitled to inspect the Contractor's premises and the premises of its subcontractors or suppliers and any other person at any tier, for security purposes at any time during the term of the Contract, and the Contractor shall comply with, and ensure that any such subcontractors or suppliers comply with all written instructions issued by Canada dealing with the material so identified, including any requirement that employees of the Contractor and its subcontractors and suppliers and any other person at any tier execute and deliver declarations relating to reliability screenings, security clearances and other procedures.</li>
+<li>The Contractor shall safeguard the Work and the Contract, the specifications, drawings and any other information provided by Canada to the Contractor, and shall be liable to Canada for any loss or damage from any causes.</li>
+</ol>
+<h2 id="2021-12-02R2810Dstatus-of-the-contractor">GC1.3 (2008-05-12) Status of the Contractor</h2>
+<ol>
+<li>The Contractor is engaged under the Contract as an independent contractor.</li>
+<li>The Contractor, its subcontractors and suppliers and any other person at any tier and their employees are not engaged by the Contract as employees, servants or agents of Canada.</li>
+<li>For the purposes of the contract the Contractor shall be solely responsible for any and all payments and deductions required to be made by law including those required for Canada or Quebec Pension Plans, Employment Insurance, Worker's Compensation, provincial health or insurance plans, and Income Tax.</li>
+</ol>
+<h2 id="2021-12-02R2810Drights-and-remedies">GC1.4 (2015-02-25) Rights and remedies
+  </h2><p>Except as expressly provided in the Contract, the duties and obligations imposed by the Contract and the rights and remedies available thereunder shall be in addition to and not a limitation of any duties, obligations, rights, and remedies otherwise imposed or available by law.</p>
+<h2 id="2021-12-02R2810Dtime-of-the-essence">GC1.5 (2015-02-25) Time of the essence</h2>
+<p>Time is of the essence of the Contract.</p>
+<h2 id="2021-12-02R2810Dindemnification-by-the-contractor">GC1.6 (2008-05-12) Indemnification by the Contractor</h2>
+<ol>
+<li>The Contractor shall pay all royalties and patent fees required for the performance of the Contract and, at the Contractor's expense, shall defend all claims, actions or proceedings against Canada charging or claiming that the Work or any part thereof provided or furnished by the Contractor to Canada infringes any patent, industrial design, copyright trademark, trade secret or other proprietary right enforceable in Canada.</li>
+<li>The Contractor shall indemnify and save Canada harmless from and against all claims, demands, losses, costs, damages, actions, suits, or proceedings by any third party, brought or prosecuted and in any manner based upon, arising out of, related to, occasioned by, or attributable to the activities of the Contractor, its subcontractors and suppliers and any other person at any tier, in performing the Work.</li>
+<li>For the purposes of paragraph 2) of GC1.6, "<dfn>activities</dfn>" means any act improperly carried out, any omission to carry out an act and any delay in carrying out an act.</li>
+</ol>
+<h2 id="2021-12-02R2810Dindemnification-by-canada">GC1.7 (2015-02-25) Indemnification by Canada</h2>
+<p>Subject to the <cite>Crown Liability and Proceedings Act</cite>, the <cite>Patent Act</cite>, and any other law that affects Canada's rights, powers, privileges or obligations, Canada shall indemnify and save the Contractor harmless from and against all claims, demands, losses, costs, damage, actions, suits or proceedings arising out of the Contractor's activities under the Contract that are directly attributable to</p>
+<ol type="a">
+<li>a lack of or a defect in Canada's title to the Work site if owned by Canada, whether real or alleged; or</li>
+<li>an infringement or an alleged infringement by the Contractor of any patent of invention or any other kind of intellectual property occurring while the Contractor was performing any act for the purposes of the Contract employing a model, plan or design or any other thing related to the Work that was supplied by Canada to the Contractor.</li>
+</ol>
+<h2 id="2021-12-02R2810Dlaws-permits-and-taxes">GC1.8 (2014-06-26) Laws, permits and taxes
+  </h2><ol>
+<li>The Contractor shall comply with all federal, provincial and municipal laws and regulations applicable to the performance of the Work or any part thereof including, without limitation, all laws concerning health and the protection of the environment, and shall require compliance therewith by all of its subcontractors and suppliers at any tier as if the Work were being performed for an owner other than Canada. The Contractor shall furnish evidence of compliance with such laws and regulations to Canada at such times as Canada may reasonably request.</li>
+<li>Unless stipulated otherwise in the Contract, the Contractor shall obtain and maintain all permits, certificates, licences, registrations and authorizations required for the lawful performance of the Work.</li>
+<li>Prior to the commencement of the Work at the site, the Contractor shall tender to a municipal authority an amount equal to all fees and charges that would be lawfully payable to that municipal authority in respect of building permits as if the Work were being performed for an owner other than Canada.</li>
+<li>Within 10 days of making a tender pursuant to paragraph 3) of GC1.8, the Contractor shall notify Canada of the amount properly tendered and whether or not the municipal authority has accepted that amount.</li>
+<li>If the municipal authority has not accepted the amount tendered, the Contractor shall pay that amount to Canada within 6 days after the time stipulated in paragraph 4) of GC1.8.</li>
+<li>For the purposes of this clause, <dfn>"municipal authority"</dfn> means any authority that would have jurisdiction respecting permission to perform the Work if the owner were not Canada.</li>
+<li>Notwithstanding the residency of the Contractor, the Contractor shall pay any applicable tax arising from or related to the performance of the Work under the Contract.</li>
+<li>In accordance with the Statutory Declaration referred to in paragraph 4) of GC5.5, "Substantial Performance of the Work", a Contractor who has neither residence nor place of business in the province or territory in which work under the Contract is being performed shall provide Canada with proof of registration with the provincial sales tax authorities in the said province.</li>
+<li>For the purpose of the payment of any Applicable Taxes or the furnishing of security for the payment of any Applicable Taxes arising from or related to the performance of the Work, and notwithstanding the provision that all Material, Plant and interest of the Contractor in all real property, licences, powers and privileges, become the property of Canada after the time of purchase in accordance with GC3.10, "Material Plant and Real Property Become Property of Canada", the Contractor shall be liable, as a user or consumer, for the payment or for the furnishing of security for the payment of any Applicable Taxes payable, at the time of the use or consumption of that Material, Plant or interest of the Contractor in accordance with the relevant legislation.</li>
+<li value="10">Federal government departments and agencies are required to pay Applicable Taxes. </li>
+<li value="11">Applicable Taxes will be paid by Canada as provided in the request for payment. It is the sole responsibility of the Contractor to charge Applicable Taxes at the correct rate in accordance with applicable legislation. The Contractor agrees to remit to appropriate tax authorities any amounts of Applicable Taxes paid or due. </li>
+<li value="12">The Contractor is not entitled to use Canada’s exemptions from any tax, such as provincial sales taxes, unless otherwise specified by law. The Contractor must pay applicable provincial sales tax, ancillary taxes, and any commodity tax, on taxable goods or services used or consumed in the performance of the Contract (in accordance with applicable legislation), including for material incorporated into real property. </li>
+<li value="13">In those cases where Applicable Taxes, customs duties, and excise taxes are included in the Contract Amount, the Contract Amount will be adjusted to reflect any increase, or decrease, of Applicable Taxes, customs duties, and excise taxes that will have occurred between bid submission and contract award. However, there will be no adjustment for any change to increase the Contract Amount if public notice of the change was given before bid submission date in sufficient detail to have permitted the Contractor to calculate the effect of the change. </li>
+<li value="14">Tax Withholding of 15 Percent – Canada Revenue Agency <br/>
+      Pursuant to the <cite>Income Tax Act</cite>, 1985, c. 1 (5th Supp.) and the <cite>Income Tax Regulations</cite>, Canada must withhold 15 percent of the amount to be paid to the Contractor in respect of services provided in Canada if the Contractor is not a resident of Canada, unless the Contractor obtains a valid waiver from the Canada Revenue Agency. The amount withheld will be held on account for the Contractor in respect to any tax liability which may be owed to Canada. </li>
+</ol>
+<h2 id="2021-12-02R2810Dworkers-compensation">GC1.9 (2010-01-11) Workers' compensation
+  </h2><ol>
+<li>Prior to commencement of Work, at the time of Substantial Performance of the Work, and prior to issuance of the Certificate of Completion, the Contractor shall provide evidence of compliance with workers' compensation legislation applicable to the place of the Work, including payments due thereunder.</li>
+<li>At any time during the term of the Contract, when requested by Canada, the Contractor shall provide such evidence of compliance by the Contractor, its subcontractors and any other person at any tier and any other person performing part of the Work who is required to comply with such legislation.</li>
+</ol>
+<h2 id="2021-12-02R2810Dnational-security">GC1.10 (2008-05-12) National security
+  </h2><ol>
+<li>If Canada determines that the Work is of a class or kind that involves national security, Canada may order the Contractor to
+      <ol type="a">
+<li>provide Canada with any information concerning persons employed or to be employed by the Contractor for purposes of the Contract; and</li>
+<li>remove any person from the site of the Work if, in the opinion of Canada, that person may be a risk to the national security;</li>
+</ol>
+      and the Contractor shall comply with the order.</li>
+<li>In all contracts with persons who are to be employed in the performance of the Contract, the Contractor shall make provision for the performance of any obligation that may be imposed upon the Contractor under paragraph 1) of GC1.10.</li>
+</ol>
+<h2 id="2021-12-02R2810Dunsuitable-workers">GC1.11 (2015-02-25) Unsuitable workers
+  </h2><p>Canada shall instruct the Contractor to remove from the site of the Work any person employed by the Contractor for purposes of the Contract who, in the opinion of Canada, is incompetent or is guilty of improper conduct, and the Contractor shall not permit a person who has been removed to return to the site of the Work.</p>
+<h2 id="2021-12-02R2810Dpublic-ceremonies-and-signs">GC1.12 (2007-05-25) Public ceremonies and signs
+  </h2><ol>
+<li>The Contractor shall not permit any public ceremony in connection with the Work without the prior consent of Canada.</li>
+<li>The Contractor shall not erect nor permit the erection of any sign or advertising on the Work or its site without the prior consent of Canada.</li>
+</ol>
+<h2 id="2021-12-02R2810Dconflict-of-interest">GC1.13 (2015-02-25) Conflict of interest
+  </h2><p>It is a term of the Contract that no individual, for whom the post-employment provisions of the Conflict of interest and Post-Employment Code for Public Office Holders or the Values and Ethics Code for the Public Service apply, shall derive a direct benefit from the Contract unless that individual is in compliance with the applicable post-employment provisions.</p>
+<h2 id="2021-12-02R2810Dagreements-and-amendments">GC1.14 (2008-05-12) Agreements and amendments</h2>
+<ol>
+<li>The Contract constitutes the entire and sole agreement between the parties with respect to the subject matter of the Contract and supersedes all previous negotiations, communications and other agreements, whether written or oral, relating to it, unless they are incorporated by reference in the Contract. There are no terms, covenants, representations, statements or conditions binding on the parties other than those contained in the Contract.</li>
+<li>The failure of either party at any time to require performance by the other party of any provision hereof shall not affect the right thereafter to enforce such provision. Nor shall the waiver by either party of any breach of any covenant, term or condition hereof be taken to be held to be a waiver of any further breach of the same covenant, term or condition.</li>
+<li>The Contract may be amended only as provided for in the Contract.</li>
+</ol>
+<h2 id="2021-12-02R2810Dsuccession">GC1.15 (2015-02-25) Succession</h2>
+<p>The Contract shall inure to the benefit of and be binding upon the parties hereto and their lawful heirs, executors, administrators, successors and, subject to GC1.16, "Assignment", permitted assigns.</p>
+<h2 id="2021-12-02R2810Dassignment">GC1.16 (2015-02-25) Assignment</h2>
+<p>The Contractor shall not make any assignment of the Contract, either in whole or in part, without the written consent of Canada.</p>
+<h2 id="2021-12-02R2810Dno-bribe">GC1.17 (2015-02-25) No bribe</h2>
+<p>The Contractor represents and covenants that no bribe, gift, benefit, nor other inducement has been nor shall be paid, given, promised or offered directly or indirectly to any official or employee of Canada or to a member of the family of such a person, with a view to influencing the entry into the Contract or the administration of the Contract.</p>
+<h2 id="2021-12-02R2810Dcertification">GC1.18 (2012-07-16) Certification—contingency fees
+  </h2><ol>
+<li>In this clause
+      <ol type="a">
+<li>"<dfn>contingency fee</dfn>" means any payment or other compensation that is contingent upon or is calculated upon the basis of a degree of success in soliciting or obtaining a Government contract or negotiating the whole or any part of its a terms;</li>
+<li>"<dfn>employee</dfn>" means a person with whom the Contractor has an employer/employee relationship; and</li>
+<li>"person" includes an individual or a group of individuals, a corporation, a partnership, an organization and an association and, without restricting the generality of the foregoing, includes any individual who is required to file a return with the registrar pursuant to section 5 of the <cite>Lobbying Act</cite>, <abbr title="Revised Statutes (1985)">R.S.</abbr> 1985, <abbr title="chapter">c</abbr>. 44 (4th Supplement) as the same may be amended from time to time.</li>
+</ol>
+</li>
+<li>The Contractor certifies that it has not directly or indirectly paid nor agreed to pay and covenants that it shall not directly or indirectly pay nor agree to pay a contingency fee for the solicitation, negotiation or obtaining of the Contract to any person other than an employee acting in the normal course of the employee's duties.</li>
+<li>All accounts and records pertaining to payments of fees or other compensation for the solicitation, obtaining or negotiation of the Contract shall be subject to the accounts and audit provisions of the Contract.</li>
+<li>If the Contractor certifies falsely under this section or is in default of the obligations contained therein, Canada may either take the Work out of the Contractor's hands in accordance with the provisions of the Contract or recover from the Contractor by way of reduction to the Contract Amount or otherwise, the full amount of the contingency fee.</li>
+</ol>
+<h2 id="2021-12-02R2810Dinternational-sanctions">GC1.19 (2021-12-02) International sanctions</h2>
+<ol>
+<li>Persons and companies in Canada, and Canadians outside of Canada are bound by economic sanctions imposed by Canada. As a result, the Government of Canada cannot accept delivery of goods or services that originate, either directly or indirectly, from the countries or persons subject to economic sanctions.</li>
+<li>It is a condition of the Contract that the Contractor not supply to the Government of Canada any goods or services which are subject to economic sanctions.</li>
+<li>By law, the Contractor must comply with changes to the regulations imposed during the life of the Contract. During the performance of the Contract should the imposition of sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services cause an impossibility of performance for the Contractor, the Contractor may request that the Contract be terminated in accordance with GC7.3, "Termination of Contract".</li>
+</ol>
+<h2 id="2021-12-02R2810Dintegrity-provisions">GC1.20 (2016-04-04) Integrity provisions: Contract</h2>
+<p> The <em>Ineligibility and Suspension Policy</em> (the “Policy”) and all related Directives incorporated by reference into the bid solicitation on its closing date are incorporated into, and form a binding part of the Contract. The Contractor must comply with the provisions of the Policy and Directives, which can be found on Public Works and Government  Services Canada’s website at  Ineligibility and Suspension Policy. </p>
+<h2 id="2021-12-02R2810Dcode-of-conduct">GC1.21 (2016-04-04) Code of Conduct for Procurement: Contract</h2>
+<p> The Contractor agrees to comply with the Code of Conduct for Procurement and to be bound by its terms for the period of the Contract.</p>
+<h2 id="2021-12-02R2810Dperformance-evaluation">GC1.22 (2017-08-17) Performance evaluation: Contract</h2>
+<ol>
+<li>The performance of the Contractor during and upon completion of the services will be evaluated by Canada. The evaluation includes all or some of the following criteria:
+<ol type="a">
+<li>quality of workmanship</li>
+<li>time</li>
+<li>project management</li>
+<li>contract management</li>
+<li>health and safety</li>
+</ol>
+</li>
+<li>A weighting factor of 20 points will be assigned to each of the five criteria as follows:
+<ol type="a">
+<li>unacceptable: 0 to 5 points</li>
+<li>not satisfactory: 6 to 10 points</li>
+<li>satisfactory: 11 to 16 points</li>
+<li>superior: 17 to 20 points</li>
+</ol>
+</li>
+<li>The consequences resulting from the performance evaluation are as follows:
+<ol type="a">
+<li>For an overall rating of 85% or higher, a congratulation letter is sent to the Contractor.</li>
+<li>For an overall rating of between 51% and 84%, a standard “meets expectations”, letter is sent to the Contractor.</li>
+<li>For an overall rating of between 30% and 50%, a warning letter is sent to the Contractor indicating that if, within the next two years from the date of the letter, they receive 50% or less on another evaluation, the Contractor may be suspended from any new Public Works and Government Services Canada (PWGSC) solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year.</li>
+<li>For an overall rating of less than 30%, a suspension letter is sent to the Contractor indicating that the Contractor is suspended from any new PWGSC solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year from the date of the letter.</li>
+<li>When general average is between 30% and 50% and one of the ratings is of 5 points or less on any one criterion, a suspension letter is sent to the Contractor indicating that the Contractor is suspended from any new PWGSC solicitations for construction services, architectural and engineering services or facility maintenance services, of real property projects, for a period of one year from the date of the letter.</li>
+</ol>
+</li>
+</ol>
+<p>The form PWGSC-TPSGC 2913, Select - Contractor Performance Evaluation Report (CPERF), is used to record the performance.</p>
+</div></pre>

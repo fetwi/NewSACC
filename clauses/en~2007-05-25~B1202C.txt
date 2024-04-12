@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the procurement of aerospace elastomeric materials, on behalf of the Department of National Defence, to avoid receiving time expired and improperly packaged materials.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must apply age control for age sensitive elastomeric materials as specified in Canadian Forces specification <cite>CFTO D-05-001-001/SF-000</cite> (refers to Society of Automotive Engineering, Aerospace Recommended Practices for age control of aerospace elastomeric materials) to all aircraft, aircraft components, aircraft accessories and to elastomeric items when the elastomeric items are used in contact with fuel, hydraulic fluid, oil, alcohol, or oxygen, or when the elastomeric items form part of a pneumatic, coolant or any other fluid or gaseous systems.</p>
+<p>Canada will not accept products that do not comply with the above specification.</p>
+</div></pre>

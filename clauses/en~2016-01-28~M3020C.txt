@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in standing offers for service requirements, where 
+specific individuals are proposed for the work and clause
+  
+   M3020T
+  
+  was included in the request for standing offer.
+ </p>
+<p>
+  In the  Request for Standing Offers (RFSO) template, insert this clause, if applicable, under the "Certifications" article of Part 6A - Standing Offer.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If for reasons beyond its control, the Offeror is unable to
+provide the services of an individual named in its offer, the
+Offeror may propose a substitute with similar qualifications and
+experience. The Offeror must advise the Standing Offer Authority of
+the reason for the substitution and provide the name,
+qualifications and experience of the proposed replacement. For the
+purposes of this clause, only the following reasons will be
+considered as beyond the control of the Offeror: death, sickness,
+maternity and parental leave, retirement, resignation, dismissal
+for cause or termination of an agreement for default.</p>
+<p>If the Offeror is unable to provide a substitute with similar
+qualifications and experience, Canada may set aside the standing
+offer.</p>
+</div></pre>

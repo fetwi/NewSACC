@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor is responsible for 
+supplying cylinders to Canada.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If a cylinder belonging to the Contractor is lost or damaged
+beyond repair while in Canada's possession, its value will be
+determined as follows:</p>
+<ol type="a">
+<li value="1">cylinders of 6 cubic metres (200 cubic feet) and
+over: $<span class="input-required"><var>_____</var> <kbd>(<em>insert
+the cost</em>)</kbd></span> by cylinder.</li>
+<li value="2">cylinders under 6 cubic metres (200 cubic feet) and
+over 2.77 cubic metres (100 cubic feet): $<span class="input-required"><var>_____</var> <kbd>(<em>insert the cost</em>)</kbd></span>
+by cylinder.</li>
+<li value="3">cylinders under 2.77 cubic metres (100 cubic feet):
+$<span class="input-required"><var>_____</var> <kbd>(<em>insert the
+cost</em>)</kbd></span> by cylinder.</li>
+</ol>
+</div></pre>

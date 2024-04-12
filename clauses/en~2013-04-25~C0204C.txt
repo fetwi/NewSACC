@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts with task authorizations when the work is 
+subject to a limitation of expenditure.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor will be reimbursed for the costs reasonably and
+properly incurred in the performance of the Work specified in the
+authorized Task Authorization (TA), as determined in accordance
+with the Basis of Payment <span class="input-required"><var>______</var> <kbd>(<em>insert "in Annex
+<var>___</var> " OR "detailed below"</em>)</kbd></span>,
+to the limitation of expenditure specified in the authorized
+<abbr title="Task Authorization">TA</abbr>.</p>
+<p>Canada's liability to the Contractor under the authorized <abbr title="Task Authorization">TA</abbr>
+must not exceed the limitation of expenditure specified in the
+authorized <abbr title="Task Authorization">TA</abbr>. Customs duties are <span class="input-required"><var>________</var> <kbd>(<em>insert "included",
+"excluded" OR "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p>No increase in the liability of Canada or in the price of the
+Work specified in the authorized <abbr title="Task Authorization">TA</abbr> resulting from any design
+changes, modifications or interpretations of the Work will be
+authorized or paid to the Contractor unless these design changes,
+modifications or interpretations have been authorized, in writing,
+by the Contracting Authority before their incorporation into the
+Work.</p>
+<p><kbd>(<em>Insert details of the Basis of Payment if not
+included in an annex.</em>)</kbd></p>
+</div></pre>

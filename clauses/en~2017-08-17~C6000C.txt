@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in firm price and ceiling price contracts where it is necessary to ensure against the contractor making changes or carrying out additional work without the prior approval of the contracting officer.
+ </p>
+<p>
+  Do not use in conjunction with
+  
+   C0207C
+  
+  or
+  
+   C0209C
+  
+  since the text below is already incorporated in these clauses.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Canada will not pay the Contractor for any design changes, modifications or interpretations of the Work unless they have been approved, in writing, by the Contracting Authority before their incorporation into the Work.</p></pre>

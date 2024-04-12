@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for capital acquisition requirements when 
+controlled goods must be purchased or repaired.  Refer to clauses A9130T and 
+A9131C.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor must provide to Canada a technical data summary, a technical 
+description or a technical specification that must include the physical and 
+performance characteristics and a functional description of the deliverable 
+end item, and where applicable, a complete list of accessories and 
+peripheral items required to complete the deliverable end item supplied.  
+For a deliverable end item purchased by the Contractor from a subcontractor 
+or supplier, the Contractor must provide the name of the manufacturer and 
+its part numbers along with the necessary documentation.
+
+The Contractor must also identify any controlled goods as defined in the 
+Schedule to the <em>Defence Production Act</em>, R.S., 1985, c. D-1.   All data must 
+be submitted at least sixty (60) days before the scheduled delivery date of 
+the deliverable end item.
+
+
+
+</pre>

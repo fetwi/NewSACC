@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when advance payment will be made.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   K9010C
+  
+  , if applicable.
+ </p>
+<p>
+  For more information, consult
+  
+   4.70.30
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada will pay the Contractor in advance for the Work if:</p>
+<ol type="a">
+<li value="1">an accurate and complete invoice and any other
+documents required by the Contract have been submitted in
+accordance with the invoicing instructions provided in the
+Contract;</li>
+<li value="2">all such documents have been verified by Canada.</li>
+</ol>
+</div></pre>

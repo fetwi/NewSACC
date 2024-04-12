@@ -1,0 +1,388 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following supplemental general conditions in contracts for ship 
+construction.
+ </p>
+<p>
+  Use in conjunction with general conditions
+  
+   2030
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2010-08-161028interpretation">01 Interpretation</a></li>
+<li><a href="#2010-08-161028conduct-of-work">02 Conduct of Work</a></li>
+<li><a href="#2010-08-161028inspector-final-judge-of-work-materials">03 Inspector Final Judge of Work, Materials, etc.</a></li>
+<li><a href="#2010-08-161028re-execution-of-inferior-work">04 Re-execution of Inferior Work</a></li>
+<li><a href="#2010-08-161028drawings-and-models-prepared-by-contractor">05 Drawings &amp; Models Prepared by Contractor</a></li>
+<li><a href="#2010-08-161028specifications-provided-by-canada">06 Specifications Provided by Canada</a></li>
+<li><a href="#2010-08-161028design-changes-and-modifications">07 Design Changes and Modifications</a></li>
+<li><a href="#2010-08-161028accommodation">08 Accommodation</a></li>
+<li><a href="#2010-08-161028care-of-vessel-during-construction">09 Care of Vessel during Construction</a></li>
+<li><a href="#2010-08-161028wharfage-and-dockage-fee">10 Wharfage and Dockage Fee</a></li>
+<li><a href="#2010-08-161028overhanging-charges">11 Overhanging Charges</a></li>
+<li><a href="#2010-08-161028warranty">12 Warranty</a></li>
+<li><a href="#2010-08-161028public-ceremony">13 Public Ceremony</a></li>
+<li><a href="#2010-08-161028insurance">14 Insurance</a></li>
+</ul>
+</div>
+<h2 id="2010-08-161028interpretation">1028 01 (2010-08-16) Interpretation</h2>
+<ol type="1">
+<li value="1">In the Contract, unless the context otherwise
+requires:
+<dl>
+<dt>"Design Change"</dt>
+<dd>means any change to approved drawings,
+Specifications, or statements of requirements. Work necessary to
+eliminate " fouling" points or for the correction of errors made by
+the Contractor is not a "Design Change" within the meaning of this
+section;</dd>
+<dt>"General Conditions"</dt>
+<dd>means the general conditions forming part of the Contract;</dd>
+<dt>"Inspector"</dt>
+<dd>means the inspection authority or any other
+person designated in the Contract to carry out the inspection
+duties;</dd>
+<dt>"Vessel"</dt>
+<dd>means the ship or vessel to be constructed by
+the Contractor under the Contract and includes the whole of its
+respective hulls, engines, boilers, machinery, auxiliaries,
+equipment, fittings, and appurtenances where the context permits,</dd>
+<dt>and the term "Work"</dt>
+<dd>as used in the Contract includes the vessel as
+defined in the Contract;</dd>
+</dl>
+</li>
+<li value="2">These supplemental general conditions must be read
+with the General Conditions, provided that, in the event of any
+inconsistencies between the provisions of the General Conditions
+and of these supplemental general conditions, the latter must
+prevail.</li>
+<li value="3">The singular includes the plurial and vice
+versa.</li>
+</ol>
+<h2 id="2010-08-161028conduct-of-work">1028 02 (2010-08-16) Conduct of Work</h2>
+<ol type="1">
+<li value="1">Canadian Labour:
+<br/>To the full extent consistent with availability, proper economy
+and the expeditious performance of the Contract, the Contractor
+will employ Canadian labour exclusively. A reasonable proportion of
+the labour force employed will consist of persons who have been
+demobilized or honourably discharged from Active Service in
+Canadian Forces, where such persons are available and qualified for
+the Work to be performed.</li>
+<li value="2">Materials:
+<br/>The Contractor must procure all materials, parts, components and
+equipment required in connection with the performance of the
+Contract from the sources proposed in its bid or such other sources
+as may be authorized by Canada.</li>
+<li value="3">Performance Control:
+<br/>The Contractor may, at any time, apply to Canada for advice or
+direction on matters pertaining to the Contract.
+<br/>The Contractor must submit for examination by the Inspector
+and/or the Contracting Authority all proposed contracts including
+those to be effected by Purchase Orders, if requested to do so.
+<br/>The Contractor must permit the Inspector to examine any designs,
+drawings, models or Specifications, completed or under preparation
+by it or on its behalf in connection with the Contract at any
+time.
+<br/>The Contractor must comply with all directions and instructions
+that may, from time to time, be given by the Inspector and/or the
+Contracting Authority with respect to the recording and reporting
+upon the conduct, progress and Cost of the Work.</li>
+</ol>
+<h2 id="2010-08-161028inspector-final-judge-of-work-materials">1028 03 (2010-08-16) Inspector Final Judge of Work, Materials, etc.</h2>
+<ol type="1">
+<li value="1">If any part of the Specifications provides for a
+method of construction or for the supply and/or use of materials,
+equipment or parts which are not specified with particularity, the
+Contractor will have the right of selection provided that:
+<ol type="a">
+<li value="1">the construction so performed and the materials,
+equipment and parts so supplied and/or used are in accordance with
+good marine building practice for the type and class of Vessels
+covered by the Contract, and</li>
+<li value="2">the Specifications and drawings and all other
+Contract requirements are fully complied with.</li>
+</ol>
+</li>
+<li value="2">The Inspector is the final judge of the quality,
+quantity and suitability of the workmanship, parts, materials,
+plant, machinery, apparatus, tools and equipment used in or for the
+purposes of the Work and as to the meaning or interpretation of the
+Specifications. Its decision with regard to the foregoing matters,
+or any of them, is final and binding upon the Contractor.</li>
+<li value="3">The Contractor must comply promptly and fully with
+all orders, directions or instructions at any time given by the
+Inspector with respect to the Work or the conduct or progress of
+the Work or with respect to the parts, materials, plant, apparatus,
+machinery, tools or equipment used in or for the purposes of the
+Work.</li>
+</ol>
+<h2 id="2010-08-161028re-execution-of-inferior-work">1028 04 (2010-08-16) Re-execution of Inferior Work</h2>
+<p>The Inspector may reject or refuse to accept or approve any part
+of the materials or Work if, in its opinion, the same or any
+workmanship, parts or materials used in the manufacture or
+production of the Work are not in accordance with the provisions of
+the Contract. The Contractor must immediately at its own expense
+replace or otherwise make good to the satisfaction of the Inspector
+any part of the materials or Work which may have been rejected by
+the Inspector. Canada will not be liable for any work done,
+materials, or parts delivered or assembly made by the Contractor,
+unless and until the same are approved by the Inspector as
+evidenced by its certificate in writing.</p>
+<h2 id="2010-08-161028drawings-and-models-prepared-by-contractor">1028 05 (2010-08-16) Drawings &amp; Models Prepared by
+Contractor</h2>
+<ol type="1">
+<li value="1">All drawings, copies of drawings and models, which
+have been prepared by the Contractor pursuant to the Contract are
+the sole property of Canada and may be used as Canada sees
+fit.</li>
+<li value="2">Approval of the drawings, whether express or implied,
+does not relieve the Contractor of its responsibility under the
+Contract to deliver a vessel that will meet the performance
+requirements in the Specifications.</li>
+<li value="3">Where modifications are requested to the drawings
+before their approval, the Contractor will be deemed to have
+accepted such modifications and to have agreed that they do not
+constitute a change in Specifications and that they will not affect
+the performance of the vessel adversely, unless it notifies Canada,
+in writing, within fourteen (14) days after receipt by it or notice
+of the modification, that it considers that such modification
+constitutes a change in specification or that it will adversely
+affect the performance of the Vessel. If the Contractor does not
+withdraw such notice, it will be relieved of any liability for
+failure of the Vessel to perform in accordance with the warranty
+insofar as such failure can be shown to be the direct result of
+such modification.</li>
+<li value="4">The provisions of the preceding subsection apply to
+Design Changes.</li>
+</ol>
+<h2 id="2010-08-161028specifications-provided-by-canada">1028 06 (2010-08-16) Specifications Provided by Canada</h2>
+<ol type="1">
+<li value="1">All Specifications, drawings, patterns, samples and
+other information furnished by Canada to the Contractor in
+connection with the Contract must be used by the Contractor solely
+for the purpose of carrying out the Work and for no other purpose
+except with the consent in writing of Canada and must remain the
+property of Canada and be returned to Canada upon demand.</li>
+<li value="2">Any minor part or parts not shown in the
+Specifications, drawings, patterns or samples, but which are
+necessary for the due completion of the Work will be deemed to be
+included in the Contract Price and no addition to the Contract
+Price will be allowed by reason of such omission, unless otherwise
+agreed to by Canada.</li>
+</ol>
+<h2 id="2010-08-161028design-changes-and-modifications">1028 07 (2010-08-16) Design Changes and Modifications</h2>
+<ol type="1">
+<li value="1">Canada may, at any time and from time to time, order
+a suspension of the Work in whole or in part, and make
+modifications of, changes in or additions to the Specifications,
+changes in methods of shipment or packing and in the place or time
+of delivery. The Contractor must comply with all directions given
+by Canada with respect of the foregoing. If any such suspension,
+modification, change or addition result in an increase or decrease
+in the Cost of the Work, the Contract Price will be adjusted
+accordingly provided that the Contractor will in no event be
+entitled to compensation for any loss of anticipated profits and
+provided further that minor increases or decreases in cost will be
+disregarded.</li>
+<li value="2">Any adjustment to the Contract Price made pursuant to
+paragraph 1 will be ascertained and agreed to by the Parties before
+the purchase of any materials or the commencement of any work by
+the Contractor.</li>
+<li value="3">If the Contractor proposes to make a claim for
+adjustment of the Contract Price pursuant to paragraph 1, it must
+provide notice to Canada of its intention to do so within thirty
+(30) days of the date that it received information that a change
+within the scope of paragraph 1 has been made. Failure by the
+Contractor to give such notice within the prescribed period will
+constitute a waiver by it of any rights that it may have under the
+Contract to adjustment in the Contract Price as a result of such
+change.</li>
+</ol>
+<h2 id="2010-08-161028accommodation">1028 08 (2010-08-16) Accommodation</h2>
+<ol type="1">
+<li value="1">Personnel
+<br/>The Contractor must provide for the Inspector and any
+supervisory or other staff employed by Canada, such office space,
+office facilities, telephone service, and suitable sanitary and
+washing facilities as the Inspector or the Contracting Authority
+may require from time to time at the Contractor's shipyard.</li>
+<li value="2">Storage and Handling
+<br/>The Contractor must supply suitable warehouse accommodation for
+all government supply stores issued in connection with the Contract
+for such length of time as Canada may direct. The Contractor is
+responsible for the care, handling, embarking, loading, moving and
+similar duties in respect of supply stores in the custody or
+control of the Contractor or of the Inspector as the Inspector or
+the Contracting Authority may from time to time direct.</li>
+</ol>
+<h2 id="2010-08-161028care-of-vessel-during-construction">1028 09 (2010-08-16 Care of Vessel during Construction</h2>
+<ol type="1">
+<li value="1">The Contractor must maintain all parts of the Vessel
+including, but not limited to, structure, paint work, machinery,
+auxiliaries, appliances and apparatus in a satisfactory condition
+during the entire period of construction. The Contractor must take
+measures to keep to a minimum any wear and damage incident to
+construction, and to prevent corrosion, or other deterioration,
+especially to unpainted, polished and moving parts. The Contractor
+must keep all water piping, heat exchangers, valve chests and
+equipment drained, flushed, and cleaned except during trials and
+tests. The Contractor must take cold weather precautions when
+conditions so require.</li>
+<li value="2">The Contractor is responsible for the care of all
+machinery and equipment whether furnished by him or by Canada. The
+Contractor must fully protect electrical, electronic and interior
+communication equipment, at all times, against dust, moisture, or
+other foreign matter, and ensure that it is not subjected to rapid
+temperature changes.</li>
+<li value="3">The Contractor must ensure that the design form of
+the Vessel is maintained throughout the course of construction and
+that no distortion of materials occurs which might cause locked-in
+stresses.</li>
+</ol>
+<h2 id="2010-08-161028wharfage-and-dockage-fee">1028 10 (2010-08-16) Wharfage and Dockage Fee</h2>
+<p>Until the completion of the Contract, the Contractor is
+responsible for and must pay all expenses of wharfage, towage,
+dockage, running lines, electric light, heating water for testing
+and refilling the tanks and all other charges, fees, expenses and
+disbursements for or incidental to the construction, launching and
+delivery of the Vessel. If at any time after the launching and
+before final acceptance of the said Vessel, any contingency should
+arise making it, in the opinion of the Inspector, advisable to have
+such Vessel placed in dock for survey, the Contractor must dock the
+Vessel at its own risk and expense.</p>
+<h2 id="2010-08-161028overhanging-charges">1028 11 (2010-08-16) Overhanging Charges</h2>
+<p>In the event of any assessments, taxes or duties, or other
+levies or charges whatsoever, being unpaid after the Vessel has
+been formally accepted by Canada, and Canada has complied with all
+the provisions imposed upon Canada by the Contract, the Contractor
+must reimburse Canada within thirty (30) days for any such
+assessments, taxes, duties, levies or charges as may have been paid
+by Canada.</p>
+<h2 id="2010-08-161028warranty">1028 12 (2010-08-16) Warranty</h2>
+<ol type="1">
+<li value="1">The General Conditions are amended by deleting the
+section entitled "Warranty" and replacing it with the following
+:</li>
+<li value="2">Despite acceptance of the Work and without
+restricting any other term of the Contract or any condition,
+warranty or provision implied or imposed by law, the Contractor
+warrants that, during the warranty period, the Vessel, including
+without limitation, the hull, propelling machinery and auxiliaries,
+fittings and equipment of all kinds will:
+<ol type="a">
+<li value="1">be free from all defects of design, material,
+workmanship, assembly or compatibility of components; and</li>
+<li value="2">meet or surpass all of the performance standards and
+tests set out in the Specifications and be fit for the particular
+purposes for which it is required as described in the
+Contract.</li>
+</ol>
+</li>
+<li value="3">The warranty period for the Vessel is twelve (12)
+months from the date of its delivery to and acceptance by
+Canada.</li>
+<li value="4">The Contractor must repair or remove and replace, all
+at its own expense, any work which fails, at any time during the
+warranty period, to meet the requirements of section 2 above and
+deliver and install such repair or replacement free from all
+defects at the Contractor's facility, or at such other facility or
+location as Canada may direct.</li>
+<li value="5">If Canada chooses not to have the defective Work
+repaired or replaced at the Contractor's facility, then:
+<ol type="a">
+<li value="1">the Contractor must replace or make good the
+defective Work at such location as the Contracting Authority may
+specify and Canada will pay the actual Cost incurred in so doing
+(including reasonable traveling and living expenses) with no
+allowance by way of overhead or profit, less a sum equivalent to
+the Cost of making good the defective Work had it been made good at
+the Contractor's facility; or</li>
+<li value="2">at Canada's option Canada may have the defective Work
+repaired or replaced elsewhere, and the Contractor must pay Canada
+such sums as are equivalent to the Cost of supplying the necessary
+part or parts and doing the Work at the Contractor's facility.</li>
+</ol>
+</li>
+<li value="6">The warranty period for the Vessel will be extended
+by the amount of time, in excess of one month for each occasion
+during which the Vessel is out of service while undergoing warranty
+repairs or replacements.</li>
+<li value="7">If the Contractor is not located close to the vessel
+home port / station, it must appoint a local representative to
+resolve and correct defects arising during the warranty period. The
+name and address of the representative must be given to the
+Contracting Authority sixty (60) calendar days before the
+Contractor delivers the Vessel to Canada.</li>
+<li value="8">The warranty provided for in this clause does not
+apply with respect to defects in the Vessel, including defects in
+performance, which are caused by
+<ol type="a">
+<li value="1">Canada not complying with the Contractor's reasonable
+instructions for the operation, maintenance and repair of the
+Vessel;</li>
+<li value="2">alterations by Canada to the Vessel which are not
+approved by the Contractor, provided that approval is not
+unreasonably withheld; and</li>
+<li value="3">damage and defects arising from the negligence of any
+person employed on board the Vessel during the warranty period,
+except the negligence of the Contractor or its representative.</li>
+</ol>
+</li>
+<li value="9">The Contractor must transfer to Canada all warranties
+on work supplied or held by the Contractor which exceed the
+warranty period indicated above, and the Contractor must exercise
+any such rights and warranties on behalf of Canada.</li>
+<li value="10">Upon the identification and reporting to the
+Contractor of any defects in the Work subject to warranty, the
+Contractor must carry out the Work to correct warranty defects or
+failures with a minimum of delay, at a time agreed to with the
+Technical Authority to avoid any restriction of the Vessel
+operation.</li>
+</ol>
+<h2 id="2010-08-161028public-ceremony">1028 13 (2010-08-16) Public Ceremony</h2>
+<p>Unless otherwise provided in the Contract, the Contractor will
+not be entitled to any increase in the Contract Price by reason of
+any public ceremony. The Contractor must not allow any public
+ceremony in connection with the Work without having previously
+obtained the written permission of Canada.</p>
+<h2 id="2010-08-161028insurance">1028 14 (2010-08-16) Insurance</h2>
+<ol type="1">
+<li value="1">Despite any other provisions of the Contract, the
+Contractor must bear and be subject to all risk of loss or damage
+of or to the Work or any part of the Work until delivery of the
+Vessel and final acceptance of same pursuant to the provisions of
+the Contract. If any such loss or damage should occur before such
+delivery and final acceptance, the Contractor must immediately
+(unless otherwise directed by the Contracting Authority or the
+Inspector and subject to such conditions as the Contracting
+Authority or the Inspector may impose), at its own expense and
+without making any claim for reimbursement, repair, restore and/or
+replace the Work or the part of the Work so lost or damaged.</li>
+<li value="2">The Contractor must indemnify and save harmless
+Canada against and from any and all claims, damages, loss, costs
+and expenses which Canada may, at any time or times, suffer or
+incur as a result of or arising out of any actual or alleged injury
+to persons (including injuries resulting in death) or damage to
+property which may be or be alleged to be caused by or suffered as
+a result of the carrying out of the Contract or any part of the
+Contract, whether by the Contractor or by any subcontractor or
+assignee of the Contractor.</li>
+<li value="3">The Contractor must enter into a contract of
+insurance issued in the joint names of the Contractor and Canada as
+their respective interests may appear in the standard form of
+Marine Builder's Risk Policy. The insurance policy must provide
+full indemnification to Canada for any loss or damage to the Vessel
+or any other materials which are the property of Canada for
+installation in the Vessel in the custody of the Contractor or any
+claim or expenses to Canada as aforesaid for which the Contractor
+assumes responsibility under the Contract, and the premium or cost
+of such insurance coverage is included in the purchase price.</li>
+</ol>
+</div></pre>

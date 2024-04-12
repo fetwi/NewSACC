@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence for preservation, packaging and packing of goods.
+ </p>
+<p>
+  Use this clause with the three options in the part "resulting contract clauses" of the bid solicitation. At contract award, contracting officers must choose and complete one of the following options, as applicable:
+ </p>
+<ol>
+<li>
+   Option 1 when delivery preparation is performed in Canada, or
+  </li>
+<li>
+   Option 2 when delivery preparation is performed in the United States, or
+  </li>
+<li>
+   Option 3 when delivery preparation is performed in the United Kingdom.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+<h2>Option 1</h2><br/>
+Preservation and packaging must be to level <var>_____</var> and packing must be to level <var>_____</var> in accordance with Canadian Forces Packaging Specification <var>_____</var> .</li>
+<li><h2>Option 2</h2><br/>
+Preservation and packaging must be to level <var>_____</var> and packing must be to level <var>_____</var> in accordance with United States Department of Defense Military Specification <var>_____</var> .</li>
+<li><h2>Option 3</h2><br/>
+Preservation, packaging and packing must be manufacturer's Trade Export Packaging or such packaging of a higher grade as recommended by the British Ministry.</li>
+</ul>
+</div></pre>

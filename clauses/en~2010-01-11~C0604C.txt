@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for metal products when prices are subject 
+to adjustment.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The prices detailed in the Contract are subject to
+upward or downward adjustment, according to changes at time of
+delivery, to allow for:
+<ol type="a">
+<li value="1">changes due to price adjustment in metal products
+that are a direct result of increased or decreased current base
+price imposed by the applicable metals commodity market. A copy of
+the Contractor's notification of base price increase or decrease
+from the metal producer must be provided to the Contracting
+Authority; and/or</li>
+<li value="2">imposition of any new or changes to any existing
+levies, tariffs or fees of whatsoever nature applicable to any
+metal product, authorized, imposed or agreed to by Canada or any
+provincial government or by any Governmental Regulatory
+Authority.</li>
+</ol>
+</li>
+<li value="2">The contract price will be amended to reflect the
+actual increase or decrease at time of delivery. The Contractor
+must not invoice at prices other than those specified in the
+Contract.</li>
+</ol>
+</div></pre>

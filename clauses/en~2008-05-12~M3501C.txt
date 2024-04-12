@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in standing offers for the purchase of petroleum 
+products when prices are subject to adjustment in accordance with any increase 
+or decrease established by the petroleum producer.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The prices detailed in the Standing Offer are subject
+to upward or downward adjustment to allow for:
+<ol type="a">
+<li value="1">changes due to price adjustment in petroleum products
+that are a direct result of increased or decreased prices imposed
+by the petroleum producer. A copy of the Offeror's notification of
+price increase or decrease from the petroleum producer must be
+provided to the Standing Offer Authority; and/or</li>
+<li value="2">imposition of any new or changes to any existing
+levies, tariffs or fees of whatsoever nature applicable to any
+petroleum product, authorized, imposed or agreed to by Canada or
+any provincial government or by any Governmental Regulatory
+Authority.</li>
+</ol>
+</li>
+<li value="2">The Standing Offer will be revised to reflect the
+actual price of the increase or decrease at time of delivery. The
+Offeror must not invoice at prices other than those specified in
+the Standing Offer.</li>
+</ol>
+</div></pre>

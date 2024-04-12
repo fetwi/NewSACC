@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in Optimized Weapon Systems Management contracts for 
+the Department of National Defence (DND) when Canada owns and will provide 
+Special Production Tooling and Special Test Equipment (SPT/STE) to the 
+contractor.
+ </p>
+<p>
+  The listing of
+  <abbr title="Special Production Tooling and Special Test Equipment">
+   SPT/STE
+  </abbr>
+  will be used by
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  authorities to determine proper 
+disposition instructions later in the program.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Canada will provide the Special Production Tooling
+and Special Test Equipment (SPT/STE) to the Contractor under the
+Contract. The <abbr title="Special Production Tooling and Special Test Equipment">SPT/STE</abbr> provided by Canada will be recorded and
+managed under a Department of National Defence Loan Agreement.</li>
+<li value="2">The Contractor must identify all <abbr title="Special Production Tooling and Special Test Equipment">SPT/STE</abbr> owned by
+Canada as Canada's property by affixing a plate, or by etching or
+by stamping. The plate or marking must include reference to Public
+Works and Government Services Canada file number and contract
+number and a number for the <abbr title="Special Production Tooling and Special Test Equipment">SPT/STE</abbr> to identify the individual
+item.</li>
+</ol>
+</div></pre>

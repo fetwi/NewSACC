@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La Couronne peut exercer l'option d'achat en tout temps avant la date 
+d'échéance de tout contrat subséquent; en fonction de la remise sur la 
+location inscrite dans la présente.
+
+OU le prix d'achat ayant cours à ce moment, OU une valeur équitable du 
+marché, la moins chère de ces options étant retenue.
+
+Au cas où le client préfère acheter le matériel inscrit dans la demande de 
+proposition, plutôt que le louer, le prix d'achat du matériel inscrit 
+ci-dessous sera retenu aux fins d'évaluation.  Le calcul du tarif mensuel 
+sera fondé sur le prix d'achat.
+
+PRIX D'ACHAT DU MATÉRIEL ..... $_____
+
+DÉCLIC DU COMPTEUR (PAR COPIE) $_____
+
+VIREUR (PAR COPIE) ........... $_____
+
+DEVELOPPEUR (PAR COPIE) ...... $_____
+
+INSTALLATION ................. $_____
+
+LIVRAISON .................... $_____
+
+VEUILLEZ INDIQUER S'IL EXISTE UNE PERIODE DE GARANTIE AU MOMENT DE L'ACHAT 
+   DE CET EQUIPEMENT.  DANS L'AFFIRMATIVE, INDIQUER LA DUREE DE LA GARANTIE :  _____ .
+</pre>

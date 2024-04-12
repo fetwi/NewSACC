@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les contrats relatifs aux sciences lorsque le service 
+doit être fourni au cours d'une période de temps précise, par exemple l'analyse 
+d'un échantillon, des essais techniques et des services d'ingénierie.  Cette 
+clause est normalement utilisée avec les Conditions générales - Services, 
+DSS-MAS 9076. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le(s) Service(s) sera(ont) fourni(s) au cours de la période allant du _____ 
+   au _____ inclusivement. 
+</pre>
