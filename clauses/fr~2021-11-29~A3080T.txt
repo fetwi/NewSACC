@@ -1,0 +1,57 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause dans la section « Résumé » de toute demande de soumissions qui sont concernées par la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs.
+ </p>
+<p>
+  Utiliser cette clause de concert avec les clauses suivantes :
+ </p>
+<ul>
+<li>
+
+    2035 : Conditions générales – besoins plus complexes de services
+   
+   ,
+   
+    2040 : Conditions générales – recherche et développement
+   
+   ou
+   
+    4013 : Respect des mesures, ordres permanents, politiques et règles sur place
+   
+   ;
+  </li>
+<li>
+
+    4014 : Suspension des travaux
+   
+   (seulement si la clause « Suspension des travaux » n’est pas déjà incluse dans les conditions générales);
+  </li>
+<li>
+
+    A3081T : Attestation de l’exigence de vaccination contre la COVID-19
+   
+   ;
+  </li>
+<li>
+
+    A3015T : Attestations – soumission
+   
+   (seulement si un libellé équivalent n’est pas déjà inclus dans la demande de soumissions; clause non requise si on utilise les modèles uniformisés d’approvisionnement de
+   <abbr title="Travaux publics et Services gouvernementaux Canada">
+    TPSGC
+   </abbr>
+   ); et
+  </li>
+<li>
+
+    A3015C : Attestations – contrat
+   
+   (seulement si un libellé équivalent n’est pas déjà inclus dans le contrat; clause non requise si on utilise les modèles uniformisés d’approvisionnement de
+   <abbr title="Travaux publics et Services gouvernementaux Canada">
+    TPSGC
+   </abbr>
+   ).
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Cette exigence est assujettie à la Politique sur la vaccination contre la COVID-19 relative au personnel des fournisseurs. Le fait de négliger de compléter et de fournir l’attestation de l’exigence de vaccination contre la COVID-19 dans le cadre de la soumission rendra la soumission non recevable.</p></pre>

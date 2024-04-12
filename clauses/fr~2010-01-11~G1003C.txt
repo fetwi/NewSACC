@@ -1,0 +1,100 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur qui a la 
+garde, le contrôle ou la responsabilité d'un bien de l'État doit utiliser un 
+appareil de levage pour lever de l'équipement lourd.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   G2020C
+  
+  .
+ </p>
+<p>
+  Si un véhicule automobile immatriculé doit aussi être utilisé pour lever et 
+transporter de l'équipement, utiliser cette clause en conjonction avec
+  
+   G2020C
+  
+  .
+Les agents de négociation des contrats doivent communiquer avec les Services 
+consultatifs de gestion des risques et d'assurance de
+  <abbr title="Travaux publics et Services gouvernementaux Canada">
+   TPSGC
+  </abbr>
+  , par courriel à :
+  
+   NCRRMIAS.RCNSCGRA@tpsgc-pwgsc.gc.ca
+  
+  , afin de déterminer si une assurance 
+responsabilité civile automobile est requise.
+ </p>
+<p>
+  L'assurance responsabilité civile liée aux appareils de levage offre une 
+garantie contre l'ensemble des pertes et des dommages aux biens du gouvernement 
+dont l'entrepreneur a la garde, le contrôle ou la responsabilité.
+ </p>
+<p>
+  Il faut inscrire dans la clause la valeur des biens de l'État ainsi que la base 
+d'évaluation. Cette dernière devrait être établie de concert avec le client et 
+inscrite dans la police d'assurance de l'entrepreneur. Les agents de négociation 
+des contrats doivent insérer l'une des options offertes dans la deuxième zone 
+libre du premier paragraphe.
+ </p>
+<p>
+  La valeur des biens doit être évaluée au cas par cas. Le montant de garantie 
+minimal doit être déterminé en collaboration avec les Services consultatifs de 
+gestion des risques et d'assurance de
+  <abbr title="Travaux publics et Services gouvernementaux Canada">
+   TPSGC
+  </abbr>
+  ,
+  
+   NCRRMIAS.RCNSCGRA@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire à une police
+d'assurance responsabilité civile liée aux appareils de
+levage d'un montant équivalant à celui habituellement
+fixé pour un contrat de cette nature; toutefois, la limite de
+responsabilité ne doit pas être inférieure à
+<var>___________</var> $ par accident ou par incident et suivant le
+total annuel. La police doit assurer une garantie contre les pertes
+et les dommages à tous les biens de l'État dont
+l'entrepreneur a la garde, le contrôle ou la
+responsabilité, et ce, pendant toute la durée du contrat.
+Les biens de l'État doivent être assurés à leur
+<span class="input-required"><var>___________</var>. <kbd>(<em><strong>insérer une des bases
+d'évaluation suivantes</strong> : «  coût de
+remplacement [nouveau]  », «  valeur au jour des sinistres
+[coût non amorti]  » <strong>ou</strong> « valeur agréée [estimation] »</em>)</kbd></span>.)
+<br/>L'entrepreneur doit aviser rapidement le Canada de toute perte
+ou de tout dommage à ses biens et doit superviser, examiner et
+consigner les pertes ou les dommages pour garantir que les demandes
+d'indemnité sont correctement établies et
+payées.</li>
+<li value="2">La police d'assurance doit comprendre les
+éléments suivants :
+<ol type="a">
+<li value="1">Avis d'annulation : L'assureur s'efforcera de donner
+à l'autorité contractante un avis écrit de 30 jours
+en cas d'annulation de la police.</li>
+<li value="2">Bénéficiaire : Le Canada, selon ses
+intérêts ou ses directives, pour ce qui a trait aux
+pertes et aux dommages aux biens de l'État dont l'entrepreneur
+a la garde, le contrôle ou la responsabilité.</li>
+<li value="3">Renonciation aux droits de subrogation : L'assureur
+de l'entrepreneur doit renoncer à tout droit de subrogation
+à l'encontre du Canada, représenté par <span class="input-required"><var>________</var> <kbd>(<em>insérer le
+ministère client</em>)</kbd></span> et par Travaux publics et
+Services gouvernementaux Canada pour l'ensemble des pertes ou des
+dommages aux biens, et ce, quelle qu'en soit la cause.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

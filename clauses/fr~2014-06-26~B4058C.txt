@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause dans les contrats du ministère de la Défense nationale (MDN) lorsqu'un système ou un équipement est nouvellement introduit dans le système d'approvisionnement des Forces canadiennes et que les publications doivent être fournies conformément aux spécifications et aux normes du
+  <abbr title="Ministère de la Défense nationale">
+   MDN
+  </abbr>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir les publications conformément aux spécifications et aux normes suivantes :
+<ol type="a">
+<li value="1"><strong>Présentation :</strong> La dernière édition de C-01-100-100/AG-005, Norme Acceptation de publications provenant du commerce et de gouvernements étrangers comme publications adoptées.<br/>
+La dernière édition de C-01-100-100/AG-006, Norme Rédaction, mise en page et production de publications techniques.</li>
+<li value="2"><strong>Approvisionnement :</strong> La dernière édition de D-01-000-100/SF-000, Spécification portant sur l'obtention de services de publication et d'ouvrages publiés.</li>
+<li value="3"><strong>Emballage :</strong> La dernière édition de D-LM-008-022/SG-000, Normes d'emballage de la documentation.</li>
+<li value="4"><strong>Politique et procédures :</strong> La dernière édition de A-AD-100-100/AG-000, Politiques et modalités administratives régissant les publications de la Défense nationale.</li>
+<li value="5"><strong>Contenu technique :</strong> Le contenu technique doit respecter les exigences du dernier numéro l des spécifications suivantes :
+<br/>Le contenu technique doit respecter les exigences du dernier numéro l des spécifications suivantes : <br/>
+      D-01-100-200/SF-000 - Rédaction des fiches techniques de matériel; <br/>
+      D-01-100-202/SF-000 - Rédaction des descriptions de l'équipement; <br/>
+      D-01-100-203/SF-000 - Rédaction des notices de fonctionnement; <br/>
+      D-01-100-204/SF-000 - Rédaction des notices d'entretien préventif; <br/>
+      D-01-100-205/SF-000 - Rédaction des notices d'entretien correctif; <br/>
+      D-01-100-207/SF-000 - Rédaction des listes de désignation des pièces.</li>
+<li><strong>Assurance de la qualité :</strong> L'entrepreneur doit respecter le Programme d'assurance de la qualité précisé dans la dernière édition de C-01-100-100/AG-006.</li>
+</ol></li>
+<li value="2">La spécification sera fournie par l'autorité contractante à la demande de l'entrepreneur.</li>
+</ol>
+</div></pre>

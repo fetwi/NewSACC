@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
+stipule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Il ne sera accepté aucun écart de quantité des
+marchandises à moins que cet écart ne soit causé par
+les conditions de chargement, d'expédition, d'emballage ou des
+conditions de fabrication, et dans ces cas seulement dans la
+proportion de <span class="input-required"><var>_____</var> <kbd>(<em>inscrire le pourcentage précisé dans le
+Contrat américain</em>)</kbd></span>.</p>
+</div></pre>

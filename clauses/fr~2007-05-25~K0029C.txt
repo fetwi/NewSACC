@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsqu'il faut modifier la période 
+de garantie.  
+
+Utiliser la clause 1 pour les contrats comportant des conditions générales, ou 
+la clause 2 pour les contrats comportant des conditions générales 
+supplémentaires.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Clause 1</strong>
+
+L'article ______ des conditions générales _________ est modifié en 
+remplaçant la période de________ (<strong><em>insérer la période de garantie figurant 
+dans les conditions générales</em></strong>) par _______ (<strong><em>insérer la nouvelle période de 
+garantie exprimée en « jours » ou en « mois »</em></strong>).
+
+Toutes les autres dispositions de la garantie demeureront en vigueur. 
+
+<strong>OU</strong>
+
+<strong>Clause 2</strong>
+
+L'article ______ des conditions générales supplémentaires ______ est 
+modifié en remplaçant la période de______ (<strong><em>insérer la période de garantie 
+figurant dans les conditions générales supplémentaires</em></strong>) par _______ (<strong><em>
+insérer la nouvelle période de garantie exprimée en « jours » ou en « mois »</em></strong>).
+
+Toutes les autres dispositions de la garantie demeureront en vigueur.
+
+
+</pre>

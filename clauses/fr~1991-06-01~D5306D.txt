@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la requisition spécifie la spécification QMB 
+100 du MAS. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les Travaux décrits dans les présentes doivent être sujets aux dispositions 
+   de la spécification QMB 100 du MAS. 
+</pre>

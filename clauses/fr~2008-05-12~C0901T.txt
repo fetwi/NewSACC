@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour la location à 
+court terme de photocopieurs lorsque la location est au mois pour une période de 
+moins d'un an.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les soumissionnaires doivent soumettre les prix de façon
+uniforme pour la location de photocopieurs, c'est-à-dire un
+taux de location mensuel fixe (ne comprenant pas le coût des
+copies) et un coût fixe par copie (taux du compteur), pour
+chaque modèle offert, en se basant sur un volume mensuel
+moyen.</p>
+</div></pre>

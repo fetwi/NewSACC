@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'on prévoit que les utilisateurs se 
+serviront d'une carte d'achat du gouvernement du Canada (carte de crédit) pour 
+payer, au point de vente, leurs commandes subséquentes à l'offre à commandes, et 
+que la clause M3503T a été utilisée dans la demande d'offre à commandes et que 
+le soumissionnaire a indiqué, à la clause M3503T, qu'il accepte, au point de 
+vente, le paiement par carte de crédit des commandes subséquentes à l'offre à 
+commandes.  (Consulter la procédure 5.184 du Guide des approvisionnements..)
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les dispositions qui sont précisées dans les Conditions générales DSS-MAS _____ 
+de l'offre à commandes et qui portent sur le paiement des comptes en 
+souffrance ainsi que sur les intérêts sur ces comptes ne s'appliqueront pas 
+au paiement par carte de crédit, au point de vente, des commandes 
+subséquentes à l'offre à commandes.
+
+Voici les cartes acceptées (information précisée par le soumissionnaire) :
+
+VISA _____
+MasterCard _____.
+
+
+</pre>

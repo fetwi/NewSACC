@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats de radoub et dans les 
+contrats de transformation, tel que demandé.  (Les modifications de contrats 
+doivent être effectuées tel qu'approprié.)  Remplir les données. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux commenceront et se termineront comme suit :
+
+Début des travaux : _____.
+Fin des travaux : _____.
+
+
+</pre>

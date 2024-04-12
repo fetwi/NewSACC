@@ -1,0 +1,19 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes d'offres à commandes (DOC) et les 
+autorisations de passer des commandes subséquentes à une offre à commandes 
+(APCSOC), en conjonction avec :
+
+(i)	soit la clause M0000T ou M0000C selon le cas, afin d'y incorporer par renvoi 
+9403-6, Instructions et conditions uniformisées - offres à commandes; et
+
+(ii)	K0000D afin d'y incorporer par renvoi les conditions générales et, s'il y a 
+lieu, les conditions générales supplémentaires.
+
+Il est suggéré d'incorporer cette clause à la DOC ou à l'APCSOC immédiatement 
+après la clause M0000T ou M0000C.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>9403-6 (_________) (<strong><em>Insérer la date</em></strong>), Instructions et conditions 
+   uniformisées - offres à commandes, sont incorporées par renvoi et font 
+   partie intégrante de ce document.
+</pre>

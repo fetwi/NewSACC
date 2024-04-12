@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause devrait être utilisée avec la clause A0063T, Procédures 
+d'évaluation des propositions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les soumissionnaires peuvent indiquer les prix de tous les groupes 
+d'articles ou de toutes combinaisons de groupes indiqués ci-après.  Ils 
+doivent toutefois OBLIGATOIREMENT donner les prix ou les tarifs pour tous 
+les articles énumérés dans les groupes d'articles dont ils fournissent le 
+prix.  Les groupes d'articles sont les suivants :
+
+a)     Groupe A : Tous les articles énumérés à l'appendice «____»
+b)     Groupe B : Tous les articles énumérés à l'appendice «____»
+c)     Groupe C : Tous les articles énumérés à l'appendice «____»
+d)     Groupe D : Tous les articles énumérés à l'appendice «____».
+</pre>

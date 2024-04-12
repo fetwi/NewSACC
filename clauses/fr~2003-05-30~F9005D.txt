@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante comme paragraphe supplémentaire dans toute clause 
+comportant des exigences relatives à la sécurité, et UNIQUEMENT lorsque que le 
+ministère client a donné son autorisation par écrit.
+
+Utiliser la clause suivante après avoir consulté la Direction de la sécurité 
+industrielle canadienne et internationale.
+
+Il est obligatoire de remplir le formulaire TBS/SCT 350-103, Liste de 
+vérification des exigences relatives à la sécurité, qui est disponible en ligne 
+à : http://www.ciisd.gc.ca.
+
+Remarque : 	** La clause doit préciser la nature du marché, à savoir s'il s'agit 
+d'un contrat ou d'une offre à commandes.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Exigence relative à la sécurité : **DOSSIER TPSGC no _________</strong>
+
+Les membres du personnel de l'entrepreneur ou de l'offrant <strong>NE PEUVENT PAS 
+AVOIR ACCÈS</strong> aux établissements dans lesquels on conserve des renseignements 
+et(ou) des biens (PROTÉGÉS/CLASSIFIÉS) sans être accompagnés par une 
+personne nommée par le ministère ou l'organisme pour lequel les travaux 
+doivent être exécutés.
+
+
+</pre>

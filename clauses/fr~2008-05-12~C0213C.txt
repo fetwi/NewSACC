@@ -1,0 +1,62 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'un prix ferme est établi pour les honoraires 
+professionnels et que les frais de déplacement et de subsistance ainsi que les 
+coûts directs doivent être remboursés au coût réel, sans majoration.
+
+Ajouter ou supprimer des paragraphes au besoin pour satisfaire des exigences 
+précises.  Ajouter le paragraphe relatif à l'option de prolongation du contrat, 
+s'il y a lieu.
+
+Utiliser cette clause en conjonction avec C6000C pour la partie des travaux qui 
+est assujettie à un prix ferme; et C6001C pour la partie des travaux qui est 
+assujettie à une imitation des dépenses.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Honoraires professionnels</strong>
+
+À condition de remplir de façon satisfaisante toutes ses obligations en 
+vertu du contrat, l'entrepreneur sera payé un prix ferme de _____ $ (<span class="wsInlineRemark"><strong>
+insérer le montant au moment de l'attribution du contrat</strong></span>).  Les droits de 
+douane _______ (<span class="wsInlineRemark"><strong>insérer</strong></span><em> </em>« sont inclus », « sont exclus »<em> </em><span class="wsInlineRemark"><strong>ou</strong></span><em> </em>« font l'objet 
+d'une exemption ») et la taxe sur les produits et services ou la taxe de 
+vente harmonisée (TPS/TVH) est en sus, s'il y a lieu.
+
+<strong>Frais de déplacement et de subsistance</strong>
+
+L'entrepreneur sera remboursé pour les frais autorisés de déplacement et de 
+subsistance qu'il a raisonnablement et convenablement engagés dans 
+l'exécution des travaux, au prix coûtant, sans aucune indemnité pour les 
+frais généraux ou le profit, conformément aux indemnités relatives aux 
+repas, à l'utilisation d'un véhicule privé, et aux faux frais qui sont 
+précisées aux appendices B, C et D de la Directive du Conseil du Trésor sur 
+les voyages (http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/TBM_113/menu-travel-voyage_
+f.asp ), et selon les autres dispositions de la Directive qui se rapportent 
+aux « voyageurs » plutôt que celles qui se rapportent aux « employés ».
+
+Tout déplacement doit être approuvé au préalable par le ____________ (<span class="wsInlineRemark"><strong>
+insérer le nom de l'autorité applicable</strong></span>). Tous les paiements peuvent faire 
+l'objet d'une vérification par le gouvernement.
+
+<strong>Coût estimatif</strong> : _____ $
+
+<strong>Autres coûts directs</strong>
+
+L'entrepreneur sera remboursé pour les coûts directs qu'il a 
+raisonnablement et convenablement engagés dans l'exécution des travaux, par 
+exemple, pour la location de salles de réunion, les télécommunications et 
+la traduction.  Ces coûts seront remboursés au coût réel, sans majoration, 
+sur présentation d'un état détaillé des coûts accompagné des reçus 
+appropriés.
+
+Coût estimatif : _______ $
+
+<strong>Prix contractuel estimatif total : _____ $</strong> (<span class="wsInlineRemark"><strong>insérer la somme du prix ferme 
+et </strong></span><strong>de la limitation de dépenses</strong>), <strong> </strong>TPS/TVH en sus.
+
+<strong>Option de prolongation du contrat</strong>
+Durant la période de prolongation du contrat, l'entrepreneur sera payé un 
+prix ferme de ______ $ (<span class="wsInlineRemark"><strong>insérer le montant au moment de l'attribution du 
+contrat</strong></span>) pour effectuer tous les travaux relatifs à la période de 
+prolongation du contrat.
+
+
+</pre>

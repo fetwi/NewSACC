@@ -1,0 +1,804 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans une demande de proposition à 2 phases.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>IG1 Code de conduite et attestations - soumission</p>
+<p>IG2 Définitions</p>
+<p>IG3 Aperçu de la procédure de sélection</p>
+<p>IG4 Numéro d'entreprise - approvisionnement</p>
+<p>IG5 Propositions recevables</p>
+<p>IG6 Établissement de la proposition</p>
+<p>IG7 Prix de la proposition</p>
+<p>IG8 Communication en période de soumission</p>
+<p>IG9 Limite quant au nombre de propositions</p>
+<p>IG10 Permis et licences nécessaires</p>
+<p>IG11 Rejet d'une proposition</p>
+<p>IG12 Programme de contrats fédéraux</p>
+<p>IG13 Assurances à souscrire</p>
+<p>IG14 Coentreprise</p>
+<p>IG15 Composition de l'équipe de l'expert-conseil</p>
+<p>IG16 Présentation des propositions</p>
+<p>IG17 Propositions présentées en retard</p>
+<p>IG18 Révision des propositions</p>
+<p>IG19 Acceptation des propositions</p>
+<p>IG20 Capacité juridique</p>
+<p>IG21 Séance d'explications</p>
+<p>IG22 Capacité financière</p>
+<p>IG23 Rendement</p>
+<p>IG24 Coûts relatifs aux soumissions</p>
+<p>IG25 Conflit d´intérêts / Avantage indu</p>
+<p>IG26 Limitation de la responsabilité</p>
+</div>
+<h2>R1110T  IG1  (2013-01-28)	Code de conduite et attestations - soumission</h2>
+<ol type="1">
+<li value="1">Les proposants doivent se conformer au <cite>Code de conduite pour l'approvisionnement</cite>. En plus de se conformer au <cite>Code de conduite pour l'approvisionnement</cite>, les proposants doivent a) répondre aux demandes de soumissions de façon honnête, juste et exhaustive, b) rendre compte avec précision de leur capacité à satisfaire aux exigences énoncées dans les demandes de soumissions et les contrats subséquents, c) présenter des soumissions et conclure des contrats uniquement s'ils sont en mesure de satisfaire à toutes les obligations du contrat.
+</li>
+<li value="2">En outre, les proposants reconnaissent que, pour assurer l’équité, l’ouverture et la transparence du processus d’approvisionnement, la commission de certaines actions ou infractions les rendra inadmissibles à l’attribution d’un contrat. Le Canada déclarera une soumission non recevable s’il constate que les renseignements exigés sont manquants ou inexacts, ou que les renseignements contenus dans les attestations précisées ci-après sont faux, à quelque égard que ce soit. S’il est déterminé, après l’attribution du contrat, que le proposant a fait une fausse déclaration, le Canada aura le droit de résilier le contrat pour manquement. Le proposant devra agir avec diligence et maintenir à jour l’information exigée par les présentes. Le proposant et ses affiliés devront également demeurer libres et quittes des actions ou condamnations précisées aux présentes pendant la durée de tout contrat découlant de cette demande de soumissions.</li>
+<li value="3">
+<p>
+Aux fins du présent article quiconque, incluant mais sans s’y limiter les organisations,  personnes morales, sociétés, compagnies, sociétés de personnes, entreprises, associations de personnes, sociétés mères, filiales qu’elles soient en propriété exclusive ou non, individus, et administrateurs, sont des affiliés au proposant si :
+</p>
+<ol type="a">
+<li value="1">le proposant ou l’affilié contrôle directement ou indirectement l'autre ou a le pouvoir de le faire, ou</li>
+<li value="2">un tiers a le pouvoir de contrôler le proposant et l’affilié.</li>
+</ol>
+<p>
+Les indices de contrôle comprennent, sans s’y limiter, une gestion ou une propriété interdépendante, l’identité d'intérêts des membres d'une famille, le partage d'installations et d'équipement, l'utilisation conjointe d'employés ou une entité créée suite aux actions ou aux condamnations précisées dans le présent article dont la gestion, la propriété ou les employés principaux sont les mêmes ou similaires, selon le cas.
+</p>
+</li>
+<li value="4">
+<p>
+Les proposants qui sont incorporés, incluant ceux soumissionnant à titre de coentreprise, doivent fournir avec leur soumission ou le plus tôt possible après le dépôt de celle-ci la liste complète des noms de tous les individus qui sont actuellement administrateurs du proposant.  Les proposants soumissionnant à titre d’entreprise à propriétaire unique, incluant ceux soumissionnant dans le cadre de coentreprise, doivent fournir avec leur soumission ou le plus tôt possible après le dépôt de celle-ci le nom du propriétaire. Les proposants soumissionnant à titre de sociétés, de sociétés de personnes, d'entreprises ou d'associations de personnes ou d’entreprises n’ont pas à fournir de liste de noms. Si les noms requis n’ont pas été fournis par le temps où l’évaluation des soumissions est complétée, le Canada informera le proposant du délai à l’intérieur duquel l’information doit être fournie.  À défaut de fournir ces noms dans le délai prévu, la soumission sera déclarée non recevable.  Fournir les noms requis est une exigence obligatoire pour l’attribution d’un contrat.
+</p>
+<p>
+Le Canada peut, à tout moment, demander à un proposant de fournir des formulaires de consentement dûment remplis et signés (Consentement à la vérification de l’existence d’un casier judiciaire - PWGSC-TPSGC 229) pour toute personne susmentionnée, et ce dans un délai précis. À défaut de fournir les formulaires de consentement dans le délai prévu, la soumission sera déclarée non recevable.
+</p>
+</li>
+<li value="5">Le proposant doit diligemment tenir à jour la liste de noms en informant le Canada par écrit de tout changement survenant au cours de la période de validité de la soumission de même qu'au cours de la période d’exécution de tout contrat découlant de la présente demande de soumissions. Il doit également, lorsque la demande lui en est faite, fournir au Canada les formulaires de consentement correspondants. </li>
+<li value="6">En présentant une soumission, le proposant atteste être informé, et que ses affiliés sont informés, du fait que le Canada pourra demander d’autres informations, attestations, formulaires de consentement et élément prouvant son identité ou son éligibilité. Le Canada pourra aussi vérifier tous les renseignements fournis par le proposant, incluant les renseignements relatifs aux actions ou condamnations précisées aux présentes en faisant des recherches indépendantes, en utilisant des ressources du gouvernement ou en communiquant avec des tiers.</li>
+<li value="7">En présentant une soumission, le proposant atteste que ni lui ni ses affiliés n’ont versé ni accepté de verser, directement ou indirectement, et qu’ils ne verseront pas, directement ou indirectement, des honoraires conditionnels à un particulier pour la sollicitation, la négociation ou l’obtention du contrat, si le paiement de ces honoraires obligerait cette personne à faire une déclaration en application de l’article 5 de la <cite>Loi sur le lobbying</cite>.</li>
+<li value="8">En présentant une soumission, le proposant atteste qu'aucune personne déclarée coupable de l’une des infractions ci-après énoncées sous a) ou b) ne recevra un avantage en vertu d’un contrat découlant de cette demande de soumissions.  De plus, le proposant atteste qu’à l'exception des infractions pour lesquelles il a obtenu un pardon ou une suspension de casier, ou pour lesquelles ses droits ont été rétablis par le gouverneur en conseil, ni lui ni ses affiliés n'ont jamais été reconnus coupables d’une infraction visée par l'une des dispositions suivantes : 
+
+<ol type="a">
+<li value="1">l'alinéa 80(1)d) (<em>Fausse inscription, faux certificat ou faux rapport</em>), le paragraphe 80(2) (<em>Fraude commise au détriment de Sa Majesté</em>) ou l'article 154.01 (<em>Fraude commise au détriment de Sa Majesté</em>) de la <cite>Loi sur la gestion des finances publiques</cite>, ou 
+</li>
+<li value="2">l'article 121 (<em>Fraudes envers le gouvernement et Entrepreneur qui souscrit à une caisse électorale</em>), l'article 124 (<em>Achat ou vente d'une charge</em>), l'article 380 (<em>Fraude</em>) pour fraude commise au détriment de Sa Majesté ou l'article 418 (<em>Vente d'approvisionnements défectueux à Sa Majesté</em>), du <cite>Code criminel</cite> du Canada, ou </li>
+<li value="3">l’article 462.31 (<em>Recyclage des produits de la criminalité</em>) ou les articles 467.11 à 467.13 (<em>Participation aux activités d’une organisation criminelle</em>) du <cite>Code criminel</cite> du Canada, ou</li>
+<li value="4">l’article 45 (<em>Complot, accord ou arrangement entre concurrents</em>), l’article 46 (<em>Directives étrangères</em>), l’article 47 (<em>Truquage des offres</em>), l’article 49 (<em>Accords bancaires fixant les intérêts, etc.</em>), l’article 52(<em>Indications fausses ou trompeuses</em>), l’article 53 (<em>Documentation trompeuse</em>) de la <cite>Loi sur la concurrence</cite>, ou</li>
+<li value="5">l’article 239 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi de l’impôt sur le revenu</cite>, ou</li>
+<li value="6">l’article 327 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi sur la taxe d’accise</cite>, ou</li>
+<li value="7">l’article 3 (<em>Corruption d’un agent public étranger</em>) de la <cite>Loi sur la corruption d’agents publics étrangers</cite>, ou
+</li>
+<li value="8">l’article 5 (<em>Trafic de substances</em>), l’article 6 (<em>Importation et exportation</em>), ou l’article 7 (<em>Production de substances</em>) de la <cite>Loi réglementant certaines drogues et autres substances</cite>.</li>
+</ol>
+</li>
+<li value="9">Dans les cas où un pardon ou une suspension de casier a été obtenu, ou pour lesquels des droits ont été rétablis par le gouverneur en conseil, le proposant doit fournir avec sa soumission ou le plus tôt possible après le dépôt de celle-ci une copie des documents officiels le confirmant.  Si cette documentation n’a pas été fournie par le temps où l’évaluation des soumissions est complétée, le Canada informera le proposant du délai à l’intérieur duquel l’information doit être fournie.  À défaut de se conformer, la soumission sera déclarée non recevable. </li>
+<li value="10">
+<p>
+Les proposants reconnaissent que le Canada pourrait, à l’extérieur du cadre du présent processus de demande de soumissions, conclure un contrat avec un fournisseur ayant été reconnu coupable de l’une des infractions énumérées sous c) à h) du paragraphe ci-avant, ou affilié avec une entité reconnue coupable en vertu de l’une des infractions énumérées sous c) à h) du paragraphe ci-avant, lorsqu’ainsi requis de le faire en vertu d’une obligation légale ou judiciaire ou lorsque le Canada l’estime nécessaire dans l’intérêt public pour des raisons incluant, mais sans s’y limiter:
+</p>
+<ul>
+<li>le contrat ne peut être exécuté que par une seule personne</li>
+<li>urgence;</li>
+<li>sécurité nationale;</li>
+<li>santé ou sécurité;</li>
+<li>préjudice économique;</li>
+</ul>
+<p>
+Le Canada se réserve le droit d’imposer des conditions ou des mesures supplémentaires afin d’assurer l’intégrité du processus d’approvisionnement.
+</p>
+</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG2 (2011-05-16)
+Définitions</h2>
+<ol type="1">
+<li value="1">Dans la présente demande de proposition (DDP),
+on entend par :
+<p><dfn>« Comité d'évaluation de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> »</dfn> : Le comité
+constitué pour évaluer et coter les propositions. Les
+membres de ce comité sont représentatifs des
+compétences professionnelles et possèdent
+l'expérience voulue.</p>
+<p><dfn>« Cote de la phase 1 »</dfn> : La cote attribuée à la
+proposition soumise pour l'expérience et les compétences
+de l'équipe de l'expert-conseil lors de la phase 1 de la
+procédure de sélection. Par la suite, cette cote servira
+à établir la note de la phase 1, laquelle sera
+intégrée au calcul de la note totale selon le pourcentage
+prévu à cet effet lors de l'évaluation et la
+cotation des propositions présentées à la phase
+2.</p>
+<p><dfn>« Cote de prix »</dfn> : La cote attribuée à la composante prix
+de la proposition soumise à la phase 2 de la procédure de
+sélection. Par la suite, cette cote servira à
+établir la note de prix laquelle sera intégrée au
+calcul de la note totale selon le pourcentage prévu à cet
+effet lors de l'évaluation et la cotation des propositions
+présentées à la phase 2.</p>
+<p><dfn>« Cote technique dans le cadre de la phase 2 »</dfn> : La cote
+attribuée aux aspects techniques des propositions dans la
+phase 2 de la procédure de sélection. Par la suite, cette
+cote servira à établir la note pour la composante
+technique laquelle sera intégrée au calcul de la note
+totale selon le pourcentage prévu à cet effet lors de
+l'évaluation et la cotation des propositions
+présentées à la phase 2.</p>
+<p><dfn>« Équipe de l'expert-conseil »</dfn> : L'équipe proposée
+pour fournir tous les services requis pour réaliser le projet,
+laquelle est composée de l'expert-conseil principal (le
+proposant), des sous-experts-conseils et des spécialistes.</p>
+<p><dfn>« Personnel clé »</dfn> : Les membres du personnel du proposant,
+ainsi que ceux des sous-experts-conseils et des spécialistes
+auxquels il se propose de faire appel pour réaliser le
+présent projet.</p>
+<p><dfn>« Proposant »</dfn> : La personne ou l'entité (ou dans le cas d'une
+coentreprise, les personnes ou les entités) qui dépose
+une proposition (également appelée « Proposant » dans les présentes).</p></li></ol>
+<h2><span class="clauseRef">R1110T</span> IG3 (2012-07-16)
+Aperçu de la procédure de sélection</h2>
+<h3>3.1 Proposition présentée dans le cadre de la phase
+1</h3>
+<ol type="1">
+<li value="1">Pour donner suite à la <abbr title="demande de proposition">DDP</abbr>, les proposants
+intéressés doivent présenter, dans le cadre de la
+phase 1, une proposition dans laquelle ils doivent :
+<ol type="a">
+<li value="1">indiquer si cette proposition est présentée
+par une entreprise ou par une
+coentreprise;</li>
+<li value="2">décrire, si la proposition est
+présentée par une coentreprise, les rapports juridiques
+et professionnels proposés et les avantages apportés par
+la création de la coentreprise;</li>
+<li value="3">identifier l'expert-conseil principal et les
+sous-experts-conseils et spécialistes auxquels on se propose
+de faire appel pour constituer l'équipe de l'expert-conseil,
+ainsi que la structure organisationnelle proposée pour
+l'équipe;</li>
+<li value="4">décrire dans quelle mesure les membres de
+l'équipe de l'expert-conseil proposée ont réussi
+à assurer les services dans le cadre de projets comparables
+à celui qui fait l'objet de la proposition;</li>
+<li value="5">identifier l'attestation professionnelle,
+l'expérience, les compétences et le savoir-faire de
+l'équipe de l'expert-conseil et des personnes clés avec
+lesquelles le Proposant propose de faire appel pour assurer
+les services requis;</li>
+<li value="6">respecter toutes les autres exigences
+énoncées dans la <abbr title="demande de proposition">DDP</abbr>.</li>
+</ol>
+</li>
+</ol>
+<h3>3.2 Évaluation et cotation des propositions
+présentées dans le cadre de la phase 1</h3>
+<ol type="1">
+<li value="1">Un comité d'évaluation de Travaux publics
+et Services gouvernementaux Canada (TPSGC) examine, évalue et
+cote chacune des propositions recevables conformément aux
+critères d'évaluation, aux éléments et aux
+coefficients de pondération indiqués dans la <abbr title="demande de proposition">DDP</abbr>. À
+la fin de l'évaluation, on attribue à chaque proposition
+recevable une première cote (cote de la phase 1). On
+enregistre les cotes de la phase 1 pour les intégrer ensuite
+dans l'évaluation et la cotation définitive des
+propositions.</li>
+<li value="2">Chaque proposant qui aura présenté une
+proposition recevable dans le cadre de cette phase est informé
+par écrit de la cote qui lui a été attribuée.
+De plus, on lui fournit les renseignements suivants :
+<ol type="a">
+<li value="1">la liste alphabétique des proposants (en
+principe, les cinq premiers) auxquels on aura attribué les
+meilleures cotes dans le cadre de la phase 1;</li>
+<li value="2">la liste de toutes les cotes attribuées dans le
+cadre de la phase 1 (sans lien avec les proposants);</li>
+<li value="3">la date, l'heure et le lieu de la réunion
+d'explications sur la phase 2, le cas échéant;</li>
+<li value="4">la date et l'heure de clôture pour la
+réception des propositions dans le cadre de la phase 2 ainsi
+que l'ensemble des instructions, des clauses et des conditions
+supplémentaires ou des annexes pouvant s'appliquer à la
+préparation et à la présentation des propositions
+dans le cadre de la phase 2.</li>
+</ol>
+</li>
+<li value="3">Les proposants qui présentent des propositions
+irrecevables dans le cadre de la phase 1 seront avisés en
+conséquence.</li>
+</ol>
+<h3>3.3 Proposition présentée dans le cadre de la phase
+2</h3>
+<ol type="1">
+<li value="1">Lorsque les proposants connaissent les résultats
+de l'évaluation des propositions de la phase 1, ils doivent
+préparer et soumettre leur proposition dans le cadre de la
+phase 2. Tous les proposants qui présentent des propositions
+recevables dans le cadre de la phase 1, quelle que soit leur cote
+à l'issue de cette phase, peuvent préparer et
+présenter une proposition dans le cadre de la phase 2. Chaque
+proposant dont la proposition est recevable prend la décision
+de continuer de participer ou non à la procédure de
+sélection de la phase 2.</li>
+<li value="2">Dans le cadre de la phase 2, le proposant ne peut pas
+remplacer ou supprimer un membre de l'équipe de
+l'expert-conseil indiquée dans la proposition
+présentée dans le cadre de la phase 1 sans le
+consentement du Canada.</li>
+<li value="3">Les propositions présentées dans le cadre
+de la phase 2 sont soumises à une procédure
+prévoyant deux enveloppes : le proposant doit présenter
+le volet « technique » de la proposition dans une « enveloppe » et le volet financier de son offre (proposition de
+prix) dans une deuxième enveloppe.</li>
+<li value="4">Les renseignements que les proposants doivent fournir
+sont décrits en détails dans la <abbr title="demande de proposition">DDP</abbr>.</li>
+</ol>
+<h3>3.4 Évaluation et cotation finales des propositions
+présentées dans le cadre de la phase 2.</h3>
+<ol type="1">
+<li value="1">Un comité d'évaluation de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> examinera,
+évaluera et cotera les éléments techniques des
+propositions présentées dans le cadre de la phase 2
+conformément aux critères, aux éléments et aux
+coefficients de pondération indiqués dans la <abbr title="demande de proposition">DDP</abbr>. À
+la fin de l'évaluation, on établira les cotes techniques
+de la phase 2.</li>
+<li value="2">La cote de la phase 1 et la cote technique de la
+phase 2 seront combinées de façon à établir une
+note technique combinée. Les propositions qui auront obtenu la
+note de passage précisée dans la section Exigences de
+présentation et évaluation des propositions de la <abbr title="demande de proposition">DDP</abbr>
+seront étudiées plus en profondeur.</li>
+<li value="3">Les enveloppes de proposition de prix de toutes les
+propositions recevables sont ouvertes après évaluation
+technique. Quand il y a au moins trois propositions recevables, un
+prix moyen est établi en additionnant toutes les propositions
+de prix et en divisant la somme par le nombre de propositions de
+prix dépouillées. Ce calcul ne sera pas effectué si
+une ou deux propositions recevables sont reçues.</li>
+<li value="4">Toutes les propositions de prix ayant un écart
+de plus de 25 p. 100 au dessus du prix moyen occasionneront le
+rejet de la proposition complète, laquelle ne sera plus
+considérée.</li>
+<li value="5">On cotera comme suit les propositions de prix
+restantes :
+<ol type="a">
+<li value="1">On attribuera la cote de prix de 100 à la
+proposition de prix la moins-disante.</li>
+<li value="2">On attribuera les cotes de prix de 80, 60, 40 et 20,
+respectivement, aux deuxième, troisième, quatrième
+et cinquième propositions de prix les moins-disantes. On
+attribuera la cote de prix de 0 à toutes les autres
+propositions de prix.</li>
+<li value="3">Dans les rares cas où deux (ou plusieurs)
+propositions de prix sont identiques, on attribuera la même
+cote aux propositions de prix égales, et on sautera le nombre
+correspondant de cotes ensuite.</li>
+<li value="4">On multipliera la cote de prix par le pourcentage du
+coefficient préétabli pour obtenir la note de prix.</li>
+</ol>
+</li>
+<li value="6">Une proposition dont le prix proposé est
+supérieur à toute limite financière maxima,
+lorsqu'une telle limite est indiquée dans les Instructions
+particulières aux proposants, peut entraîner le rejet de
+la soumission.</li>
+</ol>
+<h3>3.5 Note totale</h3>
+<ol type="1">
+<li value="1">On calculera la note globale (totale) attribuée
+à la proposition complète de chaque proposant en
+additionnant :
+<ol type="a">
+<li value="1">la note de la phase 1 (Proposition dans le cadre de
+la phase 1, traitant des compétences et de
+l'expérience);</li>
+<li value="2">la note technique de la phase 2 (première
+enveloppe de la Proposition dans le cadre de la phase 2);</li>
+<li value="3">la note de prix (seconde enveloppe de la Proposition
+dans le cadre de la phase 2).</li>
+</ol>
+</li>
+<li value="2">Le Comité d'évaluation de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>
+recommandera de contacter d'abord le proposant auquel on aura
+attribué la meilleure note totale pour la prestation des
+services requis.</li>
+</ol>
+<h3>3.6 Avis</h3>
+<p><abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> devrait normalement envoyer un avis par écrit aux
+proposants non retenus dans un délai d'une semaine suivant la
+conclusion d'une entente contractuelle avec le proposant
+retenu.</p>
+<h2><span class="clauseRef">R1110T</span> IG4 (2012-07-16)
+Numéro d'entreprise - approvisionnement</h2>
+<p>Les proposants doivent détenir un numéro d'entreprise - approvisionnement (NEA) avant l'attribution d'un contrat. Les proposants peuvent demander un <abbr title="numéro d'entreprise - approvisionnement">NEA</abbr> en direct à <cite>Données d’inscription des fournisseurs.</cite>Il est également possible de communiquer avec la LigneInfo au 1 800-811-1148 pour obtenir le numéro de téléphone de l'agent d'inscription des fournisseurs le plus près. </p>
+<h2><span class="clauseRef">R1110T</span> IG5 (2003-05-30)
+Propositions recevables</h2>
+<p>Pour être jugée recevable, votre proposition doit
+respecter toutes les exigences obligatoires énoncées dans
+la <abbr title="demande de proposition">DDP</abbr>. Le Proposant qui aura présenté une
+proposition irrecevable ne pourra plus participer à la
+procédure de sélection.</p>
+<h2><span class="clauseRef">R1110T</span> IG6 (2011-05-16)
+Établissement de la proposition</h2>
+<p>Le proposant doit établir la proposition d'après les
+documents pertinents énumérés dans les Instructions
+particulières aux proposants.</p>
+<h2><span class="clauseRef">R1110T</span> IG7 (2011-05-16) Prix de
+la proposition</h2>
+<p>Sauf prescription contraire ailleurs dans les documents de la
+<abbr title="demande de proposition">DDP</abbr> :</p>
+<ol type="a">
+<li value="1">la proposition de prix doit être fondée sur
+la monnaie canadienne,</li>
+<li value="2">la proposition de prix exclut toute somme couvrant la
+taxe sur les produits et services ou la taxe de vente
+harmonisée, le cas échéant, et</li>
+<li value="3">aucune protection contre les fluctuations du taux de
+change n'est accordée, et</li>
+<li value="4">toute demande de protection contre les fluctuations
+du taux de change ne sera pas considérée et peut
+occasionner le rejet de la proposition.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG8 (2011-05-16)
+Communications en période de soumission</h2>
+<p>Afin d'assurer l'intégrité du processus d'appel à
+la concurrence, toutes les demandes de renseignements, et autres
+communications ayant trait à la demande de propositions
+doivent être adressées uniquement à l'autorité
+contractante dont le nom est indiqué dans la demande de
+propositions. Le défaut de se conformer à cette exigence
+pourrait avoir pour conséquence que la proposition soit
+déclarée non recevable.</p>
+<p>Afin d'assurer l'uniformité et la qualité de
+l'information fournie aux Proposants, les demandes de
+renseignements importantes reçues, ainsi que les réponses
+à ces demandes, seront fournies simultanément à tous
+les Proposants qui auront reçu la demande de
+propositions sans que le nom de l'auteur des demandes de
+renseignements soit mentionné.</p>
+<h2><span class="clauseRef">R1110T</span> IG9 (2011-05-16) Limite
+quant au nombre de propositions</h2>
+<ol type="1">
+<li value="1">Le proposant ne peut déposer plus d'une
+soumission. Cette limite quant au nombre de propositions s'applique
+aussi aux personnes ou entités dans le cas d'une coentreprise.
+Un proposant (ou dans le cas d'une coentreprise, les personnes ou
+les entités) qui dépose plus d'une soumission,
+occasionnera le rejet de toutes ces soumissions, lesquelles ne
+seront plus considérées.</li>
+<li value="2">On entend par « coentreprise » une
+association de deux ou plusieurs parties réunissant leurs
+moyens financiers, leurs biens, leurs connaissances, leurs
+compétences, leur temps ou d'autres ressources dans une
+coentreprise, en s'engageant à en partager les
+bénéfices et les pertes, chacune exerçant sur
+l'entreprise un certain contrôle.</li>
+<li value="3">Ne constitue pas un accord de coentreprise, une
+convention selon laquelle le Canada conclut un contrat directement
+avec un expert-conseil principal qui peut faire appel à des
+sous-experts-conseils ou à des experts-conseils
+spécialisés pour assurer certaines tranches de services.
+Par conséquent, différents proposants peuvent proposer
+d'inclure dans leur équipe, un même sous-expert-conseil
+ou un même expert-conseil spécialisé.</li>
+<li value="4">Sans égard au paragraphe 3 ci-dessus, afin
+d'éviter les conflits d'intérêts, en apparence comme
+en réalité, lorsqu'une personne ou entité agit
+à titre de proposant individuel ou comme composante d'un
+proposant en coentreprise, cette personne ou entité ne peut
+faire partie de l'équipe d'un autre proposant, que ce soit
+à titre de sous-expert conseil ou expert-conseil
+spécialisé ou à titre de composante d'un autre
+proposant en coentreprise. À défaut de respecter cette
+restriction, toutes les propositions ainsi présentées
+seront rejetées.</li>
+<li value="5">Le nom de la(des) personne(s) ou entité(s) qui
+présente la proposition dans le cadre de la phase 2 doit
+être celui qui est désigné comme proposant dans le
+cadre de la phase 1. Dans la préparation de leur proposition
+dans le cadre de la phase 2, les proposants doivent faire appel
+à la même équipe de l'expert-conseil, aux mêmes
+sous-experts-conseils, aux mêmes experts-conseils
+spécialisés et aux mêmes personnes
+désignés dans la proposition présentée dans le
+cadre de la phase 1.</li>
+<li value="6">Toutes les coentreprises constituées pour
+fournir des services professionnels ou autres doivent respecter
+intégralement les exigences des lois provinciales ou
+territoriales afférentes, dans la province ou le territoire
+où se déroulera le projet.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG10 (2011-05-16) Permis
+et licences nécessaires</h2>
+<ol type="1">
+<li value="1">Les membres de l'équipe de l'expert-conseil et
+les membres du personnel clé doivent être ou pouvoir
+être accrédités, certifiés ou autorisés
+pour fournir les services professionnels nécessaires, dans
+toute la mesure prescrite par les lois provinciales ou
+territoriales, dans la province ou le territoire où se
+déroulera le projet.</li>
+<li value="2">En présentant une proposition, le proposant
+atteste que l'équipe de l'expert-conseil et les membres du
+personnel clé respectent les exigences du paragraphe 1
+ci-dessus. Le proposant reconnaît que <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> se réserve le
+droit de vérifier tous les renseignements à ce titre et
+qu'une attestation fausse ou erronée peut entraîner le
+rejet de la proposition, qui sera déclarée
+irrecevable.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG11 (2012-07-16) Rejet
+d'une proposition</h2>
+<ol type="1">
+<li value="1">Le Canada peut rejeter une soumission dans l'un des
+cas suivants :
+<ol type="a">
+<li value="1">le proposant a été jugé inadmissible
+à ce projet de marchés à la suite d'un rendement
+insatisfaisant dans le cadre d'un projet antérieur
+déterminé conformément aux procédures
+d'évaluation de rendement du ministère;</li>
+<li value="2">un employé, un sous-expert-conseil ou un
+expert-conseil spécialisé faisant partie de la
+proposition a été jugé inadmissible pour des travaux
+avec le ministère, conformément aux procédures
+d'évaluation de rendement mentionné à l'alinéa
+1. a), ce qui lui interdit de présenter une proposition pour
+répondre au besoin ou à la partie du besoin que
+l'employé, le sous-expert-conseil ou l'expert-conseil
+spécialisé exécuterait;</li>
+<li value="3">le proposant déclare faillite ou ne peut, pour quelque motif que ce soit, exercer ses activités pour une période prolongée;
+</li>
+<li value="4">	des preuves de fraude, de corruption ou de fausse déclaration ou des preuves confirmant l'incapacité de respecter des lois protégeant les personnes contre toute forme de discrimination ont été déposés, à la satisfaction du Canada, à l'égard du Proposant, de l'un quelconque des ses employés, d'un sous-expert-conseil ou d'un expert-conseil spécialisé proposé dans la soumission;
+</li>
+<li value="5">	des preuves à la satisfaction du Canada que, compte tenu de son comportement antérieur, le Proposant, un sous-expert-conseil, un expert-conseil spécialisé ou une personne désignée pour exécuter les services ne convient pas ou s'est comporté de façon inappropriée;
+</li>
+<li value="6">à l'égard d'opérations
+antérieures ou actuelles avec le gouvernement du Canada:
+
+<ol type="i">
+<li value="1">le Canada a exercé ses recours contractuels de services retirés à l'expert-conseil, de suspension ou de résiliation pour inexécution à l'égard d'un contrat attribué au Proposant ou à l'un quelconque de ses employés, sous-experts-conseils ou experts-conseils spécialisés proposés dans la soumission;</li>
+<li value="2">le Canada détermine que le rendement du Proposant en vertu d'autres contrats,  notamment l'efficacité et la qualité dans l'exécution des services et la mesure dans laquelle le proposant a réalisé les services conformément aux clauses et aux conditions contractuelles, sont suffisamment médiocres pour qu'on le considère incapabe de répondre au besoin faisant l'objet de la soumission.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Dans les cas où le Canada a l'intention de rejeter une soumission conformément à l'alinéa 1. f), l'autorité contractante  le fera savoir au Proposant et lui donnera un délai de dix (10) jours pour faire valoir son point de vue, avant de rendre une décision définitive sur le rejet de la soumission.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG12 (2012-07-16)
+Programme de contrats fédéraux</h2>
+<ol type="1">
+<li value="1">En vertu du Programme de contrats fédéraux
+(PCF), certaines firmes, y compris un Proposant qui est
+membre d'une coentreprise, soumissionnant pour des contrats du
+gouvernement fédéral d'une valeur de 200000$ ou plus
+(incluant toutes les taxes applicables) doivent s'engager
+officiellement à mettre en oeuvre un programme
+d'équité en matière d'emploi. Il s'agit d'une
+condition préalable à l'attribution du contrat. Si le
+Proposant, ou, si le Proposant est une coentreprise et
+qu'un membre de la coentreprise, est assujetti au <abbr title="Programme de contrats fédéraux ">PCF</abbr>, la preuve de
+son engagement doit être fournie avant l'attribution du
+contrat.
+
+<p>Les firmes qui ont été déclarées
+entrepreneurs non admissibles par Ressources humaines et
+Développement des compétences Canada (RHDCC) n'ont plus
+le droit d'obtenir des contrats du gouvernement au-delà du
+seuil prévu par le <cite>Règlement sur les marchés de l’État</cite> pour les demandes de soumissions. Les firmes
+peuvent être déclarées entrepreneurs non admissibles
+soit parce que <abbr title="Ressources humaines et Développement des compétences Canada">RHDCC</abbr> a constaté leur non-conformité ou
+ils se sont retirés volontairement du <abbr title="Programme de contrats fédéraux ">PCF</abbr> pour une raison
+autre que la réduction de leur effectif à moins de 100
+employés. Toute soumission présentée par un
+entrepreneur non admissible, y compris une soumission
+présentée par une coentreprise dont un membre est un
+entrepreneur non admissible, sera déclarée non
+recevable.</p></li>
+<li value="2">Le Proposant atteste sa situation relativement
+au Programme en remplissant le formulaire de déclaration.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG13 (2011-05-16)
+Assurances à souscrire</h2>
+<p>Le proposant retenu devra souscrire en permanence à une
+assurance responsabilité professionnelle et à une
+assurance responsabilité civile des entreprises,
+conformément aux exigences énoncées ailleurs dans
+les documents de la <abbr title="demande de proposition">DDP</abbr>.</p>
+<h2><span class="clauseRef">R1110T</span> IG14 (2011-05-16)
+Coentreprise</h2>
+<ol type="1">
+<li value="1">Une coentreprise est une association d'au moins deux
+parties qui regroupent leurs fonds, leurs biens, leurs
+connaissances, leur expertise ou d'autres ressources dans une
+entreprise commerciale conjointe, parfois appelée consortium,
+pour déposer ensemble une soumission pour un besoin. Les
+Proposants qui soumissionnent à titre de coentreprise
+doivent indiquer clairement qu'ils forment une coentreprise et
+fournir les renseignements suivants :
+<ol type="a">
+<li value="1">le nom de chaque membre de la coentreprise;</li>
+<li value="2">le numéro d'entreprise-approvisionnement de
+chaque membre de la coentreprise;</li>
+<li value="3">le nom du représentant de la coentreprise,
+c'est-à-dire le membre choisi par les autres membres pour les
+représenter, s'il y a lieu;</li>
+<li value="4">le nom de la coentreprise, s'il y a lieu.</li>
+</ol>
+</li>
+<li value="2">Si les renseignements contenus dans la soumission ne
+sont pas clairs, le Proposant devra fournir les
+renseignements à la demande de l'autorité
+contractante.</li>
+<li value="3">La soumission et tout contrat subséquent doivent
+être signés par tous les membres de la coentreprise
+à moins qu'un membre ait été nommé pour
+représenter tous les membres de la coentreprise.
+L'autorité contractante peut, en tout temps, demander à
+chaque membre de la coentreprise de confirmer que le
+représentant a reçu les pleins pouvoirs pour agir à
+titre de représentant aux fins de la demande de soumissions et
+tout contrat subséquent. Si un contrat est attribué
+à une coentreprise, tous ses membres seront conjointement et
+solidairement responsables de l'exécution du contrat
+subséquent.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG15 (2003-05-30)
+Composition de l'équipe de l'expert-conseil</h2>
+<p>En présentant une proposition, le proposant déclare et
+atteste que les personnes morales et physiques proposées dans
+la proposition pour assurer les services requis seront celles qui
+fourniront effectivement ces services dans la réalisation du
+projet, dans le cadre de toute entente contractuelle découlant
+de la présentation de la proposition. Si le proposant
+suggère, pour réaliser le projet, une personne physique
+qui n'est pas à son service, il déclare que cette
+dernière (ou son employeur) lui a donné par écrit
+l'autorisation de proposer ses services dans le cadre du projet
+à réaliser.</p>
+<h2><span class="clauseRef">R1110T</span> IG16 (2012-07-16)
+Présentation des propositions</h2>
+<ol type="1">
+<li value="1">Le Canada exige que chaque proposition, à la
+date et à l'heure de clôture ou sur demande de
+l'autorité contractante, soit signée par le
+Proposant ou par son représentant autorisé. Si une
+proposition est présentée par une coentreprise, elle doit
+être conforme à l'article IG14.</li>
+<li value="2">Il appartient au proposant :
+<ol type="a">
+<li value="1">de présenter, dans le cadre de la phase 1, une
+proposition dûment remplie, SELON LE
+MODÈLE DEMANDÉ, au plus tard à la date et à
+l'heure de clôture indiquées pour la présentation
+des propositions dans le cadre de cette phase;</li>
+<li value="2">de présenter, à sa discrétion, dans le
+cadre de la phase 2, une proposition dûment
+remplie, SELON LE MODÈLE DEMANDÉ, au plus tard à la
+date et à l'heure de clôture indiquées pour la
+présentation des propositions dans le cadre de cette
+phase;</li>
+<li value="3">de faire parvenir sa proposition uniquement au Module
+de réception des soumissions de Travaux publics et Services
+gouvernementaux Canada (TPSGC) tel qu'indiqué à la page 1
+de la demande de propositions ou à l'adresse indiquée
+dans la demande de propositions;</li>
+<li value="4">de demander des précisions sur les exigences
+contenues dans la demande de propositions, au besoin, avant de
+déposer sa proposition;</li>
+<li value="5">de veiller à ce que le nom du Proposant,
+l'adresse de l'expéditeur, le numéro et la description de la demande
+de propositions ainsi que la date et l'heure de clôture de la
+demande de propositions soient clairement indiqués sur
+l'enveloppe ou le colis renfermant la proposition; et</li>
+<li value="6">de présenter, pour chaque phase, une proposition
+complète et suffisamment détaillée, permettant de
+faire une évaluation exhaustive conformément aux
+critères exprimés dans la présente <abbr title="demande de proposition">DDP</abbr>.</li>
+</ol>
+</li>
+<li value="3">Dans le cadre de la phase 2, l'offre technique et
+l'offre de prix de la proposition doivent être
+présentées dans des enveloppes distinctes et faciles
+à reconnaître, conformément aux instructions
+reproduites dans les documents de la <abbr title="demande de proposition">DDP</abbr>. Les deux enveloppes
+doivent être présentées dans un seul colis,
+reproduisant clairement et en évidence les renseignements
+indiqués à l'alinéa 2.e) ci-dessus.</li>
+<li value="4">Le proposant est seul responsable de présenter
+dans les délais et en bonne et due forme la proposition
+auprès du bureau désigné pour la présentation
+des propositions. <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> n'assumera pas cette responsabilité,
+qui ne pourra pas lui être cédée non plus. Le
+proposant assume seul tous les risques et toutes les
+conséquences si la proposition n'est pas présentée
+dans les délais et en bonne et due forme.</li>
+<li value="5">On peut présenter les propositions et les
+pièces justificatives en français ou en anglais.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG17 (2011-05-16)
+Propositions présentées en retard</h2>
+<p>Les propositions présentées après la date et
+l'heure fixées pour la clôture de la <abbr title="demande de proposition">DDP</abbr> sont
+retournées à leur expéditeur sans être
+décachetées.</p>
+<h2><span class="clauseRef">R1110T</span> IG18 (2011-05-16)
+Révision des propositions</h2>
+<p>On pourra modifier les propositions présentées à
+la condition que la proposition révisée parvienne au
+bureau désigné pour la présentation des propositions
+au plus tard à la date et à l'heure fixées pour la
+clôture de la <abbr title="demande de proposition">DDP</abbr>. La révision apportée à la
+proposition devra être transmise sur le papier à
+en-tête du proposant ou porter une signature l'identifiant. La
+révision doit également montrer clairement la (les)
+modification(s) à la proposition originelle. La révision
+doit également inclure les renseignements exigés à
+l'alinéa IG16.2 e).</p>
+<h2><span class="clauseRef">R1110T</span> IG19 (2011-05-16)
+Acceptation des propositions</h2>
+<ol type="1">
+<li value="1">Le Canada pourra accepter l'une quelconque des
+propositions présentées ou pourra rejeter n'importe
+laquelle ou la totalité des propositions.</li>
+<li value="2">En cas d'erreur dans la multiplication ou l'addition
+des prix, le prix unitaire sera prépondérant.</li>
+<li value="3">Bien qu'il puisse conclure une entente ou une
+convention contractuelle sans négociation au préalable,
+le Canada se réserve le droit de négocier un marché
+avec les Proposants.</li>
+<li value="4">Le Canada se réserve le droit d'annuler ou de
+modifier la <abbr title="demande de proposition">DDP</abbr> à n'importe quel moment.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG20 (2011-05-16)
+Capacité juridique</h2>
+<p>Le Proposant doit avoir la capacité juridique de
+contracter. Si le Proposant est une entreprise à
+propriétaire unique, une société de personnes ou une
+personne morale, il doit fournir, à la demande de</p>
+<p>l'autorité contractante, une déclaration et toutes les
+pièces justificatives demandées indiquant les lois en
+vertu desquelles son entreprise est incorporée ou
+enregistrée, ainsi que sa dénomination sociale et son
+lieu d'affaires. Ce qui précède s'applique également
+si le Proposant est une coentreprise.</p>
+<h2><span class="clauseRef">R1110T</span> IG21 (2011-05-16)
+Séance d'explications</h2>
+<p>On ne donnera d'explications à un proposant que sur
+demande, seulement lorsque <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> aura conclu une entente
+contractuelle avec le proposant retenu. Si un proposant souhaite
+obtenir une séance d'explications, le proposant devrait
+contacter la personne dont le nom figure sur la page couverture de
+la Demande de propositions dans les 15 jours ouvrables, suivant la
+réception de l'avis les informant</p>
+<p>du résultat de l'invitation. Les explications fournies
+comprendront un exposé des points forts et faiblesse de la
+proposition, en rappelant les critères d'évaluation. On
+protégera le caractère confidentiel de l'information se
+rapportant aux autres propositions. Les explications peuvent
+être fournies par écrit, par téléphone ou en
+personne.</p>
+<h2>R1110T  IG22   (2012-07-16)  Capacité financière</h2>
+<ol type="1">
+<li value="1">Exigences en matière de capacité financière : Le proposant doit avoir la capacité financière nécessaire pour répondre à ce besoin. Afin d'évaluer la capacité financière du proposant, l'autorité contractante pourra, dans un avis écrit à l'intention du proposant, exiger que ce dernier fournisse une partie ou la totalité des renseignements financiers dont il est question ci-dessous durant l'évaluation des propositions. Le proposant doit fournir à l'autorité contractante les renseignements suivants dans un délai de quinze (15) jours ouvrables suivant la réception d'une demande de l'autorité contractante ou dans un délai précisé par l'autorité contractante dans l'avis.
+
+<ol type="a">
+<li value="1">Les états financiers vérifiés ou, si ces derniers ne sont pas disponibles, les états financiers non vérifiés (préparés par la firme de comptabilité externe de proposant, s'il y a lieu, ou encore préparés à l'interne si aucun état financier n'a été préparé par un tiers) pour les trois derniers exercices  financiers du proposant ou, si l'entreprise est en opérations depuis moins de trois ans, pour toute la période en question (incluant au minimum le bilan, l'état des bénéfices non répartis, l'état des résultats et les notes afférentes aux états financiers).
+</li>
+<li value="2">Si les états financiers mentionnés au paragraphe 1. a) datent de plus de cinq mois précédant la date à laquelle l'autorité contractante demande l'information, le proposant doit également fournir, à moins que ce soit interdit par une loi dans le cas des sociétés ouvertes au public, les derniers états financiers trimestriels (comprenant un bilan et un état des résultats depuis le début de l'exercice), datant de deux mois précédant la date à laquelle l'autorité contractante demande cette information.
+</li>
+<li value="3">Si le proposant n'exerce pas ses activités depuis au moins un exercice complet, il doit fournir les renseignements suivants:
+
+<ol type="i">
+<li value="1">le bilan d'ouverture en date de début des activités (dans le cas d'une corporation, un bilan à la date de la constitution de la société);
+</li>
+<li value="2">les derniers états financiers trimestriels (comprenant un bilan et un état des résultats depuis le début de l'exercice) datant de deux mois précédant la date à laquelle l'autorité contractante demande cette information.
+</li>
+</ol>
+</li>
+<li value="4">Une attestation de la part du directeur financier ou d'un signataire autorisé du proposant stipulant que les renseignements financiers fournis sont exacts et complets.
+</li>
+<li value="5">Une lettre de confirmation émise par toutes les institutions financières ayant fourni du financement à court terme au proposant. Cette lettre doit faire état du montant total des marges de crédit accordées au proposant ainsi que du crédit toujours disponible, et non utilisé, un mois précédant la date à laquelle l'autorité contractante demande cette information.
+</li>
+</ol>
+</li>
+<li value="2">Si le proposant est une coentreprise, les renseignements financiers exigés par l'autorité contractante doivent être fournis par chaque membre de la coentreprise.
+</li>
+<li value="3">Si le proposant est une filiale d'une autre entreprise, alors les renseignements financiers mentionnés aux paragraphes 1. a) à e) exigés par l'autorité contractante doivent être fournis par la société mère elle-même. Toutefois, la fourniture des renseignements financiers de la société mère ne répond pas à elle seule à l'exigence selon laquelle le proposant doit fournir ses  renseignements financiers, et la capacité financière de la société mère ne peut pas remplacer la capacité financière du proposant, à moins qu'un consentement de la société mère à signer une garantie de la société mère, rédigée par Travaux publics et Services gouvernementaux Canada (TPSGC), ne soit fourni avec les renseignements exigés.
+</li>
+<li value="4">Renseignements financiers déjà fournis à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> : Le proposant n'est pas tenu de soumettre de nouveau des renseignements financiers demandés par l'autorité contractante qui sont déjà détenus en dossier à <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> par la Direction des services des politiques, de la vérification et de l'analyse des coûts du Secteur de la politique, du risque, de l'intégrité et de la gestion stratégique, à condition que dans le délai susmentionné :
+
+<ol type="a">
+<li value="1">le proposant indique par écrit à l'autorité contractante les renseignements précis qui sont en dossier et le besoin à l'égard duquel ces renseignements ont été fournis;</li>
+<li value="2">le proposant autorise l'utilisation de ces renseignements pour ce besoin.</li>
+</ol>
+Il incombe au proposant de confirmer auprès de l'autorité contractante que ces renseignements sont encore détenus par <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.
+
+</li>
+<li value="5">Autres renseignements : Le Canada se réserve le droit de demander au proposant de fournir tout autre renseignement requis par le Canada pour procéder à une évaluation complète de la capacité financière du proposant.
+</li>
+<li value="6">Confidentialité : Si le proposant fournit au Canada, à titre confidentiel, les renseignements exigés ci-dessus et l'informe de la confidentialité des renseignements divulgués, le Canada doit traiter ces renseignements de façon confidentielle, suivant les dispositions de la <cite>Loi sur l’accès à l’information</cite>,<abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> A-1, alinéas 20(1) b) et c).
+</li>
+<li value="7">Sécurité : Pour déterminer si le proposant a la capacité financière requise pour répondre au besoin, le Canada pourra prendre en considération toute garantie que le proposant peut lui offrir, aux frais du proposant (par exemple, une lettre de crédit irrévocable provenant d'une institution financière enregistrée et émise au nom du Canada, une garantie d'exécution provenant d'une tierce partie, ou toute autre forme de garantie exigée par le Canada).
+</li>
+<li value="8">S'il advenait qu'une proposition soit jugée irrecevable parce qu'il aura été déterminé que le proposant n'a pas la capacité financière requise pour s'acquitter des travaux demandés, un avis officiel à cet effet lui sera transmis. 
+</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG23 (2011-05-16)
+Évaluation du rendement</h2>
+<p>Les proposants doivent prendre note que le rendement de
+l'expert-conseil pendant et après la prestation des services
+sera évalué par le Canada. L'évaluation sera
+basée sur les critères suivants : conception,
+qualité des résultats, gestion, délais et
+coûts. Si le rendement de l'expert-conseil est jugé
+insatisfaisant, celui-ci pourrait se voir refuser des contrats dans
+le futur. Le formulaire PWGSC-TPSGC
+2913-1, SELECT, Formulaire du rapport d'évaluation du
+rendement de l'expert-conseil, est utilisé pour évaluer
+le rendement.</p>
+<h2><span class="clauseRef">R1110T</span> IG24 (2011-05-16)
+Coûts relatifs aux soumissions</h2>
+<p>Aucun paiement ne sera versé pour des coûts encourus
+pour la préparation et la présentation d'une soumission
+en réponse à la demande de proposition. Le
+Proposant sera seul responsable des frais engagés dans
+la préparation et la présentation d'une proposition,
+ainsi que des frais engagés par lui pour l'évaluation de
+sa proposition.</p>
+<h2><span class="clauseRef">R1110T</span> IG25 (2012-07-16) Conflit
+d´intérêts / Avantage indu</h2>
+<ol type="1">
+<li value="1">Afin de protéger l'intégrité du
+processus d'approvisionnement, les Proposants sont
+avisés que le Canada peut rejeter une soumission dans les
+circonstances suivantes :
+<ol type="a">
+<li value="1">le Proposant, un de ses sous-experts-conseils,
+un de leurs employés respectifs, actuels ou anciens, a
+participé d'une manière ou d'une autre à la
+préparation de la demande de soumissions; ou est en situation
+de conflit d'intérêts ou d'apparence de conflit
+d'intérêts.</li>
+<li value="2">le Canada juge que le Proposant, un de ses
+sous-experts-conseils, un de leurs employés respectifs,
+actuels ou anciens, a eu accès à des renseignements
+relatifs à la demande de soumissions qui n'étaient pas
+à la disposition des autres Proposants et que cela donne
+ou semble donner au Proposant un avantage indu.</li>
+</ol>
+</li>
+<li value="2">Le Canada ne considère pas, qu'en soi,
+l'expérience acquise par un Proposant qui fournit ou a
+fourni les biens et services décrits dans la demande de
+soumissions (ou des biens et services semblables) représente
+un avantage indu en faveur du Proposant ou crée un
+conflit d'intérêts. Ce Proposant demeure cependant
+assujetti aux critères énoncés plus hauts.</li>
+<li value="3">Dans le cas où le Canada a l'intention de
+rejeter une soumission conformément au présent article,
+l'autorité contractante préviendra le Proposant et
+lui donnera la possibilité de faire valoir son point de vue,
+avant de prendre une décision définitive. Les
+Proposants ayant un doute par rapport à une situation
+particulière devraient contacter l'autorité contractante
+avant la date de clôture de la demande de soumissions. En
+soumissionnant, le Proposant déclare qu'il n'est pas en
+conflit d'intérêts et qu'il ne bénéficie
+d'aucun avantage indu. Le Proposant reconnaît que le
+Canada est seul habilité à établir s'il existe un
+conflit d'intérêts, un avantage indu ou une apparence de
+conflit d'intérêts ou d'avantage indu.</li>
+</ol>
+<h2><span class="clauseRef">R1110T</span> IG26 (2011-05-16)
+Limitation de la responsabilité</h2>
+<p>Sauf dans les cas expressément et spécifiquement
+autorisés dans cette demande de proposition, aucun
+Proposant, ou Proposant potentiel, ne pourra
+réclamer des dédommagements de quelque nature que ce soit
+par rapport à la présente demande de proposition, ou tout
+autre aspect du processus d'approvisionnement, et en soumettant une
+proposition, chaque Proposant est réputé avoir
+accepté qu'il n'a aucun droit à cet égard.</p>
+</div></pre>

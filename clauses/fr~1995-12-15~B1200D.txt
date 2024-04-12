@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tout matériel ayant une durée utile doit porter :
+
+1.     la date de fabrication;
+
+2.     le numéro de pièce du fabricant;
+
+3.     le numéro de spécification;
+
+4.     la date d'expiration de la durée utile.
+
+
+</pre>

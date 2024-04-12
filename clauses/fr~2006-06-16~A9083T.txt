@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante lorsqu'une conférence des soumissionnaires doit 
+avoir lieu.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Une conférence des soumissionnaires aura lieu à
+<span class="input-required"><var>_______</var> <kbd>(<i>insérer
+l'adresse</i>)</kbd></span>, le <var>________</var>
+<strong><em>(insérer la date</em></strong>). Elle
+débutera à <span class="input-required"><var>________</var> <kbd>(<i>insérer
+l'heure</i>)</kbd></span> et se tiendra <span class="input-required"><var>________</var> <kbd>(<i>insérer le
+nom/numéro de la salle</i>)</kbd></span>. Dans le cadre de la
+conférence, on examinera la portée du besoin
+précisé dans la demande de soumissions et on
+répondra aux questions qui seront posées. Il est
+recommandé que les soumissionnaires qui ont l'intention de
+déposer une soumission assistent à la conférence ou
+y envoient un représentant.</p>
+<p>Les soumissionnaires sont priés de communiquer avec
+l'autorité contractante avant la conférence pour
+confirmer leur présence. Ils devraient fournir à
+l'autorité contractante, par écrit, une liste des
+personnes qui assisteront à la conférence et des
+questions qu'ils souhaitent y voir abordées, au moins
+<var>_____</var> jours ouvrables avant la conférence.</p>
+<p>Toute précision ou tout changement apporté à la
+demande de soumissions à la suite de la conférence des
+soumissionnaires sera inclus dans la demande de soumissions, sous
+la forme d'une modification. Les soumissionnaires qui ne
+participeront pas à la conférence pourront tout de
+même présenter une soumission.</p>
+</div></pre>

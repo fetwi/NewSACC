@@ -1,0 +1,48 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clauses suivante dans les contrats lorsque le contrat américain est 
+de type à frais remboursables.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La Corporation commerciale canadienne se réserve le droit
+en tout temps de modifier par un ordre écrit l'un ou l'autre
+des éléments ci-après, dans le cadre
+général du Contrat :</p>
+<ol type="i">
+<li value="1">dessins, projets ou spécifications, et l'endroit
+où les marchandises à livrer devront être
+spécialement fabriquées à l'intention du
+Gouvernement américain;</li>
+<li value="2">méthode d'expédition ou d'emballage;</li>
+<li value="3">lieu de livraison; et</li>
+<li value="4">le montant de bien fournis par le Gouvernement
+américain.</li>
+</ol>
+<p>Si l'une quelconque de ces modifications entraîne une
+augmentation ou une réduction du coût estimatif ou du
+temps requis relativement à la réalisation d'une
+quelconque partie du Travail demandé - qu'il soit modifié
+ou non par cet ordre - ou si elles affectent une disposition
+quelconque du Contrat, on fera une réévaluation
+équitable</p>
+<ol type="i">
+<li value="1">du coût estimatif ou du calendrier de livraison,
+ou des deux, et</li>
+<li value="2">des autres articles du Contrat pouvant être mis en
+cause, et le Contrat sera modifié par écrit en
+conséquence. Toute demande de réévaluation de la
+part de l'Entrepreneur en vertu de cette clause devra parvenir,
+dûment justifiée, à la <abbr title="Corporation commerciale canadienne">CCC</abbr> dans les vingt (20) jours
+suivant la réception de l'avis de modification : pourvu,
+toutefois, que la <abbr title="Corporation commerciale canadienne">CCC</abbr>, si elle décide que les faits justifient
+une telle réévaluation, puisse y procéder avant le
+paiement final du Contrat. Toute mésentente à
+l'égard d'une réévaluation constituera un litige sur
+une question de fait au sens de la clause de ce Contrat
+intitulée « Litiges ». Toutefois, rien dans cette
+clause ne constitue une excuse pour l'Entrepreneur à ne pas
+procéder à la réalisation du Contrat
+modifié.</li>
+</ol>
+</div></pre>

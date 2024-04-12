@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Le personnel des achats et des finances du ministère de la Défense nationale qui 
+produit la demande d'achat déterminera s'il y a lieu d'utiliser la clause 
+ci-dessous, et fournira les données manquantes.  Cette clause devrait être 
+utilisée conjointement avec la clause B4060D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur devra apposer des codes à barres sur les articles ________ (<strong><em>
+Insérer la liste</em></strong>), comprenant le numéro permanent de contrôle de système 
+(NPCS) ou le numéro de nomenclature de l'OTAN (NNO), apparaissant ailleurs 
+dans ce document ou fournis par le ministère de la Défense nationale, 
+conformément à la norme UCC/EAN-128 (<em>Uniform Code Council/EAN International</em>), 
+et précédés de l'identificateur d'application 241 dans le cas du NPCS, ou 
+encore de 7001 dans le cas du NNO.  Sous le symbole du code à barres, 
+l'entrepreneur devra apposer la traduction en clair du code.
+
+Les marques d'identification doivent être placées et appliquées 
+conformément à la norme D-02-002-001/SG-001, Norme - identification du 
+matériel appartenant aux forces canadiennes, (<em>en vigueur à la date de 
+clôture de la demande de proposition</em>) du MDN, et doivent être d'une qualité 
+telle qu'elles demeureront lisibles pendant toute la durée de vie utile 
+prévue de l'article.  Le code à barres doit être imprimé sur une matière 
+pertinente à l'article auquel il doit être joint, entre autres : des 
+articles de plastique, de métal, d'étoffe, de matériaux synthétiques ou de 
+papier, ou des articles fabriqués au moyen d'au moins deux de ces matières. 
+
+</pre>

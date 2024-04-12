@@ -1,0 +1,46 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur proposé 
+sera payé pour les travaux exécutés avant la date d'entrée en vigueur du contrat.
+
+Si cette clause est utilisée, une section intitulée: «Travaux précontractuels» 
+doit faire partie de l'énoncé des travaux afin de décrire clairement tous les 
+travaux requis exécutés par l'entrepreneur avant la date d'entrée en vigueur du 
+contrat.  
+
+Si les travaux sont terminés, l'agent de négociation des contrats doit dans ce 
+cas demander au conseiller juridique de préparer une confirmation de commande.
+
+Le deuxième paragraphe doit être supprimé si le client ne désire pas conserver 
+les droits de propriété intellectuelle.
+
+Utiliser cette clause en conjonction avec la clause C0210C.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les parties reconnaissent que l'entrepreneur a commencé,
+à partir du <var title="insérer la date">_____</var> avec le consentement du
+ <span class="input-required"><var>_____</var> , <kbd>(<i><strong>insérer le nom du
+ministère client</strong></i>)</kbd></span> et sans contrat écrit,
+à exécuter les travaux requis en vertu du contrat
+(travaux précontractuels) et qu'il a engagé des
+coûts pour l'exécution de ces travaux. Les coûts
+engagés par l'entrepreneur pour l'exécution des travaux
+précontractuels, qui auraient été traités comme
+des coûts raisonnablement et correctement engagés s'ils
+avaient été engagés avant la date d'entrée en
+vigueur du contrat, lui seront payés conformément à
+la base de paiement du contrat sous réserve de l'acceptation
+des travaux précontractuels par le Canada. L'entrepreneur
+convient que sur paiement de ces coûts par le Canada à
+l'entrepreneur, le Canada sera dégagé et libéré
+de façon définitive de toute action, réclamation,
+poursuite ou exigence relative aux travaux
+précontractuels.</p>
+<p>Les parties confirment que le droit d'auteur relatif aux travaux
+précontractuels appartient au Canada et que tous les droits de
+propriété intellectuelle touchant toute l'information de
+nature scientifique, technique ou artistique relative aux travaux,
+sous quelque forme ou sur quelque support que ce soit, conçue,
+élaborée ou produite par l'entrepreneur dans
+l'exécution des travaux précontractuels appartiennent au
+Canada.</p>
+</div></pre>

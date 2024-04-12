@@ -1,0 +1,42 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsque les 
+biens sont fournis pas un entrepreneur établi au Canada.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   D5510C
+  
+  ,
+  
+   D5604C
+  
+  ou
+  
+   D5605C
+  
+  dans la partie
+ « clauses du contrat subséquent » de la demande de soumissions.  
+Au moment de l'attribution du contrat, utiliser cette clause en conjonction avec
+  
+   D5510C
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   D5620C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>À moins d'avis contraire du responsable de l'assurance de
+la qualité du ministère de la Défense nationale
+(MDN), la signature du représentant de l'assurance de la
+qualité du <abbr title="Ministère de la Défense nationale">MDN</abbr> n'est pas exigée sur le document de
+sortie.</p>
+<p>Le matériel doit être libéré aux fins d'expédition au moyen du formulaire FC1280 du <abbr title="Ministère de la Défense nationale">MDN</abbr>, Certificat de libération, d'inspection et de réception, ou d'un document de sortie contenant les mêmes données.  L'entrepreneur doit préparer le(s) document(s) de sortie.</p>
+<p>Pour retourner du matériel de réparation et de révision à la Chaîne d’approvisionnement de la Défense, utiliser le formulaire DND 2227/DND 2228 au lieu de FC1280.</p></div></pre>

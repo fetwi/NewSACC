@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions et les contrats 
+quand les réquisitions du MDN spécifient l'inspection par un représentant de 
+l'assurance de la qualité du MDN à destination.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur a la responsabilité d'exécuter ou de faire exécuter toutes 
+les inspections et les essais nécessaires afin de confirmer que le matériel 
+ou les services fournis sont conformes aux dessins, spécifications et 
+exigences du Contrat incluant toutes exigences techniques afférentes aux 
+numéros de pièce spécifiques du fabriquant.
+
+Tout le matériel fourni en vertu du présent Contrat peut-être sujet à une 
+   inspection par un représentant de l'assurance de la qualité du ministère 
+   de la Défense nationale, à destination. 
+</pre>

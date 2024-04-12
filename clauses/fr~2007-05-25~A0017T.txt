@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsqu'un dépouillement public des soumissions aura lieu. Les agents de négociation des contrats doivent insérer l'endroit, l'heure et la date du dépouillement public des soumissions.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Un dépouillement public des soumissions aura lieu à
+<span class="input-required"><var>_________</var> <kbd>(<em>insérer
+l'endroit</em>)</kbd></span>, à <span class="input-required"><var>__________</var> <kbd>(<em>insérer l'heure et
+le fuseau horaire</em>)</kbd></span>, le <span class="input-required"><var>__________</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>.</p>
+</div></pre>

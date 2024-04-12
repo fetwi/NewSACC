@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La longueur minimum de toute pièce de fil/câble sera
+de <var>_____</var> pieds. La longueur totale du fil/câble de
+chaque dévidoir n'aura pas moins de <var>_____</var> pieds,
+mais pas plus de <var>_____</var> pieds.</p>
+<p>Chaque dévidoir
+portera clairement le nombre et la longueur des pièces de
+fil/câble. On indiquera clairement la longueur de chaque
+pièce de fil/câble.</p>
+</div></pre>

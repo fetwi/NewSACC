@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats pour définir les exigences 
+relatives à l'emballage des travaux d'imprimerie.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit emballer les travaux selon la publication
+intitulée « <cite>Guide
+d'emballage des produits d'imprimerie</cite> ».</p>
+</div></pre>

@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'il y a une option d'achat de biens et(ou) de services additionnels. Pour le deuxième paragraphe, les agents de négociation de contrats doivent choisir une des trois options pour compléter la clause et supprimer les options non utilisées.
+ </p>
+<p>
+  Utiliser l'option 1 lorsque le Canada peut exercer l'option à n'importe quel moment avant l'expiration du contrat. Utiliser l'option 2 lorsque le Canada doit exercer l'option avant une date précise pendant la période du contrat. Utiliser l'option 3 lorsque le Canada doit exercer l'option à l'intérieur d'une période suivant l'attribution du contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur accorde au Canada l'option irrévocable
+d'acquérir les biens, les services ou les deux, qui sont
+décrits à <var>_________</var> du contrat selon les
+mêmes conditions et aux prix et(ou) aux taux établis dans
+le contrat. Cette option ne pourra être exercée que par
+l'autorité contractante et sera confirmée, pour des
+raisons administratives seulement, par une modification au
+contrat.</p>
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+L'autorité contractante peut exercer l'option à
+n'importe quel moment avant la date d'expiration du contrat en
+envoyant un avis écrit à l'entrepreneur.</li>
+<li><strong>OU</strong>
+<br/>
+<h2>Option 2</h2>
+L'autorité contractante peut exercer l'option à
+n'importe quel moment avant le <span class="input-required"><var>_________</var> <kbd>(<em>insérer la
+date</em>)</kbd></span> en envoyant un avis écrit à
+l'entrepreneur.</li>
+<li><strong>OU</strong>
+<br/>
+<h2>Option 3</h2>
+L'autorité contractante peut exercer l'option dans les
+<span class="input-required"><var>_________</var> <kbd>(<em>insérer
+le nombre de jours ou de mois</em>)</kbd></span> de la date
+d'émission du contrat en envoyant un avis écrit à
+l'entrepreneur.</li>
+</ul>
+</div></pre>

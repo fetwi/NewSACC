@@ -1,0 +1,19 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour le ministère de la Défense nationale lorsqu'un état détaillé d'approvisionnement est exigé.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B4060C
+  
+  et
+  
+   B4061C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les soumissionnaires doivent indiquer le coût de l'état détaillé d'approvisionnement (EDA) ainsi que de la documentation connexe exigée dans leur soumission.</p>
+</div></pre>

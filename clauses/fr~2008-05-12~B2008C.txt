@@ -1,0 +1,41 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque les institutions 
+mentionnées aux annexes I, I.1 et II de la Loi sur la gestion des finances 
+publiques doivent se conformer aux normes sur la Normalisation des sites 
+Internet (NSI) développées par le du Conseil du Trésor (CT).
+
+Les normes sur la NSI favorisent une présentation uniforme et prévisible des 
+services gouvernementaux et de leur contenu en simplifiant ainsi les 
+interactions en direct entre le gouvernement du Canada et les canadiens.  La NSI 
+comprend les normes sur les adresses Web, la présentation commune des pages Web, 
+l'accessibilité, le courriel, l'interopérabilité et la facilité d'emploi des 
+sites Web.
+
+Les normes sont révisées de façon périodique par le CT; la version la plus 
+récente se retrouve à l'adresse suivante : 
+http://www.tbs-sct.gc.ca/cio-dpi/pols_f.asp.
+
+Tout contrat pour des biens ou services électroniques reliés à un site Web 
+public, à un sous-site Web public ou à une application Web publique du 
+gouvernement du Canada et exécutés pour un ministère ou un organisme mentionné 
+en annexe de la Loi tel que mentionné ci-haut doit contenir une clause référant 
+à l'obligation pour l'entrepreneur de se conformer à la plus récente version des 
+normes sur la NSI.
+
+Les normes sur la NSI peuvent être complétées par des normes et directives 
+développées par chaque institution.  Il est également nécessaire d'y référer.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux doivent se conformer aux normes établies par le du Conseil du 
+Trésor (CT) sous la politique sur la Normalisation des sites Internet 
+disponible à l'adresse suivante : http://www.tbs-sct.gc.ca/cio-dpi/pols_f.asp.
+
+Les travaux doivent aussi se conformer aux normes et directives qui peuvent 
+être développées par le ministère ou l'organisme pour lequel les travaux 
+sont exécutés et qui sont complémentaires à la politique du CT.  Ces normes 
+et directives sont disponibles au Centre d'expertise sur la NSI de ce 
+ministère ou organisme.  Pour TPSGC, communiquer avec le Centre d'expertise 
+de la Planification et des normes Web à : PlanificationWeb-WebPlanning@
+tpsgc.gc.ca.
+
+
+</pre>

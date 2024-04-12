@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions, dans la section portant sur la préparation des soumissions financières.
+ </p>
+<p>
+  Utiliser la clause 1 lorsque le soumissionnaire doit proposer des prix fermes pour tous les articles; ou la clause 2 lorsque le soumissionnaire doit proposer des prix fermes pour un ou plusieurs groupes d'articles. Supprimer la clause non utilisée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+<h2>Clause 1</h2>
+Les soumissionnaires doivent proposer des prix fermes pour tous les articles énumérés dans l'(les) annexe(s) « <var>____</var> ».
+</li>
+<li>
+<strong>OU</strong><br/>
+<h2>Clause 2</h2>
+Les soumissionnaires doivent proposer des prix fermes pour un ou plusieurs groupes d'articles. Les soumissionnaires doivent toutefois proposer des prix fermes pour tous les articles faisant partie du ou des groupes pour lequel ou lesquels ils proposent des prix. Les groupes d'articles sont les suivants :
+
+<ol type="a">
+<li value="1">Groupe A : Tous les articles énumérés
+à l'annexe « <var>____</var> »</li>
+<li value="2">Groupe B : Tous les articles énumérés
+à l'annexe « <var>____</var> »</li>
+<li value="3">Groupe C : Tous les articles énumérés
+à l'annexe « <var>____</var> »</li>
+<li value="4">Groupe D : Tous les articles énumérés
+à l'annexe « <var>____</var> ».</li>
+</ol>
+</li>
+</ul>
+</div></pre>

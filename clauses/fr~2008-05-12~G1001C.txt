@@ -1,0 +1,61 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Les risques liés aux travaux prévus au contrat devraient être identifiés et 
+évalués pour déterminer s'il faut inclure au contrat des exigences particulières 
+en matière d'assurance. Tous les contrats doivent inclure la clause suivante ou 
+la clause
+ 
+  G1005C
+ 
+ , selon le cas.
+
+Utiliser la clause suivante lorsque le contrat contient des exigences 
+particulières en matière d'assurance. Les agents de négociation des contrats 
+doivent insérer dans une annexe au contrat les clauses d'assurance applicables 
+contenues dans la Section 5-G du guide des
+ <cite>
+
+   clauses et conditions uniformisées d'achat
+  
+</cite>
+ .  
+Pour toute autre exigence en matière d'assurance, communiquer avec les 
+Services consultatifs de gestion des risques de
+ <abbr title="Travaux publics et Services gouvernementaux Canada">
+  TPSGC
+ </abbr>
+ , à :
+ 
+  NCR.RMIAS-SCGRA@tpgsc.gc.ca
+ 
+ .
+
+Utiliser la clause
+ 
+  G1005C
+ 
+ lorsque le contrat ne contient pas d'exigences 
+particulières en matière d'assurance.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit respecter les exigences en matière
+d'assurance prévues à l'annexe <var>____</var> .
+L'entrepreneur doit maintenir la couverture d'assurance exigée
+pendant toute la durée du contrat. Le respect des exigences en
+matière d'assurance ne dégage pas l'entrepreneur de sa
+responsabilité en vertu du contrat, ni ne la diminue.</p>
+<p>L'entrepreneur est responsable de décider si une assurance
+supplémentaire est nécessaire pour remplir ses
+obligations en vertu du contrat et pour se conformer aux lois
+applicables. Toute assurance supplémentaire souscrite est
+à la charge de l'entrepreneur ainsi que pour son
+bénéfice et sa protection.</p>
+<p>L'entrepreneur doit faire parvenir à l'autorité
+contractante, dans les dix (10) jours suivant la date d'attribution
+du contrat, un certificat d'assurance montrant la couverture
+d'assurance et confirmant que la police d'assurance conforme aux
+exigences est en vigueur. L'assurance doit être souscrite
+auprès d'un assureur autorisé à faire affaire au
+Canada. L'entrepreneur doit, à la demande de l'autorité
+contractante, transmettre au Canada une copie certifiée de
+toutes les polices d'assurance applicables.</p>
+</div></pre>

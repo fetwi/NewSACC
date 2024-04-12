@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>NOTA 1 :      Cette clause constitue une déviation à la spécification 
+              concernant les instructions du marquage et d'étiquetage 
+              d'entretien.
+
+1.     Les étiquettes devront être clairement marquées en conformité avec 
+       ce qui suit :
+
+       a)     Marquage : Une étiquette doit être placée à l'endroit précisé 
+              dans les  données techniques.  L'étiquette et le marquage 
+              doivent être conformes à l'instruction D-80-001-055/SF-001. 
+              Les marquages, dont les caractères doivent être au moins 1/8 
+              po (3.2 mm) de hauteur mais ne pas dépasser une hauteur de 1/
+              4 po (6.3 mm) doivent fournir les renseignements suivants :
+
+              (1)    le numéro du contrat;
+              (2)    le numéro de nomenclature de l'OTAN (numéro qui sera 
+                     indiqué sur le contrat pour l'article ou la taille);
+              (3)    l'indication de la taille (voir l'échelle de mesure); 
+                     et
+              (4)    la date du début de la production (mois et année).
+
+                     Exemple :     W8463-2-BD0W/01-PC
+                                   8415-21-909-7043
+                                   6732
+                                   12 1992
+
+NOTA 2 :      S'il est impossible de marquer les articles de la façon 
+              décrite ci-haut, le numéro de nomenclature de l'OTAN doit 
+              être gravé ou inscrit de façon indélébile dans la mesure du 
+              possible.
+
+       b)     Étiquetage d'entretien : D'après les données techniques en 
+              utilisant les symboles d'entretien établis conformément à la 
+              norme CAN/CGSB-86.1 et tel que spécifié à la description de 
+              l'article dans la présente.
+
+</pre>

@@ -1,0 +1,74 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser cette clause dans toutes les demandes de soumissions et tous les 
+contrats à quai dédouané passés au nom de l'
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ , s'il y a expédition par mer 
+sur une base à quai (Incoterms 1980).  Il n'est habituellement pas nécessaire 
+d'assurer les marchandises dans le cas des projets subventionnés par l'
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ . 
+Dans des projets à quai, l'assurance maritime jusqu'à destination n'est 
+définitivement pas l'affaire de la Couronne.  (On doit adapter la distribution 
+des documents selon les exigences du projet.)
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Marchandises dangereuses :</h2>
+<ol type="1">
+<li value="1">Il faudra inclure pour chaque marchandise dangereuse
+des renseignements quant à la nature, à la quantité
+et au numéro des Nations Unies, conformément au Code
+maritime international des marchandises dangereuses et aux derniers
+règlements de l'Association du transport aérien
+international.</li>
+<li value="2">Si le fournisseur ne se conforme pas à cette
+exigence, ce dernier sera passible de sanctions pouvant être
+prises par les responsables du règlement.</li>
+<li value="3">Les documents doivent être distribués comme
+suit :
+<ol type="a">
+<li value="1">À l'Agence canadienne de développement
+international (ACDI), à l'adresse à laquelle les factures
+doivent être envoyées :
+<ol type="1">
+<li value="1">l'original et quatre (4) exemplaires de la facture
+commerciale à l'intention de l'<abbr title="Agence canadienne de développement international">ACDI</abbr>;</li>
+</ol>
+<p>L'entrepreneur doit ajouter la mention suivante sur chacune des
+factures :</p>
+<blockquote>« Nous certifions que les prix indiqués sur la
+facture excluent la taxe sur les produits et services, la taxe de
+vente harmonisée, la taxe de vente, les droits de douane
+remboursables et la taxe d'accise payés à l'égard
+des marchandises ou des pièces et des composantes
+incorporées aux marchandises. »</blockquote>
+<ol type="1">
+<li value="2">cinq (5) exemplaires de la liste de caisses;</li>
+<li value="3">un (1) exemplaire du rapport d'inspection, si le contrat
+exige une inspection;</li>
+<li value="4">rapport de livraison.</li>
+</ol>
+</li>
+<li value="2">Au destinataire :
+<ol type="1">
+<li value="1">deux (2) exemplaires de connaissements non
+négociables;</li>
+<li value="2">deux (2) exemplaires de la facture commerciale;</li>
+<li value="3">deux (2) exemplaires de la liste de caisses.</li>
+</ol>
+</li>
+<li value="3">À l'autorité contractante de Travaux
+publics et Services gouvernementaux : un (1) exemplaire de la
+facture commerciale.
+<p><strong>Paiement</strong> : Fonction des factures commerciales
+et documents ci-dessus attestés par l'<abbr title="Agence canadienne de développement international">ACDI</abbr>. Le Rapport de
+livraison est le document critique pour le paiement. Il remplace le
+connaissement original utilisé pour les autres termes de
+vente, tels que C. &amp; F. ou C.A.F.</p></li>
+</ol>
+</li>
+</ol>
+</div></pre>

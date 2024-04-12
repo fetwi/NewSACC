@@ -1,0 +1,63 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les publications constituant des articles livrables complets doivent 
+       être produites conformément aux spécifications suivantes :
+
+       a)     <strong>Présentation</strong>
+
+              Le numéro le plus récent du document C-01-100-100/AG-002 - 
+              Préparation des manuscrits techniques par les entrepreneurs.
+
+              Le numéro le plus récent du document C-01-100-100/AG-003 - 
+              Production de documents reproductibles pour les publications 
+              techniques du ministère de la Défense nationale.
+
+              Le numéro le plus récent du document C-01-100-100/AG-005 - 
+              Acceptation des publications commerciales et de gouvernements 
+              étrangers à titre de publications adoptées.
+
+       b)     <strong>Approvisionnement</strong>
+
+              Le numéro le plus récent du document D-01-000-100/SF-000 - 
+              Spécification pour l'achat de services d'édition et 
+              d'ouvrages publiés.
+
+       c)     <strong>Emballage</strong>
+
+              Le numéro le plus récent du document D-LM-008-022/SG-000 - 
+              Normes d'emballage de la documentation.
+
+       d)     <strong>Politique et procédures</strong>
+
+              Le numéro le plus récent du document A-AD-100-100/AG-000 - 
+              Politique d'édition et procédures d'administration de la 
+              Défense nationale.
+
+       e)     <strong>Contenu technique</strong>
+
+              Le contenu technique doit respecter les exigences du numéro 
+              le plus récent des spécifications suivantes :
+
+              D-01-100-200/SF-000 - Rédaction des fiches techniques de 
+              matériel;
+              D-01-100-202/SF-000 - Rédaction des descriptions de 
+              l'équipement;
+              D-01-100-203/SF-000 - Rédaction des notices de fonctionnement;
+              D-01-100-204/SF-000 - Rédaction des notices d'entretien 
+              préventif;
+              D-01-100-205/SF-000 - Rédaction des notices d'entretien 
+              correctif;
+              D-01-100-207/SF-000 - Rédaction des listes de désignation des 
+              pièces.
+
+       f)     <strong>Assurance de la qualité</strong>
+
+              L'entrepreneur doit respecter le Programme d'assurance de la 
+              qualité précisé dans le numéro le plus récent des documents 
+              C-01-100-100/AG-002 et C-01-100-100/AG-003.
+
+2.     Le responsable technique peut prescrire d'autres spécifications en 
+       ce qui concerne toute publication à livrer en particulier.
+
+</pre>

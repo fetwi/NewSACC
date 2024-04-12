@@ -1,0 +1,43 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la commande ou le contrat étranger (É.U.) 
+précise qu'une inspection doit être effectuée par le gouvernement, à l'usine 
+(FAR 52.246, MIL-I-45208, MIL-Q-9859, AQAP 110, AQAP 120, AQAP 130, AQAP 131, 
+AQAP 150, ISO 9001, ISO 9002 et ISO 9003).
+
+Indiquer dans le contrat de la CCC le numéro de la norme de qualité précisée 
+dans la commande ou le contrat étranger (É.U.).  Inscrire le nom de la ville et 
+le numéro de téléphone de la Région de l'assurance de la qualité de la Défense 
+nationale le plus près de l'adresse de l'entrepreneur :
+
+Atlantique - Halifax		(902) 427-7224 ou (902) 427-7150
+Québec - Montréal		(514) 732-4410 ou (515) 732-4477
+Québec - Ville de Québec	(418) 694-5998, poste 5996
+National Capital - Ottawa	(819) 994-1879
+Ontario - Toronto		(416) 635-4404, poste 6081 ou 6075
+Ontario - London		(519) 964-5757
+Manitoba/Saskatchewan - Winnipeg	(204) 833-2500, poste 6574
+Alberta - Calgary		(403) 410-2320, poste 3830
+Alberta - Edmonton		(780) 890-6348
+Vancouver			(604) 225-2520, ext. 2460
+Victoria			(250) 363-5409
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Tous les travaux sont assujettis à l'assurance officielle de la 
+       qualité aux installations de l'entrepreneur ou à celles des 
+       sous-traitants qui sera effectuée par le Directeur général des 
+       services des programmes d'équipement du ministère de la Défense 
+       nationale (MDN), appelé représentant de l`assurance de la qualité 
+       (RAQ).  L'entrepreneur doit, dans les quarante-huit (48) heures 
+       suivant la réception de ce contrat, prendre les arrangements 
+       nécessaires avec le RAQ de la Défense nationale qui s'occupe 
+       ordinairement de son usine.  Le nom, l'adresse et le numéro de 
+       téléphone peuvent être obtenus de la Région de l'assurance de la 
+       qualité de la Défense nationale de _____, (<strong>Inscrire le nom de la 
+       ville</strong>), _____ (<strong>Inscrire le numéro de téléphone</strong>).
+
+2.     L'entrepreneur doit se conformer aux exigences de la norme de 
+       qualité : _____.
+
+
+
+</pre>

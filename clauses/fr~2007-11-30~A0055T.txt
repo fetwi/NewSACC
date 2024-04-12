@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions exigeant que toutes les soumissions comprennent des sections distinctes.  En règle générale, les sections comportent une soumission technique et une soumission financière, mais elles peuvent aussi comprendre une soumission de gestion ou d'autres sections.
+ </p>
+<p>
+  Les agents de négociation des contrats peuvent supprimer la section « soumission de gestion » et ajouter d'autres sections, s'il y a lieu.
+ </p>
+<p>
+  Utiliser la clause suivante seulement lorsque le modèle pour les besoins de complexité moyenne (2T-MED1) ou plus complexes (2T-HIGH1) n'est pas utilisé. Les agents de négociation des contrats doivent consulter les procédures 2T-PROC1 afin de confirmer qu'ils ne peuvent pas utiliser le modèle pour le besoin.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada demande que les soumissionnaires fournissent leur soumission en sections distinctes, comme suit :
+<ol type="a">
+<li value="1">soumission technique (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques)  sur <var>____</var>  » (et préciser le média tel que CD, DVD</em></kbd>);</li>
+<li value="2">soumission financière (<var>____</var> (<kbd><i>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</i></kbd>);</li>
+<li value="3">soumission de gestion (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</em></kbd>);</li>
+<li value="4"><var>__________</var> (<var>____</var> (<kbd><em>exemplaires papier) (s'il y a lieu, ajouter « et <var>____</var> (copies électroniques) sur <var>____</var> », (et préciser le média tel que CD, DVD</em></kbd>);</li>
+</ol>
+<p class="description"><strong>Instruction aux agents de négociation des contrats :</strong> Insérer le paragraphe suivant lorsque des copies électroniques sont requises; si des copies électroniques ne sont pas requises, supprimer le paragraphe et cette instruction.</p>
+<blockquote>En cas d'incompatibilité entre le libellé des textes, le libellé de la version papier l'emportera sur celui de la version électronique.</blockquote></li>
+<li value="2">Les prix doivent figurer dans la soumission financière seulement. Aucun prix ne doit être indiqué dans une autre section de la soumission.</li>
+</ol>
+</div></pre>

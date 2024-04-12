@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions exigeant que toutes 
+les soumissions comprennent des sections distinctes.  En règle générale, les 
+sections comportent une soumission technique et une soumission financière, mais 
+elles peuvent aussi comprendre une soumission de gestion ou d'autres sections.
+
+Les agents de négociation des contrats peuvent supprimer la section « soumission 
+de gestion » et ajouter d'autres sections, s'il y a lieu.
+
+Utiliser la clause suivante seulement lorsque les modèles pour les besoins de 
+complexité moyenne (2T-MED1) et plus complexes (2T-HIGH1) ne sont pas utilisés. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les soumissionnaires doivent fournir les exemplaires de leur 
+       soumission en sections distinctes, comme suit :
+
+       a)     soumission technique (____ exemplaires papier) (ajouter « et ____ 
+              copies électroniques », s'il y a lieu);
+       b)     soumission financière (_____ exemplaires papier) (ajouter « 
+              et ____ copies électroniques », s'il y a lieu);
+       c)     soumission de gestion (_____ exemplaires papier) (ajouter « 
+              et ____ copies électroniques », s'il y a lieu);
+       d)     __________ (_____ exemplaires papier) (ajouter « et ____ 
+              copies électroniques », s'il y a lieu).
+
+2.     Les prix doivent figurer dans la soumission financière seulement.  
+   Aucun prix ne doit être indiqué dans une autre section de la soumission.
+</pre>

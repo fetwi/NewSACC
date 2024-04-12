@@ -1,0 +1,787 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>CCC50  00     (01/12/00)    Corporation commerciale canadienne (contrats 
+                            autres que de défense)</strong>
+
+
+<strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Pouvoirs de la Corporation
+03     Cession et sous-traitance
+04     Exécution des travaux
+05     L'Inspecteur est le juge définitif des travaux
+06     Réfection des travaux rejetés
+07     Réception et livraison
+08     Garantie
+09     Fournitures de l'État
+10     Rebuts, etc.
+11     Soins à apporter aux biens de la Couronne; assurance
+12     L'importance des délais; prolongations
+13     Comptes
+14     Discrétion et protection des travaux
+15     Réclamations et redevances de brevets
+16     Main-d'oeuvre et matériaux canadiens - <strong>ANNULÉ</strong>
+17     Conditions préalables à tout paiement
+18     Protection contre les créances
+19     Dévolution du titre de propriété lors des paiements partiels
+20     Confirmation de titres
+21     Suspension du travail et modification des devis
+22     Non-exécution du contrat
+23     Aucun acte de corruption, etc.
+24     Conditions de travail et règles d'hygiène
+25     Membres de la Chambre des communes
+26     Avis
+27     Arbitrage
+28     Résiliation
+29     Devises étrangères
+30     Certification - Honoraires conditionnels
+31     Intérêt sur les comptes en souffrance
+
+
+<strong>CCC50  01     (12/05/00)    Interprétation</strong>
+
+1.     Sauf si le contexte s'y oppose,
+
+       « <em>ci-inclus », « par les présentes », « de ce contrat », « 
+       ci-dessous</em> » et autres expressions semblables, s'appliquent à 
+       l'ensemble du contrat;
+
+       « <em>Conditions supplémentaires</em> » signifie toutes autres conditions 
+       générales faisant partie du <em>contrat</em>;
+
+       « <em>contrat</em> » désigne et comprend la <em>convention</em>, les présentes 
+       conditions générales et toutes autres conditions générales 
+       supplémentaires, <em>devis</em>, conditions de travail, annexes et autres 
+       documents (s'il en est) dont il est question dans la <em>convention</em> 
+       comme faisant partie du <em>contrat</em>;
+
+       « <em>convention</em> » signifie la <em>convention</em> particulière ou le <em>contrat</em> 
+       dont, dans tous les cas précis, les présentes conditions générales 
+       font partie;
+
+       « <em>Corporation</em> » signifie la Corporation commerciale canadienne;
+
+       « <em>devis</em> » signifie le <em>devis</em>, les plans, les dessins, les modèles et 
+       (ou) les maquettes (s'il en est) dont il est question dans la <em>
+       convention</em> et (ou) qui sont fournis par l'entrepreneur pour 
+       l'exécution du <em>contrat</em>;
+
+       « <em>fournitures de l'État</em> » signifie tous les matériaux, pièces, 
+       éléments, équipements, <em>devis</em>, articles et choses qui peuvent être 
+       fournis à l'entrepreneur par ou au nom de Sa Majesté, aux fins des <em>
+       travaux</em>;
+
+       « <em>inspecteur</em> » signifie la personne (s'il en est) désignée comme 
+       telle dans la <em>convention</em> ou dans les <em>Conditions générales 
+       supplémentaires</em> (s'il en est) et (ou) toute personne qui pour le 
+       moment agit au nom de Sa Majesté ou de la <em>Corporation</em> comme étant l'<em>
+       inspecteur</em> en vertu du <em>contrat</em>;
+
+       « matériel » comprend la machinerie, les appareils, les gabarits, 
+       les outils, les matrices, les calibres, les instruments et 
+       l'équipement de toute sorte;
+
+       « <em>prix contractuel</em> » signifie le montant, indiqué dans la <em>convention</em>, 
+       qui est payable à l'entrepreneur pour les <em>travaux</em>, peu importe si le <em>
+       contrat</em> comporte un prix stipulé ou s'il est en régie intéressée;
+
+       « <em>sociétés connexes</em> » signifie toute société ou <em>Corporation</em> qui, 
+       directement ou indirectement, contrôle l'entrepreneur ou est 
+       contrôlée par l'entrepreneur ou affiliée à lui, et comprend toute 
+       personne qui, directement ou indirectement, contrôle l'entrepreneur 
+       ou toute société ou <em>Corporation</em>;
+
+       « <em>travaux</em> » signifie les <em>travaux</em> exécutés ou que l'entrepreneur est 
+       tenu d'exécuter afin de satisfaire au <em>contrat</em> et, où le contexte ne 
+       s'y oppose pas, comprend les services, les <em>travaux finis</em>, les <em>
+       travaux</em> en voie d'exécution et toutes les pièces, tous les matériaux, 
+       éléments, articles et choses utilisés ou qu'on se propose d'utiliser, 
+       ou requis pour exécuter le <em>contrat</em>;
+
+       « <em>travaux finis</em> » signifie les approvisionnements et (ou) les 
+       services et (ou) les projets et (ou) les <em>travaux</em> qui font l'objet du <em>
+       contrat</em>, lorsqu'ils sont achevés en conformité du <em>contrat</em>;
+
+       le singulier comprend le pluriel et vice versa.
+
+2.     En cas d'incompatibilité, les dispositions de la <em>convention</em> et (ou) 
+       des présentes conditions générales l'emportent sur le <em>devis</em> (s'il en 
+       est), et les dispositions de la <em>convention</em> et des <em>Conditions 
+       générales supplémentaires</em> (s'il en est) l'emportent sur les 
+       présentes conditions générales.
+
+
+<strong>CCC50  02     (06/91)       Pouvoirs de la Corporation</strong>
+
+La <em>Corporation</em> est l'agent de Sa Majesté à toutes les fins du <em>contrat</em>.
+
+<strong>CCC50  03     (12/05/00)    Cession et sous-traitance</strong>
+ 
+1.     L'entrepreneur ne peut céder ou accorder le <em>contrat</em> ou une partie 
+       quelconque du <em>contrat</em> en sous-traitance, sans au préalable avoir 
+       obtenu le consentement par écrit de la <em>Corporation</em>, et toute cession 
+       ou toute sous-traitance accordée sans ce consentement est sans effet; 
+       il est entendu (sauf disposition contraire de la <em>Corporation</em> ou du <em>
+       contrat</em>) que l'entrepreneur peut accorder en sous-traitance les 
+       parties des <em>travaux</em> qui sont ordinairement accordées en 
+       sous-traitance en pareil cas.  L'entrepreneur, sans tarder, doit 
+       fournir à la <em>Corporation</em> tous les détails de toutes les 
+       sous-traitances.  Nulle cession ou sous-traitance ne soustrait 
+       l'entrepreneur à l'une quelconque de ses obligations prévues dans le <em>
+       contrat</em>, ni n'impose à Sa Majesté ou à la <em>Corporation</em> une 
+       responsabilité quelconque à l'endroit d'un cessionnaire ou 
+       sous-traitant.
+
+2.     Sous réserve de ce qui précède, le <em>contrat</em> prend effet à l'avantage 
+       des successeurs et ayants droit de Sa Majesté et de l'entrepreneur, 
+       respectivement, et est obligatoire pour eux.
+
+
+<strong>CCC50  04     (06/91)       Exécution des travaux</strong>
+
+1.     L'entrepreneur doit exécuter les <em>travaux</em> avec diligence et les 
+       surveiller et les inspecter efficacement; il est chargé de voir à ce 
+       que les <em>travaux</em> soient de bonne qualité, d'une bonne façon et 
+       exécutés avec de bons matériaux, conformément aux exigences du <em>
+       contrat</em>.
+
+2.     La nature et l'esprit du <em>contrat</em> sont d'assurer que les <em>travaux</em> 
+       énumérés aux présentes soient complètement achevés dans tous les 
+       détails aux fins prescrites; et l'entrepreneur convient de fournir 
+       tout ce qui est nécessaire à ces fins, nonobstant toute omission 
+       dans les dessins ou les <em>devis</em>.
+
+3.     L'entrepreneur doit s'adresser à la <em>Corporation</em> pour obtenir toute 
+       explication dont il peut avoir besoin au sujet du sens et de 
+       l'intention d'une clause quelconque des <em>devis</em> et du <em>contrat</em>, et il 
+       est tenu responsable de toute erreur ou perte résultant de sa 
+       négligence à obtenir ces renseignements.
+
+4.     Les dessins et les <em>devis</em> sont censés se compléter l'un l'autre, de 
+       sorte que si des choses qui figurent sur les dessins ne sont pas 
+       mentionnées dans les <em>devis</em>, ou vice versa, ces choses seront 
+       fournies et construites comme si elles étaient spécifiquement 
+       indiquées dans les deux.  Si l'on découvre des écarts dans les 
+       dessins ou s'il y a conflit entre les dessins et les <em>devis</em>, ces 
+       écarts sont portés à l'attention de la <em>Corporation</em> avant que les <em>
+       travaux</em> ne soient exécutés.  Les cotes sur les dessins l'emportent.
+
+5.     Les matériaux utilisés doivent être conformes aux <em>devis</em>, qu'ils 
+       figurent ou non sur les dessins de la <em>Corporation</em> ou de 
+       l'entrepreneur.
+
+6.     Le fait que la <em>Corporation</em> approuve les dessins de l'entrepreneur 
+       n'enlève pas à ce dernier la charge d'y apporter les corrections 
+       voulues, ni la responsabilité des conséquences que peuvent avoir les 
+       erreurs ou omissions.
+
+7.     Nul matériau ni pièce ne peut être utilisé ou transformé et nul 
+       travail fini ne peut être soumis à l'agrément de la <em>Corporation</em> ni 
+       livré à moins ou avant que le personnel d'inspection de 
+       l'entrepreneur ne les ait approuvés, et là où c'est possible, les <em>
+       travaux</em> doivent porter un timbre d'approbation conforme aux 
+       exigences de l'<em>inspecteur</em>. L'entrepreneur doit conserver des 
+       dossiers d'inspection convenables et satisfaisants auxquels l'<em>
+       inspecteur</em> peut avoir accès en tout temps pour les examiner, en 
+       faire des copies et en tirer des extraits.
+
+8.     La <em>Corporation</em> et l'<em>inspecteur</em> ont accès aux <em>travaux</em> en tout temps 
+       et peuvent faire les essais qu'ils jugent opportuns.  L'entrepreneur 
+       doit fournir toute l'aide et toutes les installations, pièces 
+       d'essai et échantillons dont la <em>Corporation</em> ou l'<em>inspecteur</em> peut 
+       avoir besoin pour réaliser ces essais.
+
+9.     L'entrepreneur ne peut arrêter ni suspendre les <em>travaux</em> en attendant 
+       le règlement ou la solution (par arbitrage ou autrement) de tout 
+       différend touchant le <em>contrat</em>.
+
+
+<strong>CCC50  05     (06/91)       L'inspecteur est le juge définitif des travaux</strong>
+
+L'<em>inspecteur</em> est le juge définitif des <em>travaux</em>, de leur qualité et de leur 
+façon.  L'<em>inspecteur</em> a tous les pouvoirs de rejeter ou de refuser 
+d'accepter tout travail fini, toute pièce ou tout matériau ou encore tout 
+travail en voie d'exécution qu'il considère ne pas être conforme aux 
+exigences du <em>contrat</em>.  De plus, l'<em>inspecteur</em> est le seul juge pour ce qui 
+est de la signification des <em>devis</em>, le cas échéant.
+
+
+<strong>CCC50  06     (06/91)       Réfection des travaux rejetés</strong>
+
+L'entrepreneur doit refaire, sans tarder, à ses propres frais, tout travail 
+que l'<em>inspecteur</em> a refusé de recevoir ou, si la <em>Corporation</em> le préfère, 
+rembourser immédiatement tous les montants qui lui ont été préalablement 
+versés à l'égard des <em>travaux</em> rejetés ou non acceptés.
+
+
+<strong>CCC50  07     (06/91)       Réception et livraison</strong>
+
+La réception définitive par l'<em>inspecteur</em> de tout travail fini est censée 
+signifier que le travail a été livré à Sa Majesté et qu'il a été accepté 
+par Elle.  Cette réception est en outre une condition suspensive de la 
+livraison.  Il est entendu que si la <em>convention</em> prévoit un endroit ou une 
+façon particulière de faire la livraison, ladite livraison n'est pas 
+complète tant qu'elle n'est pas faite aux termes de la <em>convention</em>.  À la 
+livraison, le titre des <em>travaux</em> livrés est cédé à Sa Majesté, s'il ne lui 
+est pas encore dévolu.  Le droit de l'<em>inspecteur</em> de refuser d'accepter un 
+travail quelconque n'est pas touché par l'inspection, l'approbation ou la 
+réception préalable d'une pièce, d'un matériau ou d'un travail quelconque 
+en voie d'exécution ou fini.
+
+
+<strong>CCC50  08     (06/91)       Garantie</strong>
+
+Sans limiter la portée des autres conditions du <em>contrat</em> ou de toute 
+garantie stipulée ou découlant de la loi, l'entrepreneur, à ses propres 
+frais, doit remplacer tout article, pièce ou matériau compris dans le 
+travail (toutes <em>fournitures de l'État</em> non comprises) qui, à un moment 
+quelconque des dix-huit (18) mois qui suivent la livraison, devient 
+défectueux par suite d'une erreur ou d'un défaut de fabrication ou de façon 
+ou de l'emploi de mauvais matériaux.
+
+
+<strong>CCC50  09     (06/91)       Fournitures de l'État</strong>
+
+1.     Tous les articles fournis par l'État doivent être utilisés par 
+       l'entrepreneur uniquement aux fins du <em>contrat</em> et sont toujours et 
+       restent la propriété de Sa Majesté et, chaque fois que la chose est 
+       possible, l'entrepreneur marque ces articles de façon à indiquer 
+       qu'ils appartiennent à Sa Majesté.
+
+2.     Tout article fourni par l'État, trouvé endommagé ou défectueux, doit 
+       être remplacé par Sa Majesté, lorsque l'<em>inspecteur</em> certifie par 
+       écrit à la <em>Corporation</em> que les dommages ou défauts ne sont pas 
+       attribuables à l'entrepreneur ni à sa négligence.  Si l'<em>inspecteur</em> 
+       certifie que plus de 5 p. 100 des articles fournis par l'État, du 
+       même genre et type, sont endommagés ou défectueux (autrement que par 
+       la faute ou la négligence de l'entrepreneur), Sa Majesté doit 
+       dédommager l'entrepreneur pour toute perte subie par lui et 
+       directement attribuable à la proportion des articles endommagés ou 
+       défectueux dépassant 5 p. 100.
+
+3.     Tous les articles fournis par l'État (sauf ceux qui sont  installés 
+       en permanence ou qui font partie intégrante des <em>travaux</em>) doivent 
+       être, sur demande, remis à la <em>Corporation</em> dans le même état qu'ils 
+       étaient lorsqu'ils ont été fournis à l'entrepreneur; l'entrepreneur 
+       n'est pas tenu responsable des pertes ou dommages résultant de 
+       l'usure ordinaire ou de causes auxquelles, raisonnablement, il ne 
+       peut rien.
+
+
+<strong>CCC50  10     (06/91)       Rebuts, etc.</strong>
+
+Tous les rebuts ou déchets provenant d'articles fournis par l'État, ou de 
+tous autres matériaux, articles ou choses, qui appartiennent à Sa Majesté, 
+sauf indication contraire des présentes, restent la propriété de Sa Majesté 
+et doivent être utilisés conformément aux indications de la <em>Corporation</em>.
+
+
+<strong>CCC50  11     (06/91)       Soins à apporter aux biens de la Couronne; 
+                     assurance</strong>
+
+1.     L'entrepreneur doit prendre un soin raisonnable et convenable de 
+       tous les biens appartenant à Sa Majesté qui, de temps à autre, lui 
+       sont confiés et il est responsable de toute perte ou de tout dommage 
+       à ces biens résultant de sa négligence, non compris les pertes ou 
+       dommages causés par le feu ou par l'usure ordinaire.  
+2.     Sauf stipulation contraire du <em>contrat</em>, l'entrepreneur ne peut 
+       prendre d'assurance sur les biens appartenant à Sa Majesté; au cas 
+       où le <em>contrat</em> est forfaitaire, le présent paragraphe 2 n'empêche pas 
+       l'entrepreneur de faire assurer des biens dont le titre est dévolu à 
+       Sa Majesté aux termes de l'article 19 des présentes conditions 
+       générales.
+
+
+<strong>CCC50  12     (06/91)       L'importance des délais; prolongations</strong>
+
+Le temps est censé être de l'essence du <em>contrat</em>; il est entendu que le 
+temps requis pour achever un travail qui a été ou qui sera 
+vraisemblablement retardé pour des raisons de force majeure ou pour 
+d'autres causes auxquelles l'entrepreneur ne peut vraisemblablement rien, 
+peut être prolongé d'une période égale à la durée du retard ainsi causé 
+pourvu qu'un avis par écrit soit donné à la <em>Corporation</em>, de l'événement 
+ayant causé ou étant susceptible de causer un tel retard.
+
+
+<strong>CCC50  13     (06/91)       Comptes</strong>
+
+L'entrepreneur doit tenir des comptes et des registres détaillés et 
+appropriés de ce que lui coûte les <em>travaux</em> et conserver les factures, reçus 
+et pièces justificatives s'y rapportant.  Si une partie quelconque des <em>
+travaux</em> est exécutée par une société associée au Canada, l'entrepreneur 
+doit faire en sorte que cette société associée tienne aussi des comptes et 
+des registres semblables et conserve les factures, reçus et pièces 
+justificatives à l'égard du coût des <em>travaux</em> qu'elle a exécutés.  Tous ces 
+comptes, registres, factures, reçus et pièces justificatives doivent être 
+disponibles en tout temps aux fins d'examen et de vérification de la part 
+des représentants autorisés de la <em>Corporation</em> (qui ont la faculté d'en 
+tirer des copies et des extraits) et ce, pour une période de six (6) ans à 
+compter de la fin de l'année civile au cours de laquelle le <em>contrat</em> est 
+résilié ou exécuté.  L'entrepreneur doit fournir toute l'aide nécessaire à 
+ces vérifications et examens, et fournir à la <em>Corporation</em> et à ses 
+représentants autorisés tous les renseignements dont ceux-ci peuvent avoir 
+besoin à l'occasion relativement à ces comptes, registres, factures, reçus 
+et pièces justificatives.
+
+
+<strong>CCC50  14     (06/91)       Discrétion et protection des travaux</strong>
+
+1.     Le <em>contrat</em>, le <em>devis</em> et tous les renseignements donnés, utilisés ou 
+       révélés à l'égard des <em>travaux</em> sont confidentiels.  L'entrepreneur ne 
+       peut les utiliser à d'autre fin que le <em>contrat</em> sans l'autorisation 
+       écrite de la <em>Corporation</em> et, en tout temps, il doit prendre ou faire 
+       prendre toutes les mesures nécessaires à la protection des <em>travaux</em> 
+       et des articles fournis par l'État, s'il en est, contre l'espionnage, 
+       le sabotage et le feu.
+
+2.     Le <em>contrat</em>, les <em>devis</em> et les renseignements susmentionnés peuvent 
+       être classés selon les précautions à prendre pour leur sauvegarde. 
+       S'ils sont ainsi classés,
+
+       a)     les mesures que l'entrepreneur doit prendre pour leur 
+              sauvegarde comprennent celles qui sont mentionnées dans 
+              toutes instructions émises à cet égard par ou au nom de la <em>
+              Corporation</em>;
+
+       b)     à la demande de la <em>Corporation</em>, l'entrepreneur doit se 
+              dispenser des services, à l'égard des <em>travaux</em>, de toute 
+              personne employée ou engagée pour les <em>travaux</em>; et
+
+       c)     l'entrepreneur doit permettre à la <em>Corporation</em> en tout temps, 
+              par l'entremise d'un organisme jugé convenable, de prendre et 
+              de maintenir sur les lieux ou près des lieux où les <em>travaux</em> 
+              ou une partie de ceux-ci sont exécutés, des précautions ou 
+              autres mesures de protection qui, de l'avis de la <em>Corporation</em>, 
+              sont souhaitables.
+
+
+<strong>CCC50  15     (06/91)       Réclamations et redevances de brevet</strong>
+
+1.     L'entrepreneur doit indemniser la <em>Corporation</em> contre toute 
+       réclamation, poursuite, action et procédure pour toute contrefaçon 
+       ou prétendue contrefaçon de brevet, fondée sur l'utilisation d'une 
+       invention protégée par un tel brevet dans l'exécution du <em>contrat</em>, et 
+       pour les redevances ou autres paiements qui peuvent être payables à 
+       l'égard de tel brevet.
+
+2.     Sur l'avis de la <em>Corporation</em> qu'une réclamation, action, poursuite 
+       ou procédure a été faite ou intentée, l'entrepreneur, sauf si la <em>
+       Corporation</em> lui donne des directives contraires, doit mener, à ses 
+       propres frais, toutes les négociations en vue du règlement de ces 
+       différends. 
+
+<strong>CCC50  16     (04/92)       Main-d'oeuvre et matériaux canadiens</strong>
+
+<strong>ANNULÉ</strong>.
+
+
+<strong>CCC50  17     (06/91)       Conditions préalables à tout paiement</strong>
+
+1.     Aucun paiement ne peut être fait à l'entrepreneur avant que
+
+       a)     les factures, les notes d'inspection et tous autres documents 
+              prescrits de temps à autre par la <em>Corporation</em> ou l'<em>inspecteur</em> 
+              ne soient préparés, signés et présentés en conformité des 
+              termes du <em>contrat</em> ou selon les instructions données de temps 
+              à autre par la <em>Corporation</em>; et       
+
+       b)     l'entrepreneur n'établisse à la satisfaction de la <em>
+              Corporation</em> (s'il y a lieu) que tous les matériaux, pièces, <em>
+              travaux</em> en voie d'exécution et (ou) achevés à l'égard 
+              desquels le paiement est fait, sont exempts de toute créance, 
+              privilège, saisie, charge ou servitude.
+
+
+<strong>CCC50  18     (06/91)       Protection contre les créances</strong>
+
+1.     L'entrepreneur doit tenir Sa Majesté et la <em>Corporation</em> indemnes de 
+       toute créance, dommage, perte, coût et dépense pouvant, à un moment 
+       quelconque, résulter ou découler pour eux ou pour l'un d'eux
+
+       a)     de blessures corporelles (y compris les blessures mortelles), 
+              de pertes de biens ou de dommages à la propriété de tiers qui 
+              peuvent avoir été causés ou subis, ou qui peuvent être 
+              présentés comme ayant été causés ou subis, en conséquence de 
+              l'exécution des <em>travaux</em> ou de l'un quelconque de ses éléments; 
+              et (ou)
+
+       b)     de privilèges, saisies, charges ou autres servitudes ou 
+              créances frappant ou visant quelque matériau, élément, 
+              ouvrage en cours ou Travail fini livré à Sa Majesté ou ayant 
+              fait l'objet d'un paiement de la part de Sa Majesté ou de la <em>
+              Corporation</em>.
+
+
+<strong>CCC50  19     (06/91)       Dévolution du titre de propriété lors de 
+                     paiements partiels</strong>
+
+Lorsqu'un paiement est effectué à l'entrepreneur sous forme de paiement 
+partiel, d'avance à justifier ou autrement en acquittement ou à l'égard de 
+quelque matériau, élément ou ouvrage en cours, le titre auxdits biens ainsi 
+payés passe et demeure à Sa Majesté, avant et après l'achèvement des <em>
+travaux</em>, à moins qu'il ne lui soit déjà dévolu en vertu d'une disposition 
+quelconque du <em>contrat</em>, mais l'entrepreneur en reste responsable jusqu'à la 
+livraison du travail fini.
+
+
+<strong>CCC50  20     (06/91)       Confirmation de titres</strong>
+
+Dans tous les cas où, aux termes des présentes, le titre de propriété 
+d'éléments, ouvrages en cours et (ou) <em>travaux finis</em> est dévolu à Sa Majesté, 
+l'entrepreneur doit souscrire les actes translatifs de propriété ou autres 
+documents demandés par la <em>Corporation</em>.
+
+
+<strong>CCC50  21     (06/91)       Suspension du travail et modification des devis</strong>
+
+La <em>Corporation</em> peut en tout temps et à l'occasion ordonner la suspension de 
+l'ensemble ou de quelque partie du travail et (ou) apporter des 
+modifications, changements ou additions aux <em>devis</em>.  L'entrepreneur doit se 
+conformer à toutes les instructions de la <em>Corporation</em> à cet égard.  Si 
+pareille suspension, modification, changement ou addition a pour effet 
+d'augmenter ou de diminuer le coût des <em>travaux</em>, le <em>prix contractuel</em> sera 
+rajusté en conséquence, et l'entrepreneur n'a droit à aucune indemnité à 
+l'égard de la perte de tout bénéfice prévu (sauf que, dans le cas d'un 
+changement qui a pour effet de mettre au rancart une partie importante de 
+l'ouvrage ainsi exécutée par l'entrepreneur, celui-ci a droit au paiement 
+d'un montant représentant un profit juste et raisonnable à l'égard de 
+l'ouvrage ainsi mis au rancart) et, sauf si le <em>contrat</em> est en régie 
+intéressée, il n'est pas tenu compte des augmentations ou diminutions peu 
+importantes.
+ 
+<strong>CCC50  22     (06/91)       Non-exécution du contrat</strong>
+
+1.     Si l'entrepreneur n'exécute pas dans un délai de quinze (15) jours 
+       l'un ou l'autre des termes du <em>contrat</em>, à la suite d'événements ou de 
+       faits dont il est responsable ou auxquels il peut quelque chose, ou 
+       si l'entrepreneur fait faillite ou devient insolvable ou donne lieu 
+       à une ordonnance de mise sous séquestre ou fait cession de ses biens 
+       à ses créanciers ou est l'objet d'une ordonnance ou d'une résolution 
+       de liquidation ou se réclame de quelque loi en vigueur applicable 
+       aux débiteurs faillis ou insolvables, la <em>Corporation</em> peut, si elle 
+       le désire, en donnant un avis écrit à l'entrepreneur,
+
+       a)     résilier le <em>contrat</em> comme s'il s'agissait de <em>travaux</em> non 
+              achevés; ou
+
+       b)     enlever les <em>travaux</em> à l'entrepreneur et employer les moyens 
+              qu'elle jugera opportuns pour achever l'ouvrage en tout ou en 
+              partie.  
+
+2.     Dès qu'un tel avis est donné, l'entrepreneur ne peut réclamer aucun 
+       autre paiement, sous réserve des dispositions suivantes du présent 
+       article 22, mais il demeure responsable de toute perte ou de tout 
+       dommage que Sa Majesté pourrait subir par suite de la non-exécution 
+       du <em>contrat</em> ou de l'événement ayant donné lieu à l'avis susdit.
+
+3.     Si la <em>Corporation</em> se charge des <em>travaux</em>
+
+       a)     l'outillage, le <em>matériel</em>, les matériaux, articles et droits 
+              dont dispose l'entrepreneur pour les fins des <em>travaux</em> peuvent 
+              être utilisés par la <em>Corporation</em> ou ses représentants 
+              autorisés comme les aurait utilisés et exercés l'entrepreneur; 
+              et
+
+       b)     sauf si le <em>contrat</em> est en régie intéressée, à l'achèvement 
+              des <em>travaux</em> ou de toute partie des <em>travaux</em> que la <em>Corporation</em> 
+              juge opportun d'achever, l'entrepreneur a droit à un crédit, 
+              fondé sur le <em>prix contractuel</em>, à l'égard de la partie des <em>
+              travaux</em> ainsi achevés par la <em>Corporation</em>, et le montant 
+              auquel l'entrepreneur a droit sert à défrayer le coût, pour 
+              Sa Majesté, de l'achèvement desdits <em>travaux</em> et toute perte ou 
+              dommage à laquelle ou auquel l'entrepreneur est exposé, comme 
+              il est indiqué plus haut, et tout excédent ou insuffisance 
+              est payé par Sa Majesté à l'entrepreneur ou par 
+              l'entrepreneur à Sa Majesté, selon le cas.
+
+
+<strong>CCC50  23     (01/06/94)    Aucun acte de corruption, etc.</strong>
+
+L'entrepreneur garantit qu'aucun pot-de-vin, don ou autre avantage n'a été 
+payé, promis ou offert à quelque fonctionnaire ou employé de Sa Majesté en 
+raison ou en vue de l'adjudication du <em>contrat</em> à l'entrepreneur. 
+
+
+<strong>CCC50  24     (06/91)       Conditions de travail et règles d'hygiène</strong>
+
+L'entrepreneur doit observer toutes les conditions de travail ainsi que 
+toutes les conditions et règles d'hygiène qui, à l'occasion, s'appliqueront 
+aux <em>travaux</em>.
+
+
+<strong>CCC50  25     (06/91)       Membres de la Chambre des communes</strong>
+
+Aucun membre de la Chambre des communes n'est admis à participer au <em>contrat</em> 
+ni aux avantages en découlant.
+
+
+<strong>CCC50  26     (06/91)       Avis</strong>
+
+Tout avis donné à l'entrepreneur en vertu des présentes est effectivement 
+donné s'il est envoyé à l'entrepreneur par lettre ou par télégramme port 
+payé d'avance ou affranchissement payé d'avance, selon le cas, à l'adresse 
+de l'entrepreneur mentionnée dans la <em>convention</em> ou, si aucune adresse n'y 
+est mentionnée, à son adresse indiquée dans les dossiers de la <em>Corporation</em>.  
+Tout avis ainsi donné est censé avoir été reçu par l'entrepreneur au moment 
+où cette lettre ou ce télégramme est éventuellement parvenu à destination.
+
+ 
+<strong>CCC50  27     (16/02/98)    Arbitrage</strong>
+
+En cas de différend entre les parties à l'égard d'un fait résultant du <em>
+contrat</em> (sauf en ce qui concerne les détails pour lesquels la décision de 
+la <em>Corporation</em> ou de l'<em>inspecteur</em> ou de toute autre personne est définitive 
+ou toute chose à l'égard de laquelle une autre façon de règlement est 
+expressément mentionnée dans les présentes), le sujet du différend doit 
+être porté à la connaissance d'un seul arbitre ou, si les parties ne 
+peuvent s'entendre sur le choix d'un seul arbitre, de deux arbitres dont un 
+sera choisi par la <em>Corporation</em> et l'autre par l'entrepreneur.  Au cas où 
+les deux arbitres ainsi choisis ne peuvent s'entendre, ils doivent en 
+choisir un troisième, et la décision de deux des arbitres vaudra.  Au cas 
+où les deux arbitres ainsi choisis ne peuvent s'entendre sur le choix du 
+troisième arbitre, celui-ci sera nommé par la Cour fédérale à la suite d'un 
+renvoi à ladite Cour.  Une partie qui n'a pas nommé d'arbitre après que 
+l'autre partie en a nommé un, doit s'exécuter dans les cinq (5) jours qui 
+suivent le jour où elle a été avisée par écrit par telle autre partie, et 
+en cas de non-exécution, l'arbitre de l'autre partie peut agir comme seul 
+arbitre, et sa décision est irrévocable.  Si l'arbitre de l'une ou l'autre 
+des parties ne prend pas en considération les questions qui font l'objet du 
+différend dans les cinq (5) jours qui suivent le jour où il en a été avisé 
+par écrit par l'arbitre de l'autre partie, l'arbitre de cette autre partie, 
+si un troisième arbitre n'a pas été nommé, peut agir comme seul arbitre, et 
+sa décision est irrévocable; et si un troisième arbitre a été nommé, les 
+deux autres arbitres peuvent immédiatement remplacer l'arbitre qui n'a pas 
+agi, et la décision de deux des trois arbitres vaudra.  L'attribution des 
+frais d'arbitrage est laissée à la discrétion des arbitres; cependant, 
+aucune partie ne doit payer plus que ses propres frais et les frais du 
+troisième arbitre.
+
+
+<strong>CCC50  28     (16/02/98)    Résiliation</strong>
+
+1.     Nonobstant toute disposition du <em>contrat</em>, la <em>Corporation</em> peut au 
+       moyen d'un avis (appelé quelquefois ci-après « avis de résiliation ») 
+       donné à l'entrepreneur, mettre fin au <em>contrat</em> (exception faite des 
+       dispositions du présent article et de l'article 13 des présentes 
+       conditions générales) à l'égard de l'ensemble ou de quelque partie 
+       ou parties des <em>travaux</em> restant à exécuter.  Dès qu'un avis de 
+       résiliation est donné, l'entrepreneur doit cesser le travail (y 
+       compris la fabrication et l'acquisition de matériaux destinés à 
+       l'exécution du <em>contrat</em>) selon les termes de l'avis et dans la mesure 
+       y spécifiée.  La <em>Corporation</em> peut, en tout temps ou à l'occasion, 
+       donner un ou plusieurs autres avis de résiliation à l'égard de l'une 
+       quelconque ou de la totalité des parties du travail non résiliée(s) 
+       par avis antérieur(s).
+
+2.     Lorsqu'un avis de résiliation est donné sous le régime du présent 
+       article et sous réserve des dispositions ci-après, 
+
+       a)     tout travail fini soit avant la signification de l'avis soit 
+              subséquemment en conformité dudit avis, doit être payé sur la 
+              base du <em>prix contractuel</em> (sous réserve d'acceptation selon 
+              les dispositions du <em>contrat</em>);
+
+       b)     à l'égard d'un travail non achevé avant la signification de 
+              l'avis susdit, ni subséquemment en conformité dudit avis, 
+              l'entrepreneur a droit au remboursement de ce que lui a 
+              réellement coûté ledit travail non fini, plus une somme 
+              représentant un bénéfice juste et raisonnable pour le travail 
+              accompli.  Le coût doit être déterminé suivant les Principes 
+              des coûts contractuels, formule DSS-MAS 1031-2, sous réserve 
+              de toute modification que la <em>Corporation</em> peut juger opportun 
+              de lui apporter;
+
+       c)     sous réserve des dispositions de l'alinéa d) du présent 
+              paragraphe 2, l'entrepreneur a droit au remboursement de 
+              toutes dépenses en immobilisations expressément autorisées 
+              par les termes du <em>contrat</em> ou approuvées par la <em>Corporation</em> 
+              aux fins du <em>contrat</em> (et réellement faites ou engagées) dans 
+              la mesure où ces dépenses (moins la dépréciation à leur égard 
+              comptée dans la détermination du coût) ont été 
+              raisonnablement et régulièrement faites par lui pour 
+              l'exécution du <em>contrat</em> et qu'elles y sont dûment attribuables, 
+              et ne sont pas comprises dans les sommes payées ou à payer à 
+              l'entrepreneur à l'égard des <em>travaux finis</em>;
+
+       d)     si le <em>contrat</em> vise exclusivement des dépenses de capitaux à 
+              l'égard de <em>matériel</em> additionnel ou d'agrandissements d'usine, 
+              les alinéas a) à c) du présent paragraphe 2 ne s'appliquent 
+              pas, mais Sa Majesté doit payer ou rembourser à 
+              l'entrepreneur le coût raisonnable et approprié pour lui (non 
+              déjà acquitté par Sa Majesté),
+
+              (1)    de tout le <em>matériel</em> additionnel qui, avant la 
+                     signification de l'avis de résiliation, aura été 
+                     acheté, acquis ou fabriqué par l'entrepreneur, ou aura 
+                     fait de sa part l'objet d'un <em>contrat</em> et à l'égard 
+                     duquel il est tenu d'effectuer des paiements; et 
+              (2)    de tout le <em>matériel</em> additionnel en voie de fabrication 
+                     par l'entrepreneur à la date de signification dudit 
+                     avis, ainsi que de tout le travail à l'égard de la 
+                     construction de l'agrandissement d'usine jusqu'à la 
+                     même date, y compris le coût des matériaux et des 
+                     éléments pour lesquels l'entrepreneur a passé <em>contrat</em> 
+                     en vue de ladite fabrication ou de ladite construction 
+                     et à l'égard desquels il est tenu d'effectuer des 
+                     paiements.
+
+3.     Il est entendu qu'aucun remboursement ne doit être effectué à 
+       l'égard d'un travail qui a été ou qui peut être, après inspection, 
+       rejeté comme ne se conformant pas aux prescriptions du <em>contrat</em>.
+
+4.     L'entrepreneur n'a aucun droit à se faire rembourser un montant qui, 
+       ajouté aux montants à lui payés ou dus en vertu du <em>contrat</em>, excédera 
+       le <em>prix contractuel</em> applicable au travail ou à la partie spécifiée 
+       du travail.
+
+5.     Nonobstant les dispositions des paragraphes précédents 1 à 4 
+       inclusivement, les sommes dont l'entrepreneur a droit au 
+       remboursement advenant un avis de résiliation donné en vertu du 
+       présent article 28, comprennent, sous réserve des dispositions 
+       ci-après, les frais à lui causés ou occasionnés par l'annulation à 
+       la suite de l'avis de résiliation d'obligations par lui contractées, 
+       le coût de préparation des comptes et des états visant le travail 
+       accompli à la date effective de la résiliation et les engagements 
+       pris par l'entrepreneur à l'égard des parties achevées du travail, 
+       les salaires que, d'après les lois et règlements alors en vigueur, 
+       l'entrepreneur est tenu de payer aux employés dont les services ne 
+       sont plus requis en raison de ladite résiliation, les frais directs 
+       et accessoires d'établissement d'un inventaire des matériaux, 
+       éléments constituants, ouvrages en cours, <em>travaux finis</em>, en main à 
+       la date effective de la résiliation et les autres frais et dépenses 
+       directs et accessoires imputables à la cessation totale ou partielle 
+       des opérations visées par le <em>contrat</em>.  Toutefois, les paiements et 
+       remboursements prévus au présent paragraphe ne pourront être 
+       effectués que dans la mesure où il est établi à la satisfaction de 
+       la <em>Corporation</em> que lesdits frais ont été effectivement supportés et 
+       que lesdites dépenses ont été réellement faites par l'entrepreneur, 
+       qu'ils sont raisonnables et dûment attribuables au fait qu'il a été 
+       mis fin au travail ou à la partie du travail visé par l'avis de 
+       résiliation.
+
+6.     En cas de désaccord au sujet du montant du remboursement auquel 
+       l'entrepreneur a droit, la question sera déférée à la Cour fédérale.
+
+7.     Dans la mesure du possible, l'entrepreneur doit passer ses commandes 
+       et adjuger ses sous-traitances à des conditions qui lui permettent 
+       de les résilier en conformité de termes et conditions dont l'effet 
+       est analogue à celui des dispositions du présent article, et d'une 
+       façon générale, l'entrepreneur doit collaborer avec Sa Majesté et la <em>
+       Corporation</em> et faire en tout temps tout ce qui est raisonnablement 
+       en son pouvoir afin de réduire au minimum le montant des obligations 
+       de Sa Majesté prévues par le présent article.
+
+8.     Le titre de propriété des matériaux, éléments, usine, <em>matériel</em> et 
+       ouvrage en cours à l'égard desquels l'entrepreneur est remboursé 
+       conformément aux présentes, passe et est dévolu à Sa Majesté dès que 
+       ce remboursement est effectué, à moins qu'il ne le soit déjà en 
+       vertu d'autres dispositions du <em>contrat</em> et ces matériaux, éléments, 
+       usine, <em>matériel</em> et ouvrage en cours doivent être livrés à l'ordre de 
+       la <em>Corporation</em>, mais les matériaux ainsi repris ne peuvent, en aucun 
+       cas, dépasser ce qui aurait été requis pour la complète exécution du <em>
+       contrat</em> si aucun avis de résiliation n'avait été donné.
+
+9.     Si la <em>Corporation</em> acquiert la certitude que quelque mesure prise 
+       sous l'autorité du présent article a été une cause de difficultés 
+       exceptionnelles pour l'entrepreneur, la <em>Corporation</em> peut, à sa 
+       discrétion absolue, accorder à l'entrepreneur l'allocation (qui ne 
+       peut cependant en aucun cas comprendre une somme ou une indemnité 
+       pour manque à gagner) qu'elle juge appropriée.
+
+10.    L'entrepreneur ne peut prétendre à des dommages-intérêts, indemnité, 
+       compensation pour manque à gagner, allocation ou autre dédommagement, 
+       en raison ou en conséquence directe ou indirecte de quelque mesure 
+       prise ou avis donné par la <em>Corporation</em> en vertu ou en exécution des 
+       stipulations du présent article, sauf aux termes et dans la mesure 
+       expressément prévus dans cet article.
+
+
+<strong>CCC50  29     (06/91)       Devises étrangères</strong>
+
+Sauf stipulation contraire dans le <em>contrat</em> ou en accord avec la <em>Corporation</em>, 
+l'entrepreneur ne peut prétendre à une augmentation du <em>prix contractuel</em> par 
+suite de fluctuations de la cote des changes. 
+
+<strong>CCC50  30     (06/06/94)    Certification - Honoraires conditionnels</strong>
+
+1.     L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, 
+       directement ou indirectement, et s'engage à ne pas verser, 
+       directement ni indirectement, des <em>honoraires conditionnels</em> en 
+       rapport à la négociation ou à l'obtention du présent <em>contrat</em> ou en 
+       rapport à toute demande ou démarche reliée au présent <em>contrat</em>, à 
+       aucune personne autre qu'un <em>employé</em> remplissant les fonctions 
+       habituelles liées à son poste.
+
+2.     Tous les comptes et dossiers concernant le versement d'honoraires ou 
+       de toute autre rémunération en rapport à l'obtention ou à la 
+       négociation du <em>contrat</em> ou en rapport à toute demande ou démarche 
+       reliée au <em>contrat</em> seront assujettis aux dispositions du <em>contrat</em> 
+       portant sur les comptes et la vérification.
+
+3.     Si l'entrepreneur fait une fausse déclaration aux termes du présent 
+       article ou ne respecte pas les obligations précisées dans le présent 
+       document, le Ministre pourra soit résilier le <em>contrat</em> pour défaut 
+       d'exécution conformément aux dispositions pertinentes contenues dans 
+       le <em>contrat</em>, soit recouvrer, de l'entrepreneur, par une réduction du 
+       prix du <em>contrat</em> ou autrement, le montant total des <em>honoraires 
+       conditionnels</em>.
+
+4.     Les définitions suivantes s'appliquent au présent article :
+
+       « <em>honoraires conditionnels</em> » - Tout paiement, ou autre forme de 
+       rémunération, qui est subordonné au degré de succès ou calculé en 
+       fonction du degré de succès obtenu en rapport à l'obtention d'un 
+       marché gouvernemental, à la négociation d'une partie ou de la 
+       totalité des conditions de ce marché ou à toute demande ou démarche 
+       reliée au marché.
+
+       « employé(e) » - Toute personne avec qui l'entrepreneur a une 
+       relation d'employeur à employé;
+
+       « <em>personne</em> » - Comprend un particulier ou un groupe, une corporation, 
+       une société, une organisation et une association et, sans limiter la 
+       portée générale de ce qui précède, tout particulier qui est tenu de 
+       fournir au directeur une déclaration en vertu de l'article 5 de la <em>
+       Loi concernant l'enregistrement des lobbyistes</em>, L.R.C. (1985), ch. 
+       44 (4e suppl.), et de toute modification qui pourrait lui être 
+       apportée de temps à autre.
+
+
+<strong>CCC50  31     (01/12/00)    Intérêt sur les comptes en souffrance</strong>
+
+1.     Les définitions suivantes s'appliquent au présent article :
+
+       « <em>date de paiement</em> » : la date que porte le titre négociable tiré 
+       par le Receveur général du Canada et remis aux fins de payer une 
+       somme exigible;
+
+       « <em>en souffrance</em> » : s'entend de la somme qui demeure impayée le 
+       lendemain du jour où elle est devenue <em>exigible</em>; 
+
+       « <em>exigible</em> » : s'entend de la somme due par le <em>Canada</em> et exigible 
+       par l'entrepreneur aux termes du contrat;
+
+       « <em>taux moyen</em> » : la moyenne arithmétique simple du <em>taux d'escompte</em> 
+       en vigueur chaque jour, à 16 h, heure normale de l'est, pour le mois 
+       de calendrier immédiatement antérieur à la <em>date de paiement</em>, et « <em>
+       taux d'escompte</em> » s'entend du taux d'intérêt fixé de temps en temps 
+       par la Banque du Canada qui représente le taux minimum auquel elle 
+       consent des avances à court terme aux membres de l'Association 
+       canadienne des paiements.
+
+2.     Le <em>Canada</em> verse à l'entrepreneur des intérêts simples, au taux moyen 
+       majoré de 3 p. 100 par année, sur toute somme <em>en souffrance</em>, à 
+       partir du premier jour où la somme est <em>en souffrance</em> jusqu'au jour 
+       qui précède la <em>date de paiement</em>.  L'intérêt est payable sans avis de 
+       l'entrepreneur.
+
+3.     Le <em>Canada</em> ne verse pas d'intérêts en application du présent article 
+       lorsqu'il n'est pas responsable du retard à payer l'entrepreneur.
+
+4.     Le <em>Canada</em> ne verse pas d'intérêts sur les paiements anticipés qui 
+       sont <em>en souffrance</em>.
+
+
+</pre>

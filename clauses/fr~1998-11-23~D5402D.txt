@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'un Plan Qualité écrit est demandé.  On 
+utilise cette clause avec la clause D5510D, Assurance de la qualité - autorité, 
+et les autres clauses contenant les exigences du système qualité.  L'espace en 
+blanc est remplacé par la valeur appropriée pour le contrat.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><span class="wsStyleUnderline">Pour tous les contrats</span>
+
+Au plus tard _____ jours après la date du contrat, l'entrepreneur doit 
+soumettre pour acceptation par le ministère de la Défense nationale (MDN) 
+un Plan Qualité préparé selon la dernière édition (à la date du contrat) de 
+ISO 10005 « Management de la Qualité - Lignes directrices pour les plans 
+qualité ».  Le Plan Qualité devra décrire comment l'entrepreneur entend se 
+conformer aux exigences de qualité spécifiées dans le contrat et spécifier 
+comment les activités reliées à la qualité se dérouleront incluant 
+l'assurance de la qualité des sous-traitants.  L'entrepreneur doit inclure 
+une matrice qui permet de retracer les éléments des exigences de la qualité 
+spécifiées aux paragraphes du Plan Qualité où l'élément a été traité.
+
+Les documents mis en référence au Plan Qualité doivent être disponibles à 
+la demande du ministère des Travaux publics et des Services gouvernementaux 
+ou du MDN.
+
+Si le Plan Qualité a été soumis lors du processus de soumission, 
+l'entrepreneur doit réviser et, au besoin, modifier le plan soumis de façon 
+à tenir compte des changements dans les exigences ou dans la planification 
+qui auraient pu survenir lors des négociations menant au contrat.
+
+Après l'acceptation du Plan Qualité par le MDN, l'entrepreneur doit mettre 
+en oeuvre le Plan Qualité.  L'entrepreneur doit effectuer les modifications 
+appropriées au plan durant le contrat de façon à refléter les activités de 
+qualité en cours ou planifiées.  Le MDN doit être en accord avec les 
+modifications apportées au Plan Qualité.
+
+<span class="wsStyleUnderline">Pour les contrats exigeant la conception, le développement ou l'entretien 
+du logiciel</span>
+
+Pour la conception, le développement ou l'entretien du logiciel, 
+l'entrepreneur devra interpréter les exigences de la norme de qualité ISO 
+9001 selon les lignes directrices contenues dans la dernière édition (à la 
+date du contrat) de ISO 9000-3 « Normes pour la gestion de la qualité et 
+l'assurance de la qualité - Partie 3 : Lignes directrices pour 
+l'application de l'ISO 9001 au développement, à la mise à disposition et à 
+la maintenance du logiciel ».
+
+</pre>

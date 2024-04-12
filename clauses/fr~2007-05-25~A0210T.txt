@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions en tant que critère 
+d'évaluation financière obligatoire lorsque la soumission ne doit pas dépasser 
+le financement maximal disponible pour un besoin précis.  Utiliser cette clause 
+en conjonction avec
+ 
+  A0036T
+ 
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le financement maximal disponible pour le contrat qui
+découlera de la demande de soumissions est de <var>_______</var> $ 
+(taxe sur les produits et services ou la taxe
+de vente harmonisée en sus, s'il y a lieu). Toute soumission
+dont la valeur est supérieure à cette somme sera
+jugée non recevable. Le fait de divulguer le financement
+maximal disponible n'engage aucunement le Canada à payer cette
+somme.</p>
+</div></pre>

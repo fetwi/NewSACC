@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>On demande au soumissionnaire d'utiliser, dans sa proposition, un système 
+   de numérotation correspondant à celui de la demande de propositions (DP) 
+   et de l'énoncé des travaux.  La soumission doit inclure dans sa 
+   proposition toutes les références au matériel descriptif, aux guides 
+   techniques et aux brochures.
+</pre>

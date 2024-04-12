@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la livraison totale s'applique. Le mot « jours civils » peut être remplacé par « semaines » ou « mois », selon le cas.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit avoir terminé la livraison totale dans
+les <var title="blank">_____</var> jours civils à partir de la date
+d'entrée en vigueur du contrat.</p>
+</div></pre>

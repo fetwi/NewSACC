@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les noms, titres et numéros de téléphone du personnel du Fournisseur 
+autorisés à prendre des commandes des personnes autorisées du gouvernement 
+fédéral:
+
+NOM 
+
+TITRE 
+
+NO. DE TÉLÉPHONE
+
+
+
+NOM 
+
+TITRE 
+
+NO. DE TÉLÉPHONE 
+
+</pre>

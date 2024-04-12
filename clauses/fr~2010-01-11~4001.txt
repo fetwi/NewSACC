@@ -1,0 +1,1269 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser les conditions générales supplémentaires suivantes dans les contrats 
+pour l'achat ou la location de matériel (qui peut comprendre des services de 
+garantie et de maintenance) ou l'achat distinct de services de maintenance pour 
+le matériel existant.  Si un logiciel doit être livré en vertu du contrat, y 
+compris tout logiciel nécessaire au fonctionnement du matériel (autre qu'un 
+micrologiciel), il faudra utiliser les conditions générales supplémentaires 4002 
+selon le cas, et 4003.
+
+Utiliser en conjonction avec l'une des conditions générales suivantes : 1026A, 
+1026B, 2010A, 2010B, 2030, 2035 ou 2040, et avec d'autres conditions générales 
+supplémentaires, selon le cas.  Ne pas utiliser avec 2029 et 2010C.
+
+Lorsque plusieurs conditions générales supplémentaires s'appliquent au besoin, 
+les agents de négociation des contrats doivent énumérer dans la clause d'ordre 
+de priorité des documents, les conditions générales supplémentaires en ordre 
+numérique croissant selon le numéro d'identification.
+
+Si le contrat exige des dérogations à ces conditions générales supplémentaires, 
+les agents de négociation des contrats doivent les indiquer dans les articles de 
+convention.  Par exemple, les agents de négociation des contrats doivent inclure 
+une autre définition de la période principale de maintenance si celle qui est 
+définie dans les présentes ne répond pas aux besoins du client.  Aussi, si le 
+Canada achète du matériel et que la période de garantie de douze mois ne répond 
+pas aux besoins du client, les agents de négociation des contrats doivent la 
+redéfinir dans les articles de convention.
+
+Les agents de négociation des contrats doivent également préciser dans les 
+articles de convention les différentes catégories de service de maintenance qui 
+sont comprises dans le contrat.  Si aucune catégorie n'est précisée, 
+l'entrepreneur sera uniquement obligé de fournir le service de maintenance avec 
+retour à l'atelier.
+
+Si le matériel doit être assujetti à une exigence relative au niveau de 
+disponibilité minimum, les agents de négociation des contrats doivent définir 
+cette exigence dans les articles de convention.  Les articles 8 et 9 ne 
+s'appliqueront au contrat que si l'exigence relative au niveau de disponibilité 
+minimum a été définie.
+
+Les agents de négociation des contrats doivent s'assurer que le nom du « 
+responsable technique » ou du « chargé de projet », selon le cas, soit inscrit 
+dans le contrat.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+<strong>Partie I - Conditions communes applicables aux transactions de matériel</strong>
+01     Interprétation
+02     Matériel neuf exigé
+
+<strong>Partie II - Conditions communes applicables à la location et à l'achat</strong>
+03     Livraison
+04     Exigences particulières relatives à l'endroit de livraison ou à la 
+préparation de l'emplacement
+05     Installation, intégration et configuration
+06     Attestation relative à l'appareillage électrique
+07     Documentation relative au matériel
+08     Exigence relative au niveau de disponibilité minimum
+09     Test du niveau de disponibilité préalable à l'acceptation
+10     Acceptation
+11     Micrologiciels
+12     Responsabilité de l'ensemble du système
+
+<strong>Partie III - Conditions supplémentaires : achat</strong>
+13     Propriété du matériel acheté et risque de destruction ou 
+d'endommagement
+14     Garantie pour le matériel acheté
+
+<strong>Partie IV - Conditions supplémentaires: location</strong>
+15     Droit de propriété sur le matériel loué
+16     Période de location
+17     Garantie pour le matériel loué
+18     Résiliation du contrat de location pour raisons de commodité
+19     Risque de destruction ou d'endommagement du matériel loué
+20     Modifications apportées au matériel loué
+21     Déplacement du matériel loué
+22     Désinstallation et retrait du matériel loué
+23     Jouissance paisible
+24     Droit de retenir les paiements de location
+
+<strong>Partie V - Conditions supplémentaires : maintenance</strong>
+25     Service de maintenance du matériel
+26     Catégories de service de maintenance du matériel
+
+
+<strong>Partie I - Conditions communes applicables aux transactions de matériel</strong>
+
+<strong>4001   01     (2010-01-11)  Interprétation</strong>
+
+1.     Dans le contrat, à moins que le contexte n'indique un sens différent
+ :
+
+       « conditions générales » désigne les conditions générales qui font 
+       partie du contrat;
+
+       « date de livraison » désigne la date précisée dans le contrat pour 
+       la livraison du matériel. Si aucune date n'est précisée ailleurs 
+       dans le contrat, la date de livraison est trente (30) jours après la 
+       date du contrat pour la livraison initiale et, pour tout matériel 
+       acheté ou loué en vertu d'une option, trente (30) jours après la 
+       date à laquelle l'option est exercée.  Si le contrat contient des 
+       dispositions concernant les commandes multiples, la date de 
+       livraison est de trente (30) jours après la date de chaque commande;
+
+       « spécifications », malgré la définition contenue dans les 
+       conditions générales, désigne la description fonctionnelle ou 
+       technique des travaux indiquée ou mentionnée au contrat, y compris 
+       les dessins, les échantillons et les modèles ainsi que, sauf 
+       incompatibilité avec tout autre élément du contrat, la description 
+       indiquée ou mentionnée dans une brochure, un document relatif au 
+       produit ou tout autre document fourni par l'entrepreneur en vertu du 
+       contrat, ainsi que toute documentation technique publiée ou mise à 
+       la disposition du grand public par le fabricant de toute partie du 
+       matériel.  Pour tout système à être fourni, s'il y a incompatibilité 
+       entre les spécifications d'un élément individuel du système et les 
+       spécifications pour l'ensemble du système, les spécifications du 
+       système l'emporteront sur les spécifications de tout élément 
+       individuel du système;
+
+       « documentation relative au matériel » désigne l'ensemble des 
+       manuels, livrets, guides d'utilisation et autres documents écrits en 
+       langage courant que l'entrepreneur doit fournir au Canada 
+       conformément au contrat pour être utilisés avec le matériel, que 
+       cette documentation soit fournie sous forme imprimée ou sur un autre 
+       support électronique d'information, tel qu'un cédérom;
+
+       « matériel » désigne  la totalité de l'équipement, des matériaux, 
+       des articles et des objets que l'entrepreneur doit fournir , 
+       maintenir et soutenir, selon le cas, conformément au contrat (y 
+       compris les câbles et les autres articles complémentaires).  Le 
+       terme  « matériel » comprend les micrologiciels, le cas échéant, 
+       mais exclu les logiciels et les services. Sauf indication contraire, 
+       le terme « matériel » comprend tout matériel loué. Sauf indication 
+       contraire, chaque fois que le terme « matériel » est utilisé, il 
+       s'appliquera également à chaque système livré en vertu du contrat;
+
+       « matériel loué » désigne le matériel loué en vertu du contrat;
+
+       « micrologiciel » désigne tout programme informatique entreposé dans 
+       des circuits intégrés, la mémoire fixe ou tout autre moyen semblable 
+       contenus dans le matériel;
+
+       « période d'utilisation » désigne la période allant de 7 h à 19 h, 
+       heure de l'Est, du lundi au vendredi inclusivement, excluant les 
+       jours fériés que le Canada observe à l'emplacement où le matériel 
+       est utilisé;
+
+       « période d'utilisation opérationnelle » désigne la période, 
+       calculée en heures et en minutes complètes, au cours de laquelle le 
+       matériel exécute des fonctions ou activités conformément aux 
+       spécifications pendant la période d'utilisation, y compris tous les 
+       intervalles entre le début et l'arrêt de fonctionnement du matériel 
+       au cours de la période d'utilisation qui ne constituent pas un temps 
+       de panne telle la maintenance prévue à l'avance avec le Canada;
+
+       « pleinement fonctionnel » désigne le matériel qui fonctionne 
+       conformément aux spécifications; ainsi, toutes ses fonctions peuvent 
+       être utilisées;
+
+       « prêt à être utilisé » désigne le matériel qui a été livré par 
+       l'entrepreneur et, le cas échéant, ce dernier l'a installé, intégré 
+       et configuré de façon à ce qu'il soit pleinement fonctionnel;
+
+       « service de maintenance du matériel » a la signification donnée à 
+       la Partie V;
+
+       « système »  désigne la combinaison intégrée de toute pièce de 
+       matériel fournie en vertu du contrat et de tout autre équipement, 
+       matériaux ou logiciel décrit dans le contrat qui est raccordé ou qui 
+       interopère comme un tout avec le matériel.  Il peut s'agir de 
+       plusieurs « systèmes » constitués de différentes pièces de matériel 
+       fournies en vertu du contrat.  Un système peut comprendre des 
+       logiciels personnalisés, si les conditions générales supplémentaires 
+       4002 font partie du contrat, et(ou) un système peut comprendre un 
+       logiciel sous licence, si les conditions générales supplémentaires 
+       4003 font partie du contrat;
+
+       « temps de panne » désigne la période, calculée en heures et minutes 
+       complètes, au cours de laquelle le matériel n'est pas pleinement 
+       fonctionnel pendant la période d'utilisation en raison d'un problème 
+       de fonctionnement.  Le temps de panne débute lorsque le Canada avise 
+       l'entrepreneur que le matériel n'est pas pleinement fonctionnel et 
+       prend fin lorsque le problème de fonctionnement a été corrigé et que 
+       l'entrepreneur avise le Canada du fait que le matériel est 
+       pleinement fonctionnel à moins que le Canada alors avise 
+       l'entrepreneur que le matériel n'est toujours pas pleinement 
+       fonctionnel;
+
+2.     Les mots et expressions définis dans les conditions générales et 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales, à moins 
+       d'indications contraires.  Les articles intitulés « Droit de 
+       propriété » et « Garantie » qui font partie des conditions générales 
+       ne s'appliquent pas au matériel.  Au lieu de ces articles, les 
+       dispositions relatives au droit de propriété et à la garantie 
+       contenues dans les présentes conditions générales supplémentaires 
+       s'appliquent au matériel.
+
+3.     En cas de divergence entre les conditions générales et les présentes 
+       conditions générales supplémentaires, les dispositions pertinentes 
+       des présentes conditions générales supplémentaires l'emportent.
+
+4.     La partie I des présentes conditions générales supplémentaires 
+       s'applique à la relation entre les parties en ce qui a trait aux 
+       transactions de matériel en général.
+
+5.     La partie II des présentes conditions générales supplémentaires 
+       s'applique lorsque du matériel est acheté ou loué en vertu du 
+       contrat.
+
+6.     La partie III des présentes conditions générales supplémentaires 
+       s'applique lorsque du matériel est acheté en vertu du contrat, y 
+       compris le matériel loué qui est acheté à la suite de l'exercice 
+       d'une option d'achat par le Canada.
+
+7.     La partie IV des présentes conditions générales supplémentaires 
+       s'applique lorsque du matériel est loué en vertu du contrat.
+
+8.     La partie V des présentes conditions générales supplémentaires 
+       s'applique lorsque la partie III ou la partie IV s'applique ou 
+       lorsqu'il s'agit d'un contrat de maintenance de matériel appartenant 
+       déjà au Canada.
+
+<strong>4001   02     (2010-01-11)  Matériel neuf exigé</strong>
+
+1.     Tout le matériel fourni par l'entrepreneur, y compris les pièces 
+       utilisées pour la prestation du service de maintenance du matériel 
+       en vertu de la partie V, doit être neuf et n'avoir jamais servi.  Le 
+       matériel doit également :
+
+       a)     être couramment offert dans le commerce; autrement dit, il 
+              doit être constitué d 'équipement standard ne nécessitant 
+              aucun travail supplémentaire de recherche et de développement;
+
+       b)     être un modèle toujours produit par le fabricant au moment de 
+              la livraison; et
+
+       c)     correspondre à la dernière version des spécifications 
+              applicables ou au numéro de pièce applicable du fabricant au 
+              moment de la livraison.
+
+2.     Sauf disposition contraire dans le contrat, le matériel et les 
+       pièces qui ont été remis à neuf ou qui ont été certifiés de « 
+       qualité équivalente à celle du matériel neuf » ne sont pas 
+       acceptables, y compris pour le service de maintenance du matériel.
+
+3.     En fournissant le matériel, l'entrepreneur garantit que le matériel 
+       n'est pas contrefait, ce qui signifie qu'il n'est pas une copie non 
+       autorisée, une réplique ou un substitut du produit fabriqué par le 
+       fabricant d'origine de l'équipement dont le nom est inscrit sur le 
+       matériel.
+
+<strong>Partie II - Conditions communes applicables à la location et à l'achat</strong><strong></strong>
+
+<strong>4001   03     (2010-01-11)  Livraison</strong>
+
+L'entrepreneur doit livrer le matériel à l'emplacement ou aux emplacements 
+désigné(s) par le Canada au plus tard à la date de livraison.  
+L'entrepreneur doit payer tous les coûts liés au remplacement de tout 
+article endommagé pendant le transport vers la destination finale.  
+L'entrepreneur reconnaît qu'aucun article ne sera considéré comme étant 
+livré à la date de livraison s'il est endommagé ou autrement dans un état 
+qui ne permet pas au Canada de commencer son processus d'acceptation.  
+L'entrepreneur doit, au minimum, emballer le matériel conformément aux 
+normes de l'industrie et inclure un bordereau d'emballage avec chaque 
+expédition.  L'entrepreneur doit également s'occuper du montage et du 
+factage nécessaires pour la livraison du matériel.  Tous les coûts liés à 
+l'emballage, à l'expédition, au transport et à la livraison sont compris 
+dans le prix du matériel.
+
+<strong>4001   04     (2008-05-12)  Exigences particulières relatives à la 
+préparation de l'emplacement</strong>
+
+1.     Si le contrat décrit les exigences particulières relatives à la 
+       préparation de l'emplacement, l'entrepreneur doit préparer 
+       l'emplacement pour la livraison ou l'installation, à ses propres 
+       frais, conformément à ces exigences et suffisamment d'avance pour 
+       être en mesure de respecter la date de livraison.  Tous les coûts 
+       liés à la préparation particulière de l'emplacement sont compris 
+       dans le prix du matériel.
+
+2.     Si le contrat prévoit que c'est la responsabilité du Canada de 
+       satisfaire aux exigences particulières relatives à la préparation de 
+       l'emplacement, les dispositions suivantes s'appliquent au lieu de 
+       celles du paragraphe 1 ci-dessus:
+
+       a)     Le Canada doit préparer l'emplacement, à ses propres frais, 
+              conformément aux exigences décrites dans le contrat.
+
+       b)     Si le contrat précise qu'il existe des exigences 
+              particulières relatives à la préparation de l'emplacement, 
+              mais qu'il ne les décrit pas, l'entrepreneur doit fournir au 
+              Canada une description complète de ces exigences 
+              immédiatement après la date du contrat ou, si la date de 
+              livraison est de plus de trente (30) jours après la date du 
+              contrat, au moins trente (30) jours avant la date de 
+              livraison.  Si l'entrepreneur fournit au Canada la 
+              description des exigences particulières relatives à la 
+              préparation de l'emplacement à ce moment, et que ce dernier 
+              ne s'oppose à aucune des exigences de l'entrepreneur dans les 
+              dix (10) jours, le Canada doit préparer l'emplacement 
+              conformément à ces exigences.  Si le Canada doit apporter des 
+              modifications parce que la description fournie par 
+              l'entrepreneur des exigences particulières relatives à la 
+              préparation de l'emplacement n'était pas complète ou exacte, 
+              l'entrepreneur doit rembourser tous les frais supplémentaires 
+              engagés par le Canada pour ce faire.  L'entrepreneur garantit 
+              que, si le Canada prépare l'emplacement conformément aux 
+              exigences particulières relatives à la préparation de 
+              l'emplacement et en assure la maintenance, le matériel pourra 
+              fonctionner conformément aux spécifications dans 
+              l'environnement en question.
+
+       c)     Le Canada doit compléter les préparations particulières de 
+              l'emplacement et aviser l'entrepreneur que l'emplacement est 
+              prêt au moins cinq (5) jours ouvrables avant la date de 
+              livraison, après quoi l'entrepreneur pourra effectuer 
+              l'inspection de l'emplacement à un moment acceptable pour le 
+              Canada.  L'inspection qu'effectue l'entrepreneur ne dégage 
+              pas le Canada de l'obligation de préparer l'emplacement 
+              conformément aux exigences particulières relatives à la 
+              préparation de l'emplacement décrites dans le contrat.
+
+       d)     Si le Canada ne prépare pas l'emplacement à temps, 
+              conformément aux exigences particulières relatives à la 
+              préparation de l'emplacement, sauf si le retard est causé par 
+              un événement qui échappe à la volonté du Canada, 
+              l'entrepreneur aura droit au remboursement de tous les frais 
+              supplémentaires qu'il peut démontrer il a raisonnablement et 
+              dûment engagés et qui résultent directement du retard.
+
+3.     Si le contrat ne décrit pas les exigences particulières relatives à 
+       la préparation de l'emplacement, les paragraphes 1 et 2 ne 
+       s'appliquent pas et l'entrepreneur garantit qu'aucune préparation 
+       particulière n'est nécessaire pour que le matériel fonctionne 
+       conformément aux spécifications.
+
+<strong>4001   05     (2008-05-12)  Installation, intégration et configuration</strong>
+
+1.     Sauf disposition contraire dans le contrat, l'entrepreneur doit 
+       déballer, assembler, installer, intégrer, raccorder et configurer 
+       tout le matériel à l'emplacement ou aux emplacements précisé(s) dans 
+       le contrat.  Lorsque c'est nécessaire pour réaliser cette partie des 
+       travaux, l'entrepreneur doit fournir toutes les ressources requises 
+       pour le déménagement et l'installation, y compris, sans s'y limiter, 
+       le personnel, les matériaux d'emballage, les véhicules, les grues et 
+       les panneaux de protection des revêtements de sol.  Après avoir 
+       complété cette partie des travaux, l'entrepreneur doit aviser par 
+       écrit le représentant du Canada sur place que le matériel est prêt à 
+       être utilisé.  Si les conditions générales supplémentaires 4002 ou 
+       4003, ou les deux, s'appliquent au contrat et si le contrat prévoit 
+       que le système comprend le matériel et un logiciel sous licence 
+       et(ou) un logiciel personnalisé, les travaux décrits dans cet 
+       article s'appliquent à l'ensemble du système. 
+
+2.     L'entrepreneur doit fournir tous les matériaux nécessaires pour 
+       l'assemblage, l'installation, l'intégration, le raccordement et la 
+       configuration du matériel à l'emplacement ou aux emplacements 
+       précisé(s) dans le contrat de manière à ce qu'il soit prêt à être 
+       utilisé et accepté, y compris la fourniture et le raccordement de 
+       toutes les connexions à la source d'alimentation et de tous les 
+       autres services publics, câbles et accessoires ou fournitures 
+       nécessaires.
+
+3.     L'entrepreneur doit s'assurer que les aires de travail sont propres 
+       et ordonnées à la fin de chaque jour de travail et une fois les 
+       travaux complétés, ce qui comprend le retrait et l'élimination de 
+       tous les matériaux d'emballage.
+
+4.     Tous les coûts liés aux travaux décrits dans cet article sont 
+compris dans le prix du matériel.
+
+<strong>4001   06     (2008-05-12)  Attestation relative à l'appareillage 
+électrique</strong>
+
+L'entrepreneur garantit que tout l'appareillage électrique livré en vertu 
+du contrat a été soit :
+
+a)     approuvé par un organisme accrédité par le Conseil canadien des 
+       normes conformément aux exigences de la partie I du Code canadien de 
+       l'électricité; ou
+
+b)     inspecté par un organisme approuvé par le Chef - Inspecteur 
+       d'appareils électriques de la province, du territoire ou de la 
+       municipalité où l'appareillage électrique doit être livré, auquel 
+       cas l'entrepreneur doit présenter sur demande au Canada une preuve 
+       d'inspection.
+
+<strong>4001   07     (2008-05-12)  Documentation relative au matériel</strong>
+
+1.     L'entrepreneur doit fournir au Canada la même documentation relative 
+       au matériel qu'il fournit aux autres acheteurs de matériel similaire 
+       et y inclure toutes les révisions qui y ont été apportées et tous 
+       les suppléments connexes en vigueur à la date de livraison.  La 
+       documentation relative au matériel doit au moins comprendre toute la 
+       documentation mise à la disposition des consommateurs par le 
+       fabricant du matériel concernant les spécifications techniques du 
+       matériel et des micrologiciels, les exigences relatives à 
+       l'installation et les consignes d'utilisation, ainsi que tous les 
+       renseignements relatifs aux programmes logiciels nécessaires au 
+       fonctionnement du matériel même si des licences concernant ces 
+       programmes logiciels sont fournies en vertu du contrat.
+
+2.     L'entrepreneur garantit que la documentation relative au matériel 
+       qu'il fournit renferme suffisamment de renseignements pour permettre 
+       au Canada d'utiliser le matériel et de mettre toutes ses fonctions à 
+       l'essai.
+
+3.     Si l'entrepreneur est tenu de fournir la documentation concernant la 
+       maintenance conformément au contrat, il garantit que la 
+       documentation relative au matériel renferme suffisamment de 
+       renseignements pour permettre au Canada, ou à une personne autorisée 
+       par celui-ci, d'entretenir et de réparer le matériel de façon 
+       appropriée et de le mettre à l'essai à cette fin.
+
+4.     L'entrepreneur doit livrer au Canada la documentation relative au 
+       matériel en même temps que le matériel.  Si plusieurs unités sont 
+       livrées, sauf disposition contraire dans le contrat, l'entrepreneur 
+       doit fournir un ensemble complet de la documentation relative au 
+       matériel avec chaque pièce de matériel.
+
+5.     Si des modifications sont apportées au matériel pendant la période 
+       du contrat, l'entrepreneur doit mettre à jour la documentation 
+       relative au matériel, sans frais supplémentaires pour le Canada. 
+       L'entrepreneur doit fournir ces mises à jour dans les dix (10) jours 
+       suivant la mise en disponibilité des mises à jour par le fabricant.  
+       Si elles sont disponibles auprès du fabricant, les mises à jour 
+       doivent comprendre la documentation de soutien précisant les 
+       problèmes résolus, les améliorations apportées, ainsi que les 
+       nouvelles fonctions, et comprenant toutes les consignes 
+       d'installation nécessaires.
+
+6.     Malgré tout disposition des conditions générales concernant les 
+       droits d'auteur, les droits d'auteur de la documentation relative au 
+       matériel n'appartiendront pas au Canada et ne lui seront pas 
+       transférés.  Toutefois, le Canada a le droit d'utiliser la 
+       documentation relative au matériel et peut, à ses propres fins 
+       internes, la copier pour l'usage des personnes qui utilisent le 
+       matériel, ou qui sont chargées du soutien du matériel, pourvu que le 
+       Canada inscrive les avis de droit d'auteur et de droit de propriété 
+       contenus dans le document original.
+
+7.     Sauf disposition contraire dans le contrat, la documentation 
+       relative au matériel doit être fournie en anglais et en français.  
+       Si le contrat prévoit que la documentation relative au matériel doit 
+       être fournie dans une seule des langues officielles du Canada, le 
+       Canada a le droit de la traduire pour  ses propres fins.  Toute 
+       traduction appartient au Canada et il n'a aucune obligation de la 
+       fournir à l'entrepreneur.  Le Canada doit inscrire dans la 
+       traduction tous les avis de droit d'auteur et de droit de propriété 
+       contenus dans le document original.  L'entrepreneur ne peut être 
+       tenu responsable des erreurs techniques qui se produisent en raison 
+       d'une traduction faite par le Canada.
+
+<strong>4001   08     (2010-01-11)  Exigence relative au niveau de disponibilité 
+minimum</strong>
+
+1.     Chaque pièce de matériel doit atteindre le niveau de disponibilité 
+       minimum précisé dans le contrat au cours de chaque mois civil de la 
+       période du contrat.  Si aucun niveau de disponibilité minimum n'est 
+       précisé, cet article ne s'applique pas au contrat.
+
+2.     Le niveau de disponibilité atteint chaque mois doit être calculé 
+comme suit :
+
+       Période d'utilisation opérationnelle / [période d'utilisation 
+       opérationnelle + temps de panne] x 100 %
+
+3.     L'entrepreneur doit surveiller le rendement du matériel et présenter 
+       des rapports mensuels écrits concernant le niveau de disponibilité 
+       pendant chaque mois civil de la période du contrat.  Les rapports 
+       doivent être présentés à l'autorité contractante et au responsable 
+       technique ou au chargé de projet dans les trente (30) jours suivant 
+       la fin du mois visé par le rapport.
+
+4.     Si le contrat prévoit qu'aucun rapport concernant le niveau de 
+       disponibilité n'est requis, l'entrepreneur reconnaît que le Canada 
+       peut surveiller le niveau de disponibilité ou effectuer un test en 
+       tout temps au cours de la période du contrat.
+
+5.     Si le matériel n'atteint pas le niveau de disponibilité minimum dans 
+       un mois donné, en plus de toute autre mesure corrective prévue au 
+       contrat, l'entrepreneur doit immédiatement en assurer la maintenance 
+       afin de remettre le matériel à l'état pleinement fonctionnel au 
+       niveau de disponibilité minimum.
+
+<strong>4001   09     (2010-01-11)  Test du niveau de disponibilité préalable à 
+l'acceptation</strong>
+
+1.     Si le contrat prévoit un niveau de disponibilité minimum, le Canada 
+       peut exiger un test du niveau de disponibilité préalable à 
+       l'acceptation.  Si aucun niveau de disponibilité minimum n'est prévu, 
+       cet article ne s'applique pas au contrat.
+
+2.     Lorsque les travaux prévus à l'article 5 sont complétés et que le 
+       matériel est prêt à être utilisé, l'entrepreneur doit en aviser le 
+       responsable technique ou le chargé de projet.  Le Canada doit 
+       effectuer le test du niveau de disponibilité dans les cinq (5) jours 
+       suivant la réception de cet avis ou au plus tard à la date à 
+       laquelle le matériel doit être prêt à être utilisé précisée dans le 
+       contrat, selon le délai le plus long.
+
+3.     Si le contrat prévoit que l'article 5 ne s'applique pas au contrat, 
+       et que le Canada a l'intention d'effectuer un test du niveau de 
+       disponibilité sur le matériel, le Canada convient d'installer le 
+       matériel dans les dix (10) jours ouvrables suivant la réception du 
+       matériel ou dix (10) jours ouvrables après la date de livraison 
+       selon le délai le plus long.  Le Canada convient de commencer tout 
+       test du niveau de disponibilité dans les deux (2) jours ouvrables 
+       suivant l'achèvement de l'installation.
+
+4.     En plus des autres droits ou mesures correctives dont il dispose 
+       conformément au contrat, le Canada doit avoir pleinement accès au 
+       matériel et peut en faire un usage opérationnel illimité une fois 
+       que l'entrepreneur l'a avisé qu'il est prêt à être utilisé ou, si 
+       l'installation relève du Canada, une fois que celui-ci en a reçu 
+       livraison et l'a installé.  Cependant, jusqu'à ce que le matériel 
+       soit accepté, le Canada doit accorder à l'entrepreneur un accès 
+       prioritaire au matériel en tout temps pour en assurer la maintenance 
+       et pour exécuter le contrat.
+
+5.     Afin d'obtenir la note de passage pour le test du niveau de 
+       disponibilité, le matériel doit atteindre le niveau de disponibilité 
+       minimum pendant trente (30) jours consécutifs dans les 
+       quatre-vingt-dix (90) jours suivant le début du test.   Pendant le 
+       test du niveau de disponibilité, l'entrepreneur doit présenter au 
+       Canada des rapports hebdomadaires écrits montrant le rendement du 
+       matériel ou du système par rapport au niveau de disponibilité 
+       minimum.
+
+6.     Si le matériel n'obtient pas la note de passage pour les tests du 
+       niveau de disponibilité dans les délais prévus au paragraphe 5, le 
+       Canada peut, en plus des autres droits ou mesures correctives dont 
+       il dispose selon le contrat, choisir de prendre une ou plusieurs des 
+       mesures suivantes:
+
+       a)     demander à l'entrepreneur de remplacer une partie ou la 
+              totalité du matériel par du matériel neuf, qui serait 
+              également assujetti à un test de niveau de disponibilité et à 
+              l'acceptation;
+
+       b)     prolonger la période du test de niveau de disponibilité; et
+
+       c)     résilier le contrat pour manquement, sans frais pour le 
+              Canada.
+
+7.     Si le Canada n'effectue pas de test du niveau de disponibilité dans 
+       les délais prévus dans cet article, la période de temps pendant 
+       laquelle le Canada aurait effectué ce test sera réputée représenter 
+       une période d'utilisation opérationnelle ininterrompue aux fins du 
+       calcul du niveau de disponibilité du matériel.  Cependant, cela ne 
+       s'appliquera pas si le Canada est incapable d'entreprendre ou de 
+       poursuivre le test du niveau de disponibilité en raison d'un 
+       événement qui échappe au contrôle du Canada.  En pareil cas, le 
+       Canada peut suspendre temporairement le test du niveau de 
+       disponibilité et les délais prévus à cet égard dans le présent 
+       article ou ailleurs dans le contrat seront prolongés du nombre de 
+       jours de suspension, jusqu'à un maximum de soixante (60) jours.
+
+8.     Si le Canada détermine que le matériel obtient la note de passage 
+       pour le test du niveau de disponibilité, qui en plus de ce qui 
+       précède peut comprendre des tests pour chaque fonction du matériel 
+       pour déterminer si elle est conforme aux spécifications, le premier 
+       jour de la période de trente (30) jours pour laquelle le matériel a 
+       atteint le niveau de disponibilité minimum sera considéré comme 
+       étant la date d'acceptation.
+
+<strong>4001   10     (2008-05-12)  Acceptation</strong>
+
+1.     Le matériel, y compris tous les travaux connexes, est assujetti à 
+       l'acceptation du Canada.  Au cours de son processus d'acceptation, 
+       le Canada peut tester chaque fonction du matériel pour déterminer si 
+       elle est conforme aux spécifications.  Si les travaux ou  une partie 
+       des travaux ne satisfont  pas aux exigences du contrat, le Canada a 
+       le droit de les refuser ou d'en exiger la rectification aux frais de 
+       l'entrepreneur avant de les accepter.  Aucun paiement pour le 
+       matériel n'est exigible en vertu du contrat si le matériel n'est pas 
+       accepté.
+
+2.     L'acceptation du Canada ne dégage pas l'entrepreneur de sa 
+       responsabilité, à l'endroit des défectuosités du matériel ou des 
+       autres défauts, de respecter les exigences du contrat, ni de ses 
+       obligations contractuelles en matière de garantie et de maintenance.
+
+3.     Sauf lorsque l'article 9 s'applique, les procédures d'acceptation 
+sont les suivantes :
+
+       a)     une fois le matériel prêt à être utilisé, l'entrepreneur doit 
+              en aviser l'autorité contractante, par écrit, en mentionnant 
+              la présente disposition du contrat et en demandant 
+              l'acceptation des travaux;
+
+       b)     le Canada disposera de trente (30) jours pour exécuter les 
+              procédures d'acceptation (la « période d'acceptation »);
+
+       c)     si le Canada envoie un avis de défectuosité pendant la 
+              période d'acceptation, l'entrepreneur doit rectifier la 
+              défectuosité dès que possible et aviser le Canada, par écrit, 
+              lorsque les travaux sont complétés.  À ce moment, le Canada 
+              aura le droit d'effectuer une nouvelle inspection des travaux 
+              et la période d'acceptation recommencera.
+
+4.     Malgré les conditions générales supplémentaires 4002 et 4003, si 
+       elles s'appliquent au contrat, si le contrat prévoit que le système 
+       comprend le matériel et un logiciel sous licence et(ou) un logiciel 
+       personnalisé, la période pour exécuter tous les tests d'acceptation, 
+       comprenant tous les éléments logiciel sous licence et logiciel 
+       personnalisé du système, sera la période d'acceptation pour le 
+       matériel prévue dans les présentes conditions générales 
+       supplémentaires.
+
+<strong>4001   11     (2008-05-12)  Micrologiciels</strong>
+
+1.     L'entrepreneur doit livrer le matériel comprenant les micrologiciels 
+       nécessaires pour utiliser toutes ses fonctions.
+
+2.     Les micrologiciels n'appartiendront pas au Canada, mais 
+       l'entrepreneur accorde à ce dernier une licence perpétuelle, non 
+       exclusive, irrévocable et libre de redevances, qui l'autorise à 
+       utiliser les micrologiciels avec le matériel.  S'il transfert la 
+       propriété du matériel à un tiers, le Canada peut transférer cette 
+       licence.  Toute mention dans le contrat que les micrologiciels 
+       constituent un bien livrable réfère à la licence d'utilisation de 
+       ces micrologiciels, et non à la propriété des micrologiciels.
+
+3.     L'entrepreneur garantit qu'il a le droit d'accorder une licence à 
+       l'égard des micrologiciels et qu'il est pleinement autorisé à 
+       accorder au Canada les droits d'utilisation des micrologiciels 
+       décrits dans le présent article.  L'entrepreneur garantit également 
+       que tous les consentements nécessaires à cet octroi ont été obtenus.
+
+<strong>4001   12     (2008-05-12)  Responsabilité de l'ensemble du système</strong>
+
+1.     Si le contrat prévoit que le matériel fait partie d'un ou de 
+       plusieurs systèmes, l'entrepreneur doit fournir l'ensemble du ou des 
+       systèmes et s'assurer que chaque système est disponible pour être 
+       pleinement fonctionnel en tout temps. 
+
+2.     Si le contrat prévoit que l'entrepreneur doit incorporer des biens 
+       de l'État dans le système, les obligations prévues au paragraphe 1 
+       comprennent les biens de l'État et l'entrepreneur doit faire tous 
+       les ajustements requis aux biens de l'État pour qu'ils soient 
+       compatibles avec le reste du système.  Au cours de la période de 
+       garantie (définie ci-dessous), à la demande du Canada, 
+       l'entrepreneur doit, dès que possible, corriger toute défaillance du 
+       système causée par un raccordement ou une intégration inadéquate de 
+       tout bien de l'État dans le système, pour qu'il soit conforme aux 
+       spécifications.  Cette disposition reste en vigueur après 
+       l'acceptation des travaux et ne limite en aucune façon aucune des 
+       obligations de garantie et de maintenance de l'entrepreneur en vertu 
+       du contrat.
+
+3.     Malgré les paragraphes 1 et 2, l'entrepreneur n'est pas responsable 
+       en cas de non-conformité du système aux spécifications si cette 
+       non-conformité est directement attribuable à un défaut d'un bien de 
+       l'État ou à toute non-conformité d'un bien de l'État aux 
+       spécifications.  Ce paragraphe ne s'applique pas à tout bien de 
+       l'État qui avait été fourni au Canada à l'origine par l'entrepreneur 
+       et qui est maintenant remis à l'entrepreneur par le Canada pour être 
+       utilisé pour le contrat.
+
+
+<strong>Partie III - Conditions supplémentaires : achat</strong>
+
+<strong>4001   13     (2008-05-12)  Propriété du matériel acheté et risque de perte 
+                            ou d'endommagement</strong>
+
+1.     Sauf disposition contraire dans le contrat, incluant le paragraphe 2, 
+       le Canada devient propriétaire du matériel dès sa livraison et son 
+       acceptation par le Canada conformément aux conditions du contrat.
+
+2.     Lorsqu'il paye l'entrepreneur, sous forme de paiement partiel ou 
+       autrement, pour des matériaux, pièces, travaux en cours ou travaux 
+       complétés, le Canada devient propriétaire de ceux-ci une fois le 
+       paiement effectué, à moins que le droit de propriété ne lui ait déjà 
+       été transféré conformément à une autre disposition du contrat.  Le 
+       fait que le droit de propriété soit transféré au Canada ne constitue 
+       pas une acceptation par le Canada desdits matériaux, pièces, travaux 
+       en cours ou travaux complétés, ni ne dégage l'entrepreneur de son 
+       obligation d'exécuter les travaux conformément au contrat.  De plus, 
+       l'entrepreneur demeure responsable du risque de perte ou 
+       d'endommagement des matériaux, pièces, travaux en cours ou travaux 
+       complétés jusqu'à la livraison au Canada conformément au contrat, 
+       même si le droit de propriété a été transféré au Canada.
+
+3.     Après la livraison, l'entrepreneur demeure responsable de la perte 
+       ou de l'endommagement de toute partie des travaux qui est causé par 
+       l'entrepreneur, un sous-traitant ou une personne sous la 
+       responsabilité de l'un de ceux-ci.
+
+4.     L'entrepreneur garantit qu'il a le droit de transférer le droit de 
+       propriété du matériel au Canada et que ce matériel est libre de 
+       privilège, saisie, charge, servitude ou réclamations.  Lorsque le 
+       droit de propriété passe au Canada, l'entrepreneur doit établir, à 
+       la demande du Canada et selon les exigences de l'autorité 
+       contractante, que ce droit de propriété est libre et quitte de 
+       réclamations, privilège, saisie, charge ou servitude.  Si l'autorité 
+       contractante l'exige, l'entrepreneur doit exécuter tout document de 
+       transfert et prendre toutes les autres mesures nécessaires pour 
+       donner effet au titre du Canada.
+
+<strong>4001   14     (2010-01-11)  Garantie pour le matériel acheté</strong>
+
+1.     Même si le Canada a accepté les travaux, l'entrepreneur garantit que, 
+       pendant douze (12) mois après l'acceptation du matériel (la « 
+       période de garantie »), le matériel sera dépourvu de tout vice de 
+       matériaux et de construction ainsi que de tout défaut de conception 
+       et conforme à tous points de vue aux exigences du contrat, y compris 
+       les spécifications et les exigences concernant le niveau de 
+       disponibilité minimum.  Étant donné que des pièces de matériel 
+       peuvent être acceptées à différentes dates, la période de garantie 
+       pour différentes pièces de matériel livrées en vertu du contrat peut 
+       commencer et se terminer à différentes dates.  Si le contrat prévoit 
+       que le système comprend le matériel et un logiciel sous licence 
+       et(ou) un logiciel personnalisé, la période de garantie du matériel 
+       s'appliquera également aux éléments logiciel sous licence et(ou) 
+       logiciel personnalisé du système et cette période plus longue 
+       s'appliquera à toutes les obligations de garantie, maintenance et 
+       soutien prévues dans les conditions générales supplémentaires 4002 
+       et 4003.
+
+2.     La présente garantie ne s'applique pas à un élément spécifique du 
+       matériel si la seule cause de la non-conformité aux exigences du 
+       contrat est l'une des suivantes:
+
+       a)     le Canada est négligent ou n'utilise pas le matériel 
+              conformément aux spécifications;
+
+       b)     le système d'électricité, de climatisation ou de contrôle 
+              d'humidité à l'emplacement ne fonctionne pas conformément aux 
+              exigences particulières relatives à la préparation de 
+              l'emplacement décrites dans le contrat;
+
+       c)     une personne autre que l'entrepreneur, un sous-traitant ou 
+              une personne autorisée par l'un ou l'autre de ceux-ci modifie 
+              le matériel ou ajoute au matériel de l'équipement qui n'a pas 
+              été conçu ou approuvé pour être utilisé avec celui-ci par 
+              l'entrepreneur, un sous-traitant ou le fabricant; ou
+
+       d)     le Canada utilise à l'intérieur ou à l'extérieur du matériel 
+              des produits ou matériaux consommables qui sont fournis par 
+              une personne autre que l'entrepreneur ou un sous-traitant, 
+              alors que ces produits ou matériaux consommables ne sont pas 
+              conformes aux spécifications ou aux directives du fabricant 
+              du matériel destinées aux consommateurs.
+
+3.     L'entrepreneur doit fournir le service de maintenance du matériel 
+       pendant toute la période de garantie.  Tous les frais liés à la 
+       prestation du service de maintenance du matériel pendant la période 
+       de garantie du matériel sont compris dans le prix du matériel.  
+       L'entrepreneur doit continuer d'assurer le service de maintenance du 
+       matériel pour toute pièce de matériel réparée, remplacée ou remise 
+       en état dans le cadre du service de maintenance du matériel pendant 
+       le reste de la période de garantie qui s'appliquait à la pièce de 
+       matériel originale.
+
+
+<strong>Partie IV - Conditions supplémentaires: location</strong><strong></strong>
+
+<strong>4001   15     (2008-05-12)  Droit de propriété sur le matériel loué</strong>
+
+1.     L'entrepreneur demeure propriétaire de tout le matériel loué, sauf 
+       si le Canada exerce l'option d'achat du matériel contenue dans le 
+       contrat ou qu'il achète le matériel selon une entente distincte.
+
+2.     Si le contrat contient une option d'achat du matériel ou d'une 
+       partie de celui-ci, le Canada deviendra propriétaire de ce matériel 
+       à la date à laquelle il exerce cette option, ou la date déterminée 
+       par le Canada lorsqu'il exerce l'option, le cas échéant.  Lors de 
+       cet achat, les dispositions de la partie III s'appliquent 
+       automatiquement au matériel acheté.  Une fois qu'il devient 
+       propriétaire du matériel, le Canada assume le risque de perte ou 
+       d'endommagement du matériel acheté, mais l'entrepreneur doit 
+       respecter la garantie à l'article 14.  Lorsque le Canada devient 
+       propriétaire, aucun autre paiement pour la location n'est exigible 
+       en vertu du contrat pour le matériel acheté.
+
+<strong>4001   16     (2008-05-12)  Période de location</strong>
+
+1.     La période de location débute le jour de l'acceptation du matériel 
+       et se termine à son expiration conformément au contrat, sauf s'il y 
+       a résiliation selon le contrat (période de location).  Si elle n'est 
+       pas précisée ailleurs dans le contrat, la période de location est de 
+       douze (12) mois.
+
+2.     Sauf disposition contraire dans le contrat, si le contrat permet la 
+       location d'éléments supplémentaires pendant la période du contrat, 
+       sans égard au moment où ces éléments deviennent partie du matériel 
+       loué, la période de location pour tout le matériel loué se terminera 
+       à la date à laquelle expire la période de location du premier 
+       élément de matériel loué en vertu du contrat.
+
+3.     Si le premier jour de la période de location ne coïncide pas avec le 
+       premier jour d'un mois civil, les frais relatifs au premier et au 
+       dernier mois du contrat de location correspondent à une partie des 
+       frais mensuels prévus, calculée par multiplication du nombre de 
+       jours du mois au cours desquels le contrat de location est en 
+       vigueur par 1/30 des frais mensuels en vigueur en vertu du contrat à 
+       ce moment-là.
+
+<strong>4001   17     (2010-01-11)  Garantie pour le matériel loué</strong>
+
+1.     Même si le Canada a accepté le matériel loué, l'entrepreneur 
+       garantit que, pendant la période de location, qui est aussi la « 
+       période de garantie du matériel », le matériel sera dépourvu de tout 
+       vice de matériaux et de construction, ainsi que de tout défaut de 
+       conception et qu'il sera  conforme à tous points de vue aux 
+       exigences du contrat, y compris les spécifications et les exigences 
+       concernant le niveau de disponibilité minimum.  Si le contrat 
+       prévoit que le système comprend le matériel et un logiciel sous 
+       licence et(ou) un logiciel personnalisé, la période de garantie du 
+       matériel s'appliquera également aux éléments logiciel sous licence 
+       et(ou) logiciel personnalisé et cette période plus longue 
+       s'appliquera à toutes les obligations de garantie, maintenance et 
+       soutien prévues dans les conditions générales supplémentaires 4002 
+       et 4003.
+
+2.     La présente garantie ne s'applique pas à un élément spécifique du 
+       matériel loué si la seule cause de la non-conformité aux exigences 
+       du contrat est l'une des suivantes:
+
+       a)     le Canada est négligent ou n'utilise pas le matériel 
+              conformément aux spécifications;
+
+       b)     le système d'électricité, de climatisation ou de contrôle 
+              d'humidité à l'emplacement ne fonctionne pas conformément aux 
+              exigences particulières relatives à la préparation de 
+              l'emplacement décrites dans le contrat;
+
+       c)     une personne autre que l'entrepreneur, un sous-traitant ou 
+              une personne autorisée par l'un ou l'autre de ceux-ci modifie 
+              le matériel ou ajoute au matériel de l'équipement qui n'a pas 
+              été conçu ou approuvé pour être utilisé avec celui-ci par 
+              l'entrepreneur, un sous-traitant ou le fabricant; ou 
+
+       d)     le Canada utilise à l'intérieur ou à l'extérieur du matériel 
+              des fournitures ou matériaux consommables qui sont fournis 
+              par une personne autre que l'entrepreneur ou un sous-traitant, 
+              alors que ces fournitures ou matériaux consommables ne sont 
+              pas conformes aux spécifications ou aux directives du 
+              fabricant du matériel destinées aux consommateurs.
+
+3.     L'entrepreneur doit fournir le service de maintenance du matériel 
+       loué pendant toute la période de garantie.  Tous les frais liés à la 
+       fourniture du service de maintenance du matériel pendant la période 
+       de garantie du matériel sont compris dans le taux de location du 
+       matériel.  L'entrepreneur doit continuer de fournir le service de 
+       maintenance du matériel pour toute pièce de matériel loué réparée, 
+       remplacée ou remise en état dans le cadre du service de maintenance 
+       du matériel pendant le reste de la période de garantie du matériel 
+       qui s'appliquait à la pièce de matériel originale.
+
+<strong>4001   18     (2008-05-12)  Résiliation du contrat de location pour raisons 
+de commodité</strong>
+
+1.     L'article des conditions générales intitulé « Résiliation pour 
+       raisons de commodité » ne s'applique pas à la location du matériel 
+       et est remplacé par la présente disposition.
+
+2.     Malgré toute disposition contraire dans le contrat, le Canada peut 
+       résilier le contrat de location à l'égard du matériel loué ou de 
+       tout élément de celui-ci en tout temps pendant la période de 
+       location en donnant à l'entrepreneur un préavis de soixante (60) 
+       jours.
+
+3.     Si l'autorité contractante émet un avis de résiliation en vertu du 
+       paragraphe 2, les seuls paiements auxquels l'entrepreneur aura droit 
+       à la suite de la résiliation sont les suivants:
+
+       a)     les frais de location mensuels qui se rapportent au matériel 
+              loué ou à l'élément visé par la résiliation, jusqu'à la date 
+              de résiliation, calculés sur une base proportionnelle si la 
+              date de résiliation ne correspond pas avec la fin du mois; et
+
+       b)     les frais de résiliation du contrat de location, s'ils sont 
+              précisés au contrat.
+
+4.     Malgré le paragraphe 3, le total du montant auquel l'entrepreneur 
+       aura droit à la suite de la résiliation, en vertu du paragraphe 3 et 
+       des montants qui lui ont déjà été versés pour la location du 
+       matériel, ne peut dépasser le total du prix contractuel à l'égard de 
+       la location du matériel ou, en cas de résiliation partielle, de la 
+       partie du prix contractuel applicable à la partie du contrat de 
+       location visée par la résiliation.
+
+<strong>4001   19     (2008-05-12)  Risque de destruction ou d'endommagement du 
+matériel loué</strong>
+
+1.     L'entrepreneur accepte d'assumer les risques de perte ou 
+       d'endommagement du matériel au cours du transport et de 
+       l'installation et pendant toute la période au cours de laquelle le 
+       Canada en a la possession, sauf lorsque la perte ou l'endommagement 
+       est causé par la négligence du Canada ou d'une personne agissant en 
+       son nom.
+
+2.     Si le matériel est perdu ou endommagé pendant la période de location, 
+       sauf lorsque la destruction ou l'endommagement est causé par le 
+       Canada ou une personne agissant en son nom, le Canada n'est pas tenu 
+       de payer les frais de location pendant la période nécessaire pour 
+       que l'entrepreneur répare ou remplace le matériel et, au choix du 
+       Canada, la période de location sera prolongée pendant une période de 
+       temps égale à la durée des travaux de réparation ou de remplacement 
+       par l'entrepreneur.  Si le matériel n'est pas disponible pendant une 
+       période de plus de trente (30) jours, le présent paragraphe 
+       n'empêche pas le Canada de résilier le contrat pour manquement.
+
+<strong>4001   20     (2008-05-12)  Modifications apportées au matériel loué</strong>
+
+Le Canada convient de ne pas apporter de modifications au matériel loué 
+sans l'approbation écrite préalable de l'entrepreneur et ce dernier ne peut 
+refuser son consentement sans motif valable.
+
+<strong>4001   21     (2008-05-12)  Déplacement du matériel loué</strong>
+
+Le Canada peut, à son choix et à ses frais, déplacer le matériel loué à 
+l'intérieur de l'établissement où le matériel loué est utilisé ou vers un 
+autre établissement, avec l'aide des ressources de son choix.  Le 
+déménagement du matériel n'a aucune incidence sur la garantie de 
+l'entrepreneur ou sur son obligation de fournir le service de maintenance 
+du matériel loué, à moins que l'entrepreneur puisse démontrer que la panne 
+ou le fonctionnement défectueux du matériel loué sont directement causés 
+par le déplacement. Dans ce cas, le Canada devra réparer les dommages 
+causés par le déplacement et le reste des obligations de l'entrepreneur en 
+matière de garantie et de maintenance demeureront en vigueur.
+
+<strong>4001   22     (2008-05-12)  Désinstallation et retrait du matériel loué</strong>
+
+1.     L'entrepreneur doit désinstaller et enlever le matériel le plus tôt 
+       possible après l'expiration ou la résiliation du contrat de location.  
+       Si la période de location est différente pour différents  éléments 
+       du matériel, cette obligation s'applique à chaque élément du 
+       matériel.  L'entrepreneur doit fournir toutes les ressources 
+       nécessaires à cette fin, y compris les grues, et doit s'occuper du 
+       transport, du montage et du factage nécessaires pour le retrait du 
+       matériel des locaux du Canada.  Tous les frais liés à la 
+       désinstallation, au retrait et au transport jusqu'à l'établissement 
+       de l'entrepreneur sont compris dans les taux de location.
+
+2.     Si l'entrepreneur ne désinstalle pas ou n'enlève pas le matériel 
+       dans les trente (30) jours de la fin ou la résiliation du contrat de 
+       location, le Canada, à son choix, deviendra automatiquement 
+       propriétaire du matériel loué ou pourra faire des arrangements pour 
+       désinstaller et enlever le matériel loué, aux frais de 
+       l'entrepreneur.  Le Canada pourra déduire ce montant de tout 
+       paiement dû à l'entrepreneur en vertu du contrat ou autrement.
+
+<strong>4001   23     (2008-05-12)  Jouissance paisible</strong>
+
+L'entrepreneur garantit qu'il est pleinement autorisé à louer le matériel 
+au Canada.  L'entrepreneur garantit également que, pendant la période de 
+location, si le Canada exécute ses obligations découlant du contrat, le 
+Canada pourra utiliser le matériel de façon illimitée sans entrave de la 
+part de l'entrepreneur, ou de toute personne agissant en son nom ou à 
+laquelle il a accordé des droits, sauf lorsque l'entrepreneur assure le 
+service de maintenance du matériel en vertu du contrat.
+
+<strong>4001   24     (2008-05-12)  Droit de retenir les paiements de location</strong>
+
+Si l'entrepreneur ne remplit pas ses obligations en vertu du contrat, le 
+Canada peut, en plus des autres droits dont il dispose, dont celui de 
+résilier le contrat pour manquement, retenir les paiements de location du 
+matériel jusqu'à ce que le manquement soit corrigé.  L'autorité 
+contractante peut exercer ce droit en donnant à l'entrepreneur un avis dans 
+lequel la raison du manquement est décrit.
+
+
+<strong>Partie V - Conditions supplémentaires : maintenance</strong>
+
+<strong>4001   25     (2010-01-11)  Service de maintenance</strong> <strong>du matériel</strong>
+
+1.     Dans cette partie, « période de maintenance du matériel » désigne :
+
+       a)     pour le matériel acheté en vertu du contrat, la période de 
+              garantie décrite à l'article 14, à laquelle s'ajoute la 
+              période de prolongation de la période de maintenance du 
+              matériel si le contrat renferme une option de prolongation du 
+              service de maintenance du matériel ou si le contrat est 
+              autrement modifié pour prolonger la période de maintenance du 
+              matériel;
+
+       b)     pour le matériel loué, la période de location;
+
+       c)     pour le matériel loué qui est par la suite acheté en vertu du 
+              contrat, la période de location et, à compter de la date 
+              d'achat, la période décrite à l'alinéa a);
+
+       d)     pour le matériel qui est ni acheté ni loué en vertu du 
+              contrat, mais pour lequel l'entrepreneur fournit le service 
+              de maintenance du matériel en vertu du contrat, la période 
+              totale du contrat, à moins que le contrat comprenne une 
+              période plus courte .
+
+2.     L'entrepreneur convient d'entretenir le matériel selon cette partie 
+       afin d'assurer qu'il demeure pleinement fonctionnel (le « service de 
+       maintenance du matériel »).  Dans le cadre du service de maintenance 
+       du matériel, l'entrepreneur convient de diagnostiquer et de résoudre 
+       tous les problèmes qui se produisent avec le matériel pendant toute 
+       la période de maintenance du matériel en réparant, en remplaçant et 
+       en remettant en état dès que possible la ou les pièces de matériel 
+       qui sont défectueuses ou dont le fonctionnement n'est pas conforme 
+       aux spécifications.  L'entrepreneur convient qu'un problème n'est 
+       pas résolu tant que le matériel n'est pas pleinement fonctionnel.
+
+3.     Le coût de la fourniture de la main-d'oeuvre, des pièces, des autres 
+       matériaux ou des déplacements nécessaires pour remettre le matériel 
+       en état pleinement fonctionnel ou exécuter toute autre partie du 
+       service de maintenance du matériel décrit dans le présent article 
+       est compris dans le service de maintenance du matériel.  Aucuns 
+       frais supplémentaires, pour le temps, le matériel ou autres coûts 
+       liés à la maintenance du matériel pendant la période de maintenance 
+       du matériel, autres que les frais prévus aux paragraphes 26(3)e) et 
+       f), ne peuvent être facturés par l'entrepreneur.
+
+4.     L'entrepreneur doit accepter les appels de service, et y répondre, 
+       pendant la « principale période de maintenance » (PPM).  Si aucune 
+       PPM n'est définie dans le contrat, la PPM est de douze (12) heures 
+       par jour, de 7 h à 19 h, heure de l'Est, du lundi au vendredi, 
+       excluant les jours fériés observés par le Canada.
+
+5.     Dans le cadre du service de maintenance du matériel, l'entrepreneur 
+       doit fournir au Canada du soutien technique par l'entremise d'une 
+       ligne d'assistance sans frais, avec service offert en anglais et en 
+       français, selon la préférence du demandeur, conformément à ce qui 
+       suit:
+
+       a)     Les services de la ligne d'assistance de l'entrepreneur 
+              doivent être fournis par des employés compétents capables de 
+              répondre aux questions des utilisateurs, de résoudre leurs 
+              problèmes, dans la mesure du possible et de donner des 
+              conseils concernant les problèmes liés au matériel et à la 
+              documentation relative au matériel, ainsi que sur des  
+              questions relatives à l'installation, à la configuration et à 
+              l'intégration du matériel.  Pour tous les problèmes des 
+              utilisateurs qui ne peuvent pas être résolus par téléphone, 
+              l'entrepreneur doit émettre un dossier d'incidence pour le 
+              service de maintenance du matériel soit pour le service de 
+              maintenance retour au dépôt ou le service de maintenance sur 
+              place décrits à l'article 26, selon le cas.
+
+       b)     La ligne d'assistance de l'entrepreneur doit être disponible, 
+              au minimum, pendant toute la  PPM.
+
+       c)     L'entrepreneur doit fournir un numéro de ligne d'assistance à 
+              l'autorité contractante immédiatement après l'attribution du 
+              contrat.
+
+       d)     L'entrepreneur doit répondre aux appels de la ligne 
+              d'assistance au plus tard à la cinquième sonnerie 95 p.100 du 
+              temps.  L'entrepreneur doit répondre à tous les appels, avec 
+              un prestataire de services en direct, dans les 2 minutes 95 p.100 
+              du temps.
+
+6.     Dans le cadre du service de maintenance du matériel, l'entrepreneur 
+       doit également fournir au Canada du soutien technique par 
+       l'entremise d'un service de soutien Web, qui doit comprendre, au 
+       minimum, une foire aux questions et, s'il y a lieu, des 
+       sous-programmes diagnostiques de logiciels en ligne, des outils de 
+       soutien et des services.  Le site Web de l'entrepreneur doit fournir 
+       du soutien en anglais et en français.  Le site Web de l'entrepreneur 
+       doit être accessible aux utilisateurs du Canada vingt-quatre (24) 
+       heures par jour, 365 jours par année et 99 p. 100 du temps. 
+       L'entrepreneur doit fournir l'adresse de son site Web à l'autorité 
+       contractante immédiatement après l'attribution du contrat.
+
+7.     Chaque fois que l'entrepreneur fournit le service de maintenance du 
+       matériel, à l'exception du service de maintenance du matériel dans 
+       le cadre des articles 5 et 6, le technicien de service de 
+       l'entrepreneur doit préparer un rapport de service de maintenance du 
+       matériel.  Pour tout service de maintenance du matériel fourni sur 
+       place, l'entrepreneur doit fournir une copie de ce rapport au 
+       représentant du Canada sur place lorsque les travaux sont complétés. 
+       Pour tout service de maintenance du matériel effectué hors site, 
+       l'entrepreneur doit inclure une copie de ce rapport avec le matériel 
+       lorsque ce dernier est retourné au Canada.  L'entrepreneur doit 
+       conserver des copies des rapports pendant six (6) ans à compter de 
+       la date d'expiration ou de résiliation du contrat et fournir une 
+       copie des rapports de service de maintenance du matériel sur demande 
+       de l'autorité contractante.  Chaque rapport de service de 
+       maintenance du matériel doit comprendre ce qui suit:
+
+       a)     la date et l'heure à laquelle l'entrepreneur a reçu l'appel 
+              de service;
+
+       b)     l'emplacement de service qui a reçu l'appel de service ou qui 
+              y a répondu;
+
+       c)     le numéro de série de l'article du matériel;
+
+       d)     le nom de la personne qui a assuré la maintenance;
+
+       e)     si la maintenance est assurée sur place, l'heure à laquelle 
+              le technicien de service est arrivé à l'emplacement, ainsi 
+              que le nombre d'heures travaillées sur place (y compris le 
+              nombre d'heures et la date pour chaque jour de travail sur 
+              place);
+
+       f)     une description du symptôme;
+
+       g)     le diagnostic du problème;
+
+       h)     une liste de toutes les pièces remplacées ou installées;
+
+       i)     le numéro d'identification de chaque assemblage important qui 
+              a été retiré ou remplacé, s'il y a lieu; et
+
+       j)     si la maintenance est assurée sur place, le nom du technicien 
+              de service de l'entrepreneur et l'emplacement de service à 
+              partir duquel le représentant travaille, ainsi que le nom et 
+              la signature du représentant du Canada sur place qui accepte 
+              que le matériel semble avoir été remis en état pleinement 
+              fonctionnel.
+
+8.     L'entrepreneur garantit que les pièces nécessaires au service de 
+       maintenance du matériel seront disponibles tout au long de la 
+       période de maintenance du matériel.
+
+9.     Le Canada devient le propriétaire de toutes pièces utilisées pour 
+       réparer ou maintenir le matériel (qui sont elles-mêmes intégrées au 
+       matériel), sauf pour le matériel loué.
+
+10.    Le Canada reconnaît que, dans le cadre de la prestation du service 
+       de maintenance du matériel, l'entrepreneur et ses employés, agents 
+       et sous-traitants peuvent développer, du savoir-faire, des 
+       techniques d'enseignement et d'autres propriétés intellectuelles, et 
+       les partager avec le Canada. Sauf disposition contraire dans le 
+       contrat, les droits sur ces propriétés intellectuelles appartiennent 
+       à l'entrepreneur.  Aussi longtemps qu'il se conforme en tout temps 
+       aux dispositions relatives à la confidentialité du contrat, 
+       l'entrepreneur aura le droit d'utiliser ces propriétés 
+       intellectuelles selon son bon jugement, y compris dans le cadre des 
+       services qu'il fournit à ses autres clients, à condition que le 
+       Canada ait également le droit d'utiliser sans frais ces propriétés 
+       intellectuelles à ses propres fins.
+
+<strong>4001   26     (2010-01-11)  Catégories de services de maintenance</strong> <strong>du 
+matériel</strong>
+
+1.     Le présent article décrit deux catégories de service de maintenance : 
+       « service de maintenance avec retour à l'atelier » et « service de 
+       maintenance sur place ».  Si le contrat indique que plus d'une 
+       catégorie de service s'applique, le Canada peut préciser la 
+       catégorie de service exigée pour chaque élément dans les articles de 
+       convention ou, si le contrat prévoit des commandes multiples pour 
+       l'achat ou la location de matériel, dans la commande individuelle au 
+       moment de l'achat ou de la location du matériel.  Si le contrat ne 
+       précise pas la catégorie de service exigée, l'entrepreneur doit 
+       fournir le service de maintenance offert avec retour à l'atelier 
+       seulement.
+
+2.     En ce qui a trait au service de maintenance avec retour à l'atelier, 
+       pendant la  PPM tout au long de la période de maintenance du 
+       matériel, l'entrepreneur doit ramasser et retourner le matériel à 
+       l'emplacement du Canada où celui-ci était utilisé au moment où le 
+       problème est survenu. L'entrepreneur doit ramasser le matériel 
+       défectueux dans les quarante-huit (48) heures suivant la demande de 
+       service de maintenance du Canada.  Dans les six (6) jours ouvrables 
+       suivant la demande de service de maintenance du Canada, 
+       l'entrepreneur doit remettre le matériel en état pleinement 
+       fonctionnel et le retourner au Canada à l'endroit où il était 
+       utilisé lorsque le problème est arrivé, ou le remplacer par du 
+       matériel qui répond aux exigences du contrat.
+
+3.     En ce qui a trait au service de maintenance sur place, pendant la 
+       PPM tout au long de la période de maintenance du matériel, 
+       l'entrepreneur doit assurer le service de maintenance sur place pour 
+       tout matériel signalé comme étant défectueux à l'emplacement du 
+       Canada où celui-ci était utilisé au moment où le problème est 
+       survenu, conformément à ce qui suit:
+
+       a)     l'entrepreneur doit se présenter sur place dans les délais 
+              prévus ci-dessous:
+
+              (i)    si le matériel est situé dans un rayon de 100 km d'une 
+                     agglomération d'au moins 100 000 personnes, un 
+                     technicien de service doit répondre par téléphone dans 
+                     l'heure suivant l'appel de service et un technicien de 
+                     service doit se présenter sur place dans les 
+                     vingt-quatre (24) heures suivant l'appel de service 
+                     original;
+
+              (ii)   si le matériel est situé dans un rayon de 100 km d'une 
+                     agglomération de 30 000 à 99 999 personnes, un 
+                     technicien de service doit répondre par téléphone dans 
+                     l'heure suivant l'appel de service et un technicien de 
+                     service doit se présenter sur place dans les 
+                     quarante-huit (48) heures suivant l'appel de service 
+                     original;
+
+              (iii)  pour tous les autres emplacements au Canada, un 
+                     technicien de service doit répondre par téléphone dans 
+                     l'heure suivant l'appel de service et un technicien de 
+                     service doit se présenter sur place dans les 
+                     soixante-douze (72) heures suivant l'appel de service 
+                     original.
+
+       b)     Une fois qu'il a commencé le service de maintenance, 
+              l'entrepreneur doit travailler de façon continue pendant 
+              toute la PPM jusqu'à ce qu'il remette le matériel en état 
+              pleinement fonctionnel ou jusqu'à ce que le Canada suspende 
+              les travaux.
+
+       c)     La période à compter du moment où le Canada avise 
+              l'entrepreneur de suspendre les travaux jusqu'à ce que le 
+              Canada avise l'entrepreneur de reprendre les travaux ne sera 
+              pas considérée comme étant du temps de panne aux fins du 
+              calcul du niveau de disponibilité, le cas échéant.  Si le 
+              matériel nécessite un service de maintenance à un moment où 
+              le temps de réponse exigé entraînerait l'arrivée sur place du 
+              technicien de service de l'entrepreneur en dehors de la PPM, 
+              et que le Canada n'exige pas un service de maintenance en 
+              dehors de la PPM au taux applicable, si disponible en vertu 
+              du contrat, la période jusqu'à la prochaine PPM ne sera pas 
+              considérée comme étant du temps de panne aux fins du calcul 
+              du niveau de disponibilité;
+
+       d)     dans les quatre (4) jours ouvrables suivant la demande de 
+              service de maintenance du Canada, l'entrepreneur doit 
+              remettre le matériel en état pleinement fonctionnel ou le 
+              remplacer par du matériel qui répond aux exigences du contrat;
+
+       e)     si le contrat comprend un tarif horaire distinct pour le 
+              service de maintenance sur place exécuté en dehors de la PPM, 
+              et que l'utilisateur plaçant l'appel de service demande 
+              expressément que le service soit exécuté en dehors de la PPM 
+              à des frais supplémentaires, l'entrepreneur doit se présenter 
+              sur place dans les délais prescrits au paragraphe 3a) comme 
+              si le service devait être exécuté en dedans de la PPM.  Dans 
+              ce cas, l'entrepreneur a le droit d'inclure des frais dans la 
+              prochaine facture, au tarif horaire du service de maintenance 
+              sur place en dehors de la PPM précisé au contrat, pour les 
+              heures travaillées en dehors de la PPM.   L'entrepreneur a le 
+              droit de réclamer des frais pour le temps réel travaillé en 
+              dehors de la PPM ou deux (2) heures, le nombre d'heures le 
+              plus élevé étant retenu, mais n'a pas le droit de réclamer 
+              des frais pour le temps de déplacement.  Si l'entrepreneur 
+              exécute le service de maintenance du matériel en dehors de 
+              PPM, le temps en dehors de la PPM jusqu'à ce que le matériel 
+              soit remis en état pleinement fonctionnel sera considéré 
+              comme étant du temps de panne;
+
+       f)     l'entrepreneur peut également réclamer des frais dans sa 
+              prochaine facture, au tarif horaire du service de maintenance 
+              sur place en dehors de la PPM précisé au contrat, pour les 
+              heures travaillées en dehors de la PPM lorsque l'entrepreneur 
+              se présente sur place pendant la PPM et commence les travaux, 
+              mais qu'il est incapable de compléter les travaux pendant la 
+              PPM, si le représentant du Canada sur place demande 
+              expressément que le technicien de service complète les 
+              travaux après la PPM à des frais supplémentaires.  Pour 
+              pouvoir réclamer ces frais, l'entrepreneur doit obtenir la 
+              signature du représentant du Canada sur place qui accepte les 
+              frais supplémentaires.  En raison du fait que le technicien 
+              de service de l'entrepreneur est déjà sur place, 
+              l'entrepreneur doit réclamer uniquement les frais pour le 
+              temps réel travaillé en dehors de la PPM et aucun frais 
+              minimum ne s'applique.  Si l'entrepreneur exécute le service 
+              de maintenance du matériel en dehors de la PPM, le temps en 
+              dehors de la PPM jusqu'à ce que le matériel soit remis en 
+              état pleinement fonctionnel sera considéré comme étant du 
+              temps de panne.
+
+       g)     si aucun tarif horaire pour le service de maintenance sur 
+              place en dehors de la PPM n'est précisé dans le contrat, 
+              l'entrepreneur n'a pas à exécuter le service de maintenance 
+              en dehors de la PPM et ne doit pas réclamer des frais s'il 
+              décide de compléter les travaux en dehors de la PPM.
+
+
+
+</pre>

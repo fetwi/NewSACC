@@ -1,0 +1,85 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats avec des autorisations de tâches 
+lorsque l'entrepreneur doit présenter des rapports d'utilisation périodiques. 
+
+Les périodes de référence et le nombre de jours civils alloués pour présenter 
+chacun des rapports à la suite des périodes de référence doivent être indiqués 
+dans la clause. 
+
+L'agent de négociation des contrats doit s'assurer que l'entrepreneur satisfait 
+à toutes les exigences en matière d'établissement de rapports précisées dans le 
+contrat. 
+
+Pour de plus amples renseignements, consulter l'article
+ 
+  3.35.1.20
+ 
+ du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit compiler et tenir à jour des
+données sur les services fournis au gouvernement
+fédéral, conformément à l'autorisation de
+tâches approuvée émise dans le cadre du contrat.</p>
+<p>L'entrepreneur doit fournir ces données conformément
+aux exigences d'établissement de rapports précisées
+ci-dessous ou dans l'annexe <var>___</var> . Si certaines
+données ne sont pas disponibles, la raison doit en être
+indiquée. Si aucun service n'a été fourni pendant
+une période donnée, l'entrepreneur doit soumettre un
+rapport portant la mention " néant ".</p>
+<p>Les données doivent être présentées tous les
+<span class="input-required"><var>___________</var>
+<kbd>(<i>insérer «  trimestres  » ou indiquer une autre
+période de référence</i>)</kbd></span> à
+l'autorité contractante.</p>
+<p class="description">(<i>Si une autre période référence est
+utilisée, supprimer la répartition des trimestres
+ci-dessous et définir la période de référence
+appropriée</i>.)</p>
+<p>Voici la répartition des trimestres :</p>
+<p>premier trimestre : du 1er avril au 30 juin;</p>
+<p>deuxième trimestre : du 1er juillet au 30 septembre;</p>
+<p>troisième trimestre : du 1er octobre au 31
+décembre;</p>
+<p>quatrième trimestre : du 1er janvier au 31 mars.</p>
+<p>Les données doivent être présentées à
+l'autorité contractante dans les <span class="input-required"><var>____</var> <kbd>(<i>insérer le nombre de
+jours</i>)</kbd></span> jours civils suivant la fin de la période
+de référence.</p>
+<h2>Exigence en matière de rapport - Explications</h2>
+<p>Il faut tenir à jour un dossier détaillé de
+toutes les tâches approuvées pour chaque contrat avec une
+autorisation de tâches (AT). Le dossier peut comprendre
+<span class="input-required"><kbd>(<i>l'autorité contractante peut modifier le texte, s'il y a
+lieu</i>)</kbd></span> :</p>
+<h2>Pour chaque <abbr title="Autorisation de tâches">AT</abbr> autorisée:</h2>
+<ol type="i">
+<li value="1">le numéro de la tâche autorisée ou le
+numéro de révision de la tâche;</li>
+<li value="2">le titre ou une courte description de chaque tâche
+autorisée;</li>
+<li value="3">le coût estimatif total précisé dans l'<abbr title="Autorisation de tâches">AT</abbr>
+autorisée de chaque tâche, <abbr title="Taxe sur les produits et services">TPS</abbr> ou <abbr title="Taxe de vente harmonisée">TVH</abbr> en sus;</li>
+<li value="4">le montant total, <abbr title="Taxe sur les produits et services">TPS</abbr> ou <abbr title="Taxe de vente harmonisée">TVH</abbr> en sus, dépensé
+jusqu'à maintenant pour chaque <abbr title="Autorisation de tâches">AT</abbr> autorisée;</li>
+<li value="5">dates de début et de fin de chaque <abbr title="Autorisation de tâches">AT</abbr>
+autorisée;</li>
+<li value="6">l'état actuel de chaque <abbr title="Autorisation de tâches">AT</abbr> autorisée, (s'il y a
+lieu).</li></ol>
+<h2>Pour toutes les <abbr title="Autorisation de tâches">AT</abbr> autorisées:</h2>
+<ol type="i">
+<li value="1">Le montant (<abbr title="Taxe sur les produits et services">TPS</abbr> ou <abbr title="Taxe de vente harmonisée">TVH</abbr> en sus) précisé dans
+le contrat (selon la dernière modification, s'il y a lieu) de
+la responsabilité totale du Canada envers l'entrepreneur pour
+toutes les <abbr title="Autorisation de tâches">AT</abbr> autorisées;</li>
+<li value="2">le montant total, <abbr title="Taxe sur les produits et services">TPS</abbr> ou <abbr title="Taxe de vente harmonisée">TVH</abbr> en sus, dépensé
+jusqu'à présent pour toutes les <abbr title="Autorisation de tâches">AT</abbr> autorisées.</li>
+</ol>
+</div></pre>

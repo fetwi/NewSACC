@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En cas d'irrégularité quelconque dans les documents contractuels, les 
+spécifications ou les dessins, l'ordre de priorité suivant prévaudra :
+
+(1) le contrat  
+(2) les spécifications  
+(3) les dessins  
+(4) les autres documents     
+</pre>

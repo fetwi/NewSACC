@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l'entrepreneur est 
+responsable pour tous les frais de surestarie attribuables à ses activités ou à 
+ses omissions.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit payer tous les frais de surestarie
+attribuables à ses activités ou à ses omissions.</p>
+</div></pre>

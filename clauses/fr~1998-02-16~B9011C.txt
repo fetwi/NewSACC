@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>L'agent de négociation des contrats doit établir une liste du matériel convenu à 
+la clause B9011T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur devra fournir le matériel suivant pour l'exécution 
+       des travaux :
+
+       <strong>DESCRIPTION          QUANTITÉ</strong>
+
+       a) _____                    _____
+
+       b) _____                    _____
+
+       c) _____                    _____
+
+</pre>

@@ -1,0 +1,36 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats portant sur tous les biens 
+d'équipement électronique de conception militaire, et, dans les cas où le 
+gestionnaire du cycle de vie du matériel (GCVM) en fait la demande, pour 
+l'équipement électronique de conception commerciale.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit préparer les données de nomenclature ou 
+       confirmer les données existantes, conformément au numéro le plus 
+       récent de la spécification D-01-000-200/SF-001 des Forces 
+       canadiennes ou de la norme MIL-STD-196D pour les éléments _____ et 
+       leurs composants.  Pour s'assurer qu'elle sera traitée dans les 
+       délais, la documentation nécessaire doit être soumise le plus tôt 
+       possible, mais dans tous les cas au plus tard quatre-vingt-dix (90) 
+       jours avant la livraison prévue de l'élément final à livrer auquel 
+       elle se rapporte.
+
+2.     L'entrepreneur doit prendre les dispositions nécessaires pour la 
+       conception et la fabrication de plaques signalétiques, conformément 
+       au numéro le plus récent de la spécification D-02-002-001/SG-001 des 
+       Forces canadiennes, pour les éléments _____ et leurs composants.  
+       Chacune de ces plaques doit être apposée sur l'article livrable 
+       complet auquel elle se rapporte, avant sa livraison.
+
+3.     Il faut adresser toutes les demandes de renseignements, tous les 
+       dessins et tous les documents concernant la nomenclature et les 
+       plaques signalétiques au :
+
+       Quartier général de la Défense nationale
+       Immeuble Mgén George R. Pearkes
+       101, Promenade du Colonel By
+       Ottawa (ON)  K1A 0K2
+
+       <strong>À l'attention du _____</strong>
+
+</pre>

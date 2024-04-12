@@ -1,0 +1,59 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante : 
+
+a) 	lorsqu'une vérification de la FIABILITÉ est requise (case 12);
+
+b) 	lorsque la SAUVEGARDE DES DOCUMENTS devant être détruits aux installations 
+de l'entrepreneur ou du soumissionnaire est requise (cases 13, 15 ou 16);
+
+c) 	lorsqu'il est précisé à la case 13 que l'information ou les biens sont de 
+niveau «DÉSIGNÉ»;
+
+d) 	lorsque l'information de niveau «DÉSIGNÉ» NE PEUT PAS être traitée ou 
+produite à l'aide de l'équipement TED de l'entrepreneur ou du soumissionnaire 
+(case 17).
+
+	L'achat sera précisé dans la clause en matière de sécurité précisée dans le 
+contrat ou l'offre à commandes, le cas échéant.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     La liste de vérification des exigences relatives à la sécurité 
+       (LVERS) ci-jointe décrit les exigences en matière de sécurité 
+       applicables à la destruction de renseignements DÉSIGNÉS aux niveaux 
+       PROTÉGÉ A et B en utilisant l'équipement de destruction autorisé 
+       dans les locaux de l'entrepreneur. 
+
+2.     Le ministère client doit veiller à ce que seuls les documents dont 
+       le niveau de DÉSIGNATION n'est pas supérieur à PROTÉGÉ B soient 
+       remis à l'entrepreneur pour être détruits conformément à un contrat 
+       établi. 
+
+3.     L'entrepreneur doit, en tout temps durant l'exécution du contrat, 
+       avoir une <strong><em>Vérification d'organisation désignée (VOD)</em></strong><em> </em>et une 
+       autorisation de détenir des documents désignés au niveau PROTÉGÉ B, 
+       émise ou approuvée par la Division de la sécurité industrielle 
+       canadienne et internationale (DSICI) de Travaux publics et Services 
+       gouvernementaux Canada. 
+
+4.     Le personnel de l'entrepreneur qui détruira les documents et(ou) qui 
+       devra avoir accès à l'information et aux biens DÉSIGNÉS ou aux zones 
+       de travail restreintes doit avoir une autorisation de sécurité 
+       «vérification APPROFONDIE DE LA FIABILITÉ» accordée ou approuvée par 
+       la DSICI.
+
+5.     Si l'entrepreneur décide de recourir aux services de personnes ayant 
+       une déficience intellectuelle, la vérification APPROFONDIE DE LA 
+       FIABILITÉ n'est pas nécessaire.  Cependant, ces personnes devront 
+       toujours faire l'objet d'une surveillance par un représentant d'une 
+       entreprise autorisée qui doit avoir obtenu une autorisation de 
+       sécurité «vérification APPROFONDIE DE LA FIABILITÉ».
+
+6.     L'entrepreneur doit se conformer aux dispositions suivantes : 
+
+       a)     la Liste de contrôle des exigences relatives à la sécurité 
+              (LCERS), à l'annexe ____ ci-jointe, qui comprend un guide de 
+              sécurité. 
+
+       b)     le Manuel de la sécurité industrielle (juin 1992). 
+
+</pre>

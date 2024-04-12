@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque la demande de soumissions contient des références aux normes de l'Office des normes générales du Canada (ONGC).  Les agents de négociation des contrats doivent remplir les espaces en blanc avec le(s) nom(s) de la(des) norme(s) disponible(s )auprès de l'
+  <abbr title="Office des normes générales du Canada">
+   ONGC
+  </abbr>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Un exemplaire de la <var>___________</var> , dont il est question dans la demande de soumissions, est disponible et peut être acheté auprès du :</p>
+<br/>Office des normes générales du Canada
+<br/>Place du Portage III, 6B1
+<br/>11, rue Laurier
+<br/>Gatineau (Québec)
+<br/>Téléphone : (819) 956-0425 ou 1-800-665-CGSB (Canada seulement)
+<br/>Télécopieur : (819) 956-5740
+<br/>Courriel : ncr.cgsb-ongc@tpsgc-pwgsc.gc.ca
+<br/>Site Web de l'ONGC : <cite>Office des normes générales du Canada
+</cite>
+</div></pre>

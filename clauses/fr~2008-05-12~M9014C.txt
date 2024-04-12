@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les offres à commandes s'il est prévu que le 
+Canada peut exiger une prolongation de la période de l'offre à commandes.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent insérer la période applicable, 
+par ex., d'un an; d'un mois; de 90 jours.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Si l'utilisation de l'offre à commandes est autorisée
+au-delà de la période initiale, l'offrant consent à
+prolonger son offre pour une période supplémentaire
+<var>_____</var> , à partir du <var>_____</var> jusqu'au
+<var>_____</var> , aux mêmes conditions et aux taux ou prix
+indiqués dans l'offre à commandes, ou aux taux ou prix
+calculés selon la formule mentionnée dans l'offre à
+commandes.</p>
+<p>L'offrant sera avisé de la décision d'autoriser
+l'utilisation de l'offre à commandes pour une période
+prolongée par le responsable de l'offre à commandes
+<var>______</var> jours avant la date d'expiration de celle-ci. Une
+révision à l'offre à commandes sera émise par
+le responsable de l'offre à commandes.</p>
+</div></pre>

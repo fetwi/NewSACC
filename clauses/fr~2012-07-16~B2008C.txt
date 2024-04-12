@@ -1,0 +1,93 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque les institutions
+  <br/>
+  mentionnées aux annexes I, I.1 et II de la
+  <cite>
+
+    Loi sur la gestion des finances publiques
+   
+</cite>
+<br/>
+  doivent se conformer aux normes sur la Normalisation des sites
+  <br/>
+  Internet (NSI) développées par le Conseil du Trésor.
+ </p>
+<p>
+  Les normes sur la
+  <abbr title="Normes sur la normalisation des sites Internet">
+   NSI
+  </abbr>
+  favorisent une présentation uniforme et prévisible
+  <br/>
+  des services gouvernementaux et de leur contenu en simplifiant ainsi les
+  <br/>
+  interactions en direct entre le gouvernement du Canada et les canadiens.
+  <br/>
+  La
+  <abbr title="Normes sur la normalisation des sites Internet">
+   NSI
+  </abbr>
+  comprend les normes sur les adresses Web, la présentation commune
+  <br/>
+  des pages Web, le courriel, l'accessibilité, l'interopérabilité et la facilité d'emploi des sites Web.
+ </p>
+<p>
+  Les normes sont révisées de façon périodique par le
+  <abbr title="Conseil du Trésor">
+   CT
+  </abbr>
+  .  Les agents de négociation des contrats
+  <br/>
+  sont invités à consulter le site Web
+  <cite>
+
+
+    Norme sur la facilité d'emploi
+   
+</cite>
+  des sites du
+  <abbr title="Conseil du Trésor">
+   CT
+  </abbr>
+  pour la version la plus récente.
+ </p>
+<p>
+  Tout contrat pour des biens ou services électroniques reliés à un site Web public, à un
+  <br/>
+  sous-site Web public ou à une application Web publique du gouvernement du
+  <br/>
+  Canada et exécutés pour un ministère ou un organisme mentionné en annexe de la
+  <br/>
+  Loi tel que mentionné ci-haut, devrait contenir une clause référant à l'obligation pour
+  <br/>
+  l'entrepreneur de se conformer à la plus récente version des normes sur la
+  <abbr title="Normes sur la normalisation des sites Internet">
+   NSI
+  </abbr>
+  .
+ </p>
+<p>
+  Les normes sur la
+  <abbr title="Normes sur la normalisation des sites Internet">
+   NSI
+  </abbr>
+  peuvent être complétées par des normes et directives
+  <br/>
+  développées par chaque institution. Il est également nécessaire d'y référer.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les travaux doivent se conformer aux normes établies par le
+Conseil du Trésor (CT) en vertu de la politique sur les
+<cite>Norme sur la facilité d'emploi</cite> </p>
+<p>Les travaux doivent aussi se conformer aux normes et directives
+qui peuvent être développées par le ministère
+ou l'organisme pour lequel les travaux sont exécutés et
+qui sont complémentaires à la politique du <abbr title="Conseil du Trésor">CT</abbr>. Ces normes
+et directives sont disponibles du centre d'expertise de ce
+ministère ou organisme en matière de <abbr title="Normes sur la normalisation des sites Internet">NSI</abbr>. Pour Travaux
+publics et Services gouvernementaux Canada, communiquer avec
+l'agent des communications à : 
+CommunicationsCQauWeb.CommunicationsWebQC@tpsgc-pwgsc.gc.ca.</p>
+</div></pre>

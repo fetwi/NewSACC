@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez la clause suivante dans les cas où l'on prévoit que les clients 
+utiliseront une carte d'achat du gouvernement du Canada (carte de crédit) pour 
+payer des factures découlant du contrat ou des commandes subséquentes à l'offre 
+à commandes et que le soumissionnaire a indiqué à la clause H3027T qu'il 
+acceptera le paiement par carte de crédit.  (Consulter la procédure 7.042 du 
+Guide des approvisionnements).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le soumissionnaire acceptera les cartes d'achat du gouvernement du 
+       Canada (cartes de crédit) pour le paiement des factures, et ce, 
+       jusqu'au ___ jour (<em>information précisée par le fournisseur)</em> de la 
+       période de paiement indiquée dans les Conditions générales DSS-MAS ____.  
+       Après cette date, il n'acceptera que les paiements des factures 
+       effectués par chèque du gouvernement du Canada, par dépôt direct ou 
+       par virement électronique.  Les dispositions qui sont précisées dans 
+       les Conditions générales DSS-MAS ____ et qui portent sur le paiement 
+       des comptes en souffrance ainsi que sur les intérêts sur ces comptes 
+       s'appliqueront.
+
+2.     Les mesures incitatives au paiement hâtif seront ou ne seront pas 
+       <em>(information précisée par le fournisseur</em>) applicables dans les 
+       cas où l'on utilise une carte de crédit pour effectuer les paiements.
+
+3.     Voici les cartes acceptées (information précisée par le fournisseur) :
+
+       a)     VISA ____
+       b)     MasterCard ____
+       c)     American Express ____
+
+</pre>

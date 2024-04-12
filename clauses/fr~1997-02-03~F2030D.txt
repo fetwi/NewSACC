@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les cas suivants :
+
+1.	la demande contractuelle est associée à des SERVICES DE MESSAGERIE aux 
+niveaux CONFIDENTIEL, SECRET OU TRÈS SECRET;
+
+2.	une AUTORISATION DE SÉCURITÉ est nécessaire (case no 12);
+
+3.	des renseignements ou des biens de niveau CLASSIFIE doit être transportés 
+(case no 11);
+
+4.	la compagnie de messagerie NE DOIT PAS ENTREPOSER DU BIEN DÉSIGNÉ OU 
+CLASSIFIÉ APRÈS LES HEURES DE TRAVAIL (case no 13).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pendant toute la période d'exécution du contrat, l'entrepreneur doit 
+       détenir pour ses installations une autorisation valide de sécurité 
+       de niveau ______, émise par la Division de la sécurité industrielle 
+       (DSI) du ministère des Travaux publics et des Services 
+       gouvernementaux.
+
+2.     TOUT employé de l'entrepreneur qui a accès à des renseignements ou à 
+       des biens CLASSIFIÉS ou à des lieux de travail où l'on entrepose de 
+       tels renseignements ou biens, doit détenir une attestation de 
+       sécurité de niveau _____ émis par la DSI.
+
+3.     L'entrepreneur est autorisé à retirer des lieux de travail des 
+       renseignements ou des biens délicats (CLASSIFIÉS/DÉSIGNÉS) 
+       conformément aux dispositions du présent contrat, mais il N'EST PAS 
+       AUTORISÉ À LES ENTREPOSER APRÈS LES HEURES DE TRAVAIL et il doit 
+       s'assurer que son personnel connaît et se conforme à cette exigence.
+
+4.     L'entrepreneur se conformera aux dispositions des documents suivants :
+
+       a)     la Liste de vérification relative à la sécurité, ci-jointe à 
+              l'annexe _____;
+       b)     le Manuel de la sécurité industrielle (juin 1992).
+
+
+</pre>

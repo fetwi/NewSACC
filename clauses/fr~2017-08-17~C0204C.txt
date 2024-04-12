@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause dans les contrats comportant des autorisations de tâches, lorsque les travaux à exécuter dans le cadre des autorisations de tâches individuelles peuvent être soumis à une
+  
+   limitation des dépenses
+  
+  ou à un
+  
+   prix plafond
+  
+  .
+ </p>
+<p>
+  Consulter l’article
+  
+   4.70.20
+  
+  du Guide des approvisionnements pour plus de renseignements.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur sera payé pour les travaux décrits dans l'autorisation de tâches (AT) autorisée, conformément à la base de paiement <span class="input-required"><var>______</var> <kbd>(<em><strong>insérer « à l'annexe <var>___</var> » ou « détaillée ci-dessous »</strong></em>)</kbd></span>.</p>
+<p>La responsabilité du Canada envers l'entrepreneur en vertu de l'<abbr title="autorisation de tâches">AT</abbr> autorisée ne doit pas dépasser <kbd>(<em><strong>insérer  « la limitation des dépenses » ou « le prix plafond »</strong></em>)</kbd> indiqué dans l'<abbr title="autorisation de tâches">AT</abbr> autorisée. Les droits de douane <span class="input-required"><var>______</var> <kbd>(<em><strong>insérer « sont inclus », « sont exclus » ou « font l'objet d'une exemption »</strong></em>)</kbd></span> et les taxes applicables sont en sus.</p>
+<p>Aucune augmentation de la responsabilité totale du Canada ou du prix des travaux précisés dans toute <abbr title="autorisation de tâches">AT</abbr> autorisée découlant de tout changement à la conception, ou de toute modification ou interprétation des travaux, ne sera autorisée ou payée à l'entrepreneur, à moins que ces changements à la conception, ces modifications ou ces interprétations n'aient été approuvés, par écrit, par l'autorité contractante avant d'être intégrés aux travaux.</p>
+<p><kbd>(<em><strong>Insérer les détails de la base de paiement s'ils ne sont pas inclus dans une annexe.</strong></em>)</kbd></p>
+</div></pre>

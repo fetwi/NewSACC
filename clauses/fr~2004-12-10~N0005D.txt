@@ -1,0 +1,119 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante de concert avec les conditions générales 9601 ou 
+9601-10, dans les contrats relatifs à la gestion de l'information ou à la 
+technologie de l'information qui renvoient à des groupes de produits.  Elle 
+protège l'État en stipulant que l'entrepreneur paiera le coût des réclamations 
+contre l'État qui se rapportent à la violation du droit de propriété sur le 
+logiciel ou sur d'autres biens qui ont été fournis par l'entrepreneur en vertu 
+du contrat.  Elle fournit également au Canada des options comme la résiliation 
+et le remboursement lorsque d'autres modalités de règlement ne sont pas 
+raisonnablement disponibles, et elle informe l'entrepreneur de ses obligations 
+et de ses options quant aux moyens de défense.
+
+Les agents de négociation des contrats doivent remplir l'espace en blanc avec 
+l'information suivante :
+
+a)	si les conditions générales 9601 sont utilisées, insérer : « 23 (Redevances 
+et violations) des conditions générales 9601, Conditions générales - formule 
+détaillée »;
+
+b)	si les conditions générales 9601-10 sont utilisées, insérer : « 14 
+(Redevances et violations) des conditions générales 9601-10, Conditions 
+générales - formule semi-détaillée »
+
+Remarque :	Si les conditions générales 9601 sont utilisées, supprimer l'alinéa 
+22.1 a), Protection contre les réclamations de tiers; si 9601-10 sont utilisées, 
+supprimer dans ce cas l'alinéa 14.1 a).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'article __________ est modifié par les présentes en remplaçant l'article 
+en entier par ce qui suit :
+
+       «<strong> Violation du droit de propriété intellectuelle </strong>
+
+       1.     Si un tiers prétend que le matériel ou le logiciel fourni par 
+              l'entrepreneur dans le cadre du contrat viole le droit de 
+              propriété intellectuelle, l'entrepreneur contestera, à ses 
+              propres frais, à la demande du Canada, la réclamation contre 
+              le Canada.  Ä cet égard, l'entrepreneur acquittera tous les 
+              coûts, dommages-intérêts et frais de justice alloués au bout 
+              du compte par un tribunal, pourvu que le Canada: 
+       
+              a)     informe par écrit, sans tarder, l'entrepreneur de la 
+                     réclamation;
+       
+              b)     autorise l'entrepreneur à prendre part pleinement à la 
+                     contestation de la réclamation et aux négociations 
+                     visant à la régler et collabore avec lui à cette 
+                     contestation et à ces négociations;
+       
+              c)     obtienne l'approbation préalable de l'entrepreneur à 
+                     l'égard de toute entente découlant des négociations 
+                     menées avec le tiers aux fins de règlement.
+       
+              L'entrepreneur prend part à la contestation de toute 
+              réclamation, action ou poursuite relevant du paragraphe 1 et 
+              aucune de ces dernières ne sera réglée sans l'approbation 
+              écrite préalable de l'entrepreneur et du Canada.
+       
+       2.     S'il apparaît, selon toute vraisemblance, qu'une réclamation 
+              sera introduite ou si elle l'est effectivement, le Canada 
+              convient d'autoriser l'entrepreneur à lui permettre de 
+              continuer, aux frais de l'entrepreneur, d'utiliser le 
+              matériel ou le logiciel ou de le modifier ou de le remplacer 
+              par un matériel ou un logiciel dont les spécifications 
+              publiées sont équivalentes ou supérieures au matériel ou au 
+              logiciel qui est remplacé.  Si l'entrepreneur décide 
+              qu'aucune de ces options n'est raisonnablement possible, le 
+              Canada pourra choisir de protéger, aux frais de 
+              l'entrepreneur, de façon indépendante le droit de continuer 
+              de se servir du matériel ou du logiciel, ou encore le Canada 
+              pourra obliger l'entrepreneur à accepter le retour du 
+              matériel ou du logiciel et à lui rembourser toutes les sommes 
+              qui lui ont été versées dans le cadre du contrat de matériel 
+              et de logiciel de même que toutes les sommes acquittées pour 
+              les services et les frais de licence et de développement.
+       
+       3.     Les dispositions des paragraphes 1 et 2 ne s'appliquent pas 
+              aux situations où le Canada a donné instruction à 
+              l'entrepreneur d'acheter une certaine pièce d'équipement ou 
+              un logiciel d'un fournisseur donné au nom du Canada.  Dans ce 
+              cas, l'entrepreneur fera en sorte que soit énoncé ce qui suit 
+              dans son contrat de sous-traitance: « Si un tiers prétend que 
+              le matériel ou le logiciel fourni par l'entrepreneur dans le 
+              cadre du contrat viole le droit de propriété intellectuelle, 
+              l'entrepreneur contestera, à ses propres frais, à la demande 
+              du Canada, la réclamation contre le Canada.  Ä cet égard, 
+              l'entrepreneur acquittera tous les coûts, dommages intérêts 
+              et frais de justice alloués au bout du compte par un tribunal. »  
+              Si l'entrepreneur n't pas en mesure d'incorporer ce qui 
+              précède dans son contrat de sous-traitance, il informera 
+              alors le Canada de la situation et ne conclura pas le contrat 
+              de sous-traitance sans avoir reçu du Canada un avis écrit 
+              selon lequel le degré de protection contre la violation du 
+              droit de propriété intellectuelle est acceptable. 
+
+       4.     Sans porter atteinte au droit du Canada de résilier le 
+              contrat pour inexécution avant l'achèvement des travaux, ce 
+              qui précède constitue l'obligation intégrale de 
+              l'entrepreneur envers le Canada à l'égard de toute 
+              réclamation pour contrefaçon.
+       
+       5.     N'est imposée à l'entrepreneur aucune obligation à l'égard 
+              d'une réclamation fondée sur l'un ou l'autre des motifs 
+              suivants: 
+       
+              a)     la modification non autorisée par le Canada du 
+                     matériel ou du logiciel ou l'utilisation non autorisée 
+                     par le Canada du matériel ou du logiciel dans un cadre 
+                     d'exploitation autre que le cadre qui a été publié; 
+       
+              b)     la combinaison, le fonctionnement ou l'utilisation du 
+                     matériel ou du logiciel avec tout logiciel, donnée ou 
+                     appareil non fourni par l'entrepreneur dans le cadre 
+                     du contrat ou dont la combinaison, le fonctionnement 
+                     ou l'utilisation n'a pas été autorisé ou approuvé à 
+                     l'avance et sans quoi la contrefaçon n'aurait pas eu 
+                     lieu. »
+
+</pre>

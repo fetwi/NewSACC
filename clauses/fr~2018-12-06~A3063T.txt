@@ -1,0 +1,68 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions concurrentielles pour plusieurs articles (selon la description du besoin) lorsque la concurrence est conditionnellement limitée aux produits canadiens et que l'ensemble des 
+articles doit faire l'objet d'une attestation globale tel qu'il est défini au paragraphe 3.a) de la clause
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Utiliser la clause
+  
+   A3062T
+  
+  pour plusieurs articles lorsque chaque article doit faire l'objet d'une attestation.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3050T
+  
+  et
+  
+   A3060C
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3015T
+  
+  et
+  
+   A3070T
+  
+  seulement si le modèle pour les besoins de complexité moyenne ou plus complexes n'est pas utilisé.  Les agents de négociation des contrats doivent consulter les procédures afin de confirmer qu'ils ne peuvent pas utiliser le modèle pour le besoin.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter la Politique sur le contenu canadien (
+  
+   Section 3.130
+  
+  du Guide des approvisionnements) afin d'établir si le besoin est assujetti à la politique.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Cet achat est conditionnellement limité aux produits
+canadiens.</p>
+<p>Sous réserve des procédures d'évaluation
+contenues dans la demande de soumissions, les soumissionnaires
+reconnaissent que seulement les soumissions accompagnées d'une
+attestation à l'effet que le ou les produits offerts sont des
+produits canadiens, tel qu'il est défini dans la clause
+A3050T, peuvent être
+considérées.</p>
+<p>Le défaut de fournir cette attestation remplie avec la
+soumission aura pour conséquence que le ou les produits
+offerts seront traités comme des produits non-canadiens.</p>
+<p>Le soumissionnaire atteste que :</p>
+<p><var title="checkbox">( )</var> au moins 80 p. 100 du prix total
+de la soumission correspond à des produits canadiens tel qu'il
+est défini au paragraphe 1 de la clause A3050T.</p>
+<p>Pour de plus amples renseignements afin de déterminer le
+contenu canadien de plusieurs produits, plusieurs services ou une
+combinaison de produits et de services, consulter l'Annexe 3.6,
+Exemple 2 du Guide des approvisionnements.</p>
+</div></pre>

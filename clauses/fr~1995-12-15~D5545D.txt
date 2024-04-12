@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause peut être utilisée de concert avec les clauses D5540D, D5541D et 
+D5542D afin de préciser la nature des contrôles de qualité requis lorsque 
+l'entrepreneur n'est pas tenu d'obtenir la certification complète. Cette clause 
+doit figurer immédiatement après la clause ISO 9000 sur le contrôle final.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'objet de la clause précédente n'est pas d'exiger que l'entrepreneur 
+obtienne la certification de la norme visée, mais bien que le système de 
+qualité des entrepreneurs tienne compte de chacun des éléments du modèle.
+
+
+
+</pre>

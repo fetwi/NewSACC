@@ -1,0 +1,78 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats maritimes lorsqu'un navire est 
+affrété.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le navire doit être conforme aux exigences
+suivantes :
+<ol type="a">
+<li value="1">il doit bien tenir la mer;</li>
+<li value="2">le moteur doit être en bon état de
+fonctionnement, et tous les mécanismes et l'équipement
+doivent être en bon état.</li>
+</ol>
+</li>
+<li value="2">L'entrepreneur doit garder et maintenir le navire,
+les moteurs, les mécanismes et l'équipement, en bon
+état pour la durée du contrat, et doit payer pour tous
+les travaux nécessaires de réparation, de renouvellement
+et d'entretien.</li>
+<li value="3">L'entrepreneur doit :
+<ol type="a">
+<li value="1">indemniser le Canada et le tenir exempt de toute
+réclamation pour cause de perte ou de dommage au navire ou
+à tout autre propriété, aux moteurs, mécanismes
+ou équipement, découlant de l'affrètement, ainsi que
+pour des blessures ou des dommages aux biens de toutes les
+personnes à bord du navire, à l'exception de toutes
+blessure ou dommage à la propriété des employés
+ou des agents du Canada;</li>
+<li value="2">s'assurer que les opérations seront
+exécutées seulement par les représentants
+dûment autorisés du Canada, nommés par le
+responsable technique;</li>
+<li value="3">s'assurer que les vêtements de flottaison
+individuels approuvés sont facilement accessibles à tout
+moment pour les personnes à bord;</li>
+<li value="4">s'assurer que l'usage ou la possession de drogues
+illégales ou d'alcool sont prohibés. Si l'on
+découvre qu'un membre de l'équipage était sous
+l'influence de ces produits pendant l'exercice de ses fonctions, ce
+sera la cause pour la résiliation du contrat pour
+inexécution.</li>
+</ol>
+</li>
+<li value="4">Si le navire est hors service ou n'est pas en
+état de marche, ou s'il est désarmé sans le
+consentement du Canada, alors le Canada ne sera pas tenu
+responsable du paiement relatif à l'engagement du navire
+pendant cette période. Si cette période dépasse une
+semaine, le Canada pourra résilier immédiatement le
+contrat pour inexécution.</li>
+<li value="5">Si l'un ou l'autre mécanisme ou équipement
+nécessaire au fonctionnement efficace du navire aux fins du
+contrat n'est pas en bon état de fonctionnement pendant une
+durée quelconque, alors le paiement relatif à
+l'engagement cessera pendant le temps perdu, et si, au cours du
+voyage, la vitesse est réduite à la suite d'une
+défectuosité ou d'une panne de toute partie de la coque,
+des machines ou de l'équipement, le temps perdu sera
+déduit de l'engagement. Le Canada sera le seul juge des
+capacités du navire.</li>
+<li value="6">Si le navire ne peut fonctionner en toute
+sécurité dans la zone de travail à cause des
+conditions maritimes ou atmosphériques, selon une entente
+entre le représentant de l'entrepreneur et celui du Canada,
+l'affrètement pour la journée sera résilié et
+un paiement au prorata sera versé à l'entrepreneur pour
+la période visée par les travaux, conformément aux
+conditions du contrat.</li>
+<li value="7">Si les détails fournis par l'entrepreneur et
+précisés dans le contrat sont incorrects ou prêtent
+à confusion, le Canada pourra, à sa discrétion,
+résilier le contrat pour inexécution.</li>
+</ol>
+</div></pre>

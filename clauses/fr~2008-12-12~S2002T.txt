@@ -1,0 +1,37 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'arrangements en matière 
+d'approvisionnement pour les services lorsque des taux plafonds sont exigés.
+ </p>
+<p>
+  Utiliser la clause 1 lorsque le fournisseur doit proposer des taux plafonds pour 
+toutes les catégories de ressources; ou la clause 2 lorsque le fournisseur doit 
+proposer des taux plafonds pour un ou plusieurs groupes de catégories de 
+ressources. Supprimer la clause non utilisée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Les fournisseurs doivent proposer des taux plafonds pour toutes les 
+catégories de ressources énumérées dans la ou les annexes « <var>_______</var> ».</li>
+<li>OU
+<h2>Clause 2</h2> 
+Les fournisseurs doivent proposer des taux plafonds pour un ou plusieurs 
+groupes de catégories de ressources.  Les fournisseurs doivent toutefois 
+proposer des taux plafonds pour toutes les catégories de ressources faisant 
+partie du ou des groupes pour lequel ou lesquels ils proposent des taux.  
+Les groupes de catégories de ressources sont les suivants :
+<ol type="a">
+<li value="1">Groupe A : Toutes les catégories de ressources énumérées à l'annexe 
+« <var>_______</var> »</li>
+<li value="2">Groupe B : Toutes les catégories de ressources énumérées à l'annexe 
+« <var>_______</var> »</li>
+<li value="3">Groupe C : Toutes les catégories de ressources énumérées à l'annexe 
+« <var>_______</var> »</li>
+<li value="4">Groupe D : Toutes les catégories de ressources énumérées à l'annexe 
+« <var>_______</var> ».</li>
+</ol>
+</li>
+</ul>
+</div></pre>

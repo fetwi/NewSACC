@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions.  Indiquer la loi 
+de quelle province ou de quel territoire le Canada propose d'appliquer au 
+contrat subséquent.  Le soumissionnaire, suivant les instructions, peut proposer 
+un changement aux lois applicables dans sa soumission.
+
+Ne pas utiliser pour les besoins de faible valeur et de complexité moyenne 
+lorsque les modèles en langage clair 2T-LDV1 et 2T-MED1 sont utilisés.
+
+Nota : 	En ce qui concerne la version française de la clause, le mot « in » n'a 
+pas été traduit puisqu'il n'y a pas de terme commun à toutes les provinces et 
+territoire. Il faudra donc ajouter le mot « en » devant Alberta, 
+Colombie-Britannique, Saskatchewan, Ontario et Nouvelle-Écosse, le mot « au » 
+devant Manitoba, Québec, Nouveau-Brunswick et Yukon, le mot « à » devant 
+Terre-Neuve et l'Ile-du-Prince-Édouard et les mots « dans les » devant 
+Territoires du Nord Ouest.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Tout contrat subséquent sera interprété et régi selon les lois en 
+       vigueur ______  et les relations entre les parties seront 
+       déterminées par ces lois.
+
+2.     À sa discrétion, le soumissionnaire peut indiquer les lois 
+       applicables d'une province ou d'un territoire canadien de son choix, 
+       sans que la validité de sa soumission ne soit mise en question, en 
+       supprimant le nom de la province ou le territoire canadien précisé 
+       et en insérant le nom de la province ou le territoire canadien de 
+       son choix.  Si aucun changement n'est indiqué, cela signifie que le 
+       soumissionnaire accepte les lois applicables indiquées.
+
+</pre>

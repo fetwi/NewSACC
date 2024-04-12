@@ -1,0 +1,48 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions et les contrats 
+lorsque le ministère de la Défense nationale a clairement indiqué que les biens 
+et services requis comprennent la fabrication, la réparation ou la révision de 
+systèmes ou d'équipements touchant la sécurité des sous-marins de classe 
+VICTORIA.  Cette clause doit être utilisée conjointement avec les clauses D5510D 
+et D5541D (ou D5540D si le contrat contient un élément de conception et 
+d'élaboration).  Pour les contrats de fabrication ou de réparation et révision 
+de troisième échelon, inclure la clause D5601D dans la demande de soumissions et 
+dans le contrat; à l'étape du contrat, inclure la clause D5620C.  Pour les 
+contrats de réparation de navires, inclure la clause D5651D.  On peut aussi 
+utiliser la clause D5401T dans la demande de soumissions, alors que la clause 
+D5402D peut être utilisée dans la demande de soumissions et le contrat.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux décrits dans la présente portent sur des systèmes ou des 
+équipements classifiés au premier niveau ou qui sont critiques d'une façon 
+quelconque pour la sécurité des sous-marins, tel que défini dans 
+l'Instruction technique des Forces canadiennes (ITFC) C-23-VIC-000/AM-001,<em> 
+Quality Assurance for Safety in Submarines - VICTORIA Class </em>(<strong>disponible en 
+anglais seulement</strong>).  La fabrication, la réparation, la révision, 
+l'inspection, l'installation et les essais de chacun de ces articles 
+identifié dans les exigences doivent faire l'objet d'une documentation en 
+conformité avec les exigences de l'ITFC susmentionnée.
+
+Pour chacun de ces articles, l'entrepreneur doit fournir un certificat de 
+conformité [formulaire DND 2327 ou un équivalent produit localement 
+approuvé par le responsable de l'assurance de la qualité (RAQ)] qui répond 
+aux exigences de l'ITFC susmentionnée.  Pour les travaux effectués par un 
+sous-traitant, l'entrepreneur doit obtenir un certificat de conformité du 
+sous-traitant.  L'obtention dudit certificat de conformité du sous-traitant 
+n'élimine pas l'obligation pour l'entrepreneur d'assurer la conformité aux 
+exigences techniques, ni ne doit être interprétée comme une acceptation de 
+responsabilité de la part du Canada envers le sous-traitant.
+
+Pour chacun de ces articles, le certificat de conformité, ainsi que les 
+copies certifiées de toute dérogation ou exemption et les autres documents 
+nécessaires indiqués dans l'Énoncé des exigences de qualité (formulaire DND 
+2328 ou l'équivalent) joint à l'Énoncé des besoins, l'Énoncé des travaux ou 
+les spécifications techniques dans l'Annexe « _______ » du contrat ou 
+autrement annexé ou faisant partie intégrante du contrat, doivent être 
+complétés et mis à la disposition du RAQ désigné, pour examen, avant 
+l'envoi dudit article et documents connexes au ministère de la Défense 
+nationale.  Ä moins d'indications contraires de la part du RAQ, ces 
+documents doivent être attachés ou joints à l'envoi qu'ils visent, dans une 
+enveloppe étanche.
+
+</pre>

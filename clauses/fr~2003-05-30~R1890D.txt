@@ -1,0 +1,84 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>L'agent de négociation des contrats doit adapter la clause selon le cas.  
+Utiliser la clause suivante avec une « entente - ouverte » seulement.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les taux horaires suivants sont fermes pour la durée de l'Entente - ouverte.
+
+DIRIGEANTS - Le taux horaire tout compris doit être fixe pour toute la 
+durée du contrat.
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Nom</th>
+<th>$ de l'heure</th>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________________</td>
+<td>_______________$</td>
+</tr>
+</tbody></table> <pre>
+PERSONNEL - Le facteur entrant dans le calcul du coût de la rémunération 
+doit être fixe pour toute la durée du contrat.  Pour l'étape de 
+l'administration du contrat, les augmentations des taux horaires pour le 
+personnel doivent être soumises, documents à l'appui, à l'approbation de 
+TPSGC.
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Personnel / Poste</th>
+<th>$ de l'heure (excluant le facteur)</th>
+<th>Facteur</th>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+<tr align="left" valign="top">
+<td>___________________________________</td>
+<td>_____________</td>
+<td>__________</td>
+</tr>
+</tbody></table> <pre>
+</pre>

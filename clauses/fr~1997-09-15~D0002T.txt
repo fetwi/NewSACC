@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Lorsque la clause suivante est utilisée, l'agent de négociation des contrats 
+doit remplir le premier espace laissé en blanc. Le deuxième espace doit être 
+rempli par le soumissionnaire.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Bien que la livraison soit requise pour le _____, la meilleure date de 
+livraison que nous pouvons offrir est le _____. 
+
+</pre>

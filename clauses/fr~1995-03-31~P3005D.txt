@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La première livraison doit être effectuée dans les _____ jours suivant la 
+réception de la Demande de livraison, formule DSS-MAS 10047, en quantités 
+minimales et aux destinations indiquées à la page _____. Les livraisons 
+subséquentes doivent être effectuées aux destinations dans les _____ jours 
+suivant la date de réception de la Demande de livraison.
+
+</pre>

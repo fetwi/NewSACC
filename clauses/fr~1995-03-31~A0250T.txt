@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez cette clause dans les invitations à soumissionner lorsque la méthode 
+d'évaluation relève du client ou lorsqu'on juge important de préciser dans une 
+annexe la méthode qui servira à l'évaluation des exigences obligatoires, 
+souhaitables ou cotées précisées dans l'invitation à soumissionner.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La méthode d'évaluation est décrite à l'annexe <span class="wsStyleUnderline">   </span>.
+</pre>

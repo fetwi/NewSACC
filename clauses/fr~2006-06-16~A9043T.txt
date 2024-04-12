@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lors de la réémission d'une demande de soumissions.  
+Les agents de négociation des contrats doivent inscrire le numéro, la date et 
+l'heure et la date de clôture de la demande de soumissions qui doit être 
+remplacée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La présente annule et remplace la demande de soumissions numéro _______, 
+   datée du ______, dont la date de clôture était le ______ (<strong><em>insérer la 
+   date de clôture</em></strong>), à _______ (<strong><em>inscrire l</em></strong><em>'</em><strong><em>heure de clôture</em></strong>).
+</pre>

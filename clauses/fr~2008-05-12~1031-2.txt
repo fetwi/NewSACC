@@ -1,0 +1,242 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>01 Principe général</p>
+<p>02 Définition d'un coût
+raisonnable</p>
+<p>03 Coûts directs</p>
+<p>04 Coûts indirects</p>
+<p>05 Répartition des coûts
+indirects</p>
+<p>06 Crédits</p>
+<p>07 Coûts non admissibles</p>
+</div>
+<h2>1031-2 01 (2008-05-12) Principe général</h2>
+<p>Le coût total du contrat doit représenter la somme des
+coûts directs et indirects applicables, qui sont ou doivent
+être raisonnablement et convenablement engagés ou
+répartis, dans l'exécution du contrat, moins tous les
+crédits applicables. Ces coûts doivent être
+calculés conformément aux pratiques de comptabilité
+analytique de l'entrepreneur qui sont acceptées par le Canada
+et appliquées de façon uniforme au fil du temps.</p>
+<h2>1031-2 02 (2008-05-12) Définition d'un coût
+raisonnable</h2>
+<ol type="1">
+<li value="1">Un coût est considéré raisonnable si
+la nature et le montant ne dépassent pas ce qu'une personne
+prudente, à la tête d'une entreprise concurrentielle,
+aurait engagé en pareil cas.</li>
+<li value="2">Lorsqu'il s'agit de déterminer si un coût
+donné est raisonnable, les facteurs suivants doivent être
+considérés :
+<ol type="a">
+<li value="1">si le coût est d'un type généralement
+admis comme normal et nécessaire dans le cadre de
+l'exploitation d'une entreprise ou de l'exécution du
+contrat;</li>
+<li value="2">les limitations et les exigences posées par des
+conditions telles que les pratiques commerciales
+généralement admises et reconnues, les négociations
+sans lien de dépendance, les lois fédérales,
+provinciales et municipales, ainsi que les conditions du
+contrat;</li>
+<li value="3">les mesures qui seraient prises par des gens
+d'affaires prudents dans les circonstances compte tenu de leurs
+responsabilités à l'égard des propriétaires de
+l'entreprise, de leurs employés, de leurs clients, du
+gouvernement et du grand public;</li>
+<li value="4">les dérogations importantes aux pratiques
+établies de l'entrepreneur qui peuvent entraîner une
+augmentation injustifiée des coûts du contrat; et</li>
+<li value="5">les répercussions des spécifications, du
+calendrier de livraison et des exigences de qualité sur les
+coûts d'un contrat donné.</li>
+</ol>
+</li>
+</ol>
+<h2>1031-2 03 (2008-05-12) Coûts directs</h2>
+<p>Il existe trois types de coûts directs :</p>
+<ol type="a">
+<li value="1"><dfn>«  coûts directs des matériaux  »</dfn>,
+c'est-à-dire le coût des matériaux qui peuvent
+être clairement identifiés et quantifiés comme ayant
+été ou devant être utilisés pour
+l'exécution du contrat, qui sont ainsi identifiés et
+quantifiés constamment par les pratiques de comptabilité
+analytique de l'entrepreneur qui sont acceptées par le
+Canada.
+<ol type="i">
+<li value="1">en plus des matériaux achetés uniquement
+pour l'exécution du contrat et traités par
+l'entrepreneur, ou obtenus de sous-traitants, ces matériaux
+peuvent inclure tout autre matériaux provenant des stocks
+courants de l'entrepreneur.</li>
+<li value="2">les matériaux achetés uniquement pour
+l'exécution du contrat ou de contrats de sous-traitance
+doivent être imputés au contrat au prix de revient
+effectif, chargé à l'entrepreneur, avant que les
+escomptes de caisse pour paiement rapide lui soient consentis.</li>
+<li value="3">les matériaux provenant des stocks courants de
+l'entrepreneur doivent être imputés au contrat
+conformément à la méthode uniformément
+utilisée par l'entrepreneur pour établir le coût du
+matériel en stock.</li>
+</ol>
+</li>
+<li value="2"><dfn>«  coûts directs de la main-d'oeuvre  »</dfn>,
+c'est-à-dire les coûts représentant la partie des
+salaires bruts versée pour les travaux qui peuvent être
+identifiés et quantifiés de façon spécifique
+comme ayant été ou devant être engagés pour
+l'exécution du contrat et, qui sont ainsi identifiés et
+quantifiés constamment par les pratiques de comptabilité
+analytique de l'entrepreneur qui sont acceptées par le
+Canada.</li>
+<li value="3"><dfn>«  autres coûts directs  »</dfn>,
+c'est-à-dire tous les coûts applicables qui n'entrent pas
+dans les catégories des coûts directs des matériaux
+ou de la main-d'oeuvre, mais qui peuvent être clairement
+identifiés et quantifiés comme ayant été ou
+devant être engagés pour l'exécution du contrat, et
+qui sont ainsi identifiés et quantifiés constamment par
+les pratiques de comptabilité analytique de l'entrepreneur qui
+sont acceptées par le Canada.</li>
+</ol>
+<h2>1031-2 04 (2008-05-12) Coûts indirects</h2>
+<ol type="1">
+<li value="1">Les <dfn>«  coûts indirects  »</dfn> (les frais
+généraux) c'est-à-dire ces coûts qui, quoique
+ayant été engagés pendant l'exécution du
+contrat pour l'exploitation générale de l'entreprise par
+l'entrepreneur, ne peuvent cependant pas être identifiés
+et quantifiés comme étant directement reliés à
+l'exécution du contrat.</li>
+<li value="2">Ces coûts indirects peuvent inclure notamment :
+<ol type="a">
+<li value="1">les matériaux et fournitures indirects <a href="#2008-05-121031-21031-2_04_footnote-1">(*)</a>;</li>
+<li value="2">la main-d'oeuvre indirecte;</li>
+<li value="3">les avantages sociaux (la contribution de
+l'entrepreneur seulement);</li>
+<li value="4">les services publics, c'est-à-dire les services
+d'intérêt général tels que l'électricité, le chauffage, l'éclairage, et les
+frais d'exploitation et d'entretien des actifs généraux
+et des installations;</li>
+<li value="5">les frais fixes ou périodiques,
+c'est-à-dire les dépenses récurrentes telles que les
+impôts fonciers, les frais de location et les coûts
+raisonnables d'amortissement;</li>
+<li value="6">les frais administratifs et généraux,
+c'est-à-dire la rémunération des cadres et des
+employés, ainsi que des dépenses telles que les articles
+de papeterie, les fournitures de bureau, l'affranchissement de
+courrier et les autres dépenses nécessaires à la
+gestion de l'entreprise;</li>
+<li value="7">les frais de vente et de commercialisation
+reliés aux biens, services ou les deux acquis en vertu du
+contrat;</li>
+<li value="8">les dépenses générales de recherche et
+de développement que le Canada considère
+applicables.</li>
+</ol>
+</li>
+</ol>
+<p><a name="1031-2_04_footnote-1">(*)</a> Dans le cas des fournitures équivalentes de faible
+valeur, des articles très utilisés dont les coûts
+correspondent à la définition des coûts directs,
+mais pour lesquels il n'est pas rentable de rendre compte des
+coûts de la façon prescrite pour les coûts directs,
+alors ils peuvent être considérés des coûts
+indirects aux fins du contrat.</p>
+<h2>1031-2 05 (2008-05-12) Répartition des coûts
+indirects</h2>
+<p>Les coûts indirects doivent être accumulés dans
+des groupements de coûts indirects appropriés en fonction
+des structures organisationnelles ou opérationnelles de
+l'entreprise, et ces groupements doivent ensuite être
+répartis entre des contrats, suivant les deux principes
+suivants:</p>
+<ol type="a">
+<li value="1">les coûts compris dans un groupement de
+coûts particulier devraient avoir un lien de similarité
+avec tous les contrats entre lesquels ce groupement est
+ultérieurement réparti; de plus, ils devraient être
+suffisamment semblables les uns aux autres pour que la
+répartition du coût total d'un groupement donné ait
+sensiblement le même résultat que si chaque coût du
+groupement avait été réparti
+séparément;</li>
+<li value="2">la répartition de chaque groupement de
+coûts indirects devrait, dans la mesure du possible,
+refléter les liens de cause à effet entre les groupements
+de coûts et les contrats entre lesquels ces coûts sont
+répartis.</li>
+</ol>
+<h2>1031-2 06 (1991-06-01) Crédits</h2>
+<p>La portion des revenus, des rabais, des allocations ou de tout
+autre crédit relatif aux coûts directs ou indirects qui
+s'appliquent au contrat, reçue par l'entrepreneur ou
+accumulée à son crédit, doit être inscrite au
+crédit du contrat.</p>
+<h2>1031-2 07 (2008-05-12) Coûts non admissibles</h2>
+<p>Malgré que les coûts suivants peuvent avoir
+été raisonnablement et convenablement engagés par
+l'entrepreneur dans l'exécution du contrat, ils sont
+considérés des coûts non admissibles au contrat :</p>
+<ol type="a">
+<li value="1">les allocations pour les intérêts sur le
+capital investi, les obligations, les débentures, les emprunts
+bancaires ou autres, y compris les escomptes à l'émission
+d'obligations et les frais de crédit;</li>
+<li value="2">les frais de services juridiques, comptables et les
+honoraires d'experts-conseils liés à une
+réorganisation financière, à l'émission de
+garanties et de capital-actions, à l'obtention de brevets et
+de permis ainsi qu'aux actions en réclamation intentées
+contre le Canada;</li>
+<li value="3">les pertes subies en raison de mauvais
+investissements, de mauvaises créances et les frais de
+recouvrement;</li>
+<li value="4">les pertes subies sur d'autres contrats;</li>
+<li value="5">les impôts sur le revenu, fédéral et
+provincial, les taxes ou surtaxes sur les profits
+excédentaires, ou les dépenses spéciales
+associées à ces impôts;</li>
+<li value="6">les fonds de prévoyance;</li>
+<li value="7">les primes relatives aux assurances-vie des cadres ou
+des administrateurs, lorsque l'entrepreneur est le
+bénéficiaire de ces contrats d'assurance;</li>
+<li value="8">l'amortissement d'une augmentation de la valeur des
+biens qui ne s'est pas matérialisée;</li>
+<li value="9">la dépréciation des biens payés par le
+Canada;</li>
+<li value="10">les amendes et les pénalités;</li>
+<li value="11">les coûts et l'amortissement des installations
+excédentaires;</li>
+<li value="12">la rémunération et les primes
+déraisonnables versées aux cadres et aux
+employés;</li>
+<li value="13">les frais d'élaboration ou d'amélioration
+de produits non reliés au produit étant acquis en vertu
+du contrat;</li>
+<li value="14">les frais de publicité, sauf les frais
+raisonnables de publicité de nature industrielle ou
+institutionnelle versés pour les annonces placées dans
+des publications spécialisées, techniques ou
+professionnelles en vue de fournir de l'information à
+l'industrie ou à l'institution;</li>
+<li value="15">les frais de divertissement;</li>
+<li value="16">les dons, à l'exception de ceux aux organismes
+de charité enregistrés en vertu de la <cite>Loi de
+l'impôt sur le revenu</cite>;</li>
+<li value="17">les cotisations et autres frais d'adhésion,
+sauf aux associations professionnelles et corporatives
+reconnues;</li>
+<li value="18">les honoraires, extraordinaires ou anormaux,
+versés à des experts pour obtenir des conseils
+techniques, administratifs ou comptables, à moins qu'ils ne
+soient autorisés par l'autorité contractante.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats lorsque le responsable technique 
+ou le chargé de projet est le responsable des inspections.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le <span class="input-required"><var>______</var>
+<kbd>(<i>insérer «  responsable technique  » ou « 
+chargé de projet  »</i>)</kbd></span> sera le responsable des
+inspections. Tous les rapports, biens livrables, documents, biens
+et services fournis en vertu du contrat seront assujettis à
+l'inspection du responsable des inspections ou de son
+représentant. Si des rapports, documents, biens ou services ne
+sont pas conformes aux exigences de l'énoncé des travaux
+et ne sont pas satisfaisants selon le responsable des inspections,
+ce dernier aura le droit de les rejeter ou d'en demander la
+correction, aux frais de l'entrepreneur uniquement, avant de
+recommander le paiement.</p>
+</div></pre>

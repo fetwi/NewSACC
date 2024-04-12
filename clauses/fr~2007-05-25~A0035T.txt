@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque la demande de soumissions comprend des critères d'évaluation techniques obligatoires et cotés par point, et que la méthode de sélection se fera en fonction du coût évalué par point le plus bas.
+ </p>
+<p>
+  Ne pas utiliser pour les besoins de faible valeur lorsque le modèle 2T-LDV1 est utilisé.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent compléter et insérer au paragraphe 1.c) une des options suivantes :
+ </p>
+<ul>
+<li>
+   Option 1 : « obtenir au moins _____ (inscrire le pourcentage minimal) p. 100 des points pour l'ensemble des critères d'évaluation techniques qui sont cotés. L'échelle de cotation compte _____ (inscrire le total des points pouvant être accordés) points. »
+  </li>
+<li>
+   Option 2 : « obtenir au moins _____ (inscrire le nombre de point minimal exigé) points pour l'ensemble des critères d'évaluation techniques qui sont cotés.  L'échelle de cotation compte _____ (inscrire le total des points pouvant être accordés) points. »
+  </li>
+<li>
+   Option 3 : « obtenir la cotation numérique minimale pour les critères d'évaluation techniques qui sont cotés. »
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Pour être déclarée recevable, une soumission doit :
+<ol type="a">
+<li value="1">respecter toutes les exigences de la demande de soumissions;</li>
+<li value="2">satisfaire à tous les critères d'évaluation techniques obligatoires; et</li>
+<li value="3"><span class="input-required"><var>______</var> <kbd>(<em>les agents de négociation des contrats doivent insérer une des options proposées sous la section des remarques.</em>)</kbd></span></li>
+</ol>
+</li>
+<li value="2">Les soumissions ne répondant pas aux exigences de a) ou b) ou c) seront déclarées non recevables. La soumission recevable ayant obtenu le plus de points ou celle ayant le prix le plus bas ne sera pas nécessairement acceptée. La soumission recevable ayant le prix évalué le plus bas par point sera recommandée pour attribution d'un contrat.</li>
+</ol>
+</div></pre>

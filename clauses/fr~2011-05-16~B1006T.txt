@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour l'achat de pièces de rechange pour le ministère de la Défense nationale lorsque les soumissionnaires doivent préciser s'ils prévoient fournir du matériel neuf, faisant partie de la production courante, ou non.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B1006C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les soumissionnaires doivent préciser, en donnant les renseignements exigés ci-dessous, s'ils prévoient fournir du matériel neuf, faisant partie de la production courante, ou non.</p>
+<ul class="no-markers">
+<li><strong>Matériel, faisant partie de la production courante :</strong> S'il s'agit de matériel neuf, qui fait partie de la production courante et est fourni par le fabricant principal ou son agent accrédité, il doit être conforme à la dernière version du plan applicable, de la spécification et de la description du numéro de pièce, selon le cas, qui est en vigueur à la date de clôture de la soumission.</li>
+<li><strong>Matériel, ne faisant partie de la production courante :</strong> S'il s'agit de matériel neuf ne faisant pas partie de la production courante, ou qui provient d'une source autre que le fabricant principal ou son agent accrédité, il ne doit jamais avoir servi et être à l'état neuf.  Le matériel (produit fini) ne doit pas comprendre des articles qui ont été remis à neuf ou qui ont été mis en service précédemment.  Si l'article contient des élastomères, par ex., des tuyaux en caoutchouc, des composés adhésifs, etc., la durée de conservation restante ne doit pas être inférieure à 75 p.100 de la durée de conservation à partir de la date de fabrication à la date d'achat.</li>
+</ul>
+<p>Les soumissionnaires doivent également fournir le nom du fabricant, la date de fabrication et la date de vulcanisation, si l'article contient des élastomères.</p>
+<ul class="no-markers">
+<li><strong>Matériel, faisant partie de la production courante :</strong> <var>__________________</var></li>
+<li><strong>OU</strong><br/>
+<strong>Matériel, ne faisant partie de la production courante :</strong> <var>__________________</var></li>
+</ul>
+<p>Nom du fabricant : <var>______________</var></p>
+<p>Date de fabrication : <var>______________</var></p>
+<p>Date de vulcanisation, si l'article contient des élastomères : <var>______________</var>.</p>
+</div></pre>

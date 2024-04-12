@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats qui sont FAB à l'usine. Inscrire 
+l'emplacement de l'usine. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'expédition doit se faire au point de destination spécifié et livrée FAB 
+   transporteur ordinaire à l'usine de l'Entrepreneur à _____. 
+</pre>

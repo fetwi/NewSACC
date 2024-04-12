@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>SECTION A - DISPOSITIONS COMMUNES :
+
+Les dispositions communes figurant dans la présente section A, s'appliquent 
+   à moins qu'elles ne soient modifiées par les dispositions spéciales 
+   contenues dans la Section B. 
+</pre>

@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Soumissionnaire propose de fournir des pièces dont la numérotation est 
+   différente de celle précisée uniquement lorsque le numéro de pièce est 
+   différent et le nom de son fabricant est fourni.  Le Soumissionnaire 
+   garantit que toutes ces pièces seront interchangeables avec la pièce 
+   spécifiée et seront équivalentes, sinon meilleures que cette dernière.
+</pre>

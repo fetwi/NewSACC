@@ -1,0 +1,63 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes concurrentielles pour plusieurs articles (selon la description du besoin) lorsque la concurrence est limitée exclusivement aux produits canadiens et que chaque article doit faire l'objet d'une attestation tel qu'il est défini au paragraphe 3.b) de la clause
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent choisir une des options fournies dans la clause.
+ </p>
+<p>
+  Utiliser la clause
+  
+   M3053T
+  
+  pour plusieurs articles lorsque l'ensemble des articles doit faire l'objet d'une attestation globale.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3050T
+  
+  et
+  
+   M3060C
+  
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter la Politique sur le contenu canadien (
+  
+   Section 3.130
+  
+  du Guide des approvisionnements) afin d'établir si le besoin est assujetti à la politique.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Cet achat est limité aux produits canadiens.</p>
+<p class="description"><strong>Instruction aux agents de
+négociation des contrats :</strong> Choisir une des options
+suivantes :</p>
+<ul class="no-markers">
+<li>
+<blockquote>Les offrants doivent clairement indiquer à
+côté de chaque article énuméré dans la
+demande d'offres à commandes quels articles répondent
+à la définition d'un produit canadien et remplir
+l'attestation suivante.</blockquote>
+<strong>OU</strong>
+</li>
+<li>
+<blockquote>Les offrants doivent clairement indiquer ci-bas quels
+articles répondent à la définition d'un produit
+canadien et remplir l'attestation ci-dessous.</blockquote>
+</li>
+</ul>
+<p>L'offrant atteste que :</p>
+<p><var title="checkbox">( )</var> l'article ou les articles
+offerts et identifiés comme des produits canadiens sont des
+produits canadiens tel qu'il est défini au paragraphe 1 de la
+clause <span class="clauseRef">A3050T</span>.</p>
+</div></pre>

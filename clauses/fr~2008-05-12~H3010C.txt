@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque des paiements progressifs 
+par étape seront versés conformément à un calendrier des étapes déjà établi en 
+présentant le formulaire PWGSC-TPSGC 1111 et le montant réclamé n'est pas 
+assujetti à une retenue.  Utiliser la clause H3009C lorsque le montant réclamé 
+est assujetti à une retenue.
+
+Utiliser cette clause en conjonction avec H3022C ou H3024C et H4012C, s'il y a 
+lieu.
+
+Consulter la politique relative aux paiements progressifs (Section6E du Guide 
+des approvisionnements).  Les paiements d'étape constituent une forme de 
+paiement progressif et sont adressés sous la politique sur les paiement 
+progressifs.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Canada effectuera les paiements d'étape conformément au calendrier des 
+étapes détaillé dans le contrat et les dispositions de paiement du contrat 
+si :
+
+a)     une demande de paiement exacte et complète en utilisant le 
+       formulaire PWGSC-TPSGC 1111 (http://www.tpsgc.gc.ca/acquisitions/
+       text/forms/forms-f.html) et tout autre document exigé par le contrat 
+       ont été présentés conformément aux instructions relatives à la 
+       facturation fournies dans le contrat;
+
+b)     toutes les attestations demandées sur le formulaire PWGSC-TPSGC 1111 
+       ont été signées par les représentants autorisés;
+
+c)     tous les travaux associés à l'étape et, selon le cas, tout bien 
+       livrable exigé ont été complétés et acceptés par le Canada.
+
+
+</pre>

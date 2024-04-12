@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes lorsqu'une 
+conférence des offrants doit avoir lieu.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Une conférence des offrants aura lieu à <span class="input-required"><var>_______</var> <kbd>(<em>insérer
+l'adresse</em>)</kbd></span>, le <span class="input-required"><var>________</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>. Elle débutera à <span class="input-required"><var>________</var> <kbd>(<em>insérer
+l'heure</em>)</kbd></span> et se tiendra <span class="input-required"><var>________</var> <kbd>(<em>insérer le
+nom/numéro de la salle</em>)</kbd></span>. Dans le cadre de la
+conférence, on examinera la portée du besoin
+précisé dans la demande d'offres à commandes (DOC)
+et on répondra aux questions qui seront posées. Il est
+recommandé que les offrants qui ont l'intention de
+déposer une offre assistent à la conférence ou y
+envoient un représentant.</p>
+<p>Les offrants sont priés de communiquer avec le responsable
+de l'offre à commandes (OC) avant la conférence pour
+confirmer leur présence. Ils devraient fournir au responsable
+de l'OC, par écrit, une liste des personnes qui assisteront
+à la conférence et des questions qu'ils souhaitent y voir
+abordées, au moins <var>_____</var> jours ouvrables avant la
+conférence.</p>
+<p>Toute précision ou tout changement apporté à la
+<abbr title="demande d'offres à commandes">DOC</abbr> à la suite de la conférence des offrants sera inclus
+dans la <abbr title="demande d'offres à commandes">DOC</abbr>, sous la forme d'une modification. Les offrants qui ne
+participeront pas à la conférence pourront tout de
+même présenter une offre.</p>
+</div></pre>

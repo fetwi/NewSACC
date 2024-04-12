@@ -1,0 +1,56 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les procédures d'évaluation de la demande de 
+soumissions lorsque la compétition est conditionnellement limitée aux 
+soumissions qui offrent des biens canadiens, des services canadiens ou les deux.
+
+Utiliser cette clause en conjonction avec
+ 
+  A3061T
+ 
+ ,
+ 
+  A3062T
+ 
+ ,
+ 
+  A3063T
+ 
+ ,
+ 
+  A3065T
+ 
+ ,
+ 
+  A3066T
+ 
+ ou
+ 
+  A3069T
+ 
+ , selon le cas.
+
+Les agents de négociation des contrats doivent insérer cette clause comme étant 
+la première étape sous les procédures d'évaluation.
+
+Utiliser cette clause seulement si le modèle pour les besoins de complexité 
+moyenne (2T-MED1) ou plus complexes (2T-HIGH1) n'est pas utilisé.  Les agents de 
+négociation des contrats doivent consulter les procédures 2T-PROC1 afin de 
+confirmer qu'ils ne peuvent pas utiliser le modèle pour le besoin.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'équipe d'évaluation devra d'abord déterminer si
+trois (3) soumissions ou plus sont accompagnées d'une
+attestation valide de contenu canadien. Si c'est le cas, seulement
+les soumissions accompagnées d'une attestation valide seront
+évaluées selon le processus d'évaluation, sinon
+toutes les soumissions reçues seront évaluées. Si
+des soumissions accompagnées d'une attestation valide sont
+déclarées non recevables, ou sont retirées, et qu'il
+reste moins de trois soumissions recevables accompagnées d'une
+attestation valide, l'équipe poursuivra l'évaluation des
+soumissions accompagnées d'une attestation valide. Si toutes
+les soumissions accompagnées d'une attestation valide sont
+déclarées non recevables, ou sont retirées, alors
+toutes les autres soumissions reçues seront
+évaluées.</p>
+</div></pre>

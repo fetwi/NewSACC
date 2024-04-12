@@ -1,0 +1,81 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats décrits ci-dessous lorsque l'entrepreneur est situé au Canada et que le ministère de la Défense nationale (MDN) est responsable de l'expédition :
+ </p>
+<ol type="a">
+<li>
+   contrats à fournisseur unique des biens, et
+  </li>
+<li>
+   tous les contrats de réparation et de révision lorsque le transport ne faisait pas partie de la soumission concurrentielle.
+  </li>
+</ol>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   C2611C
+  
+  lorsque l'entrepreneur est l'importateur et que la valeur du contrat est de 250 000 $ CA ou plus.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">La livraison doit s'effectuer <span lang="en-CA"><abbr title="Free Carrier">FCA</abbr></span> franco transporteur
+<span class="input-required"><var title="blank">________</var> <kbd>(<em><strong>Insérer le nom du lieu convenu, par ex. l'établissement de l'entrepreneur</strong></em>)</kbd></span> selon les Incoterms 2000. L'entrepreneur doit charger les biens dans les véhicules de l'entreprise de transport désigné par le ministère de la Défense nationale (MDN). Le Canada est responsable par la suite du transport des biens, du point de livraison jusqu'au destinataire.</li>
+<li value="2">
+<p>Avant l'expédition des biens, l'entrepreneur doit contacter le centre de coordination suivant de la logistique intégrée du <abbr title="Ministère de la Défense nationale">MDN</abbr> par télécopieur ou courriel afin d'arranger l'expédition et fournir l'information détaillée au paragraphe 3.</p>
+<p>
+<span class="description"><em><strong>Instruction aux agents de négociation des contrats</strong> : Avant l'attribution du contrat, choisir l'option a), b), c), d), ou e), et supprimer les options non utilisées et cette instruction</em>.</span></p>
+<ol type="a">
+<li value="1"><em>Insérer le texte suivant dans des contrats attribués à des fournisseurs uniques, sauf les contrats de réparation et de révision, lorsque l'entrepreneur est situé au Canada</em> :<br/>
+Centre de coordination de la logistique intégrée (CCLI)<br/>
+Téléphone 1-877-877-7423 (sans frais)<br/>
+Télécopieur 1-877-877-7409 (sans frais)<br/>
+Courriel ILHQOttawa@forces.gc.ca
+</li>
+<li value="2"><em>Insérer le texte suivant dans des contrats de réparation et de révision lorsque l'entrepreneur est situé entre Kingston (inclusivement) et la frontière entre l'Ontario et le Manitoba</em> :<br/>
+Logistique intégrée de la région centrale (LIRC)<br/>
+Téléphone 1-866-371-5420 (sans frais)<br/>
+Télécopieur 1-866-419-1627 (sans frais)<br/>
+Courriel ILCA@forces.gc.ca
+</li>
+<li value="3"><em>Insérer le texte suivant dans des contrats de réparation et de révision lorsque l'entrepreneur est situé au Manitoba, en Saskatchewan, en Alberta, en Colombie-Britannique et dans la région de la capitale nationale, y compris la région à l'est de Kingston</em> :<br/>
+Centre de coordination de la logistique intégrée
+(CCLI)<br/>
+Téléphone 1-877-877-7423 (sans frais)<br/>
+Télécopieur 1-877-877-7409 (sans frais)<br/>
+Courriel ILHQOttawa@forces.gc.ca
+</li>
+<li value="4"><em>Insérer le texte suivant dans des contrats de réparation et de révision lorsque l'entrepreneur est situé au Québec</em> :<br/>
+Logistique intégrée de la région du Québec<br/>
+Téléphone 1-866-935-8673 (sans frais), ou<br/>
+1-514-252-2777, poste 4673, 2852 <br/>
+Télécopieur 1-866-939-8673 (sans frais), ou<br/>
+1-514-252-2911<br/>
+Courriel 25DAFCTrafficeQM@forces.gc.ca
+</li>
+<li value="5">Insérer le texte suivant dans des contrats de réparation et de révision lorsque l'entrepreneur est situé dans la région de l'Atlantique (Nouveau-Brunswick, l'Île-du-Prince-Édouard, Nouvelle-Écosse, Terre-Neuve-et-Labrador) :<br/>
+Logistique intégrée de la région de l'Atlantique
+(LIRA)<br/>
+Téléphone 1-902-427-1438<br/>
+Télécopieur 1-902-427-6237<br/>
+Courriel blogILAA@forces.gc.ca
+</li>
+</ol>
+</li>
+<li value="3">Lors de la préparation de l'expédition, l'entrepreneur doit fournir les renseignements suivants au centre de coordination de la logistique intégrée du <abbr title="Ministère de la Défense nationale">MDN</abbr> :
+<ol type="a">
+<li value="1">le numéro du contrat;</li>
+<li value="2">l'adresse du destinataire (pour les adresses multiples, les articles doivent être emballés et étiquetés séparément, et chaque article doit porter l'adresse du destinataire);</li>
+<li value="3">la description de chaque article;</li>
+<li value="4">le nombre de pièces et le type d'emballage (par ex. boîtes, caisses à claire-voie, fûts, palettes);</li>
+<li value="5">le poids et les dimensions réels de chaque pièce, y compris le poids brut;</li>
+<li value="6">les détails complets sur les marchandises dangereuses/produits dangereux selon les exigences du mode de transport applicable et les certificats nécessaires à l'expédition de marchandises dangereuses/produits dangereux dûment signés, en vertu des dispositions du Code maritime international des marchandises dangereuses, des règlements de l'Association du transport aérien international ou du <cite>Règlement sur le transport des marchandises dangereuses</cite> du Canada, ainsi qu'une copie de la fiche de données de sécurité.</li>
+</ol>
+</li>
+<li value="4">Après avoir reçu cette information, le Canada fournira à l'entrepreneur des instructions pertinentes relatives à l'expédition, notamment l'obligation d'utiliser des étiquettes particulières portant l'adresse du destinataire et d'inscrire sur chaque pièce un numéro de contrôle pour le transport.</li>
+<li value="5">L'entrepreneur ne doit en aucun cas expédier des biens avant d'avoir reçu au préalable les instructions d'expédition du centre de coordination de la logistique intégrée du <abbr title="Ministère de la Défense nationale">MDN</abbr>.</li>
+<li value="6">Si l'entrepreneur livre les biens à un endroit et à une date non conformes aux instructions de livraison ou s'il ne respecte pas les instructions raisonnables de livraison fournies par le Canada, il devra alors rembourser à ce dernier tous les suppléments de frais et de coûts engagés.</li>
+<li value="7">Si la livraison des biens est reportée du fait des retards occasionnés par le Canada, la propriété sur les biens ainsi que les risques encourus doivent être transférés au Canada après un délai de 30 jours suivant la date à laquelle le Canada ou son transitaire désigné aura reçu une demande d'expédition en bonne et due forme ou 30 jours suivant la date de livraison spécifiée dans le contrat, le délai le plus long étant retenu.</li>
+</ol>
+</div></pre>

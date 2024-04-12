@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats attribués à des fournisseurs 
+canadiens quand la demande du MDN indique qu'une assurance officielle de la 
+qualité à la source et la publication D-QA-001-015/SF-001 (Spécification pour 
+les exigences relatives au contrôle de la qualité à l'inspection à l'intention 
+des fournisseurs de carburant d'aviation et de services de ravitaillement des 
+aéronefs) sont requis (CAQ E du MDN).  Lorsque la demande comporte plusieurs 
+codes de l'assurance de la qualité, l'agent des achats doit identifier les 
+numéros d'article qui sont associés à chaque clause relative à l'assurance de la 
+qualité. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences de la publication D-QA-001-015
+/SF-001, Spécification pour les exigences relatives au contrôle de la 
+qualité et à l'inspection à l'intention des fournisseurs de carburant 
+d'aviation et de services de ravitaillement des aéronefs.
+
+Les registres de contrôle de la qualité et d'inspection doivent être 
+conservés par l'entrepreneur pendant trois (3) ans, à compter de la date 
+d'exécution ou de résiliation du contrat.
+
+</pre>

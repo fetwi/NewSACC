@@ -1,0 +1,433 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser les conditions générales supplémentaires suivantes dans les contrats 
+pour les biens ou les services lorsqu'il y a un élément de propriété 
+intellectuelle et que l'entrepreneur détiendra tous les droits de propriété 
+intellectuelle sur les renseignements originaux.
+ </p>
+<p>
+  Utiliser en conjonction avec l'une des conditions générales suivantes :
+  
+   2010A
+  
+  ,
+  
+   2010B
+  
+  ,
+  
+   2030
+  
+  ou
+  
+   2035
+  
+  , et avec d'autres conditions supplémentaires générales, 
+selon le cas.  Ne pas utiliser avec 2029, 2010C et 2040.
+ </p>
+<p>
+  Lorsque plusieurs conditions générales supplémentaires s'appliquent au besoin, 
+les agents de négociation des contrats doivent énumérer dans la clause d'ordre 
+de priorité des documents, les conditions générales supplémentaires en ordre 
+numérique croissant selon le numéro d'identification.
+ </p>
+<p>
+  Ne pas utiliser 4006 pour l'achat de produits commerciaux ou de licences 
+d'utilisation de logiciels commerciaux.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2010-08-164006interpretation">01 Interprétation</a></li>
+<li><a href="#2010-08-164006dossiers-et-divulgation-des-renseignements-originaux">02 Dossiers et divulgation des renseignements
+originaux</a></li>
+<li><a href="#2010-08-164006droits-de-propriete-intellectuelle-sur-les-renseignements-originaux">03 Droits de propriété
+intellectuelle sur les renseignements originaux</a></li>
+<li><a href="#2010-08-164006licences-concernant-les-droits-de-propriete-intellectuelle">04 Licences concernant les droits de propriété intellectuelle sur les renseignements originaux et les renseignements de base</a></li>
+<li><a href="#2010-08-164006droits-de-l-entrepreneur-d-accorder-des-licences">05 Droits de l'entrepreneur d'accorder des licences</a></li>
+<li><a href="#2010-08-164006renonciation-aux-droits-moraux">06 Renonciation aux droits moraux</a></li>
+<li><a href="#2010-08-164006licence-concernant-les-droits-de-propriete-intellectuelle-sur-les-renseignements-du-canada">07 Licence concernant les droits de
+propriété intellectuelle sur les renseignements du Canada</a></li>
+<li><a href="#2010-08-164006transfert-ou-licence-des-droits-de-l-entrepreneur">08 Transfert ou licence des droits de
+l'entrepreneur</a></li>
+<li><a href="#2010-08-164006transfert-des-droits-de-propriete-intellectuelle-en-cas-de-resiliation-du-contrat-pour-manquement">09 Transfert des droits de propriété intellectuelle en cas de résiliation du contrat pour manquement</a></li>
+<li><a href="#2010-08-164006produits-crees-en-utilisant-les-renseignements-originaux">10 Produits créés en utilisant les renseignements originaux</a></li>
+</ul>
+</div>
+<h2 id="2010-08-164006interpretation">4006 01 (2008-05-12) Interprétation</h2>
+<ol type="1">
+<li value="1">Dans le contrat, à moins que le contexte
+n'indique un sens différent :
+<dl>
+<dt>« conditions générales »</dt>
+<dd>désignent les
+conditions générales qui font partie du contrat;</dd>
+<dt>« droit de propriété intellectuelle »</dt>
+<dd>désigne tout droit de propriété intellectuelle
+reconnu par la loi, incluant tout droit de propriété
+intellectuelle protégé par la loi, telles les lois qui
+régissent les brevets, les droits d'auteur, les dessins
+industriels, les topographies de circuits intégrés et les
+droits d'obtentions végétales, ou faisant l'objet d'une
+protection en vertu de la loi, comme les secrets industriels ou les
+renseignements confidentiels;</dd>
+<dt>« logiciel »</dt>
+<dd>désigne tout programme informatique, en
+code source ou en code objet (incluant les micrologiciels), toute
+documentation des programmes informatiques enregistrée sous
+quelque forme ou sur quelque support que ce soit, et toute base de
+données informatisées, incluant toute modification;</dd>
+<dt>« micrologiciel »</dt>
+<dd>désigne tout programme
+informatique entreposé dans des circuits intégrés,
+la mémoire fixe ou tout autre dispositif semblable faisant
+partie du matériel ou autre équipement;</dd>
+<dt>« propriété intellectuelle »</dt>
+<dd>désigne toute
+information ou connaissance de nature industrielle, scientifique,
+technique, commerciale, littéraire, dramatique, artistique ou
+qui touche la créativité dans le cadre des travaux,
+qu'elle soit communiquée oralement ou enregistrée sous
+toute forme ou sur tout support, sans égard à ce qu'elle
+fasse ou non l'objet de droits d'auteur; cela comprend, sans s'y
+limiter, les inventions, les concepts, les méthodes, les
+processus, les techniques, le savoir-faire, les
+démonstrations, les modèles, les prototypes, les
+maquettes, les échantillons, les schémas, les
+données provenant d'expériences ou d'essais, les
+rapports, les dessins, les plans, les spécifications, les
+photographies, les manuels et tout autre document, les logiciels et
+les micrologiciels;</dd>
+<dt>« renseignements de base »</dt>
+<dd>désigne toute
+propriété intellectuelle autre que les renseignements
+originaux qui est incorporée dans les travaux ou
+nécessaire à l'exécution des travaux, qui est la
+propriété de l'entrepreneur, de ses sous-traitants ou de
+tout autre tiers et qui est tenue confidentielle par eux;</dd>
+<dt>« renseignements originaux »</dt>
+<dd>désigne toute
+propriété intellectuelle conçue,
+développée, produite ou mise en application pour la
+première fois dans le cadre des travaux prévus au
+contrat.</dd>
+</dl>
+</li>
+<li value="2">Le but premier du Canada, en concluant le contrat,
+est de recevoir et d'utiliser les biens livrables faisant l'objet
+de ce contrat, ainsi que toute propriété intellectuelle
+qui en découle, dans le cadre des activités du Canada, ce
+qui peut comprendre des contrats et des achats futurs, ainsi que
+d'autres activités visant à protéger ou faire
+progresser les questions d'intérêt public. Ces conditions
+générales supplémentaires n'affectent aucun droit de
+propriété intellectuelle existant concernant des
+renseignements qui appartiennent au Canada, à l'entrepreneur
+ou à un tier.</li>
+<li value="3">Les mots et expressions définis dans les
+conditions générales et utilisés dans les
+présentes conditions générales supplémentaires
+ont le sens qui leur est donné dans les conditions
+générales. En cas de divergence entre les conditions
+générales et les présentes conditions
+générales supplémentaires, les dispositions
+pertinentes des présentes conditions générales
+supplémentaires l'emporteront. Si les conditions
+générales comprennent un article intitulé
+« Droits d'auteur », elles sont modifiées en
+supprimant la totalité de cet article.</li>
+<li value="4">Si les conditions générales
+supplémentaires 4001, 4003 et 4004 sont également
+incorporées par renvoi dans le contrat, les dispositions de
+ces conditions générales supplémentaires concernant
+les droits de propriété intellectuelle prévaudront
+dans le contexte de ces conditions générales
+supplémentaires.</li>
+<li value="5">Toute référence au droit de
+propriété ou autres droits de l'entrepreneur sur les
+renseignements originaux dans ces conditions générales
+supplémentaires concerne les droits de l'entrepreneur, de ses
+sous-traitants, fournisseurs, agents, représentants ou leurs
+employés, selon le cas.</li>
+</ol>
+<h2 id="2010-08-164006dossiers-et-divulgation-des-renseignements-originaux">4006 02 (2008-05-12) Dossiers et divulgation des renseignements
+originaux</h2>
+<ol type="1">
+<li value="1">Durant et après la période d'exécution
+du contrat, l'entrepreneur doit conserver des dossiers
+détaillés sur les renseignements originaux, incluant les
+données portant sur leur création, propriété,
+ainsi que sur toute vente ou tout transfert de tout droit de
+propriété sur les renseignements originaux.
+L'entrepreneur doit signaler et divulguer pleinement au Canada
+l'ensemble des renseignements originaux comme le contrat l'exige.
+Si le contrat ne prévoit pas spécifiquement quand et
+comment l'entrepreneur doit le faire, l'entrepreneur doit fournir
+ces renseignements dès que l'autorité contractante ou un
+représentant du ministère ou l'organisme pour lequel le
+contrat est exécuté en fait la demande, que ce soit avant
+ou après l'exécution du contrat.</li>
+<li value="2">Avant ou après que le dernier paiement soit
+versé à l'entrepreneur, ce dernier doit donner au Canada
+l'accès à l'ensemble des dossiers et des données
+à l'appui que le Canada considère pertinents pour
+permettre l'identification des renseignements originaux.</li>
+<li value="3">Pour toute propriété intellectuelle
+élaborée ou créée dans le cadre des travaux, le
+Canada pourra présumer que celle-ci a été
+élaborée ou créée par le Canada, si les
+dossiers de l'entrepreneur n'indiquent pas que cette
+propriété intellectuelle a été créée
+par l'entrepreneur, ou par quiconque au nom de l'entrepreneur,
+à l'exception du Canada.</li>
+</ol>
+<h2 id="2010-08-164006droits-de-propriete-intellectuelle-sur-les-renseignements-originaux">4006 03 (2008-05-12) Droits de propriété
+intellectuelle sur les renseignements originaux</h2>
+<ol type="1">
+<li value="1">L'entrepreneur détient tous les droits de
+propriété intellectuelle sur les renseignements originaux
+dès leur conception.</li>
+<li value="2">Toutefois, bien que l'entrepreneur détiennent
+les droits de propriété intellectuelle sur les
+renseignements originaux, le Canada possède des droits
+illimités de propriété sur tout prototype,
+modèle, système ou équipement fabriqué ou
+modifié sur mesure qui est un bien livrable en vertu du
+contrat, comprenant les manuels et autre documents reliés
+à leur opération et maintenance. Ceci comprend le droit
+de les mettre à la disposition du public pour son usage contre
+rémunération ou autrement, et le droit de les vendre ou
+d'en transférer la propriété.</li>
+<li value="3">Tout renseignement personnel, au sens de la <cite>Loi sur la protection des renseignements personnels</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985,
+<abbr title="chapitre">ch.</abbr> P-21, recueilli par l'entrepreneur dans l'exécution des
+travaux en vertu du contrat devient immédiatement au moment de
+la collecte, la propriété du Canada et doit être
+utilisé uniquement pour l'exécution des travaux.
+L'entrepreneur n'a aucun droit sur ces renseignements
+personnels.</li>
+<li value="4">Si les travaux en vertu du contrat comprennent
+l'élaboration d'une base de données ou autre compilation
+de renseignements utilisant des renseignements ou des données
+fournis par le Canada et des renseignements personnels
+mentionnés ci-haut, les droits de propriété
+intellectuelle sur la base de données ou la compilation
+contenant ces renseignements appartiendront au Canada. Les droits
+de propriété intellectuelle de l'entrepreneur sur les
+renseignements originaux seront limités à ceux qui
+peuvent être exploités sans l'utilisation des
+renseignements ou données fournis par le Canada et les
+renseignements personnels.</li>
+<li value="5">L'entrepreneur doit préserver la
+confidentialité des renseignements ou données fournis par
+le Canada comme le prévoient les conditions
+générales. L'entrepreneur doit retourner tous les
+renseignements appartenant au Canada sur demande ou à la fin
+ou à la résiliation du contrat. Cela comprend tous les
+documents sur papier et en version électronique de ces
+renseignements ainsi que les documents sur papier et en version
+électronique contenant de l'information qui en
+découle.</li>
+</ol>
+<h2 id="2010-08-164006licences-concernant-les-droits-de-propriete-intellectuelle">4006 04 (2008-05-12) Licences concernant les droits de
+propriété intellectuelle sur les renseignements originaux
+et les renseignements de base</h2>
+<ol type="1">
+<li value="1">Puisque le Canada a contribué aux coûts
+liés à l'élaboration des renseignements originaux,
+l'entrepreneur accorde au Canada une licence qui l'autorise à
+exercer tous les droits de propriété intellectuelle sur
+les renseignements originaux dans le cadre des activités du
+Canada. A moins d'exception précisée dans le contrat,
+cette licence permet au Canada de faire tout ce qu'il pourrait
+faire s'il était propriétaire des renseignements
+originaux, sauf les exploiter commercialement et en transférer
+ou en céder la propriété. L'entrepreneur accorde
+également au Canada une licence qui l'autorise à utiliser
+les renseignements de base dans la mesure où cela est
+jugé raisonnable et nécessaire pour permettre au Canada
+d'exercer pleinement ses droits sur les biens livrables et les
+renseignements originaux.</li>
+<li value="2">Ces licences sont non exclusives, perpétuelles,
+irrévocables, mondiales, intégralement payées et
+libres de redevances. Aucune des licences ne peut être
+limitée d'aucune façon par l'entrepreneur en donnant un
+avis prévoyant le contraire, incluant le texte apparaissant
+sur une licence emballée sous film plastique ou toute autre
+forme d'emballage, accompagnant un bien livrable.</li>
+<li value="3">Pour plus de certitude, les licences du Canada
+comprennent notamment, mais non exclusivement :
+<ol type="a">
+<li value="1">le droit de divulguer les renseignements originaux et
+de base aux tiers soumissionnant ou négociant des contrats
+avec le Canada, et le droit d'autoriser, par sous-licence ou
+autrement, tout entrepreneur engagé par le Canada à
+utiliser ces renseignements uniquement aux fins d'exécution de
+ces contrats. Le Canada exigera de ces tiers et de ces
+entrepreneurs qu'ils n'utilisent ou ne divulguent ces
+renseignements, sauf lorsque cela s'avère nécessaire pour
+la préparation d'une soumission, la négociation ou
+l'exécution des contrats;</li>
+<li value="2">le droit de divulguer les renseignements originaux et
+de base à d'autres gouvernements, aux fins d'information;</li>
+<li value="3">le droit de reproduire, modifier, améliorer,
+élaborer ou traduire les renseignements originaux et de base,
+ou de le faire exécuter par une personne engagée par le
+Canada. Le Canada, ou une personne désignée par le
+Canada, détiendra les droits de propriété
+intellectuelle associés à la reproduction, la
+modification, l'amélioration, l'élaboration ou la
+traduction;</li>
+<li value="4">sans restreindre la portée de toute licence ou
+de tout autre droit que le Canada pourrait autrement détenir
+sur les renseignements de base, le droit, en ce qui a trait à
+toute partie des travaux conçue sur mesure ou fabriquée
+sur mesure, d'exercer tous les droits de propriété
+intellectuelle sur tout renseignement de base qui peuvent être
+requis pour les fins suivantes :
+<ol type="i">
+<li value="1">l'utilisation, le fonctionnement, la maintenance, la
+réparation ou la révision de toute partie des travaux
+conçue ou fabriquée sur mesure; et</li>
+<li value="2">la fabrication de pièces de rechange destinées
+à la maintenance, à la réparation ou à la
+révision, par le Canada, de toute partie des travaux
+conçue ou fabriquée sur mesure, si ces pièces ne
+peuvent être obtenues à des conditions commerciales
+raisonnables pour permettre la maintenance, la réparation ou
+la révision en temps opportun;</li>
+</ol>
+</li>
+<li value="5">pour un logiciel créé sur mesure pour le
+Canada, le droit d'utiliser tout code source que l'entrepreneur
+doit livrer au Canada en vertu du contrat.</li>
+</ol>
+</li>
+<li value="4">L'entrepreneur s'engage à mettre promptement
+à la disposition du Canada tout renseignement de base pour les
+fins mentionnées ci-haut, y compris dans le cas de logiciels,
+le code source. La licence ne s'applique pas cependant à un
+logiciel faisant l'objet de conditions de licence
+détaillées qui sont prévues ailleurs dans le
+contrat. De plus, dans le cas d'un logiciel en vente libre dans le
+commerce, l'obligation de l'entrepreneur de mettre promptement le
+code source à la disposition du Canada ne s'applique qu'à
+tout code source qui est sous le contrôle de l'entrepreneur ou
+d'un sous-traitant, ou qui peut être obtenu par l'un
+d'eux.</li>
+</ol>
+<h2 id="2010-08-164006droits-de-l-entrepreneur-d-accorder-des-licences">4006 05 (2008-05-12) Droits de l'entrepreneur d'accorder des licences</h2>
+<p>L'entrepreneur déclare et garantit qu'il a le droit
+d'accorder au Canada les licences et tout autre droit lui
+permettant d'utiliser les renseignements originaux et de base. Si
+un sous-traitant ou un autre tiers détient ou détiendra
+des droits de propriété sur des renseignements originaux
+ou de base, l'entrepreneur doit soit avoir ou obtenir promptement
+une licence de ce sous-traitant ou tiers qui lui permet de se
+conformer à l'article 4 ou soit faire des arrangements avec ce
+sous-traitant ou tiers pour qu'il accorde sans délai toute
+licence requise directement au Canada.</p>
+<h2 id="2010-08-164006renonciation-aux-droits-moraux">4006 06 (2008-05-12) Renonciation aux droits moraux</h2>
+<p>Pendant et après le contrat, l'entrepreneur doit, sur
+demande du Canada, fournir une renonciation écrite permanente
+aux droits moraux, au sens de la <cite>Loi sur le droit d’auteur</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> C-42, de la part de chaque auteur
+qui contribue aux renseignements originaux qui font l'objet d'une
+protection par droit d'auteur et qui doivent être livrés
+au Canada en vertu du contrat. Si l'entrepreneur est un auteur des
+renseignements originaux, il renonce en permanence à ses
+droits moraux sur ces renseignements originaux.</p>
+<h2 id="2010-08-164006licence-concernant-les-droits-de-propriete-intellectuelle-sur-les-renseignements-du-canada">4006 07 (2008-05-12) Licence concernant les droits de propriété intellectuelle sur les renseignements du Canada</h2>
+<ol type="1">
+<li value="1">Tous les renseignements fournis par le Canada à
+l'entrepreneur pour l'exécution des travaux demeurent la
+propriété du Canada. L'entrepreneur doit utiliser ces
+renseignements uniquement pour l'exécution du contrat.</li>
+<li value="2">Si l'entrepreneur désire utiliser des
+renseignements appartenant au Canada pour l'exploitation
+commerciale ou le développement des renseignements originaux,
+il doit obtenir une licence du ministère ou de l'organisme
+pour lequel le contrat est exécuté. L'entrepreneur doit
+expliquer dans sa demande à ce ministère ou organisme les
+raisons de cette licence et la manière dont il entend utiliser
+les renseignements. Si le ministère ou l'organisme accepte
+d'accorder une licence, les conditions seront négociées
+entre l'entrepreneur et ce ministère ou organisme et peuvent
+prévoir le paiement d'une indemnité au Canada.</li>
+</ol>
+<h2 id="2010-08-164006transfert-ou-licence-des-droits-de-l-entrepreneur">4006 08 (2008-05-12) Transfert ou licence des droits de l'entrepreneur</h2>
+<ol type="1">
+<li value="1">Pendant la durée du contrat, l'entrepreneur ne
+doit en aucun cas vendre, transférer, céder ou accorder
+une licence sur les renseignements originaux sans l'autorisation
+préalable et écrite de l'autorité contractante.</li>
+<li value="2">Après la période du contrat, si
+l'entrepreneur transfère la propriété des
+renseignements originaux, il n'a pas à obtenir l'autorisation
+du Canada, mais il doit en aviser le ministère ou l'organisme
+pour qui le contrat est exécuté par écrit, en
+communiquant le numéro de série et la date du contrat, et
+en fournissant des détails sur le bénéficiaire, y
+compris les conditions du transfert. L'entrepreneur doit s'assurer
+que le bénéficiaire avisera ce ministère ou cet
+organisme dans le cas de tout transfert ultérieur. Tout
+transfert doit être soumis aux droits du Canada relatifs aux
+renseignements originaux.</li>
+<li value="3">Après la période du contrat, si
+l'entrepreneur accorde à un tiers une licence ou tout autre
+droit (à l'exception d'un transfert de la propriété)
+lui permettant d'utiliser les renseignements originaux, il n'est
+pas tenu d'aviser le Canada, mais la licence ou le droit
+accordé ne doit avoir aucun effet sur les droits du
+Canada.</li>
+<li value="4">Si l'entrepreneur transfère la
+propriété ou accorde des droits sur les renseignements
+originaux qui empiètent de quelque façon que ce soit sur
+les droits du Canada d'utiliser les renseignements originaux,
+l'entrepreneur doit immédiatement, sur demande du Canada,
+prendre toutes les mesures qui s'imposent pour restituer les droits
+du Canada. Si l'entrepreneur ne réussit pas à prendre ces
+mesures dans un délai raisonnable exigé par le Canada, il
+devra immédiatement rembourser au Canada tous les frais
+encourus par le Canada pour rectifier lui-même la
+situation.</li>
+</ol>
+<h2 id="2010-08-164006transfert-des-droits-de-propriete-intellectuelle-en-cas-de-resiliation-du-contrat-pour-manquement">4006 09 (2008-05-12) Transfert des droits de
+propriété intellectuelle en cas de résiliation du
+contrat pour manquement</h2>
+<ol type="1">
+<li value="1">Si le Canada résilie le contrat en totalité
+ou en partie pour manquement, le Canada peut, en donnant un avis
+à l'entrepreneur, exiger que ce dernier lui cède tous les
+droits de propriété intellectuelle sur les renseignements
+originaux, y compris les droits détenus par des
+sous-traitants. En ce qui concerne les droits de
+propriété intellectuelle sur les renseignements originaux
+qui ont été vendus ou cédés à un tiers,
+l'entrepreneur doit payer au Canada, sur demande et à la
+discrétion du Canada, la juste valeur marchande de ces droits
+de propriété intellectuelle sur les renseignements
+originaux ou un montant égal à la contrepartie que la
+vente ou la cession de ces droits de propriété
+intellectuelle sur les renseignements originaux a rapporté
+à l'entrepreneur.</li>
+<li value="2">Advenant l'émission d'un avis par le Canada
+conformément au paragraphe 1, l'entrepreneur devra
+exécuter, à ses frais et promptement, tous les documents
+relatifs aux droits de propriété intellectuelle tel
+qu'exigé par le Canada. L'entrepreneur doit fournir au Canada,
+aux frais du Canada, toute l'aide raisonnable dans la
+préparation et l'acheminement de toute demande
+d'enregistrement de droits de propriété intellectuelle,
+dans toute juridiction, y compris l'aide de l'inventeur s'il s'agit
+d'une invention.</li>
+</ol>
+<h2 id="2010-08-164006produits-crees-en-utilisant-les-renseignements-originaux">4006 10 (2008-05-12) Produits créés en utilisant les
+renseignements originaux</h2>
+<p>Si l'entrepreneur utilise les renseignements originaux pour
+concevoir un nouveau produit ou apporter une amélioration
+à un produit existant, il convient que, si le Canada
+désire faire l'acquisition de ce produit, l'entrepreneur
+accordera au Canada un rabais sur le prix le plus bas auquel il a
+vendu le produit à d'autres clients, afin de tenir compte de
+l'apport financier du Canada au développement du produit.</p>
+</div></pre>

@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions de radoub, de 
+réparation et de conversion de navires.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><p>Les travaux doivent débuter et prendre fin comme
+suit :</p>
+<p>Début : <span class="input-required"><var>______</var>
+<kbd>(<i>insérer la date</i>)</kbd></span>;<br/>
+Fin : <span class="input-required"><var>_______</var>
+<kbd>(<i>insérer la date</i>)</kbd></span>.</p></li>
+<li value="2">En présentant une soumission, le soumissionnaire
+confirme qu'il a suffisamment de matériel et de ressources
+humaines affectées ou disponibles et que la période de
+travail ci-dessus permettra de terminer les travaux prévus
+ainsi qu'une quantité raisonnable de travaux
+imprévus.</li>
+</ol>
+</div></pre>

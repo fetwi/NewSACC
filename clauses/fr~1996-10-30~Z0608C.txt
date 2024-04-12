@@ -1,0 +1,34 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la commande ou le contrat étranger (É.U.) 
+précise qu'une inspection doit être effectuée par le gouvernement, à l'usine 
+(FAR 52.246, MIL-I-45208, MIL-Q-9859, AQAP 110, AQAP 120, AQAP 130, AQAP 131, 
+AQAP 150, ISO 9001, ISO 9002 et ISO 9003).  Indiquer dans le contrat de la CCC 
+le numéro de la norme de qualité précisée dans la commande ou le contrat 
+étranger (É.U.).  Inscrire le nom de la ville et le numéro de téléphone de la 
+Région d'assurance de la qualité des Forces canadiennes le plus près de 
+l'adresse de l'entrepreneur :
+
+Région de l'Atlantique		-	Halifax		(902) 427-7153
+Région du Québec		-	Montréal	(514) 846-6410
+Région de l'Ontario		-	Toronto		(416) 952-2086
+Région de l'Ouest		-	Winnipeg	(204) 833-5533
+					Edmonton	(403) 973-4011, poste 4317
+					Vancouver	(604) 666-4136
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Tous les travaux doivent faire l'objet d'une vérification 
+       gouvernementale de la qualité aux installations de l'entrepreneur ou 
+       à celles des sous-traitants qui sera effectuée par le Directeur 
+       général des services des programmes d'équipement du ministère de la 
+       Défense nationale (MDN), appelé Agent de contrôle de la qualité.  
+       L'entrepreneur doit, dans les quarante-huit (48) heures suivant la 
+       réception de ce contrat, prendre les arrangements nécessaires avec 
+       l'Agent de contrôle de la qualité du MDN qui s'occupe ordinairement 
+       de son usine.  Le nom, l'adresse et le numéro de téléphone peuvent 
+       être obtenus de la Région d'assurance de la qualité des Forces 
+       canadiennes de (inscrire la ville) _____, numéro de téléphone _____.
+
+2.     L'entrepreneur doit se conformer aux exigences de la norme de 
+   qualité : _____.
+</pre>

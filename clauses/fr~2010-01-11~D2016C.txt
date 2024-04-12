@@ -1,0 +1,89 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le ministère de la Défense 
+nationale demande d'ajouter des marques d'identification de l'emballage et que 
+celles-ci différeront pour certains articles.
+ </p>
+<p>
+  Consulter la clause
+  
+   D2015C
+  
+  quand les marques d'identification détaillées sont 
+les mêmes pour tous les articles.
+ </p>
+<p>
+  L'agent de négociation des contrats doit indiquer le numéro de l'article et 
+insérer toutes les informations pertinentes dans l'espace en blanc de l'article 
+1 :
+ </p>
+<ol type="a">
+<li>
+   le numéro de spécification;
+  </li>
+<li>
+   le nom du fabricant;
+  </li>
+<li>
+   le numéro du dessin;
+  </li>
+<li>
+   le numéro du série ou de lot;
+  </li>
+<li>
+   le numéro d'homologation;
+  </li>
+<li>
+   la date de vulcanisation des pièces en caoutchouc;
+  </li>
+<li>
+   les données exigées dans le contrat ou dans la spécification de biens ou de 
+services;
+  </li>
+<li>
+   la date de fabrication;
+  </li>
+<li>
+   la date de la réparation ou de la remise en état;
+  </li>
+<li>
+   le nom de l'entrepreneur chargé de la réparation ou de la remise en état;
+  </li>
+<li>
+   la situation de la modification;
+  </li>
+<li>
+   le numéro de série; et
+  </li>
+<li>
+   la date d'expiration de la durée utile.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit s'assurer que les informations
+suivantes sont fournies en plus des marques d'identification
+requises sur l'emballage intérieur et extérieur des
+articles :
+
+<br/>Pour les articles <var>_____________</var> :
+
+<ol type="a">
+<li value="1"><var>__________</var>;</li>
+<li value="2"><var>__________</var>;</li>
+</ol>
+
+Pour les articles <var>_____________</var> :
+
+<ol type="a">
+<li value="1"><var>__________</var>;</li>
+<li value="2"><var>__________</var>;</li>
+</ol>
+</li>
+<li value="2">Ces marques d'identification doivent être
+placées et appliquées conformément à la
+spécification de marquage D-LM-008-002/SF-001 des Forces
+canadiennes.</li>
+</ol>
+</div></pre>

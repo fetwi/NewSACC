@@ -1,0 +1,41 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause  dans les cas suivants :
+
+-	une AUTORISATION SÉCURITAIRE est nécessaire (case no 12);
+
+-	l'accès à des renseignements CLASSIFIÉS et/ou à des lieux de travail, où l'on 
+entrepose de tels renseignements ou biens AUX INSTALLATIONS DU CLIENT 
+UNIQUEMENT, est nécessaire (case no 11);
+
+-	le niveau des renseignements ou des biens CLASSIFIÉS est indiqué à la case no 
+11.
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pendant toute la période d'exécution du contrat, l'entrepreneur doit 
+       détenir pour ses installations une autorisation valide de sécurité 
+       de niveau ______, émise par la Direction de la sécurité industrielle 
+       et ministérielle (DSIM) du ministère des Approvisionnements et 
+       Services (MAS).
+
+2.     TOUT employé de l'entrepreneur qui a accès à des renseignements ou à 
+       des biens CLASSIFIÉS ou à des lieux de travail où l'on entrepose de 
+       tels renseignements ou biens, doit détenir une attestation 
+       sécuritaire valide de niveau ______ émise par la DSIM.
+
+3.     A moins d'autorisation écrite expresse à cet effet du délégué 
+       scientifique ou technique, l'entrepreneur NE retirera AUCUN 
+       renseignement ou bien CLASSIFIÉ du lieu des travaux et il s'assurera 
+       que son personnel connaît et se conforme à cette exigence. Dans les 
+       cas où une telle autorisation est émise, les renseignements et les 
+       biens CLASSIFIÉS ne peuvent être RETIRÉS du lieu de travail que pour 
+       une période TEMPORAIRE et doivent être retournés aussitôt que 
+       possible.
+
+4.     L'entrepreneur se conformera aux dispositions des documents suivants : 
+
+       a)     la Liste de vérification relative à la sécurité, ci-jointe à 
+              l'annexe ____; 
+
+       b)     le Manuel de la sécurité industrielle (juin 1992). 
+</pre>

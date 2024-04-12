@@ -1,0 +1,526 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-06-21R1230Dhonoraires">CG5.1 Honoraires</a></li>
+<li><a href="#2018-06-21R1230Dfixation-des-honoraires-a-verser-pour-les-services">CG5.2 Fixation des honoraires à verser pour les
+services</a></li>
+<li><a href="#2018-06-21R1230Dmontants-verses-a-l-expert-conseil">CG5.3 Montants versés à l'expert-conseil</a></li>
+<li><a href="#2018-06-21R1230Dpaiements-pour-les-services">CG5.4 Paiements pour les services</a></li>
+<li><a href="#2018-06-21R1230Dpaiement-en-retard">CG5.5 Paiement en retard</a></li>
+<li><a href="#2018-06-21R1230Dobligations-de-l-expert-conseil-et-reclamations-presentees-contre-lui">CG5.6 Obligations de l'expert-conseil et réclamations
+présentées contre lui</a></li>
+<li><a href="#2018-06-21R1230Dnon-paiement-en-cas-d-erreurs-ou-d-omissions">CG5.7 Non-paiement en cas d'erreurs ou d'omissions</a></li>
+<li><a href="#2018-06-21R1230Dpaiement-d-honoraires-en-cas-de-modifications-et-de-revisions">CG5.8 Paiement d'honoraires en cas de modifications et de
+révisions</a></li>
+<li><a href="#2018-06-21R1230Dprolongation-de-delai">CG5.9 Prolongation de délai</a></li>
+<li><a href="#2018-06-21R1230Dfrais-de-suspension">CG5.10 Frais de suspension</a></li>
+<li><a href="#2018-06-21R1230Dfrais-de-resiliation">CG5.11 Frais de résiliation</a></li>
+<li><a href="#2018-06-21R1230Ddebours">CG5.12 Débours</a></li>
+</ul>
+</div>
+<h2 id="2018-06-21R1230Dhonoraires"><span class="clauseRef">R1230D</span> CG5.1 (2011-05-16)
+Honoraires</h2>
+<ol type="1">
+<li value="1">Sous réserve des dispositions de l'entente, le
+Canada s'engage à verser à l'expert-conseil, en
+contrepartie des services, un montant calculé en
+conformité avec les dispositions prévues dans les
+présentes et dans les Particularités de l'entente.</li>
+<li value="2">Les honoraires de l'expert-conseil sont payables
+seulement lorsque l'expert-conseil a fourni les services, et que le
+représentant du Ministère l'a attesté. Le paiement
+d'honoraires portant sur l'exécution de services ou d'une
+partie de services n'est pas réputé constituer une
+renonciation par le Canada à son droit à un
+règlement judiciaire ou contractuel des coûts ou
+dépenses attribuables au défaut ou à la
+négligence de l'expert-conseil.</li>
+<li value="3">Le montant maximum payé en vertu de l'entente, y
+compris les honoraires et débours, ne peut dépasser la
+somme mentionnée dans la clause Particularités de
+l'entente sans l'autorisation préalable écrite du
+représentant du Ministère en conformité avec les
+modalités du contrat.</li>
+</ol>
+<h2 id="2018-06-21R1230Dfixation-des-honoraires-a-verser-pour-les-services"><span class="clauseRef">R1230D</span> CG5.2 (2015-02-25)
+Fixation des honoraires à verser pour les services</h2>
+<p>Les honoraires à verser à l'expert-conseil
+pour les services décrits dans les présentes, doivent
+être déterminés selon au moins une des formules
+suivantes, comme il est spécifié dans la clause
+Particularités de l'entente :</p>
+<ol type="a">
+<li value="1">Honoraires à pourcentage
+<br/>La méthode de calcul des honoraires totaux pour les
+services reconnaît la variabilité du coût estimatif
+de construction selon la progression du projet. Les honoraires pour
+chaque étape du projet doivent être déterminés
+selon la formule suivante :
+<br/>Montant égal à H x A
+<br/>« H » étant les le pourcentage prévu à
+la clause Particularités de l'entente, et « A »
+étant ce qui suit :
+<ol type="i">
+<li value="1">Pour les étapes de l'analyse des exigences du
+projet et des études conceptuelles :
+<br/>« A » étant le coût estimatif de
+construction à la signature de l'entente.</li>
+<li value="2">Pour l'étape de l'élaboration de la conception :
+<br/>« A » étant le coût estimatif de
+construction préliminaire approuvé, établi une fois
+achevés les documents d'études conceptuelles.</li>
+<li value="3">Pour l'étape des documents de construction :
+<br/>« A » étant le coût estimatif de
+construction révisé approuvé, établi une fois
+achevés les documents d'élaboration de la conception.</li>
+<li value="4">Pour l'étape de l'appel d'offres, l'examen des
+soumissions et l'adjudication du contrat :
+<br/>« A » étant le coût estimatif de
+construction définitif approuvé, établi une fois
+achevés les documents de construction.</li>
+<li value="5">Pour les étapes de l'administration des travaux
+et du contrat et du contrôle postérieur à
+l'exécution :
+<br/>« A » étant le prix adjugé du contrat de
+construction.</li>
+</ol>
+Les honoraires totaux sont ajustés en conformité avec
+les autorisations prévues à l'article CG 5.8.
+</li>
+<li value="2">Honoraires fixes
+<br/>Les honoraires fixes peuvent être sous forme d'un prix
+forfaitaire ou d'un montant établi d'après des prix
+unitaires fixes multipliés par un certain nombre d'unités
+de produits à livrer selon le ou les montants
+précisés dans la clause Particularités de
+l'entente.</li>
+<li value="3">Honoraires fondés sur le temps
+<ol type="i">
+<li value="1">Les patrons, les cadres et autres employés
+autorisés à ce titre par le représentant du
+Ministère doivent être rémunérés au taux
+horaire précisé dans la clause Particularités de
+l'entente.</li>
+<li value="2">Les employés approuvés par le représentant
+du Ministère doivent être rémunérés selon
+les taux horaires précisés dans la clause
+Particularités de l'entente.</li>
+<li value="3">Heures normales de travail
+<br/>Les heures normales de travail quotidiennes des dirigeants des
+cadres et des employés de l'expert-conseil doivent être
+une période de sept heures et demie (7.5) dans une
+journée pendant laquelle ils s'occupent effectivement de
+fournir les services.</li>
+<li value="4">Temps de déplacements
+<br/>Le temps consacré, pendant les heures normales de travail,
+aux déplacements liés au projet et autorisés par le
+représentant du Ministère doit être compris dans le
+compte des heures de travail.
+<br/>Le temps consacré, en dehors des heures normales de
+travail, aux déplacements liés au projet et autorisé
+par le représentant du Ministère est payable jusqu'à
+un maximum de trois (3) heures par jour, à moins d'avis
+contraire.</li>
+<li value="5">Montants maximums payables
+<br/>Les montants maximums qui s'appliquent aux services devant
+être exécutés à des taux horaires doivent
+être tels que prévus à la clause Particularités
+de l'entente, et ne doivent pas être dépassés sans
+l'autorisation préalable du représentant du
+Ministère avec l'approbation du Canada.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-06-21R1230Dmontants-verses-a-l-expert-conseil"><span class="clauseRef">R1230D</span> CG5.3 (2011-05-16)
+Montants versés à l'expert-conseil</h2>
+<ol type="1">
+<li value="1">L'expert-conseil peut recevoir un paiement
+proportionnel chaque mois ou à tout autre intervalle convenu,
+sous réserve des restrictions pertinentes dans les
+Modalités de paiement. Les paiements seront versés, au
+plus tard, à la date d'échéance. Aux fins de
+l'entente, la date d'échéance sera le 30e jour suivant la
+réception d'une facture acceptable.</li>
+<li value="2">Une facture acceptable est une facture remise au
+représentant du Ministère selon la formule convenue et
+accompagnée de détails et de documents suffisants pour en
+permettre la vérification. La facture en question doit aussi
+montrer séparément les montants suivants :
+<ol type="a">
+<li value="1">le montant du paiement proportionnel
+réclamé pour les services rendus à la satisfaction
+du représentant du Ministère,</li>
+<li value="2">le montant de toute taxe, calculé selon la
+législation en vigueur, et</li>
+<li value="3">le montant total représentant la somme des
+montants décrits ci-dessus (a et b).</li>
+</ol>
+</li>
+<li value="3">Le montant de la taxe que l'expert-conseil aura
+indiqué sur la facture sera payé par le Canada en plus du
+montant du paiement proportionnel réclamé pour les
+services fournis à la satisfaction du représentant du
+Ministère.</li>
+<li value="4">Si, dans les quinze (15) jours suivant la
+réception d'une facture, le représentant du
+Ministère avise l'expert-conseil d'une erreur ou de la
+nécessité d'obtenir d'autres renseignements, le paiement
+sera effectué dans les trente (30) jours suivants
+l'acceptation de la facture corrigée ou des renseignements
+exigés.</li>
+<li value="5">À la suite de la prestation de chaque service
+précisé ailleurs dans l'entente, pourvu qu'un paiement
+proportionnel ait au moins été versé,
+l'expert-conseil doit présenter une déclaration
+statutaire attestant qu'il s'est acquitté de toutes les
+obligations financières découlant des services qui lui
+ont été rendus ou qui ont été fournis pour son
+compte, en application de l'entente, avant qu'il obtienne tout
+paiement supplémentaire.</li>
+<li value="6">À la suite d'un avis écrit par un
+sous-expert-conseil avec lequel l'expert-conseil a un contrat
+direct selon lequel un supposé paiement ne lui a pas
+été versé, le représentant du Ministère
+fournit au sous-expert-conseil une copie du dernier paiement
+proportionnel approuvé, qui a été versé à
+l'expert-conseil pour la prestation des services.</li>
+<li value="7">À la suite de la prestation satisfaisante de
+tous les services, le montant exigible en vertu de l'entente,
+déduction faite des paiements déjà effectués,
+est versé à l'expert-conseil dans les trente (30) jours
+suivant la réception d'une facture acceptable,
+accompagnée d'une déclaration finale, conformément
+au paragraphe 5 ci-dessus.</li>
+</ol>
+<h2 id="2018-06-21R1230Dpaiements-pour-les-services"><span class="clauseRef">R1230D</span> CG5.4 (2011-05-16)
+Paiements pour les services</h2>
+<ol type="1">
+<li value="1">Les paiements d'honoraires à pourcentage doivent
+être effectués pendant l'exécution des services,
+d'après les formules indiquées à l'article CG
+5.2.1.a), pour chacun des services, jusqu'à concurrence des
+montants indiqués ci-dessous :
+<ol type="a">
+<li value="1">Paiement pour l'analyse des exigences du projet et
+les études conceptuelles :
+<br/>Après l'approbation du dossier d'études conceptuelles,
+une somme égale à 10 p. 100 des honoraires;</li>
+<li value="2">Paiement pour l'élaboration de la conception :
+<br/>Après approbation du dossier d'élaboration, une somme
+égale à 15 p. 100 des honoraires;</li>
+<li value="3">Paiement pour les documents de construction :
+<br/>Après approbation des documents de construction, une somme
+égale à 45 p. 100 des honoraires;</li>
+<li value="4">Paiement pour l'appel d'offres, l'examen des
+soumissions et l'adjudication du contrat :
+<br/>Après adjudication d'un contrat de construction, ou de
+l'examen des soumissions dans le cas où le Canada n'attribue
+pas de contrat de construction pour des raisons autres que celles
+énoncées au paragraphe 6, une somme égale à 5
+p. 100 des honoraires;</li>
+<li value="5">Paiement pour l'administration des travaux et du
+contrat :
+<br/>À la délivrance du certificat provisoire
+d'achèvement du contrat de construction, une somme égale
+à 22 p. 100 des honoraires;</li>
+<li value="6">Paiement pour l'achèvement définitif et le
+contrôle postérieur à l'exécution :
+<br/>Suivant le rapport au représentant du Ministère de
+l'état des défectuosités à la fin de la ou des
+périodes de garantie, une somme égale à 3 p. 100 des
+honoraires.</li>
+</ol>
+</li>
+<li value="2">Les paiements d'honoraires fixes doivent être
+versés après l'exécution des services, si elle est
+jugée satisfaisante, mais ces paiements ne dépasseront
+pas le ou les montants prévus dans les Particularités de
+l'entente, pour chaque service.</li>
+<li value="3">Les paiements d'honoraires fondés sur le temps
+doivent être versés après l'exécution des
+services, si elle est jugée satisfaisante, mais ces paiements
+ne doivent pas dépasser le ou les montants prévus dans
+les Particularités de l'entente, pour chaque service.</li>
+<li value="4">Les paiements proportionnels d'honoraires de tous
+genres doivent être versés conformément à
+l'article CG 5.3, mais ne doivent pas dépasser la valeur des
+honoraires indiquée pour chacun des services en question.</li>
+<li value="5">Les paiements proportionnels pour l'administration
+des travaux et du contrat, dans le cas d'honoraires fixes ou
+proportionnels aux coûts, peuvent être versés en
+proportion du pourcentage des travaux de construction achevés
+et approuvés pour paiement aux termes du contrat de
+construction.</li>
+<li value="6">Si, à cause de l'expert-conseil, on ne peut
+obtenir un prix par soumission ou négociation à
+l'intérieur du plafond du coût de construction, ou si le
+prix n'est pas acceptable au représentant du Ministère
+pour l'adjudication du contrat de construction, l'expert-conseil
+aura droit seulement au paiement des honoraires jusqu'à
+concurrence des montants prévus pour l'appel d'offres,
+l'examen des soumissions et l'adjudication du contrat, jusqu'à
+ce que les exigences du paragraphe CG 3.11.3 aient été
+remplies.</li>
+</ol>
+<h2 id="2018-06-21R1230Dpaiement-en-retard"><span class="clauseRef">R1230D</span> CG5.5 (2011-05-16)
+Paiement en retard</h2>
+<ol type="1">
+<li value="1">Si le Canada tarde à effectuer un paiement
+dû en vertu de l'article CG 5.3, l'expert-conseil est en droit
+de recevoir de l'intérêt sur le montant en souffrance
+pendant la période définie au paragraphe 2 ci dessous, y
+compris le jour précédent la date de paiement. La date de
+paiement est considérée comme étant la date du
+chèque remis en paiement du montant en souffrance. Un montant
+est en souffrance lorsqu'il est impayé le lendemain de la date
+d'échéance décrite au paragraphe CG 5.3.1.</li>
+<li value="2">Les intérêts sont payés
+automatiquement sur tous les montants impayés à la date
+d'échéance ou quinze (15) jours après que
+l'expert-conseil ait présenté une déclaration
+conforme à celle décrite aux paragraphes CG 5.3.5 ou CG
+5.3.7, selon le délai le plus long.</li>
+<li value="3">Le taux d'intérêt est le taux d'escompte
+moyen plus 3 p. 100 par année sur tout montant en souffrance
+en vertu du paragraphe 1 ci-dessus.</li>
+</ol>
+<h2 id="2018-06-21R1230Dobligations-de-l-expert-conseil-et-reclamations-presentees-contre-lui"><span class="clauseRef">R1230D</span> CG5.6 (2012-07-16)
+Obligations de l'expert-conseil et réclamations présentées contre lui</h2>
+<ol type="1">
+<li value="1">Le Canada peut, pour libérer l'expert-conseil de
+ses obligations légales et des réclamations
+légitimes présentées contre lui par un
+sous-expert-conseil avec lequel il a un contrat direct visant la
+fourniture de services pour lui-même ou pour son compte,
+verser directement à l'auteur de la réclamation un
+montant déduit des sommes exigibles et payables à
+l'expert-conseil.</li>
+<li value="2">Aux fins du paragraphe 1 ci dessus, la
+légitimité d'une réclamation doit être
+affirmée soit
+<ol type="a">
+<li value="1">par un tribunal compétent; ou</li>
+<li value="2">par un arbitre dûment nommé pour arbitrer
+la réclamation; ou</li>
+<li value="3">par un avis écrit remis au représentant du
+Ministère et signé par l'expert-conseil qui en autorise
+le paiement.</li>
+</ol>
+</li>
+<li value="3">Un paiement effectué en application du
+paragraphe 1 ci-dessus libère le Canada de ses obligations
+envers l'expert-conseil en vertu de l'entente et sera déduit
+de toute somme payable à l'expert-conseil en vertu de
+l'entente.</li>
+<li value="4">Le paragraphe 1 ne s'applique qu'aux
+réclamations et obligations
+<ol type="a">
+<li value="1">à l'égard desquelles un avis de
+réclamation indique le montant réclamé et le
+détail des services ou d'une partie des services pour lesquels
+le réclamant n'a pas été payé. L'avis
+écrit de réclamation doit être reçu par le
+représentant du Ministère avant le versement du dernier
+paiement à l'expert-conseil et dans les cent vingt (120) jours
+de la date à laquelle le réclamant
+<ol type="i">
+<li value="1">aurait dû être payé intégralement
+en application de l'entente qui le lie à l'expert-conseil, si
+la réclamation porte sur une somme qui devait
+légitimement être retenue à l'égard du
+réclamant; ou</li>
+<li value="2">a fourni les derniers services prévus dans l'entente
+qui le lie à l'expert-conseil, si la réclamation ne porte
+pas sur la somme visée au sous-alinéa(i) ci-dessus,
+et</li>
+</ol>
+</li>
+<li value="2">les procédures visant à établir le
+droit au paiement des réclamations et obligations en cause
+à l'alinéa (a) ci-dessus doivent être intentées
+dans l'année suivant la date de réception, par le
+représentant du Ministère, de l'avis prévu à l'alinéa(a).</li>
+</ol>
+</li>
+<li value="5">Sur réception d'un avis de réclamation
+prévu à l'alinéa(a), le Canada peut retenir de
+toute somme due à l'expert-conseil en vertu de l'entente la
+totalité ou une partie du montant réclamé.</li>
+<li value="6">Le représentant du Ministère informe par
+écrit l'expert-conseil de la réception d'un avis de
+réclamation et de l'intention du Canada de retenir les fonds
+en vertu du paragraphe 5. L'expert-conseil peut dès lors et
+jusqu'à ce que le paiement soit effectué au
+réclamant, remettre au Canada une garantie acceptable d'un
+montant égal à la valeur de ladite réclamation.
+À la réception d'une telle garantie, le Canada verse
+à l'expert-conseil les fonds par ailleurs payables à
+celui-ci qui sont retenus en application du paragraphe 5.</li>
+<li value="7">L'expert-conseil doit s'acquitter de ses obligations
+légales et des réclamations légitimes relatives aux
+services qui lui ont été fournis ou qui l'ont
+été pour son compte aux termes des présentes au
+moins chaque fois que le Canada doit s'acquitter de ses obligations
+envers l'expert-conseil en vertu de l'entente.</li>
+</ol>
+<h2 id="2018-06-21R1230Dnon-paiement-en-cas-d-erreurs-ou-d-omissions"><span class="clauseRef">R1230D</span> CG5.7 (2011-05-16)
+Non-paiement en cas d'erreurs ou d'omissions</h2>
+<p>L'expert-conseil n'a pas droit au paiement des frais
+engagés en vue de rectifier les erreurs et les omissions
+liées aux services et qui sont attribuables à
+lui-même, à ses employés ou mandataires ou à
+des personnes pour lesquelles il a assumé toute
+responsabilité relativement à la prestation des
+services.</p>
+<h2 id="2018-06-21R1230Dpaiement-d-honoraires-en-cas-de-modifications-et-de-revisions"><span class="clauseRef">R1230D</span> CG5.8 (2012-07-16)
+Paiement d'honoraires en cas de modifications et de révisions</h2>
+<ol type="1">
+<li value="1">Le paiement de tous les services additionnels ou
+réduits autorisés par le représentant du
+Ministère avant qu'ils ne soient fournis, et pour lesquels une
+base de paiement n'a pas encore été établi au moment
+de la passation de l'entente, est un montant ou des montants
+déterminés par le représentant du Ministère,
+agissant de façon raisonnable, sous réserve des
+présentes Modalités de paiement.</li>
+<li value="2">Dans le cas où il est impossible, ou
+inapproprié, de déterminer des honoraires fixes ou des
+honoraires proportionnels aux coûts avant l'exécution des
+services additionnels ou réduits, le paiement est
+effectué sur la base d'honoraires fondés sur le temps,
+conformément à l'alinéa CG 5.2.1.c). Les
+débours sont remboursés conformément à
+l'article CG 5.12.</li>
+<li value="3">Avant l'exécution de services additionnels ou
+réduits sur une base d'honoraires fondés sur le temps,
+l'expert-conseil doit se conformer à toute demande faite par
+le représentant du Ministère en exécution de
+l'article CG 3.8, concernant des personnes à être
+engagées par l'expert-conseil ou par des sous-experts-conseils
+pour fournir les services additionnels ou réduits. De plus, le
+représentant du Ministère doit déterminer avec la
+participation de l'expert-conseil et fonder sur les pratiques en
+usage dans l'industrie, les taux horaires pour chacune de ces
+personnes pour lesquelles les renseignements pertinents
+n'apparaissent pas dans les Particularités de l'entente.</li>
+<li value="4">Le paiement des services additionnels non
+désignés au moment de la passation de l'entente est
+effectué uniquement dans la mesure où
+<ol type="a">
+<li value="1">les services additionnels sont des services qui ne
+sont pas inclus dans les services énumérés dans
+l'entente,</li>
+<li value="2">les services additionnels sont requis pour des
+raisons indépendantes de la volonté de l'expert-conseil,
+et</li>
+<li value="3">le rajustement d'honoraires pour des services
+découlant d'un rajustement du coût estimatif de
+construction pour tenir compte des services additionnels, n'est pas
+proportionné aux services additionnels
+exécutés.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-06-21R1230Dprolongation-de-delai"><span class="clauseRef">R1230D</span> CG5.9 (2011-05-16)
+Prolongation de délai</h2>
+<p>Si, et dans la mesure où, le délai d'exécution du
+contrat de construction n'est pas respecté ou est
+prolongé sans que l'expert-conseil ne soit en défaut
+selon l'opinion de Canada, le paiement des services requis pour
+cette période prolongée de l'administration du contrat
+sera sujet à un examen et à un rajustement équitable
+par le Canada.</p>
+<h2 id="2018-06-21R1230Dfrais-de-suspension"><span class="clauseRef">R1230D</span> CG5.10 (2018-06-21) Frais
+de suspension</h2>
+<ol type="1">
+<li value="1">S’il y a suspension des services en vertu de l’article CG7.2, le Canada verse :
+<ol type="a">
+<li>aux fins de clarté, un montant calculé aux termes des présentes modalités de paiement pour les services fournis de façon satisfaisante avant la date de suspension;</li>
+<li>les frais et dépenses justifiés, selon le Canada, qui ont été engagés de façon raisonnable pendant la période de suspension, conformément aux dispositions des articles CG 5.10.2, 5.10.3 et 5.10.4.</li>
+</ol>
+</li>
+<li value="2">L’expert-conseil doit réduire au minimum tous les frais et les dépenses engagés aux termes de l’article CG 5.10.1(b).</li>
+<li value="3">Dans les quatorze (14) jours suivant l’avis de suspension, l’expert-conseil doit présenter, le cas échéant, au représentant du Ministère un état des frais et des dépenses qu’il s’attend à engager durant la suspension et dont il demandera le remboursement, faute de quoi l’expert-conseil sera réputé, à toutes les fins, n’avoir engagé aucun frais ou aucune dépense.</li>
+<li value="4">Sauf en ce qui concerne le paiement prévu à l’article CG 5.10.1(b), le cas échéant, l’expert-conseil n’aura droit à aucun montant et à aucun recours, ni directement ni indirectement, notamment en ce qui a trait à l’obtention de dommages-intérêts ou d’une indemnité sur le fondement, par exemple, d’une occasion ou d’un gain manqué à la suite de la suspension des services en vertu de l’article CG7.2.</li>
+</ol>
+<h2 id="2018-06-21R1230Dfrais-de-resiliation"><span class="clauseRef">R1230D</span> CG5.11 (2018-06-21) Frais
+de résiliation</h2>
+<ol type="1">
+<li value="1">S’il y a résiliation de l’entente aux termes de l’article CG 7.3, le Canada verse et l’expert-conseil accepte à titre de règlement complet :
+<ol type="a">
+<li>un montant calculé aux termes des présentes modalités de paiement pour les services fournis de façon satisfaisante avant la date de résiliation;</li>
+<li>les coûts et dépenses justifiés, selon le Canada, qui ont été raisonnablement engagés en rapport direct avec la résiliation de l’entente, conformément aux dispositions des articles CG 5.11.2, 5.11.3, 5.11.4 et 5.11.5.</li>
+</ol>
+</li>
+<li value="2">L’expert-conseil doit réduire au minimum tous les coûts et toutes les dépenses engagés aux termes de l’article CG 5.11.1(b).</li>
+<li value="3">Dans les quatorze (14) jours suivant l’avis de résiliation, l’expert-conseil doit présenter, le cas échéant, au représentant du Ministère un état des frais et des dépenses qu’il a raisonnablement engagés après la date de résiliation, faute de quoi l’expert-conseil sera réputé, à toutes les fins, n’avoir encouru aucun frais ou aucune dépense.</li>
+<li value="4">L’expert-conseil est indemnisé des frais et des dépenses qu’il prouve, selon l’opinion du Canada, avoir engagés de façon raisonnable après la date de résiliation de l’entente.</li>
+<li>Sauf en ce qui concerne le paiement prévu à l’article CG 5.11.1, le cas échéant, l’expert-conseil n’aura droit à aucun montant et à aucun recours, ni directement ni indirectement, notamment en ce qui a trait à l’obtention de dommages-intérêts ou d’une indemnité sur le fondement, par exemple, d’une occasion ou d’un gain manqué à la suite de la résiliation de l’entente en vertu de l’article CG 7.3, Résiliation.</li>
+</ol>
+<h2 id="2018-06-21R1230Ddebours"><span class="clauseRef">R1230D</span> CG5.12 (2011-05-16) Débours</h2>
+<ol type="1">
+<li value="1">Sous réserve de toute disposition
+spécifiquement contraire dans les Conditions
+supplémentaires, les frais suivants doivent être inclus
+dans les honoraires exigés pour fournir les services
+d'expert-conseil et ne doivent pas être remboursés
+séparément;
+<ol type="a">
+<li value="1">frais de reproduction et de livraison des dessins,
+des fichiers <abbr title="conception et dessin assistés par ordinateur">CDAO</abbr>, des devis et autres documents techniques
+spécifiés dans l' Énoncé de projet;</li>
+<li value="2">frais de bureau courants tels que la photocopie, le
+matériel informatique, le service Internet, les frais de
+téléphone cellulaire, les appels interurbains et de
+télécopie incluant les frais encourus entre le bureau
+principal de l'expert-conseil et les bureaux auxiliaires ou entre
+le bureau de l'expert-conseil et les autres membres de
+l'équipe.</li>
+<li value="3">frais d'expédition et
+de livraison par messager spécial pour les produits à
+livrer spécifiés dans l' Énoncé de projet;</li>
+<li value="4">traçage;</li>
+<li value="5">matériaux de présentation;</li>
+<li value="6">frais de stationnement;</li>
+<li value="7">frais de taxi;</li>
+<li value="8">temps de déplacement;</li>
+<li value="9">dépenses de voyage; et</li>
+<li value="10">bureau de projet local.</li>
+</ol>
+</li>
+<li value="2">Sous réserve de toute disposition
+spécifiquement contraire dans les Conditions
+supplémentaires, les frais suivants engagés d'une
+façon raisonnable par l'expert-conseil, qui sont liés aux
+services et approuvés par le représentant du
+Ministère, sont remboursés à l'expert-conseil au
+prix coûtant :
+<ol type="a">
+<li value="1">frais de reproduction et de livraison des dessins,
+des fichiers <abbr title="conception et dessin assistés par ordinateur">CDAO</abbr>, des devis et autres documents techniques autres
+que ceux spécifiés dans l' Énoncé de
+projet;</li>
+<li value="2">les frais d'expédition des échantillons de
+matériaux et de maquettes autres que ceux spécifiés
+dans l' Énoncé de projet;</li>
+<li value="3">les frais de transport et de logement connexes au
+projet, autres que ceux spécifiés dans l'
+Énoncé de projet, doivent être remboursés selon
+la <cite>
+Directive sur les voyages du Conseil national mixte</cite>; et</li>
+<li value="4">les autres frais engagés avec l'autorisation
+préalable du représentant du Ministère.</li>
+</ol>
+</li>
+<li value="3">Les débours doivent être liés au
+projet et ne comprennent pas les dépenses d'exploitation
+normales de l'entreprise de l'expert-conseil. Les sommes payables
+ne doivent pas être supérieures au montant indiqué
+dans les Particularités de l'entente décrite ailleurs
+dans l'entente, à moins d'autorisation préalable du
+représentant du Ministère.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,102 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats lorsque Travaux publics et 
+Services gouvernementaux Canada (TPSGC) a autorisé l'utilisation d'une cote de 
+priorité.
+ <abbr title="Travaux publics et Services gouvernementaux Canada">
+  TPSGC
+ </abbr>
+ est autorisé à avoir recours au règlement du Système américain régissant 
+les priorités et les attributions en matière de défense en présentant chaque 
+année une demande au département du Commerce des États-Unis.  Lorsqu'il se 
+prévaut de cette autorisation,
+ <abbr title="Travaux publics et Services gouvernementaux Canada">
+  TPSGC
+ </abbr>
+ a la responsabilité de surveiller 
+l'utilisation des cotes de priorité et d'en faire rapport.  Par conséquent, 
+quand la clause suivante apparaît dans les contrats relatifs à la Corporation 
+commerciale canadienne, l'agent de négociation des contrats est responsable de 
+le signaler en envoyant une copie du contrat en format PDF à l'agent des 
+priorités et des allocations de défense, par courriel à :  DGA Priorités 
+dedéfense - ACQB Defence Priorities, ou une copie papier par télécopieur au 
+819-956-1459.
+
+NOTA :	Un plafond d'acquisition de 50 000 $US est compris dans le règlement du 
+Système américain régissant les priorités et les attributions en matière de 
+défense (15 CFR Part 700.17), où il est mentionné que, pour les contrats 
+en-dessous de cette valeur, une cote de priorité n'est pas requise, « pourvu que 
+la livraison puisse être effectuée dans des délais raisonnables sans 
+l'utilisation d'une telle cote ».
+
+Pour obtenir de plus amples renseignements sur l'application d'une cote de 
+priorité, les agents de négociation des contrats doivent consulter l'article 
+3.190 du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Il s'agit d'un besoin urgent en matière de
+défense du gouvernement des États-Unis et l'utilisation
+d'une cote de priorité américaine est autorisée et
+assignée. Cette cote de priorité n'est valide que pour
+les matériaux, sous-ensembles et composants (à
+l'exclusion des marchandises contrôlées) que
+l'entrepreneur achète directement d'entrepreneurs
+américains jusqu'à concurrence de <var>_____</var> $US au
+total. S'il dépasse cette limite, l'entrepreneur pourra
+procéder avec la commande d'achat en faisant parvenir les
+détails de la somme supplémentaire requise à l'agent
+des priorités et des allocations de défense, Travaux
+publics et Services gouvernementaux Canada (TPSGC), soit à
+l'agent des priorités et des allocations de défense, par
+courriel à : 
+DGA Priorits de défense - ACQB Defence Priorities ou par
+télécopieur au 819-956-1459.</li>
+<li value="2">La cote de priorité américaine
+assignée, la date de livraison demandée, la signature
+d'une personne autorisée à signer les commandes portant
+une cote, ainsi que l'attestation suivante doivent apparaître
+dans la commande d'achat passée par l'entrepreneur auprès
+d'entrepreneurs américains ou y être annexées:
+<blockquote>« La présente commande porte une cote certifiée
+pour utilisation par la défense nationale; l'entrepreneur doit
+respecter toutes les dispositions du règlement du Système
+américain régissant les priorités et les
+attributions en matière de défense (15 CFR Part
+700). »</blockquote>
+</li>
+<li value="3">Les cotes de priorité américaines
+assignées ne peuvent pas servir au Canada. Par
+conséquent, lorsque d'autres matériaux sont importés
+par l'entremise des sous-traitants ou des distributeurs canadiens
+de l'entrepreneur, le paragraphe suivant doit être ajouté
+à la commande d'achat envoyée par l'entrepreneur à
+son sous-traitant canadien:
+<blockquote>« <strong>AIDE POUR L'OBTENTION DE PRIORITÉ</strong> :
+La présente constitue un besoin urgent en matière de
+défense. Si l'entrepreneur importe du matériel ou demande
+des services provenant des États-Unis dans le cadre de
+l'exécution du contrat, veuillez communiquer avec l'Agent des
+priorités et des allocations de défense, Travaux publics
+et Services gouvernementaux Canada, afin de demander une cote de
+priorité américaine. »</blockquote>
+</li>
+<li value="4">L'entrepreneur devra conserver pendant trois (3) ans,
+et fournir au Canada, sur demande, le document l'autorisant à
+utiliser la cote en question et une liste de toutes les
+utilisations qui en ont été faites par lui.</li>
+<li value="5">Aide pour l'obtention d'une priorité
+spéciale
+<p>Si l'entrepreneur a besoin d'aide pour qu'on lui livre une
+commande en retard passée auprès d'un entrepreneur
+américain et portant une cote, il devrait communiquer avec
+l'Agent des priorités et des allocations de défense,
+<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>.</p>
+</li>
+</ol>
+</div></pre>

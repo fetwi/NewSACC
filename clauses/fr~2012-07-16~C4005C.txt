@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la Directive sur les
+  <br/>
+  voyages du Conseil national mixte sera utilisée et qu'il n'y a aucune indemnité
+  <br/>
+  pour le profit et(ou) les frais administratifs généraux sur les frais de déplacement.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur sera remboursé pour ses frais autorisés de déplacement et de subsistance qu'il a raisonnablement et convenablement engagés dans l'exécution des travaux, au prix coûtant, sans aucune indemnité pour le profit et(ou) les frais administratifs généraux, conformément aux indemnités relatives aux repas, à l'utilisation d'un véhicule privé et aux faux frais qui sont précisées aux appendices B, C et D de la Directive sur les voyages du <cite>Conseil national mixte</cite>et selon les autres dispositions de la Directive qui se rapportent aux « voyageurs » plutôt que celles qui se rapportent aux « employés »</p>
+<p>Tout déplacement doit être approuvé au préalable par <span class="input-required"><var>____________</var> <kbd>(<i>insérer «le responsable technique» ou «le chargé de projet» ou «l'autorité contractante»</i>)</kbd></span>.</p>
+<p>Tous les paiements sont assujettis à une vérification<br/>
+par le gouvernement.</p>
+<p>Coût estimatif : <var>_____</var> $ .</p>
+</div></pre>

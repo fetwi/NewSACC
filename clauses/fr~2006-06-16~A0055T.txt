@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions exigeant que toutes 
+les soumissions comprennent des parties distinctes.  En règle générale, les 
+parties comportent une soumission technique, une soumission financière et des 
+attestations, mais elles peuvent aussi comprendre une soumission de gestion ou 
+d'autres parties.  Les agents de négociation des contrats doivent indiquer le 
+nombre d'exemplaires exigés et le nombre de parties distinctes requises dans les 
+espaces prévus à cet effet.
+
+Les agents de négociation des contrats peuvent supprimer le terme « soumission 
+de gestion » et ajouter d'autres parties, s'il y a lieu.
+
+Ne pas utiliser cette clause pour les besoins de complexité moyenne lorsqu'on 
+utilise le modèle en langage clair 2T-MED1.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les soumissionnaires doivent fournir _____ exemplaires de leur 
+       soumission en _______ parties distinctes, comme suit :
+
+       a)     soumission technique;
+       b)     soumission financière;
+       c)     soumission de gestion;
+       d)     attestations; et
+       e)     __________.
+
+2.     Les prix doivent figurer dans la soumission financière seulement.  
+   Aucun prix ne doit être indiqué dans une autre partie de la soumission.
+</pre>

@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque la demande de soumissions comprend des critères d'évaluation techniques obligatoires et que la méthode de sélection se fera en fonction de la soumission recevable avec le prix évalué le plus bas.
+ </p>
+<p>
+  Utiliser la clause
+  
+   A0069T
+  
+  lorsque la demande de soumissions ne comprend aucun critère d'évaluation technique et que la méthode de sélection se fera en fonction de la soumission recevable avec le prix évalué le plus bas.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Une soumission doit respecter les exigences de la demande de soumissions et satisfaire à tous les critères d'évaluation techniques obligatoires pour être déclarée recevable. La soumission recevable avec le prix évalué le plus bas sera recommandée pour attribution d'un contrat.</p>
+</div></pre>

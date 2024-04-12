@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause afin de définir les exigences du ministère de la Défense 
+nationale concernant le marquage détaillé de l'emballage.  Faire un choix parmi 
+la liste suivante :
+
+a) 	numéro de spécification (type, qualité et catégorie) du bien;
+b) 	nom du fabricant;
+c) 	numéro de la pièce ou du dessin du fabricant;
+d) 	numéro du lot de série du fabricant;
+e) 	numéro d'homologation;
+f) 	date de vulcanisation des pièces en caoutchouc;
+g) 	autres données exigées dans le contrat ou dans la spécification de biens ou 
+de services;
+h) 	date de réparation ou de remise en état;
+i) 	date de fabrication;
+j) 	nom de l'entrepreneur chargé de la réparation ou de la remise en état;
+k) 	situation de la modification;
+l) 	numéro de série du bien.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit s'assurer que les marques sur l'emballage 
+       intérieur et extérieur des articles _____ comprennent des marques 
+       spéciales.
+
+2.     Liste des marques nécessaires : _____
+
+3.     Ces marques doivent être placées et appliquées conformément à la 
+       spécification D-LM-008-002/SF-001 des Forces canadiennes.
+
+
+</pre>

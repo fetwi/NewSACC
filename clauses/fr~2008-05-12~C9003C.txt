@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les modifications de contrats lorsque le prix 
+contractuel total a été établi, s'il y a lieu.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les travaux qui ont fait l'objet du contrat ont été
+complétés conformément aux conditions du contrat.
+Les parties conviennent que le prix contractuel total de tous les
+travaux est de <var>_____</var> $.</p>
+</div></pre>

@@ -1,0 +1,36 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'il faut modifier la période 
+de garantie.
+ </p>
+<p>
+  Utiliser la clause 1 pour les contrats comportant des conditions générales, ou 
+la clause 2 pour les contrats comportant des conditions générales 
+supplémentaires.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+L'article <var>______</var> des conditions générales
+<var>_________</var> est modifié en remplaçant la
+période de <span class="input-required"><var>________</var>
+<kbd>(<em>insérer la période de garantie figurant dans les
+conditions générales</em>)</kbd></span> par <span class="input-required"><var>_______</var> <kbd>(<em>insérer la nouvelle
+période de garantie exprimée en « jours » ou en
+« mois »</em>)</kbd></span>.<br/>
+Toutes les autres dispositions de la garantie demeureront en
+vigueur.</li>
+<li><strong>OU</strong>
+<h2>Clause 2</h2>
+L'article <var>______</var> des conditions générales
+supplémentaires <var>______</var> est modifié en
+remplaçant la période de <span class="input-required"><var>______</var> <kbd>(<em>insérer la
+période de garantie figurant dans les conditions
+générales supplémentaires</em>)</kbd></span> par
+<span class="input-required"><var>_______</var> <kbd>(<em>insérer
+la nouvelle période de garantie exprimée en « jours » ou en « mois »</em>)</kbd></span>.<br/>
+Toutes les autres dispositions de la garantie demeureront en
+vigueur.</li>
+</ul>
+</div></pre>

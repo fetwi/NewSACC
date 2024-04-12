@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats pour des services 
+d'impression en couleur.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit exécuter les travaux selon les
+exigences de qualité décrites dans la publication
+intitulée <cite>Niveaux
+de la qualité de la reproduction des couleurs</cite>.</p>
+</div></pre>

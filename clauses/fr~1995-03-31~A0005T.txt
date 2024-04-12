@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez la présente clause dans les invitations à soumissionner lorsque les 
+soumissions reçues ne seront évaluées selon une cotation numérique.  L'agent des 
+achats doit adapter la clause de façon à indiquer les exigences qui sont 
+obligatoires (O) et celles qui sont souhaitables (S), selon le cas.
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les exigences obligatoires (O) et souhaitables (S) énumérées 
+       ci-après seront prises en considération au moment de l'évaluation de 
+       chaque soumission :
+
+       a)     Conformité technique <strong>O/S</strong>
+       b)     Exigence de livraison <strong>O/S</strong>
+       c)     Exigence d'inspection <strong>O/S</strong>
+       d)     Exigence d'emballage <strong>O/S</strong>
+       d)     Documentation descriptive (au besoin) <strong>O/S</strong>
+       f)     Coûts de transport <strong>O/S</strong>
+       g)     Conformité aux méthodes d'établissement des coûts proposées <strong>O
+              /S</strong>
+       h)     Prix <strong>O/S</strong>
+       i)     Acceptation des autres modalités établies dans l'invitation à 
+              soumissionner <strong>O/S</strong>
+       j)     Renseignements à indiquer dans le document d'invitation <strong>O/S</strong>
+
+2.     Outre les exigences précitées, les soumissionnaires doivent 
+       satisfaire à toutes les autres exigences établies dans l'invitation 
+       à soumissionner.
+
+</pre>

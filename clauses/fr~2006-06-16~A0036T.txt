@@ -1,0 +1,58 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante en conjonction avec les critères d'évaluation 
+obligatoires et le critères cotés, lorsque la sélection se fera en fonction la 
+cotation numérique la plus élevée dans les limites du budget.  Cette clause doit 
+être utilisée en conjonction avec la clause A0210T, ou une autre clause qui 
+indique aux soumissionnaires éventuels le financement maximal disponible.
+
+Ne pas utiliser pour les besoins de faible valeur lorsqu'on utilise le modèle en 
+langage clair 2T-LDV1 et les instructions uniformisées 2003.
+
+Les agents de négociation des contrats doivent choisir l'une des trois (3) 
+options du paragraphe b), inscrire les renseignements appropriés, selon le cas, 
+et supprimer les paragraphes superflus:
+
+	Choisissez la première option du paragraphe b), lorsque les soumissionnaires 
+doivent obtenir un pourcentage minimal de points et que ce pourcentage est 
+précisé dans la clause.
+
+	Choisissez la deuxième option du paragraphe b), lorsque les soumissionnaires 
+doivent obtenir la cotation numérique minimale pouvant être accordée et que 
+cette cotation numérique est précisée dans la clause.
+
+	Choisissez la troisième option du paragraphe b), lorsque les soumissionnaires 
+doivent obtenir une cotation numérique minimale et que cette cotation numérique 
+n'est pas précisée dans la clause, mais plutôt dans une autre section de la 
+demande de soumissions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour être jugée recevable, une soumission doit:
+
+       a)     satisfaire à toutes les exigences obligatoires énoncées dans 
+              la demande de soumissions; et
+
+       b)     obtenir au moins _____ (<strong><em>inscrire le pourcentage minimal de 
+              points</em></strong>) p. 100 des points pour les critères précisés dans la 
+              demande de soumissions, et qui sont cotés.  L'échelle de 
+              cotation compte _____ (<strong><em>inscrire le total des points pouvant 
+              être accordés</em></strong>) points.
+
+       <strong>OU</strong>
+
+       b)     obtenir au moins _____<em> (</em><strong><em>inscrire la cotation numérique 
+              minimale exigée</em></strong><em>) </em>points pour les critères précisés dans la 
+              demande de soumissions, et qui sont cotés.  L'échelle de 
+              cotation compte _____<em> (</em><strong><em>inscrire le total des points pouvant 
+              être accordés</em></strong><em>) </em>points.
+
+       <strong>OU</strong>
+
+       b)     obtenir la cotation numérique minimale pour les critères 
+              précisés dans la demande de soumissions, et qui sont cotés.
+
+2.     Les soumissions ne répondant pas aux exigences de a) ou b) précitées 
+   seront éliminées.  La soumission recevable ayant obtenu le plus grand 
+   nombre de points sera recommandée pour attribution d'un contrat, pourvu 
+   que le prix estimatif total n'excède pas le budget disponible pour ce 
+   besoin.
+</pre>

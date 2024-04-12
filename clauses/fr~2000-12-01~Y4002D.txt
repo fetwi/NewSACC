@@ -1,0 +1,83 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser cette clause dans toutes les demandes de soumissions et tous les 
+contrats passés au nom de l'
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ , s'il y a expédition aérienne
+ <abbr title="coût, assurance et fret">
+  C.A.F.
+ </abbr>
+ ou
+ <abbr title="coût et fret">
+  C. &amp; F.
+ </abbr>
+ . 
+ Il n'est habituellement pas nécessaire d'assurer les marchandises dans le cas 
+des projets subventionnés par l'
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Marchandises dangereuses :</h2>
+<ol type="1">
+<li value="1">Il faudra inclure pour chaque marchandise dangereuse
+des renseignements quant à la nature, à la quantité
+et au numéro des Nations Unies, conformément au <cite>Code
+maritime international des marchandises dangereuses</cite> et aux derniers
+<cite>règlements de l'Association du transport aérien
+international</cite>.</li>
+<li value="2">Si le fournisseur ne se conforme pas à cette
+exigence, ce dernier sera passible de sanctions pouvant être
+prises par les responsables du règlement.</li>
+<li value="3">Les documents doivent être distribués comme
+suit :
+<ol type="a">
+<li value="1">à l'Agence canadienne de développement
+international (<abbr title="Agence canadienne de développement international">ACDI</abbr>), à l'adresse à laquelle les factures
+doivent être envoyées:
+<ol type="1">
+<li value="1">un (1) exemplaire signé et un (1) exemplaire non
+signé de la facture aérienne;</li>
+<li value="2">l'original et quatre (4) exemplaires de la facture
+commerciale à l'intention de l'<abbr title="Agence canadienne de développement international">ACDI</abbr>;</li>
+</ol>
+<p>L'entrepreneur doit ajouter la mention suivante sur chacune des
+factures :</p>
+<blockquote>« Nous certifions que les prix indiqués sur la
+facture excluent la taxe sur les produits et services, la taxe de
+vente harmonisée, la taxe de vente, les droits de douane
+remboursables et la taxe d'accise payés à l'égard
+des marchandises ou des pièces et des composantes
+incorporées aux marchandises. »</blockquote>
+<ol type="1">
+<li value="3">cinq (5) exemplaires de la liste de caisses;</li>
+<li value="4">un (1) exemplaire du rapport d'inspection, si le contrat
+exige une inspection;</li>
+<li value="5">deux (2) exemplaires du certificat d'assurance (en cas
+d'expédition aérienne <abbr title="coût, assurance et fret">C.A.F.</abbr>).</li>
+</ol>
+</li>
+<li value="2">à l'agent de dédouanement (ou au
+consignataire si aucun agent de dédouanement n'est
+mentionné dans le contrat) :
+<ol type="1">
+<li value="1">un (1) exemplaire signé et un exemplaire non signé
+de la facture aérienne;</li>
+<li value="2">trois (3) exemplaires de la facture commerciale;</li>
+<li value="3">trois (3) exemplaires du certificat d'assurance (en cas
+d'expédition aérienne <abbr title="coût, assurance et fret">C.A.F.</abbr>).</li>
+</ol>
+</li>
+<li value="3">à l'autorité contractante de Travaux
+publics et Services gouvernementaux Canada : un (1) exemplaire de
+la facture commerciale.</li>
+</ol>
+<p><strong>Paiement</strong> : Fonction des factures commerciales
+et documents ci-dessus attestés par le Contrôleur de
+l'<abbr title="Agence canadienne de développement international">ACDI</abbr>.</p>
+</li>
+</ol>
+</div></pre>

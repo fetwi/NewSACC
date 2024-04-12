@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les roulements à billes ou à rouleaux exposés doivent avoir été 
+traités avec un préservatif conforme à la norme 31-GP-3M (MIL-C-16173) Gr 2 
+ou MIL-C-11796B.
+
+Tous les scellés et les roulements protégés doivent être de production 
+   courante.  Sont acceptés comme l'étant les roulements à billes ou à 
+   rouleaux fabriqués un an ou moins avant leur livraison au MDN. 
+</pre>

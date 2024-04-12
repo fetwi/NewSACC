@@ -1,0 +1,38 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les cas suivants :
+
+1.	une AUTORISATION SÉCURITAIRE est nécessaire (case no 12);
+
+2.	l'entreposage de documents, de biens et/ou la production CLASSIFIÉE est 
+nécessaire aux installations de l'entrepreneur (cases nos 13 et 15 ou 16);
+
+3.	le niveau des renseignements ou des biens CLASSIFIÉS est indiqué à la case no 
+13;
+
+4.	certains renseignements CLASSIFIÉS PEUVENT devoir être traités ou produits 
+sur équipement informatique aux installations de l'entrepreneur (case no 17).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pendant toute la période d'exécution du contrat, l'entrepreneur doit 
+       détenir pour ses installations une autorisation valide de sécurité 
+       de niveau ____, y compris un entrepôt approuvé pour les documents au 
+       niveau ____, émise par la Division de la sécurité industrielle (DSI) 
+       du ministère des Travaux publics et des Services gouvernementaux.
+
+2.     TOUT employé de l'entrepreneur qui a accès à des renseignements ou à 
+       des biens CLASSIFIÉS ou à des lieux de travail où l'on entrepose de 
+       tels renseignements ou biens, doit détenir une attestation 
+       sécuritaire valide de niveau ____ émise par la DSI.
+
+3.     Sauf approbation écrite de la DSI à cet effet, l'entrepreneur NE 
+       DOIT PAS traiter ni produire sur équipement informatique des 
+       renseignements CLASSIFIÉS au niveau _____.
+
+4.     L'entrepreneur se conformera aux dispositions des documents suivants :
+
+       a)     la Liste de vérification relative à la sécurité, ci-jointe à 
+              l'annexe ____;
+       b)     le Manuel de la sécurité industrielle (juin 1992).
+
+
+</pre>

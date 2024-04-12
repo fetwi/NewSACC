@@ -1,0 +1,102 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Les conditions générales suivantes doivent être utilisées lorsqu’un utilisateur autorisé (utilisateur fédéral désigné et utilisateur provincial ou territorial désigné) reçoit l’accès aux documents d’approvisionnement de
+  <abbr title="Travaux publics et Services gouvernementaux du Canada">
+   TPSGC
+  </abbr>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-07-162009interpretation">01 Interprétation</a></li>
+<li><a href="#2018-07-162009generalites">02 Généralités</a></li>
+<li><a href="#2018-07-162009clauses-et-conditions-uniformisees">03 Clauses et conditions uniformisées</a></li>
+<li><a href="#2018-07-162009offre">04 Offre</a></li>
+<li><a href="#2018-07-162009commandes">05 Commandes</a></li>
+<li><a href="#2018-07-162009retrait">06 Retrait</a></li>
+<li><a href="#2018-07-162009revision">07 Révision</a></li>
+<li><a href="#2018-07-162009coentreprise">08 Coentreprise</a></li>
+<li><a href="#2018-07-162009divulgation-de-renseignements">09 Divulgation de renseignements</a></li>
+<li><a href="#2018-07-162009diffusion-de-renseignements-relatifs-a-l-offre-a-commandes">10 Publication de renseignements relatifs à l´offre à commandes</a></li>
+<li><a href="#2018-07-162009dispositions-relatives-a-l-integrite">11 Dispositions relatives à l'intégrité – Offre à commandes</a></li>
+<li><a href="#2018-07-162009acces-a-l-information">12 Accès à l'information</a></li>
+<li><a href="#2018-07-162009manquement-de-l-offrant">13 Manquement de l’offrant</a></li>
+<li><a href="#2018-07-162009code-de-conduite-pour-approvisionnement">14 Code de conduite pour l'approvisionnement – offre à commandes</a></li>
+</ul>
+</div>
+<h2 id="2018-07-162009interpretation">2009 01 (2018-07-16) Interprétation</h2>
+<p>Dans l'offre à commandes (OC), à moins que le contexte n'indique un sens différent :</p>
+<dl>
+<dt>« l'autorité responsable de l'offre à commandes »</dt>
+<dd>désigne la personne désignée comme telle dans l'offre à commandes, ou par avis à l'offrant, d'agir à titre de représentant du Canada dans la gestion de l'offre à commandes. L'autorité responsable de l'offre à commandes produira un document appelé « Offre à commandes et autorisation en matière de commandes subséquentes » qui autorise les utilisateurs autorisés à passer des commandes subséquentes à l'offre à commandes et d'informer l'offrant que l'autorisation de passer des commandes subséquentes à l'offre à commandes a été accordée aux utilisateurs désignés.</dd>
+<dt>« Canada », « Couronne », « Sa Majesté » ou « le gouvernement » </dt>
+<dd>désigne Sa Majesté la Reine du chef du Canada, tel qu'elle est représentée par le ministre des Travaux publics et des Services gouvernementaux et par toute autre personne dûment autorisée à agir au nom de ce ministre.</dd>
+<dt>« Commande »</dt>
+<dd>désigne une commande passée par un utilisateur autorisé dûment autorisé à passer une commande subséquente à une offre à commandes particulière. La présentation à l'offrant d'une commande équivaut à l'acceptation de son offre et constitue un marché entre les utilisateurs autorisés et l'offrant à l'égard des biens, des services, ou des deux, décrits dans la commande.</dd>
+<dt>« offrant »</dt>
+<dd>désigne la personne ou entité dont le nom figure à la page de signature de l'offre à commandes et qui offre de fournir les biens, services ou les deux aux utilisateurs autorisés dans le cadre de l'offre à commandes.</dd>
+<dt>« offre à commandes »</dt>
+<dd>désigne l'offre écrite de l'offrant, dont les clauses et conditions sont énoncées exhaustivement ou incorporées à titre de référence à partir du Guide des clauses et conditions uniformisées d'achat, les présentes conditions générales, les annexes ou tout autre document précisé ou mentionné comme faisant partie de l'offre à commandes.</dd>
+<dt>«Utilisateur autorisé »</dt>
+<dd>désigne un utilisateur fédéral désigné et un utilisateur provincial ou territorial désigné précisé dans l'offre à commandes, autorisé à passer des commandes subséquentes à l'offre à commandes.</dd>
+<dt>« Utilisateur fédéral désigné »</dt>
+<dd>désigne les ministères fédéraux, organismes ou sociétés d'État énumérés aux annexes I, I.1, II et III de la Loi sur la gestion des finances publiques, <abbr title="Lois révisées">L.R.</abbr> (1985), <abbr title="chapitre">ch.</abbr> F11;</dd>
+<dt>« Utilisateur provincial ou territorial désigné »</dt>
+<dd>désigne toute province ou tout territoire canadien, y compris le secteur des municipalités, des établissements d'enseignement supérieur, des écoles et des hôpitaux (secteur MESSS) à qui le ministère des Travaux publics et des Services gouvernementaux peut fournir un accès à ses services d'approvisionnement et instruments d'achat. Le secteur <abbr title="municipalités, des établissements d'enseignement supérieur, des écoles et des hôpitaux">MESSS</abbr> peut comprendre les administrations municipales régionales, locales ou de district ou toute autre forme d'administration municipale, les commissions scolaires, entités d'enseignement, de services de santé et de services sociaux financés par le secteur public, ainsi que toute société ou entité détenue ou contrôlée par les entités précitées, lesquelles sont précisées dans l'offre à commandes.</dd>
+</dl>
+<h2 id="2018-07-162009generalites">2009 02 (2018-07-16) Généralités</h2>
+<p>L'offrant convient qu'une offre à commandes ne constitue pas un contrat et que la publication de la présente offre à commandes et autorisation en matière de commandes subséquentes n'oblige ni engage les utilisateurs autorisés à acquérir ou à établir un contrat pour les biens ou les services, ou les deux, énumérés dans l'offre à commandes. L'offrant reconnaît et convient que les utilisateurs autorisés aient le droit d'acquérir les biens ou les services, ou les deux, énumérés dans l'offre à commandes par l'intermédiaire d'un autre contrat, d'une autre offre à commandes ou d'une autre méthode contractuelle quelconque.</p>
+<h2 id="2018-07-162009clauses-et-conditions-uniformisees">2009 03 (2018-07-16) Clauses et conditions uniformisées</h2>
+<p>Conformément à la Loi sur le ministère des Travaux publics et des Services gouvernementaux, <abbr title="Lois révisées">L.R.</abbr>, 1996, <abbr title="chapitre">ch.</abbr> 16, les clauses et conditions déterminées par un numéro, une date et un titre sont incorporées par renvoi et font partie intégrante de l'offre à commandes et de tout contrat résultant de l'offre à commandes, comme si elles y étaient formellement énoncées.</p>
+<h2 id="2018-07-162009offre">2009 04 (2018-07-16) Offre</h2>
+<ol>
+<li>L'offrant propose de fournir et de livrer aux utilisateurs autorisés les biens, les services ou une combinaison des biens et services décrits dans l'offre à commandes selon les prix établis dans l'offre à commandes lorsque les utilisateurs autorisés pourraient demander les biens, les services ou une combinaison de biens et services, conformément aux conditions du paragraphe 2 ci-après.</li>
+<li>L'offrant comprend et convient :
+            <ol type="a">
+<li>qu'une commande subséquente à une offre à commandes ne constituera un contrat que pour les biens, les services ou les deux qui ont été commandés, pourvu que la commande subséquente soit faite conformément aux dispositions de l'offre à commandes;</li>
+<li>que la responsabilité du Canada est limitée à celle qui découle des commandes subséquentes à l'offre à commandes passées par les utilisateurs autorisés du gouvernement fédéral et pendant la période précisée dans l'offre à commandes;</li>
+<li>que le Canada n'agisse pas à titre de mandataire de l'utilisateur provincial ou territorial désigné, et l'utilisateur provincial ou territorial désigné n'agit pas à titre de mandant du Canada. En émettant une commande subséquente à une offre à commandes, l'utilisateur provincial ou territorial désigné accepte toutes les obligations et responsabilités associées à l'établissement et à la gestion de la commande;</li>
+<li>que le Canada peut exiger que l'acquisition des biens, des services ou d'une combinaison des biens et services énumérés dans l'offre à commandes soit effectuée au moyen d'outils électroniques sauf indication contraire dans l'offre à commandes. Le Canada donnera un avis d'au moins 3 mois à l'offrant avant d'imposer une telle exigence;</li>
+<li>que l'offre à commandes ne peut être cédée ou transférée en tout ou en partie;</li>
+<li>que l'offre à commandes peut être mise de côté par le Canada en tout temps.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-07-162009commandes">2009 05 (2018-07-16) Commandes</h2>
+<p>S'il y a lieu, les utilisateurs autorisés utiliseront le formulaire inclus dans l'offre à commandes pour commander les biens, les services ou une combinaison de biens et services. Les demandes de biens, de services ou une combinaison de biens et services peuvent également être effectuées par téléphone, par télécopieur, par courriel, etc. ou par l'entremise de cartes d'achat (Visa ou MasterCard). </p>
+<p>Les commandes payées au moyen de cartes d'achat du gouvernement (Visa et MasterCard), y compris les commandes passées par téléphone doivent être confirmées par écrit par courriels, par télécopieurs ou par d'autres moyens, conformément aux modalités et aux prix énoncés dans l'offre à commandes.</p>
+<h2 id="2018-07-162009retrait">2009 06 (2018-07-16) Retrait</h2>
+<p>Si l'offrant désire retirer son offre à commandes une fois que l'autorisation de passer des commandes subséquentes à une offre à commandes a été donnée, il doit donner à l'autorité responsable de l'offre à commandes un avis écrit d'au moins 30 jours, à moins d'indication contraire dans l'offre à commandes. La période de 30 jours débutera à la date de réception de l'avis par l'autorité responsable de l'offre à commandes, et le retrait sera en vigueur à compter de la date d'expiration de cette période. L'offrant doit exécuter toutes commandes passées avant la date d'expiration de cette période.</p>
+<h2 id="2018-07-162009revision">2009 07 (2018-07-16) Révision</h2>
+<p>La période de l'offre à commandes peut uniquement être prolongée, ou son utilisation augmentée, par l'autorité responsable de l'offre à commandes au moyen d'une révision à l'offre à commandes faite par écrit.</p>
+<h2 id="2018-07-162009coentreprise">2009 08 (2018-07-16) Coentreprise</h2>
+<p>Si l'offrant est une coentreprise, il convient que tous les membres de la coentreprise sont conjointement et solidairement responsables de l´exécution de tout contrat attribué en vertu de l´offre à commandes. S´il y a un changement de membres au sein de la coentreprise, l´offre à commandes sera mise de côté par le Canada.</p>
+<h2 id="2018-07-162009divulgation-de-renseignements">2009 09 (2018-07-16) Divulgation de renseignements</h2>
+<p>L'offrant accepte que ses prix unitaires ou ses tarifs contenus dans l'offre à commandes soient divulgués par le Canada et convient qu'il n'aura aucun droit de réclamation contre le Canada, les utilisateurs désignés, leurs employés, agents ou préposés à ladite divulgation.</p>
+<h2 id="2018-07-162009diffusion-de-renseignements-relatifs-a-l-offre-a-commandes">2009 10 (2018-07-16) Publication de renseignements relatifs à l´offre à commandes</h2>
+<ol>
+<li>L'offrant consent à ce que le Canada peut publier certains renseignements relatifs à l'offre à commandes ou à un catalogue. L'offrant consent à la divulgation des renseignements suivants compris dans l'offre à commandes :
+            <ol type="a">
+<li>les conditions de l'offre à commandes;</li>
+<li>le numéro d´entreprise - approvisionnement de l'offrant, son nom; le nom, l´adresse, les numéros de téléphone et de télécopieur et l´adresse électronique de son représentant;</li>
+<li>le profil de l'offrant et son niveau d´attestation de sécurité;</li>
+<li>les catégories ou les domaines d´expertises pour lesquels l'offrant s´est qualifié.</li>
+</ol>
+</li>
+<li>Le Canada ne sera pas responsable des erreurs, des incohérences ou des omissions relatives à l'information publiée. Si l'offrant constate des erreurs, des incohérences ou des omissions, il s'engage à en informer immédiatement l'autorité responsable de l'offre à commandes.</li>
+</ol>
+<h2 id="2018-07-162009dispositions-relatives-a-l-integrite">2009 11 (2018-07-16) Dispositions relatives à  l'intégrité – offre à commandes</h2>
+<p>La Politique d'inadmissibilité et de suspension (la  « Politique ») et toutes les directives connexes incorporées par renvoi dans la demande d'offres à commandes à sa date de clôture sont incorporées et font partie intégrante de l'offre à commandes et de tout contrat subséquent. L'offrant doit respecter les dispositions de la Politique et des Directives, que l'on peut consulter sur le site Web de Travaux publics et Services gouvernementaux Canada à l'adresse Politique d'inadmissibilité et de suspension.</p>
+<h2 id="2018-07-162009acces-a-l-information">2009 12  (2018-07-16) Accès à l'information</h2>
+<p>Les dossiers créés par l'offrant et qui relèvent des utilisateurs autorisés sont assujettis à toutes les dispositions des lois sur l'accès à l'information et sur la protection des renseignements personnels à l'échelle fédérale, provinciale ou territoriale. L'offrant reconnaît les responsabilités des utilisateurs autorisés en vertu de ces lois et doit, dans la mesure du possible, aider les utilisateurs autorisés à assumer leurs responsabilités. </p>
+<p>De plus, l'offrant reconnaît que l'article 67.1 de la Loi sur l'accès à l'information, L.R.C 1985, c.A-1, ou son équivalent à l'échelle provinciale ou territoriale, prévoit que toute personne qui détruit, modifie, falsifie ou cache un document ou ordonne à une autre personne de commettre un tel acte, dans l'intention d'entraver le droit d'accès prévu à la Loi sur l'accès à l'information, ou son équivalent à l'échelle provinciale ou territoriale, est coupable d'un acte criminel passible d'un emprisonnement ou d'une amende, ou des deux. </p>
+<h2 id="2018-07-162009manquement-de-l-offrant">2009 13  (2018-07-16) Manquement de l’offrant</h2>
+<ol>
+<li>Si l'offrant manque à l'une de ses obligations prévues dans le cadre de l'offre à commandes, l'autorité responsable de l'offre à commandes peut, en donnant un avis écrit à l'offrant, mettre de côté l'offre à commandes. La mise de côté entrera en vigueur immédiatement ou à l'expiration du délai prévu dans l'avis si l'offrant n'a pas, dans le délai prévu, remédié au manquement selon les exigences de l'autorité responsable de l'offre à commandes.</li>
+<li>Si l'offrant fait faillite ou devient insolvable, ou qu'il se prévaut des dispositions d'une loi sur les débiteurs en faillite ou insolvables, ou qu'un séquestre est désigné aux termes d'un titre de créance ou qu'une ordonnance de séquestre est prononcée à son égard ou encore, qu'une ordonnance est rendue ou qu'une résolution est adoptée en vue de la liquidation de son entreprise, l'autorité responsable de l'offre à commandes peut, moyennant un avis écrit à l'offrant, sans délai mettre de côté l'offre à commandes.</li>
+</ol>
+<h2 id="2018-07-162009code-de-conduite-pour-approvisionnement">2009 14 (2018-07-16) Code de conduite pour l'approvisionnement – offre à commandes</h2>
+<p>L'offrant accepte de se conformer au Code de conduite pour l'approvisionnement et d'être lié par ses dispositions pendant la période de l'offre à commandes et celle de tout contrat subséquent.</p>
+</div></pre>

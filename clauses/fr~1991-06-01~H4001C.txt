@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats scientifiques lorsque l'échéancier 
+de livraison des rapports n'est pas précisé dans l'Enoncé de travail. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En plus de courts rapports d'avancement des travaux (lettres) présentés 
+   avec les factures mensuelles, l'Entrepreneeur devra livrer une ébauche 
+   de rapport en _____ copies, au plus tard le _____ (date), et un rapport 
+   final en _____ copies, au plus tard le _____ (date), au Délégué 
+   scientifique. 
+</pre>

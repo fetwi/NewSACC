@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'arrangements en matière 
+d'approvisionnement portant sur des services, lorsque des individus proposés ou 
+des individus ayant des qualités ou une expérience similaires seront disponibles 
+pour la durée de l'arrangement en matière d'approvisionnement.
+ </p>
+<p>
+  Lorsque le modèle 2T-RFSA1 est utilisé, insérer cette clause, s'il y a lieu, 
+dans la Partie 5 sous « Attestations préalables à l'émission de l'arrangement en 
+matière d'approvisionnement ».
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le fournisseur atteste que, s'il obtient un arrangement en
+matière d'approvisionnement découlant de la demande
+d'arrangements en matière d'approvisionnement, chaque individu
+proposé dans l'arrangement ou des individus ayant des
+qualités et une expérience similaires seront disponibles
+pour la durée de l'arrangement en matière
+d'approvisionnement.</p>
+<p>Si le fournisseur a proposé un individu qui n'est pas un
+employé du fournisseur, le fournisseur atteste qu'il a la
+permission de l'individu d'offrir ses services pour
+l'exécution des travaux et de soumettre son curriculum vitae
+au Canada. Le fournisseur doit, sur demande du responsable de
+l'arrangement en matière d'approvisionnement, fournir une
+confirmation écrite, signée par l'individu, de la
+permission donnée au fournisseur ainsi que de sa
+disponibilité.</p>
+</div></pre>

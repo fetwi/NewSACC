@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'ISO 10012-1 est exigée.  Cette clause doit 
+être utilisée de concert avec l'ISO 9001 (CAQ X), l'ISO 9002 (CAQ Y) et(ou) AQAP 
+150 (CAQ F) s'il y a lieu.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les mesures et le système d'étalonnage de l'entrepreneur seront conformes à :
+
+       ISO 10012-1, Exigences d'assurance de la qualité des équipements de 
+       mesure -- Partie 1 : Confirmation métrologique de l'équipement de 
+       mesure,
+
+       publié par l'Organisation internationale de normalisation (ISO), 
+       édition courante à la date de présentation de la soumission de 
+       l'entrepreneur.
+
+</pre>

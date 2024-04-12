@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions lorsque le besoin 
+est pour du matériel neuf et conforme à la plus récente version du dessin, de la 
+spécification et du numéro de pièce, en vigueur à la date de clôture de la 
+demande de soumissions.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le matériel fourni doit être neuf et conforme à
+la plus récente version du dessin, de la spécification
+et(ou) du numéro de pièce pertinent, en vigueur à la
+date de clôture de la demande de soumissions.</p>
+</div></pre>

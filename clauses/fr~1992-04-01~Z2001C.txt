@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
+stipule (si le montant du contrat est supérieur à 10 000 $).
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">L'Entrepreneur est tenu d'avertir la <abbr title="Corporation commerciale canadienne">CCC</abbr> rapidement,
+par écrit, avec suffisamment de détails, de tout avis de
+violation d'un brevet ou de droits d'auteur relativement à
+l'exécution du Contrat, qui viendrait à la connaissance
+de l'Entrepreneur.</li>
+<li value="2">Au cas où des poursuites seraient intentées
+contre la <abbr title="Corporation commerciale canadienne">CCC</abbr> et/ou le Gouvernement des États-Unis,
+alléguant la violation de brevets ou de droits d'auteur dans
+l'exécution du Contrat ou dans l'usage des marchandises
+fournies ou du travail ou des services fournis en vertu du
+présent Contrat, l'Entrepreneur est tenu de fournir à la
+<abbr title="Corporation commerciale canadienne">CCC</abbr>, à sa demande, toutes les preuves et informations en sa
+possession relativement à ces poursuites. Les preuves et
+informations en question seront fournies aux frais de la <abbr title="Corporation commerciale canadienne">CCC</abbr> sauf
+si l'Entrepreneur a consenti à indemniser la <abbr title="Corporation commerciale canadienne">CCC</abbr> et/ou le
+Gouvernement américain.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,63 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause avec les conditions générales
+  
+   2040
+  
+  ou les conditions 
+générales supplémentaires
+  
+   4006
+  
+  ou
+  
+   4007
+  
+  , lorsque l'entrepreneur doit fournir une 
+attestation de divulgation à la fin des travaux.
+ </p>
+<p>
+  Lorsque la clause est utilisée 
+avec
+  
+   2040
+  
+  , insérer : « l'article 27 des conditions générales
+  
+   2040
+  
+  ».
+ </p>
+<p>
+  Lorsque la clause est utilisée avec les conditions générales supplémentaires
+  
+   4006
+  
+  ou
+  
+   4007
+  
+  , insérer : « l'article 2 des conditions générales supplémentaires
+  
+   4006
+  
+  ou
+  
+   4007
+  
+  ».
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>A la fin des travaux, l'entrepreneur doit soumettre au
+<span class="input-required"><var>__________</var>
+<kbd>(<em>insérer « responsable technique » ou
+« chargé de projet »</em>)</kbd></span> et à
+l'autorité contractante une copie de l'attestation de
+divulgation jointe à l'annexe « <var>_____</var> »
+<span class="input-required"><kbd>(<em>insérer l'annexe applicable</em>)</kbd></span>
+prévoyant que toutes les divulgations applicables ont
+été soumises ou qu'il n'y avait aucune divulgation à
+soumettre en vertu de <span class="input-required"><var>_______</var> <kbd>(<em>insérer l'article
+applicable</em>)</kbd></span>.</p>
+</div></pre>

@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats du ministère de la Défense 
+nationale de type détachement mobile de réparation et d'entretien, lorsque des 
+services de transport, de mess et de logement sont à la disposition de 
+l'entrepreneur.
+
+Pour plus de renseignements sur les frais de déplacement, consulter l'Annexe
+ 
+  10.5.4
+ 
+ du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Lorsque l'entrepreneur désire utiliser les services de
+transport, de mess et de logement du Canada pour l'exécution
+des travaux, le <span class="input-required"><var>________</var>
+<kbd>(<i>insérer « chargé de projet » ou
+« responsable technique »</i>)</kbd></span> fournira les
+renseignements, sur demande, à l'entrepreneur relativement
+à la disponibilité des installations. Tous les frais
+engagés par l'entrepreneur pour l'utilisation de ces
+installations, plus tous les faux frais engagés, seront
+remboursés en vertu du contrat ainsi que des indemnités
+pour le profit et(ou) les frais administratifs généraux,
+aux taux détaillés dans le contrat.</p>
+</div></pre>

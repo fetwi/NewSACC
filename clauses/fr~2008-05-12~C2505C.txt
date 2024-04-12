@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la taxe provinciale sur 
+les carburants ne s'applique pas au propane lorsqu'utilisé pour le chauffage ou 
+pour la production de l'énergie et non comme essence automobile.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La taxe provinciale sur le propane ne s'applique pas lorsque le
+propane est utilisé pour le chauffage ou pour la production de
+l'énergie et est exclue du prix contractuel.</p>
+</div></pre>

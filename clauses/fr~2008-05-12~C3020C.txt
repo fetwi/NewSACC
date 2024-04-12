@@ -1,0 +1,52 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats à prix ferme assujettis à un 
+rajustement du taux de change, lorsque le paiement pour les biens, les services 
+ou les deux comprend un montant en monnaie (devise) étrangère et la méthode de 
+paiement prévoit des paiements d'étape.  Consulter les procédures 7E.574 et 
+11.007 du Guide des approvisionnements.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le prix en monnaie canadienne comprend le montant en monnaie 
+       étrangère pour les biens, les services ou les deux provenant de 
+       l'extérieur du Canada, tel que précisé à l'annexe ______ du 
+       formulaire PWGSC-TPSGC 9411, Demande de rajustement du taux de 
+       change (http://www.tpsgc.gc.ca/approvisionnements/text/forms/forms-f.html).  
+       Si une ou plusieurs étapes comporte(nt) un montant en monnaie 
+       étrangère qui devient payable au terme de l'étape, il faut remplir 
+       pour chacune de ces étapes un formulaire PWGSC-TPSGC 9411 distinct 
+       et le joindre à la facture.
+
+2.     Si une étape comporte l'importation de biens, de services ou les 
+       deux au Canada, le taux de change utilisé pour calculer le 
+       rajustement sera celui appliqué par l'Agence des services 
+       frontaliers du Canada (ASFC) à la date de l'importation.  Dans le 
+       cas d'une étape qui ne comporte pas l'importation de biens, de 
+       services ou les deux, mais qui comprend un montant en monnaie 
+       étrangère, le taux de change utilisé pour calculer le rajustement 
+       sera le taux de change de la Banque du Canada en vigueur à midi, à 
+       la date à laquelle le paiement d'étape devient exigible.
+
+3.     Aucun rajustement de prix résultant directement de l'application des 
+       dispositions de la présente clause ne sera effectué si les 
+       augmentations ou les diminutions du taux de change sont de l'ordre 
+       de plus ou moins 2 p. 100 du(des) taux de change mentionné(s) 
+       ci-dessus, ou équivalent à plus ou moins 100 $ du montant total 
+       cumulatif demandé en guise de rajustement du taux de change en vertu 
+       du contrat.
+
+4.     Sur chaque facture ou demande de paiement d'étape présentée en vertu 
+       du contrat, l'entrepreneur doit indiquer, de façon distincte, le 
+       facteur de rajustement du taux de change (à la hausse, à la baisse 
+       ou stable).  Si des biens, des services ou les deux sont livrés, il 
+       doit joindre à la facture ou au formulaire de demande de paiement 
+       d'étape une copie du formulaire B3-3, Douanes Canada - Formule de 
+       codage, de l'ASFC.  Lorsque les biens, les services ou les deux 
+       n'ont pas été importés, l'entrepreneur doit prouver, à la 
+       satisfaction du Canada, que le montant réclamé doit être payé en 
+       monnaie étrangère par l'entrepreneur.
+
+5.     Le Canada pourra vérifier toute révision de coûts et prix en vertu 
+de cette clause.
+
+
+
+</pre>

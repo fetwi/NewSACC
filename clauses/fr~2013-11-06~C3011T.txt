@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsqu’on ne prévoit pas que la fluctuation du taux de change posera un problème et qu’il ne sera pas offert d’atténuer les risques liés à la fluctuation du taux de change. Les agents de négociation des contrats doivent utiliser cette clause uniquement lorsque la clause
+  
+   C3010T
+  
+  n'est pas utilisée.
+ </p>
+<p>
+  Pour plus de renseignements, se référer à l’article
+  
+   4.65 Atténuation des risques liés à la fluctuation du taux de change
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le besoin ne prévoit pas offrir d’atténuer les risques liés à la fluctuation du taux de change. Aucune demande d’atténuation des risques liés à la fluctuation du taux de change ne sera prise en considération. Toute soumission incluant une telle disposition sera déclarée non recevable.</p>
+</div></pre>

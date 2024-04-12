@@ -1,0 +1,92 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain 
+prévoit l'entrée hors taxes. Le numéro du contrat américain initial doit être 
+inscrit aux alinéas a) et b).
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les biens couverts par le présent Contrat sont
+exemptés de droits de douane pour l'entrée aux
+États-Unis. Pour faciliter la préparation des certificats
+d'exemption de droits de douane, les inscriptions suivantes doivent
+apparaître sur tous les documents d'expédition (ex. :
+listes de caisses, DD 250 ou factures provisoires) :</p>
+<ol type="a">
+<li value="1">Adresses militaires aux États-Unis :<br/>
+Numéro du Contrat principal du Gouvernement américain : <var>_____</var>
+<blockquote>« Gouvernement des États-Unis, Département de
+la Défense - L'entrée en franchise doit être
+demandée en vertu de la section XXII, chapitre 98,
+sous-chapitre VIII, article no 9808.00.30, <span lang="en-CA">Harmonized Tariff
+Schedule</span> des États-Unis. Dès l'arrivée de l'envoi au
+bureau approprié d'entrée, le directeur de district des
+Douanes doit dédouaner l'envoi en vertu du document 19 <span lang="en-CA">CFR</span>
+142, et informer le commandant, <span lang="en-CA">Defense Logistics Agency, <abbr title="Defense Contract Management Area Operations">DCMAO</abbr></span>,
+New York, à l'attention de : DCMDN-GNNC, Direction des douanes,
+pièce 955, 201, rue Varick, New York, <span lang="en-CA">N.Y.</span> 10014-4811, pour
+que soient remplies les formules des Douanes 7501, 7501A ou 7506 et
+tous les certificats requis pour l'entrée en
+franchise. »</blockquote>
+</li>
+<li value="2">Autres (Adresses militaires autres
+qu'américaines) :<br/>
+Numéro du Contrat principal du Gouvernement américain : <var>_____</var>
+<blockquote>« Le Gouvernement des États-Unis, Département
+de la Défense - L'entrée en franchise doit être
+demandée en vertu de la section XXII, chapitre 98,
+sous-chapitre VII, article no 9808.00.30, Harmonized Tariff
+Schedule des États-Unis. Dès l'arrivée de l'envoi au
+bureau approprié d'entrée, le directeur de district des
+Douanes doit le dédouaner en vertu du document 19 CFR 142, et
+informer le commandant, <span lang="en-CA">Defense Logistics Agency, <abbr title="Defense Contract Management Area Operations">DCMAO</abbr></span>, New York,
+à l'attention de : DCMDN-GNNC, Direction des douanes, pièce
+955, 201, rue Varick, New York, <span lang="en-CA">N.Y.</span> 10014-4811, pour que soient
+remplies les formules des Douanes 7501, 7501A ou 7506 ainsi que
+tous les certificats requis pour l'entrée en
+franchise. »</blockquote>
+</li>
+<li value="3">Tous les documents d'expédition
+présentés aux Douanes et pour lesquels des certificats
+d'entrée en franchise doivent être émis
+doivent:
+<ol type="1">
+<li value="1">prévoir l'expédition des envois au
+destinataire approprié :
+<ol type="i">
+<li value="1">le ministère militaire, aux soins de
+l'Entrepreneur déterminé, y compris l'adresse de
+livraison de ce dernier, ou</li>
+<li value="2">l'installation militaire appropriée;</li>
+</ol>
+</li>
+<li value="2">porter les renseignements suivants :
+<ol type="i">
+<li value="1">numéro du Contrat principal plus commande de
+livraison, au besoin;</li>
+<li value="2">numéro du contrat de sous-traitance ou de la commande
+d'achat pour les fournitures étrangères, le cas
+échéant;</li>
+<li value="3">nom du transporteur;</li>
+<li value="4">la mutation : (indiquée ci-dessus);</li>
+<li value="5">le poids brut en livres (si le fret est basé
+sur le tonnage à l'espace, indiquer le nombre de pieds cubes
+en plus du poids brut d'expédition);</li>
+<li value="6">la valeur estimative en dollars américains; et</li>
+<li value="7">le numéro d'adresse relatif aux activités du
+bureau d'administration des contrats qui administre actuellement le
+Contrat principal (p. ex., pour les <span lang="en-CA"><abbr title="Defense Contract Management Area Operations">DCMAO</abbr></span>, Ottawa : DLA8NC).</li>
+</ol>
+</li>
+</ol>
+L'Entrepreneur doit préparer suffisamment d'exemplaires du
+Connaissement (ou autre document d'expédition) afin qu'au
+moins deux (2) exemplaires accompagnant le chargement soient mis
+à la disposition de l'agent des douanes américaines au
+port d'entrée. L'Entrepreneur devra également faire
+parvenir, au moment de l'expédition, une copie mémoire du
+Connaissement (ou autre document d'expédition) au
+représentant du Gouvernement américain désigné
+en a) et b) ci-dessus.</li>
+</ol>
+</div></pre>

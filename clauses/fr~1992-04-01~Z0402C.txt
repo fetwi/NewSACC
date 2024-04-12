@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les opérations de protection, de conditionnement,
+d'emballage et de marquage doivent être conformes aux normes
+commerciales de l'Entrepreneur en vue d'assurer une livraison sans
+problèmes à destination.</p>
+</div></pre>

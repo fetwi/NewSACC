@@ -1,0 +1,385 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser les conditions générales supplémentaires suivantes uniquement lorsque 
+l'entrepreneur doit recueillir ou utiliser des renseignements personnels sur des 
+individus pour exécuter les travaux (p. ex., leurs données médicales).  Avant 
+d'ajouter ces conditions générales supplémentaires dans le contrat, les agents 
+de négociation de contrats doivent consulter les Services juridiques pour 
+s'assurer qu'elles sont nécessaires.
+ </p>
+<p>
+  Ces conditions ne tiennent pas compte spécifiquement des nombreuses politiques 
+qui s'appliquent à l'utilisation et au traitement des renseignements personnels 
+par le Canada, comme la Politique et les Lignes directrices sur l'évaluation des 
+facteurs relatifs à la vie privée du Conseil du Trésor (CT), les diverses 
+politiques du
+  <abbr title="Conseil du Trésor">
+   CT
+  </abbr>
+  concernant la protection des renseignements personnels et des 
+données, et la Politique sur la gestion des technologies de l'information du
+  <abbr title="Conseil du Trésor">
+   CT
+  </abbr>
+  . 
+ Toutes les exigences supplémentaires découlant de ces politiques devront 
+figurer ailleurs dans le contrat.
+ </p>
+<p>
+  S'il y a des inquiétudes concernant le stockage de renseignements personnels au 
+Canada, les agents de négociation des contrats doivent consulter les Services 
+juridiques s'il serait également approprié d'utiliser la clause
+  
+   A9122C
+  
+  .
+ </p>
+<p>
+  Lorsque plusieurs conditions générales supplémentaires s'appliquent au besoin, 
+les agents de négociation des contrats doivent énumérer dans la clause d'ordre 
+de priorité des documents, les conditions générales supplémentaires en ordre 
+numérique croissant selon le numéro d'identification.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2008-12-124008interpretation">01 Interprétation</a></li>
+<li><a href="#2008-12-124008propriete-des-renseignements-personnels-et-des-dossiers">02 Propriété des renseignements personnels et des dossiers</a></li>
+<li><a href="#2008-12-124008utilisation-des-renseignements-personnels">03 Utilisation des renseignements personnels</a></li>
+<li><a href="#2008-12-124008cueillette-des-renseignements-personnels">04 Cueillette des renseignements personnels</a></li>
+<li><a href="#2008-12-124008exactitude-confidentialite-et-integrite-des-renseignements-personnels">05 Exactitude, confidentialité et intégrité des renseignements personnels</a></li>
+<li><a href="#2008-12-124008protection-des-renseignements-personnels">06 Protection des renseignements personnels</a></li>
+<li><a href="#2008-12-124008nomination-d-un-agent-de-protection-de-la-vie-privee">07 Nomination d'un agent de protection de la vie privée</a></li>
+<li><a href="#2008-12-124008obligation-de-presenter-des-rapports-trimestriels">08 Obligation de présenter des rapports trimestriels</a></li>
+<li><a href="#2008-12-124008evaluation-des-menaces-et-des-risques">09 Évaluation des menaces et des risques</a></li>
+<li><a href="#2008-12-124008verification">10 Vérification</a></li>
+<li><a href="#2008-12-124008obligations-reglementaires">11 Obligations réglementaires</a></li>
+<li><a href="#2008-12-124008elimination-et-retour-des-dossiers-au-canada">12 Élimination et retour des dossiers au Canada</a></li>
+<li><a href="#2008-12-124008obligation-juridique-de-divulguer-les-renseignements-personnels">13 Obligation juridique de divulguer les renseignements personnels</a></li>
+<li><a href="#2008-12-124008plaintes">14 Plaintes</a></li>
+<li><a href="#2008-12-124008exception">15 Exception</a></li>
+</ul>
+</div>
+<h2 id="2008-12-124008interpretation">4008 01 (2008-05-12) Interprétation</h2>
+<ol type="1">
+<li value="1">Dans le contrat, à moins que le contexte
+n'indique un sens différent,
+<dl>
+<dt>« conditions générales »</dt>
+<dd>désigne les
+conditions générales qui font partie du contrat;</dd>
+<dt>« dossier »</dt>
+<dd>désigne tout exemplaire papier ou des
+données sous forme lisible par machine comprenant des
+renseignements personnels;</dd>
+<dt>« renseignements personnels »</dt>
+<dd>désigne tout
+renseignement qui concerne un individu identifiable, incluant le
+type de renseignements décrit dans la <cite>Loi sur la protection des renseignements personnels</cite>, <abbr title="Lois du Canada">L.C.</abbr> 1985, <abbr title="chapter">c.</abbr>
+P-21.</dd>
+</dl>
+</li>
+<li value="2">Les mots et expression définis dans les
+conditions générales et employés dans les
+présentes conditions générales supplémentaires
+ont le sens donné dans les conditions
+générales.</li>
+<li value="3">En cas de divergence entre les conditions
+générales et ces conditions générales
+supplémentaires, les dispositions applicables des conditions
+générales supplémentaires l'emportent.</li>
+</ol>
+<h2 id="2008-12-124008propriete-des-renseignements-personnels-et-des-dossiers">4008 02 (2008-05-12) Propriété des renseignements
+personnels et des dossiers</h2>
+<p>Pour exécuter les travaux, l'entrepreneur aura accès
+et(ou) recueillera des renseignements personnels de tiers.
+L'entrepreneur reconnaît qu'il n'a aucun droit sur ces
+renseignements personnels ou dossiers et que ces derniers
+appartiennent au Canada. L'entrepreneur doit rendre disponibles,
+sur demande du Canada, tous les renseignements personnels et
+dossiers dans un format acceptable pour le Canada.</p>
+<h2 id="2008-12-124008utilisation-des-renseignements-personnels">4008 03 (2008-05-12) Utilisation des renseignements
+personnels</h2>
+<p>L'entrepreneur convient de créer, recueillir, recevoir,
+gérer, avoir accès, utiliser, conserver et disposer des
+renseignements personnels et des dossiers uniquement pour
+exécuter les travaux conformément au contrat.</p>
+<h2 id="2008-12-124008cueillette-des-renseignements-personnels">4008 04 (2008-05-12) Cueillette des renseignements
+personnels</h2>
+<ol type="1">
+<li value="1">Si l'entrepreneur doit obtenir des renseignements
+personnels d'un tiers dans le cadre des travaux, il ne doit
+recueillir que les renseignements personnels lui permettant
+d'exécuter les travaux. L'entrepreneur doit recueillir les
+renseignements personnels auprès de l'individu concerné
+et l'informer (au moment de la cueillette ou préalablement) de
+ce qui suit :
+<ol type="a">
+<li value="1">les renseignements personnels sont recueillis au nom
+du Canada et lui seront transmis;</li>
+<li value="2">les fins auxquelles ils sont destinés;</li>
+<li value="3">la divulgation des renseignements personnels est
+volontaire ou lorsqu'une exigence juridique demande que soient
+divulgués les renseignements personnels, la nature de cette
+exigence juridique;</li>
+<li value="4">les conséquences, le cas échéant, de
+refuser de fournir les renseignements;</li>
+<li value="5">l'individu a le droit de consulter et de corriger les
+renseignements personnels le concernant; et</li>
+<li value="6">les renseignements personnels feront partie d'un
+fichier de renseignements personnels particulier (au sens de la
+<cite>Loi sur la protection des renseignements personnels</cite>),
+et fournir à l'individu de l'information concernant
+l'institution fédérale qui gère le fichier de
+renseignements personnels, si l'autorité contractante a fourni
+ces renseignements à l'entrepreneur.</li>
+</ol>
+</li>
+<li value="2">L'entrepreneur, ses sous-traitants et leurs
+employés respectifs doivent s'identifier auprès des
+individus desquels ils recueillent des renseignements personnels et
+leur donner le moyen de vérifier qu'ils sont autorisés
+à recueillir les renseignements personnels en vertu d'un
+contrat passé avec le Canada.</li>
+<li value="3">Si l'autorité contractante l'exige,
+l'entrepreneur doit élaborer un formulaire de demande de
+consentement à utiliser lors de la cueillette de
+renseignements personnels, ou un texte dans le cas de cueillette de
+renseignements personnels par téléphone. L'entrepreneur
+ne peut utiliser le formulaire ou le texte sans avoir obtenu
+l'approbation écrite préalable de l'autorité
+contractante. Il doit aussi obtenir le consentement de
+l'autorité contractante avant de modifier le formulaire ou le
+texte.</li>
+<li value="4">Si, lors de la cueillette de renseignements
+personnels auprès d'un individu, l'entrepreneur sait ou
+soupçonne que cet individu n'est pas en mesure de consentir
+à la divulgation et l'utilisation de ses renseignements
+personnels, l'entrepreneur doit demander des directives à
+l'autorité contractante.</li>
+</ol>
+<h2 id="2008-12-124008exactitude-confidentialite-et-integrite-des-renseignements-personnels">4008 05 (2008-05-12) Exactitude, confidentialité et
+intégrité des renseignements personnels</h2>
+<p>L'entrepreneur doit s'assurer que les renseignements personnels
+sont le plus exacts, complets et à jour que possible, et il
+doit en assurer la confidentialité. Pour ce faire,
+l'entrepreneur doit, au minimum :</p>
+<ol type="a">
+<li value="1">ne pas utiliser de données d'identification
+personnelle (par ex., le numéro d'assurance sociale) pour lier
+de nombreuses bases de données qui comprennent des
+renseignements personnels;</li>
+<li value="2">isoler les dossiers des renseignements et des
+dossiers de l'entrepreneur;</li>
+<li value="3">ne donner l'accès aux renseignements personnels
+et aux dossiers qu'à ceux qui le requièrent aux fins
+d'exécution des travaux (par exemple, en utilisant des mots de
+passe ou un accès biométrique);</li>
+<li value="4">donner de la formation à toute personne à
+laquelle l'entrepreneur donne accès aux renseignements
+personnels concernant l'obligation d'assurer la
+confidentialité et de ne l'utiliser qu'aux fins
+d'exécution des travaux. L'entrepreneur doit donner cette
+formation avant d'autoriser l'accès aux renseignements
+personnels et préparer à cet effet un dossier accessible
+à l'autorité contractante, sur demande;</li>
+<li value="5">à la demande de l'autorité contractante,
+demander aux personnes ayant accès aux renseignements
+personnels de reconnaître, par écrit (sous une forme
+approuvée par l'autorité contractante), leurs
+responsabilités en matière de confidentialité des
+renseignements personnels, avant de leur en donner
+l'accès;</li>
+<li value="6">garder un registre de toutes les demandes faites par
+un individu pour la révision de ses renseignements personnels
+et toutes les demandes de correction d'erreurs ou d'omissions
+concernant les renseignements personnels (que les demandes soient
+faites directement par un individu ou par le Canada au nom d'un
+individu);</li>
+<li value="7">joindre une note à tout dossier qu'un individu a
+demandé de corriger, mais que l'entrepreneur a
+décidé, pour quelque raison que ce soit, de ne pas
+corriger. Lorsque cela se produit, l'entrepreneur doit
+immédiatement informer l'autorité contractante de la
+correction demandée et des raisons de l'entrepreneur de ne pas
+l'effectuer. Si l'autorité contractante demande que la
+correction soit effectuée, l'entrepreneur a l'obligation de le
+faire;</li>
+<li value="8">garder un registre de la date et de l'auteur de la
+dernière mise à jour de chaque dossier;</li>
+<li value="9">maintenir un journal de vérification
+électronique qui enregistre tous les accès et les
+tentatives d'accès des dossiers électroniques. Le journal
+de vérification doit être dans un format qui peut
+être lu par l'entrepreneur et le Canada en tout temps; et</li>
+<li value="10">sécuriser et contrôler l'accès à
+tout exemplaire papier des dossiers.</li>
+</ol>
+<h2 id="2008-12-124008protection-des-renseignements-personnels">4008 06 (2008-05-12) Protection des renseignements personnels</h2>
+<p>L'entrepreneur doit, en tout temps, protéger les
+renseignements personnels en prenant toutes les mesures
+nécessaires visant la protection et la sécurité des
+renseignements. Pour ce faire, l'entrepreneur doit, au minimum :</p>
+<ol type="a">
+<li value="1">stocker les renseignements personnels sous format
+électronique de manière à ce qu'un mot de passe (ou
+un autre mécanisme de contrôle, comme l'accès
+biométrique) soit requis pour accéder au système ou
+à la base de données où sont stockés les
+renseignements personnels;</li>
+<li value="2">s'assurer que les mots de passe ou autres moyens
+d'accès aux renseignements personnels ne sont fournis qu'aux
+individus qui le requièrent aux fins d'exécution des
+travaux;</li>
+<li value="3">ne pas confier à un tiers (y compris un
+affilié) le stockage des renseignements personnels sans
+l'autorisation préalable et écrite de l'autorité
+contractante;</li>
+<li value="4">protéger les bases de données ou les
+systèmes informatiques qui emmagasinent les renseignements
+personnels contre un accès externe par des méthodes
+couramment utilisées par des organismes publics et privés
+du Canada faisant preuve de prudence en matière de protection
+des renseignements très protégés et sensibles;</li>
+<li value="5">faire une sauvegarde et une mise à jour de tous
+les dossiers au moins une fois par semaine;</li>
+<li value="6">implanter toutes les mesures raisonnables de
+sécurité et de protection que le Canada demande de temps
+en temps; et</li>
+<li value="7">aviser immédiatement l'autorité
+contractante de toute infraction à la sécurité; par
+exemple, chaque fois qu'un individu non autorisé obtient
+l'accès aux renseignements personnels.</li>
+</ol>
+<h2 id="2008-12-124008nomination-d-un-agent-de-protection-de-la-vie-privee">4008 07 (2008-05-12) Nomination d'un agent de protection de la
+vie privée</h2>
+<p>L'entrepreneur doit nommer quelqu'un comme agent de protection
+de la vie privée, qui agira en tant que son représentant
+pour toutes les questions touchant les renseignements personnels et
+les dossiers. L'entrepreneur doit fournir le nom de cette personne
+à l'autorité contractante dans un délai de dix (10)
+jours suivant l'attribution du contrat.</p>
+<h2 id="2008-12-124008obligation-de-presenter-des-rapports-trimestriels">4008 08 (2008-05-12) Obligation de présenter des rapports
+trimestriels</h2>
+<p>Dans un délai de trente (30)jours suivant la fin de chaque
+trimestre (janvier-mars; avril-juin; juillet-septembre;
+octobre-décembre), l'entrepreneur doit présenter à
+l'autorité contractante :</p>
+<ol type="a">
+<li value="1">une description de toute nouvelle mesure prise par
+l'entrepreneur pour protéger les renseignements personnels
+(par exemple, un nouveau logiciel ou de nouveaux contrôles
+d'accès utilisés par l'entrepreneur);</li>
+<li value="2">une liste des corrections apportées aux
+renseignements personnels à la demande d'un individu
+concerné (comprenant le nom de la personne, la date de la
+demande et la correction apportée);</li>
+<li value="3">les détails de toute plainte reçue
+d'individus concernant la manière dont leurs renseignements
+personnels sont recueillis ou traités par l'entrepreneur;
+et</li>
+<li value="4">une copie (dans un format électronique
+accepté par l'autorité contractante et l'entrepreneur) de
+l'ensemble des renseignements personnels conservés
+électroniquement par l'entrepreneur.</li>
+</ol>
+<h2 id="2008-12-124008evaluation-des-menaces-et-des-risques">4008 09 (2008-05-12) Évaluation des menaces et des risques</h2>
+<p>L'entrepreneur doit présenter à l'autorité
+contractante une évaluation des menaces et des risques dans un
+délai de quatre-vingt-dix (90) jours suivant l'attribution du
+contrat, et dans un délai de trente (30) jours civils suivant
+chaque date d'anniversaire du contrat s'il dure plus d'un an, qui
+doit comprendre :</p>
+<ol type="a">
+<li value="1">une copie de la dernière version du formulaire
+de demande de consentement ou du script que l'entrepreneur utilise
+pour recueillir les renseignements personnels;</li>
+<li value="2">une liste des types de renseignements personnels
+utilisés par l'entrepreneur se rapportant aux travaux;</li>
+<li value="3">une liste de tous les emplacements où les
+exemplaires papier des renseignements personnels sont
+conservés;</li>
+<li value="4">une liste de tous les emplacements où les
+renseignements personnels sous forme lisible par machine sont
+conservés (par exemple, l'emplacement du serveur sur lequel la
+base de données est installée), ainsi que les
+sauvegardes;</li>
+<li value="5">une liste de toutes les personnes auxquelles
+l'entrepreneur a donné l'accès aux renseignements
+personnels ou aux dossiers;</li>
+<li value="6">une liste de toutes les mesures prises par
+l'entrepreneur pour protéger les renseignements personnels et
+les dossiers;</li>
+<li value="7">une explication détaillée des menaces
+réelles ou potentielles touchant les renseignements personnels
+ou les dossiers, accompagnée d'une évaluation des risques
+créés par ces menaces et la pertinence des protections
+existantes visant à prévenir ces risques; et</li>
+<li value="8">une explication de toute nouvelle mesure que
+l'entrepreneur considère prendre afin de protéger les
+renseignements personnels et les dossiers.</li>
+</ol>
+<h2 id="2008-12-124008verification">4008 10 (2008-05-12) Vérification</h2>
+<p>Le Canada peut vérifier en tout temps la conformité de
+l'entrepreneur aux présentes conditions générales
+supplémentaires. À la demande de l'autorité
+contractante, l'entrepreneur doit donner au Canada (ou à son
+représentant autorisé) l'accès à ses locaux et
+aux renseignements personnels et dossiers en tout temps jugé
+raisonnable. Si le Canada découvre un problème durant la
+vérification, l'entrepreneur doit le corriger
+immédiatement à ses frais.</p>
+<h2 id="2008-12-124008obligations-reglementaires">4008 11 (2008-05-12) Obligations réglementaires</h2>
+<ol type="1">
+<li value="1">L'entrepreneur reconnaît que le Canada est tenu
+de traiter tous les renseignements personnels conformément aux
+dispositions de la <cite>Loi sur la protection des renseignements personnels</cite>, de la <cite>Loi sur l’accès à l’information</cite>, <abbr title="Lois révisées">L.R.</abbr>1985, c.A-1, et de la <cite>Loi constituant Bibliothèque et Archives du Canada</cite>, <abbr title="Lois du Canada">L.C.</abbr> 2004, <abbr title="chapter">c.</abbr>11.
+L'entrepreneur convient de se conformer aux exigences établies
+par l'autorité contractante qui sont requises pour permettre
+au Canada de remplir ses obligations en vertu de ces lois et toute
+autre loi qui entre en vigueur de temps en temps.</li>
+<li value="2">L'entrepreneur reconnaît que ses obligations en
+vertu du contrat s'ajoutent à toutes celles que lui impose la
+<cite>Loi sur la protection des renseignements personnels et les documents électroniques</cite>, <abbr title="Lois du Canada">L.C.</abbr> 2000, <abbr title="chapter">c.</abbr>5, ou une loi
+similaire en vigueur dans une province ou un territoire du Canada.
+Si l'entrepreneur estime que l'une ou l'autre des obligations du
+contrat l'empêche de s'acquitter de ses obligations en vertu
+de ces lois, il doit immédiatement informer l'autorité
+contractante de la disposition du contrat et de l'obligation de la
+loi entre lesquelles il considère y avoir conflit.</li>
+</ol>
+<h2 id="2008-12-124008elimination-et-retour-des-dossiers-au-canada">4008 12 (2008-05-12) Élimination et retour des dossiers au Canada</h2>
+<p>L'entrepreneur ne peut éliminer aucun dossier à moins
+que l'autorité contractante le lui demande. Sur demande de
+l'autorité contractante, ou lorsque les travaux liés aux
+renseignements personnels sont terminés, le contrat est
+complété ou lorsque le contrat est résilié,
+selon ce qui se produit en premier, l'entrepreneur doit retourner
+tous les dossiers (y compris les copies) à l'autorité
+contractante.</p>
+<h2 id="2008-12-124008obligation-juridique-de-divulguer-les-renseignements-personnels">4008 13 (2008-05-12) Obligation juridique de divulguer les
+renseignements personnels</h2>
+<p>Avant de divulguer tout renseignement personnel
+conformément à toute loi, à tout règlement ou
+toute ordonnance rendue par une cour de justice, un tribunal ou une
+entité administrative compétente, l'entrepreneur doit
+immédiatement informer l'autorité contractante, afin de
+lui permettre de participer aux procédures pertinentes.</p>
+<h2 id="2008-12-124008plaintes">4008 14 (2008-05-12) Plaintes</h2>
+<p>Le Canada et l'entrepreneur conviennent de s'informer
+immédiatement l'un l'autre de la réception d'une plainte
+en vertu de la <cite>Loi sur l’accès à l’information</cite>, de la <cite>Loi sur la protection des renseignements personnels</cite> ou de toute autre loi pertinente
+concernant les renseignements personnels. Les parties conviennent
+de s'échanger toute information nécessaire pour faciliter
+le règlement de la plainte et de s'informer immédiatement
+l'une l'autre de son dénouement.</p>
+<h2 id="2008-12-124008exception">4008 15 (2008-05-12) Exception</h2>
+<p>Les obligations énoncées dans ces conditions
+générales supplémentaires ne s'appliquent pas aux
+renseignements personnels qui sont déjà du domaine
+public, du moment qu'elles ne sont pas devenues du domaine public,
+suite à une faute ou une omission de l'entrepreneur ou de tout
+sous-traitant, agent ou représentant de l'entrepreneur ou de
+leurs employés.</p>
+</div></pre>

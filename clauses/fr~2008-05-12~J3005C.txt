@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque l'offrant a fait savoir qu'il veut retirer 
+son offre à commandes.  S'il s'agit d'une offre à commandes sous sceau, les 
+agents de négociation des contrats doivent consulter les Services juridiques.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le Canada accuse réception de l'avis de l'offrant en date
+du <var>_____</var> informant le Canada de la décision de
+l'offrant de retirer son offre fait en vertu de l'offre à
+commandes numéro <var>_____</var>, à compter du
+<span class="input-required"><var>_____</var> <kbd>(<em>insérer la
+date du retrait</em>)</kbd></span>. L'offrant doit exécuter toute
+commande reçue avant cette date conformément aux
+conditions de l'offre à commandes.</p>
+</div></pre>

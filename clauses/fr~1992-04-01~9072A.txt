@@ -1,0 +1,431 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>9072A  01     (06/91)       Interprétation</strong><strong></strong>
+
+
+(1) Dans le contrat :  
+
+       a) « acceptation » ou « réception » signifie que les travaux ou 
+       l'ouvrage ont été complétés conformément au contrat, le matériel 
+       ayant subi avec succès l'inspection, les vérifications ainsi que les 
+       essais de réception prévus au contrat et ayant atteint le degré de 
+       disponibilité spécifié;
+
+       b) « composant d'un appareil de traitement des données », ou « 
+       composant », désigne une pièce ou un sous-ensemble de pièces 
+       d'assemblages qui font partie intégrante d'un appareil de traitement 
+       des données et qui peuvent fonctionner de la manière décrite dans 
+       les devis ou, lorsque ceux-ci n'en décrivent pas le mode de 
+       fonctionnement, de la manière décrite dans les devis de 
+       l'Entrepreneur qui sont en vigueur à la date du contrat;
+
+       c) « appareil de traitement des données », ou « appareil », désigne 
+       une pièce de matériel (logiciel exclu) qui est susceptible 
+       d'effectuer une opération et qui peut fonctionner indépendamment ou 
+       exercer une activité autonome ou au contraire, être incorporé ou 
+       relié à d'autres systèmes de traitement des données il doit être 
+       susceptible de fonctionner de la manière décrite dans les devis ou, 
+       lorsque ceux-ci n'en décrivent pas le mode de fonctionnement, de la 
+       manière décrite dans les devis de l'Entrepreneur qui sont en vigueur 
+       à la date du contrat;
+
+       d) « système de traitement des données » ou « système », désigne une 
+       série d'appareils reliés entre eux, avec les programmes d'ordinateur 
+       y afférents, tous tels qu'énumérés dans le contrat comme partie 
+       intégrante du système et, sauf stipulations contraires du contrat, 
+       devant être fournis par l'Entrepreneur; cette installation doit 
+       pouvoir traiter les données en les acceptant, en les soumettant aux 
+       opérations prescrites et en fournissant les résultats, le tout 
+       conformément à ce qui est spécifié au contrat;
+
+       e) « documentation » désigne des renseignements consignés sous une 
+       forme visuelle qui se rapportent au matériel et aux programmes visés 
+       au contrat;
+
+       f) « temps de panne » signifie :  
+
+              (i) dans le cas d'un système, les heures ou fractions d'heure 
+              durant lesquelles le système ne peut être utilisé pour une 
+              cause inhérente au système lui-même, ou, 
+ 
+              (ii) dans le cas d'un appareil, les heures ou fractions 
+              d'heure durant lesquelles l'appareil ne peut être utilisé par 
+              suite d'une défectuosité de l'appareil lui-même,
+
+       et le temps de panne débute lorsque le Ministre avise l'Entrepreneur 
+       que le système ou l'appareil ne peut être utilisé et se termine 
+       lorsque l'entrepreneur avise le Ministre que la cause de la panne ou 
+       la défectuosité ont été éliminées et que le système ou l'appareil 
+       peut de nouveau être utilisé;
+
+       g) « matériel » est un terme général qui désigne soit des appareils 
+       ou composants déterminés, soit le système spécifié dans le contrat; 
+       la présente définition remplace celle figurant à l'alinéa 1.(1)g) 
+       des Conditions générales DSS-MAS 1026-S100A et DSS-MAS 1026A;
+
+       h) « vérification du matériel » signifie que l'Entrepreneur a 
+       certifié que les appareils et les interconnexions ont subi avec 
+       succès ses tests de diagnostic normaux et sont en bon état de 
+       fonctionnement;
+
+       i) « support d'information » désigne les paquets de cartes perforées, 
+       les rubans, magnétiques ou autres, les disques magnétiques, et les 
+       autres matières, sous des formes diverses, dont on se sert pour 
+       enregistrer des données ou des programmes d'ordinateur sous une 
+       forme exploitable par une machine;
+
+       j) « heures d'utilisation opérationnelle » désigne :  
+
+              (i) dans le cas d'un système, les heures ou fractions d'heure 
+              durant lesquelles le système traite effectivement les données, 
+              ou, 
+
+              (ii) dans le cas d'un appareil, les heures ou fractions 
+              d'heure durant lesquelles l'appareil effectue ses opérations;
+
+       k) « prêt à l'usage » ou « mise en état de marche » signifie que le 
+       matériel a été livré, installé, branché, qu'il a subi avec succès 
+       les opérations d'inspection, les vérifications ainsi que les essais 
+       de réception prévus au contrat, et qu'il est prêt à subir les tests 
+       gouvernementaux relatifs au degré de disponibilité; cet état est 
+       atteint à la date où l'ensemble des conditions susdites sont 
+       remplies. 
+
+9072A  02     (06/91)       Exécution des travaux
+
+
+Le présent article remplace l'article 4 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+ 
+(1) L'Entrepreneur doit :  
+
+       a) exécuter les travaux avec diligence de sorte que l'exécution du 
+       contrat avance à un rythme raisonnable, et en assurer de façon 
+       compétente la surveillance et l'inspection;
+
+       b) veiller à ce que l'ouvrage soit de bonne qualité et en tous 
+       points conforme aux stipulations du contrat; et  
+
+       c) procéder aux examens de garantie de bonne qualité, aux 
+       inspections, aux contrôles et aux autres tests auxquels il soumet 
+       habituellement les travaux du même genre. 
+
+(2) L'Entrepreneur reconnaît que le Ministre souhaite disposer d'un maximum 
+de souplesse dans l'acquisition du matériel, des fournitures de traitement 
+des données, des programmes et des services, et il convient de ne donner 
+aux travaux aucune caractéristique dont le seul objet est d'empêcher le 
+Ministre de passer un marché avec des concurrents.  
+
+(3) Nonobstant l'article 4 des présentes Conditions générales 
+supplémentaires, le Ministre peut, à tout moment raisonnable, observer et 
+soumettre à des contrôles la marche des travaux. 
+
+<strong>9072A  03     (06/91)       Documentation et programmes</strong><strong></strong>
+
+
+(1) L'Entrepreneur doit, au minimum, fournir à Sa Majesté, conformément aux 
+demandes du Ministre, la même documentation qu'aux autres acquéreurs 
+d'ouvrages du même genre, et y inclure toutes les modifications, révisions 
+et adaptations apportées avant la date de l'acceptation.  
+
+(2) Nonobstant le paragraphe 3(1) des présentes Conditions générales 
+supplémentaires, la documentation doit contenir les précisions nécessaires 
+pour l'utilisation, le maintien en état, le testage, la vérification et la 
+modification des programmes d'ordinateur et le fonctionnement du matériel.  
+
+(3) Tous les programmes d'ordinateur et leurs modifications (ci-après 
+appelés « communiqué » ou « communiqués ») doivent être fournis sur le 
+support d'information habituel de l'Entrepreneur.  
+
+(4) Jusqu'à la date de l'acceptation, l'Entrepreneur doit fournir à Sa 
+Majesté les derniers communiqués relatifs aux programmes d'ordinateur 
+prévus au contrat.  Toutefois, aucun communiqué émis après la date de 
+l'offre de l'Entrepreneur ou postérieurement au test de performance 
+précédant l'adjudication, selon celle de ces éventualités qui se réalisera 
+la dernière, ne peut être introduit dans le système en application de 
+l'article 19 des Conditions générales DSS-MAS 1026-S100A et DSS-MAS 1026A 
+sans l'accord des deux parties.  
+ 
+(5) Après l'acceptation, l'Entrepreneur doit offrir de fournir et 
+d'installer tous les programmes d'ordinateur et communiqués à des 
+conditions au moins aussi avantageuses pour Sa Majesté que celles qu'il 
+offre habituellement aux acquéreurs d'ouvrages du même genre. 
+
+(6) En cas de résiliation ou de non-acceptation de l'ouvrage, le Ministre 
+doit, à la demande de l'Entrepreneur, renvoyer la documentation, les 
+programmes d'ordinateur et les communiqués dont Sa Majesté n'est pas 
+propriétaire ou en certifier la destruction. 
+
+<strong>9072A  04     (06/91)       Inspection</strong><strong></strong>
+
+
+Le présent article remplace l'article 6 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+
+(1) En matière d'inspection, et notamment en ce qui concerne l'accès au 
+travaux, le Ministre a les droits qui sont spécifiés dans le contrat. 
+L'Entrepreneur doit l'aviser lorsque les travaux sont prêts à être 
+inspectés.  Lorsque cet avis lui est donné, le Ministre doit procéder 
+promptement à l'inspection des travaux mentionnés dans l'avis. L'inspection 
+en usine par le gouvernement n'est requise en aucun cas pour les techniques 
+de fabrication des produits que l'on retrouve dans le commerce, ainsi qu'il 
+est indiqué au contrat.  
+
+(2) Lorsque le Ministre procède avant l'acceptation à l'inspection de 
+quelque ouvrage, il peut, si cet ouvrage n'est pas conforme aux exigences 
+du contrat, aviser l'Entrepreneur que l'ouvrage n'est pas accepté à la 
+suite de cet avis, l'Entrepreneur est tenu de réparer ou remplacer cet 
+ouvrage, promptement, à ses frais.  
+
+(3) Tous les ouvrages réparés ou remplacés sont assujettis à l'exercice 
+d'une nouvelle inspection par le Ministre et sont régis par l'article 4 des 
+présentes Conditions générales supplémentaires.  
+
+(4) Si, l'ouvrage n'étant pas conforme aux exigences du contrat, le 
+Ministre a donné l'avis prévu au paragraphe 4(2) des présentes Conditions 
+générales supplémentaires et l'Entrepreneur ne répare ou ne remplace pas 
+l'ouvrage promptement, le Ministre peut résilier le contrat en application 
+de l'article 21 des Conditions générales DSS-MAS 1026-S100A ou DSS-MAS 
+1026A.  
+
+(5) L'Entrepreneur peut, dans un délai de dix (10) jours ouvrables suivant 
+la remise de l'avis du Ministre, notifier à ce dernier qu'il conteste le 
+bien-fondé de son refus d'accepter l'ouvrage; passé ce délai, 
+l'Entrepreneur sera réputé avoir accepté le refus du Ministre.   (6) Les 
+inspections qu'effectue le Ministre ne dégagent pas l'Entrepreneur de 
+l'obligation de se conformer en tous points aux exigences du contrat.  
+<strong>9072A  05     (06/91)       Degré de disponibilité</strong><strong></strong>
+
+
+(1) Le Ministre peut toujours faire un usage opérationnel du matériel avant 
+la date de sa mise en état de marche, avec le consentement de 
+l'Entrepreneur, sans préjudice de tout autre droit résultant du contrat.  
+
+(2) Une fois que le matériel est prêt à l'usage, l'Entrepreneur doit en 
+aviser le Ministre promptement. A la suite de cet avis ou dès après la date 
+de mise en état de marche du matériel spécifiée au contrat, selon celle de 
+ces éventualités qui se réalise la dernière, le Ministre peut soumettre le 
+matériel à des tests du degré de disponibilité. Le Ministre a droit d'accès 
+au matériel et il a le droit d'en faire un usage opérationnel illimité, 
+sans préjudice des autres droits résultant du contrat; toutefois, avant 
+l'acceptation, l'Entrepreneur a un droit prioritaire en ce qui concerne 
+l'accès au matériel et son utilisation pour son maintien en état et pour 
+l'exécution du contrat. 
+
+(3) Tous les systèmes ou appareils doivent atteindre au minimum un degré de 
+disponibilité de quatre-vingt-quinze pour cent (95 %) pendant trente (30) 
+jours civils consécutifs.  Pour établir le degré de disponibilité, on doit 
+tenir compte de toutes les heures d'utilisation opérationnelle.  Le degré 
+de disponibilité se calcule comme suit :                     heures 
+d'utilisation                    opérationnelle                    _______________________ 
+x 100 %                    heures d'utilisation                   
+opérationnelle + temps de panne  
+
+Ce degré de disponibilité maintenu sur une période de trente (30) jours 
+doit être atteint dans un délai de cent quatre-vingts (180) jours civils 
+consécutifs à partir du premier jour entier qui suit la date de mise en 
+état de marche.  
+
+(4) Tout le matériel est censé avoir atteint le degré de disponibilité 
+stipulé à la date d'expiration de toute période de trente (30) jours civils 
+consécutifs durant laquelle a été obtenu le degré de disponibilité spécifié 
+au paragraphe 5(3) des présentes Conditions générales supplémentaires.  
+
+(5) Si, ayant été mise à même d'effectuer au minimum cent (100) heures 
+d'utilisation opérationnelle du matériel durant une période de trente (30) 
+jours consécutifs comprise dans le délai de 180 jours visé au paragraphe 5(
+3) des présentes Conditions générales supplémentaires, Sa Majesté n'en fait 
+pas une utilisation opérationnelle pendant au moins ce nombre minimum 
+d'heures, le degré de disponibilité est censé avoir été atteint.  
+
+(6) Si, par la suite d'une panne de courant ou d'un autre événement 
+échappant au contrôle de la partie ou des parties qui effectuent des tests 
+du degré de disponibilité, s'agissant d'un événement qui empêche le 
+matériel soumis à ces tests de fonctionner normalement, le testage peut 
+être suspendu temporairement au gré de la partie ou des parties qui 
+l'effectuent.  Dans ce cas, les délais mentionnés ci-dessus sont prolongés 
+d'un nombre de jours civils équivalent au nombre de jours civils perdus par 
+suite de cette suspension. 
+
+<strong>9072A  06     (06/91)       Acceptation</strong><strong></strong>
+
+
+Le présent article remplace l'article 7 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A. 
+
+(1) La date de l'acceptation est constatée par avis donné à l'Entrepreneur 
+par le Ministre.  
+
+(2) L'acceptation d'une partie de l'ouvrage n'équivaut pas à l'acceptation 
+de l'ensemble de celui-ci. 
+
+<strong>9072A  07     (06/91)       Titre de propriété</strong><strong></strong>
+
+
+Le présent article remplace l'article 7 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+
+(1) Sous réserve de l'exception prévue au paragraphe 7(2) des présentes 
+Conditions générales supplémentaires, l'acceptation a pour effet de 
+conférer à Sa Majesté la propriété de l'ouvrage livré à Sa Majesté, y 
+compris celle des supports d'information des programmes d'ordinateur. 
+
+(2) Sous réserve des paragraphes 11(1) et 11(2) des présentes Conditions 
+générales supplémentaires, Sa Majesté n'est pas propriétaire des programmes 
+d'ordinateur et des communiqués les modifiant mais, sauf stipulations 
+contraires du contrat, Sa  Majesté peut conserver et utiliser tous les 
+programmes d'ordinateur et communiqués fournis en vertu du contrat. 
+
+<strong>9072A  08     (06/91)       Garantie</strong><strong></strong>
+
+
+Le présent article remplace l'article 8 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+
+(1) Nonobstant l'acceptation antérieure des travaux, étant entendu d'autre 
+part que ce qui suit n'est pas limitatif et ne restreint la portée d'aucune 
+autre stipulation du contrat ni de quelque condition, garantie ou 
+disposition formelle ou implicite de la loi, l'Entrepreneur garantit, pour 
+une période d'un (1) an à compter du premier jour de la période de trente 
+(30) jours civils consécutifs au cours de laquelle le degré de 
+disponibilité aura été atteint, que le matériel, y compris les composants 
+qui n'ont qu'une durée limitée, sera exempt de tout vice de matière ou de 
+fabrication et de tout autre défaut susceptible de provoquer des pannes ou 
+dérèglements anormaux et répétés, et que les programmes d'ordinateur se 
+comporteront ainsi qu'il est spécifié au contrat, ou si cela n'y est pas 
+spécifié, conformément aux devis de l'Entrepreneur; toutefois, en l'absence 
+de tests du degré de disponibilité, la garantie ne commencera à courir qu'à 
+partir de la date de l'acceptation.  
+
+(2) Durant la période couverte par la garantie, le Ministre doit présenter 
+promptement à l'Entrepreneur toute réclamation qu'il fait au titre de la 
+garantie. Sur réception de cette réclamation, l'Entrepreneur doit prendre 
+rapidement, sans frais pour Sa Majesté, les mesures qui s'imposent pour 
+corriger le défaut assujetti à la garantie du paragraphe 8(1) des présentes 
+Conditions générales supplémentaires qui est spécifié dans la réclamation.  
+L'Entrepreneur bénéficie d'un délai raisonnable n'excédant pas trente (30) 
+jours civils consécutifs pour corriger le défaut, soit en procédant à une 
+réparation, soit en remplaçant une ou plusieurs pièces; toutefois, s'il est 
+incapable de corriger ce défaut dans ce délai, il doit, sauf disposition 
+contraire du contrat, si le Ministre le lui demande par écrit, remplacer le 
+matériel défectueux par un matériel compatible. L'Entrepreneur devient 
+propriétaire de tout le matériel qu'il enlève pour ainsi le remplacer.  
+Tout le matériel de remplacement est garanti pour la fraction de la période 
+de garantie initiale qui reste à courir.  
+
+(3) Le Ministre peut remettre ou faire remettre le matériel défectueux en 
+état aux frais de l'Entrepreneur, si ce dernier ne remplit pas dans les 
+délais prescrits ses obligations stipulées au paragraphe 8(1) des présentes 
+Conditions générales supplémentaires. 
+
+(4) La présente garantie ne s'applique pas aux défectuosités qui résultent 
+de la négligence de Sa Majesté, ou du fait que le rendement du système 
+d'électricité, du système de conditionnement de l'air ou du système de 
+contrôle de l'humidité n'est pas conforme aux spécifications relatives à 
+l'aménagement de l'emplacement; il en est de même lorsque Sa Majesté ne se 
+conforme pas aux devis de l'Entrepreneur en ce qui concerne le maintien en 
+état du matériel, ou que le matériel a été modifié par d'autres personnes 
+que l'Entrepreneur, ainsi qu'en cas d'utilisation par le gouvernement de 
+fournitures ou de matériaux non conformes aux devis de l'Entrepreneur. Il 
+doit être donné à l'Entrepreneur accès au matériel autant qu'il est 
+raisonnable de le faire, afin qu'il puisse remplir ses obligations 
+résultant du contrat. 
+
+<strong>9072A  09     (06/91)       Litiges</strong><strong></strong>
+
+
+(1) En cas de litige, l'Entrepreneur doit poursuivre les travaux tant que 
+le litige n'a pas été résolu, si le Ministre le lui demande.  
+ 
+<strong>9072A  10     (06/91)       Aménagement de l'emplacement</strong><strong></strong>
+
+
+(1) Si l'Entrepreneur a arrêté, au sujet de l'emplacement de l'ouvrage, des 
+spécifications (ou devis) faisant partie du contrat qui imposent à la 
+Couronne d'aménager cet emplacement, la Couronne doit procéder à cet 
+aménagement à ses frais conformément aux spécifications avant la date de 
+livraison de l'ouvrage stipulée au contrat. L'Entrepreneur garantit qu'un 
+emplacement aménagé et maintenu en état conformément auxdites 
+spécifications assurera un milieu où le matériel fonctionnera selon les 
+spécifications et pourra être maintenu en état.
+
+(2) Lorsque l'aménagement de l'emplacement est terminé, le Ministre doit en 
+aviser l'Entrepreneur. Celui-ci doit alors visiter l'emplacement sans 
+retard; il informe le Ministre des dates d'inspection; il l'avise de son 
+refus, le cas échéant, d'accepter tout ou partie des aménagements, en 
+motivant son refus; il l'avise enfin des spécifications relatives à 
+l'inspection finale et à l'acceptation. L'inspection qu'effectue 
+l'Entrepreneur ne relève pas le Ministre de son obligation de se conformer 
+en tous points aux spécifications relatives à l'emplacement.  
+
+(3) Toute modification apportée à l'aménagement de l'emplacement qui est 
+imputable à des spécifications incomplètes ou fautives de l'Entrepreneur et 
+impose au gouvernement des dépenses supplémentaires, doit être réalisée aux 
+frais de l'Entrepreneur. 
+
+<strong>9072A  11     (06/91)       Inventions, droits d'auteur et dessins</strong><strong></strong>
+
+
+Le présent article remplace l'article 17 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+
+(1) Sa Majesté convient d'indemniser l'Entrepreneur pour ses dépenses 
+résultant d'une réclamation ou de poursuites fondées sur le fait qu'il 
+aurait utilisé, au cours de l'exécution du contrat, une invention brevetée, 
+un ouvrage dont les droits d'auteur sont réservés ou un dessin industriel 
+enregistré :  
+
+       a) faisant partie du matériel qui a été fourni à l'Entrepreneur à 
+       titre de fournitures de l'État; ou  
+
+       b) résultant du fait que l'Entrepreneur s'est conformé à des 
+       esquisses de production dont il n'était pas l'auteur et qui lui ont 
+       été fournies par le Ministre et qui exigeaient qu'une modification 
+       soit apportée aux travaux.  
+
+(2) L'Entrepreneur garantit Sa Majesté contre les réclamations, actions ou 
+poursuites fondées sur l'utilisation, dans le cadre de l'exécution du 
+contrat, de quelque invention revendiquée dans un brevet ou sur 
+l'utilisation ou la disposition, par Sa Majesté, de fournitures ou 
+d'articles fournis en exécution du contrat.   
+(3) Si un fonctionnaire, au cours de l'exécution des travaux, avec le 
+concours d'un employé, d'un agent ou d'un représentant de l'Entrepreneur, 
+invente quelque chose ou produit quelque chose qui peut bénéficier de la 
+protection du droit d'auteur, l'invention et le droit d'auteur sont la 
+propriété de Sa Majesté mais l'Entrepreneur conserve le droit, exempt de 
+redevances, d'utiliser et de permettre à ses sous-traitants d'utiliser 
+cette invention et ce droit d'auteur. 
+
+(4) Lorsque le contrat exige que l'Entrepreneur développe du matériel ou 
+des programmes ou à la fois du matériel et des programmes, tous les dessins, 
+programmes, renseignements techniques et inventions d'abord conçus, 
+développés, produits ou effectivement traduits en pratique par 
+l'Entrepreneur dans l'exécution de cette partie des travaux sont la 
+propriété de Sa Majesté.  L'Entrepreneur doit révéler promptement à Sa 
+Majesté, par écrit, la teneur de ces dessins, programmes et inventions et 
+il ne peut, sauf consentement par écrit du Ministre, en divulguer la teneur 
+ou les utiliser que dans l'exécution du contrat. 
+
+<strong>9072A  12     (06/91)       Conditions préalables à tout paiement</strong><strong></strong>
+
+
+Le présent article remplace l'article 10 des Conditions générales DSS-MAS 
+1026-S100A et DSS-MAS 1026A.  
+
+(1) Pourvu que l'Entrepreneur ne soit pas en défaut aux termes de l'article 
+21 des Conditions générales DSS-MAS 1026-S100A ou DSS-MAS 1026A, les 
+paiements stipulés au contrat devront lui être versés promptement quand les 
+conditions suivantes auront été remplies :  
+
+       a) acceptation des travaux dont le paiement est demandé; et  
+
+       b) présentation au Ministre et certification par celui-ci de toutes 
+       les factures et autres pièces justificatives prévues au contrat; et  
+
+       c) attestation par l'Entrepreneur, s'il en est requis, que l'ouvrage 
+       dont il demande le paiement ne fait l'objet, en tout ou partie, 
+       d'aucun privilège et d'aucune saisie, charge, servitude ou autre 
+       revendication de même nature. 
+
+</pre>

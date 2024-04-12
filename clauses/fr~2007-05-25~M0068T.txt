@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes, dans la 
+section portant sur la préparation des offres financières.
+ </p>
+<p>
+  Utiliser la clause 1 lorsque l'offrant doit proposer des taux fermes pour toutes 
+les catégories de ressources; ou la clause 2 lorsque l'offrant doit proposer des 
+taux fermes pour un ou plusieurs groupes de catégories de ressources. Supprimer 
+la clause non utilisée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Les offrants doivent proposer des taux fermes pour toutes les
+catégories de ressources énumérées dans l'(es)
+annexe(s) « <var>_______</var> ».<br/>
+<strong>OU</strong></li>
+<li><h2>Clause 2</h2>
+Les offrants doivent proposer des taux fermes pour un ou
+plusieurs groupes de catégories de ressources. Les offrants
+doivent toutefois proposer des taux fermes pour toutes les
+catégories de ressources faisant partie du ou des groupes pour
+lequel ou lesquels ils proposent des taux. Les groupes de
+catégories de ressources sont les suivants :
+<ol type="a">
+<li value="1">Groupe A : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="2">Groupe B : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="3">Groupe C : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="4">Groupe D : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> ».</li>
+</ol>
+</li>
+</ul>
+</div></pre>

@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'on emploie la clause B0003D ou lorsque des 
+échantillons sont demandés. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La première expédition sera faite dans les _____ jours qui suivront l'avis 
+   d'approbation des échantillons par l'Autorité d'inspection.  La quantité 
+   expédiée sera _____.  Le reste sera expédié au rythme de _____ par 
+   semaine par la suite, jusqu'à pleine exécution du Contrat. 
+</pre>

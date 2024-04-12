@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les indications mineures des instruments à cadran doivent être rendues 
+   fluorescentes au moyen du produit homologué MIL-L-25142, et les 
+   aiguilles et indications principales doivent être rendues luminescentes 
+   au moyen d'un produit conforme aux prescriptions ARC Mat-1-2 _____.                                 
+</pre>

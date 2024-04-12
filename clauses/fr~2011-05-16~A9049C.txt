@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats portant sur l'achat de véhicules.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Tous les véhicules fournis dans le cadre du contrat doivent
+être conformes aux dispositions pertinents de la <cite>Loi sur la sécurité automobile</cite>, <abbr title="Lois du Canada">L.C.</abbr>, 1993, <abbr title="chapitre">ch.</abbr>
+16, et aux règlements pertinents en vigueur à leur date
+de fabrication.</p>
+</div></pre>

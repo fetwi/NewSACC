@@ -1,0 +1,556 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>9601-2 00     (01/01/94)    SERVICES D'ÉLABORATION OU DE MODIFICATION DE 
+                            LOGICIELS</strong>
+
+
+01     Interprétation
+
+<strong>PARTIE I -    ÉLABORATION DE LA CONCEPTION DÉTAILLÉE</strong>
+
+02     Champ d'application de la partie I
+03     Spécifications fonctionnelles
+04     Spécifications de la conception détaillée
+05     Période d'examen
+06     Garantie relative à la conception
+
+<strong>PARTIE II -   MISE EN PLACE DES LOGICIELS PERSONNALISÉS</strong>
+
+07     Champ d'application de la partie II
+08     Codage et essais avant installation
+09     Nouveau code source
+10     Logiciel existant
+11     Code résultant et documentation relative à l'utilisateur
+12     Conversion des fichiers de données
+13     Essais d'acceptation
+14     Garantie
+
+<strong>PARTIE III -  TITRE DE PROPRIÉTÉ ET RISQUES DE PERTES</strong><strong></strong>
+
+15     Titre de propriété relatif aux supports d'information
+16     Risque de perte
+17     Titre de propriété relatif aux logiciels élaborés
+
+
+
+<strong>9601-2 01     (01/01/94)    Interprétation</strong><strong></strong>
+
+
+
+(1)    Sauf indication contraire dans le contexte, les définitions 
+       suivantes ont cours dans le contrat :
+
+       les «<strong>Conditions générales</strong>» sont les Conditions générales - Formule 
+       détaillée, DSS-MAS 9601, ou les Conditions générales - Recherche et 
+       développement, DSS-MAS 9624, selon celles qui figurent au contrat;
+
+       les «<strong>logiciels personnalisés</strong>» sont des programmes informatiques, des 
+       bases de données et de la documentation que le Canada souhaite 
+       développer ou faire développer, soit à titre de logiciel nouveau ou 
+       quasi nouveau, soit par adaptation d'un logiciel existant, selon les 
+       dispositions du contrat;
+
+       les «<strong>spécifications fonctionnelles</strong>» sont la description 
+       fonctionnelle des logiciels personnalisés, exposée ou mentionnée 
+       dans le contrat, qui précise les principales fonctions que les 
+       logiciels personnalisés sont censés remplir, ainsi que des 
+       caractéristiques et capacités de base qu'ils doivent posséder;
+
+       les «<strong>spécifications de la conception détaillé</strong>» désignent les 
+       spécifications applicables à la conception technique détaillée des 
+       logiciels personnalisés.
+
+(2)    Les mots et expressions définis dans les Conditions générales et 
+       utilisés dans les présentes Conditions générales supplémentaires 
+       auront le sens qui leur est donné dans les Conditions générales.
+
+(3)    En cas de contradiction entre les Conditions générales et les 
+       présentes Conditions générales supplémentaires, les dispositions 
+       pertinentes des présentes Conditions générales supplémentaires 
+       l'emporteront.
+
+(4)    Les articles  intitulés «Droit de propriété» et «Garantie» qui 
+       figurent dans les Conditions générales ne s'appliquent pas aux 
+       logiciels personnalisés ou au support d'information mentionnés à 
+       l'article 15 (Titre de propriété relatif aux supports d'information).  
+       Le dispositions relatives au Droit de propriété et à la Garantie 
+       mentionnées aux présentes Conditions générales supplémentaires 
+       s'appliquent.
+
+
+<strong>PARTIE I - ÉLABORATION DE LA CONCEPTION DÉTAILLÉE</strong>
+
+
+<strong>9601-2 02     (01/01/94)    Champ d'application de la partie I</strong><strong></strong>
+
+
+
+La présente partie est applicable si le contrat exige que l'entrepreneur 
+crée les logiciels personnalisés ou perfectionne une conception technique 
+existante à leur égard.
+
+
+<strong>9601-2 03     (01/01/94)    Spécifications fonctionnelles</strong><strong></strong>
+
+
+Si les spécifications fonctionnelles doivent être perfectionnées par 
+l'entrepreneur dans le cadre du contrat et si par la suite elles sont 
+acceptées par le Canada, elles seront alors réputées faire partie du 
+contrat par renvoi et auront préséance sur les spécifications 
+fonctionnelles initialement incluses dans le contrat.
+
+
+<strong>9601-2 04     (01/01/94)    Spécifications de la conception détaillée</strong><strong></strong>
+ 
+
+
+(1)    L'entrepreneur élaborera les spécifications de la conception 
+       détaillée de logiciels personnalisés conformément aux spécifications 
+       fonctionnelles et à toutes les autres exigences du contrat.
+
+(2)    Nonobstant toutes les autres dispositions contenues dans l'article 5 
+       (Période d'examen), les procédures d'inspection exposées dans cet 
+       article s'appliqueront seulement en l'absence de toute autre 
+       procédure détaillée du contrat, pour que le Canada examine les 
+       spécifications de la conception détaillée élaborées par 
+       l'entrepreneur.
+
+
+<strong>9601-2 05     (01/01/94)    Période d'examen</strong>
+
+
+(1)    Dans le présent article, à moins d'indication contraire dans le 
+       contrat, la «période d'examen» s'étend sur cinq jours ouvrables à 
+       partir de la date à laquelle les spécifications de la conception 
+       détaillée devront être remises au Canada conformément aux 
+       dispositions du contrat, ou à partir de la date réelle de 
+       présentation de ces spécifications par l'entrepreneur selon la plus 
+       tardive des deux dates.
+
+(2)    La période d'examen pourra être prolongée par le Canada de cinq 
+       jours ouvrables supplémentaires au moyen d'un avis donné à 
+       l'entrepreneur par l'autorité technique, pendant la période d'examen.
+
+(3)    Pendant la période d'examen, le Canada inspectera les spécifications 
+       relatives à la conception détaillée présentées par l'entrepreneur et, 
+       dans un délai de deux jours ouvrables suivant la fin de la période 
+       d'examen, communiquera à l'entrepreneur les résultats favorables ou 
+       défavorables de l'inspection des spécifications de la conception 
+       détaillée.
+
+(4)    Si les spécifications de la conception détaillée présentées par 
+       l'entrepreneur ne sont pas conformes aux spécifications 
+       fonctionnelles, ou ne rencontrent pas de quelque manière que ce soit 
+       les exigences du contrat, le Canada devra préparer une description 
+       écrite des déficiences et l'envoyer sans délais à l'entrepreneur 
+       dans les deux jours ouvrables suivant la fin de la période d'examen.
+
+(5)    Dès la réception de la description des déficiences établie par le 
+       Canada et mentionnée au paragraphe (4), l'entrepreneur devra 
+       modifier les spécifications de la conception détaillée pour corriger 
+       les déficiences et il devra soumettre promptement les travaux 
+       corrigés au Canada pour inspection.
+
+(6)    Pendant une deuxième période d'examen, le Canada inspectera les 
+       travaux corrigés qui lui seront remis en vertu du paragraphe (5), et 
+       les paragraphes (3) et (4) s'appliqueront à cette inspection.
+
+(7)    Nonobstant toutes les autres dispositions du présent article, 
+       l'entrepreneur devra s'assurer que les spécifications de la 
+       conception détaillée élaborées par l'entrepreneur obtiennent des 
+       résultats favorables au moment de l'inspection par le Canada, et ce 
+       dans les 30 jours suivant la date à laquelle les spécifications 
+       devaient initialement être présentées par l'entrepreneur au Canada 
+       conformément aux dispositions du contrat.
+
+
+<strong>9601-2 06     (01/01/94)    Garantie relative à la conception</strong><strong></strong>
+
+
+
+(1)    Nonobstant l'inspection des spécifications de la conception 
+       détaillée par le Canada, l'entrepreneur garantit que celles-ci 
+       découleront des spécifications fonctionnelles et de toutes les 
+       autres exigences du contrat et y seront conformes.
+ 
+(2)    Si la partie II des présentes Conditions générales supplémentaires 
+       s'applique, la garantie exposée au paragraphe (1) expirera à la même 
+       date que la période de garantie mentionnée à l'article 14.  Si la 
+       partie II ne s'applique pas, la garantie exposée au paragraphe (1) 
+       expirera dès l'acceptation des travaux par le Canada.
+
+
+<strong>PARTIE II - MISE EN PLACE DES LOGICIELS PERSONNALISÉS</strong>
+
+
+<strong>9601-2 07     (01/01/94)    Champ d'application de la partie II</strong><strong></strong>
+
+
+
+La présente partie est applicable si le contrat exige que l'entrepreneur 
+élabore les logiciels personnalisés d'après les spécifications de la 
+conception détaillée et les spécifications fonctionnelles.
+
+
+<strong>9601-2 08     (01/01/94)    Codage et essais avant installation</strong>
+
+
+(1)    En élaborant les logiciels personnalisés, l'entrepreneur exécutera 
+       toute la programmation détaillée et tout le codage requis 
+       conformément aux spécifications de la conception détaillée et, au 
+       besoin, révisera ces dernières pour s'assurer qu'elles découlent des 
+       spécifications fonctionnelles et de toutes les autres exigences du 
+       contrat, et qu'elles y sont conformes.
+
+(2)    L'entrepreneur effectuera les essais avant installation afin de 
+       vérifier si les logiciels personnalisés fonctionnent conformément 
+       aux spécifications fonctionnelles et à toutes les autres exigences 
+       du contrat.  Il informera l'autorité technique de tous ces essais et, 
+       à la demande de celle-ci, lui donnera la possibilité d'assister à 
+       ces essais et de prendre copie de tous les relevés et résultats 
+       intermédiaires et finals.
+
+
+<strong>9601-2 09     (01/01/94)    Nouveau code source</strong>
+
+
+
+(1)    Dans le présent article, l'expression «nouveau code source» désigne 
+       la totalité du code source établi pour les logiciels personnalisés 
+       et rédigé par l'entrepreneur ou par tout sous-traitant dans le cadre 
+       des travaux visés par le contrat.
+
+(2)    L'entrepreneur devra livrer le nouveau code source au Canada aux 
+       moments prévus dans le contrat ou, si aucun autre moment n'est 
+       stipulé, dans les 30 jours suivant l'acceptation des logiciels 
+       personnalisés par le Canada.
+
+(3)    Le nouveau code source fourni par l'entrepreneur devra contenir une 
+       description complète du fonctionnement du logiciel élaboré 
+       suffisamment en détail pour permettre à un programmeur, expérimenté 
+       dans le(s) langage(s) de programmation utilisé(s) pour la rédaction 
+       du code source, de modifier tous les aspects de ce logiciel sans 
+       l'aide de l'entrepreneur.
+
+ 
+<strong>9601-2 10     (01/01/94)    Logiciel existant</strong>
+
+
+(1)    Dans le présent article, un «logiciel existant» est un logiciel qui 
+       n'est pas élaboré dans le cadre des travaux visés par le contrat et 
+       qui appartient à l'entrepreneur ou à l'un ou l'autre de ses 
+       sous-traitants ou à d'autres fournisseurs.
+
+(2)    L'entrepreneur ne pourra élaborer les logiciels personnalisés en 
+       modifiant un logiciel existant ou en intégrant un logiciel existant 
+       quelconque dans les logiciels personnalisés, sans le consentement 
+       préalable écrit de l'autorité contractante.
+
+(3)    Nonobstant le paragraphe (2), l'entrepreneur ne sera pas tenu de 
+       demander le consentement de l'autorité contractante en ce qui 
+       concerne tout logiciel existant dont l'utilisation sera expressément 
+       autorisée dans le contrat.
+
+(4)    Si le logiciel existant fait partie des logiciels personnalisés et 
+       si aucune autre clause du contrat n'exige que l'entrepreneur livre 
+       le code source de ce logiciel au Canada ou qu'il place ce code 
+       source en fiducie au bénéfice du Canada, l'entrepreneur devra, à ses 
+       propres choix et frais:
+
+       (a)    livrer le code source de ce logiciel au Canada dans les 30 
+              jours suivant l'acceptation par le Canada des logiciels 
+              personnalisés,
+
+       (b)    ou livrer ce code source dans le délai mentionné à l'alinéa (
+              a), à un dépositaire légal approuvé par le Ministre pour 
+              qu'il soit conservé en fiducie en vue d'être remis au Canada 
+              dès que se produira l'un ou l'autre des événements suivants :
+
+              (i)    le Canada résilie pour inexécution le contrat ou tout 
+                     accord subséquent de soutien ou d'élaboration relatif 
+                     aux logiciels personnalisés;
+
+              (ii)   l'entrepreneur ou son fournisseur est en défaut 
+                     d'exécuter ses obligations en vertu de l'accord de 
+                     fiducie, relativement au code source;
+
+              (iii)  l'entrepreneur ou son fournisseur met fin à ses 
+                     activités commerciales normales ou cesse de fournir 
+                     des services de soutien ou d'élaboration relativement 
+                     aux logiciels personnalisés raisonnablement 
+                     accessibles pour le Canada;
+
+              (iv)   l'entrepreneur ou son fournisseur fait faillite ou 
+                     devient insolvable, effectue une cession de biens au 
+                     bénéfice de créanciers ou bénéficie de tout statut 
+                     relatif à la faillite ou aux débiteurs insolvables;
+
+              (v)    un séquestre est nommé pour l'entrepreneur ou pour son 
+                     fournisseur en vertu d'un titre de créance, ou une 
+                     ordonnance de mise sous séquestre est émise contre 
+                     l'entrepreneur ou  son fournisseur;
+
+              (vi)   une ordonnance est effectuée ou une résolution est 
+                     votée en vue de mettre fin aux activités commerciales 
+                     de l'entrepreneur ou de son fournisseur.
+
+(5)    Le code source livré par l'entrepreneur au Canada ou à tout 
+       dépositaire légal relativement à tout logiciel existant faisant 
+       partie des logiciels personnalisés, contiendra une description 
+       complète du fonctionnement de ce logiciel existant suffisamment 
+       détaillée pour permettre à un programmeur expérimenté dans les 
+       langages de programmation servant à rédiger le code source de 
+       modifier tous les aspects de ce logiciel sans l'aide de 
+       l'entrepreneur.  Si le code source applicable au logiciel existant 
+       doit être livré à un dépositaire légal, l'entrepreneur devra 
+       s'assurer que le code source qui est en la possession du dépositaire 
+       légal est mis à jour de temps à autre pour correspondre à la plus 
+       récente version du code résultant que possède le Canada.
+ 
+(6)    À moins de disposition contraire dans le contrat, ou dans tout 
+       accord de fiducie signé par le Canada, les droits de celui-ci 
+       d'utiliser, de copier, de modifier ou de révéler tout logiciel 
+       existant fourni en vertu du contrat, et tout code source pour ce 
+       logiciel, seront identiques à ceux exposés dans les Conditions 
+       générales supplémentaires DSS-MAS 9601-4 (Logiciels sous licence).
+
+(7)    Sans limiter la généralité de l'article intitulé «Sous-traitance» 
+       qui figure dans les Conditions générales, l'entrepreneur devra 
+       imposer à ses sous-traitants et autres fournisseurs les obligations 
+       envers le Canada imposées en vertu du présent article et devra 
+       s'assurer que l'on exécute ces obligations.
+
+
+<strong>9601-2 11     (01/01/94)    Code résultant et documentation relative à 
+                            l'utilisate </strong><strong></strong>
+
+
+(1)
+       Sans limiter aucune des autres obligations de l'entrepreneur en 
+       vertu du contrat, y compris celle qui a trait à la fourniture d'un 
+       code source, l'entrepreneur devra fournir tous les programmes 
+       élaborés ou modifiés au Canada sous forme de codes résultants 
+       exécutables.
+
+(2)    Les manuels de fonctionnement, les manuels techniques et les autres 
+       documents relatifs aux utilisateurs fournis par l'entrepreneur au 
+       Canada et devant être utilisés avec les logiciels personnalisés, 
+       devront décrire le fonctionnement de ces derniers suffisamment en 
+       détail pour permettre à des employés dûment formés du Canada 
+       d'utiliser toutes les fonctions et caractéristiques des logiciels 
+       personnalisés et ce, sans l'aide de l'entrepreneur.
+
+
+<strong>9601-2 12     (01/01/94)    Conversion des fichiers de données</strong><strong></strong>
+
+
+Suivant les dispositions du contrat, l'entrepreneur devra convertir les 
+fichiers de données lisibles par machine du Canada, tels qu'ils existent 
+dans tout le système informatique utilisé pour répondre en totalité ou en 
+partie aux besoins fonctionnels courants du Canada et ce, en des fichiers 
+de données compatibles avec les logiciels personnalisés.  Le Canada est 
+responsable de l'exactitude et de l'intégralité des fichiers de données 
+livrés à l'entrepreneur, lequel a la responsabilité de l'exactitude et de 
+l'intégralité des fichiers de données résultants, de même que de leur 
+compatibilité avec les logiciels personnalisés.
+
+
+<strong>9601-2 13     (01/01/94)    Essais d'acceptation</strong><strong></strong>
+
+
+(1)    Nonobstant toutes les autres dispositions du présent article, les 
+       procédures d'acceptation exposées aux paragraphes (2) à (5) 
+       inclusivement s'appliqueront seulement en l'absence de toutes autres 
+       procédures détaillées d'acceptation applicables aux logiciels 
+       personnalisés exposées ou mentionnées dans le contrat.
+
+(2)    Le Canada devra préparer et fournir à l'entrepreneur des données sur 
+       les essais d'acceptation avant la date stipulée dans le contrat pour 
+       le début des essais préalables à l'installation des logiciels 
+       personnalisés.  Le Canada consultera l'entrepreneur en ce qui 
+       concerne la préparation de ces données et l'entrepreneur devra 
+       contribuer à cette préparation dans la mesure indiquée dans le 
+       contrat.  Ces données devront être utilisées par le Canada et par 
+       l'entrepreneur pour déterminer si les logiciels personnalisés, 
+       lorsqu'ils sont exécutés sur le matériel et son système 
+       d'exploitation, fonctionnent conformément aux spécifications 
+       fonctionnelles et à toutes les autres exigences du contrat.  À moins 
+       d'ententes contraires, les données d'essai devront être fournies 
+       selon la présentation et sur le support d'information requis pour 
+       une entrée directe dans le système informatique, conformément à la 
+       définition figurant dans les spécifications de la conception 
+       détaillée.
+
+(3)    Après la réception des données sur les essais d'acceptation 
+       mentionnées au paragraphe (2) et avant la date stipulée dans le 
+       contrat pour le début des essais d'acceptation des logiciels 
+       personnalisés (la «date de début des essais»), l'entrepreneur devra 
+       fournir un «plan d'essai d'acceptation» au Canada pour qu'il soit 
+       examiné et approuvé par celui-ci.  Le plan d'essai d'acceptation 
+       comprendra une description d'une série de tâches et de vérifications 
+       basées sur les données des essais d'acceptation et ce, suffisamment 
+       en détail pour permettre au Canada et à l'entrepreneur de déterminer 
+       si les logiciels personnalisés fonctionnent conformément aux 
+       spécifications fonctionnelles et à toutes les autres exigences du 
+       contrat.
+
+(4)    Au moment de la date de début des essais, les essais d'acceptation 
+       relatifs aux logiciels personnalisés débuteront en se fondant sur le 
+       plan d'essai d'acceptation approuvé et mentionné au paragraphe (3).  
+       Les essais d'acceptation devront être exécutés au cours d'une 
+       période stipulée à ce sujet dans le contrat ou si aucune autre 
+       période d'essai d'acceptation n'est stipulée, dans les 40 jours 
+       suivant la date de début des essais.  Si les logiciels personnalisés 
+       produisent de bons résultats aux essais d'acceptation et si 
+       l'entrepreneur a exécuté tous les autres travaux visés par le 
+       contrat conformément aux conditions de celui-ci, l'autorité 
+       technique devra promptement faire savoir à l'entrepreneur que les 
+       logiciels personnalisés sont acceptés.
+
+(5)    Si les logiciels personnalisés obtiennent des résultats défavorables 
+       aux essais d'acceptation mentionnés au paragraphe (4), le Canada 
+       devra préparer une description écrite des lacunes et livrer celle-ci 
+       à l'entrepreneur dans les dix jours suivant la fin de la période des 
+       essais d'acceptation mentionnée dans ce paragraphe.  Dès la 
+       réception de cette description, l'entrepreneur devra modifier les 
+       logiciels personnalisés pour corriger les lacunes, et ce dans les 
+       dix jours suivant la réception.  Tous les essais d'acceptation liés 
+       aux logiciels personnalisés devront alors être répétés gratuitement 
+       pour le Canada et l'entrepreneur devra s'assurer que les logiciels 
+       personnalisés produisent des résultats favorables au moment du 
+       second ensemble d'essais d'acceptation, au cours de la période 
+       pertinente.
+
+(6)    Nonobstant toutes les autres dispositions contenues dans le présent 
+       article, si le Canada ne peut commencer ni continuer les essais 
+       d'acceptation relatifs aux logiciels personnalisés à cause d'une 
+       intervention motivée par la souveraineté du Canada ou en cas de 
+       force majeure, les essais d'acceptation pourront être temporairement 
+       suspendus pour une période ne dépassant pas 60 jours.  Les délais 
+       pour les essais prévus dans le présent article ou ailleurs dans le 
+       contrat seront alors prolongés en fonction du nombre de jours civils 
+       de la suspension.  Si le retard dépasse 60 jours, les parties feront 
+       par la suite leur possible pour négocier une modification 
+       mutuellement acceptable au contrat.
+
+
+<strong>9601-2 14     (01/01/94)    Garantie</strong><strong></strong>
+
+
+(1)    Aux fins du présent article, à moins d'indication contraire dans le 
+       contrat, la «période de garantie» correspondra à une période de 90 
+       jours à partir de la date de parachèvement des travaux par 
+       l'entrepreneur et d'acceptation de la totalité des travaux par le 
+       Canada, à la seule exception des travaux de garantie.
+
+(2)    Nonobstant l'inspection et l'acceptation des travaux par le Canada 
+       et sans restreindre la portée des autres dispositions du contrat ou 
+       conditions, garanties ou dispositions imposées expressément ou 
+       implicitement par la loi, l'entrepreneur s'engage à ce que, pendant 
+       la période de garantie, les logiciels personnalisés fonctionnent 
+       conformément aux spécifications fonctionnelles et à toutes les 
+       autres exigences du contrat relatives au système informatique où ils 
+       auront été installés en vertu du contrat.
+ 
+(3)    Pendant la période de garantie, l'entrepreneur fournira le plus tôt 
+       possible sans frais supplémentaires pour le Canada, des corrections 
+       aux logiciels personnalisés lorsque le Canada lui aura signifié par 
+       écrit des défauts de fonctionnement par rapport aux spécifications 
+       fonctionnelles et à toutes les autres exigences du contrat.  Dans ce 
+       cas, le Canada accordera à l'entrepreneur un accès raisonnable au 
+       système informatique où résident les logiciels personnalisés et lui 
+       fournira les renseignements que celui-ci pourra raisonnablement 
+       demander, comme un échantillon des sorties et d'autres données, pour 
+       permettre à l'entrepreneur de corriger dans les meilleurs délais les 
+       erreurs ayant causé la défaillance.
+
+(4)    Bien que l'entrepreneur soit tenu de faire tout ce qui est 
+       raisonnablement possible pour apporter des corrections permanentes 
+       relativement à toutes les erreurs des logiciels, le Canada reconnaît 
+       que certaines erreurs ne pourront peut-être pas être corrigées de 
+       façon définitive par l'entrepreneur dans le cadre de la garantie 
+       stipulée dans le présent article.  Dans ce cas, l'entrepreneur 
+       fournira des corrections ou des solutions de contournement pour 
+       corriger provisoirement les erreurs dans tous les cas où celles-ci 
+       ne pourront l'être définitivement.  Au minimum, ces corrections ou 
+       solutions de contournement feront en sorte que les logiciels 
+       personnalisés répondent aux critères de fonctionnement et de 
+       rendement établis dans les spécifications fonctionnelles.
+
+(5)    L'entrepreneur ne sera pas tenu de corriger les erreurs des 
+       logiciels personnalisés qui résulteront de modifications apportées à 
+       la totalité ou à une partie de ces logiciels, à moins que les 
+       modifications n'aient été apportées par l'entrepreneur lui-même ou 
+       par une personne ayant agi en son nom.
+
+
+<strong>PARTIE III - TITRE DE PROPRIÉTÉ ET RISQUE DE PERTES</strong><strong></strong>
+
+
+<strong>9601-2 15     (01/01/94)    Titre de propriété relatif aux supports 
+                            d'information</strong><strong></strong>
+
+
+
+(1)    Aux fins du présent article, la notion de «support d'information» 
+       n'inclut pas l'information stockée sur ce support.
+
+(2)    La totalité des documents, bandes magnétiques et autres supports 
+       matériels contenant les logiciels personnalisés ou une partie de 
+       ceux-ci, ou contenant des spécifications, conceptions, prototype ou 
+       quelques autres informations fournis et faisant partie des travaux, 
+       deviendra la propriété du Canada au moment de la livraison, de 
+       l'acceptation par le Canada ou suite à un paiement fait à 
+       l'entrepreneur pour le support ou l'information stockée sur ce 
+       support selon un mode de paiement partiel, par avance à justifier ou 
+       tout autre mode de paiement.  Il est convenu que le transfert du 
+       titre de propriété au Canada ne constitue aucunement l'acceptation 
+       par le Canada du support d'information ou de l'information stockée 
+       sur ce support et ne libérera pas l'entrepreneur de ses obligations 
+       d'exécuter le travail en conformité avec les exigences du contrat.
+
+
+
+<strong>9601-2 16     (01/01/94)    Risque de perte</strong><strong></strong>
+
+
+(1)    Le risque de perte ou d'endommagement des supports d'information 
+       mentionnés à l'article 15 (Titre de propriété relatif aux supports 
+       d'information) ou de l'information stockée sur ce support, sera 
+       transféré au Canada à compter de la livraison dudit support selon 
+       les termes du contrat à condition que si l'entrepreneur a gardé une 
+       copie de l'information stockée sur le support, celui-ci doit à la 
+       demande du Ministre, remplacer le support d'information perdu ou 
+       endommagé et ce sans frais supplémentaires pour le Canada sauf pour 
+       ce qui est des coûts raisonnablement encourus pour le remplacement 
+       en totalité ou en partie, de ces logiciels ou supports.
+
+(2)    Nonobstant le paragraphe (1), l'entrepreneur demeurera responsable, 
+       après la livraison, de toute perte ou de tout dommage au support 
+       d'information et à l'information stockée sur ce support causé par sa 
+       propre faute ou celle de ses sous-traitants.
+
+
+<strong>9601-2 17     (01/01/94)    Titre de propriété relatif aux logiciels 
+                            élaborés</strong><strong></strong>
+
+
+(1)    Aux fins du présent article, l'expression «logiciel élaboré» 
+       comprend les codes résultants, les codes sources, la documentation, 
+       les bases de données,  spécifications, conceptions, prototypes et 
+       les autres renseignements pertinents conçus, élaborés ou développés 
+       dans le cadre des travaux visés par le contrat.
+
+(2)    Le titre de propriété du logiciel élaboré sera dévolu soit au Canada, 
+       soit à l'entrepreneur selon le cas, conformément aux dispositions 
+       relatives aux droits de la propriété intellectuelle du contrat.  Si 
+       le titre est dévolu à l'entrepreneur, celui-ci accordera au Canada 
+       la licence relative au logiciel élaboré, exposé ou mentionné dans 
+       ces dispositions.
+
+(3)    Les dispositions du présent article ne devront pas être interprétées 
+       comme limitant d'une façon quelconque les dispositions relatives aux 
+       droits de la propriété intellectuelle.
+
+</pre>

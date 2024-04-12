@@ -1,0 +1,41 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l’entrepreneur a indiqué dans sa soumission que le paiement de factures à l’aide d’instruments de paiement électronique sera accepté, et que la clause
+  
+   H3027T
+  
+  a été incluse dans la demande de soumissions.
+ </p>
+<p>
+  Consulter l'article
+  
+   4.70.55
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  pour plus de renseignements.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent indiquer les instruments de paiement électronique figurant dans la liste ci-dessous acceptés par l'entrepreneur, comme il est indiqué dans sa soumission.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>
+</p><p><span class="description"><em>(Les agents de négociation des contrats doivent inclure dans le contrat les instruments de paiement électronique acceptés par l'entrepreneur, comme il est indiqué dans sa soumission et modifier la numérotation en conséquence.)</em></span></p>
+<p></p>
+<p>
+L’entrepreneur accepte d’être payé à l’aide des instruments de paiement électronique suivants :  
+</p>
+<ol type="a">
+<li value="1">Carte d’achat Visa ;</li>
+<li value="2">Carte d’achat MasterCard ;</li>
+<li value="3">Dépôt direct (national et international) ;</li>
+<li value="4">Échange de données informatisées (EDI) ;</li>
+<li value="5">Virement télégraphique (international seulement) ;</li>
+<li value="6">Système de transfert de paiements de grande valeur (plus de 25 M$)</li>
+</ol>
+</div></pre>

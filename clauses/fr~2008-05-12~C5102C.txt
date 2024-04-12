@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit 
+fournir des cylindres au Canada.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Si un cylindre appartenant à l'entrepreneur est perdu ou
+endommagé de façon irréparable pendant qu'il est en
+la possession du Canada, sa valeur sera établie comme suit
+:</p>
+<ol type="a">
+<li value="1">cylindres de 6 mètres cubes (200 pieds cubes) et
+plus : <span class="input-required"><var>_____</var> $ <kbd>(<em>insérer le
+coût</em>)</kbd></span> par cylindre.</li>
+<li value="2">cylindres de moins de 6 mètres cubes (200 pieds
+cubes) et de plus de 2,77 mètres cubes (100 pieds cubes) :
+<span class="input-required"><var>_____</var> $ <kbd>(<em>insérer le
+coût</em>)</kbd></span> par cylindre.</li>
+<li value="3">cylindres de moins de 2,77 mètres cubes (100
+pieds cubes) : <span class="input-required"><var>_____</var> $ <kbd>(<em>insérer le
+coût</em>)</kbd></span> par cylindre.</li>
+</ol>
+</div></pre>

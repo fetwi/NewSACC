@@ -1,0 +1,65 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque des paiements progressifs 
+par étape seront versés conformément à un calendrier des étapes déjà établi en 
+présentant le formulaire PWGSC-TPSGC 1111 et le montant réclamé est assujetti à 
+une retenue.  Utiliser la clause H3010C lorsque le montant réclamé n'est pas 
+assujetti à une retenue.
+
+Utiliser cette clause en conjonction avec H3022C ou H3024C et H4012C, s'il y a 
+lieu.
+
+Consulter la politique relative aux paiements progressifs (Section6E du Guide 
+des approvisionnements).  Les paiements d'étape constituent une forme de 
+paiement progressif et sont adressés sous la politique sur les paiement 
+progressifs.
+
+Instructions aux agents de négociation des contrats :
+
+1.	Supprimer le paragraphe 1. b) s'il ne s'applique pas.
+
+2.	Insérer l'une des options suivantes au paragraphe 2 de la clause. Si les 
+options fournies ne correspondent pas au besoin, les agents de négociation des 
+contrats peuvent modifier le paragraphe en conséquence.
+
+Option 1 : Utiliser ce paragraphe dans les contrats à prix unitaires lorsque la 
+retenue sera versée après la livraison et l'acceptation de l'article pour lequel 
+des paiements d'étape ont été versés.
+
+« Le solde du montant dû sera payé conformément aux dispositions de paiement du 
+contrat lorsque l'article sera complété et livré si les travaux ont été acceptés 
+par le Canada et une demande finale pour le paiement est présentée.»
+
+Option 2: Utiliser ce paragraphe lorsque le paiement sera fait après que tous 
+les travaux et les livraisons auront été complétés et acceptés.
+
+« Le solde du montant dû sera payé conformément aux dispositions de paiement du 
+contrat lorsque tous les travaux exigés au contrat auront été complétés et 
+livrés si les travaux ont été acceptés par le Canada et une demande finale pour 
+le paiement est présentée.»</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le Canada effectuera les paiements d'étape conformément au 
+       calendrier des étapes détaillé dans le contrat et les dispositions 
+       de paiement du contrat, jusqu'à concurrence de ____ p. 100 du 
+       montant réclamé et approuvé par le Canada si  :
+
+a)     une demande de paiement exacte et complète en utilisant le 
+       formulaire PWGSC-TPSGC 1111(http://www.tpsgc.gc.ca/acquisitions/text
+       /forms/forms-f.html) et tout autre document exigé par le contrat ont 
+       été présentés conformément aux instructions relatives à la 
+       facturation fournies dans le contrat;
+       
+       b)     la somme de tous les paiements d'étape effectués par le 
+       Canada ne dépasse pas _____ p. 100 de la totalité du montant à 
+       verser en vertu du contrat;
+       
+       c)     toutes les attestations demandées sur le formulaire 
+       PWGSC-TPSGC 1111 ont été signées par les représentants autorisés; 
+       
+       d)     tous les travaux associés à l'étape et, selon le cas, tout 
+       bien livrable exigé ont été complétés et acceptés par le Canada.
+
+2.     <span class="wsStyleUnderline">                          </span><span class="wsInlineRemark wsStyleUnderline"> </span><span class="wsInlineRemark"> </span><em>(</em><span class="wsInlineRemark"><strong>insérer l'option appropriée selon les 
+       indications fournies dans les remarques plus haut</strong></span><span class="wsInlineRemark">.</span><em>)</em>
+
+
+</pre>

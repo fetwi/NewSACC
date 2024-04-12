@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  La clause suivante est utilisée dans les demandes de soumissions pour l’achat de vêtements énumérés à l’annexe A de l’
+  
+   Avis relatif aux politiques 132
+  
+  . Elle exige que le soumissionnaire fournisse le nom, l’adresse et le pays des fabricants, des sous traitants et des fournisseurs utilisés dans le cadre de l’exécution du contrat. La présente clause informe également le soumissionnaire de la nécessité de divulguer le ou les pays d’origine. Fournir cette information dans les documents de soumission constitue une exigence obligatoire à respecter dans tout document de soumission ainsi qu’une condition préalable à l’attribution d’un contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Les soumissionnaires doivent fournir le nom, l’adresse et le pays des fabricants du ou des articles, y compris les sous traitants, dont les services seront utilisés dans le cadre de l’exécution du contrat. Cela comprend les fabricants et sous traitants qui réaliseront une partie des travaux relatifs aux articles (p. ex. coupe ou couture), mais pas les fabricants et fournisseurs de tissus, de garnitures et d’accessoires (p. ex. fermetures à glissière et ruban autoagrippant à boucles et à crochets).</p> <p>Les services du ou des fournisseurs ou sous-traitants suivants seront utilisés dans le cadre de l’exécution du contrat :</p> <ol type="a">
+<li>Nom et adresse complète du fabricant ou du sous-traitant : <span class="input-required"><var>________</var></span></li>
+<li>Lieu où seront effectués les travaux  :<span class="input-required"><var>________</var>(veuillez indiquer l’adresse complète si elle diffère de l’adresse indiquée au point a.)</span></li>
+<li>Nature des travaux réalisés par le fabricant ou sous-traitant  : <span class="input-required"><var>________</var></span></li>
+</ol> <p>(Saisissez les renseignements sur chaque fabricant et chaque sous-traitant)</p> <p>L’entrepreneur ne pourra recourir à aucun fabricant ou sous-traitant autre que ceux nommés ci-dessus sans l’autorisation écrite du Canada.</p> <p>Le soumissionnaire consent à ce que le Canada divulgue publiquement les renseignements fournis en lien avec les pays d’origine. </p> <p>Les soumissionnaires doivent immédiatement aviser le Canada par écrit de toute modification ayant une incidence sur les renseignements fournis au titre de la présente clause pendant toute la période de validité de la soumission.</p></pre>

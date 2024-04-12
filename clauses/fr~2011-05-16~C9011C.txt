@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats avec des autorisations de tâches, 
+lorsque le responsable du projet ou le responsable technique peut autoriser les 
+autorisations de tâches individuelles jusqu'à une certaine limite.  
+
+Les agents de négociation des contrats devront peut-être modifier le texte de 
+cette clause en fonction de leur besoin particulier. En ce qui concerne les 
+contrats du ministère de la Défense nationale (MDN) avec des autorisations de 
+tâches, les agents de négociation des contrats devront peut-être supprimer la 
+mention de responsable du projet ou de responsable technique et insérer le nom, 
+l'adresse et la désignation du
+ <abbr title="Ministère de la Défense nationale">
+  MDN
+ </abbr>
+ , selon le cas. 
+
+Pour de plus amples renseignements, consulter l'article
+ 
+  3.35.1.20
+ 
+ du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le <span class="input-required"><var>__________</var><kbd>(<i>insérer responsable " du projet " ou " technique "</i>)</kbd></span> 
+peut autoriser les autorisations de tâches individuelles jusqu'à une limite de 
+<span class="input-required"><var>_______</var> $<kbd>(<i>insérer le montant</i>)</kbd></span>, 
+taxe sur les produits et services ou taxe de vente harmonisée incluse, y compris toutes révisions.</p>
+<p>Une autorisation de tâches qui dépasserait cette
+limite doit être autoriser par le <span class="input-required"><var>__________</var> <kbd>(<i>insérer
+responsable " du projet " ou " technique " et
+l'autorité contractante " <em>ou</em> " l'autorité
+contractante "</i>)</kbd></span> avant d'être émise.</p>
+</div></pre>

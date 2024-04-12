@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour des biens lorsque des soumissions peuvent être reçues de fournisseurs établis au Canada et à l'étranger et que l'évaluation financière de la soumission sera faite selon le processus décrit ci-dessous.
+ </p>
+<p>
+  Utiliser la clause en conjonction avec
+  
+   C2000C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le prix de la soumission sera évalué comme suit :
+<ol type="a">
+<li value="1">les soumissionnaires établis au Canada doivent proposer des prix fermes, les droits de douane et les taxes d'accise canadiens compris, et  les taxes applicables exclues.</li>
+<li value="2">les soumissionnaires établis à l'étranger doivent proposer des prix fermes, les droits de douane, les taxes d'accise canadiens et les taxes applicables exclus. Les droits de douane et les taxes d'accise canadiens payables par le Canada seront ajoutés, pour les besoins de l'évaluation seulement, aux prix présentés par les soumissionnaires établis à l'étranger.</li>
+</ol>
+</li>
+<li value="2">Sauf lorsque la demande de soumissions précise que les soumissions doivent être présentées en dollars canadiens, les soumissions présentées en devises étrangères seront converties en dollars canadiens pour les besoins de l'évaluation. Pour les soumissions présentées en devises étrangères, le taux indiqué par la Banque du Canada à la date de clôture des soumissions, ou à une autre date précisée dans la demande de soumissions, sera utilisé comme facteur de conversion.</li>
+<li value="3">Bien que le Canada se réserve le droit d'attribuer le contrat <abbr title="franco à bord">FAB</abbr> usine ou <abbr title="franco à bord">FAB</abbr> destination, le Canada demande que les soumissionnaires proposent des prix <abbr title="franco à bord">FAB</abbr> usine ou point d'expédition et <abbr title="franco à bord">FAB</abbr> destination. Les soumissions seront évaluées sur une base <abbr title="franco à bord">FAB</abbr> destination.</li>
+<li value="4">Pour les fins de la demande de soumissions, les soumissionnaires qui ont une adresse au Canada sont considérés comme étant des soumissionnaires établis au Canada, et les soumissionnaires qui ont une adresse à l'extérieur du Canada sont considérés comme étant des soumissionnaires établis à l'étranger.</li>
+</ol>
+</div></pre>

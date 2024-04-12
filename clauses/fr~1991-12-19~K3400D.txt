@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause doit être utilisée de concert avec les clauses de base K3000D, 
+K3001D, K3300D et K3301D, relatives aux «Droits de propriété intellectuelle», 
+afin de STIPULER CLAIREMENT quels articles des groupes de conditions générales 
+sont remplacés.  
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La clause _____ (NUMERO), _____ (TITRE), mentionnée dans le présent 
+document, remplace les dispositions suivantes des Conditions générales et 
+des Conditions générales supplémentaires s'il y a lieu :    [SUPPRIMER LES 
+CONDITONS QUI NE S'APPLIQUENT PAS, DE MEME QUE LA PRÉSENT INSTRUCTION]    
+       DSS-MAS 1026 (S-100A) : article 18 (Renseignements techniques)   
+       DSS-MAS 1026A : article 18 (Licences d'exploitation de brevets et 
+       utilisation de renseignements techniques)   
+       DSS-MAS 1026B : article 17 (Licences d'exploitation de brevets et 
+       utilisation de renseignements techniques) 
+
+       DSS-MAS 1036 : article 4 (Propriété des inventions)  
+       DSS-MAS 1053 : paragraphes 6(2) et 6(3) (Droits de publication) et 
+       article 7 (Propriété des brevets et utilisation des données 
+       techniques)    
+       DSS-MAS 9072A : paragraphes 11(3) et 11(4) (Inventions, droits 
+       d'auteur et dessins)
+
+       DSS-MAS 9076 :article 11 (Droits d'auteur et brevets)    
+       DSS-MAS 9224 : article 13 (Propriété des documents techniques et des 
+       prototypes) et article 14 (Propriété des inventions et de 
+       renseignements techniques)    
+       DSS-MAS 9329-1 : article 22 (Renseignements techniques et inventions) 
+   et article 23 (Licences d'exploitation de brevets et utilisation de 
+   renseignements techniques)  
+</pre>

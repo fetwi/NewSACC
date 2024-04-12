@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de services lorsque le Canada veut se réserver le droit de résilier le contrat avec un avis de trente (30) jours sans payer les coûts liés à la résiliation, s'il y a lieu.
+ </p>
+<p>
+  Ne pas utiliser cette clause :
+ </p>
+<ol type="a">
+<li>
+   lorsque les travaux doivent être réalisés au fur et à mesure des besoins; et
+  </li>
+<li>
+   lorsque la clause
+   
+    B9030C
+   
+   est utilisée.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada se réserve le droit de résilier à n'importe quel moment le contrat, en tout ou en partie, en donnant un avis écrit de trente (30) jours civils à
+l'entrepreneur.</li>
+<li value="2">Suite à cette résiliation, le Canada paiera uniquement les coûts engagés pour les services rendus et acceptés par le Canada avant la date de la résiliation. Malgré toute autre disposition du contrat, aucun autre coût résultant de la résiliation ne sera payé à l'entrepreneur.</li>
+</ol>
+</div></pre>

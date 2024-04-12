@@ -1,0 +1,265 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser les conditions générales supplémentaires suivantes dans les contrats 
+pour les services de maintenance et de soutien des logiciels sous licence.
+
+Utiliser ces conditions générales supplémentaires en conjonction avec l'une des 
+conditions générales suivantes : 1026A, 1026B, 2010A, 2030, 2035 ou 2040, et 
+avec d'autres conditions générales supplémentaires, selon le cas.  Ne pas 
+utiliser avec 2029, 2010B et 2010C.
+
+Lorsque plusieurs conditions générales supplémentaires s'appliquent au besoin, 
+les agents de négociation des contrats doivent énumérer dans la clause d'ordre 
+de priorité des documents, les conditions générales supplémentaires en ordre 
+numérique croissant selon le numéro d'identification.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Services de correction d'erreurs
+03     Versions intermédiaires
+04     Support d'information
+05     Services de soutien
+06     Frais de soutien et services sur place
+07     Responsabilités du Canada
+08     Services exclus
+
+<strong>4004   01     (2008-05-12)  Interprétation</strong>
+
+1.     Dans le contrat, à moins que le contexte n'indique un sens différent :
+
+       « conditions générales » désigne les conditions générales qui font 
+       partie du contrat;
+
+       « erreur de logiciel » désigne toute instruction ou énoncé 
+       concernant le logiciel contenu ou non-contenu dans les programmes 
+       sous licence qui, par sa présence ou son absence, empêche ceux-ci de 
+       fonctionner conformément aux spécifications;
+
+       « période de soutien du logiciel » désigne la période prévue au 
+       contrat au cours de laquelle l'entrepreneur doit fournir le soutien 
+       à l'égard du logiciel sous licence, conformément aux conditions du 
+       contrat;
+
+       « versions de maintenance » désigne l'ensemble des améliorations, 
+       des extensions, des mises à niveau, des mises à jour, des versions, 
+       des renommages, des réécritures, des améliorations croisées, des 
+       composants et des mises à niveau inférieur ou toute autre 
+       modification apportée au logiciel sous licence élaboré ou publié par 
+       l'entrepreneur ou son ayant droit; 
+
+2.     Les mots et expressions définis dans les conditions générales et 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales.
+
+3.     En cas d'incompatibilité entre les conditions générales et les 
+       présentes conditions générales supplémentaires, les dispositions 
+       pertinentes des présentes conditions générales supplémentaires 
+       l'emportent.
+
+4.     Si les conditions générales supplémentaires 4003 font partie du 
+       contrat, les mots et expressions qui y sont définis et qui sont 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans ces conditions générales 
+       supplémentaires.
+
+5.     Si les conditions générales supplémentaires 4003 ne font pas partie 
+       du contrat, les définitions suivantes s'appliquent au contrat :
+
+       « documentation du logiciel » désigne l'ensemble des manuels, 
+       livrets, guides d'utilisation et autres documents  écrits en langage 
+       courant que l'entrepreneur a fournis au Canada et qui sont destinés 
+       à être utilisés avec les programmes sous licence, que cette 
+       documentation soit fournie sous forme imprimée, sur bande magnétique, 
+       sur disque ou sur un autre support d'information;
+
+       « programmes sous licence » désigne l'ensemble des programmes 
+       informatiques sous forme de code objet  à l'égard desquels 
+       l'entrepreneur doit fournir des services de soutien conformément au 
+       contrat; 
+
+       « logiciel sous licence » désigne l'ensemble des programmes sous 
+       licence et la documentation visée par la licence;
+
+       « support d'information » désigne le matériel ou support sur lequel 
+       les programmes sous licence sont stockés pour être livrés au Canada, 
+       incluant des supports d'information électroniques comme les bandes 
+       magnétiques ou les téléchargements électroniques.  Le support 
+       d'information ne comprend pas le logiciel sous licence stocké sur le 
+       support d'information.
+
+6.     Les articles intitulés « Droit de propriété » et « Garantie » qui 
+       figurent dans les conditions générales ne s'appliquent pas au 
+       logiciel sous licence et au support d'information.  Les dispositions 
+       relatives à la propriété, à la garantie et au support d'information 
+       mentionnés aux présentes conditions générales supplémentaires, et 
+       aux conditions générales supplémentaires 4003 si celles-ci font 
+       partie du contrat, s'appliquent en remplacement de ces articles.
+
+<strong>4004   02     (2008-05-12)  Services de correction d'erreurs</strong>
+
+1.     Le Canada peut signaler à l'entrepreneur, pendant la période de 
+       soutien du logiciel, toute défaillance qui empêche les programmes 
+       sous licence de fonctionner conformément à la documentation du 
+       logiciel ou, s'il y a lieu, aux spécifications.  Le Canada peut 
+       signaler ces défaillances par écrit, par téléphone ou par un autre 
+       moyen de télécommunications.  À la réception d'un avis de 
+       défaillance du Canada, sauf disposition contraire dans le contrat, 
+       l'entrepreneur doit employer tous les moyens raisonnables pour 
+       remettre au Canada, dans les délais prévus  aux paragraphes 2 et 3, 
+       une correction de l'erreur de logiciel qui a causé la défaillance.  
+       Toute correction de ce genre devra maintenir les programmes sous 
+       licence conformes à la documentation du logiciel ou, s'il y a lieu, 
+       aux spécifications pendant la période de soutien du logiciel.  
+       L'entrepreneur doit faire tout ce qui est raisonnablement possible 
+       pour apporter des corrections permanentes à toutes les erreurs du 
+       logiciel et il garantie que le logiciel sous licence continuera de 
+       satisfaire les critères fonctionnels et de rendement établis dans 
+       les spécifications.  Toutes les corrections apportées aux erreurs de 
+       logiciel feront partie du logiciel sous licence et seront 
+       assujetties aux conditions de la licence du Canada se rapportant au 
+       logiciel sous licence.
+
+2.     Sauf disposition contraire dans le contrat, l'entrepreneur doit 
+       répondre à un avis d'erreur de logiciel en fonction du degré 
+       d'importance de l'erreur, selon les indications du paragraphe 3.  Le 
+       degré d'importance de l'erreur sera déterminé de façon raisonnable 
+       par le Canada qui en informera l'entrepreneur en se basant sur les 
+       définitions suivantes :
+
+       Degré 1 :     défaillance d'un programme sous licence qui empêche 
+                     l'utilisateur d'utiliser ledit programme, ce     qui a 
+                     des répercussions critiques pour ses objectifs;
+
+       Degré 2 :     défaillance d'un programme sous licence qui en 
+                     restreint considérablement l'exploitation par 
+                     l'utilisateur;
+
+       Degré 3 :     défaillance touchant certaines fonctions d'un 
+                     programme sous licence qui ne sont pas critiques pour 
+                     l'ensemble des opérations de l'utilisateur;
+
+       Degré 4 :     défaillance qui a été contournée ou corrigée 
+                     temporairement et ne touche pas les opérations de 
+                     l'utilisateur.
+
+3.     Sauf disposition contraire dans le contrat, l'entrepreneur doit 
+       faire  tout ce qui est raisonnablement possible pour corriger les 
+       erreurs de logiciel dans les délais suivants :
+
+       Degré 1 :     dans les vingt-quatre (24) heures de l'avis donné par 
+                     le Canada;
+
+       Degré 2 :     dans les soixante-douze (72) heures de l'avis donné 
+                     par le Canada;<strong><em></em></strong>
+
+       Degré 3 :     dans les quatorze (14) jours de l'avis donné par le 
+                     Canada;
+
+       Degré 4 :     dans les quatre-vingt-dix (90) jours de l'avis donné 
+                     par le Canada.<strong><em></em></strong>
+
+4.     Si le Canada signale une erreur de logiciel à l'entrepreneur, le 
+       Canada devra fournir à l'entrepreneur l'accès raisonnable au système 
+       informatique dans lequel se trouve le programme sous licence et lui 
+       fournir les renseignements qu'il demande de façon raisonnable, comme 
+       des exemples de résultats et d'autres renseignements de diagnostic, 
+       afin de permettre à l'entrepreneur de corriger rapidement l'erreur 
+       de logiciel.
+
+<strong>4004   03     (2008-05-12)  Versions de maintenance</strong><strong></strong>
+
+Pendant la période de soutien du logiciel, l'entrepreneur doit fournir au 
+Canada toute les versions de maintenance, sous forme de code objet et sans 
+frais.  Toutes les versions de maintenance feront partie du logiciel sous 
+licence et seront  assujetties aux conditions de la licence du Canada se 
+rapportant au logiciel sous licence.  Sauf disposition contraire dans le 
+contrat, le Canada recevra au moins une version de maintenance par période 
+de maintenance de douze (12) mois.
+
+<strong>4004   04     (2008-05-12)  Support d'information</strong><strong></strong>
+
+1.     L'entrepreneur doit fournir au Canada toutes les corrections 
+       d'erreurs de logiciel, les versions de maintenance et les mises à 
+       jour sur un support d'information qui est exempt de vices et de 
+       virus informatiques et qui est compatible avec le système 
+       informatique sur lequel les programmes sous licence sont installés.
+
+2.     Le Canada deviendra propriétaire du support d'information qui lui 
+       est fourni dans le cadre de la prestation des services de soutien du 
+       logiciel dès la livraison et l'acceptation du support par le Canada 
+       ou en son nom.  Aux fins du présent paragraphe, l'expression « 
+       support d'information » ne comprend pas le logiciel sous licence 
+       stocké sur le support d'information.
+
+<strong>4004   05     (2008-05-12)  Services de soutien</strong><strong></strong>
+
+Si des services de soutien sont prévus au contrat, l'entrepreneur doit 
+fournir au Canada l'accès  au personnel de l'entrepreneur , pour aider le 
+Canada à répondre aux questions concernant le logiciel sous licence, 
+pendant les heures précisées au contrat.  Si les heures ne sont pas 
+précisées au contrat, cet accès au personnel de l'entrepreneur doit être 
+entre 8 h à 17 h, heure locale, à l'endroit où sont installés les 
+programmes sous licence, du lundi au vendredi, sauf les jours fériés que le 
+Canada observe à cet endroit.  L'accès du Canada au personnel de 
+l'entrepreneur comprend l'accès par téléphone, par télécopieur, par 
+courrier électronique, par Internet et, si prévu expressément dans le 
+contrat, des services sur place et des services par le biais d'une équipe 
+d'intervention spéciale.  S'il y a lieu et si prévu dans le contrat, le 
+Canada désignera par avis écrit à l'entrepreneur, un ou des représentants 
+de l'utilisateur qui seront les seules personnes autorisées à avoir accès 
+aux services de soutien au nom du Canada.  Le Canada peut modifier cette 
+désignation en envoyant un autre avis à ce sujet à l'entrepreneur.
+
+<strong>4004   06     (2008-05-12)  Frais de soutien et services sur place</strong><strong></strong>
+
+Sauf disposition contraire dans le contrat, les frais de soutien mensuels 
+ou annuels indiqués au contrat comprennent tous les frais liés aux services 
+de soutien du logiciel qui sont décrits au contrat, sauf les services sur 
+place, les équipes d'intervention spéciale et les services de correction 
+sur place des erreurs de logiciel.  L'entrepreneur doit fournir les 
+services sur place, à la demande du Canada, selon les taux de main-d'oeuvre 
+horaires ou quotidiens précisés au contrat.  Les frais raisonnables de 
+déplacement et de subsistance que l'entrepreneur engage pour fournir des 
+services sur place et que le Canada approuve à l'avance seront remboursés à 
+l'entrepreneur conformément aux lignes directrices précisées au contrat, ou, 
+si elles ne sont pas précisées, conformément aux lignes directrices 
+applicables du Conseil du Trésor. Tous ces frais préapprouvés devront être 
+facturés au Canada comme frais distincts.
+
+<strong>4004   07     (2008-05-12)  Responsabilités du Canada</strong><strong></strong>
+
+1.     Sauf disposition contraire dans le contrat, le Canada maintiendra, 
+       pendant la période de soutien du logiciel, une ligne téléphonique et 
+       un accès Internet destinés à être utilisés dans le cadre de la 
+       prestation des services de soutien du logiciel.  Le Canada sera 
+       responsable de l'installation, de l'entretien et de l'utilisation de 
+       ce matériel ainsi que des frais de téléphone s'y rapportant. 
+       L'entrepreneur peut utiliser la ligne téléphonique et le courrier 
+       électronique dans le cadre de la prestation des services de soutien 
+       du logiciel.
+
+2.     Sauf disposition contraire dans le contrat, le Canada sera 
+       responsable d'installer toutes les corrections des erreurs de 
+       logiciel, les versions de maintenance et les mises à niveau.
+
+3.     Le Canada protégera les données contre les pertes en adoptant des 
+       mesures de sauvegarde.
+
+<strong>4004   08     (2008-05-12)  Services exclus</strong><strong></strong>
+
+L'entrepreneur n'est pas tenu de corriger une défaillance des programmes 
+sous licence, par rapport aux spécifications, si cette défaillance est 
+causée par :
+
+a)      l'utilisation par le Canada du logiciel sous licence d'une façon 
+       qui n'est pas conforme à la licence qu'il a obtenue;
+
+b)      l'utilisation de matériel ou de logiciels qui sont fournis par une 
+       personne autre que l'entrepreneur ou un sous-traitant et qui n'est 
+       pas conforme aux spécifications; ou
+
+c)     des modifications non approuvées par l'entrepreneur ou un 
+       sous-traitant ont été apportées au logiciel sous licence.
+
+
+</pre>

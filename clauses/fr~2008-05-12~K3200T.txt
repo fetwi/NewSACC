@@ -1,0 +1,48 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans toutes les demandes de soumissions lorsque le 
+ministère ou l'organisme client a décidé que le Canada détiendra tout droit de 
+propriété intellectuelle résultant des travaux en vertu du contrat.
+
+Les agents de négociation des contrats inséreront au moins l'un des motifs 
+suivants justifiant le titre du Canada, motif que lui indiquera le ministère ou 
+l'organisme client (ne pas inclure le numéro de l'exception du Conseil du Trésor 
+dans les demandes de soumissions) :
+
+(6.1) 	la sécurité nationale;
+
+(6.2) 	les lois, les règlements ou les obligations antérieures du Canada envers 
+un tiers ou des tiers empêchent que l'on consente à ce que l'entrepreneur soit 
+propriétaire des droits de propriété intellectuelle sur les renseignements 
+originaux;
+
+(6.3) 	l'entrepreneur a déclaré par écrit qu'il ne souhaite pas être 
+propriétaire des droits de propriété intellectuelle sur les renseignements 
+originaux;
+
+(6.4.1)	l'objet principal du contrat ou des biens livrables en vertu du contrat 
+est de générer des connaissances et une information pour diffusion dans le 
+public;
+
+(6.4.2)	l'objet principal du contrat ou des biens livrables en vertu du contrat 
+est d'accroître certains acquis actuels du gouvernement avant de transférer cet 
+ensemble plus vaste d'acquis au secteur privé (non nécessairement à 
+l'entrepreneur initial), par octroi de licence ou par cession de la propriété, à 
+des fins d'exploitation commerciale;
+
+(6.4.3)	l'objet principal du contrat ou des biens livrables en vertu du contrat 
+est la livraison d'un composant ou d'un sous-système qui sera intégré 
+ultérieurement dans un système complet, comme condition préalable au transfert 
+prévu du système complet au section privé, par voie de licence ou de cession, 
+aux fins d'une exploitation commerciale;
+
+(6.5)	lorsque le matériel créé ou conçu se compose de matériel protégé par le 
+droit d'auteur, sauf dans le cas des logiciels informatiques et de la 
+documentation s'y rapportant.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le _____ <em>(</em><span class="wsInlineRemark"><strong>insérer le nom du ministère ou de l'organisme</strong></span><span class="wsInlineRemark"> </span><span class="wsInlineRemark"><strong>client</strong></span><em>)</em> a déterminé 
+que tout droit de propriété intellectuelle découlant de l'exécution des 
+travaux prévus par le contrat subséquent appartiendra au Canada, pour les 
+motifs suivants : ______.<strong></strong>
+
+
+</pre>

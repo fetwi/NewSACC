@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats comportant des autorisations de 
+tâches, lorsque les travaux font l'objet d'un prix de lot ferme ou d'un (de) 
+prix unitaire(s) ferme(s).
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>À condition de remplir de façon satisfaisante toutes
+ses obligations en vertu de l'autorisation de tâches (AT)
+approuvée, l'entrepreneur sera payé <span class="input-required"><var>__________</var> <kbd>(<i>insérer «  un
+prix de lot ferme de <var>___</var> $  »
+<strong><em>OU</em></strong> «  un (des prix
+unitaire(s) ferme(s) ») (<em>insérer</em>
+«  conformément à la Base de paiement, dans l'annexe
+<var>___</var>  » <strong><em>OU</em></strong> «  comme
+détaillé dans la Base de paiement ci-dessous  »</i>)</kbd></span>,
+comme précisé dans l'<abbr title="Autorisation de tâches">AT</abbr> approuvée. Les droits de
+douane <span class="input-required"><var>_________</var>
+<kbd>(<i>inscrire «  sont inclus  », «  sont exclus  »
+OU «  font l'objet d'une exemption  »</i>)</kbd></span> et la
+taxe sur les produits et services ou la taxe de vente
+harmonisée est en sus, s'il y a lieu.</p>
+<p>Le Canada ne paiera pas l'entrepreneur pour tout changement
+à la conception, toute modification ou interprétation des
+travaux, à moins que ces changements à la conception, ces
+modifications ou ces interprétations n'aient été
+approuvés par écrit par l'autorité contractante
+avant d'être intégrés aux travaux.</p>
+<p class="description">(<strong><em>Insérer les détails de la Base de
+paiement relativement aux prix unitaires fermes, s'ils ne sont pas
+inclus dans une annexe</em></strong>.)</p>
+</div></pre>

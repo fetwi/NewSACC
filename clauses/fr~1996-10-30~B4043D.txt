@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause pour obtenir la nomenclature de l'équipement de conception 
+militaire et, lorsque le gestionnaire du cycle de vie du matériel (GCVM) en fait 
+la demande, de l'équipement commercial.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit préparer les données de nomenclature (ou 
+       confirmer les données existantes) conformément au numéro le plus 
+       récent des spécifications suivantes des Forces canadiennes :
+
+       a)     pour l'équipement électronique : D-01-000-200/SF-001 (CA) ou 
+              MIL-STD-196D (É.-U.)
+
+       b)     pour l'équipement aéronautique : D-01-000-200/SF-002 (CA) ou 
+              MIL-STD-875A (É.-U.)
+
+       c)     pour l'équipement photographique : D-01-000-200/SF-003 (CA) 
+              ou MIL-STD-155 (É.-U.)
+
+2.     L'entrepreneur doit soumettre ces données de nomenclature au :
+
+       Quartier général de la Défense nationale
+       Immeuble Mgén George R. Pearkes
+       101, Promenade du Colonel By
+       Ottawa (ON)  K1A 0K2
+
+       <strong>À l'attention du DCAI 5-4-5</strong>
+
+       au plus tard quatre-vingt-dix (90) jours avant la livraison des 
+       articles livrables complets auxquels les données se rapportent.
+
+</pre>

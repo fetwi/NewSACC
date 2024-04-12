@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
+stipule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La quantité précisée ici constitue un minimum et
+doit être livrée telle que demandée. On acceptera
+une quantité supérieure dans la proportion de 
+<span class="input-required"><var>_____</var> <kbd>(<em>inscrire
+le montant précisé dans le contrat américain</em>)</kbd></span> avec redressement du paiement en
+conséquence.</p>
+</div></pre>

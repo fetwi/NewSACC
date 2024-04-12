@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'une note d'emballage et des 
+exemplaires du document d'assurance sont exigés avec chaque envoi.
+ </p>
+<p>
+  Cette clause ne devrait pas être utilisée dans les contrats du ministère de la 
+Défense nationale.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit s'assurer que chaque envoi soit
+accompagné d'une note d'emballage et d'exemplaires du document
+d'assurance de la qualité. Ces documents doivent être
+placés dans une enveloppe imperméable fixée au
+dernier paquet de l'envoi ou à l'intérieur du paquet qui
+doit porter une indication de l'inclusion des pièces jointes.
+Dans le cas d'un envoi par chemin de fer, ils doivent être
+fixés sur le côté intérieur du cadre de la
+porte du wagon.</p>
+</div></pre>

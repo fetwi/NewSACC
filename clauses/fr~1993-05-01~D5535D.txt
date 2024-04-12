@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'assurance officielle de la qualité à la 
+source et l'AQAP-150 sont exigés.  Il faut utiliser cette clause si l'ébauche de 
+la Demande de biens et de services inclus un seul code de l'assurance de la 
+qualité (CAQ).  Si la demande comporte plusieurs CAQ, employer plutôt la clause 
+D5538D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences suivantes :
+
+AQAP-150  Exigences de l'OTAN en matière d'assurance de la qualité pour le 
+développement de logiciels, publiée par _____, dernière édition à la date 
+de présentation de la soumission de l'entrepreneur.
+
+</pre>

@@ -1,0 +1,958 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Cette clause est généralement utilisée pour les contrats dont la valeur estimée
+  <br/>
+  se situe entre 100,000 $ et 5,000,000 $.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li>CG8.1 Interprétation</li>
+<li>CG8.2 Consultation et collaboration</li>
+<li>CG8.3 Avis de différend</li>
+<li>CG8.4 Négociation</li>
+<li>CG8.5 Médiation</li>
+<li>CG8.6 Arbitrage exécutoire</li>
+<li>CG8.7 Différends non soumis à l'arbitrage</li>
+<li>CG8.8 Confidentialité</li>
+<li>CG8.9 Règlement</li>
+<li>CG8.10 Règles pour la médiation des
+différends
+<ul class="no-markers">
+<li>CG8.10.1 Interprétation</li>
+<li>CG8.10.2 Application</li>
+<li>CG8.10.3 Communication</li>
+<li>CG8.10.4 Nomination d'un médiateur de projet</li>
+<li>CG8.10.5 Confidentialité</li>
+<li>CG8.10.6 Date et lieu de la médiation</li>
+<li>CG8.10.7 Représentation</li>
+<li>CG8.10.8 Procédures</li>
+<li>CG8.10.9 Accord de règlement</li>
+<li>CG8.10.10 Fin de la médiation</li>
+<li>CG8.10.11 Frais</li>
+<li>CG8.10.12 Procédures subséquentes</li>
+</ul>
+</li>
+<li>CG8.11 Règles pour l'arbitrage des différends
+<ul class="no-markers">
+<li>CG8.11.1 Interprétation</li>
+<li>CG8.11.2 Tribunal arbitral</li>
+<li>CG8.11.3 Application</li>
+<li>CG8.11.4 Engagement de la procédure</li>
+<li>CG8.11.5 Constitution du tribunal</li>
+<li>CG8.11.6 Rencontre préliminaire</li>
+<li>CG8.11.7 Communications</li>
+<li>CG8.11.8 Représentation</li>
+<li>CG8.11.9 Règles de procédure</li>
+<li>CG8.11.10 Lieu de l'arbitrage</li>
+<li>CG8.11.11 Délais</li>
+<li>CG8.11.12 Demande et défense</li>
+<li>CG8.11.13 Autres déclarations écrites</li>
+<li>CG8.11.14 Exposé conjoint des faits</li>
+<li>CG8.11.15 Preuve</li>
+<li>CG8.11.16 Audiences</li>
+<li>CG8.11.17 Défaut</li>
+<li>CG8.11.18 Sentence arbitrale</li>
+</ul>
+</li>
+</ul>
+</div>
+<h2>CG8.1 (2008-05-12) Interprétation</h2>
+<ol type="1">
+<li value="1">Dans les présentes conditions, on entend par
+« <dfn>question arbitrale de droit</dfn> » une question de droit qui:
+<ol type="a">
+<li value="1">peut être tranchée par arbitrage en vertu
+des lois du Canada;</li>
+<li value="2">n'implique pas l'interprétation ni l'application
+du droit public du Canada, incluant, sans toutefois s'y limiter,
+les questions de droit constitutionnel, administratif, pénal
+ou fiscal;</li>
+<li value="3">porte sur :
+<ol type="i">
+<li value="1">la formation, la validité,
+l'interprétation, l'application ou le caractère
+exécutoire du contrat;</li>
+<li value="2">l'exécution, l'inexécution, la résiliation
+ou toute autre mode d'extinction des obligations du contrat;</li>
+<li value="3">les droits, devoirs, obligations ou recours des parties en
+vertu du contrat ou découlant de celui-ci;</li>
+<li value="4">toute autre question de droit privé qui peut surgir
+entre les parties en ce qui a trait à l'exécution du
+contrat.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">On entend par « <dfn>différend</dfn> » les
+conflits se rapportant à toute question définie par
+l'entrepreneur dans l'avis soumis au Canada conformément
+à l'alinéa 2) de la CG8.3, « Avis de différend », y compris les réclamations de l'entrepreneur
+résultant de ce différend et toutes les
+contre-réclamations du Canada, mais cette expression ne
+comprend pas des demandes de l'une ou l'autre des parties pour
+dommages-intérêts punitifs ou exemplaires, blessures,
+décès ou toute réclamation fondée sur une
+allégation de diffamation ou sur une déclaration
+calomnieuse.</li>
+<li value="3">Les procédures de règlement extrajudiciaire
+des différends prévues à la CG8 ne s'appliquent pas
+à une réclamation du Canada contre l'entrepreneur, à
+l'exception d'une contre-réclamation résultant d'un
+différend répondant à la définition de
+l'alinéa 1) de la CG8.1, y compris, sans limitation, une
+réclamation fondée sur la compensation de toute somme
+payable par l'entrepreneur au Canada en vertu de la CG5.10, « Dédommagement pour retard d'achèvement ».</li>
+</ol>
+<h2>CG8.2 (2007-05-25) Consultation et coopération</h2>
+<ol type="1">
+<li value="1">Les parties conviennent d'assurer une communication
+ouverte et honnête pendant toute la durée de
+l'exécution du contrat.</li>
+<li value="2">Les parties conviennent de se consulter et collaborer
+dans l'exécution des travaux et la résolution des
+problèmes ou des différends qui peuvent survenir.</li>
+</ol>
+<h2>CG8.3 (2008-05-12) Avis de différend</h2>
+<ol type="1">
+<li value="1">Tout différend surgissant entre les parties au
+contrat, de quelque nature qu'il soit découlant du contrat ou
+relativement à celui-ci, qui peut donner lieu à une
+réclamation de l'entrepreneur contre le Canada et qui n'est
+pas réglé par consultation et collaboration selon les
+modalités de la CG8.2, « Consultation et collaboration », est résolu en premier lieu par le Canada, dont la
+décision ou la directive écrite est finale et
+exécutoire, sous réserve des dispositions de la CG8. Une
+décision ou directive écrite comprend notamment toute
+décision ou directive émise par écrit par le Canada
+en vertu des dispositions des Conditions générales.</li>
+<li value="2">L'entrepreneur est réputé avoir
+accepté la décision ou directive du Canada visée
+à l'alinéa 1) de la CG8.3 et avoir exonéré
+expressément le Canada de toute réclamation à
+l'égard de la question visée dans cette décision ou
+directive sauf s'il soumet au Canada, dans les 15jours ouvrables
+suivant la réception de cette décision ou directive, un
+avis écrit de différend demandant une négociation
+formelle en vertu de la CG8.4, « Négociation ».
+Cet avis doit référer spécifiquement à la
+CG8.4, « Négociation », et préciser les
+questions en litige de même que les dispositions pertinentes
+du contrat.</li>
+<li value="3">L'envoi d'un avis écrit conformément à
+l'alinéa 2) de la CG8.3 par l'entrepreneur n'aura pas pour
+effet de dégager pour autant de son obligation de respecter la
+décision ou la directive faisant l'objet du différend.
+Toutefois, le fait que l'entrepreneur se conforme à cette
+décision ou directive ne peut être interprété
+comme une admission par l'entrepreneur du bien-fondé de cette
+décision ou directive.</li>
+<li value="4">Si un différend n'est pas réglé
+rapidement, le Canada donne à l'entrepreneur les instructions
+qui, à son avis, sont nécessaires à la bonne
+exécution des travaux et pour prévenir les retards en
+attendant le règlement de la question. L'entrepreneur continue
+d'exécuter lesdits travaux conformément aux dispositions
+et aux exigences du contrat, ainsi qu'aux instructions du Canada,
+sauf si le Canada résilie le contrat, ordonne à
+l'entrepreneur de suspendre les travaux ou retire les travaux
+à l'entrepreneur. L'exécution desdits travaux n'a pas
+pour effet de porter préjudice aux réclamations de
+l'entrepreneur.</li>
+<li value="5">Nulle disposition de la CG8 na pour effet de
+dégager l'entrepreneur de son obligation de donner tout autre
+avis exigé par le contrat dans le délai qui y est
+précisé, notamment tous les avis prévus en vertu de
+la CG6.2, « Changements des conditions du sous-sol ».</li>
+</ol>
+<h2>CG8.4 (2008-12-12) Négociation</h2>
+<ol type="1">
+<li value="1">Dans les 10 jours ouvrables suivant la
+réception, par le Canada, d'un avis visé à
+l'alinéa 2) de la CG8.3, « Avis de différend »,
+ou dans tout autre délai pouvant être fixé d'un
+commun accord, les parties doivent entreprendre des
+négociations formelles afin de résoudre leur
+différend. Les négociations se déroulent
+initialement entre les représentants de l'entrepreneur et du
+Canada qui assument directement la surveillance de
+l'exécution, l'administration ou la gestion du contrat.</li>
+<li value="2">Si les représentants visés à
+l'alinéa 1) de la CG8.4 ne peuvent pas résoudre une
+partie ou la totalité des questions faisant l'objet des
+négociations dans les 10 jours ouvrables afin de régler
+les questions non résolues, les parties font appel à un
+deuxième niveau de négociation impliquant un ou des
+dirigeants de l'entrepreneur et un ou des cadres supérieurs
+représentant le Canada.</li>
+<li value="3">Si les négociations ne permettent pas de
+résoudre le différend dans les 30 jours ouvrables suivant
+la date de signification de l'avis mentionné à
+l'alinéa 2) de la CG8.3, « Avis de différend »,
+ou dans le délai prolongé d'un commun accord,
+l'entrepreneur peut, à l'expiration de cette période
+envoyer au Canada un avis écrit conformément à la
+CG2.3, « Avis », dans les 10 jours ouvrables qui suivent
+cette date, et demander qu'un médiateur intervienne pour aider
+les parties à s'entendre sur les questions non
+résolues.</li>
+<li value="4">Si l'entrepreneur ne demande pas la médiation
+dans le délai prévu à l'alinéa 3) de la CG8.4,
+il sera réputé avoir accepté la décision ou la
+directive du Canada en vertu de l'alinéa 1) de la CG8.3,
+« Avis de différend », et avoir exonéré
+expressément le Canada de toute réclamation concernant la
+question faisant l'objet de cette décision ou directive.</li>
+</ol>
+<h2>CG8.5 (2008-05-12) Médiation</h2>
+<ol type="1">
+<li value="1">Si l'entrepreneur demande l'intervention d'un
+médiateur conformément à l'alinéa 3) de la
+CG8.4, « Négociation », cette médiation doit se
+dérouler conformément à la CG8.10, « Règles pour la médiation des différends ».</li>
+<li value="2">Si aucun médiateur de projet n'a été
+antérieurement été nommé par les parties aux
+fins de l'application du contrat, les parties nomment un
+médiateur de projet conformément à la CG8.10, « Règles pour la médiation des différends »,
+dès qu'un avis de demande de médiation a été
+donné aux termes de l'alinéa 3) de la CG8.4,
+« Négociation ».</li>
+<li value="3">Si le différend n'est pas résolu :
+<ol type="a">
+<li value="1">dans les 10 jours ouvrables suivant la nomination
+d'un médiateur de projet aux termes de l'alinéa 2) de la
+CG8.5, dans le cas où aucun médiateur na été
+préalablement nommé;</li>
+<li value="2">dans les 10 jours ouvrables suivant la
+réception, par le Canada, de l'avis écrit prévu
+à l'alinéa 3) de la CG8.4, « Négociation », dans le cas où un médiateur de projet a
+été préalablement nommé; ou</li>
+<li value="3">dans tout autre délai prolongé d'un commun
+accord des parties;</li>
+</ol>
+le médiateur de projet doit mettre fin à la
+médiation, en avisant les parties par écrit de la date
+d'effet de la cessation de la médiation.
+</li>
+</ol>
+<h2>CG8.6 (2008-05-12) Arbitrage exécutoire</h2>
+<ol type="1">
+<li value="1">S'il est mis fin à la médiation du
+différend conformément aux dispositions de la CG8.5,
+« Médiation », et
+<ol type="a">
+<li value="1">qu'il y est mis fin avant la date applicable
+indiquée à l'alinéa 4) de la CG8.6 et,</li>
+<li value="2">l'objet du différend porte sur des questions de
+fait ou des questions arbitrales de droit, ou des questions mixtes
+de faits et arbitrales de droit,</li>
+</ol>
+l'une ou l'autre des deux parties peut, en avisant par
+écrit l'autre partie conformément à la CG2.3,
+« Avis », exiger que le différend soit résolu
+par arbitrage exécutoire en vertu de la CG8.6.
+</li>
+<li value="2">Un avis faisant l'objet de l'alinéa 1) de la
+CG8.6 est signifié dans les 10 jours ouvrables suivant la date
+de fin de la médiation en vertu de la CG8.5, « Médiation », et doit être conforme à la CG2.3,
+« Avis ».</li>
+<li value="3">Lorsque aucun avis n'est signifié dans le
+délai indiqué à la l'alinéa 2) de la CG8.6, ou
+lorsque les conditions exprimées dans les sous-alinéas
+1)a) et 1)b) de la CG8.6 ne sont pas respectées, les
+dispositions en matière d'arbitrage définies dans la
+CG8.6 ne s'appliquent pas au différend.</li>
+<li value="4">Sauf convention contraire, l'arbitrage du
+différend est reporté jusqu'à la première des
+trois dates suivantes:
+<ol type="a">
+<li value="1">la date de délivrance du certificat
+d'achèvement substantiel en vertu de la CG5.5,
+« Achèvement substantiel des travaux »</li>
+<li value="2">la date à laquelle le Canada retire les travaux
+confiés à l'entrepreneur;</li>
+<li value="3">la date de la résiliation du contrat;</li>
+</ol>
+et ces différends sont regroupés avec tous les autres
+pour faire l'objet d'un seul et même arbitrage.
+</li>
+<li value="5">Les procédures arbitrales en vertu de la CG8.6
+sont régies et menées conformément à la
+<cite>Loi sur l’arbitrage commercial</cite>, <abbr title="Lois révisées">L.R.</abbr> 1985, <abbr title="chapitre">ch.</abbr> 17 (2e
+suppl.) de même qu'aux dispositions de la CG8.10,
+« Règles pour la médiation des différends ».</li>
+<li value="6">Aux fins de calculer les délais en vertu des
+Règles sur l'arbitrage visées à l'alinéa 5) de
+la CG8.6, les procédures d'arbitrage commencent à la date
+applicable indiquée à l'alinéa 4) de la CG8.6.</li>
+<li value="7">Nonobstant toute autre disposition exprimée dans
+la CG8.6, les clauses d'arbitrage de la CG8.6 ne s'appliquent pas
+si le montant global de toutes les réclamations de
+l'entrepreneur à soumettre à l'arbitrage à la date
+applicable indiquée à l'alinéa 4) de la CG8.6 est
+inférieur à 25000$.</li>
+</ol>
+<h2>CG8.7 (2008-05-12) Différends non soumis à
+l'arbitrage</h2>
+<ol type="1">
+<li value="1">Dans les cas où les règles d'arbitrage de
+la CG8.6, « Arbitrage exécutoire » ne s'appliquent
+pas à un différend en raison de l'alinéa 3) ou 7) de
+la CG8.6, « Arbitrage exécutoire », l'une ou l'autre
+des deux parties peut intenter une action ou des procédures
+judiciaires qu'elle juge appropriées, incluant, sans limiter
+la portée de ce qui précède, toute action en justice
+qu'elle aurait pu immédiatement intenter, n'eut été
+les dispositions des présentes conditions sur le
+règlement des différends. Sous réserve des
+dispositions de l'alinéa 2) de la CG8.7, l'entrepreneur doit
+intenter toute action ou procédure judiciaire au plus tard
+trois mois civils suivant la date à laquelle le certificat
+d'achèvement est délivré en vertu de la CG5.6,
+« Achèvement définitif », sauf disposition
+contraire de la loi.</li>
+<li value="2">Toute action ou procédure judiciaire
+découlant d'une directive émise en vertu de la CG3.13,
+« Garantie et rectification des défectuosités des travaux », doit être intentée par l'entrepreneur au
+plus tard 3 mois civils après l'expiration de la période
+de garantie, sauf disposition contraire de la loi.</li>
+</ol>
+<h2>CG8.8 (2008-05-12) Confidentialité</h2>
+<ol type="1">
+<li value="1">Sauf exigence contraire de la loi, tous les
+renseignements échangés par les parties et leurs
+représentants, par quelque moyen que ce soit, le seront sans
+préjudice et d'une manière confidentielle. Toutefois, la
+recevabilité ou divulgation d'un élément de preuve
+qui peut être autrement reçu en preuve ou dont la
+production peut être exigée lors d'un interrogatoire
+judiciaire, n'est pas affectée par l'utilisation de cet
+élément de preuve dans le cadre d'une procédure de
+règlement extrajudiciaire des différends.</li>
+</ol>
+<h2>CG8.9 (2007-05-25) Règlement</h2>
+<ol type="1">
+<li value="1">Tout accord de règlement portant sur la
+totalité ou une partie d'un différend et conclu par
+quelque moyen que ce soit, est constaté par écrit et
+signé par les parties ou par leurs représentants
+agréés.</li>
+</ol>
+<h2>CG8.10 (2008-05-12) Règles pour la médiation des
+différends</h2>
+<h3>CG8.10.1 Interprétation</h3>
+<p>Dans les présentes règles</p>
+<ol type="1">
+<li value="1">« <dfn>coordonnateur</dfn> » signifie la personne
+désignée par le Canada comme coordonnateur de
+règlement des différends.</li>
+</ol>
+<h3>CG8.10.2 Application</h3>
+<ol type="1">
+<li value="1">D'un commun accord, les parties peuvent modifier les
+règles ou en ajouter d'autres.</li>
+</ol>
+<h3>CG8.10.3 Communication</h3>
+<ol type="1">
+<li value="1">Les communications écrites prévues par les
+présentes règles sont données de la même
+façon que les avis écrits donnés conformément
+à la CG2.3, « Avis ».</li>
+</ol>
+<h3>CG8.10.4 Nomination d'un médiateur de projet</h3>
+<ol type="1">
+<li value="1">D'un commun accord, les parties peuvent, en tout
+temps après l'entrée en vigueur du contrat, désigner
+un médiateur (le « médiateur de projet ») pour
+diriger une médiation conformément aux présentes, de
+tout différend pouvant découler de l'interprétation,
+de l'application ou de l'administration du contrat. Dans un tel
+cas, elles concluent un contrat avec le médiateur de projet,
+lequel est rédigé par le coordonnateur de règlement
+des différends et est agréé par les parties.</li>
+<li value="2">À défaut de désigner un médiateur
+de projet conformément à l'alinéa 1) de la CG8.10.4,
+celui-ci est désigné par les parties dans les 17 jours
+ouvrables suivant la réception d'un avis écrit de
+l'entrepreneur, conformément aux dispositions de la CG2.3,
+« Avis », demandant la tenue d'une négociation par
+voie de médiation en la manière prévue aux
+présentes règles afin d'aider les parties à
+régler les questions demeurant en litige. Le contrat conclu
+avec le médiateur de projet doit rencontrer les exigences
+requises aux fins du contrat visé à l'alinéa 1) de
+la CG8.10.4.</li>
+<li value="3">Dans les cas où la médiation est
+demandée par l'entrepreneur en vertu des modalités de
+l'alinéa 3) de la CG8.4, « Négociation », si
+les parties ont déjà conclu un contrat avec un
+médiateur de projet, elles transmettent au médiateur de
+projet et au coordonnateur dans un délai de 2 jours:
+<ol type="a">
+<li value="1">une copie de l'avis écrit de différend
+demandant la négociation formelle en vertu de l'alinéa 2)
+de la CG8.3, « Avis de différend »</li>
+<li value="2">une copie de la position écrite du Canada en
+rapport avec l'avis, les questions en litige et les
+références pertinentes au contrat;</li>
+<li value="3">une copie de la demande écrite de médiation
+de l'entrepreneur exigée en vertu de l'alinéa 3) de la
+CG8.4, « Négociation ».</li>
+</ol>
+</li>
+<li value="4">Si les parties n'ont pas convenu d'un médiateur
+de projet, elles remettent au coordonnateur les documents
+visés aux sous-alinéas 3)a) b) et c) de la CG8.10.4 ainsi
+qu'une demande exigeant l'assistance d'un médiateur de projet,
+mutuellement acceptable aux deux parties, en conformité des
+présentes règles.</li>
+<li value="5">Dans les 5 jours ouvrables suivant la réception
+de la demande et des documents visés à l'alinéa 4)
+de la CG8.10.4, le coordonnateur remet aux parties une liste de
+médiateurs qualifiés du secteur privé, liste obtenue
+d'une entité indépendante et impartiale, ainsi que des
+instructions leur demandant de choisir et de classer,
+individuellement et confidentiellement, les médiateurs
+suggérés quelles jugent acceptables, selon un ordre de
+préférence. Chaque médiateur ainsi listé doit
+être impartial et indépendant des parties, et doit
+être un médiateur commercial d'expérience et
+compétent, connaissant de préférence l'objet du
+différend.</li>
+<li value="6">Dans les 10 jours ouvrables suivant la réception
+de la liste visée à l'alinéa 5) de la CG8.10.4,
+chaque partie se conforme aux instructions accompagnant la liste et
+remet sa réponse au coordonnateur.</li>
+<li value="7">Dans les 2 jours ouvrables suivant la réception
+des réponses, le coordonnateur sélectionne le
+médiateur qui aura obtenu le rang le plus élevé du
+classement commun des deux parties, à titre de médiateur
+de projet aux fins du contrat.</li>
+<li value="8">En cas d'égalité, le coordonnateur consulte
+les deux parties afin quelles réévaluent leur choix pour
+l'aider à sélectionner le médiateur de projet qu'il
+leur est acceptable. Si les parties ne peuvent s'entendre, le
+coordonnateur leur remet une deuxième liste de
+médiateurs, et la procédure est reprise.</li>
+<li value="9">Si les parties n'ont pas antérieurement conclu
+un contrat avec un médiateur de projet mutuellement
+acceptable, le coordonnateur déploiera les efforts
+raisonnables pour négocier en leur nom un contrat avec un
+médiateur de projet acceptable aux deux parties, qui incorpore
+les articles des présentes règles ou s'y conforme. En cas
+d'échec des négociations ou si, pour une autre raison, la
+personne ne veut ou ne peut conclure un contrat afin d'agir comme
+médiateur de projet, le coordonnateur répète le
+même processus avec le deuxième médiateur.</li>
+<li value="10">En cas de réussite des négociations
+visées à l'alinéa 9) de la CG8.10.4, les parties
+conviennent de conclure un contrat avec le médiateur de projet
+choisi, lequel est rédigé par le coordonnateur et en
+accord avec les parties.</li>
+<li value="11">À la signature du contrat avec le
+médiateur de projet visé à l'alinéa 10) de la
+CG8.10.4, le coordonnateur remet à ce dernier des exemplaires
+des documents visés à l'alinéa 3) de la
+CG8.10.4.</li>
+</ol>
+<h3>CG8.10.5 Confidentialité</h3>
+<ol type="1">
+<li value="1">Sous réserve de l'alinéa 2) de la CG8.10.5
+et sauf entente contraire écrite des parties, le
+médiateur de projet, les parties et leurs conseillers
+juridiques ou représentants protègent la
+confidentialité de toutes les questions et de tous les
+documents divulgués pendant la médiation sauf si leur
+divulgation est nécessaire à la mise en 
+œuvre de toute entente conclue entre les parties ou est exigée
+par la loi.</li>
+<li value="2">La recevabilité ou divulgation d'un
+élément de preuve qui peut être autrement reçu
+en preuve ou dont la production peut être exigée dans le
+cadre d'une procédure arbitrale ou judiciaire, n'est pas
+affectée par l'utilisation de cet élément de preuve
+dans le cadre du processus de médiation.</li>
+<li value="3">Aucune des parties ne peut faire une transcription,
+dresser un procès-verbal ou documenter autrement une
+séance de médiation.</li>
+<li value="4">Les notes personnelles et les avis écrits du
+médiateur de projet consignés relativement à la
+médiation sont sa propriété et sous son
+contrôle exclusifs, sont confidentiels et ne peuvent être
+utilisés dans aucune procédure ultérieure entre les
+parties ou, s'ils sont contraires à l'intérêt de la
+partie intéressée, sans l'autorisation écrite
+expresse de celle-ci.</li>
+<li value="5">L'échange de tout renseignement pendant la
+procédure de médiation, par quelque moyen que ce soit,
+est sous toute réserve et lesdits renseignements sont
+considérés par les parties et leurs représentants
+comme étant confidentiels, sauf disposition contraire de la
+loi.</li>
+</ol>
+<h3>CG8.10.6 Date et lieu de la médiation</h3>
+<ol type="1">
+<li value="1">Le médiateur de projet, de concert avec les
+parties, fixe les dates, heures et lieux des séances de
+médiation le plus tôt possible, tenant compte que, sous
+réserve d'entente contraire des parties, il n'a que 10 jours
+ouvrables pour tenter de régler le différend.</li>
+</ol>
+<h3>CG8.10.7 Représentation</h3>
+<ol type="1">
+<li value="1">Lors d'une séance de médiation, les
+représentants des parties peuvent être accompagnés
+d'un conseiller juridique ou de toute autre personne.</li>
+<li value="2">Si le médiateur de projet est un avocat, il ne
+peut offrir de conseils juridiques à une partie durant la
+séance de médiation, mais il peut lui recommander
+d'obtenir l'avis d'un avocat indépendant avant de finaliser un
+arrangement à l'amiable.</li>
+</ol>
+<h3>CG8.10.8 Procédures</h3>
+<ol type="1">
+<li value="1">Les parties conviennent d'échanger tous les
+faits, renseignements et documents sur lesquels elles ont
+l'intention de fonder leur présentation orale ou écrite,
+pendant la médiation. Cet échange se fait au plus tard 2
+jours ouvrables avant la date d'une séance de
+médiation.</li>
+<li value="2">Le médiateur de projet est libre de rencontrer
+les parties individuellement, pendant une séance de
+médiation, s'il estime que cela peut accroître les
+chances d'un règlement par voie de médiation, et l'une ou
+l'autre des parties peut demander à le rencontrer
+individuellement en tout temps.</li>
+<li value="3">Les parties peuvent s'entendre pour prolonger la
+période de 10 jours ouvrables disponibles pour régler le
+différend par voie de médiation, et le médiateur de
+projet consigne cette entente par écrit.</li>
+</ol>
+<h3>CG8.10.9 Accord de règlement</h3>
+<ol type="1">
+<li value="1">Les parties consignent par écrit tout accord de
+règlement qu'elles ont conclu, avec suffisamment de
+détails afin que les parties comprennent clairement:
+<ol type="a">
+<li value="1">les questions réglées,</li>
+<li value="2">les obligations assumées par chaque partie,
+incluant les critères visant à déterminer si et
+quand ces obligations ont été exécutées,</li>
+<li value="3">les conséquences de l'omission d'observer
+l'accord conclu par les parties.</li>
+</ol>
+</li>
+<li value="2">Les parties conviennent d'exécuter l'accord de
+règlement dans les meilleurs délais et, à tout le
+moins, dans les délais prévus par l'accord de
+règlement.</li>
+</ol>
+<h3>CG8.10.10 Fin de la médiation</h3>
+<ol type="1">
+<li value="1">L'une des parties peut se retirer de la
+médiation en tout temps, sans raison, et le médiateur de
+projet remet alors à chacune d'elles un avis écrit
+mettant fin à la négociation par voie de médiation
+et indiquant la date d'effet de la clôture de la
+médiation.</li>
+<li value="2">Lorsque, de l'avis du médiateur de projet, l'une
+des parties n'agit pas de bonne foi ou n'observe pas les conditions
+des présentes règles, ou s'il estime, durant la
+négociation par voie de médiation, que la poursuite des
+négociations ne permettra pas de résoudre les questions
+encore en litige, il peut mettre fin à la négociation en
+remettant aux parties un avis écrit de clôture, y
+indiquant ses motifs et la date d'effet de la clôture de la
+médiation.</li>
+<li value="3">Lorsqu'un différend n'est pas réglé
+dans les 10 jours ouvrables ou une période plus longue
+convenue par les parties, le médiateur de projet met fin
+à la médiation en remettant aux parties un avis
+écrit indiquant la date d'effet de la clôture de la
+médiation.</li>
+</ol>
+<h3>CG8.10.11 Frais</h3>
+<ol type="1">
+<li value="1">Les parties conviennent d'assumer chacune les frais
+de leurs propres représentants et conseillers, y compris leurs
+frais de déplacement et de séjour. Les honoraires et les
+dépenses du médiateur de projet ainsi que tous les frais
+généraux liés à la médiation, comme les
+frais de location de salles de réunion, sont assumés
+à parts égales entre les parties.</li>
+</ol>
+<h3>CG8.10.12 Procédures subséquentes</h3>
+<ol type="1">
+<li value="1">Les parties ne peuvent invoquer ou produire en
+preuve, dans une procédure arbitrale ou judiciaire, que cette
+procédure soit liée ou non à l'objet de la
+médiation,
+<ol type="a">
+<li value="1">un document de l'autre partie qui ne peut par
+ailleurs être produit dans le cadre de cette
+procédure,</li>
+<li value="2">des opinions exprimées ou des suggestions faites
+par une partie à l'égard du règlement possible des
+questions en litige,</li>
+<li value="3">un aveu fait par une partie, pendant la
+médiation, à moins que la partie ayant fait l'aveu y ait
+expressément consenti,</li>
+<li value="4">le fait qu'une partie a indiqué sa volonté
+de faire ou d'accepter une proposition ou une recommandation de
+règlement.</li>
+</ol>
+</li>
+<li value="2">Le médiateur de projet ne peut représenter
+une des parties ni témoigner pour celle-ci, dans une
+enquête, action ou procédure ultérieure relative aux
+questions faisant l'objet de la médiation.</li>
+<li value="3">Le médiateur de projet ne peut être
+assigné pour témoigner relativement
+<ol type="a">
+<li value="1">à son rôle dans la médiation,</li>
+<li value="2">aux questions en litige dans la médiation,</li>
+</ol>
+dans une enquête, action ou procédure ultérieure,
+et les parties conviennent de s'opposer vigoureusement à
+l'assignation du médiateur.
+</li>
+</ol>
+<h2>CG8.11 (2008-05-12) Règles pour l'arbitrage des
+différends</h2>
+<h3>CG8.11.1 Interprétation</h3>
+<ol type="1">
+<li value="1">Dans les présentes règles,
+<ul class="no-markers">
+<li>« <dfn>requérant</dfn> » signifie l'entrepreneur;</li>
+<li>« <dfn>coordonnateur</dfn> » signifie la personne désignée
+par le Canada comme coordonnateur de règlement des
+différends.</li>
+<li>« <dfn>intimé</dfn> » signifie le Canada.</li>
+</ul>
+</li>
+</ol>
+<h3>CG8.11.2 Tribunal arbitral</h3>
+<ol type="1">
+<li value="1">Sous réserve des présentes règles et
+sauf entente contraire des parties, le tribunal arbitral se compose
+d'un arbitre unique (« le tribunal »), nommé
+conformément aux présentes règles.</li>
+</ol>
+<h3>CG8.11.3 Application</h3>
+<ol type="1">
+<li value="1">D'un commun accord, les parties peuvent modifier les
+présentes règles ou en ajouter d'autres.</li>
+<li value="2">La portée de la procédure d'arbitrage se
+limite au règlement du différend soumis à
+l'arbitrage.</li>
+<li value="3">Le différend est réglé
+conformément aux présentes règles, que le
+règlement exige ou non la détermination d'une question de
+droit, dans la mesure où celle-ci est une question de droit
+susceptible d'être soumise à l'arbitrage au sens du
+contrat.</li>
+<li value="4">La procédure arbitrale est régie par la
+<cite>Loi sur l’arbitrage commercial</cite>, <abbr title="Lois révisées">L.R.</abbr> 1985, <abbr title="chapitre">ch.</abbr> 17
+(2esuppl.) (le Code), et est tenue en conformité du Code
+auquel réfère cette loi (le Code) et des dispositions des
+présentes règles, et sous réserve uniquement des
+dispositions de la <cite>Loi sur l’arbitrage commercial</cite>, les
+parties conviennent que la décision et la sentence du tribunal
+sont finales et lient les deux parties.</li>
+<li value="5">Le tribunal ne peut trancher le différend <em>ex
+aequo</em> et <em>bono</em> ou à titre d'amiable
+compositeur.</li>
+<li value="6">Le tribunal se prononce conformément aux termes
+et conditions du contrat et tient compte des usages de l'industrie
+applicables à la transaction.</li>
+<li value="7">Les frais du tribunal et de l'arbitrage sont
+assumés à parts égales par les parties, et chacune
+supporte ses propres frais.</li>
+</ol>
+<h3>CG8.11.4 Engagement de la procédure</h3>
+<ol type="1">
+<li value="1">L'une ou l'autre des parties peut soumettre un
+différend à l'arbitrage exécutoire dans la mesure
+prévue à la CG8.6, « Arbitrage exécutoire », en remettant un avis écrit à l'autre partie,
+conformément à la CG2.3, « Avis ».</li>
+<li value="2">L'avis visé à l'alinéa 1) de la
+CG8.11.4 contient les renseignements suivants:
+<ol type="a">
+<li value="1">une description sommaire du contrat;</li>
+<li value="2">un énoncé des questions en litige;</li>
+<li value="3">une demande de renvoi du différend à
+l'arbitrage exécutoire.</li>
+</ol>
+</li>
+<li value="3">Un exemplaire de l'avis visé à
+l'alinéa 1) de la CG8.11.4 est transmis en même temps au
+coordonnateur du règlement des différends (le
+« coordonnateur ») et à l'autre partie.</li>
+<li value="4">À moins d'avis contraire, l'arbitrage est
+suspendu et regroupé avec tous les autres différends en
+une seule session d'arbitrage conformément à
+l'alinéa 4) de la CG8.6.</li>
+</ol>
+<h3>CG8.11.5 Constitution du tribunal</h3>
+<ol type="1">
+<li value="1">Dans les 10 jours ouvrables suivant le début de
+l'arbitrage tel que prévu à l'alinéa 6) de la CG8.6,
+« Arbitrage exécutoire », le coordonnateur remet aux
+parties une liste d'arbitres qualifiés du secteur privé,
+obtenue d'une entité indépendante et impartiale, ainsi
+que des instructions leur demandant de choisir et de classer,
+individuellement et confidentiellement, les arbitres
+suggérés quelles jugent acceptables, selon un ordre de
+préférence.</li>
+<li value="2">Dans les 10 jours ouvrables suivant la réception
+de la liste visée à l'alinéa 1) de la CG8.11.5,
+chaque partie se conforme aux instructions accompagnant la liste et
+remet sa réponse au coordonnateur.</li>
+<li value="3">Dans les 2 jours ouvrables suivant la réception
+des réponses, le coordonnateur sélectionne l'arbitre qui
+a obtenu le rang le plus élevé du classement commun des
+deux parties à titre de tribunal aux fins de l'arbitrage.</li>
+<li value="4">En cas d'égalité, le coordonnateur consulte
+les deux parties afin quelles réévaluent leur choix pour
+l'aider à sélectionner l'arbitre qui leur est acceptable.
+Si les parties ne peuvent s'entendre, le coordonnateur leur remet
+une deuxième liste d'arbitres, et la procédure est
+reprise.</li>
+<li value="5">Si, après la reprise de la procédure, le
+coordonnateur ne réussit toujours pas à sélectionner
+un arbitre unique acceptable aux deux parties, le tribunal sera
+constitué de 3 arbitres, dont un nommé par chaque partie
+et le troisième, par ces 2 arbitres.</li>
+<li value="6">En tout état de cause, le tribunal est
+constitué d'une ou de plusieurs personnes
+expérimentées dans la question faisant l'objet du
+différend et qui sont indépendantes des parties. Sans
+limiter la généralité de ce qui précède,
+le tribunal n'a aucun lien de dépendance avec les deux parties
+et n'est pas composé de membres d'une société, d'un
+cabinet ou d'un organisme qui conseille l'une des deux parties, ni
+d'une personne (ou de personnes) dont les services sont retenus par
+ailleurs de façon régulière par les parties.</li>
+<li value="7">Les parties conviennent de conclure un contrat avec
+le tribunal choisi, lequel est rédigé par le
+coordonnateur et dont les termes et conditions sont convenus par
+les parties.</li>
+<li value="8">Les parties conviennent d'assumer chacune leurs
+propres frais. Les honoraires et les dépenses raisonnables du
+tribunal ainsi que les dépenses raisonnables liées à
+la tenue de l'arbitrage sont assumées à parts égales
+par les parties.</li>
+</ol>
+<h3>CG8.11.6 Rencontre préliminaire</h3>
+<ol type="1">
+<li value="1">Sauf entente contraire des parties à l'arbitrage
+et du tribunal, les parties rencontrent le tribunal dans les 10
+jours ouvrables qui suivent sa constitution, aux fins suivantes:
+<ol type="a">
+<li value="1">fixer le lieu de la procédure et les
+dispositions à prendre par les parties;</li>
+<li value="2">confirmer les adresses de remise des communications
+écrites à chaque partie et au tribunal;</li>
+<li value="3">présenter au tribunal les questions soumises
+à l'arbitrage;</li>
+<li value="4">estimer la durée de l'audience et le nombre de
+témoins probables;</li>
+<li value="5">déterminer la nécessité d'un
+enregistrement sténographique ou autre de la procédure,
+ou la nécessité d'assurer des services particuliers,
+comme l'interprétation, la traduction ou des mesures de
+sécurité;</li>
+<li value="6">déterminer toute autre question pertinente pour
+la tenue de l'arbitrage.</li>
+</ol>
+</li>
+</ol>
+<h3>CG8.11.7 Communications</h3>
+<ol type="1">
+<li value="1">Sous réserve de l'alinéa 2) de la CG8.11.7,
+le tribunal ne peut communiquer avec une partie impliquée dans
+le différend sauf en présence de l'autre partie.</li>
+<li value="2">Nonobstant l'alinéa 1) de la CG8.11.7, le
+tribunal peut communiquer séparément avec les parties
+afin d'établir les procédures ou de fixer l'heure d'une
+rencontre; tout autre exception à la règle
+générale n'aura lieu qu'avec le consentement écrit
+de toutes les parties.</li>
+<li value="3">Si le tribunal envoie une communication écrite
+à une partie, il en envoie un exemplaire à l'autre
+partie.</li>
+<li value="4">Si une partie envoie une communication écrite au
+tribunal, elle en envoie également un exemplaire à
+l'autre partie.</li>
+<li value="5">Toute communication devant ou pouvant être
+donnée au tribunal ou à l'une des parties doit être
+écrite et peut être transmise par télécopieur
+ou par courrier affranchi à l'adresse établie aux fins du
+contrat dans le cas des parties et à l'adresse fournie par le
+tribunal dans le cas de ce dernier; une telle communication ainsi
+transmise est réputée reçue conformément à
+la CG2.3, « Avis ».</li>
+</ol>
+<h3>CG8.11.8 Représentation</h3>
+<ol type="1">
+<li value="1">Les parties peuvent être représentées
+ou assistées par toute personne durant l'arbitrage.</li>
+</ol>
+<h3>CG8.11.9 Règles de procédure</h3>
+<ol type="1">
+<li value="1">Sous réserve des présentes règles, le
+tribunal peut mener l'arbitrage de la façon qu'il juge
+appropriée. Il a notamment le pouvoir de déterminer la
+recevabilité, la pertinence, l'importance et la valeur
+probante de toute preuve produite.</li>
+</ol>
+<h3>CG8.11.10 Lieu de l'arbitrage</h3>
+<ol type="1">
+<li value="1">Le tribunal peut se réunir en tout lieu qu'il
+juge approprié pour l'audition des témoins, des experts
+ou des parties, ou pour l'inspection de documents, de marchandises
+ou d'autres biens. Il procédera à une inspection des
+lieux à la demande de l'une des parties. Toute inspection des
+lieux est faite en présence des deux parties et de leurs
+représentants. La procédure d'inspection des lieux est
+enregistrée et fait partie intégrante de l'audience.</li>
+</ol>
+<h3>CG8.11.11 Délais</h3>
+<ol type="1">
+<li value="1">Le tribunal peut prolonger ou abréger un
+délai visé par les présentes règles, ou qu'il a
+lui-même fixé ou déterminé, s'il considère
+qu'il est raisonnable et approprié de ce faire.</li>
+<li value="2">S'il est mis à l'arbitrage conformément aux
+alinéas 25a) ou 32(2)a) du Code visé par la <cite>Loi sur l’arbitrage commercial</cite>, cette clôture est
+réputée une sentence finale rejetant la demande du
+requérant, sauf si l'intimé convient du contraire par
+écrit.</li>
+</ol>
+<h3>CG8.11.12 Demande et défense</h3>
+<ol type="1">
+<li value="1">Dans les 10 jours ouvrables suivant la constitution
+du tribunal, le requérant énonce par écrit les faits
+à l'appui de sa demande, les questions en litige et le
+remède recherché, et il remet la demande à
+l'intimé, au coordonnateur et au tribunal.</li>
+<li value="2">Dans les 10 jours ouvrables suivant la réception
+de la demande, l'intimé énonce par écrit sa
+défense relativement à ces éléments et
+relativement à toute contre-réclamation et, remet
+celle-ci au requérant, au coordonnateur et au tribunal.</li>
+<li value="3">Dans les 5 jours ouvrables suivant la réception
+de la défense, le requérant peut énoncer par
+écrit sa réponse à la défense et la remettre
+à l'intimé, au coordonnateur et au tribunal.</li>
+<li value="4">Toute partie peut modifier ou compléter sa
+demande ou sa défense pendant la procédure arbitrale,
+sauf si le tribunal estime qu'il est inapproprié de ce faire
+compte tenu de toutes les circonstances, notamment le retard à
+présenter la demande ou les modifications.</li>
+<li value="5">Une demande ou une défense ne peut être
+modifiée si cette modification n'est pas visée par
+l'étendue de l'arbitrage.</li>
+</ol>
+<h3>CG8.11.13 Autres déclarations écrites</h3>
+<ol type="1">
+<li value="1">Le tribunal peut exiger ou autoriser la
+présentation d'autres déclarations écrites des
+parties et en fixer le délai de production.</li>
+</ol>
+<h3>CG8.11.14 Exposé conjoint des faits</h3>
+<ol type="1">
+<li value="1">Dans le délai précisé par le tribunal,
+les parties rédigent et déposent auprès du tribunal
+un exposé conjoint des faits, incluant notamment une
+chronologie du projet, les échéanciers, les
+quantités et les paiements progressifs. Le tribunal se rend
+disponible, sur un avis raisonnable, pour aider les parties à
+s'entendre sur le plus grand nombre de faits possible dans les
+circonstances.</li>
+<li value="2">Dans le délai précisé par le tribunal,
+les parties rédigent et déposent auprès du tribunal
+un dossier conjoint de documents, notamment tous les documents
+mentionnés dans l'exposé conjoint des faits, la demande,
+la défense et la réponse.</li>
+</ol>
+<h3>CG8.11.15 Preuve</h3>
+<ol type="1">
+<li value="1">Chaque partie établit les faits
+énoncés à l'appui de sa demande ou de sa
+défense.</li>
+<li value="2">Chaque partie remet au tribunal et à l'autre
+partie, dans le délai fixé par le tribunal, un exemplaire
+des documents et un résumé des autres éléments
+de preuves quelle a l'intention de produire à l'appui des
+faits en litige qui sont énoncés dans sa demande, sa
+défense ou sa réponse.</li>
+<li value="3">Le tribunal peut à l'occasion obliger les
+parties à produire des documents, des pièces et d'autres
+éléments de preuve dans les délais qu'il
+détermine.</li>
+</ol>
+<h3>CG8.11.16 Audiences</h3>
+<ol type="1">
+<li value="1">Toute demande, défense, document ou autre
+renseignement fourni, ou requête présenté au
+tribunal par une partie est communiqué à l'autre, et tout
+rapport d'expert ou preuve documentaire sur lequel le tribunal peut
+fonder sa décision est communiqué à l'autre partie,
+au moins 8 jours ouvrables avant leur production.</li>
+<li value="2">Les parties sont informées suffisamment à
+l'avance de la tenue de toute audience du tribunal et de toute
+rencontre avec celui-ci, aux fins de l'inspection de documents,
+marchandises ou autres biens.</li>
+<li value="3">Si une partie a l'intention de présenter un
+témoin, elle communique au tribunal et à l'autre partie,
+dans le délai fixé par le tribunal,
+<ol type="a">
+<li value="1">les nom, adresse et curriculum vitae de chaque
+témoin quelle a l'intention de faire entendre;</li>
+<li value="2">l'objet de leur témoignage.</li>
+</ol>
+</li>
+<li value="4">Chaque partie a le droit d'interroger, de
+contre-interroger et de réinterroger tous les témoins, au
+besoin.</li>
+<li value="5">Toutes les audiences et les rencontres d'une
+procédure arbitrale sont tenues à huis clos.</li>
+</ol>
+<h3>CG8.11.17 Défaut</h3>
+<ol type="1">
+<li value="1">Lorsque le requérant ne présente pas sa
+demande conformément aux présentes règles ou dans le
+délai fixé par le tribunal en vertu de ces règles,
+à défaut de démontrer un empêchement
+légitime, le tribunal rend une ordonnance mettant fin à
+la procédure arbitrale relativement à cette demande.</li>
+<li value="2">L'ordonnance visée à l'alinéa 1) de la
+CG8.11.17 ne vise pas une demande reconventionnelle
+présentée dans le cadre cette procédure
+arbitrale.</li>
+<li value="3">Lorsque l'intimé ne présente pas sa
+défense conformément aux présentes règles ou
+dans le délai fixé par le tribunal en vertu de ces
+règles, à défaut de démontrer un
+empêchement légitime, le tribunal poursuit la
+procédure arbitrale sans que ce défaut soit
+considéré comme constituant une admission des
+allégations du requérant.</li>
+<li value="4">Lorsque l'une des parties omet de comparaître
+à l'audience ou de produire des documents, à défaut
+de démontrer un empêchement légitime, le tribunal
+peut poursuivre la procédure et rendre la sentence arbitrale
+sur la base des éléments de preuve dont il dispose.</li>
+</ol>
+<h3>CG8.11.18 Sentence arbitrale</h3>
+<ol type="1">
+<li value="1">Sauf entente contraire des parties, le tribunal rend
+la sentence dans les 30 jours suivant la clôture des audiences
+arbitrales sauf si, pour cause de maladie ou tout autre raison
+indépendante de sa volonté, il prolonge le délai
+pour une période déterminée, en remettant un avis
+écrit à chaque partie.</li>
+</ol>
+</div></pre>

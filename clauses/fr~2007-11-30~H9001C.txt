@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la période du contrat 
+s'étend sur une période de plus d'une année financière et le ministère client 
+exige que le financement maximum pour chaque année financière soit limité.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Malgré le coût estimatif total (Limitation des
+dépenses) précisé au contrat et à moins d'une
+autorisation écrite à l'effet contraire de
+l'autorité contractante, le montant maximum qui pourra
+être payé pour les travaux complétés pour la
+période prenant fin le 31 mars de chaque année est
+établi comme suit :</p>
+<ul class="no-markers"><li>Période du 1er avril 20<var>___</var> au 31 mars
+20<var>___</var> : <var>__________</var> $</li>
+<li>Période du 1er avril 20<var>___</var> au 31 mars
+20<var>___</var> : <var>__________</var> $</li>
+<li>Période du 1er avril 20<var>___</var> au 31 mars
+20<var>___</var> : <var>__________</var> $.</li>
+</ul>
+</div></pre>

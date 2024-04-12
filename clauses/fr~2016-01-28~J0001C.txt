@@ -1,0 +1,81 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante pour résilier le contrat dans son entier pour des 
+raisons de commodité lorsqu'on s'attend à une réclamation de la part de 
+l'entrepreneur.
+ </p>
+<p>
+  Utiliser l'option 1 lorsque seules les conditions générales s'appliquent au 
+contrat.
+ </p>
+<p>
+  Utiliser l'option 2 lorsque les conditions générales supplémentaires
+  
+   4001
+  
+  ou
+  
+   4005
+  
+  s'appliquent au contrat.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter les Services juridiques 
+avant d'émettre un avis de résiliation pour des raisons de commodité.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le présent avis donne suite à l'Ordre d'arrêt des
+travaux en date du <span class="input-required"><var>_______</var>
+<kbd>(<em>supprimer ce paragraphe si un Ordre d'arrêt des travaux
+n'a pas été envoyé par l'autorité
+contractante</em>)</kbd></span>.</p>
+<h2>Option 1</h2>
+<p>Conformément au droit absolu du Canada de résilier le
+contrat pour des raisons de commodité, l'autorité
+contractante avise l'entrepreneur que le contrat est
+résilié pour des raisons de commodité en vertu de
+l'article <var>____</var>, Résiliation pour raisons de
+commodité, des conditions générales
+<var>_______</var>.</p>
+<p>L'entrepreneur est prié de soumettre à l'autorité
+contractante, pour examen, toute réclamation que
+l'entrepreneur pourrait avoir suite à cette résiliation.
+La réclamation doit être présentée sur les
+formulaires ministériels de réclamation pour
+résiliation, lesquels peuvent être obtenus en soumettant
+une demande par écrit à l'autorité contractante. Les
+réclamations pour résiliation devraient être
+préparées et présentées le plus rapidement
+possible. Les coûts admissibles sont prévus dans la
+clause ci-haut mentionnée. La procédure de
+résiliation est décrite dans le <cite>Manuel de
+procédures sur la résiliation des contrats</cite> qui sera
+fourni par l'autorité contractante. La réclamation et
+toute correspondance connexe doivent être adressées
+à l'autorité contractante.</p>
+<h2>Option 2</h2>
+<p>Conformément au droit absolu du Canada de résilier le
+contrat pour des raisons de commodité, l'autorité
+contractante avise l'entrepreneur que le contrat est
+résilié pour des raisons de commodité en vertu de
+l'article <var>____</var>, Résiliation pour raisons de
+commodité, des conditions générales
+supplémentaires <var>_______</var>.</p>
+<p>L'entrepreneur est prié de soumettre à l'autorité
+contractante, pour examen, toute réclamation que
+l'entrepreneur pourrait avoir suite à cette résiliation.
+La réclamation doit être présentée sur les
+formulaires ministériels de réclamation pour
+résiliation, lesquels peuvent être obtenus en soumettant
+une demande par écrit à l'autorité contractante. Les
+réclamations pour résiliation devraient être
+préparées et présentées le plus rapidement
+possible. Les coûts admissibles sont prévus dans la
+clause ci-haut mentionnée. La procédure de
+résiliation est décrite dans le <cite>Manuel de
+procédures sur la résiliation des contrats</cite> qui sera
+fourni par l'autorité contractante. La réclamation et
+toute correspondance connexe doivent être adressées
+à l'autorité contractante.</p>
+</div></pre>

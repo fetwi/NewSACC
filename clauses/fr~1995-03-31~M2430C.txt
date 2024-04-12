@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans une «modification de l'offre à commandes et de 
+l'autorisation de commander» lorsque le pouvoir de passer des commandes est 
+retiré. Cette clause ne doit PAS être utilisée dans les cas où un manquement est 
+la raison du retrait de l'autorisation. Utiliser cette clause conjointement avec 
+une clause relative aux utilisateurs identifiés.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les utilisateurs identifiés sont, par la présente, avisés qu'ils ne sont 
+plus autorisés à passer des commandes dans le cadre de l'offre à commandes 
+no _____, à compter du _____.  Les commandes passées avant cette date 
+demeurent un vigueur.  
+
+</pre>

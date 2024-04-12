@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque des biens du gouvernement 
+américain sont fournis.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Outre les responsabilités particulières
+décrites aux annexes « B », « C » et
+« H » de la « <span lang="en-CA"><cite>Federal Acquisition Regulation</cite></span> »
+des États-Unis, l'entrepreneur sera tenu responsable de tout
+bien du gouvernement américain dont les titres de
+propriété sont acquis à ce dernier, reçu ou
+acquis par l'entrepreneur en vertu du présent contrat, y
+compris ceux en possession d'un sous-traitant.</li>
+<li value="2">Le système de contrôle des biens de
+l'entrepreneur doit recevoir l'approbation des Services de la
+gestion des biens de production, Secteur des systèmes
+aérospatiaux, maritimes et électroniques, ministère
+des Travaux publics et des Services gouvernementaux, Ottawa
+(Ontario), à qui toute question relative aux commandes, au
+dédouanement, à l'entretien, etc., doit être
+déférée.</li>
+</ol>
+</div></pre>

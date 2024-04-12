@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsque la clause E0004T est utilisée pour exiger une sécurité financière de soumission, mais aucune garantie financière contractuelle est exigée dans les clauses de contrat subséquent.
+ </p>
+<p>
+  Voir la clause
+  
+   E0003T
+  
+  lorsque
+  
+   E0004T
+  
+  est utilisée et qu'une garantie financière contractuelle est aussi exigée.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   E0004T
+  
+  .
+ </p>
+<p>
+  Pour plus de renseignements, consulter l'article
+  
+   7.50
+  
+  et l'
+  
+   Annexe 5.2
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada conservera le dépôt de garantie comme garantie pour conclure un contrat. Si un soumissionnaire retenu refuse de conclure un contrat, le montant du dépôt de garantie sera confisqué par le Canada, ou une demande de paiement sera faite sur la lettre de crédit par le Canada. Le montant confisqué ou la demande de paiement n'excédera pas la différence entre le prix de la soumission et le montant du contrat attribué par le Canada pour le besoin.</li>
+<li value="2">Le Canada retournera tous les dépôts de garantie non confisqués après l'attribution d'un contrat, ou si aucun contrat n'est attribué, à la fin de la
+période de validité de la soumission, incluant toute prolongation.</li>
+</ol>
+</div></pre>

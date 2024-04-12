@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de production en vertu duquel des 
+données doivent être fournies.
+ </p>
+<p>
+  Nota : Puisque les procédures ordinaires ne s'appliquent pas en ce cas, l'agent 
+de négociation des contrats de Travaux publics et Services gouvernementaux 
+Canada doit prendre les arrangements nécessaires en vue de l'inspection avec 
+l'agent de négociation des contrats américain désigné dans le contrat américain, 
+ou avec l'inspecteur de l'assurance de la qualité du ministère de la Défense 
+nationale si l'inspection des données doit être faite à la source.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Avant de procéder à la préparation de projets de
+livrets, dessins publications et autres données techniques qui
+devront être fournies en vertu de présent contrat,
+l'entrepreneur doit communiquer avec l'autorité contractante
+de la Corporation commerciale canadienne qui fera le
+nécessaire auprès de l'organisme américain
+compétent pour ce qui est de l'interprétation des
+spécifications et de l'inspection préliminaire des
+projets.</p>
+</div></pre>

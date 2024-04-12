@@ -1,0 +1,73 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-06-21R1240Dservices-retires-a-l-expert-conseil">CG7.1 Services retirés à l'expert-conseil</a></li>
+<li><a href="#2018-06-21R1240Dsuspension">CG7.2 Suspension</a></li>
+<li><a href="#2018-06-21R1240Dresiliation">CG7.3 Résiliation</a></li>
+</ul>
+</div>
+<h2 id="2018-06-21R1240Dservices-retires-a-l-expert-conseil"><span class="clauseRef">R1240D</span> CG7.1 (2011-05-16)
+Services retirés à l'expert-conseil</h2>
+<ol type="1">
+<li value="1">Le Canada peut retirer à l'expert-conseil la
+totalité ou une partie des services et prendre les moyens
+nécessaires qu'il considère raisonnables pour en assurer
+la prestation si :
+<ol type="a">
+<li value="1">l'expert-conseil est devenu insolvable ou a commis un
+acte de faillite, et n'a pas fait une proposition aux
+créanciers de l'expert-conseil, ni présenté un avis
+d'intention de faire une telle proposition en vertu de la <cite>Loi sur la faillite et l’insolvabilité</cite>; ou</li>
+<li value="2">l'expert-conseil ne remplit pas l'une ou l'autre des
+obligations précisées dans l'entente ou si, de l'avis du
+Canada, la prestation des services laisse tellement à
+désirer que l'expert-conseil risque de ne pas être en
+mesure de respecter les modalités de l'entente.</li>
+</ol>
+</li>
+<li value="2">Si l'expert-conseil qui est devenu insolvable ou qui
+a commis un acte de faillite, a soit fait une proposition aux
+créanciers de l'expert-conseil, soit présenté un
+avis d'intention d'en faire une conformément à la
+<cite>Loi sur la faillite et l’insolvabilité</cite>, il doit
+immédiatement donner copie de la proposition ou de l'avis
+d'intention à l'autorité contractante.</li>
+<li value="3">Avant que la totalité ou une partie des services
+ne soit retirée à l'expert-conseil, en conformité
+avec l'alinéa 1.b) ci-dessus, le représentant du
+Ministère avise l'expert-conseil et peut exiger que des
+mesures soient prises pour corriger la situation. Si, quatorze (14)
+jours après réception d'un avis la situation n'est pas
+corrigée ou si des mesures correctives ne sont pas prises, le
+Canada peut, sur avis, sans limiter tout autre droit ou recours,
+retirer en totalité ou en partie les services à
+l'expert-conseil.</li>
+<li value="4">Si la totalité ou une partie des services lui
+est retirée, l'expert-conseil est tenu, sur demande,
+d'indemniser le Canada de la totalité des pertes et dommages
+qu'il aura subis en raison de l'inexécution des services.</li>
+<li value="5">Si l'expert-conseil n'indemnise pas le Canada sur
+demande des pertes ou dommages visés au paragraphe 4, celui-ci
+pourra déduire et retenir le montant de ces pertes ou dommages
+de toute somme qu'il lui doit.</li>
+<li value="6">Le retrait de la totalité ou d'une partie des
+services n'a pas pour effet de libérer l'expert-conseil des
+obligations qui lui sont imposées par l'entente ou la loi
+relativement à la totalité ou une partie des services
+qu'il a déjà fournis.</li>
+</ol>
+<h2 id="2018-06-21R1240Dsuspension"><span class="clauseRef">R1240D</span> CG7.2 (2018-06-21)
+Suspension</h2>
+<ol type="1">
+<li value="1">Le Canada peut, à sa seule et entière discrétion, suspendre la prestation de la totalité ou d’une partie des services pour une durée déterminée ou indéterminée, en donnant un avis écrit de suspension à l’expert-conseil. Ce dernier n’aura droit à aucun montant pour une suspension, outre le montant payable à l’expert-conseil, s’il y a lieu, conformément aux dispositions relatives aux frais de suspension prévues à l’article CG 5.10. </li>
+<li value="2">Si la suspension ne dépasse pas soixante (60) jours et si, ajoutée à d’autres suspensions, elle ne dépasse pas quatre-vingt-dix (90) jours, l’expert-conseil doit reprendre, à l’expiration de cette suspension, la prestation des services en conformité avec l’entente.</li>
+<li value="3">Si la suspension dépasse soixante (60) jours ou, lorsqu’ajoutée à d’autres suspensions, dépasse quatre-vingt-dix (90) jours, le Canada et l’expert-conseil peuvent convenir de la reprise des services par l’expert-conseil, et ce dernier reprendra la prestation des services, sous réserve des modalités convenues  par écrit par le Canada et l’expert-conseil.<br/>Si le Canada et l’expert-conseil ne conviennent pas de la reprise des services par l’expert-conseil, ou qu’ils ne s’entendent pas sur les modalités selon lesquelles l’expert-conseil continuera de prodiguer les services, l’avis de suspension est réputé constituer un avis de résiliation conformément aux modalités de l’article CG 7.3. Aux fins de clarté, les frais de résiliation à l’article CG 5.11 s’appliqueront sans dédoubler les dispositions liées aux frais de suspension à l’article CG 5.10.
+</li>
+</ol>
+<h2 id="2018-06-21R1240Dresiliation"><span class="clauseRef">R1240D</span> CG7.3 (2018-06-21)
+Résiliation</h2>
+<p>Le Canada peut résilier, à sa seule et entière discrétion, l’entente en tout temps en donnant un avis de résiliation par écrit à l’expert-conseil. Ce dernier n’aura droit à aucun montant pour une résiliation, outre le montant payable à l’expert-conseil, s’il y a lieu, conformément aux dispositions relatives aux frais de résiliation prévues à l’article CG 5.11.</p>
+</div></pre>

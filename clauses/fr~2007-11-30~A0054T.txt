@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsqu'un format précis est demandé.
+ </p>
+<p>
+  Utiliser la clause suivante seulement lorsque le modèle pour les besoins de complexité moyenne (2T-MED1) ou plus complexes (2T-HIGH1) n'est pas utilisé. Les agents de négociation des contrats doivent consulter les procédures 2T-PROC1 afin de confirmer qu'ils ne peuvent pas utiliser le modèle pour le besoin.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le Canada demande que les soumissionnaires suivent les instructions de présentation décrites ci-après pour préparer leur soumission.</p>
+<ol type="a">
+<li value="1">utiliser du papier de 8,5 po x 11 po (216 mm x 279 mm);</li>
+<li value="2">utiliser un système de numérotation correspondant à celui de la demande de soumissions;
+<br/><span class="description"><strong>Instruction aux agents de négociation des contrats</strong> : Insérer le texte suivant lorsque la demande de soumissions contient des attestations que les soumissionnaires doivent fournir.</span>
+</li>
+<li value="3">inclure les attestations dans une section distincte de la soumission.</li>
+</ol>
+</div></pre>

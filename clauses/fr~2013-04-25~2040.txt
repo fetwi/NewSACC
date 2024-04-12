@@ -1,0 +1,1671 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>01 Interprétation</p>
+<p>02 Clauses et conditions uniformisées</p>
+<p>03 Pouvoirs du Canada</p>
+<p>04 Situation juridique de l'entrepreneur</p>
+<p>05 Exécution des travaux</p>
+<p>06 Contrats de sous-traitance</p>
+<p>07 Spécifications</p>
+<p>08 Condition du matériel</p>
+<p>09 Remplacement d'individus
+spécifiques</p>
+<p>10 Rigueur des délais</p>
+<p>11 Retard justifiable</p>
+<p>12 Inspection et acceptation des travaux</p>
+<p>13 Présentation des factures</p>
+<p>14 Taxes</p>
+<p>15 Frais de transport</p>
+<p>16 Responsabilité du tranporteur</p>
+<p>17 Documentation d'envoi</p>
+<p>18 Période de paiement</p>
+<p>19 Intérêt sur les comptes en
+souffrance</p>
+<p>20 Conformité aux lois applicables</p>
+<p>21 Droit de propriété</p>
+<p>22 Garantie</p>
+<p>23 Confidentialité</p>
+<p>24 Utilisation et traduction de matériel
+écrit</p>
+<p>25 Biens de l'État</p>
+<p>26 Responsabilité</p>
+<p>27 Atteinte aux droits de propriété
+intellectuelle et redevances</p>
+<p>28 Dossiers et divulgation des renseignements
+originaux</p>
+<p>29 Droits de propriété
+intellectuelle sur les renseignements originaux</p>
+<p>30 Licences concernant les droits de
+propriété intellectuelle sur les renseignements originaux
+et les renseignements de base</p>
+<p>31 Droits de l'entrepreneur d'accorder des
+licences</p>
+<p>32 Renonciation aux droits moraux</p>
+<p>33 Licence concernant les droits de
+propriété intellectuelle sur les renseignements du
+Canada</p>
+<p>34 Transfert ou licence des droits de
+l'entrepreneur</p>
+<p>35 Transfert des droits de propriété
+intellectuelle en cas de résiliation du contrat pour
+manquement</p>
+<p>36 Produits créés en utilisant les
+renseignements originaux</p>
+<p>37 Modification et renonciations</p>
+<p>38 Cession</p>
+<p>39 Suspension des travaux</p>
+<p>40 Manquement de la part de l'entrepreneur</p>
+<p>41 Résiliation pour raisons de
+commodité</p>
+<p>42 Comptes et vérification</p>
+<p>43 Droit de compensation</p>
+<p>44 Avis</p>
+<p>45 Conflits d'intérêts et codes de
+valeurs et d'éthique pour la fonction publique</p>
+<p>46 Pots-de-vin</p>
+<p>47 Prorogation</p>
+<p>48 Dissociabilité</p>
+<p>49 Successeurs et cessionnaires</p>
+<p>50 Honoraires conditionnels</p>
+<p>51 Sanctions internationales</p>
+<p>52 Code de conduite et attestations - contrat</p>
+<p>53 Exhaustivité de la convention</p>
+<p>54 Accès à l'information</p>
+</div>
+<h2>2040 01 (2013-04-25) Interprétation</h2>
+<ol type="1">
+<li value="1">Dans le contrat, à moins que le contexte
+n'indique un sens différent :
+
+
+<p><dfn>« articles de convention »</dfn> désigne les clauses et
+conditions reproduites en entier ou incorporées par renvoi
+à partir du guide des <cite>Clauses et conditions
+uniformisées d'achat</cite> pour former le corps du contrat;
+cela ne comprend pas les présentes conditions
+générales, les conditions générales
+supplémentaires, les annexes, la soumission de l'entrepreneur,
+ou tout autre document;</p>
+<p><dfn>« autorité contractante »</dfn> désigne la personne
+désignée comme tel dans le contrat, ou dans un avis
+à l'entrepreneur, pour représenter le Canada dans
+l'administration du contrat;</p>
+<p><dfn>« biens de l'État »</dfn> désigne tout ce qui est
+fourni à l'entrepreneur par ou pour le Canada, aux fins de
+l'exécution du contrat et tout ce que l'entrepreneur acquiert,
+d'une manière ou d'une autre, relativement aux travaux, dont
+le coût est payé par le Canada en vertu du contrat;</p>
+<p><dfn>« biens livrables »</dfn> désigne les renseignements
+techniques ou les objets, notamment les équipements ou les
+prototypes, élaborés en application du contrat, que
+l'entrepreneur est expressément tenu de livrer en
+exécution de ses obligations aux termes du contrat;</p>
+<p><dfn>« Canada »</dfn>, <dfn>«  Couronne »</dfn>, <dfn>«  Sa
+Majesté »</dfn> ou <dfn>«  État »</dfn> désigne Sa
+Majesté la Reine du chef du Canada, représentée par
+le ministre des Travaux publics et des Services gouvernementaux et
+toute autre personne dûment autorisée à agir au nom
+de ce ministre ou, s'il y a lieu, un ministre auquel le ministre
+des Travaux publics et des Services gouvernementaux a
+délégué ses pouvoirs ou ses fonctions et toute autre
+personne dûment autorisée à agir au nom de ce
+ministre;</p>
+<p><dfn>« contrat »</dfn> désigne les articles de convention, les
+présentes conditions générales, toutes conditions
+générales supplémentaires, annexes et tout autre
+document intégré par renvoi, tous tels que modifiés
+de temps à autre avec le consentement des parties;</p>
+<p><dfn>« coût »</dfn> désigne le coût établi
+conformément aux Principes des coûts contractuels 1031-2
+en vigueur à la date de la demande de soumissions ou, s'il n'y
+a pas eu de demande de soumissions, à la date du contrat;</p>
+<p><dfn>« Coût estimatif total »</dfn>, <dfn>« coût estimatif révisé »</dfn>, <dfn>« augmentation (diminution) »</dfn> à la page 1 du contrat ou modification au contrat signifie un montant utilisé à des fins administratives internes seulement qui comprend le prix contractuel, ou le prix contractuel révisé, ou le montant qui augmenterait ou diminuerait le prix contractuel et les taxes applicables, conformément à l’évaluation de l’autorité contractante; il ne s'agit pas d'une opinion fiscale de la part du Canada;
+</p>
+<p><dfn>« droit de propriété intellectuelle »</dfn>
+désigne tout droit de propriété intellectuelle
+reconnu par la loi, incluant tout droit de propriété
+intellectuelle protégé par la loi, telles les lois qui
+régissent les brevets, les droits d'auteur, les dessins
+industriels, les topographies de circuits intégrés et les
+droits d'obtentions végétales, ou faisant l'objet d'une
+protection en vertu de la loi, comme les secrets industriels ou les
+renseignements confidentiels;</p>
+<p><dfn>« entrepreneur »</dfn> désigne la personne, l'entité
+ou les entités dont le nom figure au contrat pour fournir au
+Canada des biens, des services ou les deux;</p>
+<p><dfn>« logiciel »</dfn> désigne tout programme informatique, en
+code source ou en code objet (incluant les micrologiciels), toute
+documentation des programmes informatiques enregistrée sous
+quelque forme ou sur quelque support que ce soit, et toute base de
+données informatisées, incluant toute modification;</p>
+<p><dfn>« micrologiciel »</dfn> désigne tout programme
+informatique entreposé dans des circuits intégrés,
+la mémoire fixe ou tout autre dispositif semblable faisant
+partie du matériel ou autre équipement;</p>
+<p><dfn>« partie »</dfn> désigne le Canada ou l'entrepreneur ou
+tout autre signataire du contrat; <dfn>« parties »</dfn> désigne
+l'ensemble de ceux-ci;</p>
+<p><dfn>« prix contractuel »</dfn> désigne la somme mentionnée au contrat payable à l'entrepreneur pour les travaux, excluant les taxes applicables;</p>
+<p><dfn>« propriété intellectuelle »</dfn> désigne toute
+information ou connaissance de nature industrielle, scientifique,
+technique, commerciale, littéraire, dramatique, artistique ou
+qui touche la créativité dans le cadre des travaux,
+qu'elle soit communiquée oralement ou enregistrée sous
+toute forme ou sur tout support, sans égard à ce qu'elle
+fasse ou non l'objet de droits d'auteur; cela comprend, sans s'y
+limiter, les inventions, les concepts, les méthodes, les
+processus, les techniques, le savoir-faire, les
+démonstrations, les modèles, les prototypes, les
+maquettes, les échantillons, les schémas, les
+données provenant d'expériences ou d'essais, les
+rapports, les dessins, les plans, les spécifications, les
+photographies, les manuels et tout autre document, les logiciels et
+les micrologiciels;</p>
+<p><dfn>« renseignements de base »</dfn> désigne toute
+propriété intellectuelle autre que les renseignements
+originaux qui est incorporée dans les travaux ou
+nécessaire à l'exécution des travaux, qui est la
+propriété de l'entrepreneur, de ses sous-traitants ou de
+tout autre tiers et qui est tenue confidentielle par eux;</p>
+<p><dfn>« renseignements originaux »</dfn> désigne toute
+propriété intellectuelle conçue,
+développée, produite ou mise en application pour la
+première fois dans le cadre des travaux prévus au
+contrat;</p>
+<p><dfn>« spécifications »</dfn> désigne la description des
+exigences essentielles, fonctionnelles ou techniques liées aux
+travaux, y compris les procédures permettant de
+déterminer si les exigences ont été
+respectées.</p>
+<p><dfn>« Taxes applicables »</dfn> signifie la taxe sur les produits et services (TPS), la taxe de vente harmonisée (TVH) et toute taxe provinciale payable par le Canada selon la loi, tel que la taxe de vente du Québec (TVQ) à compter du 1er avril 2013;
+</p>
+<p><dfn>« travaux »</dfn> désigne les activités, services,
+biens, équipements, choses et objets que l'entrepreneur doit
+exécuter, livrer ou fournir en vertu du contrat.</p>
+</li>
+<li value="2">Toute référence au droit de
+propriété ou autres droits de l'entrepreneur sur les
+renseignements originaux dans ces conditions générales
+concerne les droits de l'entrepreneur, de ses sous-traitants,
+fournisseurs, agents, représentants ou leurs employés,
+selon le cas.</li>
+</ol>
+<h2>2040 02 (2008-05-12) Clauses et conditions
+uniformisées</h2>
+<p>Conformément à la <cite>Loi sur le ministère des Travaux publics et des Services gouvernementaux</cite>, <abbr title="Lois du Canada">L.C.</abbr>, 1996,
+<abbr title="chapitre">ch.</abbr> 16, les clauses et conditions identifiées par un
+numéro, une date et un titre dans le contrat sont
+incorporées par renvoi et font partie intégrante du
+contrat comme si elles y étaient formellement reproduites.</p>
+<h2>2040 03 (2008-05-12) Pouvoirs du Canada</h2>
+<p>Tous les droits, recours, pouvoirs et pouvoirs
+discrétionnaires accordés ou acquis par le Canada en
+vertu du contrat ou d'une loi sont cumulatifs et non exclusifs.</p>
+<h2>2040 04 (2008-05-12) Situation juridique de l'entrepreneur</h2>
+<p>L'entrepreneur est retenu à titre d'entrepreneur
+indépendant engagé par le Canada pour exécuter les
+travaux. Rien dans le contrat n'a pour objet de créer un
+partenariat, une coentreprise ou mandat entre le Canada et l'autre
+ou les autres parties. L'entrepreneur ne doit se présenter
+à quiconque comme un agent ou un représentant du Canada.
+Ni l'entrepreneur ni ses employés ne constituent des
+employés, des préposés ou des mandataires du Canada.
+L'entrepreneur doit effectuer toutes les déductions et tous
+les versements exigés par la loi relativement à ses
+employés.</p>
+<h2>2040 05 (2012-03-02) Exécution des travaux</h2>
+<ol type="1">
+<li value="1">L'entrepreneur déclare et atteste ce qui suit :
+<ol type="a">
+<li value="1">il a la compétence pour exécuter les
+travaux;</li>
+<li value="2">il dispose de tout ce qui est nécessaire pour
+exécuter les travaux, y compris les ressources, les
+installations, la main-d'œuvre, la technologie, l'équipement et les matériaux;
+et</li>
+<li value="3">il a les qualifications nécessaires, incluant la
+connaissance, les aptitudes, le savoir faire et l'expérience,
+et l'habileté de les utiliser efficacement pour exécuter
+les travaux.</li>
+</ol>
+</li>
+<li value="2">L'entrepreneur doit :
+<ol type="a">
+<li value="1">exécuter les travaux de manière diligente
+et efficace;</li>
+<li value="2">sauf pour les biens de l'État, fournir tout ce
+qui est nécessaire pour exécuter les travaux;</li>
+<li value="3">au minimum, appliquer les procédures d'assurance
+de la qualité et effectuer les inspections et les
+contrôles généralement utilisés et reconnus
+dans l'industrie afin d'assurer le degré de qualité
+exigé en vertu du contrat;</li>
+<li value="4">sélectionner et engager un nombre suffisant de
+personnes qualifiées;</li>
+<li value="5">exécuter les travaux conformément aux
+normes de qualité jugées acceptables par le Canada et en
+pleine conformité avec les spécifications et toutes les
+exigences du contrat;</li>
+<li value="6">surveiller la réalisation des travaux de
+façon efficiente et efficace en vue de s'assurer que la
+qualité de leur exécution est conforme à celle
+énoncée dans le contrat.</li>
+</ol>
+</li>
+<li value="3">Les travaux ne doivent pas être exécutés par des personnes qui, de l'avis du Canada, sont incompétentes ou ne se sont pas conduites convenablement ou de façon appropriée.</li>
+<li value="4">Tous les services rendus en vertu du contrat devront,
+au moment de l'acceptation, être libres de vices
+d'exécution et satisfaire aux exigences du contrat. Si
+l'entrepreneur doit corriger ou remplacer les travaux ou une partie
+de ceux-ci, il le fait à ses frais.</li>
+<li value="5">L'entrepreneur ne peut pas utiliser les
+installations, l'équipement ou le personnel du Canada pour
+exécuter les travaux à moins que le contrat le
+prévoie explicitement. L'entrepreneur doit le faire savoir
+d'avance à l'autorité contractante s'il doit avoir
+accès aux installations, à l'équipement ou au
+personnel du Canada pour exécuter les travaux. L'entrepreneur
+doit accepter de se conformer, et doit voir à ce que ses
+employés et ses sous-traitants se conforment, à tous les
+ordres permanents, mesures de sécurité, politiques et
+autres règles en vigueur à l'emplacement des
+travaux.</li>
+<li value="6">L'entrepreneur ne doit pas arrêter ou suspendre
+l'exécution des travaux ou d'une partie des travaux en
+attendant le règlement de toute dispute entre les parties
+concernant le contrat, sauf lorsque l'autorité contractante
+lui ordonne de le faire en vertu de l'article 39.</li>
+<li value="7">L'entrepreneur doit fournir tous les rapports
+exigés en vertu du contrat et toute autre information que le
+Canada peut raisonnablement exiger de temps à autre.</li>
+<li value="8">L'entrepreneur est entièrement responsable de
+l'exécution des travaux. Le Canada ne sera pas responsable des
+effets négatifs ou des coûts supplémentaires si
+l'entrepreneur suit tout conseil donné par le Canada, sauf si
+l'autorité contractante fourni le conseil par écrit
+à l'entrepreneur incluant une déclaration dégageant
+expressément l'entrepreneur de toute responsabilité quant
+aux effets négatifs ou aux coûts supplémentaires
+pouvant découler de ces conseils.</li>
+</ol>
+<h2>2040 06 (2008-05-12) Contrats de sous-traitance</h2>
+<ol type="1">
+<li value="1">À l'exception de ce qui est prévu au
+paragraphe 2, l'entrepreneur doit obtenir le consentement
+écrit de l'autorité contractante avant de sous-traiter ou
+de permettre la sous-traitance de toute partie des travaux. Un
+contrat de sous-traitance comprend un contrat conclu par un
+sous-traitant à tout échelon en vue d'exécuter toute
+partie des travaux.</li>
+<li value="2">L'entrepreneur n'est pas obligé d'obtenir un
+consentement pour des contrats de sous-traitance expressément
+autorisés dans le contrat. L'entrepreneur peut également,
+sans le consentement de l'autorité contractante :
+<ol type="a">
+<li value="1">acheter des produits courants en vente libre dans le
+commerce, ainsi que des articles et des matériaux produits par
+des fabricants dans le cours normal de leurs affaires;</li>
+<li value="2">conclure des contrats de sous-traitance pour
+l'obtention de services accessoires qui seraient normalement
+sous-traités pour l'exécution des travaux;</li>
+<li value="3">outre les achats et les services mentionnés aux
+alinéas a) et b), sous-traiter toute partie des travaux à
+un ou plusieurs sous-traitants jusqu'à concurrence d'une
+valeur n'excédant pas dans l'ensemble 40 p. 100 du prix
+contractuel; et</li>
+<li value="4">permettre à ses sous-traitants à tout
+échelon d'effectuer des achats ou de sous-traiter comme le
+prévoient les alinéas a), b) et c).</li>
+</ol>
+</li>
+<li value="3">Pour tout autre contrat de sous-traitance qui n'est
+pas visé à l'alinéa 2.a), l'entrepreneur doit
+s'assurer, sauf avec le consentement écrit de l'autorité
+contractante, que le sous-traitant soit lié par des conditions
+qui sont compatibles avec celles du contrat et qui, de l'avis de
+l'autorité contractante, ne sont pas moins avantageuses pour
+le Canada que les conditions du contrat.</li>
+<li value="4">Le consentement donné à la conclusion d'un
+contrat de sous-traitance ne libère pas l'entrepreneur de ses
+obligations aux termes du contrat et n'a pas pour effet d'engager
+la responsabilité du Canada envers un sous-traitant.
+L'entrepreneur demeure entièrement responsable des affaires ou
+choses faites ou fournies par tout sous-traitant en vertu du
+contrat ainsi que de la rémunération des sous-traitants
+pour toute partie des travaux qu'ils effectuent.</li>
+</ol>
+<h2>2040 07 (2008-05-12) Spécifications</h2>
+<ol type="1">
+<li value="1">Toute spécification fournie par le Canada ou au
+nom du Canada à l'entrepreneur en relation avec le contrat
+appartient au Canada et ne doit être utilisée par
+l'entrepreneur qu'en vue d'exécuter les travaux.</li>
+<li value="2">Si le contrat stipule que les spécifications
+fournies par l'entrepreneur doivent être approuvées par
+le Canada, cette approbation ne relève pas l'entrepreneur de
+son obligation de satisfaire aux exigences du contrat.</li>
+</ol>
+<h2>2040 08 (2008-05-12) Condition du matériel</h2>
+<p>Sauf disposition contraire dans le contrat, le matériel
+fourni doit être neuf et conforme à la plus récente
+version du dessin, de la spécification et du numéro de
+pièce pertinent qui est en vigueur à la date de
+clôture de la demande de soumissions ou, s'il n'y avait pas de
+demande de soumissions, la date du contrat.</p>
+<h2>2040 09 (2008-05-12) Remplacement d'individus
+spécifiques</h2>
+<ol type="1">
+<li value="1">Si des individus spécifiques sont
+identifiés dans le contrat pour exécuter les travaux,
+l'entrepreneur doit fournir les services de ces individus, sauf
+s'il n'est pas en mesure de le faire pour des motifs
+indépendants de sa volonté.</li>
+<li value="2">Si l'entrepreneur n'est pas en mesure de fournir les
+services de tout individu spécifique identifié au
+contrat, l'entrepreneur doit fournir les services d'un
+remplaçant qui possède les qualifications et
+l'expérience similaires. Le remplaçant doit satisfaire
+aux critères utilisés pour la sélection de
+l'entrepreneur et être acceptable pour le Canada.
+L'entrepreneur doit, le plus tôt possible, aviser
+l'autorité contractante du motif du remplacement de l'individu
+et fournir:
+<ol type="a">
+<li value="1">le nom du remplaçant proposé ainsi que ses
+qualifications et son expérience; et</li>
+<li value="2">la preuve que le remplaçant proposé
+possède la cote de sécurité exigée
+accordée par le Canada, s'il y a lieu.</li>
+</ol>
+</li>
+<li value="3">L'entrepreneur ne doit en aucun cas permettre que les
+travaux soient exécutés par des remplaçants non
+autorisés. L'autorité contractante peut ordonner qu'un
+remplaçant cesse d'exécuter les travaux. L'entrepreneur
+doit alors se conformer sans délai à cet ordre et retenir
+les services d'un autre remplaçant conformément au
+paragraphe 2. Le fait que l'autorité contractante n'ordonne
+pas qu'un remplaçant cesse d'exécuter les travaux n'a pas
+pour effet de relever l'entrepreneur de son obligation de
+satisfaire aux exigences du contrat.</li>
+</ol>
+<h2>2040 10 (2008-05-12) Rigueur des délais</h2>
+<p>Il est essentiel que les travaux soient exécutés dans
+les délais prévus au contrat.</p>
+<h2>2040 11 (2008-05-12) Retard justifiable</h2>
+<ol type="1">
+<li value="1">Le retard de l'entrepreneur à s'acquitter de
+toute obligation prévue au contrat à cause d'un
+événement qui:
+<ol type="a">
+<li value="1">est hors du contrôle raisonnable de
+l'entrepreneur;</li>
+<li value="2">ne pouvait raisonnablement avoir été
+prévu;</li>
+<li value="3">ne pouvait raisonnablement avoir été
+empêché par des moyens que pouvait raisonnablement
+utiliser l'entrepreneur; et</li>
+<li value="4">est survenu en l'absence de toute faute ou
+négligence de la part de l'entrepreneur.</li>
+</ol>
+<p>sera considéré un « retard justifiable  » si
+l'entrepreneur informe l'autorité contractante de la
+survenance du retard ou de son éventualité dès qu'il
+en prend connaissance. L'entrepreneur doit de plus informer
+l'autorité contractante, dans les quinze (15) jours ouvrables,
+de toutes les circonstances reliées au retard et soumettre
+à l'approbation de l'autorité contractante un plan de
+redressement clair qui détaille les étapes que
+l'entrepreneur propose de suivre afin de minimiser les
+conséquences de l'événement qui a causé le
+retard.</p>
+</li>
+<li value="2">Toute date de livraison ou autre date qui est
+directement touchée par un retard justifiable sera
+reportée d'une durée raisonnable n'excédant pas
+celle du retard justifiable.</li>
+<li value="3">Toutefois, au bout de trente (30) jours ou plus de
+retard justifiable, l'autorité contractante peut, par avis
+écrit à l'entrepreneur, résilier le contrat. Dans un
+tel cas, les parties conviennent de renoncer à toute
+réclamation pour dommages, coûts, profits anticipés
+ou autres pertes découlant de la résiliation ou de
+l'événement qui a contribué au retard justifiable.
+L'entrepreneur s'engage à rembourser immédiatement au
+Canada la portion de toute avance non liquidée à la date
+de la résiliation.</li>
+<li value="4">Le Canada ne sera pas responsable des frais
+engagés par l'entrepreneur ou l'un de ses sous-traitants ou
+mandataires par suite d'un retard justifiable, sauf lorsque
+celui-ci est attribuable à l'omission du Canada de s'acquitter
+d'une de ses obligations en vertu du contrat.</li>
+<li value="5">Si le contrat est résilié en vertu du
+présent article, l'autorité contractante peut exiger que
+l'entrepreneur livre au Canada, selon les modalités et dans
+les mesures prescrites par l'autorité contractante, toutes les
+parties complétées des travaux qui n'ont pas
+été livrées ni acceptées avant la
+résiliation, de même que tout ce que l'entrepreneur a
+acquis ou produit expressément dans l'exécution du
+contrat. Le Canada paiera l'entrepreneur:
+<ol type="a">
+<li value="1">la valeur, calculée en fonction du prix
+contractuel, incluant la quote-part du profit ou des honoraires de
+l'entrepreneur inclus dans le prix contractuel, de l'ensemble de
+toutes les parties des travaux complétés qui sont
+livrés et acceptés par le Canada, et</li>
+<li value="2">le coût de l'entrepreneur que le Canada juge
+raisonnable en ce qui concerne toute autre chose livrée au
+Canada et acceptée par ce dernier.</li>
+</ol>
+<p>Le total des sommes versées par le Canada en vertu du
+contrat jusqu'à sa résiliation et toutes sommes payables
+en vertu du présent paragraphe ne doivent pas dépasser le
+prix contractuel.</p>
+</li>
+</ol>
+<h2>2040 12 (2008-05-12) Inspection et acceptation des travaux</h2>
+<ol type="1">
+<li value="1">Tous les travaux sont soumis à l'inspection et
+à l'acceptation par le Canada. L'inspection et l'acceptation
+des travaux par le Canada ne relèvent pas l'entrepreneur de sa
+responsabilité à l'égard des défauts et des
+autres manquements aux exigences du contrat. Le Canada aura le
+droit de rejeter tout travail non conforme aux exigences du contrat
+et d'exiger une rectification ou un remplacement aux frais de
+l'entrepreneur.</li>
+<li value="2">L'entrepreneur doit permettre aux représentants
+du Canada, en tout temps durant les heures de travail,
+d'accéder à tous les lieux où toute partie des
+travaux est exécutée. Les représentants du Canada
+peuvent procéder à leur gré à des examens et
+à des vérifications. L'entrepreneur doit fournir toute
+l'aide, les locaux, tous les échantillons, pièces d'essai
+et documents que les représentants du Canada peuvent
+raisonnablement exiger pour l'exécution de l'inspection.
+L'entrepreneur doit expédier lesdits échantillons et
+pièces d'essai à la personne ou à l'endroit
+indiqué par le Canada.</li>
+<li value="3">L'entrepreneur doit inspecter et approuver toute
+partie des travaux avant de le soumettre pour acceptation ou
+livraison au Canada. L'entrepreneur doit tenir un registre des
+inspections à la fois précis et complet qu'il doit mettre
+à la disposition du Canada, sur demande. Les
+représentants du Canada peuvent tirer des copies et des
+extraits des registres pendant l'exécution du contrat et
+pendant une période maximale de trois (3) ans après la
+fin du contrat.</li>
+</ol>
+<h2>2040 13 (2013-03-21) Présentation des factures</h2>
+<ol type="1">
+<li value="1">Les factures doivent être soumises au nom de
+l'entrepreneur. L'entrepreneur doit présenter des factures
+pour chaque livraison ou expédition; ces factures doivent
+s'appliquer uniquement au contrat. Chaque facture doit indiquer si
+elle porte sur une livraison partielle ou finale.</li>
+<li value="2">Les factures doivent contenir :
+<ol type="a">
+<li value="1">la date, le nom et l'adresse du ministère
+client, les numéros d'articles ou de référence, les
+biens livrables/la description des travaux, le numéro
+du contrat, le numéro de référence du client (NRC),
+le numéro d'entreprise - approvisionnement (NEA) et le ou les
+codes financiers;</li>
+<li value="2">des renseignements sur les dépenses (comme le nom des articles et leur quantité, l’unité de distribution, le prix unitaire, les tarifs horaires fermes, le niveau d’effort et les sous-contrats, selon le cas) conformément à la base de paiement, excluant les taxes applicables;</li>
+<li value="3">les déductions correspondant à la retenue
+de garantie, s'il y a lieu;</li>
+<li value="4">le report des totaux, s'il y a lieu; et</li>
+<li value="5">s'il y a lieu, le mode d'expédition avec la
+date, le numéro de cas et de pièce ou de
+référence, les frais d'expédition et tous les autres
+frais supplémentaires.</li>
+</ol>
+</li>
+<li value="3">Les taxes applicables doivent être indiquées séparément dans toutes les factures, ainsi que les numéros d’inscription correspondant émis par les autorités fiscales. Tous les articles détaxés, exonérés ou auxquels les taxes applicables ne s'appliquent pas doivent être identifiés comme tels sur toutes les factures.</li>
+<li value="4">En présentant une facture, l'entrepreneur
+atteste que la facture correspond aux travaux qui ont été
+livrés et qu'elle est conforme au contrat.</li>
+</ol>
+<h2>2040 14 (2013-03-21) Taxes</h2>
+<ol type="1">
+<li value="1">
+Les ministères et organismes fédéraux doivent payer les taxes applicables.
+</li>
+<li value="2">
+Les taxes applicables seront payées par le Canada conformément aux dispositions de l’article sur la présentation de factures. Il revient à l’entrepreneur de facturer les taxes applicables selon le taux approprié, conformément aux lois en vigueur. L’entrepreneur accepte de remettre aux autorités fiscales appropriées les sommes acquittées ou exigibles au titre de taxes applicables.
+</li>
+<li value="3">
+L’entrepreneur n’a pas droit aux exemptions fiscales dont jouit le Canada, comme pour le paiement des taxes de vente provinciales, sauf indication contraire de la loi. L’entrepreneur doit payer la taxe de vente provinciale, les taxes accessoires et toute taxe à la consommation qui s’appliquent sur les biens ou services taxables utilisés ou consommés dans le cadre de l’exécution du contrat (conformément aux lois en vigueur), y compris les matériaux incorporés dans des biens immobiliers.
+</li>
+<li value="4">
+Dans les cas où les taxes applicables, les droits de douane et les taxes d'accise sont compris dans le prix contractuel, ce dernier sera ajusté afin de tenir compte de toute augmentation ou diminution des taxes applicables, droits de douane et taxes d'accise qui se sera produite entre la présentation de la soumission et l’attribution du contrat. Toutefois, il n’y aura pas d’ajustement relatif à toute modification pour augmenter le prix contractuel si un avis public assez détaillé de la modification a été donné avant la date de clôture de la soumission qui aurait pu permettre à l’entrepreneur de calculer les effets de cette modification. 
+</li>
+<li value="5">Retenue d'impôt de 15 p. 100 – Agence du revenu du Canada 
+
+<p>En vertu de la <cite>Loi de l'impôt sur le revenu</cite>, 1985, ch. 1 (5e suppl.) et le <cite>Règlement de l’impôt sur le revenu</cite>, le Canada doit retenir 15 p. 100 du montant à payer à l'entrepreneur pour des services rendus au Canada si l'entrepreneur n’est pas un résident du Canada, à moins que ce dernier obtienne une exonération valide de l’<cite>Agence du revenu du Canada</cite>. Le montant retenu sera conservé dans un compte pour l'entrepreneur pour tout impôt à payer exigible par le Canada.
+</p>
+</li>
+</ol>
+<h2>2040 15 (2010-01-11) Frais de transport</h2>
+<p>Si des frais de transport sont payables par le Canada en vertu
+du contrat et que l'entrepreneur doit prendre les dispositions
+nécessaires pour le transport, les envois doivent être
+effectués par le moyen de transport le plus direct et le plus
+économique, selon les méthodes normales
+d'expédition. Ces frais doivent figurer séparément
+sur la facture.</p>
+<h2>2040 16 (2010-01-11) Responsabilité du transporteur</h2>
+<p>La politique du gouvernement fédéral voulant qu'il
+assume ses propres risques exclut le paiement de frais d'assurances
+ou de taxation à la valeur pour le transport au-delà du
+point de transfert du droit de propriété sur les biens au
+gouvernement fédéral (selon le point FAB ou Incoterms).
+Lorsque l'entrepreneur est en mesure d'accroître la
+responsabilité du transporteur sans frais
+supplémentaires, il doit avoir recours à cette
+responsabilité accrue pour l'envoi.</p>
+<h2>2040 17 (2008-05-12) Documentation d'envoi</h2>
+<p>Pour l'expédition des biens, le connaissement de transport
+doit accompagner l'original de la facture, sauf s'il s'agit
+d'expéditions « payables sur livraison » (si et
+lorsque stipulé), auquel cas il doit accompagner l'envoi. En
+outre, un bordereau d'expédition doit accompagner chaque envoi
+et indiquer clairement le nom des articles, la quantité
+d'articles, les numéros de pièce ou de
+référence, la description des biens et le numéro du
+contrat, incluant le NRC et le NEA. Si les biens ont été
+inspectés dans les locaux de l'entrepreneur, un certificat
+d'inspection signé doit être annexé au bordereau
+d'expédition normalement inclus dans l'enveloppe prévue
+à cette fin.</p>
+<h2>2040 18 (2008-05-12) Période de paiement</h2>
+<ol type="1">
+<li value="1">La période normale de paiement du Canada est de
+trente (30) jours. La période de paiement est calculée
+à compter de la date de réception d'une facture dont le
+format et le contenu sont acceptables conformément au contrat,
+ou la date de réception des travaux dans un état
+acceptable tel qu'exigé au contrat, selon la plus tardive des
+deux dates. Un paiement est considéré en souffrance le
+31e jour suivant cette date, et des intérêts seront
+calculés automatiquement conformément à l'article
+19.</li>
+<li value="2">Si le contenu de la facture et les renseignements
+connexes nécessaires ne sont pas conformes au contrat, ou si
+les travaux fournis ne sont pas dans un état acceptable, le
+Canada avisera l'entrepreneur dans les quinze (15) jours suivant la
+réception. La période de paiement de trente (30) jours
+débute à la réception de la facture
+révisée ou à la réception des travaux
+corrigés ou remplacés. Le défaut du Canada d'aviser
+l'entrepreneur dans les quinze (15) jours n'aura pour
+conséquence que la date stipulée au paragraphe 1 servira
+uniquement à calculer l'intérêt sur les comptes en
+souffrance.</li>
+</ol>
+<h2>2040 19 (2008-12-12) Intérêt sur les comptes en
+souffrance</h2>
+<ol type="1">
+<li value="1">Les définitions suivantes s'appliquent au
+présent article :
+<p><dfn>« date de paiement »</dfn> désigne la date que porte le
+titre négociable tiré par le Receveur général
+du Canada afin de payer une somme exigible en vertu du contrat;</p>
+<p><dfn>« en souffrance »</dfn> désigne la somme qui demeure
+impayée le lendemain du jour où elle est devenue exigible
+conformément au contrat;</p>
+<p><dfn>« taux d'escompte »</dfn> désigne le taux
+d'intérêt fixé de temps en temps par la Banque du
+Canada qui représente le taux minimum auquel la Banque du
+Canada consent des avances à court terme aux membres de
+l'Association canadienne des paiements;</p>
+<p><dfn>« taux moyen »</dfn> désigne la moyenne arithmétique
+simple du taux d'escompte en vigueur chaque jour, à 16 h,
+heure de l'Est, pour le mois civil immédiatement
+antérieur à la date de paiement;</p>
+</li>
+<li value="2">Le Canada versera à l'entrepreneur des
+intérêts simples, au taux moyen majoré de 3 p. 100
+par an, sur toute somme en souffrance, à partir du premier
+jour où la somme est en souffrance jusqu'au jour qui
+précède la date de paiement inclusivement. L'entrepreneur
+n'est pas tenu d'aviser le Canada pour que l'intérêt soit
+payable.</li>
+<li value="3">Le Canada versera des intérêts
+conformément à cet article seulement si le Canada est
+responsable du retard à payer l'entrepreneur. Le Canada ne
+versera pas d'intérêts sur les paiements anticipés
+qui sont en souffrance.</li>
+</ol>
+<h2>2040 20 (2008-05-12) Conformité aux lois applicables</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit se conformer aux lois applicables
+à l'exécution du contrat. Sur demande raisonnable du
+Canada, l'entrepreneur doit fournir une preuve de conformité
+aux lois applicables.</li>
+<li value="2">L'entrepreneur doit obtenir et tenir à jour
+à ses propres frais tous les permis, licences, approbations
+réglementaires et certificats exigés pour
+l'exécution des travaux. Sur demande de l'autorité
+contractante, il doit remettre au Canada une copie de tout permis,
+licence, approbation réglementaire ou certification
+exigé.</li>
+</ol>
+<h2>2040 21 (2008-05-12) Droit de propriété</h2>
+<ol type="1">
+<li value="1">Sauf disposition contraire dans le contrat, le droit
+de propriété sur les travaux ou toute partie des travaux
+appartient au Canada dès leur livraison et leur acceptation
+par ou pour le compte du Canada.</li>
+<li value="2">Toutefois lorsqu'un paiement est effectué à
+l'entrepreneur à l'égard des travaux, notamment au moyen
+de paiements progressifs ou d'étape, le droit de
+propriété relié aux travaux ainsi payés est
+transféré au Canada au moment du paiement. Ce transfert
+du droit de propriété ne constitue pas l'acceptation des
+travaux ou de toute partie des travaux par le Canada ni ne
+relève l'entrepreneur de son obligation d'exécuter les
+travaux conformément au contrat.</li>
+<li value="3">Malgré tout transfert du droit de
+propriété, l'entrepreneur est responsable de toute perte
+ou endommagement des travaux ou toute partie des travaux
+jusqu'à la livraison au Canada conformément au contrat.
+Même après la livraison, l'entrepreneur demeure
+responsable de toute perte ou endommagement causé par
+l'entrepreneur ou tout sous-traitant.</li>
+<li value="4">Lorsque le droit de propriété sur les
+travaux ou une partie des travaux est transféré au
+Canada, l'entrepreneur doit établir, à la demande du
+Canada, que ce titre est libre et quitte de tout privilège,
+réclamation, charge, sûreté ou servitude, et signer
+les actes de transfert s'y rapportant et les autres documents
+nécessaires pour parfaire le titre qu'exige le Canada.</li>
+</ol>
+<h2>2040 22 (2008-05-12) Garantie</h2>
+<ol type="1">
+<li value="1">Malgré l'inspection et l'acceptation des travaux
+par le Canada ou au nom de celui-ci et sans limiter l'application
+toute autre disposition du contrat ou toute condition, garantie ou
+disposition prévue par la loi, l'entrepreneur garantit, pour
+une période de douze (12) mois (ou tout autre période
+stipulée dans le contrat) que les travaux seront exempts de
+toute défectuosité liée à la conception, aux
+matériaux ou à la mise en oeuvre, et qu'ils seront
+conformes aux exigences du contrat. La période de garantie
+commence à la date de la livraison ou, si l'acceptation a lieu
+à une date postérieure, à la date de l'acceptation.
+Toutefois, en ce qui concerne les biens de l'État qui ne sont
+pas fournis par l'entrepreneur, la garantie de l'entrepreneur ne
+vise que leur intégration adéquate aux travaux.</li>
+<li value="2">En cas de défectuosité ou
+non-conformité de quelque partie des travaux pendant la
+période de garantie, l'entrepreneur, sur demande du Canada,
+doit réparer, remplacer ou rectifier, à son choix et
+à ses frais, le plus tôt possible, la partie des travaux
+jugée défectueuse ou non conforme aux exigences du
+contrat.</li>
+<li value="3">Les travaux ou toute partie des travaux jugés
+défectueux ou non conformes seront retournés aux locaux
+de l'entrepreneur en vue de leur remplacement, de leur
+réparation ou de leur rectification. Cependant, lorsque le
+Canada est d'avis qu'un tel déplacement n'est pas pratique,
+l'entrepreneur doit procéder aux réparations ou aux
+rectifications nécessaires là où les travaux se
+trouvent. L'entrepreneur sera remboursé des frais justes et
+raisonnables (incluant une indemnité de déplacement et de
+subsistance) engagés, à l'exclusion de tout profit,
+déduction faite du coût correspondant à la
+rectification de la défectuosité ou de la
+non-conformité dans les locaux de l'entrepreneur.</li>
+<li value="4">Le Canada doit payer les frais de transport des
+travaux ou de toute partie des travaux aux locaux de l'entrepreneur
+conformément au paragraphe 3. L'entrepreneur doit payer les
+frais de transport des travaux ou de toute partie des travaux qui
+sont remplacés ou rectifiés, au lieu de livraison
+précisé dans le contrat ou à un autre endroit
+désigné par le Canada.</li>
+<li value="5">L'entrepreneur, à ses frais, doit remédier
+aux effets de toute correction ou remplacement prévus dans le
+présent article sur l'ensemble des données et rapports, y
+compris la révision et la mise à jour de l'ensemble des
+données, manuels, publications, logiciels et dessins
+touchés et demandés en vertu du contrat.</li>
+<li value="6">Si l'entrepreneur ne s'acquitte pas d'une obligation
+prévue dans le présent article dans un délai
+raisonnable après avoir reçu un avis, le Canada aura le
+droit de remédier ou de faire remédier aux travaux
+défectueux ou non conformes aux frais de l'entrepreneur. Si le
+Canada ne désire pas corriger ou remplacer les travaux
+défectueux ou non conformes, le prix contractuel sera
+réduit de façon équitable.</li>
+<li value="7">La période de garantie est automatiquement
+prolongée de la période au cours de laquelle les travaux
+sont inutilisables en raison d'une défectuosité ou d'une
+non-conformité. La garantie s'applique à toute partie des
+travaux qui est réparée, remplacée ou par ailleurs
+rectifiée conformément au paragraphe 2, pendant la plus
+étendue des deux périodes suivantes:
+<ol type="a">
+<li value="1">la période de garantie qui reste y compris la
+prolongation; ou</li>
+<li value="2">quatre-vingt-dix (90) jours ou toute autre
+période stipulée à cette fin après entente
+entre les parties.</li>
+</ol>
+</li>
+</ol>
+<h2>2040 23 (2008-05-12) Confidentialité</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit garder confidentiel tous les
+renseignements fournis à l'entrepreneur par ou pour le Canada
+relativement aux travaux, y compris les renseignements
+confidentiels ou les renseignements protégés par des
+droits de propriété intellectuelle dont sont titulaires
+des tiers, ainsi que ceux qu'il conçoit, génère ou
+produit à l'occasion de l'exécution des travaux lorsque
+le droit d'auteur ou tout autre droit de propriété
+intellectuelle sur ceux-ci appartient au Canada en vertu du
+contrat. L'entrepreneur ne doit pas divulguer de tels
+renseignements sans l'autorisation écrite du Canada.
+L'entrepreneur peut divulguer à un sous-traitant tous les
+renseignements nécessaires à l'exécution du contrat
+de sous-traitance, à la condition que le sous-traitant
+s'engage à les garder confidentiels et à ne les utiliser
+que pour exécuter le contrat de sous-traitance.</li>
+<li value="2">L'entrepreneur consent à n'utiliser les
+renseignements fournis à l'entrepreneur par ou pour le Canada
+qu'aux seules fins du contrat. L'entrepreneur reconnaît que
+ces renseignements demeurent la propriété du Canada ou du
+tiers, selon le cas. Sauf disposition contraire dans le contrat,
+l'entrepreneur doit remettre, à la fin des travaux prévus
+au contrat ou à la résiliation du contrat ou à tout
+autre moment antérieur à la demande du Canada, tous ces
+renseignements ainsi que toute copie, ébauche, document de
+travail et note dans lesquels figurent ces renseignements.</li>
+<li value="3">Sous réserve de la <cite>Loi sur l’accès à l’information</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> A-1, et sous
+réserve des droits du Canada selon le contrat de communiquer
+ou de divulguer, le Canada ne doit pas communiquer ou divulguer en
+dehors du gouvernement du Canada aucune information livrée au
+Canada en vertu du contrat qui appartient à l'entrepreneur ou
+un sous-traitant.</li>
+<li value="4">Les obligations des parties prévues au
+présent article ne s'étendent pas aux renseignements
+suivants:
+<ol type="a">
+<li value="1">ceux mis à la disposition du public par une
+autre source que l'autre partie; ou</li>
+<li value="2">ceux communiqués à une partie par une autre
+source que l'autre partie, sauf lorsque la partie sait que la
+source s'est engagée envers l'autre partie à ne pas les
+communiquer; ou</li>
+<li value="3">ceux produits par une partie sans utiliser les
+renseignements de l'autre partie.</li>
+</ol>
+</li>
+<li value="5">Dans la mesure du possible l'entrepreneur doit
+indiquer ou marquer tout renseignement protégé par des
+droits de propriété intellectuelle qui ont été
+livrés au Canada en vertu du contrat comme étant la
+«  propriété de (nom de l'entrepreneur), utilisations
+permises au gouvernement en vertu du contrat no (inscrire le
+numéro du contrat de Travaux publics et Services
+gouvernementaux Canada [TPSGC])  ». Le Canada n'est pas
+responsable de l'utilisation ou de la divulgation non
+autorisée des renseignements qui auraient pu être ainsi
+marqués ou identifiés et qui ne l'ont pas
+été.</li>
+<li value="6">Si le contrat, les travaux ou tout renseignement
+mentionné au paragraphe 1 font l'objet de la mention TRÈS
+SECRET, SECRET, CONFIDENTIEL, ou PROTÉGÉ établie par
+le Canada, l'entrepreneur doit prendre toutes les mesures qui sont
+raisonnablement nécessaires à la sauvegarde du
+matériel ainsi identifié, incluant les mesures que
+prévoient le Manuel de la sécurité industrielle de
+<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> et ses suppléments ainsi que les autres directives du
+Canada.</li>
+<li value="7">Si le contrat, les travaux ou un renseignement
+visé au paragraphe 1 sont identifiés TRÈS SECRET,
+SECRET, CONFIDENTIEL, ou PROTÉGÉ par le Canada, les
+représentants du Canada peuvent, à des fins de
+sécurité, inspecter les locaux de l'entrepreneur ou d'un
+sous-traitant à tout échelon de la sous-traitance à
+tout moment pendant la durée du contrat. L'entrepreneur doit
+se conformer et faire en sorte que tout sous-traitant se conforme
+aux directives écrites du Canada relativement à tout
+matériel ainsi identifié, notamment en exigeant que ses
+employés ou ceux d'un sous-traitant signent et fournissent une
+déclaration concernant les vérifications de
+fiabilité, les autorisations de sécurité et autres
+mesures.</li>
+</ol>
+<h2>2040 24 (2008-05-12) Utilisation et traduction de matériel
+écrit</h2>
+<ol type="1">
+<li value="1">Sauf disposition contraire dans le contrat, les
+droits d'auteur sur tout matériel écrit utilisé,
+produit ou livré en vertu du contrat appartiennent à
+l'auteur du matériel ou à son propriétaire
+légitime. Le Canada a le droit d'utiliser, de reproduire et de
+divulguer à des fins gouvernementales le matériel
+écrit liés aux travaux qui sont livrés au
+Canada.</li>
+<li value="2">Si le contrat n'exige pas la livraison de tout
+matériel écrit dans les deux langues officielles du
+Canada, le Canada peut traduire le matériel écrit dans
+l'autre langue officielle. L'entrepreneur reconnaît que le
+Canada est le propriétaire de la traduction et qu'il n'a
+aucune obligation de fournir la traduction à l'entrepreneur.
+Le Canada convient que toute traduction doit comprendre tout avis
+de droit d'auteur ou de droit de propriété qui faisait
+partie de l'original. Le Canada reconnaît que l'entrepreneur
+n'est pas responsable des erreurs techniques ou d'autres
+problèmes qui pourraient être causés par la
+traduction.</li>
+</ol>
+<h2>2040 25 (2008-05-12) Biens de l'État</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit utiliser les biens de l'État
+aux seules fins de l'exécution du contrat et ces biens
+demeurent la propriété du Canada. L'entrepreneur doit
+tenir un registre comptable adéquat de tous les biens de
+l'État et, si possible, les identifier comme des biens
+appartenant au Canada.</li>
+<li value="2">L'entrepreneur doit prendre soin, de manière
+raisonnable et adéquate, de tous les biens de l'État dont
+il a la possession ou le contrôle. S'il ne s'acquitte pas de
+cette obligation, il est responsable de toute perte ou de tout
+dommage qui en résulte, sauf si ceux-ci sont causés par
+l'usure normale.</li>
+<li value="3">Tous les biens de l'État qui ne sont pas
+intégrés aux travaux doivent être retournés au
+Canada sur demande. Tous les résidus et toutes les
+matières de rebut, les articles ou choses qui sont des biens
+de l'État demeurent la propriété du Canada et
+l'entrepreneur ne peut en disposer que conformément aux
+directives du Canada, sauf disposition contraire dans le
+contrat.</li>
+<li value="4">À la fin du contrat et sur demande de
+l'autorité contractante, l'entrepreneur doit fournir au Canada
+l'inventaire de tous les biens de l'État se rapportant au
+contrat.</li>
+</ol>
+<h2>2040 26 (2008-05-12) Responsabilité</h2>
+<p>L'entrepreneur est responsable de tout dommage causé par
+l'entrepreneur, ses employés, ses sous-traitants ou ses agents
+au Canada ou à tout tiers. Le Canada est responsable de tout
+dommage causé par lui-même, ses employés, ses agents
+à l'entrepreneur ou à tout tiers. Les parties conviennent
+qu'aucune disposition relative à la limitation de la
+responsabilité ou à des indemnités ne s'applique au
+contrat à moins d'être reproduite entièrement dans
+les articles de convention. Les dommages comprennent les blessures
+causées à des personnes (y compris les blessures
+entraînant le décès) ou la perte ou l'endommagement
+de biens (y compris les biens immobiliers) causés par ou
+durant l'exécution du contrat.</p>
+<h2>2040 27 (2008-05-12) Atteinte aux droits de propriété
+intellectuelle et redevances</h2>
+<ol type="1">
+<li value="1">L'entrepreneur déclare et garantit qu'au
+meilleur de sa connaissance, ni lui ni le Canada ne portera
+atteinte aux droits de propriété intellectuelle d'un
+tiers dans le cadre de l'exécution ou de l'utilisation des
+travaux, et que le Canada n'aura aucune obligation de verser
+quelque redevance que ce soit à quiconque en ce qui touche les
+travaux.</li>
+<li value="2">Si quelqu'un présente une réclamation
+contre le Canada ou l'entrepreneur pour atteinte aux droits de
+propriété intellectuelle ou pour des redevances en ce qui
+touche les travaux, cette partie convient d'aviser
+immédiatement l'autre partie par écrit. En cas de
+réclamation contre le Canada, le procureur général
+du Canada, en vertu de la <cite>Loi sur le ministère de la Justice</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> J-2, sera chargé des
+intérêts du Canada dans tout litige où le Canada est
+partie, mais il peut demander à l'entrepreneur de
+défendre le Canada contre la réclamation. Dans l'un ou
+l'autre des cas, l'entrepreneur convient de participer pleinement
+à la défense et à la négociation d'un
+règlement, et de payer tous les coûts, dommages et frais
+juridiques engagés ou payables à la suite de la
+réclamation, y compris le montant du règlement. Les deux
+parties conviennent de ne régler aucune réclamation avant
+que l'autre partie n'ait d'abord approuvé le règlement
+par écrit.</li>
+<li value="3">L'entrepreneur n'a aucune obligation concernant les
+réclamations qui sont présentées seulement parce
+que:
+<ol type="a">
+<li value="1">le Canada a modifié les travaux ou une partie
+des travaux sans le consentement de l'entrepreneur ou il a
+utilisé les travaux ou une partie des travaux sans se
+conformer à l'une des exigences du contrat; ou</li>
+<li value="2">le Canada a utilisé les travaux ou une partie
+des travaux avec un produit qui n'a pas été fourni par
+l'entrepreneur en vertu du contrat (à moins que l'utilisation
+ne soit décrite dans le contrat ou dans les
+spécifications du fabricant); ou</li>
+<li value="3">l'entrepreneur a utilisé de l'équipement,
+des dessins, des spécifications ou d'autres renseignements qui
+lui ont été fournis par le Canada (ou par une personne
+autorisée par le Canada); ou</li>
+<li value="4">l'entrepreneur a utilisé un élément
+particulier de l'équipement ou du logiciel qu'il a obtenu
+grâce aux instructions précises de l'autorité
+contractante; cependant, cette exception s'applique uniquement si
+l'entrepreneur a inclus la présente déclaration dans son
+contrat avec le fournisseur de cet équipement ou de ce
+logiciel : «  <var>[Nom du fournisseur]</var> reconnaît que les
+éléments achetés seront utilisés par le
+gouvernement du Canada. Si une tierce partie prétend que cet
+équipement ou ce logiciel fourni en vertu du contrat enfreint
+les droits de propriété intellectuelle, <var>[nom du
+fournisseur]</var>, à la demande de <var>[nom de l'entrepreneur]</var> ou du
+Canada, défendra à ses propres frais, tant <var>[nom de
+l'entrepreneur]</var> que le Canada contre cette réclamation et
+paiera tous les coûts, dommages et frais juridiques connexes
+ ». L'entrepreneur est responsable d'obtenir cette garantie
+du fournisseur, faute de quoi l'entrepreneur sera responsable de la
+réclamation envers le Canada.</li>
+</ol>
+</li>
+<li value="4">Si quelqu'un allègue qu'en raison de
+l'exécution des travaux, l'entrepreneur ou le Canada enfreint
+ses droits de propriété intellectuelle, l'entrepreneur
+doit adopter immédiatement l'un des moyens suivants:
+<ol type="a">
+<li value="1">prendre les mesures nécessaires pour permettre
+au Canada de continuer à utiliser la partie des travaux
+censément enfreinte; ou</li>
+<li value="2">modifier ou remplacer les travaux afin d'éviter
+de porter atteinte aux droits de propriété
+intellectuelle, tout en veillant à ce que les travaux
+respectent toujours les exigences du contrat; ou</li>
+<li value="3">reprendre les travaux et rembourser toute partie du
+prix contractuel que le Canada a déjà versée.</li>
+</ol>
+<p>Si l'entrepreneur détermine qu'aucun de ces moyens ne peut
+être raisonnablement mis en œuvre, ou s'il ne prend pas l'un de ces moyens dans un délai
+raisonnable, le Canada peut choisir d'obliger l'entrepreneur à
+adopter la mesure c), ou d'adopter toute autre mesure
+nécessaire en vue d'obtenir le droit d'utiliser la ou les
+parties des travaux censément enfreinte(s), auquel cas
+l'entrepreneur doit rembourser au Canada tous les frais que
+celui-ci a engagés pour obtenir ce droit.</p>
+</li>
+</ol>
+<h2>2040 28 (2008-05-12) Dossiers et divulgation des renseignements
+originaux</h2>
+<ol type="1">
+<li value="1">Durant et après la période d'exécution
+du contrat, l'entrepreneur doit conserver des dossiers
+détaillés sur les renseignements originaux, incluant les
+données portant sur leur création, propriété,
+ainsi que sur toute vente ou tout transfert de tout droit de
+propriété sur les renseignements originaux.
+L'entrepreneur doit signaler et divulguer pleinement au Canada
+l'ensemble des renseignements originaux comme le contrat l'exige.
+Si le contrat ne prévoit pas spécifiquement quand et
+comment l'entrepreneur doit le faire, l'entrepreneur doit fournir
+ces renseignements dès que l'autorité contractante ou un
+représentant du ministère ou l'organisme pour lequel le
+contrat est exécuté en fait la demande, que ce soit avant
+ou après la fin du contrat.</li>
+<li value="2">Avant ou après que le dernier paiement soit
+versé à l'entrepreneur, ce dernier doit donner au Canada
+l'accès à l'ensemble des dossiers et des données
+à l'appui que le Canada considère pertinents pour
+permettre l'identification des renseignements originaux.</li>
+<li value="3">Pour toute propriété intellectuelle
+élaborée ou créée dans le cadre des travaux, le
+Canada pourra présumer que celle-ci a été
+élaborée ou créée par le Canada, si les
+dossiers de l'entrepreneur n'indiquent pas que cette
+propriété intellectuelle a été créée
+par l'entrepreneur, ou par quiconque au nom de l'entrepreneur,
+à l'exception du Canada.</li>
+</ol>
+<h2>2040 29 (2008-05-12) Droits de propriété
+intellectuelle sur les renseignements originaux</h2>
+<ol type="1">
+<li value="1">L'entrepreneur détient tous les droits de
+propriété intellectuelle sur les renseignements originaux
+dès leur conception.</li>
+<li value="2">Toutefois, bien que l'entrepreneur détiennent
+les droits de propriété intellectuelle sur les
+renseignements originaux, le Canada possède des droits
+illimités de propriété sur tout prototype,
+modèle, système ou équipement fabriqué ou
+modifié sur mesure qui est un bien livrable en vertu du
+contrat, comprenant les manuels et autres documents reliés
+à leur opération et maintenance. Ceci comprend le droit
+de les mettre à la disposition du public pour son usage contre
+rémunération ou autrement, et le droit de les vendre ou
+d'en transférer la propriété.</li>
+<li value="3">Tout renseignement personnel, au sens de la <cite>Loi sur la protection des renseignements personnels</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985,
+<abbr title="chapitre">ch.</abbr> P-21, recueilli par l'entrepreneur dans l'exécution des
+travaux en vertu du contrat devient immédiatement au moment de
+la collecte, la propriété du Canada et doit être
+utilisé uniquement pour l'exécution des travaux.
+L'entrepreneur n'a aucun droit sur ces renseignements
+personnels.</li>
+<li value="4">Si les travaux en vertu du contrat comprennent
+l'élaboration d'une base de données ou autre compilation
+de renseignements utilisant des renseignements ou des données
+fournis par le Canada et des renseignements personnels
+mentionnés ci-haut, les droits de propriété
+intellectuelle sur la base de données ou la compilation
+contenant ces renseignements appartiendront au Canada. Les droits
+de propriété intellectuelle de l'entrepreneur sur les
+renseignements originaux sont limités à ceux qui peuvent
+être exploités sans l'utilisation des renseignements ou
+données fournis par le Canada et les renseignements
+personnels.</li>
+<li value="5">L'entrepreneur doit préserver la
+confidentialité des renseignements ou données fournis par
+le Canada et les renseignements personnels comme le prévoient
+les conditions générales. L'entrepreneur doit retourner
+tous les renseignements appartenant au Canada sur demande ou à
+la fin ou à la résiliation du contrat. Cela comprend tous
+les exemplaires papier et en version électronique de ces
+renseignements ainsi que les documents sur papier et en version
+électronique contenant de l'information qui en
+découle.</li>
+</ol>
+<h2>2040 30 (2008-05-12) Licences concernant les droits de
+propriété intellectuelle sur les renseignements originaux
+et les renseignements de base</h2>
+<ol type="1">
+<li value="1">Puisque le Canada a contribué aux coûts
+liés à l'élaboration des renseignements originaux,
+l'entrepreneur accorde au Canada une licence qui l'autorise à
+exercer tous les droits de propriété intellectuelle sur
+les renseignements originaux dans le cadre des activités du
+Canada. A moins d'exception précisée dans le contrat,
+cette licence permet au Canada de faire tout ce qu'il pourrait
+faire s'il était propriétaire des renseignements
+originaux, sauf les exploiter commercialement et en transférer
+ou en céder la propriété. L'entrepreneur accorde
+également au Canada une licence qui l'autorise à utiliser
+les renseignements de base dans la mesure où cela est
+jugé raisonnable et nécessaire pour permettre au Canada
+d'exercer pleinement ses droits sur les biens livrables et les
+renseignements originaux.</li>
+<li value="2">Ces licences sont non exclusives, perpétuelles,
+irrévocables, mondiales, intégralement payées et
+libres de redevances. Aucune des licences ne peut être
+limitée d'aucune façon par l'entrepreneur en donnant un
+avis prévoyant le contraire, incluant le texte apparaissant
+sur une licence emballée sous film plastique ou toute autre
+forme d'emballage, accompagnant un bien livrable.</li>
+<li value="3">Pour plus de certitude, les licences du Canada
+comprennent notamment, mais non exclusivement:
+<ol type="a">
+<li value="1">le droit de divulguer les renseignements originaux et
+de base aux tiers soumissionnant ou négociant des contrats
+avec le Canada, et le droit d'autoriser, par sous-licence ou
+autrement, tout entrepreneur engagé par le Canada à
+utiliser ces renseignements uniquement aux fins d'exécution de
+ces contrats. Le Canada exigera de ces tiers et de ces
+entrepreneurs qu'ils n'utilisent ou ne divulguent ces
+renseignements, sauf lorsque cela s'avère nécessaire pour
+la préparation d'une soumission, la négociation ou
+l'exécution des contrats;</li>
+<li value="2">le droit de divulguer les renseignements originaux et
+de base à d'autres gouvernements, aux fins d'information;</li>
+<li value="3">le droit de reproduire, modifier, améliorer,
+élaborer ou traduire les renseignements originaux et de base,
+ou de le faire exécuter par une personne engagée par le
+Canada. Le Canada, ou une personne désignée par le
+Canada, détiendra les droits de propriété
+intellectuelle associés à la reproduction, la
+modification, l'amélioration, l'élaboration ou la
+traduction;</li>
+<li value="4">sans restreindre la portée de toute licence ou
+de tout autre droit que le Canada pourrait autrement détenir
+sur les renseignements de base, le droit, en ce qui a trait à
+toute partie des travaux conçue sur mesure ou fabriquée
+sur mesure, d'exercer tous les droits de propriété
+intellectuelle sur tout renseignement de base qui peuvent être
+requis pour les fins suivantes :
+<ol type="i">
+<li value="1">l'utilisation, le fonctionnement, la maintenance, la
+réparation ou la révision de toute partie des travaux
+conçue ou fabriquée sur mesure; et</li>
+<li value="2">la fabrication de pièces de rechange destinées
+à la maintenance, à la réparation ou à la
+révision, par le Canada, de toute partie des travaux
+conçue ou fabriquée sur mesure, si ces pièces ne
+peuvent être obtenues à des conditions commerciales
+raisonnables pour permettre la maintenance, la réparation ou
+la révision en temps opportun;</li>
+</ol>
+</li>
+<li value="5">pour un logiciel créé sur mesure pour le
+Canada, le droit d'utiliser tout code source que l'entrepreneur
+doit livrer au Canada en vertu du contrat.</li>
+</ol>
+</li>
+<li value="4">L'entrepreneur s'engage à mettre promptement
+à la disposition du Canada tout renseignement de base pour les
+fins mentionnées ci-haut, y compris dans le cas de logiciels,
+le code source. La licence ne s'applique pas cependant à un
+logiciel faisant l'objet de conditions de licence
+détaillées qui sont prévues ailleurs dans le
+contrat. De plus, dans le cas d'un logiciel en vente libre dans le
+commerce, l'obligation de l'entrepreneur de mettre promptement le
+code source à la disposition du Canada ne s'applique qu'à
+tout code source qui est sous le contrôle de l'entrepreneur ou
+d'un sous-traitant, ou qui peut être obtenu par l'un
+d'eux.</li>
+</ol>
+<h2>2040 31 (2008-05-12) Droits de l'entrepreneur d'accorder des
+licences</h2>
+<p>L'entrepreneur déclare et garantit qu'il a le droit
+d'accorder au Canada les licences et tout autre droit lui
+permettant d'utiliser les renseignements originaux et de base. Si
+un sous-traitant ou un autre tiers détient ou détiendra
+des droits de propriété sur des renseignements originaux
+ou des renseignements de base, l'entrepreneur doit soit avoir ou
+obtenir promptement une licence de ce sous-traitant ou tiers qui
+lui permet de se conformer à l'article 30 ou soit faire des
+arrangements avec ce sous-traitant ou tiers pour qu'il accorde sans
+délai toute licence requise directement au Canada.</p>
+<h2>2040 32 (2008-05-12) Renonciation aux droits moraux</h2>
+<p>Pendant et après le contrat, l'entrepreneur doit, sur
+demande du Canada, fournir une renonciation écrite permanente
+aux droits moraux, au sens de la <cite>Loi sur le droit d’auteur</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, ch. C-42, de la part de chaque auteur
+qui contribue aux renseignements originaux qui font l'objet d'une
+protection par droit d'auteur et qui doivent être livrés
+au Canada en vertu du contrat. Si l'entrepreneur est un auteur des
+renseignements originaux, il renonce en permanence à ses
+droits moraux sur ces renseignements originaux.</p>
+<h2>2040 33 (2008-05-12) Licence concernant les droits de
+propriété intellectuelle sur les renseignements du
+Canada</h2>
+<ol type="1">
+<li value="1">Tous les renseignements fournis par le Canada à
+l'entrepreneur pour l'exécution des travaux demeurent la
+propriété du Canada. L'entrepreneur doit utiliser ces
+renseignements uniquement pour l'exécution du contrat.</li>
+<li value="2">Si l'entrepreneur désire utiliser des
+renseignements appartenant au Canada pour l'exploitation
+commerciale ou le développement des renseignements originaux,
+il doit obtenir une licence du ministère ou de l'organisme
+pour lequel le contrat est exécuté. L'entrepreneur doit
+expliquer dans sa demande à ce ministère ou organisme les
+raisons de cette licence et la manière dont il entend utiliser
+les renseignements. Si le ministère ou l'organisme accepte
+d'accorder une licence, les conditions seront négociées
+entre l'entrepreneur et ce ministère ou organisme et peuvent
+prévoir le paiement d'une indemnité au Canada.</li>
+</ol>
+<h2>2040 34 (2008-05-12) Transfert ou licence des droits de
+l'entrepreneur</h2>
+<ol type="1">
+<li value="1">Pendant la durée du contrat, l'entrepreneur ne
+doit en aucun cas vendre, transférer, céder ou accorder
+une licence sur les renseignements originaux sans l'autorisation
+préalable et écrite de l'autorité contractante.</li>
+<li value="2">Après la période du contrat, si
+l'entrepreneur transfère la propriété des
+renseignements originaux, il n'a pas à obtenir l'autorisation
+du Canada, mais il doit en aviser le ministère ou l'organisme
+pour qui le contrat est exécuté par écrit, en
+communiquant le numéro de série et la date du contrat, et
+en fournissant des détails sur le bénéficiaire, y
+compris les conditions de transfert. L'entrepreneur doit s'assurer
+que le bénéficiaire avisera ce ministère ou cet
+organisme dans le cas de tout transfert ultérieur. Tout
+transfert doit être soumis aux droits du Canada relatifs aux
+renseignements originaux.</li>
+<li value="3">Après la période du contrat, si
+l'entrepreneur accorde à un tiers une licence ou tout autre
+droit (à l'exception d'un transfert de la propriété)
+lui permettant d'utiliser les renseignements originaux, il n'est
+pas tenu d'aviser le Canada, mais la licence ou le droit
+accordé ne doit avoir aucun effet sur les droits du
+Canada.</li>
+<li value="4">Si l'entrepreneur transfère la
+propriété ou accorde des droits sur les renseignements
+originaux qui empiètent de quelque façon que ce soit sur
+les droits du Canada d'utiliser les renseignements originaux,
+l'entrepreneur doit immédiatement, sur demande du Canada,
+prendre toutes les mesures qui s'imposent pour restituer les droits
+du Canada. Si l'entrepreneur ne réussit pas à prendre ces
+mesures dans un délai raisonnable exigé par le Canada, il
+devra immédiatement rembourser au Canada tous les frais
+encourus par le Canada pour rectifier lui-même la
+situation.</li>
+</ol>
+<h2>2040 35 (2008-05-12) Transfert des droits de
+propriété intellectuelle en cas de résiliation du
+contrat pour manquement</h2>
+<ol type="1">
+<li value="1">Si le Canada résilie le contrat en totalité
+ou en partie pour manquement, le Canada peut, en donnant un avis
+à l'entrepreneur, exiger que ce dernier lui cède tous les
+droits de propriété intellectuelle sur les renseignements
+originaux, y compris les droits détenus par des
+sous-traitants. En ce qui concerne les droits de
+propriété intellectuelle sur les renseignements originaux
+qui ont été vendus ou cédés à un tiers,
+l'entrepreneur doit payer au Canada, sur demande et à la
+discrétion du Canada, la juste valeur marchande de ces droits
+de propriété intellectuelle sur les renseignements
+originaux ou un montant égal à la contrepartie que la
+vente ou la cession de ces droits de propriété
+intellectuelle sur les renseignements originaux a rapporté
+à l'entrepreneur.</li>
+<li value="2">Advenant l'émission d'un avis par le Canada
+conformément au paragraphe 1, l'entrepreneur devra
+exécuter, à ses frais et promptement, tous les documents
+relatifs aux droits de propriété intellectuelle tel
+qu'exigé par le Canada. L'entrepreneur doit fournir au Canada,
+aux frais du Canada, toute l'aide raisonnable dans la
+préparation et l'acheminement de toute demande
+d'enregistrement de droits de propriété intellectuelle,
+dans toute juridiction, y compris l'aide de l'inventeur s'il s'agit
+d'une invention.</li>
+</ol>
+<h2>2040 36 (2008-05-12) Produits créés en utilisant les
+renseignements originaux</h2>
+<p>Si l'entrepreneur utilise les renseignements originaux pour
+concevoir un nouveau produit ou apporter une amélioration
+à un produit existant, il convient que, si le Canada
+désire faire l'acquisition de ce produit, l'entrepreneur
+accordera au Canada un rabais sur le prix le plus bas auquel il a
+vendu le produit à d'autres clients, afin de tenir compte de
+l'apport financier du Canada au développement du produit.</p>
+<h2>2040 37 (2008-05-12) Modification et renonciations</h2>
+<ol type="1">
+<li value="1">Pour être en vigueur, toute modification du
+contrat doit être faite par écrit par l'autorité
+contractante et le représentant autorisé de
+l'entrepreneur.</li>
+<li value="2">Bien que l'entrepreneur puisse discuter de
+modifications proposées aux travaux avec d'autres
+représentants du Canada, ce dernier n'assumera le coût de
+toute modification que si elle est intégrée au contrat
+conformément au paragraphe 1.</li>
+<li value="3">Une renonciation n'est valable, ne lie les parties et
+ne modifie leurs droits que lorsqu'elle est faite par écrit
+par l'autorité contractante, dans le cas d'une renonciation du
+Canada, et par le représentant autorisé de
+l'entrepreneur, dans le cas d'une renonciation de
+l'entrepreneur.</li>
+<li value="4">La renonciation par une partie à exercer un
+recours pour inexécution de toute condition du contrat ne doit
+pas être interprétée comme une renonciation pour
+toute inexécution subséquente et en conséquence
+n'empêchera pas cette partie d'exiger l'exécution de
+cette condition lors d'une inexécution subséquente.</li>
+</ol>
+<h2>2040 38 (2010-08-16) Cession</h2>
+<ol type="1">
+<li value="1">L'entrepreneur ne peut céder le contrat sans
+avoir préalablement obtenu le consentement écrit de
+l'autorité contractante. Toute cession effectuée sans
+avoir obtenu ce consentement est nulle et sans effet. La cession
+entrera en vigueur suite à l'exécution d'une entente de
+cession signée par les parties et le cessionnaire.</li>
+<li value="2">La cession du contrat ne relève pas
+l'entrepreneur de ses obligations en vertu du contrat et n'impose
+aucune responsabilité au Canada.</li>
+</ol>
+<h2>2040 39 (2008-05-12) Suspension des travaux</h2>
+<ol type="1">
+<li value="1">L'autorité contractante peut à tout moment,
+au moyen d'un avis écrit, ordonner à l'entrepreneur de
+suspendre ou arrêter les travaux ou une partie des travaux
+prévus au contrat et ce, pour une période d'au plus de
+cent quatre-vingts (180) jours. L'entrepreneur doit se conformer
+sans délai à l'ordre de suspension de manière à
+minimiser les frais liés à la suspension. Pendant la
+durée visée par l'ordre de suspension, l'entrepreneur ne
+peut enlever les travaux ou une partie des travaux des lieux
+où ils se trouvent sans avoir préalablement obtenu le
+consentement écrit de l'autorité contractante. Au cours
+de la période de cent quatre-vingts (180) jours,
+l'autorité contractante doit soit annuler l'ordre ou
+résilier le contrat, en totalité ou en partie,
+conformément à l'article 40 ou à l'article 41.</li>
+<li value="2">Lorsqu'un ordre est donné en vertu du paragraphe
+1, l'entrepreneur a le droit d'être remboursé des
+coûts supplémentaires engagés en raison de la
+suspension des travaux, majorés d'un profit juste et
+raisonnable, à moins que l'autorité contractante ne
+résilie le contrat à cause d'un manquement de la part de
+l'entrepreneur ou que celui-ci ne renonce au contrat.</li>
+<li value="3">En cas d'annulation d'un ordre de suspension
+donné en vertu du paragraphe 1, l'entrepreneur doit reprendre
+dès que possible les travaux conformément au contrat. Si
+la suspension a empêché l'entrepreneur de respecter une
+date de livraison stipulée dans le contrat, la date
+d'exécution de la partie du contrat touchée par la
+suspension est reportée du nombre de jours équivalant
+à la période de suspension ainsi que du nombre de jours
+que l'autorité contractante estime nécessaire à
+l'entrepreneur, après consultation avec celui-ci, pour
+reprendre les travaux, le cas échéant. Les justes
+redressements seront apportés, au besoin, aux conditions du
+contrat qui sont touchées.</li>
+</ol>
+<h2>2040 40 (2008-05-12) Manquement de la part de
+l'entrepreneur</h2>
+<ol type="1">
+<li value="1">Si l'entrepreneur manque à l'une de ses
+obligations prévues au contrat, l'autorité contractante
+peut, après avis écrit à l'entrepreneur,
+résilier le contrat ou une partie du contrat pour manquement.
+La résiliation entrera en vigueur immédiatement ou à
+l'expiration du délai prévu dans l'avis si l'entrepreneur
+n'a pas, dans le délai prévu, remédié au
+manquement selon les exigences de l'autorité
+contractante.</li>
+<li value="2">Si l'entrepreneur fait faillite ou devient
+insolvable, qu'il cède ses biens au profit de ses
+créanciers, qu'il se prévaut des dispositions d'une loi
+sur les débiteurs en faillite ou insolvables, qu'un
+séquestre est désigné aux termes d'un titre de
+créance ou qu'une ordonnance de séquestre est
+prononcée à son égard ou encore, qu'une ordonnance
+est rendue ou qu'une résolution est adoptée en vue de la
+liquidation de son entreprise, l'autorité contractante peut,
+dans la mesure où le permet la législation canadienne et
+moyennant un avis écrit à l'entrepreneur, résilier
+sans délai le contrat ou une partie du contrat pour
+manquement.</li>
+<li value="3">Si le Canada donne un avis prévu aux paragraphes
+1 ou 2, l'entrepreneur n'a droit à aucun autre paiement que
+ceux prévus au présent article. L'entrepreneur demeure
+redevable envers le Canada des pertes et des dommages subis par
+celui-ci en raison du manquement ou de l'événement sur
+lequel l'avis était fondé, y compris l'augmentation du
+coût, pour le Canada, de l'exécution des travaux par
+quelqu'un d'autre. L'entrepreneur convient de rembourser
+immédiatement au Canada la portion de toute avance non
+liquidée à la date de la résiliation.</li>
+<li value="4">Dès la résiliation du contrat
+conformément au présent article, l'autorité
+contractante peut exiger de l'entrepreneur qu'il remette au Canada,
+de la manière et dans la mesure qu'elle précise, toute
+partie des travaux exécutés et qui n'a pas été
+livrée et acceptée avant la résiliation, ainsi que
+tout ce que l'entrepreneur a acquis ou produit spécialement
+aux fins d'exécuter le contrat. Dans ce cas, moyennant la
+déduction de toute créance du Canada envers
+l'entrepreneur découlant du contrat ou de la résiliation,
+le Canada paiera à l'entrepreneur ou portera à son
+crédit :
+<ol type="a">
+<li value="1">la valeur, calculée à partir du prix
+contractuel, y compris la quote-part du profit ou de la
+rémunération de l'entrepreneur compris dans le prix
+contractuel, des parties des travaux qui ont été
+complétées et livrées au Canada et que le Canada a
+acceptées; et</li>
+<li value="2">le coût, pour l'entrepreneur, que le Canada juge
+raisonnable à l'égard de toute autre chose qui a
+été livrée au Canada et que le Canada a
+acceptée.</li>
+</ol>
+<p>Les sommes versées par le Canada en vertu du contrat,
+jusqu'à la résiliation, et les sommes payables en vertu
+du présent paragraphe ne doivent jamais dépasser, au
+total, le montant du prix contractuel.</p>
+</li>
+<li value="5">Le titre de propriété sur tout ce qui est
+payé à l'entrepreneur appartient au Canada au moment
+où le paiement est effectué, à moins qu'il
+n'appartienne déjà au Canada en vertu d'une autre
+disposition du contrat.</li>
+<li value="6">Si le contrat est résilié pour manquement
+en vertu du paragraphe 1 et que l'on détermine plus tard que
+la résiliation pour manquement n'était pas fondée,
+l'avis sera considéré un avis de résiliation pour
+raisons de commodité émis en vertu du paragraphe 1 de
+l'article 41.</li>
+</ol>
+<h2>2040 41 (2012-07-16) Résiliation pour raisons de
+commodité</h2>
+<ol type="1">
+<li value="1">L'autorité contractante peut, à tout moment
+avant la fin des travaux, en donnant un avis écrit à
+l'entrepreneur, résilier le contrat ou une partie du contrat
+pour des raisons de commodité. Une fois un tel avis de
+résiliation donné, l'entrepreneur doit se conformer aux
+exigences prévues dans l'avis de résiliation. Si le
+contrat est résilié en partie seulement, l'entrepreneur
+doit poursuivre l'exécution des travaux qui ne sont pas
+touchés par l'avis de résiliation. La résiliation
+prendra effet immédiatement ou, le cas échéant, au
+moment prévu dans l'avis de résiliation.</li>
+<li value="2">Si un avis de résiliation est donné en
+vertu du paragraphe 1, l'entrepreneur aura le droit d'être
+payé les coûts raisonnablement et dûment
+engagés pour l'exécution du contrat compte tenu qu'il n'a
+pas déjà été payé ou remboursé par le
+Canada. L'entrepreneur sera payé :
+<ol type="a">
+<li value="1">sur la base du prix contractuel, pour tous les
+travaux complétés qui ont été inspectés et
+acceptés conformément au contrat, qu'ils aient
+été complétés avant l'avis de résiliation
+ou après celui-ci conformément aux directives contenues
+dans l'avis de résiliation;</li>
+<li value="2">le coût, pour l'entrepreneur, majoré d'un
+profit juste et raisonnable, pour les travaux visés par l'avis
+de résiliation avant leur achèvement; et</li>
+<li value="3">les frais liés à la résiliation des
+travaux engagés par l'entrepreneur, à l'exclusion du
+coût des indemnités de départ et des
+dommages-intérêts versés aux employés dont les
+services ne sont plus requis en raison de la résiliation, sauf
+les salaires que l'entrepreneur est légalement obligé de
+leur verser.</li>
+</ol>
+</li>
+<li value="3">Le Canada peut réduire le montant du paiement
+effectué à l'égard de toute partie des travaux, si
+après inspection, elle ne satisfait pas aux exigences du
+contrat.</li>
+<li value="4">Les sommes auxquelles l'entrepreneur a droit selon le
+présent article et les sommes versées ou dues à
+l'entrepreneur ne doivent pas dépasser, au total, le prix
+contractuel. Sauf dans la mesure prévue au présent
+article, l'entrepreneur n'aura aucun recours, notamment en ce qui a
+trait à l'obtention de dommages-intérêts,
+compensation, perte de profit, indemnité découlant de
+tout avis de résiliation en vertu du présent article.
+L'entrepreneur convient de rembourser immédiatement au Canada
+tout paiement anticipé non liquidé à la date de la
+résiliation.</li>
+</ol>
+<h2>2040 42 (2008-05-12) Comptes et vérification</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit tenir des comptes et des
+registres appropriés sur les coûts des travaux ainsi que
+des dépenses et engagements effectués à l'égard
+de ces travaux, et il doit conserver les factures, les
+récépissés et les pièces justificatives qui s'y
+rattachent. Il doit conserver ces registres, y compris les
+connaissements et les autres preuves de transport ou de livraison,
+pour toutes les livraisons faites en vertu du contrat.</li>
+<li value="2">Si le contrat comprend des paiements pour le temps
+consacré par l'entrepreneur, ses employés, ses
+représentants, ses agents ou ses sous-traitants à
+l'exécution des travaux, l'entrepreneur doit tenir un registre
+du temps réel consacré chaque jour par chaque individu
+à l'exécution de toute partie des travaux.</li>
+<li value="3">L'entrepreneur, à moins d'avoir obtenu le
+consentement écrit du Canada pour leur disposition, doit
+conserver ces comptes, registres, factures,
+récépissés et pièces justificatives pendant six
+(6) ans après le dernier paiement effectué en vertu du
+contrat ou jusqu'au règlement des litiges ou réclamations
+en cours, selon la plus tardive des deux dates. Durant ce temps,
+l'entrepreneur doit mettre ces documents à la disposition des
+représentants du Canada pour vérification, inspection et
+examen. Les représentants du Canada pourront tirer des copies
+et prendre des extraits des documents. L'entrepreneur doit mettre
+à leur disposition les installations nécessaires à
+l'occasion de telles vérifications et inspections et fournir
+les renseignements que les représentants du Canada lui
+demandent à l'occasion en vue d'effectuer une
+vérification complète du contrat.</li>
+<li value="4">Le montant réclamé en vertu du contrat,
+calculé conformément à la base de paiement dans les
+articles de convention, pourra faire l'objet d'une
+vérification par le gouvernement avant et après le
+versement du montant. Si une vérification a lieu après le
+versement, l'entrepreneur convient de rembourser immédiatement
+tout montant excédentaire sur demande du Canada. Celui-ci peut
+retenir, déduire et prélever tout crédit dû en
+vertu du présent article et impayé de tout montant que le
+Canada doit à l'entrepreneur (y compris en vertu d'autres
+contrats). Si, à quelque moment que ce soit, le Canada
+n'exerce pas ce droit, il ne le perd pas.</li>
+</ol>
+<h2>2040 43 (2008-05-12) Droit de compensation</h2>
+<p>Sans restreindre tout droit de compensation accordé par la
+loi, le Canada peut utiliser en compensation de tout montant
+payable à l'entrepreneur en vertu du contrat, tout montant
+payable au Canada par l'entrepreneur en vertu du contrat ou de tout
+autre contrat en cours. Canada peut, en effectuant un paiement en
+vertu du contrat, déduire du montant payable à
+l'entrepreneur tout montant qui est ainsi payable au Canada, qui en
+vertu du droit de compensation, peut être retenu par le
+Canada.</p>
+<h2>2040 44 (2008-05-12) Avis</h2>
+<p>Tout avis prévu dans le contrat doit être donné
+par écrit et peut être livré personnellement, par
+messager, par courrier, par télécopieur ou par tout autre
+moyen électronique qui fournit un support papier du texte de
+l'avis. Il doit être envoyé à l'adresse de la partie
+qui en est le destinataire, selon le contrat. L'avis prend effet le
+jour de sa réception à cette adresse. Tout avis
+destiné au Canada doit être envoyé à
+l'autorité contractante.</p>
+<h2>2040 45 (2008-05-12) Conflits d'intérêts et codes de
+valeurs et d'éthique pour la fonction publique</h2>
+<p>L'entrepreneur reconnaît que les personnes qui sont
+assujetties aux dispositions de la <cite>Loi sur les conflits d’intérêts</cite> 2006, <abbr title="chapitre">ch.</abbr> 9, art. 2, du Code
+régissant la conduite des titulaires de charge publique en ce
+qui concerne les conflits d'intérêts et
+l'après-mandat, du Code de valeurs et d'éthique de la
+fonction publique ou tout autre code de valeur et d'éthique en
+vigueur au sein d'organismes spécifiques ne peuvent
+bénéficier directement du contrat.</p>
+<h2>2040 46 (2008-05-12) Pots-de-vin</h2>
+<p>L'entrepreneur déclare qu'aucun pot-de-vin, cadeau,
+bénéfice ou autre avantage n'a été ni ne sera
+payé, donné, promis ou offert, directement ou
+indirectement, à un représentant ou à un
+employé du Canada ni à un membre de sa famille, en vue
+d'exercer une influence sur l'attribution ou la gestion du
+contrat.</p>
+<h2>2040 47 (2008-05-12) Prorogation</h2>
+<p>Les obligations des parties concernant la confidentialité,
+les déclarations et les garanties prévues dans le contrat
+ainsi que les dispositions du contrat qu'il est raisonnable de
+présumer, en raison de la nature des droits et des obligations
+qui y sont prévus devraient demeurer en vigueur, demeurent
+applicables malgré l'expiration du contrat ou sa
+résiliation.</p>
+<h2>2040 48 (2008-05-12) Dissociabilité</h2>
+<p>Si toute disposition du contrat est déclarée invalide,
+illégale ou non susceptible d'exécution par un tribunal
+compétent, cette disposition disparaîtra du contrat sans
+affecter aucune autre disposition du contrat.</p>
+<h2>2040 49 (2008-05-12) Successeurs et cessionnaires</h2>
+<p>Le contrat s'applique au bénéfice des successeurs et
+cessionnaires autorisés du Canada et de l'entrepreneur, et il
+lie ces derniers.</p>
+<h2>2040 50 (2008-12-12) Honoraires conditionnels</h2>
+<p>L'entrepreneur atteste qu'il n'a pas versé ni convenu de
+verser, directement ou indirectement, et s'engage à ne pas
+verser, directement ou indirectement, des honoraires conditionnels
+en rapport avec la soumission, la négociation ou l'obtention
+du contrat à toute personne autre qu'un employé de
+l'entrepreneur remplissant les fonctions habituelles liées
+à son poste. Dans le présent article, <dfn>« honoraires
+conditionnels »</dfn> signifie tout paiement ou autre forme de
+rémunération qui est subordonné au degré de
+succès ou calculé en fonction du degré de
+succès obtenu en rapport à la soumission, à la
+négociation ou à l'obtention du contrat et <dfn>« 
+personne  »</dfn> comprend tout individu qui est tenu de fournir au
+directeur une déclaration en vertu de l'article 5 de la
+<cite>Loi sur le lobbying</cite>, 1985, <abbr title="chapitre">ch.</abbr> 44 (4e suppl.).</p>
+<h2>2040 51 (2012-07-16) Sanctions internationales</h2>
+<ol type="1">
+<li value="1">Les personnes au Canada et les Canadiens et les
+Canadiennes à l'étranger sont liées par les
+sanctions économiques imposées par le Canada. En
+conséquence, le gouvernement du Canada ne peut accepter la
+livraison d'aucun bien ou service provenant, directement ou
+indirectement, d'un ou plusieurs pays ou personnes assujettis aux
+sanctions
+économiques.</li>
+<li value="2">L'entrepreneur ne doit pas fournir au gouvernement du
+Canada un bien ou un service assujetti aux sanctions
+économiques.</li>
+<li value="3">L'entrepreneur doit se conformer aux modifications
+apportées au règlement imposé pendant la
+période du contrat. L'entrepreneur doit immédiatement
+aviser le Canada s'il est dans l'impossibilité d'exécuter
+le contrat suite à l'imposition de sanctions à un pays ou
+à une personne ou l'ajout de biens ou des services à la
+liste des biens ou des services sanctionnés. Si les parties ne
+peuvent alors s'entendre sur un plan de redressement, le contrat
+sera résilié pour des raisons de commodité par le Canada 
+conformément à l'article 41.</li>
+</ol>
+<h2>2040 52 (2012-11-09) Code de conduite et attestations - contrat</h2>
+<ol start="1" type="1">
+<li>L’entrepreneur s’engage à se conformer au <cite>Code de conduite pour l'approvisionnement</cite> et à ses modalités. En plus de se conformer au <cite>Code de conduite pour l'approvisionnement</cite>, l’entrepreneur doit aussi se conformer aux modalités du présent article.</li>
+<li>L'entrepreneur reconnaît aussi que, pour assurer l’équité, l’ouverture et la transparence du processus d’approvisionnement, la commission de certaines actions ou infractions pourra donner lieu à une résiliation du contrat pour manquement. Si l'entrepreneur a fait une fausse déclaration dans sa soumission ou dans le cadre du contrat, ne maintient pas à jour avec diligence les renseignements exigés par les présentes, ou si l'entrepreneur ou ses affiliés ne demeurent pas libres et quittes des actions ou condamnations ici précisées pendant la durée du contrat, une telle fausse déclaration ou défaut de se conformer pourra donner lieu à une résiliation du contrat pour manquement. L'entrepreneur comprend qu’une résiliation pour manquement ne restreindra pas le droit du Canada d’exercer tout autre recours disponible à son égard, et convient de retourner immédiatement tout paiement anticipé. </li>
+<li>Aux fins du présent article quiconque, incluant mais sans s’y limiter les organisations,  personnes morales, sociétés, compagnies, sociétés de personnes, entreprises, associations de personnes, sociétés mères, filiales qu’elles soient en propriété exclusive ou non, individus et administrateurs, sont des affiliés à l'entrepreneur si :
+
+<ol start="1" type="a">
+<li>l’entrepreneur ou l’affilié contrôle directement ou indirectement l'autre ou a le pouvoir de le faire, ou</li>
+<li>un tiers a le pouvoir de contrôler le soumissionnaire et l’affilié.</li>
+</ol>
+
+
+Les indices de contrôle comprennent, sans s’y limiter, une gestion ou une propriété interdépendante, l’identité d'intérêts des membres d'une famille, le partage d'installations et d'équipement, l'utilisation conjointe d'employés ou une entité créée suite aux actions ou aux condamnations précisées dans le présent article dont la gestion, la propriété ou les employés principaux sont les mêmes ou similaires, selon le cas.
+</li>
+<li>L’entrepreneur doit diligemment tenir à jour la liste de noms en informant le Canada par écrit de tout changement survenant au cours de la période d’exécution du contrat. Il doit également, lorsque la demande lui en est faite, fournir au Canada les formulaires de consentement correspondants. </li>
+<li>L’entrepreneur atteste être informé, et que ses affiliés sont informés, du fait que le Canada pourra vérifier tous les renseignements fournis par l’entrepreneur, incluant les renseignements relatifs aux actions ou condamnations ici précisées, en faisant des recherches indépendantes, en utilisant des ressources du gouvernement ou en communiquant avec des tiers.</li>
+<li>L’entrepreneur atteste que ni lui ni ses affiliés n'ont versé ni accepté de verser, directement ou indirectement, et qu'ils ne verseront pas, directement ou indirectement, des honoraires conditionnels à un particulier pour la sollicitation, la négociation ou l'obtention du contrat, si le paiement de ces honoraires obligerait cette personne à faire une déclaration en application de l'article 5 de la <cite>Loi sur le lobbying</cite>.</li>
+<li>L’entrepreneur atteste qu'aucune personne déclarée coupable de l’une des infractions ci-après énoncées sous a) ou b) ne recevra un avantage en vertu du contrat.  De plus, l’entrepreneur atteste qu’à l'exception des infractions pour lesquelles ils ont obtenu un pardon ou une suspension de casier, ou pour lesquelles leurs droits ont été rétablis par le gouverneur en conseil, ni lui ni ses affiliés n’ont jamais été reconnus coupables d'une infraction visée par l'une des dispositions suivantes :
+
+<ol start="1" type="a">
+<li>l'alinéa 80(1)d) (<em>Fausse inscription, faux certificat ou faux rapport</em>), le paragraphe 80(2) (<em>Fraude commise au détriment de Sa Majesté</em>) ou l'article 154.01 (<em>Fraude commise au détriment de Sa Majesté</em>) de la <cite>Loi sur la gestion des finances publiques</cite>, ou 
+</li>
+<li>l'article 121 (<em>Fraudes envers le gouvernement et Entrepreneur qui souscrit à une caisse électorale</em>), l'article 124 (<em>Achat ou vente d'une charge</em>), l'article 380 (<em>Fraude</em>) pour fraude commise au détriment de Sa Majesté ou l'article 418 (<em>Vente d'approvisionnements défectueux à Sa Majesté</em>), du <cite>Code criminel</cite> du Canada, ou </li>
+<li>l’article 462.31 (<em>Recyclage des produits de la criminalité</em>) ou les articles 467.11 à 467.13 (<em>Participation aux activités d’une organisation criminelle</em>) du <cite>Code criminel</cite> du Canada, ou</li>
+<li>l’article 45 (<em>Complot, accord ou arrangement entre concurrents</em>), l’article 46 (<em>Directives étrangères</em>), l’article 47 (<em>Truquage des offres</em>), l’article 49 (<em>Accords bancaires fixant les intérêts, etc.</em>), l’article 52 (<em>Indications fausses ou trompeuses</em>), l’article 53 (<em>Documentation trompeuse</em>) de la <cite>Loi sur la concurrence</cite>, ou</li>
+<li>l’article 239 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi de l’impôt sur le revenu</cite>, ou</li>
+<li>l’article 327 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi sur la taxe d’accise</cite>, ou</li>
+<li>l’article 3 (<em>Corruption d’un agent public étranger</em>) de la <cite>Loi sur la corruption d’agents publics étrangers</cite>, ou
+</li>
+<li>l’article 5 (<em>Trafic de substances</em>), l’article 6 (<em>Importation et exportation</em>), ou l’article 7 (<em>Production de substances</em>) de la <cite>Loi réglementant certaines drogues et autres substances</cite>.</li>
+</ol>
+</li>
+</ol>
+<h2>2040 53 (2008-05-12) Exhaustivité de la convention</h2>
+<p>Le contrat constitue l'entente complète et unique
+intervenue entre les parties et remplace toutes les
+négociations, communications ou autres ententes, écrites
+ou verbales, à moins qu'elles ne soient incorporées par
+renvoi au contrat. Seuls les engagements, représentations,
+déclarations et conditions qui figurent au contrat lient les
+parties.</p>
+<h2>2040  54  (2012-07-16)  Accès à l'information</h2>
+<p>Les documents créés par l'entrepreneur et qui relèvent du Canada sont assujettis aux dispositions de la <cite>Loi sur l'accès à l'information</cite>.  L'entrepreneur reconnaît les responsabilités du Canada en vertu de la <cite>Loi sur l'accès à l'information</cite> et doit, dans la mesure du possible, aider le Canada à s'acquitter de ces responsabilités.  De plus, l'entrepreneur reconnaît que l'article 67.1 de la <cite>Loi sur l'accès à l'information</cite> stipule que toute personne qui détruit, modifie, falsifie ou cache un document ou ordonne à une autre personne de commettre un tel acte, dans l'intention d'entraver le droit d'accès prévu à la <cite>Loi sur l'accès à l'information</cite>, est coupable d'un acte criminel passible d'un emprisonnement ou d'une amende, ou les deux.
+</p>
+</div></pre>

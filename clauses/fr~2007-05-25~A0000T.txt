@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions en conjonction avec 
+les instructions uniformisées 2003.
+
+Utiliser la clause suivante seulement lorsque les modèles pour les besoins de 
+faible valeur (2T-LDV1), complexité moyenne (2T-MED1) et plus complexes 
+(2T-HIGH1) ne sont pas utilisés.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Toutes les instructions, clauses et conditions identifiées
+dans la demande de soumissions par un numéro, une date et un
+titre sont reproduites dans le guide des <cite>Clauses et conditions
+uniformisées d'achat</cite> publié par Travaux publics et
+Services gouvernementaux Canada (TPSGC). Le guide est disponible
+sur le site Web de TPSGC: <strong>http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</strong>.</p>
+<p>Les soumissionnaires qui présentent une soumission
+s'engagent à respecter les instructions, les clauses et les
+conditions de cette demande de soumissions et acceptent les clauses
+et les conditions du contrat subséquent.</p>
+<p>Les instructions et conditions uniformisées <span class="input-required"><var>_______</var>
+<kbd>(<i><strong><em>insérer le numéro</em></strong></i>)</kbd></span><span class="input-required"><var>________</var><kbd>(<i><strong><em>insérer la date</em></strong></i>)</kbd></span> sont incorporées par
+renvoi à la demande de soumissions et en font partie
+intégrante.</p>
+</div></pre>

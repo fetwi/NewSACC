@@ -1,0 +1,42 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque les travaux sont 
+assujettis à une limitation des dépenses.
+
+Utiliser l'option 1 lorsque tous les travaux sont assujettis à une limitation 
+des dépenses. 
+Utiliser l'option 2 lorsque seulement une partie des travaux est assujettie à 
+une limitation des dépenses.
+
+Utiliser cette clause en conjonction avec C6000C.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Option 1</strong> :
+L'entrepreneur sera payé pour les coûts qu'il a raisonnablement et 
+correctement engagés dans l'exécution des travaux _______ (<strong><em>s'il y a lieu, 
+ajouter</em></strong><em> « </em><span class="wsInlineRemark">plus un bénéfice ferme</span> »), déterminés conformément à la base de 
+paiement ________ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">fournie à l'annexe ____</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">fournie 
+ci-dessous </span>»).  Les droits de douane sont _______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">
+exclus</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">exonérés</span> ») et la taxe sur les produits et services ou la 
+taxe de vente harmonisée est en sus, s'il y a lieu.
+
+<strong>(</strong><strong><em>Insérer la description de la base de paiement si elle ne figure pas en 
+annexe</em></strong><strong>.)</strong>
+
+<strong>Option 2</strong> :
+L'entrepreneur sera payé pour les coûts qu'il a raisonnablement et 
+correctement engagés dans l'exécution des travaux, décrits dans les 
+sections _______ <strong>(</strong><strong><em>insérer les sections pertinentes de l'« </em></strong><span class="wsInlineRemark">Énoncé des 
+travaux</span><strong><em> » ou des « </em></strong><span class="wsInlineRemark">Besoins</span><strong><em> » auxquelles s'applique cette base de paiement</em></strong><strong>)</strong> 
+de ______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">l'énoncé des travaux</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">des besoins</span> ») fourni à 
+l'annexe ________ (<strong><em>s'il y a lieu, ajouter</em></strong><em> « </em><span class="wsInlineRemark">plus un bénéfice ferme</span> »), 
+déterminés conformément à la base de paiement _______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">fournie à 
+l'annexe ____</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">fournie ci-dessous</span> »), les droits de douane sont _______ 
+(<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">exclus</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">exonérés</span> ») et la taxe sur les 
+produits et services ou la taxe de vente harmonisée est en sus, s'il y a 
+lieu.
+
+<strong>(</strong><strong><em>Insérer la description de la base de paiement si elle ne figure pas en 
+annexe</em></strong><strong>.)</strong>
+
+
+
+</pre>

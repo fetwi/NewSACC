@@ -1,0 +1,36 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante pour les demandes de soumissions dans lesquelles tous les travaux de soudage seront effectués conformément aux normes W47.1 ou W47.2, ou les deux, de l'Association canadienne de normalisation (CSA).
+ </p>
+<p>
+  L'autorité contractante, de concert avec le responsable technique, déterminera selon la nature du besoin si l'entrepreneur ou son sous-traitant, ou les deux, doit (doivent) être certifié(s) par le Bureau canadien de soudage.
+ </p>
+<p>
+  L’agent de négociation des contrats, de concert avec le responsable technique, déterminera la ou les normes de la
+  <abbr title="Association canadienne de normalisation">
+   CSA
+  </abbr>
+  applicables ainsi que le niveau de la division pour chacune des normes, et les intégrera à la demande de soumissions.
+ </p>
+<p>
+  Utiliser cette clause conjointement avec la clause
+  
+   B4075C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">
+<p>Les travaux de soudage doivent être effectués par un soudeur certifié par le Bureau canadien de soudage (BCS) selon les normes de l'Association canadienne de normalisation (CSA) suivantes : 
+</p>
+<p><kbd><em><strong>Instruction aux agents de négociation des contrats :</strong> insérer a. ou b. ou les deux, selon le cas.</em></kbd></p>
+<ol type="a">
+<li value="1"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.1 (version actuelle), Certification des compagnies de soudage par fusion de l'acier <span class="input-required"><var>_____</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>;</li>
+<li value="2"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.2 (version actuelle), Certification des compagnies de soudage par fusion de l'aluminium <span class="input-required"><var>______</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>.</li>
+</ol>
+</li>
+<li value="2">Avant d'attribuer le contrat, et dans les <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours civils suivant la demande écrite de l'autorité contractante, le soumissionnaire retenu devra fournir une preuve  démontrant <kbd>(<em>insérer « sa certification par le BCS » ou 	« sa certification par le BCS et celle de son sous-traitant », ou 	« la certification par le BCS de son sous-traitant »</em>)</kbd> selon les normes en matière de soudage émises par la <abbr title="Association canadienne de normalisation">CSA</abbr>.</li>
+</ol>
+</div></pre>

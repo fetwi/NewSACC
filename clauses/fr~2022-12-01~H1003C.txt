@@ -1,0 +1,76 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque des paiements progressifs seront versés en fonction des frais engagés en présentant le formulaire de demande de paiement progressif
+  
+   PWGSC-TPSGC 1111
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   H3022C
+  
+  ou
+  
+   H3024C
+  
+  , s'il y a lieu; et en conjonction avec
+  
+   H4500C
+  
+  pour les contrats de biens attribués à un entrepreneur établi au Canada.
+ </p>
+<p>
+  Pour plus de renseignements sur les paiements progressifs, consulter l'article
+  
+   4.70.30.15
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+<p>
+  Instructions aux agents de négociation des contrats :
+ </p>
+<ol type="1">
+<li>
+   Compléter la clause au besoin.
+  </li>
+<li>
+   Insérer l'une des options suivantes au paragraphe 2 de la clause. Si les options fournies ne correspondent pas au besoin, les agents de négociation des contrats peuvent modifier le paragraphe en conséquence.
+   <ul class="no-markers">
+<li>
+     Option 1 : Utiliser ce paragraphe dans les contrats à prix unitaires lorsque la retenue sera versée après la livraison et l'acceptation de chaque article.
+     <blockquote>
+      « Le solde du montant dû sera payé conformément aux dispositions de paiement du contrat lorsque l'article sera complété et livré si les travaux ont été acceptés par le Canada et une demande finale pour le paiement est présentée. »
+     </blockquote>
+</li>
+<li>
+     Option 2 : Utiliser ce paragraphe lorsque le paiement sera fait après que tous les travaux et les livraisons seront complétés et acceptés.
+     <blockquote>
+      « Le solde du montant dû sera payé conformément aux dispositions de paiement du contrat lorsque tous les travaux exigés au contrat auront été complétés et livrés si les travaux ont été acceptés par le Canada et une demande finale pour le paiement est présentée. »
+     </blockquote>
+</li>
+</ul>
+</li>
+</ol>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada effectuera les paiements progressifs conformément aux dispositions de paiement du contrat, à raison de une fois par mois au plus, pour les frais engagés dans l'exécution des travaux, jusqu'à concurrence de <var>_____</var> p. 100 du montant réclamé et approuvé par le Canada si : 
+            <ol type="a">
+<li value="1">une demande de paiement exacte et complète en utilisant le formulaire PWGSC-TPSGC 1111, Demande de paiement progressif, et tout autre document exigé par le contrat ont été présentés conformément aux instructions relatives à la facturation fournies dans le contrat;</li>
+<li value="2">le montant réclamé est conforme à la base de paiement;</li>
+<li value="3">la somme de tous les paiements progressifs effectués par le Canada ne dépasse pas <var>_____</var> p. 100 de la totalité du montant à verser en vertu du contrat;</li>
+<li value="4">toutes les attestations demandées sur le formulaire PWGSC-TPSGC 1111 ont été signées par les représentants autorisés.</li>
+</ol>
+</li>
+<li value="2"><span class="input-required"><var>__________</var> <kbd>(<em>insérer l'option appropriée selon les indications fournies dans les remarques plus haut.</em>)</kbd></span></li>
+<li value="3">Les paiements progressifs ne sont que des paiements provisoires. Le Canada peut procéder à une vérification gouvernementale et des vérifications provisoires du temps et des coûts et apporter lorsqu'il y a lieu des correctifs au contrat pendant l'exécution des travaux. Tout paiement en trop qui résulte du versement des paiements progressifs ou d'une autre cause doit être remboursé rapidement au Canada.</li>
+</ol>
+</div></pre>

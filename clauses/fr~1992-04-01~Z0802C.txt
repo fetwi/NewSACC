@@ -1,0 +1,229 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Conformément au
+  <span lang="en-CA">
+<abbr title="Federal Acquisition Regulation">
+    FAR
+   </abbr>
+</span>
+  45.106(b) (2), remplacer le paragraphe (g) de la clause
+  
+   Z0801C
+  
+  par le paragraphe (g) suivant lorsque les conditions suivantes se 
+présentent :
+ </p>
+<ol type="i">
+<li>
+   si le contrat est un contrat négocié à prix fixe dans lequel les prix ne 
+sont pas basés sur une concurrence des prix suffisante, sur des prix établis, 
+soit marqués soit du marché, pour des articles commerciaux vendus en quantité 
+substantielle au grand public, ou sur des prix fixés par une loi ou un 
+règlement; ou
+  </li>
+<li>
+   si le contrat est un contrat de service à prix fixe devant être rendu dans 
+une installation du Gouvernement, pourvu que l'agent de négociation des contrats 
+établisse qu'il est dans le meilleur intérêt du Gouvernement.
+  </li>
+</ol>
+<p>
+  Nota : Cette clause ne peut être utilisée que si la clause
+  
+   Z0801C
+  
+  est 
+également utilisée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p class="description">Le texte suivant remplace le paragraphe (g) de la clause
+<span class="clauseRef">Z0801C</span>.</p>
+<ol type="a">
+<li value="7">Risque limité de perte.
+<ol type="1">
+<li value="1">L'expression « <dfn>personnel de gestion de
+l'Entrepreneur</dfn> », utilisée dans le présent paragraphe
+(g), désigne les directeurs et agents de l'Entrepreneur et
+tous ses gestionnaires, surintendants ou représentants
+équivalents chargés de superviser ou de diriger
+<ol type="i">
+<li value="1">toutes ou presque toutes les affaires de
+l'Entrepreneur;</li>
+<li value="2">toutes ou presque toutes les activités de
+l'Entrepreneur dans l'une ou l'autre usine ou à des
+emplacements distincts où le Contrat est exécuté;
+ou</li>
+<li value="3">une installation industrielle de grande envergure,
+distincte et complète, liée à l'exécution du
+présent Contrat.</li>
+</ol>
+</li>
+<li value="2">L'Entrepreneur ne sera pas tenu responsable de la
+perte, de la destruction ni de l'endommagement de biens fournis par
+le Gouvernement en vertu du présent Contrat (ou, s'il s'agit
+d'un organisme éducatif ou sans but lucratif, des frais
+connexes à la perte, à la destruction ou à
+l'endommagement en question), sous réserve des exceptions
+stipulées aux alinéas 3. et 4. ci-après.</li>
+<li value="3">L'Entrepreneur sera responsable de la perte, de la
+destruction ou de l'endommagement des biens du Gouvernement fournis
+en vertu du présent Contrat (y compris les frais indirects
+connexes à la perte, à la destruction ou à
+l'endommagement en question) et
+<ol type="i">
+<li value="1">résultant d'un risque devant être
+expressément assuré en vertu du présent Contrat,
+mais uniquement dans la mesure prévue par l'assurance
+étant ou devant être achetée ou maintenue, selon le
+plus élevé des deux montants;</li>
+<li value="2">résultant d'un risque couvert par une assurance ou
+pour lequel l'Entrepreneur est remboursé, mais seulement dans
+la mesure prévue par cette assurance ou ce remboursement;</li>
+<li value="3">dont l'Entrepreneur est déjà responsable en
+vertu de dispositions expresses du présent Contrat;</li>
+<li value="4">découlant d'une inconduite délibérée ou
+un manque de bonne foi de la part du personnel de gestion de
+l'Entrepreneur; ou</li>
+<li value="5">résultant d'une omission de la part de
+l'Entrepreneur, imputable à une inconduite
+délibérée ou un manque de bonne foi, de la part du
+personnel de gestion de l'Entrepreneur, chargé d'établir
+et d'administrer un programme ou un système pour le
+contrôle, l'usage, la protection, la préservation, le
+maintien et la réparation des biens du Gouvernement,
+conformément au paragraphe (e) de la clause <span class="clauseRef">Z0801C</span>.</li>
+</ol>
+</li>
+<li value="4">
+<ol type="i">
+<li value="1">Si l'Entrepreneur omet de se conformer au
+sous-alinéa (g)3.(v) ci-dessus, après avoir reçu un
+avis (envoyé par courrier recommandé à l'un de ses
+gestionnaires) indiquant la désapprobation de la <abbr title="Corporation commerciale canadienne">CCC</abbr> ou du
+Gouvernement américain à l'égard du système ou
+du programme, ou le retrait d'une approbation pertinente ou le
+refus du système ou du programme, on présumera de
+manière concluante que cette omission est attribuable à
+une inconduite délibérée ou à un manque de
+bonne foi de la part du personnel de gestion de
+l'Entrepreneur.</li>
+<li value="2">En pareil cas, toute perte ou destruction, ou tout
+endommagement des biens du Gouvernement sera réputé(e)
+attribuables à cette omission à moins que l'Entrepreneur
+ne puisse prouver clairement et nettement que la perte, la
+destruction ou l'endommagement en question
+<ol type="A">
+<li value="1">n'est pas attribuable à l'omission par l'Entrepreneur
+de maintenir un programme ou un système approuvé; ou</li>
+<li value="2">est survenu(e) pendant que l'Entrepreneur maintenait un
+programme ou un système approuvé.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="5">Si l'Entrepreneur transfère des biens du
+Gouvernement de manière qu'ils soient en la possession et sous
+le contrôle d'un sous-traitant, le transfert ne modifiera pas
+la responsabilité de l'Entrepreneur à l'égard de la
+perte, de la destruction ou de l'endommagement des biens,
+conformément aux dispositions ci-dessus. Cependant,
+l'Entrepreneur exigera que le sous-traitant assume le risque
+pertinent et soit responsable de toute perte ou destruction ou de
+tout endommagement des biens pendant qu'ils seront en la possession
+ou sous le contrôle du sous-traitant sauf dans la mesure
+où le marché de sous-traitance, avec l'approbation
+préalable de l'Agent de négociation des contrats,
+exonère le sous-traitant de cette responsabilité. En
+l'absence d'une telle approbation, le marché de sous-traitance
+devra renfermer des dispositions appropriées exigeant le
+retour de tous les biens du Gouvernement en aussi bon état
+qu'au moment de leur réception, exception faite de l'usure
+raisonnable ou de leur utilisation conformément aux
+dispositions du Contrat principal.</li>
+<li value="6">Dès la perte, la destruction ou l'endommagement
+de biens du Gouvernement fournis en vertu du présent Contrat,
+l'Entrepreneur devra en informer l'Agent de négociation des
+contrats et communiquer avec l'organisme de récupération,
+s'il en est, désigné par l'Agent de négociation des
+contrats. Avec l'aide d'un tel organisme, l'Entrepreneur prendra
+toutes les dispositions raisonnables pour protéger les biens
+du Gouvernement contre tout dommage ultérieur, séparer
+les biens du Gouvernement endommagés et intacts, placer tous
+les biens visés dans le meilleur ordre possible et fournir
+à l'Agent de négociation des contrats un énoncé
+portant sur
+<ol type="i">
+<li value="1">les biens du Gouvernement perdus, détruits ou
+endommagés;</li>
+<li value="2">le moment et l'origine de la perte, de la destruction ou du
+dommage;</li>
+<li value="3">tous les intérêts connus relatif aux biens
+mélangés dont font partie les biens du Gouvernement;
+et</li>
+<li value="4">l'assurance éventuelle portant sur une partie
+quelconque de ces biens mélangés ou sur un
+intérêt à leur égard.</li>
+</ol>
+</li>
+<li value="7">L'Entrepreneur devra réparer, rénover et
+prendre d'autres dispositions pertinentes relativement aux biens du
+Gouvernement endommagés, selon les directives de l'Agent de
+négociation des contrats. Si les biens du Gouvernement sont
+détruits ou endommagés de manière à être
+irréparables ou s'ils sont endommagés et à ce point
+mélangés ou combinés avec les biens de tiers (y
+compris ceux de l'Entrepreneur) qu'ils ne sont pas faciles à
+séparer, l'Entrepreneur pourra, avec l'approbation de l'Agent
+de négociation des contrats et sous réserve de toute
+condition imposée par celui-ci, vendre les biens en question
+pour le compte du Gouvernement. Ces ventes viseront à
+réduire la perte imputable au Gouvernement, afin de permettre
+la reprise des affaires ou l'atteinte d'un but semblable.
+L'Entrepreneur aura droit à un ajustement équitable du
+prix contractuel pour les dépenses engagées afin de
+s'acquitter des obligations prévues par l'alinéa (g) 7.,
+conformément au paragraphe (h) de la clause <span class="clauseRef">Z0801C</span>. Cependant, le Gouvernement pourra
+directement rembourser l'organisme de récupération pour
+tous les frais qu'il aura engagés. L'Agent de négociation
+des contrats accordera l'attention appropriée à la
+responsabilité de l'Entrepreneur relative au présent
+paragraphe (g), en effectuant cet ajustement équitable.</li>
+<li value="8">L'Entrepreneur garantit qu'il n'inclue pas et
+n'inclura pas dans le prix facturé à la <abbr title="Corporation commerciale canadienne">CCC</abbr> tous les
+frais ou toutes les réserves d'assurance (y compris tout fonds
+ou toute réserve d'autoassurance) couvrant la perte, la
+destruction ou l'endommagement de biens du Gouvernement, sauf dans
+la mesure où la <abbr title="Corporation commerciale canadienne">CCC</abbr> pourra avoir expressément
+demandé à l'Entrepreneur de souscrire une telle assurance
+en vertu d'une autre disposition du présent Contrat.</li>
+<li value="9">Au cas où l'Entrepreneur serait remboursé
+ou indemnisé relativement à toute perte ou destruction ou
+à tout endommagement de biens du Gouvernement, il devra
+utiliser le produit de cette indemnisation ou de ce remboursement
+pour réparer, rénover ou remplacer les biens du
+Gouvernement perdus, détruits ou endommagés, ou
+créditer ces montants afin de rembourser équitablement la
+<abbr title="Corporation commerciale canadienne">CCC</abbr>, conformément aux directives de l'Agent de
+négociation des contrats.</li>
+<li value="10">L'Entrepreneur ne devra rien faire pour porter
+préjudice aux droits de recours de la <abbr title="Corporation commerciale canadienne">CCC</abbr> ou du Gouvernement
+américain contre des tiers pour toute perte ou destruction ou
+tout endommagement de biens du Gouvernement. Dès que l'Agent
+de négociation des contrats lui en fera la demande,
+l'Entrepreneur devra, aux frais de la <abbr title="Corporation commerciale canadienne">CCC</abbr> ou du Gouvernement
+américain, fournir à ces derniers toute l'aide et la
+coopération raisonnables (y compris les poursuites judiciaires
+et l'exécution des instruments de cession en faveur de la
+partie concernée) pour obtenir un recouvrement. En outre,
+lorsqu'un sous-traitant n'aura pas été exonéré
+de la responsabilité relative à toute perte ou
+destruction ou à tout endommagement de biens du Gouvernement,
+l'Entrepreneur devra exercer à l'avantage de la <abbr title="Corporation commerciale canadienne">CCC</abbr> ou du
+Gouvernement américain la responsabilité du sous-traitant
+relative à cette perte, à cette destruction ou à ce
+dommage.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

@@ -1,0 +1,87 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour les services d'affrètement aérien.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><strong>Interprétation</strong>
+<ul class="hierarchy">
+<li><span class="number">1.1</span> <dfn>« jour »</dfn> désigne toute période de 24 heures consécutives;</li>
+<li><span class="number">1.2</span> <dfn>« mois »</dfn> désigne toute période de 30 jours consécutifs; et</li>
+<li><span class="number">1.3</span> <dfn>« vol »</dfn> désigne le déplacement d'un aéronef entre le point de décollage
+et le premier point d'atterrissage.</li>
+</ul>
+</li>
+<li value="2"><strong>Exécution, interruption ou annulation des vols d'affrètement</strong>
+<ul class="hierarchy">
+<li><span class="number">2.1</span> Le transporteur conserve la maîtrise technique exclusive de l'aéronef affrété, de son contenu et de son équipage.</li>
+<li><span class="number">2.2</span> Le transporteur s'assure que toute personne transportée à bord d'un aéronef affrété se conforme aux conditions du contrat, et toute
+personne et bien se trouvant à bord d'un aéronef affrété sont assujettis à l'autorité du commandant de bord.</li>
+<li><span class="number">2.3</span> Le transporteur peut :
+<ol type="a">
+<li value="1">annuler ou résilier à tout moment l'affrètement ou un vol particulier de celui-ci,</li>
+<li value="2">revenir à la base ou au dernier point d'atterrissage, ou</li>
+<li value="3">dérouter l'aéronef ou atterrir à un point intermédiaire, lorsqu'il le juge nécessaire en raison d'une défectuosité de l'aéronef, du mauvais temps ou les
+conditions indépendantes de sa volonté.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li value="3"><strong>Marchandises dangereuses ou produits dangereux</strong>
+<br/>Le transporteur doit observer les lois et règlements qui s'appliquent au transport de marchandises dangereuses ou produits dangereux.
+</li>
+<li value="4"><strong>Espace réservé au transporteur</strong>
+<br/>À moins que l'affréteur ne s'y oppose, le transporteur peut utiliser, pour le transport de son personnel, de ses bagages ou de ses marchandises, tout espace que n'utilise pas
+l'affréteur dans l'aéronef affrété.
+</li>
+<li value="5"><strong>Annulations, exécutions partielles ou déroutements</strong>
+<ul class="hierarchy">
+<li><span class="number">5.1</span> En cas d'annulation de l'affrètement par le transporteur après son entrée en vigueur, des frais seront uniquement applicables à la
+partie du service exécutée.</li>
+<li><span class="number">5.2</span> Aucun frais ne sera facturé à l'affréteur :
+<ol type="a">
+<li value="1">lorsqu'un vol n'est pas terminé en raison de défaillances mécaniques ou d'accidents survenus à des membres de l'équipage et que le transporteur n'organise pas de transport de remplacement satisfaisant; ou</li>
+<li value="2">pour le temps de vol effectué dans une tentative infructueuse de terminer un vol prévu par le contrat d'affrètement.</li>
+</ol></li>
+</ul>
+</li>
+<li value="6"><strong>Substitution d'aéronefs</strong>
+<ul class="hierarchy">
+<li><span class="number">6.1</span> Lorsque, pour des raisons indépendantes de la volonté du transporteur, l'aéronef affrété n'est pas disponible au moment
+d'entreprendre l'exécution de l'affrètement ou qu'il cesse d'être disponible en cours d'exécution de l'affrètement, le transporteur peut fournir un autre
+aéronef du même type ou, avec l'accord de l'affréteur, un appareil d'un autre type aux taux et taxes applicables à l'aéronef initialement affrété, sauf pour les cas prévus aux paragraphes 6.2 et 6.3.</li>
+<li><span class="number">6.2</span> Lorsqu'un aéronef de remplacement peut transporter une charge marchande supérieure à celle de l'aéronef initialement affrété, la charge marchande transportée par l'aéronef de remplacement ne doit pas excéder celle qui aurait pu être mise à bord du premier aéronef, à moins que l'affréteur n'accepte de payer les taux et frais applicables à l'aéronef de remplacement.</li>
+<li><span class="number">6.3</span> Lorsque l'aéronef de remplacement a une charge marchande maximale inférieure à celle de l'aéronef initialement affrété, les frais seront d'après les taux et frais applicables à l'aéronef de remplacement, sauf que, s'ils sont supérieurs à ceux de l'aéronef initialement affrété, ce sont ces derniers qui s'appliqueront.</li>
+</ul>
+</li>
+<li value="7"><strong>Détermination de taux horaire ferme</strong>
+<ul class="hierarchy">
+<li><span class="number">7.1</span> À l'exception du cas prévu au paragraphe 7.2, les heures et les minutes de vol à facturer sont comptées à partir du moment où l'aéronef quitte la surface terrestre et se termine lorsque l'aéronef touche la surface terrestre au prochain point d'atterrissage. Le terme « taux horaire ferme » représente des frais pour une heure, ou une portion de celle-ci, de « Temps dans les airs » tel que défini dans le <cite>Règlement de l'aviation canadien</cite>, Partie VIII, Services de la navigation aérienne, et sera la base utilisée pour calculer les frais de services aériens.</li>
+<li><span class="number">7.2</span> Lorsque l'exploitation comporte une succession ininterrompue de vols de moins dix (10) minutes chacun et que l'on ne coupe pas le moteur entre ces divers vols, le temps dans les airs devra être calculé à partir du moment où l'aéronef quitte la surface terrestre pour le premier vol jusqu'au moment où l'aéronef touche la surface terrestre au point final d'atterrissage.</li>
+<li><span class="number">7.3</span> Dans le calcul de la durée d'un vol :
+<ol type="a">
+<li value="1">les fractions d'heure doivent être exprimées en décimales, une fraction correspondant à une période de six minutes,</li>
+<li value="2">chaque période de moins de trois (3) minutes doit être ramené à zéro, et</li>
+<li value="3">chaque période de trois à six minutes doit être arrondie à six (6) minutes, sauf qu'aucun vol ne peut être considéré comme
+ayant une durée inférieure à 0.1 heure.</li>
+</ol>
+</li>
+</ul>
+</li>
+<li value="8"><strong>Taux et taxes applicables pour voilure fixe seulement</strong>
+<ul class="hierarchy">
+<li><span class="number">8.1</span> Pour les affrètements, les taux au mille doivent s'appliquer pour les vols de point à point lorsque les distances de vol sont mesurables.</li>
+<li><span class="number">8.2</span> Les taux horaires s'appliquent lorsque le transporteur assure un service aérien pour le compte d'un affréteur qui se livre à des opérations comportant des vols ou parties de vols où la distance parcourue n'est pas mesurable ou lorsque l'affréteur en fait la demande, auquel cas le transporteur doit mentionner cette demande sur la facture.</li>
+</ul>
+</li>
+<li value="9"><strong>Mesure des distances pour voilure fixe seulement</strong>
+<ul class="hierarchy">
+<li><span class="number">9.1</span> Si un vol doit être exécuté sur des voies aériennes ou des itinéraires désignés par le ministère des Transports, les distances doivent être mesurées suivant
+des lignes droites, le long de ces itinéraires.</li>
+<li><span class="number">9.2</span> Les distances de vol, autres que celles prévues au paragraphe 9.1 doivent être mesurées en ligne droite tirée du point d'origine au point de destination du vol d'affrètement, en utilisant les cartes aéronautiques standard de la Série nationale de référence cartographique, à l'échelle de 8 milles au pouce que publie le ministère des Ressources
+naturelles, à Ottawa.</li>
+</ul>
+</li>
+</ol>
+</div></pre>

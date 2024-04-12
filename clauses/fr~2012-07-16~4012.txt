@@ -1,0 +1,45 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser les conditions générales supplémentaires suivantes dans les contrats pour 
+les besoins plus complexes, concurrentiels ou non concurrentiels, pour l'acquisition de 
+services lorsqu'une partie des travaux sera pour des biens.
+ </p>
+<p>
+  Utiliser en conjonction avec les conditions générales
+  
+   2035
+  
+  .  Ne pas utiliser avec 2029, 2010A, 2010B, 
+2010C, 2030 ou 2040.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2012-07-164012condition-du-materiel">01 Condition du matériel</a></li>
+<li><a href="#2012-07-164012documentation-d-envoi">02 Documentation d'envoi</a></li>
+<li><a href="#2012-07-164012garantie">03 Garantie</a></li>
+</ul>
+</div>
+<h2 id="2012-07-164012condition-du-materiel">4012 01 (2012-07-16) Condition du matériel</h2>
+<p>Sauf disposition contraire dans le contrat, le matériel fourni doit être neuf et conforme à la plus récente version du dessin, de la spécification et du numéro de pièce pertinent qui est en vigueur à la date de clôture de la demande de soumissions ou, s'il n'y avait pas de demande de soumissions, la date du contrat.
+</p>
+<h2 id="2012-07-164012documentation-d-envoi">4012 02 (2012-07-16) Documentation d'envoi</h2>
+<p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (si et lorsque stipulé), auquel cas il doit accompagner l'envoi. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité d'articles, les numéros de pièce ou de référence, la description des biens et le numéro du contrat, incluant le <abbr title="Numéro de référence du client">NRC</abbr> et le <abbr title="Numéro d'entreprise - approvisionnement">NEA</abbr>. Si les biens ont été inspectés dans les locaux de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue à cette fin.
+</p>
+<h2 id="2012-07-164012garantie">4012 03 (2012-07-16) Garantie</h2>
+<ol type="1">
+<li value="1">Malgré l'inspection et l'acceptation des travaux par le Canada ou au nom de celui-ci et sans limiter l'application toute autre disposition du contrat ou toute condition, garantie ou disposition, prévue par la loi, l'entrepreneur garantit, pour une période de douze (12) mois (ou tout autre période stipulée dans le contrat) que les travaux seront exempts de toute défectuosité liée à la conception, aux matériaux ou à la mise en oeuvre et qu'ils seront conformes aux exigences du contrat. La période de la garantie commence à la date de la livraison ou, si l'acceptation a lieu à une date postérieure, à la date de l'acceptation. Toutefois, en ce qui concerne les biens de l'État qui ne sont pas fournis par l'entrepreneur, la garantie de l'entrepreneur ne vise que leur intégration adéquate aux travaux.</li>
+<li value="2">En cas de défectuosité ou non-conformité de quelque partie des travaux pendant la période de garantie, l'entrepreneur, sur demande du Canada doit réparer, remplacer ou rectifier, à son choix et à ses frais, le plus tôt possible, la partie des travaux jugée défectueuse ou non conforme aux exigences du contrat.</li>
+<li value="3">Les travaux ou toute partie des travaux jugés défectueux ou non conformes seront retournés aux locaux de l'entrepreneur en vue de leur remplacement, de leur réparation ou de leur rectification. Cependant, lorsque le Canada est d'avis qu'un tel déplacement n'est pas pratique, l'entrepreneur doit procéder aux réparations ou aux rectifications nécessaires là où les travaux se trouvent. L'entrepreneur sera remboursé des frais justes et raisonnables (incluant une indemnité de déplacement et de subsistance) engagés, à l'exclusion de tout profit, déduction faite du coût correspondant à la rectification de la défectuosité ou de la non-conformité dans les locaux de l'entrepreneur.</li>
+<li value="4">Le Canada doit payer les frais de transport des travaux ou de toute partie des travaux aux locaux de l'entrepreneur conformément au paragraphe 3. L'entrepreneur doit payer les frais de transport des travaux ou de toute partie des travaux qui sont remplacés ou rectifiés, au lieu de livraison précisé dans le contrat ou à un autre endroit désigné par le Canada.</li>
+<li value="5">L'entrepreneur, à ses frais, doit remédier aux effets de toute correction ou remplacement prévus dans le présent article sur l'ensemble des données et rapports, y compris la révision et la mise à jour de l'ensemble des données, manuels, publications, logiciels et dessins touchés et demandés en vertu du contrat.</li>
+<li value="6">Si l'entrepreneur ne s'acquitte pas d'une obligation prévue dans le présent article dans un délai raisonnable après avoir reçu un avis, le Canada aura le droit de remédier ou de faire remédier aux travaux défectueux ou non conformes aux frais de l'entrepreneur.  Si le Canada ne désire pas corriger ou remplacer les travaux défectueux ou non conformes, le prix contractuel sera réduit de façon équitable.</li>
+<li value="7">La période de garantie est automatiquement prolongée de la période au cours de laquelle les travaux sont inutilisables en raison d'une défectuosité ou d'une non-conformité. La garantie s'applique à toute partie des travaux qui est réparée, remplacée ou par ailleurs rectifiée conformément au paragraphe 2, pendant la plus étendue des deux périodes suivantes :
+<ol type="a">
+<li value="1"> la période de la garantie qui reste y compris la prolongation; ou</li>
+<li value="2">quatre-vingt-dix (90) jours ou toute autre période stipulée à cette fin après entente entre les parties.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

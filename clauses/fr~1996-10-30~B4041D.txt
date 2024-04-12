@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans le cas des biens d'équipement qui comprennent des 
+matériaux radioactifs (MA) selon la quantité prévue (QP) au sens défini dans le 
+Règlement sur le contrôle de l'énergie atomique, en vertu de la Loi sur le 
+contrôle de l'énergie atomique.  La QP de MA est utilisée dans l'équipement du 
+MDN pour l'éclairage (compas, mires, lumières bêta, cadrans, etc.), la 
+régulation (régulateurs d'oxygène, hélices d'hélicoptère, etc.), le revêtement 
+des lentilles (télescope MK 102, véhicules blindés légers, etc.), les systèmes 
+de détection (CAM, EVD et TDV, etc.), les appareils de vérification et 
+d'étalonnage (AN UDM 1A, FDR 502, UDM 501, etc.), les appareils à laser 
+(télémètre à laser, acquisition d'objectifs à laser CF18), les radars (ADATS), 
+l'équipement de génie (troxlers, repères de passage, etc.), les jauges 
+nucléaires, la radiographie industrielle et d'autres applications.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit déclarer tous les matériaux radioactifs fournis selon 
+les quantités prévues conformément à l<em>a Loi sur le contrôle de l'énergie 
+atomique</em> et au règlement afférent.  Il doit se conformer au numéro le plus 
+récent de l'ITFC C-02-040-003/TP-000 en ce qui concerne tous les aspects 
+des permis, des rapports, des repères, du transport, de l'emballage, des 
+mises en garde dans les manuels, de l'élimination, des méthodes de 
+réparation et des autres questions prévues dans ce document.
+
+
+</pre>

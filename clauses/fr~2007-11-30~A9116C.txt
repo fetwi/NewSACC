@@ -1,0 +1,60 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour l'achat de services 
+pertinents (tels que services de transport et de télécommunication; de 
+publicité; professionnels et spéciaux; et services de réparation et d'entretien) 
+ainsi que pour les contrats comprenant à la fois des biens et des services si 
+l'élément service est d'un montant de 500 $ ou plus dans l'année civile, et 
+lorsque le ministère client désire recevoir l'information directement de 
+l'entrepreneur après l'attribution du contrat.  Ceci inclut les contrats ou les 
+offres à commandes attribués à des Canadiens qui effectuent des travaux pour le 
+gouvernement à l'étranger. L'agent de négociation des contrats doit insérer le 
+nom de la personne à contacter ainsi que l'adresse fournis par le ministère 
+client.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Conformément à l'alinéa 221 (1)(d) de
+la <cite>Loi de l'impôt sur le revenu</cite>, <abbr title="Lois révisées">L.R.</abbr> 1985, <abbr title="chapitre">ch.</abbr>
+1, (5e suppl.), les ministères et organismes sont tenus de
+déclarer à l'aide du feuillet T1204, Paiements
+contractuels de services du gouvernement, les paiements versés
+aux entrepreneurs en vertu de contrats de services pertinents (y
+compris les contrats comprenant à la fois des biens et des
+services).</li>
+<li value="2">Afin de permettre aux ministères et organismes
+de se conformer à cette exigence, l'entrepreneur doit fournir
+l'information suivante, dans les <var>______</var> jours civils
+après l'attribution du contrat :
+<ol type="a">
+<li value="1">le nom légal de l'entrepreneur, c.-à-d. le
+nom associé au numéro d'entreprise ou au numéro
+d'assurance sociale (NAS), ainsi que l'adresse et le code
+postal;</li>
+<li value="2">le statut de l'entrepreneur, c.-à-d.
+particulier, entreprise à propriétaire unique,
+société commerciale ou société de
+personnes;</li>
+<li value="3">le numéro d'entreprise de l'entrepreneur, s'il
+s'agit d'une société commerciale ou d'une
+société de personnes ou le <abbr title="numéro d'assurance sociale">NAS</abbr>, s'il s'agit d'un
+particulier ou d'une entreprise à propriétaire unique. Si
+l'entrepreneur est une société de personnes qui n'a pas
+de numéro d'entreprise, l'associé ayant signé le
+contrat doit fournir son <abbr title="numéro d'assurance sociale">NAS</abbr>;</li>
+<li value="4">si l'entité est une coentreprise, le numéro
+d'entreprise de tous les entrepreneurs faisant partie de celle-ci,
+ou leur <abbr title="numéro d'assurance sociale">NAS</abbr> s'ils n'ont pas de numéro d'entreprise.</li>
+</ol>
+</li>
+<li value="3">L'information devrait être expédiée
+à la personne et à l'adresse indiquées ci-dessous.
+Lorsque l'information requise comprend un <abbr title="numéro d'assurance sociale">NAS</abbr>, celle-ci doit
+être expédiée dans une enveloppe portant
+l'inscription « protégée ».<br/>
+Nom de la personne : <var>____________</var><br/>
+Adresse : <var>__________</var> .
+</li>
+</ol>
+</div></pre>

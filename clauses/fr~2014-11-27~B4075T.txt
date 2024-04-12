@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsque le soudage doit être effectué par un entrepreneur certifié par le Bureau canadien de soudage et tout soudage doit être effectué conformément aux normes W47.1 et W47.2 de l'Association canadienne de normalisation (CSA).
+ </p>
+<p>
+  Les agents de négociation des contrats doivent inclure la norme de la
+  <abbr title="Association canadienne de normalisation">
+   CSA
+  </abbr>
+  qui s'applique.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le soudage doit être effectué par un soudeur approuvé par le Bureau canadien du soudage selon les exigences des normes suivantes de l'Association canadienne de normalisation (CSA) :
+<ol type="a">
+<li value="1"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.1-09 (R2014), Certification des compagnies de soudage par fusion de l'acier <span class="input-required"><var>_____</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>; et</li>
+<li value="2"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.2-11, Certification des compagnies de soudage par fusion de l'aluminium <span class="input-required"><var>______</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>;</li>
+</ol>
+</li>
+<li value="2">Avant l'attribution du contrat et dans les <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours civils suivant la demande écrite de l'autorité contractante, le soumissionnaire retenu doit montrer qu'il possède la reconnaissance de sa qualification en matière de soudage.</li>
+</ol>
+</div></pre>

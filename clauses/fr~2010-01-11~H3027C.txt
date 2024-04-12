@@ -1,0 +1,37 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le soumissionnaire retenu 
+a indiqué dans sa soumission que le paiement de factures par carte d'achat du 
+gouvernement du Canada (carte de crédit) sera accepté, et la demande de 
+soumissions comprenait la clause
+  
+   H3027T
+  
+  .
+ </p>
+<p>
+  Pour plus de renseignements, consulter l'article
+  
+   4.70.55
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent indiquer la ou les cartes de 
+crédit acceptées par le soumissionnaire tel qu'il est spécifié dans sa 
+soumission, p. ex., Visa, Master Card.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>La  carte de crédit <var>_______</var> est acceptée.</li>
+<li><strong>OU</strong>
+<br/>Les cartes de crédit <var>_______</var> et <var>_______</var> sont acceptées.</li>
+</ul>
+</div></pre>

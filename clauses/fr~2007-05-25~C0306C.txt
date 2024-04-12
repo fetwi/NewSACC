@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats à frais remboursables.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur ne sera pas payé pour les coûts
+encourus avant la date d'entrée en vigueur du contrat sauf si
+le contrat contient une clause explicite à cet égard.</p>
+</div></pre>

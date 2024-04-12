@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
+nationale lorsque l'article ou les articles contiennent des éléments en 
+élastomère, par exemple des tuyaux souples, du caoutchouc, des composés adhésifs.
+
+Utiliser l'option 1 pour les pièces de rechange pour sous-marins qui contiennent 
+des éléments en élastomère, et l'option 2 pour tous les autres articles.
+
+Utiliser cette clause en conjonction avec D2015C et D2016C, s'il y a lieu.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Option 1</strong> :
+L'entrepreneur doit s'assurer qu'il reste pour l'article ou les articles ___________ 
+(<span class="wsInlineRemark"><strong>insérer le numéro d'article applicable</strong></span>) 75 pour cent de la durée de 
+conservation autorisée selon la norme ISO 2230 à la date de livraison au 
+ministère de la Défense nationale.
+
+<strong>Option 2</strong> :
+L'entrepreneur doit s'assurer qu'il reste pour l'article ou les articles ___________ 
+(<span class="wsInlineRemark"><strong>insérer le numéro d'article applicable</strong></span>) 75 pour cent de la durée de 
+conservation autorisée selon la norme CFTO D-05-001/SF-000 à la date de 
+livraison au ministère de la Défense nationale.
+
+
+
+</pre>

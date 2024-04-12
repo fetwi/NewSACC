@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les offres à commandes et les demandes d'offres 
+à commandes.  Les agents de négociation des contrats sont avisés que l'ordre de 
+priorité qui des documents figure ci-dessous est conforme aux politiques et aux 
+conseils juridiques actuels.  Ils devront modifier la liste en fonction de la 
+situation.
+
+Utiliser la clause B4025D pour les contrats et les demandes de propositions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les documents énumérés ci-après font partie intégrante de l'offre à 
+commandes et de toute commande subséquente.  En cas d'incompatibilité entre 
+les textes énumérés dans la liste, c'est le libellé du document qui 
+apparaît en premier sur la liste qui devra l'emporter sur celui de tout 
+autre document qui figure par la suite sur ladite liste.
+
+1.     La commande subséquente à l'offre à commandes, y compris les annexes;
+
+2.     Les articles de la présente offre à commandes;
+
+3.     Les conditions générales supplémentaires __________<strong> (</strong><strong><em>Insérer le 
+numéro et le titre</em></strong><strong>)</strong>;
+
+4.     Les conditions générales ___________ <strong>(</strong><strong><em>Insérer le numéro et le titre</em></strong><strong>)</strong>;
+
+(<strong><em>Énumérer les annexes par ordre de priorité, s'il y a lieu</em></strong><em>.</em>)
+
+5.     Annexe __ - ____________;
+
+6.     Annexe __ - ____________;
+
+7.     L'offre, s'il y a lieu __________ <em>(</em><strong><em>Insérer la date de l'offre selon 
+       la dernière modification</em></strong>).
+
+</pre>

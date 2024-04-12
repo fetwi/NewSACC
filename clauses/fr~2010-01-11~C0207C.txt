@@ -1,0 +1,50 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats à prix ferme.
+
+Utiliser l'option 1 lorsque tous les travaux font l'objet d'un prix ferme, 
+d'un(de) prix unitaires ferme(s) ou d'un(de) prix de lot(s) ferme(s).
+
+Utiliser l'option 2 lorsque seulement une partie des travaux fait l'objet d'un 
+prix ferme ou  d'un(de) prix de lot(s) ferme(s).</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Option 1</strong>
+À condition de remplir de façon satisfaisante toutes ses obligations en 
+vertu du contrat, l'entrepreneur sera payé _______ (<span class="wsInlineRemark"><strong>insérer</strong></span> « un prix ferme
+ » <span class="wsInlineRemark"><strong>OU</strong></span> « un(des) prix unitaire(s) ferme(s)» OU « un (des) prix de lot ferme(
+s) » précisé(s) dans le contrat OU dans l'annexe _____), selon un montant 
+total de _____ $ (<span class="wsInlineRemark"><strong>insérer le montant au moment de l'attribution du contrat</strong></span>).  
+Les droits de douane ______ (<span class="wsInlineRemark"><strong>insérer</strong></span> « sont inclus »,  « sont exclus » <span class="wsInlineRemark"><strong>ou</strong></span> « 
+font l'objet d'une exemption ») et la taxe sur les produits et services ou 
+la taxe de vente harmonisée est en sus, s'il y a lieu.
+
+Le Canada ne paiera pas l'entrepreneur pour tout changement à la conception, 
+toute modification ou interprétation des travaux, à moins que ces 
+changements à la conception, ces modifications ou ces interprétations 
+n'aient été approuvés par écrit par l'autorité contractante avant d'être 
+intégrés aux travaux.
+
+
+<strong>Option 2</strong>
+Pour les travaux décrits dans _________ (<span class="wsInlineRemark"><strong>insérer la ou les sections 
+appropriées de l'énoncé des travaux ou des besoins auxquelles s'applique 
+cette base de paiement</strong></span>) __________ (<span class="wsInlineRemark"><strong>insérer</strong></span> « de l'énoncé des travaux » <strong><em>ou</em></strong> 
+« des besoins ») à l'annexe ____.
+
+À condition de remplir de façon satisfaisante ses obligations en vertu du 
+contrat, l'entrepreneur sera payé ______ (<span class="wsInlineRemark"><strong>insérer</strong></span> « un prix ferme » <strong><em>ou</em></strong> « 
+un(des) prix de lot ferme(s) »), selon un montant total  de _____ $ (<span class="wsInlineRemark"><strong>
+insérer le montant au moment de l'attribution du contrat</strong></span>).  Les droits de 
+douane _______ (<span class="wsInlineRemark"><strong>insérer</strong></span> « sont inclus », « sont exclus » <span class="wsInlineRemark"><strong>ou</strong></span> « font l'objet 
+d'une exemption ») et la taxe sur les produits et services ou la taxe de 
+vente harmonisée est en sus, s'il y a lieu.
+
+Pour la portion des travaux faisant l'objet d'un prix ferme seulement, le 
+Canada ne paiera pas l'entrepreneur pour tout changement à la conception, 
+toute modification ou interprétation des travaux, à moins que ces 
+changements à la conception, ces modifications ou ces interprétations 
+n'aient été approuvés par écrit par l'autorité contractante avant d'être 
+intégrés aux travaux.
+
+
+
+</pre>

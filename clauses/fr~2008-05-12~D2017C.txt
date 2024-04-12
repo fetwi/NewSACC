@@ -1,0 +1,41 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le besoin et les 
+renseignements à fournir sont précisés par le personnel des achats ou des 
+finances du ministère de la Défense nationale qui produit la demande.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec la clause
+  
+   B4060C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit apposer des codes à barres sur les
+articles <span class="input-required"><var>________</var> <kbd>(<strong><em>insérer la liste</em></strong>)</kbd></span>, 
+comprenant le numéro permanent
+de contrôle de système (NPCS) ou le numéro de
+nomenclature de l'<abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr> (NNO), apparaissant ailleurs dans le contrat
+ou fourni par le ministère de la Défense nationale,
+conformément à la norme UCC/EAN-128 (Uniform Code
+Council/EAN International), et précédé de
+l'identificateur d'application 241 dans le cas du <abbr title="numéro permanent
+de contrôle de système">NPCS</abbr>, ou encore
+de 7001 dans le cas du <abbr title="numéro de nomenclature de l'OTAN">NNO</abbr>. Sous le symbole du code à barres,
+l'entrepreneur doit apposer la traduction en clair du code.</p>
+<p>Les marques d'identification doivent être placées et
+appliquées conformément à la norme
+D-02-002-001/SG-001, Marque d'identification standard des biens
+militaires canadiens (en vigueur à la date de clôture de
+la demande de soumissions) du ministère de la Défense
+nationale, et doivent être d'une qualité telle qu'elles
+demeureront lisibles pendant toute la durée de vie utile
+prévue de l'article. Le code à barres doit être
+imprimé sur une matière compatible à l'article
+auquel il doit être joint, entre autres : des articles de
+plastique, de métal, d'étoffe, de matériaux
+synthétiques ou de papier, ou des articles fabriqués au
+moyen d'au moins deux de ces matières.</p>
+</div></pre>

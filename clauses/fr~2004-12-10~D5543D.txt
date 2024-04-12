@@ -1,0 +1,39 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'on peut constater en bonne et due forme, au 
+point de destination (identité, état et nombre), que les marchandises respectent 
+les exigences du contrat. Si la demande d'achat comprend différents codes 
+d'assurance de la qualité (AQ), l'agent de négociation des contrats doit 
+indiquer les articles correspondant à chaque clause sur l'AQ.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit mettre en place un système d'assurance de la qualité 
+propre à la portée des travaux à exécuter.  Il est recommandé que le 
+système d'assurance de la qualité soit basé sur ISO 9001:2000 - Systèmes de 
+management de la qualité - Exigences.
+
+L'entrepreneur doit effectuer ou faire effectuer tous les essais et 
+inspections nécessaires permettant d'établir que le matériel ou les 
+services fournis sont conformes aux dessins, aux spécifications et aux 
+exigences contractuelles.  L'entrepreneur doit conserver des registres 
+d'inspection exacts et complets qui devront, sur demande, être mis à la 
+disposition du représentant autorisé du ministère de la Défense nationale 
+(MDN), qui peut en faire des copies et en tirer des extraits pendant 
+l'exécution du contrat et pendant une période d'un (1) an suivant la fin 
+des travaux.
+
+L'autorité contractante et le MDN doivent avoir accès aux travaux en tout 
+temps durant les heures de travail, là où toute partie des travaux est 
+exécutée, et peuvent procéder aux examens et aux essais qu'ils jugent 
+appropriés selon les circonstances.  Si les travaux ou toute partie des 
+travaux ne sont pas conformes aux exigences contractuelles, le représentant 
+autorisé du MDN a le droit de rejeter les travaux et d'exiger qu'ils soient 
+corrigés ou remplacés aux frais de l'entrepreneur.  Le MDN doit communiquer 
+à l'entrepreneur les motifs d'un tel rejet.
+
+Sans égard à ce qui précède, tout le matériel pourra être vérifié et 
+accepté par le MDN au point de destination.  Le représentant agréé du MDN 
+au point de destination pourra être le destinataire, le responsable 
+technique ou le responsable de l'assurance de la qualité.
+
+
+</pre>

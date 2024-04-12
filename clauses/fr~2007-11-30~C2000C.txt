@@ -1,0 +1,40 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'une soumission peut être 
+reçue d'un entrepreneur établi à l'étranger.
+ </p>
+<p>
+  Pour les demandes de soumissions, utiliser cette clause en conjonction avec
+  
+   A0222T
+  
+  .  
+Pour les demandes d'offres à commandes, utiliser cette clause en conjonction 
+avec
+  
+   M0222T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Sauf indication contraire dans le contrat, le prix ne comprend
+aucune taxe fédérale d'accise, taxe locale ou
+d'état, de vente ou d'utilisation, aucune autre taxe de nature
+semblable, ni autre taxe canadienne, quelle qu'elle soit. Le prix
+comprend toutefois toutes les autres taxes. Si les travaux sont
+normalement assujettis à la taxe fédérale d'accise,
+le Canada fournira à l'entrepreneur, sur demande, un
+certificat d'exemption de ladite taxe fédérale d'accise
+sous la forme prescrite par les règlements
+fédéraux.</p>
+<p>Le Canada fournira à l'entrepreneur les preuves
+d'exportation qui peuvent être demandées par les
+autorités fiscales. Si le Canada omettait de le faire, et
+qu'en conséquence l'entrepreneur doit payer la taxe
+fédérale d'accise, le Canada remboursera l'entrepreneur
+si l'entrepreneur prend les mesures que le Canada peut exiger pour
+recouvrer tout paiement effectué par l'entrepreneur.
+L'entrepreneur doit rembourser au Canada tout montant ainsi
+recouvré.</p>
+</div></pre>

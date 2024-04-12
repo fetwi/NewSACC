@@ -1,0 +1,37 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante pour résilier le contrat dans son entier pour des 
+raisons de commodité lorsque l'entrepreneur a fait savoir qu'il ne fera aucune 
+réclamation.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter les Services juridiques 
+avant d'émettre un avis de résiliation pour des raisons de commodité.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le présent avis donne suite à l'Ordre d'arrêt des
+travaux en date du <span class="input-required"><var>_______</var>
+<kbd>(<em><strong>supprimer ce paragraphe si un Ordre d'arrêt des travaux
+n'a pas été envoyé par l'autorité
+contractante</strong></em>)</kbd></span>.</p>
+<p>Conformément au droit absolu du Canada de résilier le
+contrat pour des raisons de commodité, l'autorité
+contractante avise l'entrepreneur que le contrat est
+résilié pour des raisons de commodité en vertu de
+l'article <var>______</var>, Résiliation pour raisons de
+commodité, des conditions générales <var>_____</var>.</p>
+<p>L'entrepreneur a fait savoir qu'il ne fera aucune
+réclamation contre le Canada en raison de cette
+résiliation. En conséquence, l'entrepreneur consent
+à exonérer le Canada, ses employés et mandataires de
+toute réclamation et revendication pouvant résulter de
+cette résiliation ou de toute action ou omission en vertu du
+contrat.</p>
+<p>L'entrepreneur est prié de confirmer son accord avec cette
+résiliation aux conditions ci-haut mentionnées en signant
+et retournant un exemplaire de cet avis à l'autorité
+contractante.</p>
+<p><var>______________________</var></p>
+<p>(Signature de l'entrepreneur)</p>
+</div></pre>

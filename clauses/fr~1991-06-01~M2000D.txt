@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Fournisseur fournira au gouvernement fédéral des services d'aide 
+temporaire conformément aux dispositions de la présente offre permanente et 
+au fur et à mesure que ces services deviennent nécessaires et sont demandés 
+par des ministères et des organismes particuliers.  Ces services comportent 
+notamment :
+
+<strong>Catégorie professionnelle : </strong>
+
+101.IS               Bibliothécaires
+
+<strong>Catégorie administrative : </strong>
+
+201.IS               Agents d'information 
+202.AS        Services administratifs 
+203.PM        Personnel chargé de la gestion des programmes
+
+<strong>Catégorie technique : </strong>
+
+301.DD        Dessinateurs et illustrateurs 
+302.EG-ESS    Personnel de soutien technologique et scientifique 
+303.SI        Techniciens de bibliothèque 
+304.EL        Electronique
+
+<strong>Catégorie de l'exploitation : </strong>
+
+501.GL-ELE    Manoeuvres et personnel de métier auxiliaire 
+502.GS-STS    Magasiniers 
+
+</pre>

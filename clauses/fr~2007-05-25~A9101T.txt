@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsque le Canada doit indiquer qui participera à l'évaluation des soumissions.
+ </p>
+<p>
+  Utiliser la clause 1 lorsque des employés du gouvernement fédéral uniquement participeront à l'évaluation des soumissions.  Utiliser la clause 2 lorsqu'une tierce partie participera également à l'évaluation, étant donné qu'il est nécessaire de divulguer le nom des participants tiers à tous les soumissionnaires en raison des obligations du Canada en matière de confidentialité.
+ </p>
+<p>
+  Utiliser la clause suivante seulement lorsque les modèles pour les besoins de complexité moyenne (2T-MED1) et plus complexes (2T-HIGH1) ne sont pas utilisés.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Une équipe d'évaluation composée de représentants du Canada évaluera les soumissions.</li>
+<li><strong>OU</strong>
+<h2>Clause 2</h2>
+Une équipe d'évaluation composée de représentants du Canada et <span class="input-required"><var>_________</var> <kbd>(<em>inscrire le nom de l'entreprise ou du consultant</em>)</kbd></span> évaluera les soumissions.</li>
+</ul>
+</div></pre>

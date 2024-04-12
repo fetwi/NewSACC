@@ -1,0 +1,36 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante pour les contrats dans lesquels tous les travaux de soudage doivent être effectués conformément aux normes W47.1 ou W47.2, ou les deux, de l'Association canadienne de normalisation (CSA).
+ </p>
+<p>
+  L'autorité contractante, de concert avec le responsable technique, a déterminé que d'après la nature du besoin, l'entrepreneur ou son sous-traitant, ou les deux, doit (doivent) être certifié(s) par le Bureau canadien de soudage.
+ </p>
+<p>
+  L'agent de négociation des contrats doit intégrer au contrat la ou les normes
+  <abbr title="Association canadienne de normalisation">
+   CSA
+  </abbr>
+  applicables ainsi que le niveau de la division pour chacune des normes, et y identifier le responsable de l'inspection, le responsable technique et le chargé de projet.
+ </p>
+<p>
+  Utiliser cette clause conjointement avec la clause
+  
+   B4075T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">
+<p>L'entrepreneur doit s'assurer que tous les travaux de soudage sont effectués par un soudeur certifié par le Bureau canadien de soudage (BCS) selon les normes de l'Association canadienne de normalisation (CSA) suivantes :</p>
+<p><kbd><em><strong>Instruction aux agents de négociation des contrats :</strong> insérer a. ou b. ou les deux, selon le cas.</em></kbd></p>
+<ol type="a">
+<li value="1"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.1 (version actuelle), Certification des compagnies de soudage par fusion de l'acier <span class="input-required"><var>_____</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>;</li>
+<li value="2"><abbr title="Association canadienne de normalisation">CSA</abbr> W47.2 (version actuelle), Certification des compagnies de soudage par fusion de l'aluminium <span class="input-required"><var>_____</var> <kbd>(<em>insérer le niveau de la division</em>)</kbd></span>.</li>
+</ol>
+</li>
+<li value="2">De plus, les travaux de soudage doivent être effectués conformément aux exigences des dessins et des spécifications qui s'appliquent.</li>
+<li value="3">Avant de débuter tout travail de fabrication, et à la demande du <kbd>(<em>insérer « responsable de l'inspection » ou « responsable technique », ou « chargé de projet »</em>)</kbd>, l'entrepreneur doit fournir des procédures de soudage approuvées, une liste du personnel qu'il a l’intention d’utiliser pour réaliser les travaux, ou les deux. La liste doit identifier les qualifications obtenues relativement aux procédures de soudage du <abbr title="Bureau canadien du soudage">BCS</abbr> pour chacune des personnes qui y sont énumérées et être  accompagnée d'une copie de la certification du <abbr title="Bureau canadien du soudage">BCS</abbr>,  selon les normes actuelles en matière de soudage de la <abbr title="Association canadienne de normalisation">CSA</abbr>, pour chacune d’elles.</li>
+</ol>
+</div></pre>

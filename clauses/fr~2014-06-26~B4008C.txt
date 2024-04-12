@@ -1,0 +1,57 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Les agents de négociation des contrats doivent choisir l'une des clauses suivantes et supprimer les autres. Par ailleurs, ils doivent utiliser la clause
+  
+   B4007C
+  
+  lorsque le contrat éventuel réfère à l'énoncé des travaux.
+ </p>
+<p>
+  Choisir la première clause quand la liste des articles est fournie en annexe.
+ </p>
+<p>
+  Choisir la deuxième clause quand la liste des articles est générée par l'Environnement automatisé de l'acheteur, sous « Détails de l'article », à la deuxième page du contrat.
+ </p>
+<p>
+  Choisir la troisième clause quand le besoin décrit par le ministère client constitue la seule description du besoin.
+ </p>
+<p>
+  Choisir la quatrième clause quand le besoin décrit par le ministère client constitue la principale source de spécifications et que le contrat doit également renvoyer à la soumission technique de l'entrepreneur. Si cela ne s'applique pas, supprimer l'énoncé « intitulée
+  <var>
+   _______
+  </var>
+  ».
+ </p>
+<p>
+  Choisir la cinquième clause quand le besoin décrit par le ministère client constitue la principale source de spécifications et que le contrat doit également renvoyer aux parties technique et de gestion de la soumission de l'entrepreneur. Si cela ne s'applique pas, supprimer l'énoncé « intitulée
+  <var>
+   _______
+  </var>
+  ».
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Clause 1</h2>
+<p>L'entrepreneur doit fournir les articles décrits à
+l'annexe « <var>_____</var> », Besoin.</p>
+<h2>Clause 2</h2>
+<p>L'entrepreneur doit fournir les articles décrits sous
+« Détails de l'article  ».</p>
+<h2>Clause 3</h2>
+<p>L'entrepreneur doit fournir <span class="input-required"><var>_________</var> <kbd>(<em>reproduire la
+description pertinente du besoin</em>)</kbd></span>, conformément au
+besoin décrit à l'annexe « <var>_____</var>
+ ».</p>
+<h2>Clause 4</h2>
+<p>L'entrepreneur doit fournir <span class="input-required"><var>_________</var> <kbd>(<em>reproduire la
+description pertinente du besoin</em>)</kbd></span>, conformément au
+besoin décrit à l'annexe « <var>_____</var> »
+et à sa soumission technique intitulée <var>_______</var>, en date du <var>________</var>.</p>
+<h2>Clause 5</h2>
+<p>L'entrepreneur doit fournir <span class="input-required"><var>___________</var> <kbd>(<em>reproduire la
+description pertinente du besoin</em>)</kbd></span>, conformément au
+besoin décrit à l'annexe « <var>_____</var> »
+et aux parties technique et de gestion de la soumission de
+l'entrepreneur intitulée <var>_______</var>, en date du
+<var>________</var>.</p>
+</div></pre>

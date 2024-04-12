@@ -1,0 +1,43 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la demande d'offres à commandes comprend des 
+critères d'évaluation techniques obligatoires et cotés par points, et que la 
+méthode de sélection se fera en fonction de l'offre recevable avec le prix 
+évalué le plus bas.
+
+
+Les agents de négociation des contrats doivent compléter et insérer au 
+paragraphe 1.c) une des options suivantes :
+
+Option 1 :
+	« obtenir au moins _____ (inscrire le pourcentage minimal) p. 100 des points 
+pour l'ensemble des critères d'évaluation techniques qui sont cotés.  L'échelle 
+de cotation compte _____ (inscrire le total des points pouvant être accordés) 
+points. »
+
+Option 2 :
+	« obtenir au moins _____ (inscrire le nombre de point minimal exigé) points 
+pour l'ensemble des critères d'évaluation techniques qui sont cotés.  L'échelle 
+de cotation compte _____ (inscrire le total des points pouvant être accordés) 
+points. »
+
+Option 3 :
+	« obtenir la cotation numérique minimale pour les critères d'évaluation 
+techniques qui sont cotés. »
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour être déclarée recevable, une offre doit :
+       
+       a)     respecter toutes les exigences de la demande d'offres à 
+              commandes;
+
+       b)     satisfaire à tous les critères d'évaluation techniques 
+              obligatoires; et
+
+       c)     _______ (<strong><em>les agents de négociation des contrats doivent 
+              insérer une des options proposées sous la section des 
+              remarques</em></strong>.)
+
+2.     Les offres ne répondant pas aux exigences de a) ou b) ou c) seront 
+   déclarées non recevables.  L'offre recevable ayant le prix évalué le 
+   plus bas sera recommandée pour l'émission d'une offre à commandes.
+</pre>

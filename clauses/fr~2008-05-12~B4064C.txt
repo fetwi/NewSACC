@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats du ministère de la Défense nationale (MDN) ayant trait aux services aériens offerts dans le cadre de la gestion optimisée des systèmes d'armes, des modifications des aéronefs, ainsi que pour la maintenance/réparation et la révision des aéronefs et des systèmes de propulsion appartenant ou étant gérés par le
+  <abbr title="Ministère de la Défense nationale">
+   MDN
+  </abbr>
+  .
+ </p>
+<p>
+  Les services aériens comprennent, sans s'y limiter, toutes les mesures d'entretien plus poussées que le simple entretien régulier et(ou) les tâches élémentaires, la maintenance du premier au troisième niveau, les modifications ou les améliorations de l'équipement et des logiciels ainsi que les opérations de vol, notamment les vols d'essai et(ou) les vols de convoyage.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit se conformer et participer au programme de sécurité des vols (SV) du ministère de la Défense nationale et des Forces canadiennes (MDN/FC), tel que précisé dans le document A-GA-135-001/AA-001, « <em>  Sécurité des vols dans les Forces canadiennes    ».</em></li>
+<li value="2">L'entrepreneur doit mettre en <!--- char 0x9c =--> œuvre ce qui suit avant d'effectuer des travaux sur les systèmes d'armes des <abbr title="Forces canadiennes">FC</abbr>, qu'il s'agisse de maintenance, de modification, de même qu'avant d'entreprendre des opérations aériennes :
+<ol type="a">
+<li value="1">un programme de <abbr title="sécurité des vols">SV</abbr> reflétant les buts et objectifs du programme des <abbr title="Forces canadiennes">FC</abbr> et comprenant la nomination d'un gestionnaire ou d'un représentant de la <abbr title="sécurité des vols">SV</abbr>. Ce dernier sera chargé de la gestion du programme ainsi que de la mise en place d'un processus d'enquête des événements relatifs à la <abbr title="sécurité des vols">SV</abbr> et d'un mécanisme de signalement, conformément aux lignes directrices du document A-GA-135-001/AA-001, <em>« Sécurité des vols dans les Forces canadiennes</em> ». Le programme de <abbr title="sécurité des vols">SV</abbr> doit
+être disponible pour examen à la demande de la Direction - Sécurité des vols (DSV);</li>
+<li value="2">un processus permettant de signaler et de faire enquête sur tout événement relatif à la <abbr title="sécurité des vols">SV</abbr>, incident ou accident, conformément aux directives et aux échéanciers établis dans le manuel de <abbr title="sécurité des vols">SV</abbr> ci-dessus; et</li>
+<li value="3">un plan d'intervention d'urgence détaillant les mesures que doit prendre l'entrepreneur lors d'un accident ou d'un incident impliquant un aéronef du <abbr title="Ministère de la Défense nationale">MDN</abbr> en vertu d'un contrat de même que le soutien offert aux enquêtes de la <abbr title="Direction - Sécurité des vols">DSV</abbr> à l'égard de ces accidents/incidents, tel que décrit dans le manuel de <abbr title="sécurité des vols">SV</abbr> ci-dessus.</li>
+</ol>
+</li>
+<li value="3">L'entrepreneur doit, sur un avis de deux semaines, permettre au personnel désigné du <abbr title="Ministère de la Défense nationale">MDN</abbr>/ <abbr title="Forces canadiennes">FC</abbr> d'avoir accès à toutes les données, aux documents et aux installations nécessaires pour effectuer une inspection de <abbr title="sécurité des vols">SV</abbr>.</li>
+</ol>
+</div></pre>

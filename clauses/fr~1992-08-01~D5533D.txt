@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats attribués à des fournisseurs 
+canadiens ou européens quand la demande du MDN indique qu'une assurance 
+officielle de la qualité à la source et la Publication interalliée sur 
+l'assurance de la qualité AQAP-4 (Exigences OTAN pour les organisations 
+industrielles d'inspection)   sont requis.
+
+Nota :	Cette clause doit être utilisée lorsque la demande ne contient que le 
+code d'assurance de la qualité G (CAQ-G). Dans le cas des demandes contenant 
+plus d'un CAQ, utiliser la clause D5538D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences suivantes :
+
+a)     <strong>LES ENTREPRENEURS CANADIENS </strong>doivent satisfaires aux exigences de 
+       l'AQAP-4, Exigences OTAN pour les organisations industrielles 
+       d'inspection.
+
+b)     <strong>LES ENTREPRENEURS EUROPÉENS, DU ROYAUME-UNI ET DE L'OTAN </strong>doivent 
+       satisfaires aux exigences de l'AQAP-4, Exigences OTAN pour les 
+       organisations industrielles d'inspection.
+
+c)     <strong>LES ENTREPRENEURS AMÉRICAINS </strong>doivent satisfaires aux exigences du 
+       document MIL-I-45208A, Inspection System Requirements.
+
+Les registres de contrôle de la qualité, d'inspection et d'essai faisant 
+état de la conformité aux exigences spécifiées, ainsi que les registres des 
+mesures correctives, doivent être conservés par l'entrepreneur pendant 
+trois (3) ans, à compter de la date d'exécution ou de résiliation du 
+contrat, et présentés sur demande au RAQ.
+
+</pre>

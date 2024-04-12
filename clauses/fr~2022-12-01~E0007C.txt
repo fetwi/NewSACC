@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit fournir une garantie financière contractuelle après l'attribution d'un contrat.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   E0008C
+  
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent insérer le pourcentage exigé au paragraphe 1.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir l'une des garanties financières contractuelles suivantes dans les <var>_____</var> jours civils après la date d'attribution du contrat :
+            <ol type="a">
+<li value="1">un cautionnement d'exécution formulaire PWGSC-TPSGC 505 représentant <var>_____</var> p. 100 du prix contractuel; ou</li>
+<li value="2">un cautionnement d'exécution formulaire PWGSC-TPSGC 505 de même qu'un cautionnement pour le paiement de la main-d'oeuvre et des matériaux formulaire PWGSC-TPSGC 506, chacun représentant <var>_____</var> p. 100 du prix contractuel; ou</li>
+<li value="3">un cautionnement pour le paiement de la main-d'oeuvre et des matériaux formulaire PWGSC-TPSGC 506, représentant <var>_____</var> p. 100 du prix du contrat; ou</li>
+<li value="4">un dépôt de garantie tel qu'il est défini à la clause E0008C représentant <var>_____</var> p. 100 du prix contractuel.</li>
+</ol>
+<p>Tout cautionnement doit être accepté à titre de garantie par une des compagnies de cautionnement, conformément aux <cite>lignes directrices sur les listes des sociétés autorisées à fournir une sécurité financière au Canada</cite>.</p>
+</li>
+</ol>
+<ol type="1">
+<li value="2">Les dépôts de garantie sous forme d'obligations garanties par le gouvernement qui comprennent des coupons seront acceptés seulement si tous les coupons non
+            échus, lorsque le dépôt est fourni, sont attachés aux obligations. L'entrepreneur doit fournir des instructions écrites concernant le traitement des coupons qui
+            viendront à échéance pendant que les obligations sont retenues à titre de garantie, lorsque ces coupons excèdent les exigences du dépôt de sécurité.</li>
+<li value="3">Si le Canada ne reçoit pas la garantie financière exigée dans le délai prescrit, le Canada peut résilier le contrat pour manquement conformément aux
+            dispositions du contrat.</li>
+</ol>
+</div></pre>

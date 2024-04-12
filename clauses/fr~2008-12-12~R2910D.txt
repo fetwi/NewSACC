@@ -1,0 +1,182 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Ces Conditions d'assurance s'appliquent à la majorité des contrats de 
+construction qui requièrent une garantie d'assurance responsabilité civile des 
+entreprises ainsi qu'une garantie d'assurance des chantiers/risques 
+d'installation.
+
+Si les limites suggérées sont jugée insuffisantes, les agents de négociation des 
+contrats doivent consulter les Services consultatifs de gestion des risques de 
+TPSGC, à :
+ 
+  NCR-RMIAS-SCGRA@tpsgc.gc.ca
+ 
+ .
+
+L'assurance des chantiers/risques d'installation n'est généralement pas requise 
+pour les contrats où il n'y a pas de travaux/propriété à assurer, tel que le 
+pavage, l'enlèvement d'amiante et le dragage.
+
+L'assurance responsabilité civile des entreprises (RCE) peut s'avérer 
+insuffisante ou inappropriée pour certains contrats de construction. Pour les 
+travaux exécutés du côté piste des opérations d'un aéroport, la RCE devrait être 
+substituée par l'Assurance responsabilité aérienne (G2030C). Pour les travaux 
+effectués à l'aide d'outillage flottant ou de drague, la RCE devrait être 
+substituée par l'Assurance responsabilité en matière maritime (G5003C).
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>CA1 Généralités</p>
+<p>CA1.1 Preuve du contrat d'assurance</p>
+<p>CA1.2 Paiement de franchise</p>
+<p>CA2 Assurance de la responsabilité civile des
+entreprises</p>
+<p>CA2.1 Portée de l'assurance</p>
+<p>CA2.2 Assuré</p>
+<p>CA2.3 Période d'assurance</p>
+<p>CA3 Assurance des chantiers / Risques d'installation</p>
+<p>CA3.1 Portée de l'assurance</p>
+<p>CA3.2 Montant d'assurance</p>
+<p>CA3.3 Assuré</p>
+<p>CA3.4 Période d'assurance</p>
+<p>CA3.5 Indemnités d'assurance</p>
+</div>
+<h2>CA1 (2008-12-12) Généralités</h2>
+<h3>CA1.1 Preuve du contrat d'assurance</h3>
+<ol type="1">
+<li value="1">Avant le début des travaux, et dans un
+délai de trente (30) jours après l'acceptation de sa
+soumission, l'entrepreneur doit remettre au Canada une <cite>Attestation d'assurance formulaire 357</cite>,
+disponible sur le site Web de Travaux publics et Services
+gouvernementaux Canada.</li>
+<li value="2">À la demande du Canada, l'entrepreneur doit
+fournir les originaux ou les copies certifiées de tous les
+contrats d'assurance auxquels l'entrepreneur a souscrit
+conformément aux exigences des garanties d'assurance
+décrites aux présentes.</li>
+<li value="3">Les polices d'assurance doivent comprendre un avenant
+prévoyant la transmission au Canada d'un préavis
+écrit d'au moins trente (30) jours en cas d'annulation de
+l'assurance ou de toute réduction de la garantie
+d'assurance.</li>
+</ol>
+<h3>CA1.2 Paiement de franchise</h3>
+<ol type="1">
+<li value="1">L'entrepreneur doit assumer le paiement de toutes
+sommes d'argent en règlement d'un sinistre, jusqu'à
+concurrence de la franchise.</li>
+</ol>
+<h2>CA2 (2008-05-12) Assurance de la responsabilité civile des
+entreprises</h2>
+<h3>CA2.1 Portée de l'assurance</h3>
+<ol type="1">
+<li value="1">La garantie d'assurance fournie ne doit pas être
+inférieure à la garantie fournie par le formulaire BAC
+2100 avec toutes ses modifications successives et doit avoir :
+<ol type="a">
+<li value="1">un « Plafond par sinistre » d'au moins 5 000
+000 $;</li>
+<li value="2">un « Plafond pour risque produits/après
+travaux » d'au moins 5 000 000 $; et</li>
+<li value="3">un « Plafond global général » d'au
+moins 10 000 000 $ par année d'assurance, si le contrat
+d'assurance est assujetti à une telle limite.</li>
+</ol>
+</li>
+<li value="2">Le contrat d'assurance doit inclure ou avoir un
+avenant pour l'inclusion d'une garantie pour les risques et dangers
+suivants si les travaux y sont assujettis :
+<ol type="a">
+<li value="1">Dynamitage.</li>
+<li value="2">Battage de pieux et travaux de caisson.</li>
+<li value="3">Reprise en sous-œuvre.</li>
+<li value="4">Enlèvement ou affaiblissement d'un support
+soutenant des bâtiments ou terrains, que ce support soit
+naturel ou non, si le travail est exécuté par
+l'entrepreneur assuré.</li>
+</ol>
+</li>
+</ol>
+<h3>CA2.2 Assuré</h3>
+<ol type="1">
+<li value="1">Le contrat d'assurance doit assurer l'entrepreneur et
+doit inclure à titre d'assuré additionnel, Sa
+Majesté la Reine du chef du Canada représentée par
+le Ministre des Travaux publics et Services gouvernementaux Canada,
+à l'égard de la responsabilité découlant des
+activités de l'entrepreneur ayant trait aux travaux.</li>
+</ol>
+<h3>CA2.3 Période d'assurance</h3>
+<ol type="1">
+<li value="1">À moins d'avis contraire par écrit du
+Canada ou d'indication contraire ailleurs dans les présentes,
+le contrat d'assurance exigé dans les présentes doit
+prendre effet le jour de l'attribution du contrat et demeurer en
+vigueur jusqu'au jour de délivrance du Certificat
+d'achèvement, mis à part le fait que la garantie pour les
+travaux complétés doit, quoi qu'il en soit, être
+maintenue pour un délai minimum de (6) six ans suivant la date
+du Certificat d'achèvement substantiel.</li>
+</ol>
+<h2>CA3 (2007-05-25) Assurance des chantiers / Risques
+d'installation</h2>
+<h3>CA3.1 Portée de l'assurance</h3>
+<ol type="1">
+<li value="1">La garantie d'assurance fournie par un contrat
+d'Assurance des chantiers ou un contrat de Risques d'installation
+ne doit pas être inférieure à la garantie fournie
+par les formulaires BAC 4042 et BAC 4047, avec toutes leurs
+modifications successives.</li>
+<li value="2">Le contrat doit permettre la mise en service et
+l'occupation du projet, en totalité ou en partie, pour les
+fins auxquelles le projet est destiné à son
+achèvement.</li>
+<li value="3">Le contrat d'assurance peut exclure ou avoir un
+avenant pour l'exclusion d'une garantie pour les pertes et dommages
+occasionnés par n'importe quel des risques suivants:
+<ol type="a">
+<li value="1">Amiante.</li>
+<li value="2">Champignons et spores.</li>
+<li value="3">Cyber.</li>
+<li value="4">Terrorisme.</li>
+</ol>
+</li>
+</ol>
+<h3>CA3.2 Montant d'assurance</h3>
+<ol type="1">
+<li value="1">Le montant de l'assurance doit égaler au moins
+la somme de la valeur du contrat plus la valeur déclarée
+(s'il y a lieu) dans les documents contractuels de tout le
+matériel et équipement fourni par le Canada sur le
+chantier pour être incorporé aux travaux achevés et
+en faire partie. Si la valeur des travaux est modifiée, le
+contrat d'assurance doit être modifié pour refléter
+la valeur révisée du contrat.</li>
+</ol>
+<h3>CA3.3 Assuré</h3>
+<ol type="1">
+<li value="1">Le contrat d'assurance doit assurer l'entrepreneur et
+doit inclure à titre d'assuré additionnel, Sa
+Majesté la Reine du chef du Canada représentée par
+le Ministre des Travaux publics et Services gouvernementaux
+Canada.</li>
+</ol>
+<h3>CA3.4 Période d'assurance</h3>
+<ol type="1">
+<li value="1">À moins d'avis contraire par écrit du
+Canada ou d'indication contraire ailleurs dans les présentes,
+le contrat d'assurance exigé dans les présentes doit
+prendre effet avant le début des travaux et demeurer en
+vigueur jusqu'au jour de délivrance du Certificat
+d'achèvement substantiel.</li>
+</ol>
+<h3>CA3.5 Indemnités d'assurance</h3>
+<ol type="1">
+<li value="1">Le contrat d'assurance doit stipuler que toute
+indemnité en vertu d'icelle doit être payée à
+sa Majesté ou selon les directives du Canada conformément
+à la CG10.2, « Indemnité d'assurance ».</li>
+<li value="2">L'entrepreneur doit faire sans délai toutes
+choses et exécuter tous documents requis pour le paiement de
+l'indemnité d'assurance.</li>
+</ol>
+</div></pre>

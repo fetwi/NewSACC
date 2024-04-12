@@ -1,0 +1,250 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser les conditions générales suivantes pour les besoins de faible valeur, concurrentiels ou non concurrentiels, pour l’acquisition de biens et services moins complexes comme les besoins courants de gestion de l’information et de technologie de l’information, les pièces de rechange commerciales pour les spécifications militaires, les produits commerciaux en vente libre, les achats par téléphone, et les besoins de services moins complexes, ne générant aucune propriété intellectuelle.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2022-12-012029interpretation">01 Interprétation</a></li>
+<li><a href="#2022-12-012029clauses-et-conditions-uniformisees">02 Clauses et conditions uniformisées</a></li>
+<li><a href="#2022-12-012029situation-juridique-de-l-entrepreneur">03 Situation juridique de l'entrepreneur</a></li>
+<li><a href="#2022-12-012029condition-du-materiel">04 Condition du matériel</a></li>
+<li><a href="#2022-12-012029inspection-acceptation-garantie">05 Inspection, acceptation et garantie</a></li>
+<li><a href="#2022-12-012029presentation-des-factures">06 Présentation des factures</a></li>
+<li><a href="#2022-12-012029taxes">07 Taxes</a></li>
+<li><a href="#2022-12-012029frais-de-transport">08 Frais de transport</a></li>
+<li><a href="#2022-12-012029responsabilite-du-transporteur">09 Responsabilité du transporteur</a></li>
+<li><a href="#2022-12-012029documentation-d-envoi">10 Documentation d'envoi</a></li>
+<li><a href="#2022-12-012029periode-de-paiement">11 Période de paiement</a></li>
+<li><a href="#2022-12-012029interet-sur-les-comptes-en-souffrance">12 Intérêt sur les comptes en souffrance</a></li>
+<li><a href="#2022-12-012029verification">13 Vérification</a></li>
+<li><a href="#2022-12-012029respect-du-droit-applicable">14 Respect du droit applicable</a></li>
+<li><a href="#2022-12-012029rigueur-des-delais">15 Rigueur des délais</a></li>
+<li><a href="#2022-12-012029droit-de-propriete">16 Droit de propriété</a></li>
+<li><a href="#2022-12-012029biens-de-l-etat">17 Biens de l'État</a></li>
+<li><a href="#2022-12-012029cession-et-modification">18 Cession et modification</a></li>
+<li><a href="#2022-12-012029manquement-de-la-part-de-l-entrepreneur">19 Manquement de la part de l'entrepreneur</a></li>
+<li><a href="#2022-12-012029resiliation-pour-raisons-de-commodite">20 Résiliation pour raisons de commodité</a></li>
+<li><a href="#2022-12-012029droit-de-compensation">21 Droit de compensation</a></li>
+<li><a href="#2022-12-012029conflits-d-interets-et-codes-de-valeurs-et-d-ethique-pour-la-fonction-publique">22 Conflits d'intérêts et codes de valeurs et d'éthique pour la fonction publique</a></li>
+<li><a href="#2022-12-012029honoraires-conditionnels">23 Honoraires conditionnels</a></li>
+<li><a href="#2022-12-012029sanctions-internationales">24 Sanctions internationales</a></li>
+<li><a href="#2022-12-012029dispositions-relatives-a-l-integrite-contrat">25 Dispositions relatives à l'intégrité – contrat</a></li>
+<li><a href="#2022-12-012029exhaustivite-de-la-convention">26 Exhaustivité de la convention</a></li>
+<li><a href="#2022-12-012029acces-a-l-information">27 Accès à l'information</a></li>
+<li><a href="#2022-12-012029code-de-conduite-pour-approvisionnement">28 Code de conduite pour l'approvisionnement – contrat</a></li>
+<li><a href="#2022-12-012029exigences-contre-le-travail-force">29 Exigences contre le travail forcé</a></li>
+</ul>
+</div>
+<h2 id="2022-12-012029interpretation">2029 01 (2022-12-01) Interprétation</h2>
+<p>Dans le contrat, à moins que le contexte n'indique un sens différent :</p>
+<dl>
+<dt>« articles de convention »</dt>
+<dd>désigne les clauses et conditions reproduites en entier ou incorporées par renvoi
+            à partir du guide des <cite>Clauses et conditions uniformisées d'achat</cite> pour former le corps du contrat;
+            cela ne comprend pas les présentes conditions générales, les conditions générales supplémentaires, les annexes, la soumission de l'entrepreneur, ou tout autre document;</dd>
+<dt>« autorité contractante »</dt>
+<dd>désigne la personne désignée comme tel dans le contrat, ou dans un avis à l'entrepreneur, pour représenter le Canada dans l'administration du contrat;</dd>
+<dt>« biens de l'État »</dt>
+<dd>désigne tout ce qui est fourni à l'entrepreneur par ou pour le Canada, aux fins de l'exécution du contrat et tout ce que l'entrepreneur acquiert, d'une manière ou d'une autre, relativement aux travaux, dont le coût est acquitté par le Canada en vertu du contrat;</dd>
+<dt>« Canada », « Couronne », « Sa Majesté » ou « État »</dt>
+<dd>désigne Sa Majesté le Roi du chef du Canada, représentée par le ministre des Travaux publics et des Services gouvernementaux et toute autre personne dûment autorisée à agir au nom de ce ministre ou, s'il y a lieu, un ministre auquel le ministre des Travaux publics et des Services gouvernementaux a délégué ses pouvoirs ou ses fonctions et toute autre personne dûment autorisée à agir au nom de ce ministre;</dd>
+<dt>« contrat »</dt>
+<dd>désigne les articles de convention, les présentes conditions générales et tout autre document intégré par renvoi, tous tels que modifiés de temps à autre avec le consentement des parties;</dd>
+<dt>« coût estimatif total », « coût estimatif révisé », « augmentation (diminution) »</dt>
+<dd>à la page 1 du contrat ou modification au contrat signifie un montant utilisé à des fins administratives internes seulement qui comprend le prix contractuel, ou le prix contractuel révisé, ou le montant qui augmenterait ou diminuerait le prix contractuel et les taxes applicables, conformément à l'évaluation de l'autorité contractante; il ne s'agit pas d'une opinion fiscale de la part du Canada; </dd>
+<dt>« entrepreneur »</dt>
+<dd>désigne la personne, l'entité
+            ou les entités dont le nom figure au contrat pour fournir au Canada des biens, des services ou les deux;</dd>
+<dt>« partie »</dt>
+<dd>désigne le Canada ou l'entrepreneur ou tout autre signataire du contrat;
+        </dd><dt>« parties »</dt>
+<dd>désigne l'ensemble de ceux-ci;</dd>
+<dt>« prix contractuel »</dt>
+<dd>désigne la somme mentionnée au contrat payable à l'entrepreneur pour les travaux, excluant les taxes applicables;</dd>
+<dt>« taxes applicables »</dt>
+<dd>signifie la taxe sur les produits et services (TPS), la taxe de vente harmonisée (TVH) et toute taxe provinciale payable par le Canada selon la loi, tel que la taxe de vente du Québec (TVQ) à compter du 1<sup>er</sup> avril 2013;</dd>
+<dt>« travaux »</dt>
+<dd>désigne les activités, services, biens, équipements, choses et objets que l'entrepreneur doit exécuter, livrer ou fournir en vertu du contrat.</dd>
+</dl>
+<h2 id="2022-12-012029clauses-et-conditions-uniformisees">2029 02 (2008-05-12) Clauses et conditions uniformisées</h2>
+<p>Conformément à la <cite>Loi sur le ministère des Travaux publics et des Services gouvernementaux</cite>, <abbr title="Lois du Canada">L.C.</abbr>, 1996, <abbr title="chapitre">ch.</abbr> 16, les clauses et les conditions identifiées par un numéro, une date et un titre sont incorporés par renvoi et font partie intégrante du contrat comme si elles y
+        étaient formellement reproduites.</p>
+<h2 id="2022-12-012029situation-juridique-de-l-entrepreneur">2029 03 (2008-05-12) Situation juridique de l'entrepreneur</h2>
+<p>L'entrepreneur est retenu à titre d'entrepreneur indépendant engagé par le Canada pour exécuter les travaux. Ni l'entrepreneur ni ses employés ne constituent des employés, des préposés ou des mandataires du Canada. L'entrepreneur doit effectuer toutes les déductions et tous les versements exigés par la loi relativement à ses employés.</p>
+<h2 id="2022-12-012029condition-du-materiel">2029 04 (2008-05-12) Condition du matériel</h2>
+<p>Sauf disposition contraire dans le contrat, le matériel fourni doit être neuf et conforme à la plus récente version du dessin, de la spécification et du numéro de pièce pertinent qui est en vigueur à la date de clôture de la demande de soumissions ou, s'il n'y avait pas de demande de soumissions, la date du contrat.</p>
+<h2 id="2022-12-012029inspection-acceptation-garantie">2029 05 (2014-09-25) Inspection, acceptation et garantie</h2>
+<ol>
+<li>L'entrepreneur doit exécuter les travaux avec efficience, conformément à des normes de qualité
+            à la satisfaction du Canada et en respectant parfaitement l'ensemble des exigences du contrat.</li>
+<li>Tous les travaux sont soumis à l'inspection et l'acceptation par le Canada. Malgré l'inspection et l'acceptation des travaux par le Canada ou au nom de celui-ci et sans limiter l'application de toute autre disposition du contrat ou toute condition, garantie ou disposition, prévue par la loi, l'entrepreneur, sur demande du Canada doit remplacer, réparer ou corriger, à son choix et à ses frais, tous les travaux défectueux ou qui ne respectent pas les exigences du contrat, le cas échéant. Pour les biens, la période de garantie sera de 12 mois après la livraison et l'acceptation des travaux ou la durée de la période de garantie standard de l'entrepreneur ou du fabricant, si elle est plus étendue.</li>
+<li>Le Canada doit payer les frais de transport des travaux ou de toute partie des travaux aux locaux de l'entrepreneur pour leur remplacement, réparation ou rectification. L'entrepreneur doit payer les frais de transport des travaux ou de toute partie des travaux qui sont remplacés ou rectifiés, au lieu de livraison précisé dans le contrat ou à un autre endroit désigné par le Canada. Cependant, lorsque le Canada est d'avis qu'un tel déplacement n'est pas pratique, l'entrepreneur doit procéder aux réparations ou aux rectifications nécessaires là où les travaux se trouvent et il sera remboursé pour ses frais de déplacement et de subsistance.</li>
+<li>La période de garantie est automatiquement prolongée de la période au cours de laquelle les travaux sont inutilisables en raison d'une défectuosité ou d'une non-conformité. La garantie s'applique à toute partie des travaux qui est remplacée, réparée ou corrigée conformément au paragraphe 2, pendant la plus étendue des deux périodes suivantes :
+            <ol type="a">
+<li>la période de la garantie qui reste y compris la prolongation; ou</li>
+<li>90 jours ou toute autre période stipulée à cette fin après entente entre les parties.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2022-12-012029presentation-des-factures">2029 06 (2013-03-21) Présentation des factures</h2>
+<ol>
+<li>Les factures doivent être soumises au nom de l'entrepreneur. L'entrepreneur doit présenter des factures pour chaque livraison ou expédition; ces factures doivent s'appliquer uniquement au contrat. Chaque facture doit indiquer si elle porte sur une livraison partielle ou finale.</li>
+<li>Les factures doivent contenir :
+            <ol type="a">
+<li>la date, le nom et l'adresse du ministère client, les numéros d'articles ou de référence, les produits livrables/la description des travaux, le numéro du contrat, le numéro de référence du client (NRC), le numéro d'entreprise - approvisionnement (NEA)
+                    et le ou les codes financiers;</li>
+<li>des renseignements sur les dépenses (comme le nom des articles et leur quantité, l'unité de distribution, le prix unitaire, les tarifs horaires fermes, le niveau d'effort et les sous-contrats, selon le cas) conformément à la base de paiement, excluant les taxes applicables;</li>
+<li>les déductions correspondant à la retenue de garantie, s'il y a lieu;</li>
+<li>le report des totaux, s'il y a lieu; et</li>
+<li>s'il y a lieu, le mode d'expédition avec la date, le numéro de cas et de pièce ou de référence, les frais d'expédition et tous les autres frais supplémentaires.</li>
+</ol>
+</li>
+<li>Les taxes applicables doivent être indiquées séparément dans toutes les factures, ainsi que les numéros d'inscription correspondant émis par les autorités fiscales. Tous les articles détaxés, exonérés ou auxquels les taxes applicables ne s'appliquent pas doivent être identifiés comme tels sur toutes les factures.</li>
+<li>En présentant une facture, l'entrepreneur atteste que la facture correspond aux travaux qui ont été
+            livrés et qu'elle est conforme au contrat.</li>
+</ol>
+<h2 id="2022-12-012029taxes">2029 07 (2013-03-21) Taxes</h2>
+<ol>
+<li> Les ministères et organismes fédéraux doivent payer les taxes applicables. </li>
+<li> Les taxes applicables seront payées par le Canada conformément aux dispositions de l'article sur la présentation de factures. Il revient à l'entrepreneur de facturer les taxes applicables selon le taux approprié, conformément aux lois en vigueur. L'entrepreneur accepte de remettre aux autorités fiscales appropriées les sommes acquittées ou exigibles au titre de taxes applicables. </li>
+<li> L'entrepreneur n'a pas droit aux exemptions fiscales dont jouit le Canada, comme pour le paiement des taxes de vente provinciales, sauf indication contraire de la loi. L'entrepreneur doit payer la taxe de vente provinciale, les taxes accessoires et toute taxe à la consommation qui s'appliquent sur les biens ou services taxables utilisés ou consommés dans le cadre de l'exécution du contrat (conformément aux lois en vigueur), y compris les matériaux incorporés dans des biens immobiliers. </li>
+<li> Dans les cas où les taxes applicables, les droits de douane et les taxes d'accise sont compris dans le prix contractuel, ce dernier sera ajusté afin de tenir compte de toute augmentation ou diminution des taxes applicables, droits de douane et taxes d'accise qui se sera produite entre la présentation de la soumission et l'attribution du contrat. Toutefois, il n'y aura pas d'ajustement relatif à toute modification pour augmenter le prix contractuel si un avis public assez détaillé de la modification a été donné avant la date de clôture de la soumission qui aurait pu permettre à l'entrepreneur de calculer les effets de cette modification. </li>
+<li>Retenue d'impôt de 15 <abbr title="pour">p.</abbr> 100 – Agence du revenu du Canada </li>
+</ol>
+<p>En vertu de la <cite>Loi de l'impôt sur le revenu</cite>, 1985, <abbr title="chapitre">ch.</abbr> 1 (5<sup>e</sup> <abbr title="supplémentaire">suppl.</abbr>) et le <cite>Règlement de l'impôt sur le revenu</cite>, le Canada doit retenir 15 <abbr title="pour">p.</abbr> 100 du montant à payer à l'entrepreneur pour des services rendus au Canada si l'entrepreneur n'est pas un résident du Canada, à moins que ce dernier obtienne une exonération valide de l'<cite>Agence du revenu du Canada</cite>. Le montant retenu sera conservé dans un compte pour l'entrepreneur pour tout impôt à payer exigible par le Canada.</p>
+<h2 id="2022-12-012029frais-de-transport">2029 08 (2010-01-11) Frais de transport</h2>
+<p>Si des frais de transport sont payables par le Canada en vertu du contrat et que l'entrepreneur doit prendre les dispositions nécessaires pour le transport, les envois doivent être effectués par le moyen de transport le plus direct et le plus
+        économique, selon les méthodes normales d'expédition. Ces frais doivent figurer séparément sur la facture.</p>
+<h2 id="2022-12-012029responsabilite-du-transporteur">2029 09 (2010-01-11) Responsabilité du transporteur</h2>
+<p>La politique du gouvernement fédéral voulant qu'il assume ses propres risques exclut le paiement de frais d'assurances ou de taxation à la valeur pour le transport au-delà du point de transfert du droit de propriété sur les biens au gouvernement fédéral (selon le point <abbr title="Franco à bord">FAB</abbr> ou Incoterms). Lorsque l'entrepreneur est en mesure d'accroître la responsabilité du transporteur sans frais supplémentaires, il doit avoir recours à cette responsabilité accrue pour l'envoi.</p>
+<h2 id="2022-12-012029documentation-d-envoi">2029 10 (2008-05-12) Documentation d'envoi</h2>
+<p>Pour l'expédition des biens, le connaissement de transport doit accompagner l'original de la facture, sauf s'il s'agit d'expéditions « payables sur livraison » (si et lorsque stipulé), auquel cas il doit accompagner l'envoi. En outre, un bordereau d'expédition doit accompagner chaque envoi et indiquer clairement le nom des articles, la quantité
+        d'articles, les numéros de pièce ou de référence, la description des biens et le numéro du contrat, incluant le <abbr title="numéro de référence du client">NRC</abbr> et le <abbr title="numéro d'entreprise - approvisionnement">NEA</abbr>. Si les biens ont été
+        inspectés dans les locaux de l'entrepreneur, un certificat d'inspection signé doit être annexé au bordereau d'expédition normalement inclus dans l'enveloppe prévue
+        à cette fin.</p>
+<h2 id="2022-12-012029periode-de-paiement">2029 11 (2014-09-25) Période de paiement</h2>
+<ol>
+<li>La période normale de paiement du Canada est de 30 jours. La période de paiement est calculée
+            à compter de la date de réception d'une facture dont le format et le contenu sont acceptables conformément au contrat, ou la date de réception des travaux dans un état acceptable tel qu'exigé au contrat, selon la plus tardive des deux dates. Un paiement est considéré en souffrance le 31<sup>e</sup> jour suivant cette date, et des intérêts seront calculés automatiquement, conformément à l'article 12.</li>
+<li>Si le contenu de la facture et les renseignements connexes nécessaires ne sont pas conformes au contrat, ou si les travaux fournis ne sont pas dans un état acceptable, le Canada avisera l'entrepreneur dans les 15 jours suivant la réception. La période de paiement de 30 jours débute à la réception de la facture révisée ou à la réception des travaux corrigés ou remplacés. Le défaut du Canada d'aviser l'entrepreneur dans les 15 jours n'aura pour conséquence que la date stipulée au paragraphe 1 servira uniquement à calculer l'intérêt sur les comptes en souffrance.</li>
+</ol>
+<h2 id="2022-12-012029interet-sur-les-comptes-en-souffrance">2029 12 (2008-12-12) Intérêt sur les comptes en souffrance</h2>
+<ol>
+<li>Les définitions suivantes s'appliquent au présent article :
+            <dl>
+<dt>« date de paiement »</dt>
+<dd>désigne la date que porte le titre négociable tiré par le Receveur général du Canada afin de payer une somme exigible en vertu du contrat;</dd>
+<dt>« en souffrance »</dt>
+<dd>désigne la somme qui demeure impayée le lendemain du jour où elle est devenue exigible conformément au contrat;</dd>
+<dt>« taux d'escompte »</dt>
+<dd>désigne le taux d'intérêt fixé de temps en temps par la Banque du Canada qui représente le taux minimum auquel la Banque du Canada consent des avances à court terme aux membres de l'Association canadienne des paiements;</dd>
+<dt>« taux moyen »</dt>
+<dd>désigne la moyenne arithmétique simple du taux d'escompte en vigueur chaque jour, à 16 h, heure de l'Est, pour le mois civil immédiatement antérieur à la date de paiement;</dd>
+</dl>
+</li>
+<li>Le Canada verse à l'entrepreneur des intérêts simples, au taux moyen majoré de 3 p. 100 par an, sur toute somme en souffrance, à partir du premier jour où la somme est en souffrance jusqu'au jour qui précède la date de paiement inclusivement. L'entrepreneur n'est pas tenu d'aviser le Canada pour que l'intérêt soit payable.</li>
+<li>Le Canada versera des intérêts conformément à cet article seulement si le Canada est responsable du retard à payer l'entrepreneur. Le Canada ne versera pas d'intérêts sur les paiements anticipés qui sont en souffrance.</li>
+</ol>
+<h2 id="2022-12-012029verification">2029 13 (2022-12-01) Vérification</h2>
+<ol>
+<li>Pour permettre au Canada de déterminer si les travaux ont été exécutés et que le prix facturé pour les travaux est conforme aux modalités du contrat et si le meilleur rapport qualité-prix a été obtenu pour le Canada, l’entrepreneur doit tenir des registres complets et exacts du coût estimatif et réel des travaux.</li>
+<li>Ces dossiers comprennent tous les appels d’offres, les devis, les contrats, la correspondance, les documents sources pour les écritures comptables tels que les feuilles de calcul Excel ou autres feuilles de calcul sous forme numérique et lisible par machine (pas de copies PDF), les livres et registres des écritures comptables initiales, les feuilles de travail, les feuilles de calcul et autres documents à l’appui des affectations de coûts, des calculs, des rapprochements et des hypothèses faites par l’entrepreneur en relation avec le contrat. Les copies ne sont généralement pas acceptables et ne peuvent être utilisées que lorsque les originaux ne sont pas disponibles en raison de circonstances inhabituelles, par exemple un incendie, une inondation ou un vol.</li>
+<li>L’entrepreneur doit établir et maintenir un système comptable qui permet au Canada d’identifier facilement ces documents.</li>
+<li>Ces dossiers doivent être mis à la disposition du Canada ou des personnes désignées pour agir au nom du Canada, sur demande, pour examen, pendant les heures normales d’ouverture au bureau ou à la place d’affaires de l’entrepreneur. Si aucun lieu de ce type n’est disponible, les dossiers financiers, ainsi que les documents de référence et les pièces justificatives, doivent être fournis aux fins d’examen à une date et dans un lieu convenant au Canada.</li>
+<li>L’entrepreneur doit conserver ces dossiers en tout temps pendant la durée du contrat et pendant une période de sept ans après avoir reçu le dernier paiement au titre du contrat, ou jusqu’au règlement de toutes les réclamations et de tous les litiges en cours, selon la dernière éventualité.</li>
+<li>Le Canada et ses représentants autorisés ont le droit d’examiner, de faire des copies ou de tirer des extraits de tous les documents, peu importe le format dans lequel ils sont conservés, qui concernent le présent contrat tenus ou gérés par l’entrepreneur, y compris, mais sans s’y limiter, les documents conservés par l’entrepreneur, ses employés, représentants, successeurs et sous-traitants.</li>
+<li>L’entrepreneur doit obliger tous les sous-traitants à tous les niveaux et toutes les autres personnes contrôlées directement ou indirectement par lui ou qui lui sont affiliées à respecter les exigences de cette clause au même titre que lui.</li>
+</ol>
+<h2 id="2022-12-012029respect-du-droit-applicable">2029 14 (2008-05-12) Respect du droit applicable</h2>
+<p>L'entrepreneur doit se conformer aux lois applicables à la l'exécution du contrat. Sur demande raisonnable du Canada, l'entrepreneur doit fournir une preuve de conformité aux lois applicables.</p>
+<p>L'entrepreneur doit obtenir et tenir à jour à ses propres frais tous les permis, licences, approbations réglementaires et certificats exigés pour l'exécution des travaux. Sur demande de l'autorité
+        contractante, il doit remettre au Canada une copie de tout permis, licence, approbation réglementaire et certificat exigé.</p>
+<h2 id="2022-12-012029rigueur-des-delais">2029 15 (2008-05-12) Rigueur des délais</h2>
+<p>Il est essentiel que les travaux soient livrés dans les délais prévus au contrat.</p>
+<h2 id="2022-12-012029droit-de-propriete">2029 16 (2008-05-12) Droit de propriété</h2>
+<p>Sauf disposition contraire dans le contrat, le droit de propriété sur les travaux ou toute partie des travaux appartient au Canada dès leur livraison et acceptation par ou le compte du Canada. Malgré tout transfert du droit de propriété, l'entrepreneur est responsable de toute perte ou endommagement des travaux ou de toute partie des travaux jusqu'à la livraison au Canada conformément au contrat.</p>
+<h2 id="2022-12-012029biens-de-l-etat">2029 17 (2008-05-12) Biens de l'État</h2>
+<p>L'entrepreneur doit prendre soin, de manière raisonnable et adéquate, de tous les biens de l'État dont il a la possession ou le contrôle. S'il ne s'acquitte pas de cette obligation, il est responsable de toute perte ou de tout dommage qui en résulte, sauf si ceux-ci sont causés par l'usure normale.</p>
+<h2 id="2022-12-012029cession-et-modification">2029 18 (2008-05-12) Cession et modification</h2>
+<p>La cession ou la modification du contrat, en tout ou en partie, ne peut être effectuée sans le consentement préalable écrit des parties.</p>
+<h2 id="2022-12-012029manquement-de-la-part-de-l-entrepreneur">2029 19 (2008-05-12) Manquement de la part de l'entrepreneur</h2>
+<p>Si l'entrepreneur manque à l'une de ses obligations prévues au contrat ou qu'il fait faillite, ou devient insolvable ou qu'il cède ses biens au profit de ses créanciers, l'autorité contractante peut, après avis
+        écrit à l'entrepreneur, résilier le contrat ou une partie du contrat pour manquement. Lorsqu'un tel avis est donné, l'entrepreneur n'a droit à aucun autre paiement et il demeure redevable envers le Canada des pertes et des dommages subis par celui-ci en raison du manquement, y compris l'augmentation du coût, pour le Canada, de l'exécution des travaux par quelqu'un d'autre.</p>
+<h2 id="2022-12-012029resiliation-pour-raisons-de-commodite">2029 20 (2020-05-28) Résiliation pour raisons de commodité</h2>
+<ol>
+<li>L'autorité contractante peut, à tout moment avant la fin des travaux, en donnant un avis écrit à l'entrepreneur, résilier le contrat ou une partie du contrat pour des raisons de commodité. Une fois un tel avis de résiliation donné, l'entrepreneur doit se conformer aux exigences prévues dans l'avis de résiliation. Si le contrat est résilié en partie seulement, l'entrepreneur doit poursuivre l'exécution des travaux qui ne sont pas touchés par l'avis de résiliation. La résiliation prendra effet immédiatement ou, le cas échéant, au moment prévu dans l'avis de résiliation.</li>
+<li>Si un avis de résiliation est donné en vertu du paragraphe 1, l'entrepreneur aura le droit d'être payé les coûts raisonnablement et dûment engagés pour l'exécution du contrat compte tenu qu'il n'a pas déjà été payé ou remboursé par le Canada. L’entrepreneur accepte qu’on lui paie uniquement les sommes suivantes :
+            <ol type="a">
+<li>sur la base du prix contractuel, pour toute partie des travaux complétés qui ont été inspectés et acceptés conformément au contrat, qu'ils aient été complétés avant l'avis de résiliation ou après celui-ci conformément aux directives contenues dans l'avis de résiliation;</li>
+<li>le coût, engagé par l’entrepreneur majoré d’un profit juste et raisonnable qui sera déterminé par le Canada conformément aux dispositions concernant le profit à l’article 10.65. Calcul du profit des contrats négociés du Guide des approvisionnements de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, pour toute partie des travaux entamés et inachevés, avant la date de l’avis de résiliation. L’entrepreneur accepte de n’avoir droit à aucuns profits escomptés pour toute partie du contrat résiliée; et</li>
+<li>les frais liés à la résiliation des travaux engagés par l'entrepreneur, à l'exclusion du coût des indemnités de départ et des dommages-intérêts versés aux employés dont les services ne sont plus requis en raison de la résiliation, sauf les salaires que l'entrepreneur est légalement obligé de leur verser.</li>
+</ol>
+</li>
+<li>Le Canada peut réduire le montant du paiement effectué à l'égard de toute partie des travaux, si après inspection, elle ne satisfait pas aux exigences du contrat.</li>
+<li>Les sommes auxquelles l'entrepreneur a droit selon le présent article et les sommes versées ou dues à l'entrepreneur ne doivent pas dépasser, au total, le prix contractuel. Sauf dans la mesure prévue au présent article, l'entrepreneur n'aura aucun recours, notamment en ce qui a trait à l'obtention de dommages-intérêts, compensation, perte de profit, intérêts, indemnité découlant de tout avis de résiliation en vertu du présent article. L'entrepreneur convient de rembourser immédiatement au Canada tout paiement anticipé non liquidé à la date de la résiliation.</li>
+</ol>
+<h2 id="2022-12-012029droit-de-compensation">2029 21 (2008-05-12) Droit de compensation</h2>
+<p>Sans restreindre tout droit de compensation accordé par la loi, le Canada peut utiliser en compensation de tout montant payable à l'entrepreneur en vertu du contrat, tout montant payable au Canada par l'entrepreneur en vertu du contrat ou de tout autre contrat en cours. Canada peut, en effectuant un paiement en vertu du contrat, déduire du montant payable à
+        l'entrepreneur tout montant qui est ainsi payable au Canada, qui en vertu du droit de compensation, peut être retenu par le Canada.</p>
+<h2 id="2022-12-012029conflits-d-interets-et-codes-de-valeurs-et-d-ethique-pour-la-fonction-publique">2029 22 (2008-05-12) Conflits d'intérêts et codes de valeurs et d'éthique pour la fonction publique</h2>
+<p>L'entrepreneur reconnaît que les personnes qui sont assujetties aux dispositions de la <cite>Loi sur les conflits d'intérêts</cite>, 2006, <abbr title="chapitre">ch.</abbr> 9, <abbr title="article">art.</abbr> 2, du <cite>Code régissant la conduite des titulaires de charge publique en ce qui concerne les conflits d'intérêts et l'après-mandat</cite>, du <cite>Code de valeurs et d'éthique de la fonction publique</cite> ou tout autre code de valeur et d'éthique en vigueur au sein d'organismes spécifiques ne peuvent bénéficier directement du contrat.</p>
+<h2 id="2022-12-012029honoraires-conditionnels">2029 23 (2008-12-12) Honoraires conditionnels</h2>
+<p>L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, directement ou indirectement, et convient de ne pas verser, directement ou indirectement, des honoraires conditionnels en rapport avec la soumission, la négociation ou l'obtention du contrat à toute personne autre qu'un employé de l'entrepreneur remplissant les fonctions habituelles liées
+        à son poste. Dans le présent article, « <dfn>honoraires conditionnels</dfn> » signifie tout paiement ou autre forme de rémunération qui est subordonné au degré de succès ou calculé en fonction du degré de succès obtenu en rapport à la soumission, à la négociation ou à l'obtention du contrat et
+        « <dfn>personne</dfn> » comprend tout individu qui est tenu de fournir au directeur une déclaration en vertu de l'article 5 de la <cite>Loi sur le lobbying</cite>, 1985, <abbr title="chapitre">ch.</abbr> 44 (4<sup>e</sup> <abbr title="supplémentaire">suppl.</abbr>).</p>
+<h2 id="2022-12-012029sanctions-internationales">2029 24 (2021-12-02) Sanctions internationales</h2>
+<ol>
+<li>Les personnes au Canada et les Canadiens et les Canadiennes à l'étranger sont liées par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou service provenant, directement ou indirectement, d'un ou plusieurs pays ou personnes assujettis aux sanctions
+                économiques.</li>
+<li>L'entrepreneur ne doit pas fournir au gouvernement du Canada un bien ou un service assujetti aux sanctions
+            économiques.</li>
+<li>L'entrepreneur doit se conformer aux modifications apportées au règlement imposé pendant la période du contrat. L'entrepreneur doit immédiatement aviser le Canada s'il est dans l'impossibilité d'exécuter le contrat suite à l'imposition de sanctions à un pays ou
+            à une personne ou l'ajout de biens ou des services à la liste des biens ou des services sanctionnés. Si les parties ne peuvent alors s'entendre sur un plan de redressement, le contrat sera résilié pour des raisons de commodité par le Canada conformément à l'article 20.</li>
+</ol>
+<h2 id="2022-12-012029dispositions-relatives-a-l-integrite-contrat">2029 25 (2016-04-04) Dispositions relatives à l'intégrité – contrat</h2>
+<p>La <cite>Politique d'inadmissibilité et de suspension</cite> (la « Politique ») et toutes les directives connexes incorporées par renvoi dans la demande de soumissions à sa date de clôture sont incorporées au contrat et en font partie intégrante. L'entrepreneur doit respecter les dispositions de la Politique et des directives, lesquelles se trouvent sur le site Web de Travaux publics et Services gouvernementaux Canada à l'adresse Politique d'inadmissibilité et de suspension.</p>
+<h2 id="2022-12-012029exhaustivite-de-la-convention">2029 26 (2008-05-12) Exhaustivité de la convention</h2>
+<p>Le contrat représente la totalité et la seule entente intervenue entre les parties.</p>
+<h2 id="2022-12-012029acces-a-l-information">2029 27 (2012-07-16) Accès à l'information</h2>
+<p>Les documents créés par l'entrepreneur et qui relèvent du Canada sont assujettis aux dispositions de la <cite>Loi sur l'accès à l'information</cite>. L'entrepreneur reconnaît les responsabilités du Canada en vertu de la <cite>Loi sur l'accès à l'information</cite> et doit, dans la mesure du possible, aider le Canada à s'acquitter de ces responsabilités. De plus, l'entrepreneur reconnaît que l'article 67.1 de la <cite>Loi sur l'accès à l'information</cite> stipule que toute personne qui détruit, modifie, falsifie ou cache un document ou ordonne à une autre personne de commettre un tel acte, dans l'intention d'entraver le droit d'accès prévu à la <cite>Loi sur l'accès à l'information</cite>, est coupable d'un acte criminel passible d'un emprisonnement ou d'une amende, ou les deux.</p>
+<h2 id="2022-12-012029code-de-conduite-pour-approvisionnement">2029 28 (2022-01-28) Code de conduite pour l'approvisionnement – contrat</h2>
+<p>L'entrepreneur accepte de se conformer au Code de conduite pour l'approvisionnement et d'être lié par ses dispositions pendant la période du contrat.</p>
+<h2 id="2022-12-012029exigences-contre-le-travail-force">2029 29 (2021-11-04) Exigences contre le travail forcé</h2>
+<ol>
+<li>L’entrepreneur déclare et garantit que les travaux ne sont pas extraits, fabriqués ou produits, en tout ou en partie, par du travail forcé. Peu importe qui agit à titre d’importateur, l’entrepreneur ne doit pas, pendant l’exécution du contrat, livrer au Canada ou importer au Canada, directement ou indirectement, des travaux dont l’importation est interdite selon le paragraphe 136(1) du <cite>Tarif des douanes</cite> et le numéro tarifaire 9897.00.00 de l’annexe du Tarif des douanes (avec toutes ses modifications successives), parce qu’ils sont extraits, fabriqués ou produits, en tout ou en partie, par du travail forcé. </li>
+<li>Si un classement tarifaire est déterminé en vertu de la Loi sur les douanes et que l’importation de la totalité ou d’une partie des travaux est interdite, l’entrepreneur doit immédiatement en informer l’autorité contractante par écrit. Le Canada peut résilier le contrat pour manquement en vertu de l’article 2029 19 – Manquement de la part de l’entrepreneur, si la totalité ou une partie des travaux est classée dans le numéro tarifaire 9897.00.00 de l’annexe du Tarif des douanes comme étant extraite, fabriquée ou produite par du travail forcé. Si l’entrepreneur sait que les travaux, ou toute partie des travaux, font ou ont fait l’objet d’une enquête visant à déterminer s’ils sont interdits d’entrée en vertu du numéro tarifaire 9897.00.00, il doit immédiatement informer l’autorité contractante par écrit de cette enquête.</li>
+<li>Le Canada peut résilier le contrat pour manquement en vertu de l’article 2029 19 – Manquement de la part de l’entrepreneur, s’il a des motifs raisonnables de croire que les travaux ont été extraits, fabriqués ou produits, en tout ou en partie, par du travail forcé ou sont liés à la traite des personnes. Ces motifs peuvent comprendre :
+            <ol type="a">
+<li>Constatations ou ordonnances de refus de mainlevée du Service des douanes et de la protection des frontières des États-Unis, en vertu de la <abbr lang="en" title="United States">US</abbr> Trade Facilitation and Trade Enforcement Act (disponible en anglais seulement) de 2015; ou</li>
+<li>Preuves crédibles soumises par une source digne de foi, y compris, sans s’y limiter, des organismes non gouvernementaux.</li>
+</ol>
+</li>
+<li>Le Canada peut résilier le contrat pour manquement en vertu de l’article 2029 19 – Manquement de la part de l’entrepreneur, si l’entrepreneur a, dans les trois années précédentes, été reconnu coupable de l’une des infractions suivantes inscrites au Code criminel ou dans la Loi sur l’immigration et la protection des réfugiés :<br/>
+<p><cite>Code criminel</cite></p>
+<ol type="i">
+<li>article 279.01 (Traite des personnes);</li>
+<li>article 279.011 (Traite de personnes âgées de moins de dix-huit ans);</li>
+<li>paragraphe 279.02(1) (Avantage matériel – traite de personnes);</li>
+<li>paragraphe 279.02(2) (Avantage matériel – traite de personnes de moins de dix-huit ans);</li>
+<li>paragraphe 279.03(1) (Rétention ou destruction de documents – traite de personnes);</li>
+<li>paragraphe 279.03(2) (Rétention ou destruction de documents – traite de personnes de moins de dix-huit ans); ou</li>
+</ol>
+<p><cite>Loi sur l’immigration et la protection des réfugiés</cite></p>
+<ol start="7" type="i">
+<li>article 118 (Trafic de personnes).</li>
+</ol>
+</li>
+<li>Le Canada peut résilier le contrat pour manquement en vertu de l’article 2029 19 – Manquement de la part de l’entrepreneur, si l’entrepreneur a, dans les trois années précédentes, été reconnu coupable d’une infraction qui a été commise dans un pays autre que le Canada et qui, de l’avis du Canada, est semblable à l’une des infractions précisées aux paragraphes 4(i) à (vii).</li>
+<li>Afin de déterminer si une infraction commise à l’étranger est semblable à une infraction répertoriée, <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> tiendra compte des facteurs suivants :
+            <ol type="i">
+<li>dans le cas d’une condamnation, si la cour a agi dans les limites de sa compétence;</li>
+<li>si le fournisseur s’est vu accorder le droit de comparaître devant la cour pendant la poursuite judiciaire ou de se soumettre à la compétence de la cour;</li>
+<li>si la décision de la cour a résulté d’une fraude; ou</li>
+<li>si le fournisseur a pu présenter à la cour toute défense à laquelle il aurait eu droit si les procédures judiciaires s’étaient déroulées au Canada.</li>
+</ol>
+</li>
+<li>Si le Canada a l’intention de résilier le contrat en vertu du présent article, il informera l’entrepreneur et lui donnera l’occasion de présenter des observations écrites avant de prendre une décision finale. Les observations écrites doivent être soumises dans les 30 jours suivant la réception d’un avis concernant des préoccupations, à moins que le Canada ne fixe un délai différent.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les offres à commandes lorsque des listes de 
+prix sont comprises dans la base de paiement.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>À la suite de l'émission de l'offre à commandes,
+l'offrant aura la responsabilité de fournir et de mettre
+à jour des listes de prix et(ou) des catalogues, selon les
+besoins du Canada. L'offrant doit fournir un (1) exemplaire de son
+catalogue et de sa liste de prix ainsi que des mises à jour
+pertinentes à chacun des utilisateurs désignés qui
+en fait la demande. L'offrant doit également en faire parvenir
+un (1) exemplaire au responsable de l'offre à commandes à
+l'adresse indiquée dans l'offre à commandes.</p>
+</div></pre>

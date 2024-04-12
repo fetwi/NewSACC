@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser cette clause dans toutes les demandes de soumissions et tous les 
+contrats passés au nom de l'
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ lorsque la livraison se fait directement au 
+destinataire final.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Toutes les demandes de drawback qui proviennent du présent
+contrat seront assujetties aux critères et procédures
+décrits dans le document CR96-2 <cite>Règlement sur le remboursement et le drawback relatifs aux marchandises importées et exportées</cite> ou D7-3-4 <cite>Règlement sur les drawbacks relatifs aux marchandises de fabrication canadienne exportées</cite>, de l'Agence des douanes et du revenu
+du Canada.</p>
+</div></pre>

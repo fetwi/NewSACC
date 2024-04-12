@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la sélection de l'entrepreneur est faite en 
+fonction de la soumission la mieux cotée sur le plan technique, à la suite d'une 
+évaluation fondée sur les exigences minimales obligatoires et la cotation 
+numérique.  Cette clause doit être utilisée de concert avec la clause A0200T ou 
+une clause semblable.  Dans le premier espace, les agents de négociation des 
+contrats doivent indiquer le nombre minimum de points, en pourcentage, et dans 
+le second espace, l'échelle de cotation utilisée.  Il faut penser utiliser la 
+présente clause avec la clause A0210T, Financement maximal, ou une autre clause 
+qui indique aux soumissionnaires éventuels le niveau d'efforts requis.  Cette 
+clause peut être remplacée par la clause A0275T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour être jugée recevable, une soumission doit :
+
+       a)     satisfaire à toutes les exigences obligatoires énoncées dans 
+              la présente invitation; et
+
+       b)     obtenir au moins _____ p. 100 des points pour les critères 
+              utilisés dans la cotation numérique.  L'échelle de cotation 
+              compte _____ points.
+
+2.     Les soumissions ne remplissant pas la condition a) ou b) seront 
+       éliminées.  On recommandera la soumission recevable ayant obtenu le 
+       plus grand nombre de points aux fins de l'adjudication d'un contrat 
+       ou de l'établissement d'une offre à commandes, selon le cas, pourvu 
+       que le prix estimatif total n'excède pas les crédits budgétaires 
+       disponibles pour ce projet.
+
+</pre>
