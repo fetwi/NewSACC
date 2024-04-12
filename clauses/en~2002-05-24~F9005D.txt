@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause as an additional paragraph in a security requirement 
+clause, ONLY after the client department has given written permission for this 
+arrangement.
+
+Use this clause in consultation with the Canadian and International Industrial 
+Security Directorate.
+
+Completion of the Security Requirement Check List, form TBS/SCT 350-103, is 
+mandatory and is available on line at www.ciisd.gc.ca, or in paper version in 
+the Supply Manual, Annex 6.13.
+
+NOTE:	** The clause must identify the procurement, i.e. a Contract or Standing 
+Offer, as applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Security Requirement</strong>:  *<strong>*PWGSC FILE</strong> #_______
+
+Until the security screening of the Contractor/Offeror personnel required 
+by this Contract/Standing Offer has been completed satisfactorily by the 
+Canadian and International Industrial Security Directorate, Public Works 
+and Government Services Canada, the Contractor/Offeror personnel <strong>MAY NOT 
+HAVE ACCESS</strong> to (CLASSIFIED/PROTECTED) information or assets, and <strong>MAY NOT 
+ENTER </strong>sites where such information or assets are kept, without an escort, 
+who holds a valid security clearance at the level of _____, provided by the 
+department or agency for which the Work is being performed.
+
+</pre>

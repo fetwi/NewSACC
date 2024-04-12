@@ -1,0 +1,529 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-2 00     (01/01/94)    Software Development/Modification Services</strong>
+ 
+
+01     Interpretation
+
+<strong>PART I - DEVELOPMENT OF DETAILED DESIGN</strong>
+
+02     Application of Part I
+03     Functional Specifications
+04     Detailed Design Specifications
+05     Review Period
+06     Design Warranty
+
+<strong>PART II - IMPLEMENTATION OF CUSTOM SOFTWARE</strong>
+
+
+07     Application of Part II
+08     Coding and Pre-Installation Tests
+09     New Source Code 
+10     Pre-Existing Software
+11     Object Code and User Documentation
+12     Conversion of Data Files
+13     Acceptance Tests
+14     Warranty
+
+<strong>PART III - TITLE AND RISK</strong>
+
+15     Title to Media
+16     Risk of Loss
+17     Title to Developed Software
+
+
+
+
+<strong>9601-2 01     (01/01/94)    Interpretation</strong>
+
+
+(1)    In the Contract, unless the context otherwise requires,
+
+       "<strong>Custom Software</strong>" means the computer programs, data bases and 
+       documentation which Canada wishes to  develop, or to have developed, 
+       either as new or substantially new software or by modification of 
+       existing software, all as described in the Contract;
+
+       "<strong>Detailed Design Specifications</strong>" means the specifications for the 
+       detailed technical design of the Custom Software;
+
+       "<strong>Functional Specifications</strong>" means the functional description of the 
+       Custom Software which is set out or referred to in the Contract, and 
+       which specifies the functions which the Custom Software is to 
+       perform and the features and capacities which the Custom Software 
+       must have;
+
+       "<strong>General Conditions</strong>" means General Conditions - Long Form, DSS-MAS 
+       9601, or General Conditions - Research and Development, DSS-MAS 9624, 
+       whichever forms part of the Contract 
+
+(2)    Words and expressions defined in the General Conditions and used in 
+       these Supplemental General Conditions shall have the meanings 
+       assigned to them in the General Conditions.
+
+(3)    In the event of any inconsistency between the General Conditions and 
+       these Supplemental General Conditions, the applicable provisions of 
+       these Supplemental General Conditions shall prevail.
+
+(4)    The sections of the General Conditions entitled "Title" and "
+       Warranty" do not apply to the Custom Software or to the media 
+       referred to in section 15 (Title to Media).  The title and warranty 
+       provisions contained in these Supplemental General Conditions apply 
+       in place of those sections.
+
+
+<strong>PART I - DEVELOPMENT OF DETAILED DESIGN</strong>
+
+
+<strong>9601-2 02     (01/01/94)    Application of Part I</strong><strong></strong>
+
+
+
+This Part applies if the Contract requires the Contractor either to design 
+the Custom Software or to further develop an existing technical design for 
+the Custom Software.
+
+
+<strong>9601-2 03     (01/01/94)    Functional Specifications</strong>
+
+
+
+If the Functional Specifications are to be further developed by the 
+Contractor under the Contract, and if the Functional Specifications 
+thereafter developed by the Contractor are accepted by Canada, then the 
+developed Functional Specifications shall be deemed to be incorporated in 
+the Contract by reference, and shall supersede the Functional 
+Specifications which were originally incorporated in the Contract.
+
+
+<strong>9601-2 04     (01/01/94)    Detailed Design Specifications</strong>
+
+
+
+(1)    The Contractor shall develop the Detailed Design Specifications for 
+       the Custom Software in conformity with the Functional Specifications 
+       and all other requirements of the Contract.
+
+(2)    Notwithstanding anything contained in section 5 (Review Period), the 
+       inspection procedures set out in section 5 shall only apply in the 
+       absence of any other detailed procedure in the Contract for review 
+       by Canada of the Detailed Design Specifications developed by the 
+       Contractor.
+
+
+<strong>9601-2 05     (01/01/94)    Review Period</strong>
+
+
+
+(1)    In this section, unless otherwise indicated in the Contract, "Review 
+       Period" means a period of 5 working days from the date on which the 
+       Detailed Design Specifications are to be submitted to Canada in 
+       accordance with the terms of the Contract, or from the actual date 
+       of submission of those Specifications by the Contractor, whichever 
+       is later.
+
+(2)    The Review Period may be extended by Canada by an additional 5 
+       working days by notice given to the Contractor by the Technical 
+       Authority within the Review Period.
+
+(3)    During the Review Period, Canada shall inspect the Detailed Design 
+       Specifications submitted by the Contractor and, within 2 working 
+       days following the end of the Review Period, shall advise the 
+       Contractor whether or not the Detailed Design Specifications have 
+       passed inspection.
+
+(4)    If the Detailed Design Specifications submitted by  the Contractor 
+       are inconsistent with the Functional Specifications, or fail in any 
+       other way to meet the requirements of the Contract, Canada shall 
+       prepare a written description of the deficiencies, and shall deliver 
+       such description to the Contractor within 2 working days following 
+       the end of the Review Period.
+
+(5)    Upon receipt of Canada's description of the deficiencies mentioned 
+       in subsection (4), the Contractor shall thereupon modify the 
+       Detailed Design Specifications to correct the deficiencies and shall 
+       promptly submit the corrected Work to Canada for inspection.
+
+(6)    During a second Review Period, Canada shall inspect the corrected 
+       Work submitted to Canada pursuant to subsection (5), and subsections 
+       (3) and (4) shall apply to that inspection.
+
+(7)    Notwithstanding anything else contained in this section, the 
+       Contractor shall ensure that the Detailed Design Specifications 
+       developed by the Contractor pass inspection by Canada within 30 days 
+       from the date on which the Detailed Design Specifications were 
+       originally to be submitted by the Contractor to Canada in accordance 
+       with the terms of the Contract.
+
+
+<strong>9601-2 06     (01/01/94)    Design Warranty</strong>
+
+
+
+(1)    Notwithstanding inspection of the Detailed Design Specifications by 
+       Canada, the Contractor warrants that the Detailed Design 
+       Specifications will be derived from and be in accordance and 
+       consistent with the Functional Specifications and all other 
+       requirements of the Contract.
+
+(2)    If Part II of these Supplemental General Conditions applies, the 
+       warranty set forth in subsection (1) shall expire on the date of 
+       expiry of the Warranty Period referred to in section 14.  If Part II 
+       does not apply, the warranty set forth in subsection (1) shall 
+       expire upon acceptance of the Work by Canada.
+
+
+<strong>PART II - IMPLEMENTATION OF CUSTOM SOFTWARE</strong>
+ 
+<strong>9601-2 07     (01/01/94)    Application of Part II</strong>
+
+
+
+This Part applies if the Contract requires the Contractor to develop the 
+Custom Software based on the Detailed Design Specifications and the 
+Functional Specifications.
+
+
+<strong>9601-2 08     (01/01/94)    Coding and Pre-Installation Tests</strong>
+
+
+
+(1)    In the development of the Custom Software, the Contractor shall 
+       carry out all detailed programming and coding required in conformity 
+       with the Detailed Design Specifications, and, if necessary, shall 
+       revise the Detailed Design Specifications in order to ensure that 
+       they are derived from and are consistent with the Functional 
+       Specifications and all other requirements of the Contract.
+
+(2)    The Contractor shall conduct pre-installation testing to ensure that 
+       the Custom Software will operate in conformity with the Functional 
+       Specifications and all other requirements of the Contract.  The 
+       Contractor shall notify the Technical Authority of all such tests 
+       and, upon the request of the Technical Authority, will give the 
+       Technical Authority an opportunity to witness those tests, and a 
+       copy of all intermediate and final test records and results.
+
+
+<strong>9601-2 09     (01/01/94)    New Source Code</strong>
+
+
+
+(1)    In this section, "New Source Code" means all of the source code for 
+       the Custom Software that is written by the Contractor or any 
+       Subcontractor as part of the Work under the Contract.
+
+(2)    The Contractor shall deliver the New Source Code to Canada at such 
+       time or times as the Contract may require, or, if no other time is 
+       specified, within 30 days following acceptance of the Custom 
+       Software by Canada.
+
+(3)    The New Source Code furnished by the Contractor shall contain a 
+       complete description of the operation of the developed software in 
+       sufficient detail to enable a programmer, experienced in the 
+       programming language or languages in which the source code is 
+       written, to modify all aspects of that software without assistance 
+       from the Contractor.
+
+
+<strong>9601-2 10     (01/01/94)    Pre-Existing Software</strong>
+
+
+
+(1)    In this section, "Pre-Existing Software" means software that is not 
+       developed as part of the Work under the Contract, and that is 
+       proprietary to the Contractor or any of its subcontractors or other 
+       suppliers.
+
+(2)    The Contractor shall not develop the Custom Software by modifying 
+       Pre-Existing Software, or incorporate any Pre-Existing Software into 
+       the Custom Software, without the prior written consent of the 
+       Contracting Authority.
+
+(3)    Notwithstanding subsection (2), the Contractor is not obligated to 
+       seek the consent of the Contracting Authority in relation to any 
+       Pre-Existing Software the use of which is specifically authorized in 
+       the Contract.
+ 
+(4)    If Pre-Existing Software forms part of the Custom Software, and if 
+       the Contract does not otherwise require the Contractor to deliver 
+       the source code for that software to Canada or to put that source 
+       code into escrow for the benefit of Canada, the Contractor shall, at 
+       its option and expense, either:
+
+       (a)    deliver the source code for that software to Canada within 30 
+              days following acceptance of the Custom Software by Canada; 
+              or
+
+       (b)    deliver that source code, at the time mentioned in paragraph 
+              (a), to an escrow agent approved by the Minister to be held 
+              in trust by that agent for release to Canada upon the 
+              occurrence of any of the following events:
+
+              (i)    Canada terminates for default the Contract or any 
+                     subsequent support or development arrangement relating 
+                     to the Custom Software;
+
+              (ii)   the Contractor or its supplier defaults in the 
+                     performance of its obligations under the escrow 
+                     agreement relating to the source code;
+
+              (iii)  the Contractor or its supplier ceases to do business 
+                     in the ordinary course, or ceases to make support or 
+                     development services in relation to the Custom 
+                     Software reasonably available to Canada;
+
+              (iv)   the Contractor or its supplier becomes bankrupt or 
+                     insolvent, makes an assignment for the benefit of 
+                     creditors, or takes the benefit of any statute 
+                     relating to bankrupt or insolvent debtors;
+
+              (v)    a receiver is appointed for the Contractor or its 
+                     supplier under a debt instrument, or a receiving order 
+                     is made against the Contractor or its supplier; or
+
+              (iv)   an order is made or a resolution passed for the 
+                     winding up of the Contractor or its supplier.
+
+(5)    The source code delivered by the Contractor to Canada, or to any 
+       escrow agent, in relation to any Pre-Existing Software that forms 
+       part of the Custom Software, shall contain a complete description of 
+       the operation of that Pre-Existing Software in sufficient detail to 
+       enable a programmer, experienced in the programming language or 
+       languages in which the source code is written, to modify all aspects 
+       of that software without assistance from the Contractor.  If the 
+       source code for the Pre-Existing Software is to be delivered to an 
+       escrow agent, the Contractor shall ensure that the source code in 
+       the possession of the escrow agent is updated from time to time to 
+       correspond with the most current version of the object code in the 
+       possession of Canada.
+
+(6)    Unless otherwise provided in the Contract, or in any escrow 
+       agreement signed by Canada, Canada's rights to use, copy, modify and 
+       disclose any Pre-Existing Software supplied under the Contract, and 
+       any source code for that software, shall be identical to those set 
+       out in Supplemental General Conditions DSS-MAS 9601-4 (Licensed 
+       Software).
+
+(7)    Without limiting the generality of the section entitled "
+       Subcontracting" in the General Conditions, the Contractor shall 
+       impose on its subcontractors and other suppliers the obligations to 
+       Canada imposed under this section, and shall ensure that those 
+       obligations are carried out.
+
+
+<strong>9601-2 11     (01/01/94)    Object Code and User Documentation</strong>
+
+
+
+(1)    Without limiting any of the Contractor's other obligations under the 
+       Contract, including its obligation with respect to the supply of 
+       source code, the Contractor shall furnish all of the developed or 
+       modified programs to Canada in executable object code.
+
+(2)    The operating manuals, technical manuals, and other user 
+       documentation furnished by the Contractor to Canada for use with the 
+       Custom Software shall describe the operation of the Custom Software 
+       in sufficient detail to enable appropriately trained employees of 
+       Canada to use all functions and features of the Custom Software 
+       without assistance from the Contractor. 
+
+
+<strong>9601-2 12     (01/01/94)    Conversion of Data Files</strong>
+
+
+
+Where indicated in the Contract, the Contractor shall convert Canada's 
+machine-readable data files, as they exist on any existing computer system 
+used to fulfil all or part of the then-current functional requirements of 
+Canada, to data files designed for use with the Custom Software.  Canada is 
+responsible for the accuracy and the completeness of data files delivered 
+to the Contractor, and the Contractor is responsible for the accuracy and 
+completeness of the data files after conversion, and for the compatibility 
+of such data files with the Custom Software.
+
+
+<strong>9601-2 13     (01/01/94)    Acceptance Tests</strong>
+
+
+
+(1)    Notwithstanding anything else contained in this section, the 
+       acceptance procedures set out in subsections (2) to (5) inclusive 
+       shall only apply in the absence of any other detailed acceptance 
+       procedures for the Custom Software set out or referred to in the 
+       Contract.
+
+(2)    Canada shall prepare and provide to the Contractor acceptance test 
+       data prior to the date specified in the Contract for the start of 
+       pre-installation testing of the Custom Software.  Canada will 
+       consult with the Contractor in connection with the preparation of 
+       such data, and the Contractor shall assist in such preparation to 
+       the extent indicated in the Contract.  Such data shall be used by 
+       Canada and the Contractor to determine whether the Custom Software, 
+       when executed on the hardware and its operating system, performs in 
+       accordance with the Functional Specifications and all other 
+       requirements of the Contract.  Unless otherwise agreed, the test 
+       data shall be in the format and media required for direct input to 
+       the computer system, as defined in the Detailed Design 
+       Specifications.
+
+(3)    Following receipt of the acceptance test data referred to in 
+       subsection (2), and prior to the date specified in the Contract for 
+       the start of acceptance testing of the Custom Software (the "Test 
+       Start Date"), the Contractor shall provide an "Acceptance Test Plan" 
+       to Canada for Canada's review and approval.  The Acceptance Test 
+       Plan shall consist of a description of a series of tasks and 
+       verifications, based on the acceptance test data, in sufficient 
+       detail to enable Canada and the Contractor to determine whether the 
+       Custom Software performs in accordance with the Functional 
+       Specifications and all other requirements of the Contract.
+
+(4)    On the Test Start Date, the acceptance tests in relation to the 
+       Custom Software shall commence using the pre-approved Acceptance 
+       Test Plan referred to in subsection (3).  The acceptance tests shall 
+       be conducted over such period of time as is specified therefor in 
+       the Contract, or, if no other acceptance testing period is specified, 
+       over a 40-day period from the Test Start Date.  If the Custom 
+       Software passes the acceptance tests, and if the Contractor has 
+       completed all other Work under the Contract in accordance with the 
+       terms of the Contract, the Technical Authority shall promptly give 
+       notice to the Contractor that the Custom Software is accepted.
+
+(5)    If the Custom Software fails to pass the acceptance tests referred 
+       to in subsection (4), Canada shall prepare a written description of 
+       the deficiencies and deliver such description to the Contractor 
+       within 10 days following the end of the acceptance testing period 
+       referred to in that subsection.  Upon receipt of Canada's 
+       description of the deficiencies,  the Contractor shall thereupon 
+       modify the Custom Software to correct the deficiencies and shall do 
+       so within 10 days of receipt of such description.  All  acceptance 
+       tests in relation to the Custom Software shall then be repeated, at 
+       no additional cost to Canada, and the Contractor shall ensure that 
+       the Custom Software passes the second set of acceptance tests within 
+       the acceptance testing period.
+
+(6)    Notwithstanding anything else contained in this section, if Canada 
+       is unable to commence or continue the acceptance tests in relation 
+       to the Custom Software because of an act in Canada's sovereign 
+       capacity or the occurrence of an event of force majeure, the 
+       acceptance tests may be temporarily suspended for a period of time 
+       not to exceed 60 days.  The time limits for testing referred to in 
+       this section or elsewhere in the Contract shall in such cases be 
+       extended by the number of calendar days of the suspension.  If the 
+       delay exceeds 60 days, the Parties shall thereafter use reasonable 
+       efforts to negotiate a mutually acceptable amendment to the Contract.
+
+
+<strong>9601-2 14     (01/01/94)    Warranty</strong>
+
+
+
+(1)    In this section, unless otherwise indicated in the Contract, "
+       Warranty Period" means a period of 90 days commencing on the date of 
+       completion of the whole of the Work by the Contractor, and 
+       acceptance of the whole of the Work by Canada, with the exception 
+       only of warranty work.
+
+(2)    Notwithstanding inspection and acceptance of the Custom Software by 
+       Canada and without restricting any term or condition of the Contract 
+       or any condition, warranty or provision implied or imposed by law, 
+       the Contractor warrants that, during the Warranty Period, the Custom 
+       Software will perform in accordance with the Functional 
+       Specifications and all other requirements of the Contract on the 
+       computer system on which the Custom Software is installed under the 
+       Contract.
+
+(3)    During the Warranty Period, the Contractor shall, as soon as 
+       possible, provide, at no additional charge to Canada, corrections to 
+       the Custom Software where Canada notifies the Contractor in writing 
+       of any failure of the Custom Software to perform in accordance with 
+       the Functional Specifications or any other requirement of the 
+       Contract.  If Canada reports a failure to the Contractor, Canada 
+       shall give the Contractor reasonable access to the computer system 
+       on which the Custom Software resides, and shall provide such 
+       information as the Contractor may reasonably request, including 
+       sample output and other information, in order to permit the 
+       Contractor to expeditiously correct the error which caused that 
+       failure.
+
+(4)    Although the Contractor shall use all reasonable efforts to provide 
+       permanent corrections for all software errors, Canada acknowledges 
+       that certain errors may not be permanently corrected by the 
+       Contractor under the warranty set out in this section.  The 
+       Contractor shall provide a software patch or by-pass around the 
+       error in all cases where the error will not be permanently corrected.  
+       As a minimum, any such software patch or by-pass shall cause the 
+       Custom Software to meet the functional and performance criteria set 
+       out in the Functional Specifications.
+
+(5)    The Contractor is not obligated to correct errors in the Custom 
+       Software which result from modifications to the Custom Software or 
+       any part thereof unless those modifications were made by the 
+       Contractor or by someone authorized by the Contractor to perform 
+       those modifications.
+
+
+<strong>PART III - TITLE AND RISK</strong><strong></strong>
+
+
+<strong>9601-2 15     (01/01/94)    Title to Media</strong>
+
+
+ 
+(1)    For the purposes of this section, the term "media" does not include 
+       the information stored on the media.
+
+(2)    All documents, magnetic tapes and any other tangible media 
+       containing the Custom Software or any part thereof, or containing 
+       any specification, design, prototype or other information furnished 
+       as part of the Work, shall become the property of Canada upon the 
+       earlier of delivery to and acceptance thereof by Canada or upon any 
+       payment being made to the Contractor for or on account of the media 
+       or the information stored thereon, either by way of progress 
+       payments or accountable advances or otherwise.  It is agreed that 
+       the vesting of title in Canada shall not constitute acceptance by 
+       Canada of the media or of the information stored thereon and shall 
+       not relieve the Contractor of its obligation to perform the Work in 
+       conformity with the requirements of the Contract.
+
+
+<strong>9601-2 16     (01/01/94)    Risk of Loss</strong>
+
+
+
+(1)    Risk of loss of or damage to the media referred to in section 15 
+       (Title to Media), or to the information stored thereon, shall pass 
+       to Canada upon delivery of the media to Canada in accordance with 
+       the Contract, provided, however, that if the Contractor has retained 
+       a copy of the information that was stored on the media, the 
+       Contractor shall, upon the request of the Minister, replace the lost 
+       or damaged media and information at no additional charge to Canada 
+       except for any charge for costs reasonably and properly incurred in 
+       the carrying out of such replacement.
+
+(2)    Notwithstanding subsection (1), the Contractor shall be liable for 
+       loss of or damage to the media and the information stored thereon 
+       that is caused by the Contractor or any of its Subcontractors after 
+       delivery.
+
+
+<strong>9601-2 17     (01/01/94)    Title to Developed Software</strong>
+
+
+
+(1)    For the purposes of this section, "Developed Software" includes 
+       object code, source code, documentation, data bases, specifications, 
+       designs, prototypes and other related information conceived, 
+       developed or produced as part of the Work under the Contract.
+
+(2)    Title to the Developed Software shall vest either in Canada or the 
+       Contractor, whichever is indicated in the intellectual property 
+       provisions of the Contract.  If title vests in the Contractor, the 
+       Contractor grants to Canada the license with respect to the 
+       Developed Software set out or referred to in those provisions.
+
+(3)    The provisions of this section shall not be interpreted so as to 
+       limit in any way the intellectual property  provisions of the 
+       Contract.
+
+</pre>

@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The supply to Canadian Commercial Corporation (CCC) by the
+Contractor under this Contract would constitute a "Taxable Supply"
+as this expression is defined for purposes of the Goods and
+Services Tax (GST) or the Harmonized Sales Tax (HST), as
+appropriate. Accordingly, the rate of tax in respect thereto would
+be at the rate imposed for such supply based on the value of the
+consideration for the supply to <abbr title="Canadian Commercial Corporation">CCC</abbr> hereunder. The Contractor is
+required to reflect its <abbr title="Goods and Services Tax">GST</abbr>/<abbr title="Harmonized Sales Tax">HST</abbr> Registration Number and the
+appropriate <abbr title="Goods and Services Tax">GST</abbr> or <abbr title="Harmonized Sales Tax">HST</abbr> amount as a separate line item on each
+invoice to <abbr title="Canadian Commercial Corporation">CCC</abbr> hereunder.</p>
+</div></pre>

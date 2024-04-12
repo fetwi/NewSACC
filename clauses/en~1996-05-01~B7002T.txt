@@ -1,0 +1,29 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Government Supplied Material (GSM) shall be used in the manufacture 
+       of the item(s) detailed herein.  The Bidder is required to state the 
+       required quantity per unit for each item.  Material usage must be 
+       accurately estimated, as material required in addition to that 
+       estimated below must be purchased from Canada at the price indicated 
+       herein.  Usage of GSM is a component of the bid price and will 
+       factor in bid evaluation.  Failure to indicate the GSM required for 
+       each item will result in your Bid being considered non-responsive.
+
+2.     Canada will provide to the Contractor the GSM specified in the 
+       Contractor's bid free of charge, including transportation charges to: _____.
+
+       Government Supplied Material - (GSM)
+
+              (a)    Description
+              (b)    Minimum Width
+              (c)    Item
+              (d)    Quantity per unit
+              (e)    Price per unit *
+
+              _________m/ea
+
+              * GST Extra
+ 
+
+</pre>

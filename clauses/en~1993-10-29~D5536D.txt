@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts placed with Canadian Contractors when the 
+DND requisition specifies Government Quality Assurance at source and 
+D-QA-00l-015/SF-001, (Specification for Quality Control and Inspection 
+requirements for Suppliers of Aviation Fuels and Into-Plane Services) is 
+required (DND QAC E).  For requisitions with more than one Quality Assurance 
+Code (QAC), the procurement officer is to identify the line item numbers 
+associated with each QA clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the requirements of D-QA-001-015/SF-001, Specification for 
+Quality Control and Inspection Requirements for Suppliers of Aviation Fuels 
+and Into-Plane Services. 
+
+Quality control and inspection records shall be retained by the Contractor 
+for a period of three (3) years from the date of completion or termination 
+of the Contract.  
+
+</pre>

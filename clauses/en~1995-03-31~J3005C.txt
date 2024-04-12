@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following text when the supplier wants to withdraw from a Standing 
+Offer.  If the Standing Offer is under seal, however, consult Legal Services. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This notice acknowledges receipt of your request by letter dated _____ to 
+   withdraw and cancel Standing Offer _____ (insert Standing Offer number), 
+   effective as of _____ (insert date of withdrawal).  You hereby 
+   acknowledge, however, that any call-ups under the Standing Offer 
+   received by you on or before that date will be fulfilled in accordance 
+   with the terms of the Standing Offer. 
+</pre>

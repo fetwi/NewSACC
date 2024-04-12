@@ -1,0 +1,31 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when: 
+
+1.	BASIC RELIABILITY screening is required (Block No. 12);
+
+2.	NO ACCESS to sensitive (DESIGNATED/CLASSIFIED) information or assets is 
+permitted (Block No. 11 is blank);
+
+3. 	unscreened personnel MAY be used for portions of this requirement (Block No. 
+10 is "YES").
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, at all times during the performance of the 
+       Contract, hold a valid Facility Security Clearance issued by the 
+       Industrial Security Division (ISD) of the Department of Public Works 
+       and Government Services at the level of BASIC RELIABILITY.
+
+2.     Contractor personnel who are required to work on the Contract shall 
+       EACH hold a valid BASIC RELIABILITY screening granted by ISD. The 
+       screening process and the granting of the Facility Security 
+       Clearance shall be completed PRIOR TO the end of the first six 
+       months of the Contract, or half the life of the Contract, whichever 
+       is less.
+
+3.     The Contractor shall comply with the provisions of the:
+
+       (a)    Security Requirements Check List, attached at Annex ____; 
+       (b)    Industrial Security Manual (June 1992).
+
+
+</pre>

@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Packages containing items having a shelf life must be marked with the date 
+of manufacture. Where the item contains elastomeric material, the cure date 
+is to be shown in addition to the date of manufacture or date of overhaul. 
+Markings are to be placed in accordance with the identification 
+requirements of the current issue of the applicable Marking Specification 
+D-LM-008-002/SF-001.  
+
+
+</pre>

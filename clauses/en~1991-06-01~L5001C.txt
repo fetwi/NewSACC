@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where property owned by Canada (tooling, 
+test equipment, materials, etc.) may become surplus.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>If, during  the course of or on completion of this Contract, the Contractor 
+   determines that property owned by Canada (tooling, test equipment and 
+   materials, etc.) is surplus, then the Contractor shall report such 
+   surplus using forms _____. If such surplus is not required by Canada, 
+   then Canada shall give the Contractor the right of first refusal at fair 
+   market value to be negotiated by Crown Assets Distribution Group.
+</pre>

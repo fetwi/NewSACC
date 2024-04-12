@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause for items which contain radioactive material (RAM) in schedule 
+quantity (SQ) as defined by Atomic Energy Control Regulations pursuant to the 
+Atomic Energy Control Act. SQ of RAM is used in DND equipment for illuminating 
+(compasses, sight units, beta lights, dials, etc.), regulating (oxygen 
+regulators, helicopter wing, etc.), coating lenses (MK 102 telescope, light 
+armour vehicles, etc.), detecting system (CAM, EVD, TDV, etc.), check sources 
+and calibrators (AN UDM 1A, FDR 502, UDM 501, etc.), lasers (laser range finder, 
+CF 18 laser target acquisition), radars (ADATS), engineering equipment 
+(troxlers, safe lane markers, etc.), nuclear gauges, industrial radiography, 
+among other uses.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall report all radioactive materials which are in schedule 
+quantities as provided for in the <em>Atomic Energy Control Act</em> and Regulations. 
+The Contractor shall conform to the current issue of CFTO 
+C-02-040-003/TP-000 in respect of all aspects of licensing, reporting, 
+marking, transporting, packaging, warnings in manuals, disposal, repair 
+procedures, and other subject areas provided for therein.
+
+
+</pre>

@@ -1,0 +1,174 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-7 00     (01/12/94)    CANADA TO OWN FOREGROUND INFORMATION</strong><strong></strong>
+
+
+
+01     Interpretation
+02     Disclosure of Foreground Information 
+03     Canada to Own Foreground Information
+04     Background Information License
+
+
+
+<strong>9601-7 01     (04/01/94)    Interpretation</strong>
+
+
+(1)    In the Contract,
+
+       "<strong>Background Information</strong>" means all Technical Information that is not 
+       Foreground Information and that is proprietary to or the 
+       confidential information of the Contractor, its subcontractors or 
+       any other supplier of the Contractor;
+
+       "<strong>Firmware</strong>" means computer programs stored in integrated circuits, 
+       read-only memory or other similar devices;
+
+       "<strong>Foreground Information</strong>" means any Invention first conceived, 
+       developed or reduced to practice as part  of the Work under the 
+       Contract and all Technical Information conceived, developed or 
+       produced as part of the Work under the Contract;
+
+       "<strong>General Conditions</strong>" means General Conditions - Long Form, DSS-MAS 
+       9601;
+
+       "<strong>Invention</strong>" means any new and useful art, process, metodology, 
+       technique, machine, manufacture or composition of matter, or any new 
+       and useful improvement of any art, process, methodology, technique, 
+       machine, manufacture or composition of matter, whether or not 
+       patentable;
+
+       "<strong>Software</strong>" means computer programs whether in source or object code 
+       (including Firmware), computer program documentation recorded in any 
+       form or medium, and computer data bases, and includes modifications 
+       to any of the foregoing;
+
+       "<strong>Technical Information</strong>" means all information of a scientific or 
+       technical nature relating to the Work, whether oral or recorded in 
+       any form or medium and whether or not copyrightable, including but 
+       not limited to any Inventions, designs, methods, processes, 
+       techniques, know-how, models, prototypes, patterns, samples, 
+       schematics, experimental or test data, reports, drawings, plans, 
+       specifications, photographs, collections of information, manuals and 
+       any other documents, and Software.
+
+(2)    Words and expressions defined in the General Conditions and used in 
+       these Supplemental General Conditions shall have the meanings 
+       assigned to them in the General Conditions.
+
+(3)    In the event of any inconsistency between the General Conditions and 
+       these Supplemental General Conditions, the applicable provisions of 
+       these Supplemental General Conditions shall prevail.
+
+(4)    The General Conditions are amended by deleting the section entitled 
+       "Copyright" in its entirety.
+
+
+
+<strong>9601-7 02     (04/01/94)    Disclosure of Foreground Information </strong>
+
+
+(1)    The Contractor shall promptly report and fully disclose to the 
+       Minister all Foreground Information that could be Inventions, and 
+       shall report and fully disclose to the Minister all other Foreground 
+       Information not later than the time of completion of the Work or at 
+       such earlier time as the Minister or the Contract may require.
+
+(2)    Before and after final payment to the Contractor, the Minister shall 
+       have the right to examine all records and supporting data of the 
+       Contractor which the Minister reasonably deems pertinent to the 
+       identification of Foreground Information.
+
+
+ 
+<strong>9601-7 03     (01/12/94)    Canada to Own Foreground Information</strong><strong></strong>
+
+
+(1)    Without divesting the Contractor or any other party of intellectual 
+       property rights that have come into being prior to the Contract, 
+       copyright, patent and all other intellectual property rights to all 
+       Foreground Information shall, immediately upon its conception, 
+       development, reduction to practice or production, vest in and remain 
+       the property of Canada.  The Contractor shall have no right in or to 
+       any such Foreground Information except any right that may be granted 
+       in writing by Canada.
+
+(2)    The Contractor hereby permanently waives its moral rights, as 
+       defined in the <em>Copyright Act</em>, R.S.C. 1985, c. C-42, to all Technical 
+       Information conceived, developed or produced by the Contractor as 
+       part of the Work under the Contract, and shall provide to Canada, at 
+       the completion of the Contract or at such other time as the Contract 
+       or the Minister may require, a written permanent waiver of such 
+       moral rights, in a form acceptable to the Minister, from every 
+       author who contributed to such Technical Information.
+
+(3)    The Contractor shall incorporate the copyright symbol and the 
+       following copyright notice into all Foreground Information recorded 
+       in any form or medium:
+
+       (c)    HER MAJESTY THE QUEEN IN RIGHT OF CANADA (year)
+
+(4)    Where copyright or patent or other intellectual property rights in 
+       Technical Information vest in Canada under the Contract, the 
+       Contractor shall execute such conveyances or other documents 
+       relating to those rights as the minister for whose department or 
+       agency the Work is being carried out may require, and the Contractor 
+       shall, at Canada's expense, afford that minister all reasonable 
+       assistance in the prosecution of any patent application or 
+       registration of copyright or an industrial design, including the 
+       assistance of the inventor in the case of Inventions.
+
+(5)    Unless prior written consent to the contrary is given by the 
+       Minister, the Contractor shall not incorporate into the Work any 
+       Background Information that would prevent Canada from awarding 
+       contracts to other contractors for the alteration, further 
+       development or other use of the Foreground Information, or that 
+       would otherwise restrict Canada's right to use the Foreground 
+       Information in any way Canada deems necessary.
+ 
+(6)    Notwithstanding subsection (5), the Contractor shall not be 
+       obligated to seek the Minister's consent to the incorporation of any 
+       Background Information that has been specifically identified in the 
+       Contract.
+
+
+
+<strong>9601-7 04     (04/01/94)    Background Information License</strong>
+
+
+(1)    In relation to any custom designed or manufactured part of the Work, 
+       the Contractor hereby grants to Canada a non-exclusive, irrevocable, 
+       worldwide, fully-paid and royalty-free license to use any Background 
+       Information incorporated into the Work or necessary for the 
+       performance of the Work as may be required solely for the following 
+       purposes:
+
+       (a)    for the use, operation, maintenance, repair or overhaul of 
+              the custom parts of the Work;
+
+       (b)    for the purpose of manufacturing spare parts for maintenance, 
+              repair or overhaul of any custom part of the Work by Canada 
+              if those parts are not reasonably available to enable timely 
+              maintenance, repair or overhaul;
+
+       (c)    for disclosure to any contractor engaged by Canada to be used 
+              by that contractor solely for a purpose set out in paragraph 
+              (a) or (b), but only if the Contractor is unable or unwilling 
+              to carry out the maintenance, repair or overhaul or provide 
+              the spare parts on reasonable commercial terms and within 
+              reasonable delivery times; 
+       and the Contractor agrees to make any such Background Information 
+       (including, in the case of Software, source code) promptly available 
+       to Canada for any such purpose.
+
+(2)    Notwithstanding subsection (1), the license set out therein shall 
+       not apply to any Software that is subject to detailed license 
+       conditions that are set out elsewhere in the Contract.
+
+(3)    The Contractor shall not, without the written permission of the 
+       Minister, incorporate into the Work any Background Information 
+       unless it owns or has procured the rights necessary to provide the 
+       license to Canada set out in this section.
+
+</pre>

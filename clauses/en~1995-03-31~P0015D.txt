@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor's plant closing for Christmas and summer holidays, where 
+applicable, will be taken into account in the calculation of the delivery 
+schedule during which time there will be no delivery.
+
+PLANT CLOSING DATES 
+
+Christmas Holidays   FROM _____ TO _____
+Summer Holidays      FROM _____ TO _____
+
+
+</pre>

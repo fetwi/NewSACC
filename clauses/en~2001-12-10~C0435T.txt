@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with clause C0417T.  The contracting officer is 
+to fill out in subsection 1.(b): the number of person hours to be used to 
+evaluate unscheduled work; in subsection 1.(c): the value of material cost to be 
+used to evaluate unscheduled work.  The bidder will fill out all other areas.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     For the purposes of the evaluation, the price will be calculated as 
+       follows:
+
+       (a)    Price for the known work as specified in the Requirement: $_______ 
+              (<strong><em>Insert bid price</em></strong><em>)</em>
+       (b)    Unscheduled labour costs: _______ person hours, at $_______ <em>(</em><strong><em>
+              Insert bid rate</em></strong><em>)</em> per hour:  $______;
+       (c)    Unscheduled material costs: $______, at _______ <em>(</em><strong><em>Insert bid 
+              mark up</em></strong><em>)</em> percentage mark up: $______;
+       (d)    Vessel Transfer costs:      $_______;
+       (e)    Contract Financial Security costs: $___________<em> (</em><strong><em>Insert 
+              amount from bid</em></strong><em>)</em>
+
+              <strong> EVALUATION TOTAL BID PRICE</strong> (taxes excluded)     $__________
+
+2.     The price of any resulting contract shall only include the amounts 
+       of subsections 1.(a) and (e), and the Goods and Services Tax/ 
+       Harmonized Sales Tax. 
+
+
+</pre>

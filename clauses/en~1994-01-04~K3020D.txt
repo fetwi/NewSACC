@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause may only be used where the contractor is to own the 
+Foreground Information and where either Supplemental General Conditions DSS-MAS 
+9601-6, Contractor to Own Foreground Information, or General Conditions DSS-MAS 
+9624, Research and Development, form part of the contract.
+
+Add the following clause where the client department is willing to give the 
+contractor access to information over and above any Canada-owned Technical 
+Information disclosed to the contractor for purposes of carrying out the 
+contract. If appropriate, replace "certain information" by a list of specific 
+items.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada is prepared to license the use by the Contractor of certain 
+information owned by Canada for purposes of the commercial exploitation or 
+further development by the Contractor of the Foreground Information, on 
+terms and conditions, which may include payment of compensation, to be 
+negotiated between the Contractor and the minister for whose department or 
+agency the Work is being carried out.
+
+
+</pre>

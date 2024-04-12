@@ -1,0 +1,667 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-1 00     (31/03/95)    HARDWARE PURCHASE<strong><strong><strong> OR </strong></strong></strong>LEASE</strong>
+
+
+Supply and Services Canada
+
+<strong>       PART I - CONDITIONS COMMON TO LEASE AND PURCHASE</strong>
+
+01     Interpretation
+02     Site Preparation
+03     Transportation and Installation
+04     Certification of Electrical Equipment
+05     Hardware Documentation
+06     Availability-Level Test
+07     Acceptance
+08     Warranty
+
+       <strong>PART II - ADDITIONAL CONDITIONS:  PURCHASE</strong>
+
+09     Title to Purchased Hardware
+10     Firmware
+
+       <strong>PART III - ADDITIONAL CONDITIONS:  LEASE</strong><strong></strong>
+
+11     Title to Leased Hardware
+12     Lease Period
+13     Termination for Convenience
+14     Risk of Loss
+15     Modifications to Hardware
+16     Relocation of Hardware
+17     Deinstallation and Removal of Hardware
+18     Quiet Enjoyment
+19     Right to Withhold Lease Payments
+
+
+
+<strong>PART I - CONDITIONS COMMON TO LEASE AND PURCHASE</strong><strong></strong>
+
+<strong>9601-1 01     (31/03/95)    Interpretation</strong>
+
+
+       (1)    In the Contract, unless the context otherwise requires,
+
+              "<strong>Availability-level Test</strong>" means the 30-day minimum 
+              Availability-level Test set out in subsections (5) and (6) of 
+              section 6 (Availability-level Test) or, where the Parties 
+              have agreed on an alternate test, the 30-day minimum 
+              availability-level test set out or referred to elsewhere in 
+              the Contract;
+
+              "<strong>General Conditions</strong>" means General Conditions - Long Form, 
+              DSS-MAS 9601, or General Conditions - Medium Form, DSS-MAS 
+              9601-10, whichever forms part of the Contract;
+
+              "<strong>Hardware</strong>" means the whole of the equipment, materials, 
+              matters and things to be furnished by the Contractor to 
+              Canada under the Contract, and includes firmware, if any, as 
+              described in section 10 (Firmware), but does not include 
+              software or services;
+
+              "<strong>Hardware Documentation</strong>" means all of the manuals, handbooks, 
+              user guides and other human-readable material to be furnished 
+              by the Contractor to Canada under the Contract for use with 
+              the Hardware, whether that material is to be supplied in 
+              printed form or on magnetic tape, disk or other media;
+       
+              "<strong>Ready for Use</strong>", in relation to the Hardware, means that the 
+              Hardware has been delivered, installed and connected, has 
+              successfully passed the Contractor's normal diagnostic tests 
+              and inspection by the Inspection Authority and is ready for 
+              Availability-level Testing by Canada and for any additional 
+              acceptance testing required under the Contract.
+
+       (2)    Words and expressions defined in the General Conditions and 
+              used in these Supplemental General Conditions shall have the 
+              meanings assigned to them in the General Conditions.
+
+       (3)    In the event of any inconsistency between the General 
+              Conditions and these Supplemental General Conditions, the 
+              applicable provisions of these Supplemental General 
+              Conditions shall prevail.
+
+       (4)    Part I of these Supplemental General Conditions applies to 
+              the relationship between the Parties with respect to the 
+              purchase or lease of Hardware.
+
+       (5)    Part II of these Supplemental General Conditions applies only 
+              to the relationship between the Parties with respect to the 
+              purchase of Hardware.
+
+       (6)    Part III of these Supplemental General Conditions applies 
+              only to the relationship between the Parties with respect to 
+              the lease of Hardware.
+
+       (7)    The sections of the General Conditions entitled "Title" and "
+              Warranty" do not apply to the Hardware.  The title and 
+              warranty provisions contained in these Supplemental General 
+              Conditions apply in place of those sections.
+ 
+<strong>9601-1 02     (01/12/92)    Site Preparation</strong><strong></strong>
+
+
+       (1)    Except where the Contract provides otherwise, Canada shall 
+              prepare the installation site for the Hardware at Canada's 
+              own expense in accordance with the site preparation 
+              specifications provided by the Contractor.
+
+       (2)    If the site specifications are not contained in the Contract, 
+              and if no date is specified in the Contract for delivery of 
+              those specifications to Canada, the Contractor shall deliver 
+              those specifications to Canada forthwith following execution 
+              of the Contract or, where delivery of the Hardware is to 
+              occur more than 30 days after execution of the Contract, at 
+              any time prior to the 30th day before the date specified in 
+              the Contract for delivery of the Hardware.  Unless otherwise 
+              agreed in writing between the Parties,  Canada shall complete 
+              preparation of the site prior to the date specified for 
+              delivery of the Hardware.
+
+       (3)    Canada shall give notice to the Contractor when the site is 
+              prepared, after which the Contractor shall promptly inspect 
+              the site and advise the Contracting Authority and the 
+              Technical Authority of the results of the inspection.  
+              Inspection by the Contractor shall not relieve Canada of 
+              Canada's obligation to meet the requirements of the site 
+              specifications.
+
+       (4)    The Contractor shall be solely responsible for additional 
+              expenses incurred by Canada resulting from necessary 
+              alterations or modifications to a site prepared pursuant to 
+              the specifications provided by the Contractor when the 
+              alterations or modifications are attributable to incomplete 
+              or erroneous specifications.
+
+       (5)    If the site is not prepared by Canada in accordance with the 
+              site preparation specifications within the time specified in 
+              the Contract, and if the delay is for reasons other than an 
+              act in Canada's sovereign capacity or the occurrence of an 
+              event of force majeure or of any other event reasonably 
+              beyond Canada's control, then the Contractor shall be 
+              entitled to be paid its additional costs reasonably and 
+              properly incurred as a direct result of the delay.  
+
+       (6)    The Contractor warrants that, if the site is prepared and 
+              maintained in conformity with the site preparation 
+              specifications, the resultant environment will permit the 
+              operation of the Hardware in conformity with the 
+              Specifications.
+
+<strong>9601-1 03     (01/12/92)    Transportation and Installation</strong>
+
+
+       (1)    The Contractor shall arrange for all necessary transportation, 
+              rigging and drayage in connection with delivery of the 
+              Hardware to the installation site specified in the Contract.  
+              Unless otherwise indicated in the Contract, all costs of such 
+              transportation, rigging and drayage are included in the 
+              Contract Price.
+
+       (2)    If the Contractor is to install the Hardware pursuant to the 
+              Contract, the Contractor shall, at no additional cost to 
+              Canada: 
+
+              (a)    provide all necessary moving and installation 
+                     resources, including, where applicable, cranes;
+
+              (b)    uncrate, unpack, assemble, integrate and interconnect 
+                     the Hardware at the installation site; and
+
+              (c)    connect the Hardware to the specified power and, where 
+                     applicable, water outlets, and provide all necessary 
+                     cabling and piping to do so. 
+<strong>9601-1 04     (01/12/92)    Certification of Electrical Equipment</strong>
+
+
+       The Contractor shall ensure that, prior to delivery to the 
+       installation site, all electrical equipment to be furnished under 
+       the Contract is either:
+
+       (a)    certified by the Canadian Standards Association in accordance 
+              with the requirements of the Canadian Electrical Code, Part I; 
+              or
+
+       (b)    approved for use by the inspection authority representing the 
+              province, city or territory where the electrical equipment is 
+              to be installed and operated.
+
+<strong>9601-1 05     (01/12/92)    Hardware Documentation</strong>
+
+
+       (1)    Except where otherwise provided in the Contract, the 
+              Contractor shall furnish to Canada the same Hardware 
+              Documentation as it provides to other purchasers of similar 
+              hardware, and shall include all amendments, revisions and 
+              adjustments thereto to the date of delivery of the Hardware.  
+
+       (2)    Notwithstanding subsection (1), the Contractor represents and 
+              warrants that the Hardware Documentation delivered to Canada 
+              with the Hardware shall contain sufficient detail to permit 
+              Canada to operate, test and use all functions of the Hardware.  
+              If the Contract requires the Contractor to furnish 
+              maintenance documentation, then the Hardware Documentation 
+              shall also contain sufficient detail to permit Canada, or an 
+              authorized third party acting on behalf of Canada, to 
+              properly maintain and repair the Hardware, and to test it for 
+              that purpose.
+
+       (3)    Unless otherwise provided in the Contract, the Contractor 
+              shall deliver the Hardware Documentation to Canada on or 
+              prior to the date specified in the Contract for delivery of 
+              the Hardware.
+
+<strong>9601-1 06     (01/12/92)    Availability-level Test</strong>
+
+
+       (1)    In this section: 
+
+              "Downtime" means the time, to be measured in hours and whole 
+              minutes, during which the Hardware is not available for use 
+              during User Time due to a malfunction of the Hardware; 
+              Downtime commences when Canada notifies the Contractor that 
+              the Hardware is not available for use and ceases when the 
+              malfunction has been corrected and the Contractor notifies 
+              Canada that the Hardware is available for use;
+
+              "Operational Use Time" means the time, to be measured in 
+              hours and whole minutes, during which the Hardware performs 
+              its function or activity in accordance with the 
+              Specifications during User Time, and includes all intervals 
+              between the stop and start times of the Hardware during User 
+              Time that do not constitute Downtime;
+
+              "User Time" means the time, to be measured in hours and whole 
+              minutes, during which Canada intends to make use of the 
+              Hardware; and unless otherwise indicated in the Contract, 
+              User Time means the period from 8:00 a.m. to 5:00 p.m., local 
+              time at the Hardware installation site, Mondays through 
+              Fridays inclusive, excluding statutory holidays observed by 
+              Canada at such site.
+
+       (2)    If the Contractor is to install the Hardware pursuant to the 
+              Contract, the Contractor shall give notice to the Technical 
+              Authority when the Hardware is Ready for Use.  The Technical 
+              Authority shall commence the Availability-level Test within 
+              10 days following receipt of the Ready-for-Use notice 
+              referred to above or the Ready-for-Use date specified in the 
+              Contract, whichever is later.
+
+       (3)    Where installation of the Hardware is the responsibility of 
+              Canada, and where Canada intends to subject the Hardware to 
+              Availability-level Testing, Canada shall install the Hardware 
+              within 10 days following its delivery to Canada or following 
+              the delivery date specified in the Contract, whichever is 
+              later, and shall immediately commence the Availability-level 
+              Test.
+
+       (4)    Without prejudice to Canada's other rights under the Contract, 
+              Canada shall have access to the Hardware and may make 
+              unrestricted operational use of it after the Contractor has 
+              given notice that it is Ready for Use or, where installation 
+              is the responsibility of Canada, after it is delivered to and 
+              installed by Canada.  However, the Contractor shall, at all 
+              times prior to acceptance of the Hardware, have priority with 
+              respect to access to the Hardware to maintain the Hardware 
+              and to fulfill the requirements of the Contract.
+
+       (5)    The Hardware must achieve a minimum of 95 percent 
+              availability level, or such other minimum percentage as may 
+              be specified in the Contract, for 30 consecutive calendar 
+              days.  All Operational Use Time shall be included in 
+              determining the availability level.  Availability level shall 
+              be calculated as follows:
+
+                     Operational Use
+                     Time
+                     ________________   X 100%
+
+                     Operational Use
+                     Time + Downtime
+
+
+       (6)    The Contractor shall ensure that the 30-day minimum 
+              availability level mentioned in subsection (5) is achieved 
+              within 90 consecutive calendar days of the first full day 
+              after the Technical Authority commences the 
+              Availability-level Test in accordance with subsection (2) or 
+              (3).
+
+       (7)    Subject to subsection (8), if Canada fails to carry out 
+              Availability-level Testing during any period or periods of 
+              time during which Canada is obligated under the Contract to 
+              carry out such testing, then, for the purposes of calculating 
+              the availability level of the Hardware during that time, that 
+              time shall be deemed to constitute uninterrupted Operational 
+              Use Time.
+
+       (8)    If Canada is unable to commence or continue the 
+              Availability-level Test because of an act in Canada's 
+              sovereign capacity or the occurrence of an event of force 
+              majeure, the Availability-level Test may be temporarily 
+              suspended by Canada for a period of time not to exceed 60 
+              days.  The time limits for testing referred to in this 
+              section or elsewhere in the Contract shall in such cases be 
+              extended by the number of calendar days of the suspension.
+
+<strong>9601-1 07     (01/12/92)    Acceptance</strong>
+
+
+       (1)    Canada shall give notice to the Contractor that the Hardware 
+              is accepted when all of the following have occurred:
+
+              (a)    the Contractor has completed the whole of the Work in 
+                     accordance with the terms of the Contract, except for 
+                     warranty work and any other work which is scheduled 
+                     under the Contract to be performed after the start of 
+                     the warranty period defined in subsection 8(1) 
+                     (Warranty);
+
+              (b)    the Hardware has passed all acceptance tests set out 
+                     or referred to in the Contract; and 
+ 
+              (c)    where an Availability-level Test is conducted, the 
+                     Hardware has achieved the minimum availability level 
+                     in accordance with the provisions of the 
+                     Availability-level Test.
+
+       (2)    Until such time as Canada gives the notice referred to in 
+              subsection (1), Canada reserves the right to reject the whole 
+              of the Hardware, including any part or parts of the Hardware 
+              previously inspected and accepted by or on behalf of Canada.
+
+<strong>9601-1 08     (01/12/92)    Warranty</strong>
+
+
+       (1)    In this section, unless otherwise indicated in the Contract, 
+              "Warranty Period" means a period of 12 months from:
+
+              (a)    where an Availability-level Test is conducted, the 
+                     first day of the 30-day period in which the Hardware 
+                     has achieved the minimum availability level in 
+                     accordance with the provisions of the 
+                     Availability-level Test; or 
+
+              (b)    where Canada does not conduct an Availability-level 
+                     Test, the date on which the Contractor has completed 
+                     the whole of the Work in accordance with the terms of 
+                     the Contract, except for warranty work and any other 
+                     work which is scheduled under the Contract to be 
+                     performed after the start of the Warranty Period.
+
+       (2)    Notwithstanding inspection and acceptance of the Work by or 
+              on behalf of Canada and without restricting any other 
+              provision of the Contract or any condition, warranty or 
+              provision implied or imposed by law, the Contractor warrants 
+              that, during the Warranty Period, the Hardware shall:
+
+              (a)    be free from all defects in materials or workmanship;
+
+              (b)    conform with the requirements of the Contract, 
+                     including the Specifications and any ongoing minimum 
+                     availability-level requirements; and 
+
+              (c)    be free from all design defects which prevent the 
+                     Hardware from conforming with the requirements of the 
+                     Contract.
+
+       (3)    In the event of a defect or nonconformance in any part of the 
+              Hardware during the Warranty Period, the Contractor, at the 
+              request of Canada to do so, shall, as soon as possible, 
+              repair, replace or otherwise make good at its own option and 
+              expense the part of the Hardware found to be defective or not 
+              in conformance with the requirements of the Contract.
+
+       (4)    The Hardware or any part thereof found to be defective or 
+              non-conforming may be returned to the Contractor's repair 
+              facility for replacement, repair or making good; provided 
+              that, when in the opinion of Canada it is not expedient to 
+              remove the Hardware from its location, the Contractor shall 
+              carry out any necessary repair or making good at that 
+              location, and shall, except as otherwise provided in the 
+              Contract, be paid the fair and reasonable Cost (including 
+              reasonable travelling and living expenses) incurred in so 
+              doing, with no allowance therein by way of profit, less an 
+              amount equal to the Cost of rectifying the defect or 
+              nonconformance at the Contractor's repair facility.
+
+       (5)    Except as otherwise provided in the Contract, Canada shall 
+              pay the transportation cost associated with returning any 
+              Hardware or part thereof to the Contractor's repair facility 
+              pursuant to subsection (4), and the Contractor shall pay the 
+              transportation cost associated with forwarding the 
+              replacement or returning the Hardware or part thereof, when 
+              rectified, to the delivery point specified in the Contract, 
+              or such lesser cost as may be required to transport the 
+              Hardware or part thereof to another location directed by the 
+              Technical Authority.
+
+       (6)    The warranties set out in subsection (2) shall not apply to a 
+              nonconformance in any part of the Hardware which is caused by:
+
+              (a)    negligence of Canada;
+
+              (b)    failure of electric power or air conditioning or 
+                     humidity control to perform in accordance with site 
+                     preparation specifications;
+
+              (c)    failure by Canada to use the Hardware in accordance 
+                     with the Specifications;
+
+              (d)    a modification to the Hardware made by a person other 
+                     than the Contractor or a Subcontractor or a person 
+                     approved by either of them;
+
+              (e)    the use by Canada of consumable supplies or materials 
+                     that are supplied by a person other than the 
+                     Contractor or a Subcontractor and that do not conform 
+                     to the Specifications; or
+
+              (f)    the attachment to the Hardware of equipment which was 
+                     not designed or approved for use with the Hardware by 
+                     the Contractor or a Subcontractor.
+
+       (7)    Where the Contractor is to carry out any necessary 
+              replacement, repair or making good at Canada's facilities, 
+              Canada shall give the Contractor reasonable access to the 
+              Hardware.  Where provision is made in the Contract for remote 
+              diagnostics, Canada shall provide a modem and associated 
+              dial-up telephone lines for use by the Contractor for 
+              diagnostic purposes.  Access, whether remote or on-site, 
+              shall at all times be subject to prior authorization by the 
+              Technical Authority and to Canada's security requirements.
+
+       (8)    The warranties set out in subsection (2) shall apply for the 
+              remainder of the Warranty Period to any part of the Hardware 
+              that is repaired, replaced or otherwise made good pursuant to 
+              subsection (3).  All of the provisions of subsections (3) to 
+              (7) inclusive and this subsection apply mutatis mutandis to 
+              any such part of the Hardware that is found during that 
+              period to be defective or not in conformance with the 
+              Contract.
+
+<strong>PART II - ADDITIONAL CONDITIONS:  PURCHASE</strong>
+
+<strong>9601-1 09     (01/12/92)    Title to Purchased Hardware</strong>
+
+
+       (1)    Except as otherwise provided in the Contract, and except as 
+              provided in subsection (2), title to the Work or any part 
+              thereof shall vest in Canada upon delivery and acceptance 
+              thereof by or on behalf of Canada.
+
+       (2)    Upon any payment being made to the Contractor for or on 
+              account of materials, parts, work-in-process or finished Work, 
+              either by way of progress payments or accountable advances or 
+              otherwise, title in and to all materials, parts, 
+              work-in-process and finished Work so paid for shall vest in 
+              and remain in Canada unless already so vested under any other 
+              provision of the Contract.
+
+       (3)    Notwithstanding any vesting of title referred to in this 
+              section and except as otherwise provided in the Contract, the 
+              risk of loss or damage to the materials, parts, 
+              work-in-process or finished Work or part thereof so vested 
+              shall remain with the Contractor until their delivery to 
+              Canada in accordance with the Contract.  The Contractor shall 
+              be liable for loss or damage to any part of the Work caused 
+              by the Contractor or any Subcontractor after such delivery.
+
+       (4)    Any vesting of title referred to in subsection (2) shall not 
+              constitute acceptance by Canada of the materials, parts, 
+              work-in-process or finished Work, and shall not relieve the 
+              Contractor of its obligation to perform the Work in 
+              accordance with the Contract. 
+       (5)    Where title to any materials, parts, work-in-process or 
+              finished Work becomes vested in Canada, the Contractor shall, 
+              upon the Minister's request, establish to the Minister's 
+              satisfaction that the title is free and clear of all claims, 
+              liens, attachments, charges or encumbrances and shall execute 
+              such conveyances thereof and other instruments necessary to 
+              perfect that title as the Minister may request.
+
+       (6)    If the Contract is a defence contract within the meaning of 
+              the Defence Production Act, R.S.C. 1985, c. D.1, title to the 
+              Work or to any materials, parts, work-in-process or finished 
+              Work shall vest in Canada free and clear of all claims, liens, 
+              attachments, charges or encumbrances, and the Minister shall 
+              be entitled at any time to remove, sell or dispose of it or 
+              any part of it in accordance with section 20 of that Act.
+
+<strong>9601-1 10     (31/03/95)    Firmware</strong>
+
+
+       (1)    Notwithstanding section 9 (Title to Purchased Hardware) and 
+              subsection 11(2) (Title to Leased Hardware), title to 
+              computer programs stored in integrated circuits, read-only 
+              memory or other similar devices within the Hardware shall not 
+              pass to Canada, but Canada shall have a perpetual, 
+              non-exclusive, irrevocable, royalty-free license to use such 
+              programs with the Hardware.
+
+       (2)    Canada may transfer the license set out in subsection (1) to 
+              a third-party purchaser of the Hardware at the time of the 
+              sale or disposal of the Hardware by Canada.
+
+<strong>PART III - ADDITIONAL CONDITIONS:  LEASE</strong>
+
+<strong>9601-1 11     (01/12/92)    Title to Leased Hardware</strong>
+
+
+       (1)    Title to the Hardware shall at all times remain with the 
+              Contractor unless Canada exercises Canada's option, if any, 
+              to purchase the Hardware pursuant to the terms of the 
+              Contract, or unless Canada purchases the Hardware under a 
+              separate agreement.
+
+       (2)    If the Contract contains a purchase option in relation to the 
+              Hardware or any part thereof, title to the Hardware or that 
+              part, and the risk of loss or damage to the Hardware or that 
+              part, shall, unless otherwise provided in the Contract, pass 
+              to Canada on the date of the exercise of that option, and 
+              subsections 9(5) and 9(6) (Title to Purchased Hardware) and 
+              section 10 (Firmware) shall apply.
+<strong> </strong><strong></strong>
+<strong>9601-1 12     (01/12/92)    Lease Period</strong>
+
+
+       (1)    The lease period with respect to the Hardware shall commence 
+              on the first day of the warranty period defined in subsection 
+              8(1) (Warranty), and shall remain in effect until its 
+              expiration in accordance with the Contract, unless terminated 
+              earlier as provided in the Contract.
+
+       (2)    If the commencement date of the lease is not on the first day 
+              of a calendar month, then the charge for the first and last 
+              month of the lease will be a portion of the specified monthly 
+              charge determined by multiplying the number of days in the 
+              month during which the lease is in effect by 1/30 of the 
+              specified monthly charge.
+
+<strong>9601-1 13     (01/12/92)    Termination for Convenience</strong>
+
+
+       (1)    The section of the General Conditions entitled "Termination 
+              for Convenience" does not apply to the lease of the Hardware.  
+              This section applies in lieu thereof.
+
+       (2)    Notwithstanding anything contained in the Contract, the 
+              Minister may terminate the lease with respect to the Hardware 
+              or any part thereof at any time during the lease period by 
+              giving the Contractor 60 days prior notice.
+
+       (3)    In the event of a termination notice being given pursuant to 
+              subsection (2), the Contractor shall be entitled to be paid, 
+              to the extent that the Contractor has not already been so 
+              paid by Canada:
+
+              (a)    the monthly lease charges for the Hardware, or the 
+                     part thereof so terminated, incurred to the date of 
+                     termination, prorated to that date as indicated in 
+                     subsection 12(2) (Lease Period); and
+
+              (b)    the lease termination charge, if any, which is 
+                     specified in the Contract.
+
+       (4)    Notwithstanding anything in subsection (3), the total of the 
+              amounts to which the Contractor is entitled under paragraphs 
+              (3)(a) and (b), together with any amounts already paid to the 
+              Contractor for the lease of the Hardware, shall not exceed 
+              the total Contract Price for the lease of the Hardware, or, 
+              in the event of a partial termination, the portion of the 
+              Contract Price that is applicable to the lease that is 
+              terminated.
+
+       (5)    The Contractor shall have no claim for damages, compensation, 
+              loss of profits, allowance or otherwise by reason of, or 
+              directly or indirectly arising out of, any action taken or 
+              termination notice given by the Minister under or pursuant to 
+              the provisions of this section, except to the extent that 
+              this section expressly provides.
+
+<strong>9601-1 14     (01/12/92)    Risk of Loss</strong>
+
+
+       (1)    The Contractor agrees to bear the risk of loss of or damage 
+              to the Hardware during periods of transportation, 
+              installation and during the entire time the Hardware is in 
+              the possession of Canada, except when the loss or damage is 
+              caused by the negligence of Canada or by anyone acting on 
+              behalf of Canada.
+
+       (2)    If the Hardware is lost or damaged, and if such loss or 
+              damage is caused by the Contractor or by anyone acting on its 
+              behalf, Canada shall not be liable to pay lease payments 
+              during the time necessary for the Contractor to repair or 
+              replace the Hardware, and at Canada's option, the lease shall 
+              be extended for a period of time equal to the time necessary 
+              for the Contractor to repair or replace the Hardware.
+
+       (3)    If the Hardware is lost or damaged, and if such loss or 
+              damage is not caused by the Contractor or by Canada or by 
+              anyone acting on behalf of either of them, the Contractor 
+              shall, as soon as possible, repair or replace the Hardware at 
+              its option and expense.  In such event, the lease period, and 
+              Canada's liability to pay lease payments, shall not be 
+              affected.
+
+<strong>9601-1 15     (01/12/92)    Modifications to Hardware</strong>
+
+
+       Canada shall not modify the Hardware without the Contractor's prior 
+       written approval, which shall not be unreasonably withheld.
+
+<strong>9601-1 16     (01/12/92)    Relocation of Hardware</strong><strong></strong>
+
+
+       The Hardware shall not be moved by Canada from one location to 
+       another without the Contractor's written approval, which shall not 
+       be unreasonably withheld.<strong></strong>
+
+<strong>9601-1 17     (01/12/92)    Deinstallation and Removal of Hardware</strong>
+
+
+       The Contractor shall deinstall and remove the Hardware promptly 
+       after expiration or termination of the lease.  The Contractor shall 
+       provide all necessary removal resources, including cranes, and shall 
+       arrange for all necessary transportation, rigging and drayage in 
+       connection with return of the Hardware to the Contractor's premises.  
+       Unless otherwise indicated in the Contract, all costs associated 
+       with such deinstallation, removal and return are included in the 
+       Contract Price.
+
+<strong>9601-1 18     (01/12/92)    Quiet Enjoyment</strong>
+
+
+       The Contractor represents and warrants that:
+
+       (a)    it has full power and authority to lease the Hardware to 
+              Canada; and
+
+       (b)    during the period of the lease of the Hardware, if Canada is 
+              not in default in carrying out any of Canada's obligations 
+              under the Contract, Canada shall have unlimited use of the 
+              Hardware without disturbance by the Contractor, except when 
+              the Contractor is performing maintenance pursuant to the 
+              provisions of the Contract, and without disturbance by any 
+              other person lawfully claiming by, through or under the 
+              Contractor.
+
+<strong>9601-1 19     (01/12/92)    Right to Withhold Lease Payments</strong>
+
+
+       (1)    If the Contractor is in default in carrying out any of its 
+              obligations under the Contract, Canada may, without prejudice 
+              to any other right which Canada may have, including the right 
+              to terminate the Contract for default, withhold the Hardware 
+              lease payments from the Contractor until the default is cured.
+
+       (2)    Canada may exercise the right set out in subsection (1) by 
+              giving notice that describes the event of default to the 
+              Contractor from the Contracting Authority.  Any amounts 
+              withheld pursuant to that notice may be set off by Canada 
+              against any amounts owed by the Contractor to Canada as 
+              damages as a result of the default. 
+
+</pre>

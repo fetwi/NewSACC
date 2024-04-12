@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Rental rebates can be expressed as a percentage of the equipment sale price 
+or as a percentage of the monthly rentals (base rental and meter click 
+charges) paid to the date of conversion from rental to purchase. These 
+rebates are to be deducted from the sale price shown above at any time 
+during period of rental contract.
+
+ _____ percent per month of _____ to maximum of _____ percent. 
+</pre>

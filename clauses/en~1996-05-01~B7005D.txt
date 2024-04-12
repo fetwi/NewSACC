@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The material covered by this Contract shall be free from 
+       imperfections and blemishes such as may adversely affect its 
+       appearance or serviceability as determined when viewed under 
+       inspection conditions satisfactory to the Quality Assurance 
+       Representative.
+
+2.     Such defects (imperfections or blemishes) shall be strung (flagged) 
+       along the right hand selvedge of the face side using colourfast 
+       strings for each two (2) linear decimetres in which the defect 
+       occurs (not applicable to narrow fabrics 15 cm or less in width).
+
+3.     Allowances shall be deducted from the gross piece length for each 
+       defect or splice, on the basis of two (2) linear decimetres per 
+       fault.  Gross length, net length and number of splices shall be 
+       recorded on each piece ticket.  Net length shall be the basis for 
+       payment.
+
+4.     Fabric with more than _____ defects per 100 metres ***square or 
+       linear*** shall be rejected.
+
+</pre>

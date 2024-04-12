@@ -1,0 +1,7 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when drawings and specifications have been mailed by 
+DND.  Enter fill-in data. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A copy of the _____ referred to herein has been forwarded to the Bidder by _____ .  
+</pre>

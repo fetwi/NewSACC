@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is applicable to maintenance service contracts.
+
+Terminations shall not be declared without a written legal opinion. In seeking 
+the opinion of Legal Services, the contracting officer must submit the contract 
+file with a chronological, typed index of the documents forming the basis for 
+the termination request, together with a short note outlining the events leading 
+to termination. Based on this information, Legal Services will render an opinion 
+as to whether the contractor would have a valid defence, should the Crown claim 
+loss or damages, and advise as to the appropriate method of termination.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada reserves the right to terminate the contracted services at 
+       any time in whole or in part by giving thirty (30) calendar days 
+       written notice to the Contractor. 
+
+2.     In the event of such termination, only the cost of maintenance 
+       services incurred and accepted up to the date of the termination 
+       shall be due and payable to the Contractor. 
+
+</pre>

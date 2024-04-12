@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Include in all bid solicitations and contracts, placed with commercial suppliers 
+on behalf of
+ <abbr title="Canadian International Development Agency">
+  CIDA
+ </abbr>
+ , for goods purchased for export.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Government of Canada certifies that the goods identified
+herein are for export. The invoiced price shall exclude the Goods
+and Services Tax, the Harmonized Sales Tax, sales tax, refundable
+customs duty, and excise tax paid on the goods or on parts and
+components incorporated in the goods. The goods are covered by
+Canadian International Development Agency project number
+<var>_____</var> .</p>
+</div></pre>

@@ -1,0 +1,137 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+Engineering Works.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>1.     Agreement Particulars (as applicable)</strong>
+
+       (a)    Supplementary Liability Insurance Requirements for this 
+              Project (clause R0220D, General Conditions) (as described in 
+              clause R0300D, Supplementary Conditions)
+
+              _______________________________________________________________________
+              _______________________________________________________________________
+
+                            Amount of Insurance         $ _____
+
+       (b)    Conceptual Design Documents (clause R1005D, Terms of 
+              Reference and Conceptual Design)
+
+              No. of copies:
+                                                 hard copies          CADD 
+                                                                      files
+                                                 ______        ______
+
+       (c)    Preliminary Design Documents (clause R1006D, Preliminary 
+Design)
+              No. of copies:
+                                                 hard copies          CADD 
+                                                                      files
+                                                 ______        ______
+
+       (d)    Construction Documents (clause R1008D, Documents, Estimate 
+and Schedule)
+              No. of copies during development:
+                                                 hard copies          CADD 
+                                                                      files
+              Draft Documents                    ______        ______
+              Final Documents                    ______        ______
+
+       (e)    Record Drawings (clause R1010D, Construction and Contract 
+Administration)
+              No. of copies:
+                                                 hard copies          CADD 
+                                                                      files
+                                                                      mylar
+                                                 ______        ______ _______
+
+       (f)    Percentage Fee (clause R2002D, Calculation of Fees)
+              For Preliminary Design                                  _______%
+              For Construction Documents and Tender Call              _______%
+              For Construction and Contract Administration            _______%
+              For Post Construction Warranty Review                   _______%
+
+       (g)    Fixed Fee (clause R2002D)
+                     <em>SERVICES                                         </em>FIXED 
+FEE
+              ______________________________                          $______ 
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              MAXIMUM FIXED FEES                                      $______
+
+       (h)    Time Based Fees (clause R2002D)
+              Hourly Rates (clause R2002D) 
+              Principals, Executives and other Personnel approved in that 
+capacity:     Per Hour
+<strong>              </strong>______________________________                          $______
+<strong>              </strong>______________________________                          $______
+<strong>              </strong>______________________________                          $______
+<strong>              </strong>______________________________                          $______
+<strong>              </strong>______________________________                          $______
+
+              <em>Payroll Cost</em> Factors (clause R2002D)
+              Staff                                                   
+Factor
+              ______________________________                          _______
+              ______________________________                          _______
+              ______________________________                          _______
+              ______________________________                          _______
+
+              Maximum Amount(s) Payable (clause R2002D)
+                     <em>SERVICES                                         </em>TIME 
+BASED FEE
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              ______________________________                          $______
+              MAXIMUM TIME BASED FEES                                 $______
+
+       (i)    Fee Arrangement(s) for Additional <em>Services</em> (clause R1014D, 
+Additional Services)
+              Bilingual Construction Documents:                       $______
+              Resident <em>Services</em> During Construction:                  $______
+              Other Additional <em>Services</em>: 
+                     Pre-design:                                      $______
+                     Co-ordination:                                   $______
+                     Sequential Tendering:                            $______
+                     <em>Specialist Consultant</em>(s):
+                     _________________________                        $______
+                     _________________________                        $______
+                     _________________________                        $______
+                     _________________________                        $______
+                     _________________________                        $______
+                     _________________________                        $______
+              <strong>TOTAL FEES FOR ADDITIONAL </strong><strong><em>SERVICES</em></strong>:                     $______
+
+       (j)    Maximum Amount Payable for Disbursements: (clause R0220D)
+              Disbursements for Categories of <em>Services                </em>$______
+              Disbursements for Additional <em>Services</em>:                  $______
+              Premium for Supplementary Liability Insurance: (subsection 1(
+                                                                             a
+)
+ 
+above
+)
+$
+_
+_
+_
+_
+_
+_
+              <strong>TOTAL DISBURSEMENTS</strong>:                             $______
+
+       (k)    Maximum Amount Payable: (clause R0412D, Articles of Agreement)
+              Maximum Fees for Categories of <em>Services</em>:                $______
+              Maximum Fees for Additional <em>Services</em>:                   $______
+              Maximum Disbursements:                                  $______
+              Tax:_____                                               $______
+
+              <strong>TOTAL THIS AGREEMENT</strong>:                                   $______
+
+</pre>

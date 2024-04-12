@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when exchange rate fluctuation will not be considered.  
+Contracting officers should use this clause when C3010T, Exchange Rate 
+Fluctuation, is not used.
+
+Note: 	For additional information refer to the Supply Manual, procedure 6C.313, 
+Exchange Rate Fluctuation.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Exchange rate fluctuation protection is not offered for this requirement.  
+Any request for exchange rate fluctuation protection will not be considered 
+and will render the bid non-responsive.
+
+
+</pre>

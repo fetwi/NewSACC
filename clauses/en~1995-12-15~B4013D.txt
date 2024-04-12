@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with B4003T, Specifications - CGSB.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The carpet mentioned herein must conform to the flame resistance 
+requirements contained in Canadian General Standards Board (CGSB) standard 
+4-GP-129. As proof of this, a certificate from a qualified independent 
+public test laboratory must be submitted with the bid.
+
+ 
+</pre>

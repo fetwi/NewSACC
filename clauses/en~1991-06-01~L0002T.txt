@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for articles of a special nature which may require 
+special production tooling. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>If a Contract is awarded, the Contractor shall mark each item of special 
+   production tooling and shall submit an inventory describing each item, 
+   its use and its cost.  The Contractor shall verify such inventory by 
+   Statutory Declaration made before a Notary Public or a Commissioner for 
+   Oaths.
+</pre>

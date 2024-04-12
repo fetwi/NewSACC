@@ -1,0 +1,67 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1. Rates quoted are to be ceiling hourly rates for the period of the 
+standing offer, subject to downward adjustment only at the time of 
+negotiation of amendments to increase the financial limitation of the 
+standing offer.
+
+2. The following 16 items (henceforward referred to as group I) will be 
+subject to a mandatory rate assessment.
+
+<span class="wsStyleUnderline">Group I:</span>
+
+<span class="wsStyleUnderline">Item          Category             Level         Language Profile</span>
+
+1             OCE                  2             unilingual
+2             OCE                  2             bilingual
+3             OCE                  3             unilingual
+4             OCE                  3             bilingual
+5             CR                   2             unilingual
+6             CR                   2             bilingual
+7             CR                   3             unilingual
+8             CR                   3             bilingual
+9             CR                   4             unilingual
+10            CR                   4             bilingual
+11            ST-SCY        3             unilingual
+12            ST-SCY        3             bilingual
+13            ST-SCY        2             unilingual
+14            ST-SCY        2             bilingual
+15            ST-TYP        2             unilingual
+16            ST-TYP        2             bilingual
+
+3. A "total composite weighted mean Group I hourly rate" will be 
+established.  It shall be calculated as follows:
+
+       3.1 Calculate the mean weighted rate for each item (1-16 inclusive).
+
+       3.2 The total hours purchased by the federal government in the 
+       National Capital Region for the period _____ - _____  for each item 
+       will be used for weighting.
+
+       3.3 Once the mean weighted rates for each item are determined, their 
+       aggregate will be the "total composite weighted mean Group I hourly 
+       rate".
+
+4. The company submitted rate for each item (1-16 inclusive) weighted as 
+per subparagraph 3.2 will be established.  A supplier's aggregate weighted 
+hourly rate for Group I will be calculated.
+
+5. In the event that a supplier's weighted composite Group I hourly rate 
+exceeds the "total composite weighted mean Group I hourly rate" by 5 
+percent or more, the supplier may receive a standing offer based on the 
+ceiling hourly rates quoted but with an estimated limitation of expenditure 
+representing 50 percent of their previous year business volume plus the 
+normal allowance for volume and pricing increases.  Subsequent amendments 
+would be negotiated based on the approach described under the clause 
+entitled Financial Limitations.
+
+       N.B. For suppliers who failed to bid on all 16 items, the rate 
+       assessment would be based on an adjusted total composite weighted 
+       mean Group I hourly rate. 
+
+6. The remaining categories (other than Group I) will not be subject to a 
+   mandatory rate assessment at the time of evaluation of the proposals 
+   received.  However, in the event that amendments to standing offers are 
+   requested, negotiations would be entered into for all categories. 
+</pre>

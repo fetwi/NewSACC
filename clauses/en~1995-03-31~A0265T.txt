@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause with A0200T or similar clause when the selection is to 
+be made on the basis of lowest price responsive bid/offer with a point rating 
+system. An alternate clause to this could be A0034T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     To be considered responsive, a bid/offer must:
+
+       (a)    meet all the mandatory requirements of this solicitation; and
+
+       (b)    obtain the required minimum points specified in this 
+              solicitation. 
+
+2.     Bids/offers not meeting (a) or (b) above will be given no further 
+   consideration. The lowest priced responsive bid/offer will be 
+   recommended for award of a Contract or issuance of a standing offer, as 
+   the case may be.
+</pre>

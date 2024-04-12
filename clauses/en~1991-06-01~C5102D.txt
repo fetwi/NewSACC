@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In the event of a cylinder being lost or damaged beyond repair, its 
+       value shall be deemed to be:
+
+       (a)    Cylinders of 6 cubic metres (200 cubic feet) and OVER: $_____ 
+              per cylinder.
+
+       (b)    Cylinders UNDER 6 cubic metres (200 cubic feet) and OVER 2.77 
+              cubic metres (100 cubic feet): $_____ per cylinder.
+
+       (c)    Cylinders UNDER 2.77 cubic metres (100 cubic feet): $_____ 
+   per cylinder. 
+</pre>

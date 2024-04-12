@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with following sets of General Conditions. 
+
+DSS-MAS 9624, General Conditions - Research &amp; Development;
+DSS-MAS 9676, General Conditions - Services;
+TRA-95,Translation.
+
+Contracting officers are to indicate the applicable set of General Conditions in 
+the fill-in provided.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Section 05 (Conduct of the Work) of General Conditions _____ is amended by 
+deleting subsection (3)(a) in its entirety and by substituting the 
+following therefor:
+
+       "05    Conduct of the Work
+
+       (3)    The Contractor shall:
+
+              (a)    ensure the safety of workers and carry out the Work in 
+                     a diligent and efficient manner in accordance with 
+                     established industry practice and laws for the health 
+                     and safety of workers related to the performance of 
+                     the Work."
+
+</pre>

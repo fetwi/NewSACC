@@ -1,0 +1,56 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">The term "<dfn><abbr title="Free on Board">FOB</abbr> destination,</dfn>" as used in this clause,
+means:
+<ol type="1">
+<li value="1">Free of expense to the <abbr title="United States">U.S.</abbr> Government, on board the
+carrier's conveyance, at a specified delivery point where the
+consignee's facility (plant, warehouse, store, lot, or other
+location to which shipment can be made) is located; and</li>
+<li value="2">Supplies shall be delivered to the destination
+consignee's wharf (if destination is a port city and supplies are
+for export), warehouse unloading platform, or receiving dock, at
+the expense of the Contractor. The <abbr title="United States">U.S.</abbr> Government shall not be
+liable for any delivery, storage, demurrage, accessorial, or other
+charges involved before the actual delivery (or "constructive
+placement" as defined in carrier tariffs) of the supplies to the
+destination, unless such charges are caused by an act or order of
+the Government acting in its Contractual capacity. If rail carrier
+is used, supplies shall be delivered to the specified unloading
+platform of the consignee. If motor carrier (including "piggyback")
+is used, supplies shall be delivered to truck tailgate at the
+unloading platform of the consignee. If the Contractor uses rail
+carrier or freight forwarder for less than carload shipments, the
+Contractor shall assure that the carrier will furnish tailgate
+delivery if transfer to truck is required to complete delivery to
+consignee.</li>
+</ol>
+</li>
+<li value="2">The Contractor shall:
+	<ol type="1">
+<li value="1">
+<ol type="i">
+<li value="1"> pack and mark the shipment to comply with
+Contract specifications; or</li>
+<li value="2">in the absence of specifications, prepare the shipment in
+conformance with carrier requirements;</li>
+</ol>
+</li>
+<li value="2">prepare and distribute commercial Bills of
+Lading;</li>
+<li value="3">deliver the shipment in good order and conditions to
+the point of delivery specified in the Contract;</li>
+<li value="4">be responsible for any loss of and/or damage to the
+goods occurring before receipt of the shipment by the consignee at
+the delivery point specified in the Contract;</li>
+<li value="5">furnish a delivery schedule and designate the mode of
+delivering carrier; and</li>
+<li value="6">pay and bear all charges to the specified point of
+delivery.</li>
+</ol>
+</li>
+</ol>
+</div></pre>

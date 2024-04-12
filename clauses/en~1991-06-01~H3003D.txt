@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use clause H3003D for firm unit price contracts, when clause H3000D or H3001T is 
+used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The balance due on each unit shall be paid upon the delivery and acceptance 
+   of each, provided that an invoice for such payment is submitted (refer 
+   to the Contract's invoicing instructions).
+</pre>

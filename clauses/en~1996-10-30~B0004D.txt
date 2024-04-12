@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Should one or more of the deliverable end items be destroyed by the 
+Contractor while being tested for the purpose of demonstrating performance, 
+it shall be at the expense of the Contractor, and shall not vary the 
+Contractor's obligations hereunder respecting quantity.
+
+
+</pre>

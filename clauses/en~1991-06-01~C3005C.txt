@@ -1,0 +1,49 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used in all contracts with foreign-based contractors who 
+are awarded contracts providing for exchange adjustment provisions and progress 
+payments, with payment to be made in Canadian funds.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.  The price in Canadian funds includes a foreign currency component in 
+respect of goods and/or services originating outside of Canada as detailed 
+in form DSS-MAS 9411, Claim for Exchange Rates Adjustments, which forms 
+part of this Contract.
+
+2.  The foreign currency component is defined as the element of the price 
+which will be affected by exchange rate fluctuations.  It excludes Canadian 
+goods and services tax and excise taxes of an ad valorem nature on imported 
+items and customs duty, but includes transportation costs payable in 
+foreign currency.
+
+3.  The foreign currency component(s) subject to adjustment in respect of 
+goods manufactured and services purchased outside of Canada with payment in 
+foreign funds, or from authorized Canadian agents but paid for in a foreign 
+currency, and the applicable conversion factors are as detailed in form 
+DSS-MAS 9411 which forms part of this Contract.
+
+4.  Price adjustments in respect of changes in currency relationships after 
+the effective date stated in the Contract will apply.  They will be based 
+upon the foreign currency component(s) as identified in form DSS-MAS 9411.  
+Price adjustments will be computed according to the increase or decrease in 
+the foreign exchange rate(s) from the rate(s) specified in the form.  Such 
+increases or decreases in the rate shall be based on the dates of payment 
+to the Contractor by Canada.
+
+5.  The amount of the adjustment so payable shall be the sum of: a) the 
+portion of the stated foreign currency component from form DSS-MAS 9411, 
+included in the first progress claim, multiplied by the difference between 
+the actual rate for foreign currency and the rate for foreign currency 
+stated in the Contract (see section B of form DSS-MAS 9411); and b) any 
+further amounts calculated in a similar fashion on each subsequent progress 
+claim, subject to the provision that such calculation will terminate as 
+soon as the full amount of the stated foreign currency component as shown 
+at section C of the form has been reached.
+
+6.  On each progress claim submitted, the Contractor shall show the portion 
+   of the stated foreign currency component in foreign funds included in 
+   the claim.  If the progress claim, in whole or in part, relates to goods 
+   already cleared through customs into Canada and not previously claimed 
+   on progress claims, the Contractor shall show the dates that the goods 
+   where shipped for clearance through customs, supported by a copy of the 
+   relevant shipping document. 
+</pre>

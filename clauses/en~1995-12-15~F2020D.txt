@@ -1,0 +1,42 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+1.	SECURITY CLEARANCE and a Communications-Electronic Security (COMSEC) briefing 
+are required (Blocks #7 and 12);
+
+2.	safeguarding of COMSEC documents, of assets or production at the contractor's 
+site(s) is required (Blocks #13, 14 and 15 or 16);
+
+3. 	level of CLASSIFIED information or assets is identified in Block #13;
+
+4. 	CLASSIFIED information MAY be be required to be processed/produced on 
+ADP/EDP equipment at the contractor's site(s) (Block #17).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, at all times during the performance of the 
+       Contract, hold a valid Facility Security Clearance at the level of ____ 
+       with approved Document Safeguarding at the level of 
+       Communications-Electronic Security (COMSEC) _____, and a COMSEC 
+       account, issued by the Industrial Security Division (ISD) of the 
+       Department of Supply and Services (DSS).
+
+2.     Contractor personnel who require access to CLASSIFIED information/
+       assets or sensitive work sites shall EACH hold a valid personnel 
+       security screening at the level of______ granted by ISD.
+
+3.     Contractor personnel requiring access to COMSEC information/assets 
+       shall have undergone a COMSEC briefing.
+
+4.     The Contractor SHALL NOT perform any sensitive (CLASSIFIED/
+       DESIGNATED) Automatic/Electronic Data Processing  (ADP/EDP) and/or 
+       production until ISD has issued written approval. After approval has 
+       been granted, these tasks may be performed at the level of ____.
+
+5.     The Contractor shall comply with the provisions of the:
+
+       a)     Security Requirements Check List (SRCL), attached at Annex ____;
+
+       b)     Industrial Security Manual (June 1992), and COMSEC supplement 
+              issued through ISD. 
+
+</pre>

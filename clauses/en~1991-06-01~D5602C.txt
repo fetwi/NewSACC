@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause if the requisition specifies form CF 1280 and 
+contractor resides in the U.S.A. and clause D5602T was used. Enter distribution 
+as per requisition. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Materiel is to be released for shipment using a  DD form 250, Materiel 
+   Inspection and Receiving Report.  DD Form 250 will be prepared by the 
+   Contractor and, when properly completed and signed, be distributed as 
+   follows: _____ . 
+</pre>

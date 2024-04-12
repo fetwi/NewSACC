@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when transportation costs will be included as an evaluation 
+factor. For information on when this factor is applicable, including the list of 
+exceptions, refer to procedure 6.621 of the Supply Manual, and for additional 
+information on the mandatory provisions for transportation cost information, 
+refer to procedure 7.409.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Transportation costs which may be payable by the shipper are a 
+       factor in the assessment of bids, therefore the Bidder shall provide 
+       the following:
+
+       (a)    shipping weight per unit: ______;
+       (b)    number of items per unit: ______;
+       (c)    cubic measurement per unit: _____;
+       (d)    freight classification: _____;
+       (e)    name of shipping point: _____;
+       (f)    name of rail carrier, if plant is served by a siding: _____; 
+              and
+       (g)    recommended method of shipment and its costs: _____.
+
+</pre>

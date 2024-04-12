@@ -1,0 +1,178 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>TABLE OF CONTENTS</strong>
+
+<strong>NOTE:</strong>  Readers will note that "REMARKS" have been provided for many clauses.  
+These Remarks are intended to serve as a quick reference for procurement 
+officers regarding the recommended use of certain clauses.  The use of a 
+particular clause in a solicitation or contractual document is determined 
+by the procurement officer after an examination of the specific requirement 
+and any special circumstances which surround it.
+
+Subsection:
+
+A. INSTRUCTIONS TO BIDDERS AND CONTRACTORS
+
+       A0000         Incorporation by Reference
+       A0001-0999    Consideration of Bids/Evaluation Criteria
+       A1000-1999    Authorities
+       A2000-2999    Use of Non-Permanent Residents 
+       A7000-7999    Maintenance/Services
+       A8000-8999    Lease/Rentals
+       A9000-9999    Other
+
+B. REQUIREMENTS DEFINITION
+
+       B0001-0999    Samples
+       B1000-1999    Materiel 
+       B2000-2999    Qualified, Approved, Certified Products
+       B3000-3999    Equivalent Substitutes 
+       B4000-4999    Drawings/Specifications
+       B5000-5999    Design Changes 
+       B6000-6999    Care of Crown Property
+       B7000-7999    Quantity
+       B9000-9999    Other
+
+C. PRICE 
+
+       C0001-0499    Firm Price
+       C0500-0999    Fixed Time Rates 
+       C1000-1499    Ceiling Price
+       C2000-2999    Taxes and Duties
+       C3000-3999    Foreign Exchange and Escalation of Materials
+       C4000-5999    Transportation Expenses
+       C6000-6999    Financial Limitations
+       C9000-9999    Other
+
+D. DELIVERY, INSPECTION AND ACCEPTANCE
+
+       D0001-0999    Delivery Requirements
+       D1000-3999    Preparation for Delivery
+       D4000-4999    Shipment and FOB
+       D5000-5999    Inspection and Acceptance
+       D6000-6999    Shipping Instructions
+       D9000-9999    Other
+ 
+E. FINANCIAL SECURITY
+
+       E0001-0999    Security Deposits/Surety Bonds
+       E5000-5999    Performance Bonds
+       E8000-8099    Labour/Material Bonds
+       E9000-9999    Other
+
+F. INDUSTRIAL SECURITY 
+
+       F0001-0999    Basic Reliability
+       F1000-1999    Enhanced Reliability
+       F2000-2999    Security Clearance
+       F9000-9999    Other
+
+G. INSURANCE
+
+       G0000-1999    Contractors Responsibility
+       G2000-2999    Third Party Liability
+       G3000-3999    Government Property
+       G4000-4999    Aircraft Charter
+       G5000-5999    Ships
+       G6000-6999    Vehicles
+
+
+H. TERMS OF PAYMENT
+
+       H0001-0999    Interest on Overdue Accounts
+       H1000-2999    Method of Payment
+       H3000-4999    Progress Payments
+       H5000-6999    Advance Payments
+       H9000-9999    Other
+
+I. TO BE ASSIGNED
+
+J. TERMINATION
+
+       J0001-0999    Termination for Convenience
+       J1000-1999    Termination for Default
+       J2000-2499    Termination by Mutual Consent
+       J3000-3999    Withdrawal
+       J9000-9999    Other
+
+K. GENERAL CONDITIONS - MODIFICATIONS
+
+       K0000         Incorporation by Reference
+       K0001-0999    Exceptions to General Conditions
+       K1000-1999    Statement of Eligible Goods - Free Trade
+       K2000-2099    Employment Equity
+       K2100-2199    International Sanctions
+       K2200-2299    Conflict of Interest
+       K3000-3999    Intellectual Property
+       K4000-4999    Canadian Content
+       K9000-9999    Other
+ 
+L. PRODUCTION TOOLING AND SPECIAL TEST EQUIPMENT
+
+       L0001-0999    Production Tooling
+       L5000-5999    Special Test Equipment
+       L9000-9999    Other 
+
+M.  STANDING OFFERS
+
+       M0000         Incorporation by Reference
+       M0001-1999    Instructions to Bidders and Contractors
+       M2000-2999    Requirements Definition
+       M3000-4999    Price
+       M5000-6999    Delivery and Inspection
+       M7000-7999    Reports
+       M8000-8999    Applicable General Conditions
+       M9000-9999    Other
+
+N-O TO BE ASSIGNED
+
+P. PRINTING
+
+       P0000-0999    Instruction to Bidders
+       P1000-1999    Requirements Definition
+       P2000-2999    Price
+       P3000-3999    Delivery, Inspection, Acceptance, Packaging and 
+                            Labelling
+       P4000-4999    General Conditions - Modifications
+       P5000-5999    Terms of Payment
+       P9000-9999    Other
+
+Q-W TO BE ASSIGNED
+
+X. RESERVED FOR LOCAL CLAUSES ON ABE (not published in SACC  Manual)
+
+Y. CIDA GRANT AID PROGRAM 
+
+       Y0001-0999    Export Permits
+       Y1000-1999    Customs Duty Drawback
+       Y2000-2999    Freight Charges
+       Y3000-3999    Packaging and Labelling
+       Y4000-4999    Shipping and Documentation
+       Y5000-5999    Goods and Services Tax
+       Y9000-9999    Other
+
+Z. CANADIAN COMMERCIAL CORPORATION  
+   U.S  Government
+
+       Z0001-0199    Transportation
+       Z0200-0399    Administration of Contract
+       Z0400-0599    Preservation, Packaging, Packing and Marking
+       Z0600-0799    Inspection and Acceptance
+       Z0800-0999    U.S. Government Property
+       Z1000-1999    Invoicing and Documentation 
+       Z1200-1399    Goods and Services Tax
+       Z1400-1599    Contractual Changes
+       Z1600-1799    Disputes
+       Z1800-1999    Default
+       Z2000-2199    Patent Indemnity
+       Z2200-2399    Customs Duties
+       Z2400-2599    Variation in Quantity
+       Z2600-2799    Special Provisions
+       Z2800-2999    Prices
+       Z3000-3199    Priorities
+       Z3200-3399    Production Reports
+       Z3400-3599    Additional Provisions
+       Z4000-4999    Other
+
+</pre>

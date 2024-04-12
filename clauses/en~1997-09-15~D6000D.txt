@@ -1,0 +1,50 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts placed with a U.S. supplier. When requests 
+for routing instructions are received from the supplier, the contracting officer 
+will refer such requests to the Traffic Management Directorate to obtain details 
+of routing instructions.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In cases where the Contractor pays the shipping charges and absorbs 
+       these charges as part of the purchase price, the Contractor may ship 
+       the goods in accordance with its regular shipping practice.
+
+2.     In cases where Canada either pays the shipping charges or the 
+       Contractor pays the shipping charges and Canada reimburses the 
+       Contractor for direct and identifiable shipping charges, Canada 
+       reserves the right to provide shipping instructions to the 
+       Contractor, as follows: 
+
+       (a)    for shipments under 10,000 lbs the contractor shall, unless 
+              otherwise directed, ship the goods in accordance with its 
+              regular shipping practice,
+
+       (b)    for shipments weighing 10,000 lbs or over, the Contractor 
+              shall:
+
+              (i)    provide at the first opportunity the Contracting 
+                     Authority with the following information:
+
+                     -      Contract Number;
+                     -      Commodity and Freight Classification;
+                     -      Gross Weight and Cube of Shipment;
+                     -      Name of Railway serving the Contractor's Plant 
+                            Site (if applicable);
+                     -      Shipping Point and Address;
+                     -      Date of Availability;
+                     -      Consignee and Destination Address;
+                     -      Contractor's Recommended Method of Shipment and 
+                            Cost;
+                     -      Type of Packaging and Dimensions of each 
+                            Package;
+                     -      if shipment is dangerous goods/hazardous 
+                            materiel, the UN Number, Class, Division, 
+                            Packing Group and Packing Instructions;
+                     -      Contact Name and Phone Number; and
+
+              (ii)   not make any shipment  prior to receiving directions 
+                     from the Contracting Authority concerning mode of 
+                     shipment, carrier, routing, and method of billing for 
+                     transportation charges.
+
+</pre>

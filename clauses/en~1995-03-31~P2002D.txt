@@ -1,0 +1,29 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The term of the Contract shall be for the period commencing from 
+       date of contract booking and ending on the last day of _____ 19_____.
+
+2.     The price to be paid to the Contractor may be increased or decreased 
+       by Canada to reflect increases or decreases in the cost to the 
+       Contractor of the paper (only) supplied in the performance of the 
+       Contract. The Contractor shall provide the Contracting Authority 
+       within ten (10) days from date of increase or decrease all necessary 
+       evidence for the purpose of establishing a firm price. The 
+       Contractor shall not invoice at other than the prices specified 
+       unless and until any proposed price revision is approved by Canada 
+       and until the Contract is amended accordingly.
+
+       a)     Cover Stock:
+
+              This provision applies to_____ lbs. of paper (state grade, 
+              brand name and weight: _____) at a base price of $_____ per 
+              Cwt.
+
+       b)     Text Stock:
+
+              This provision applies to ______ lbs. of paper (state grade, 
+              brand name and weight: _____ ) at a base price of $_____ per 
+              Cwt.
+
+</pre>

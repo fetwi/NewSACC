@@ -1,0 +1,7 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The supplier will only supply goods or services under this Standing Offer 
+   to a total expenditure of $_____. He will notify the Department of 
+   Supply and Services when 75 percent of this amount has been expended. 
+</pre>

@@ -1,0 +1,288 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>GC 4.1 (30/05/03)    Rights to Intellectual Property</strong>
+
+1.     Definitions
+
+       "Background"  means all Technical Output that is not Foreground and 
+       that is proprietary to or the confidential information of the 
+       Consultant, the Consultant's Sub-Consultants, or any other entity 
+       engaged by the Consultant in the performance of the Services;
+
+       "Foreground"  means any Invention first conceived, developed or 
+       reduced to practice as part of the Services and all other Technical 
+       Output conceived, developed, produced or implemented as part of the 
+       Services; 
+
+       "IP Rights" means any intellectual property rights recognized by law, 
+       including any intellectual property right protected through 
+       legislation (such as that governing copyright, patents, industrial 
+       design, or integrated circuit topography) or arising from protection 
+       of information as a trade secret or as confidential information;
+
+       "Invention" means any new and useful art, process, machine, 
+       manufacture or composition of matter, or any new and useful 
+       improvement in any art, process, machine, manufacture or composition 
+       of matter, whether or not patentable and without limiting the 
+       foregoing the term includes any unique design and construction 
+       system;
+
+       "Technical Output"  means: (i) all information of a scientific, 
+       technical, or artistic nature relating to the Services, whether oral 
+       or recorded in any form or medium and whether or not subject to 
+       copyright, including but not limited to any Inventions, designs, 
+       methods, reports, photographs, physical models, surveys, drawings, 
+       specifications developed for the purpose of the Project; as well as 
+       (ii) computer printouts, design notes, calculations, CADD 
+       (Computer-aided Design and Drafting) files, and other data, 
+       information and material, prepared, computed, drawn, or produced for 
+       the purpose of the Project; and (iii) operating and maintenance 
+       manuals prepared or collected for the Project; and (iv) any 
+       buildings, built works, structures and facilities constructed as, or 
+       as part of, the Project.  Technical Output does not include data 
+       concerned with the administration of the Agreement by Canada or the 
+       Consultant, such as internal financial or management information, 
+       unless it is a deliverable under the terms of the Agreement.
+
+2.     Identification and Disclosure of Foreground
+
+       The Consultant shall: 
+
+       (a)    promptly report and fully disclose to the Minister all 
+              Foreground that could be Inventions, and shall report and 
+              fully disclose to the Minister all other Foreground not later 
+              than the time of completion of the Services or such earlier 
+              time as the Minister or the Agreement may require, and
+
+       (b)    for each disclosure referred to in (a), indicate the names of 
+              all Sub-Consultants at any tier, if any, in which IP Rights 
+              to any Foreground have vested or will vest.
+
+       Before and after final payment to the Consultant the Minister shall 
+       have the right to examine all records and supporting data of the 
+       Consultant which the Minister reasonably decides is pertinent to the 
+       identification of the Foreground.
+
+3.     IP Rights Vest with Consultant
+
+       Subject to subsections 10 and 11 and the provisions of GC 1.5 and 
+       without affecting any IP Rights or interests therein that have come 
+       into being prior to the Agreement or that relate to information or 
+       data supplied by Canada for the purposes of the Agreement, all IP 
+       Rights in the Foreground shall immediately, as soon as they come 
+       into existence, vest in and remain the property of the Consultant. 
+
+4.     Ownership Rights in Deliverables
+
+       Notwithstanding the Consultant's ownership of the IP Rights in the 
+       Foreground that is a prototype, built work, building, structure, 
+       facility, model or custom or customized system or equipment together 
+       with associated manuals and other operating and maintenance 
+       documents and tools, Canada shall have unrestricted ownership rights 
+       in those deliverables, including the right to make them available 
+       for public use, whether for a fee or otherwise, and the right to 
+       sell them.
+
+5.     Licence to Foreground
+
+       Without limiting any implied licences that may otherwise vest in 
+       Canada, and in consideration of Canada's contribution to the cost of 
+       development of the Foreground, the Consultant hereby grants to 
+       Canada a non-exclusive, perpetual, irrevocable, worldwide, 
+       fully-paid and royalty-free licence to exercise all IP Rights in the 
+       Foreground that vest in the Consultant pursuant to subsection 3, for 
+       the purpose of:  
+
+       (a)    the construction or implementation of any building, built 
+              works, structures and facilities, contemplated by the Project;
+
+       (b)    the further development or alteration or evolution of any 
+              part of the constructed or implemented Project, including 
+              procurement of materials and components for this purpose;
+
+       (c)    the further development, modification (including additions or 
+              deletions), completion, translation, or implementation of the 
+              Foreground and any addition to it as Canada may require for 
+              the purposes of the completion, utilization and subsequent 
+              evolution of the Project; 
+
+       (d)    the use, occupancy, operation, exploitation, maintenance, 
+              repair or restoration of the constructed or implemented or 
+              subsequently modified Project, including the procurement of 
+              replacement materials and components required for any such 
+              purpose; and
+
+       (e)    the publishing and transmission of reproductions of the 
+              Project or any part thereof in the form of paintings, 
+              drawings, engravings, photographs or cinematographic works, 
+              to the public, in hard copy or by any electronic or other 
+              means, except for copies in the nature of architectural 
+              drawings or plans.
+
+6.     Licence to Foreground for Other Projects
+
+       The Consultant hereby grants to Canada a non-exclusive, perpetual, 
+       world-wide, irrevocable licence to exercise all IP Rights that vest 
+       in the Consultant pursuant to subsection 3 for the purpose of 
+       planning, designing and constructing or otherwise implementing any 
+       project other than the Project, and for any purpose set out in 
+       subsection 5 as it relates to such other project.  In the event that 
+       Canada exercises such IP Rights in an other project, and provided 
+       that Canada does not already have equivalent rights under a previous 
+       contract or otherwise, Canada agrees to pay to the Consultant 
+       reasonable compensation determined in accordance with current 
+       industry practice and having regard to Canada's contribution to the 
+       cost of development of the Foreground.  The Consultant shall ensure 
+       that in any sale, assignment, transfer or licence of any of the IP 
+       Rights that vest in the Consultant under this Agreement, the 
+       purchaser, assignee, transferee or licensee agrees to be bound by 
+       the terms of this provision and to accept reasonable compensation as 
+       is contemplated herein.  The Consultant shall also ensure that any 
+       such purchaser, assignee, transferee or licensee of the IP Rights is 
+       required to impose the same obligations on any subsequent purchaser, 
+       transferee, assignee or licensee. 
+
+7.     Licence to Background
+
+       Without limiting any implied licences that may otherwise vest in 
+       Canada, the Consultant hereby grants to Canada a non-exclusive, 
+       perpetual, irrevocable, worldwide, fully-paid and royalty-free 
+       licence to exercise such of the IP Rights in any Background 
+       incorporated into the Services or necessary for the performance of 
+       the Services as may be required  
+
+       (a)    for the purposes contemplated in subsections 5 and 6;
+
+       (b)    for disclosure to any contractor engaged by Canada , or 
+              bidder for such a contract, to be used solely for a purpose 
+              set out in subsections 5 and 6;
+
+       and the Consultant agrees to make any such Background available to 
+       Canada upon request.
+
+8.     Canada's Right to Disclose and Sub-license
+
+       The Consultant acknowledges that Canada may wish to award contracts, 
+       which may include a competitive process, for any of the purposes 
+       contemplated in subsections 5, 6 and 7.  The Consultant agrees that 
+       Canada's licence in relation to the IP Rights in the Foreground and 
+       in the Background, includes the right to disclose that Foreground 
+       and Background to bidders for such contracts, and to sub-license or 
+       otherwise authorize the use of that Foreground and Background by any 
+       contractor or consultant engaged by Canada for the purpose of 
+       carrying out such a contract.  
+
+9.     Consultant's Right to Grant Licence
+
+       (a)    The Consultant represents and warrants that the Consultant 
+              has, or the Consultant shall obtain without delay, the right 
+              to grant to Canada the licence to exercise the IP Rights in 
+              the Foreground and the Background as required by the 
+              Agreement.
+
+       (b)    Where the IP Rights in any Background or Foreground are or 
+              will be owned by a Sub-Consultant, the Consultant shall 
+              either obtain a licence from that Sub-Consultant that permits 
+              compliance with subsections 5, 6 and 7 or shall arrange for 
+              the Sub-Consultant to convey directly to Canada the same 
+              rights by execution of the form provided for that purpose by 
+              the Minister no later than the time of disclosure to Canada 
+              of that Background and Foreground. 
+
+10.    Trade Secrets and Confidential Information
+
+       The Consultant shall not use or incorporate any trade secrets or 
+       confidential information in any Foreground or Background used or 
+       created in performance of this contract.
+
+11.    Canada Supplied Information
+
+       (a)    here performance of the Services involves the preparation of 
+              a compilation using information supplied by Canada, then the 
+              IP Rights that shall vest under subsection 3 shall be 
+              restricted to the IP Rights in Foreground that are capable of 
+              being exploited without the use of the information supplied 
+              by Canada.  All IP Rights in any compilation, the Foreground 
+              in which cannot be exploited without the use of such Canada 
+              supplied information shall vest in Canada.  The Consultant 
+              agrees that the Consultant shall not use or disclose any 
+              Canada supplied information for any purpose other than 
+              completing the performance of the Services.  The Consultant 
+              shall maintain the confidentiality of such information.  
+              Unless the Agreement otherwise expressly provides, the 
+              Consultant shall deliver to Canada all such information 
+              together with every copy, draft, working paper and note 
+              thereof that contains such information upon the completion or 
+              termination of the Agreement, or at such earlier time as the 
+              Minister may require. 
+
+       (b)    If the Consultant wishes to make use of any Canada supplied 
+              information that was supplied for purposes of the Agreement, 
+              for the commercial exploitation or further development of any 
+              of the Foreground, then the Consultant may make a written 
+              request for a licence to exercise the required IP Rights in 
+              that Canada supplied information, to the Minister.  The 
+              Consultant shall give the Minister an explanation as to why 
+              such a licence is required.  Should the Minister agree to 
+              grant such a licence, it shall be on terms and conditions to 
+              be negotiated between the parties including payment of 
+              compensation to Canada.
+
+12.    Transfer of IP Rights
+
+       (a)    If the Minister takes the Services out of the Consultant's 
+              hands in accordance with GC 7 of the General Conditions, in 
+              whole or in part, or if the Consultant fails to disclose any 
+              Foreground in accordance with subsection 2, the Minister may 
+              upon reasonable notice, require the Consultant to convey to 
+              Canada all of the IP Rights in the Foreground or in the case 
+              of a failure to disclose, all the IP Rights in the Foreground 
+              not provided. The IP Rights to be conveyed shall include the 
+              IP Rights in any Foreground that have vested or are to vest 
+              in a Sub-Consultant. In the case of IP Rights in Foreground 
+              which have been sold or assigned to a party other than a 
+              Sub-Consultant, the Consultant shall not be obligated to 
+              convey those IP Rights to Canada, but shall pay to Canada on 
+              demand an amount equal to the consideration which the 
+              Consultant received from the sale or assignment of the IP 
+              Rights in that Foreground or, in the case of a sale or 
+              assignment was not at arm's length, the fair market value of 
+              the IP Rights in that Foreground, in each case including the 
+              value of future royalties or licence fees.
+
+       (b)    In the event of the issuance by the Minister of a notice 
+              referred to in (a), the Consultant shall, at the Consultant's 
+              own expense and without delay, execute such conveyances or 
+              other documents relating to title to the IP Rights as Canada 
+              may require, and the Consultant shall, at Canada's expense, 
+              afford the Minister all reasonable assistance in the 
+              preparation of applications and in the prosecution of any 
+              applications for, or any registration of, any IP Right in any 
+              jurisdiction, including without limitation the assistance of 
+              the inventor in the case of Inventions.
+
+       (c)    Until the Consultant completes the performance of the 
+              Services and discloses all of the Foreground in accordance 
+              with subsection 2, and subject to the provisions of GC 1.5, 
+              the Consultant shall not, without the prior written 
+              permission of the Minister, sell, assign or otherwise 
+              transfer title to the IP Rights in any of the Foreground, or 
+              license or otherwise authorize the use of the IP Rights in 
+              any of the Foreground by any person.
+
+       (d)    In any sale, assignment, transfer or licence of IP Rights in 
+              Foreground by the Consultant except a sale or licence for end 
+              use of a product based on Foreground, the Consultant shall 
+              impose on the other party all of its obligations to Canada in 
+              relation to the IP Rights in the Foreground and any 
+              restrictions set out in the Agreement on the use or 
+              disposition of the IP Rights in the Foreground (and, if 
+              applicable, the Foreground itself), including the obligation 
+              to impose the same obligations and restrictions on any 
+              subsequent transferee, assignee or licensee.  The Consultant 
+              shall promptly notify Canada of the name, address and other 
+              pertinent information in regard to any transferee, assignee 
+              or licensee.
+
+</pre>

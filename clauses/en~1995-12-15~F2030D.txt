@@ -1,0 +1,35 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+1. 	the contractual demand is for COURIER SERVICES at the 
+CONFIDENTIAL/SECRET/TOP SECRET level;
+
+2.	SECURITY CLEARANCE is required (Block #12);
+
+3.	level of CLASSIFIED information or materiel to be transported (Block #11);
+
+4.	courier company MAY NOT SAFEGUARD MATERIAL OVERNIGHT (Block #13).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, at all times during the performance of the  
+       Contract, hold a valid Facility Security Clearance at the level of _______,issued 
+       by the Industrial Security Division (ISD) of the Department of 
+       Supply and Services (DSS).
+
+2.     Contractor personnel who require access to CLASSIFIED information/
+       assets or sensitive work site(s) shall EACH hold a valid personnel 
+       security screening at the level of_______ granted by ISD.
+
+3.     The Contractor may remove sensitive (CLASSIFIED/DESIGNATED) 
+       information or assets from the work sites as required by this 
+       Contract, but is NOT AUTHORIZED TO SAFEGUARD Assets OVERNIGHT. The 
+       Contractor shall ensure that its personnel are made aware of and 
+       comply with this restriction.
+
+4.     The Contractor shall comply with the provisions of the:
+
+       a)     Security Requirements Check List (SRCL), attached at Annex ____ ; 
+
+       b)     Industrial Security Manual (June 1992). 
+
+</pre>

@@ -1,0 +1,59 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause where the deliverables identified in the contractual 
+document will be services.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor warrants that the deliverables resulting from the 
+       services provided under this Contract shall meet the contractual 
+       requirement so that the deliverables (as evidenced during acceptance 
+       tests, as applicable) accurately and automatically process any and 
+       all date and date-related data including, but not limited to 
+       calculating, comparing, and sequencing of such data from, into and 
+       between the twentieth and twenty-first centuries, including leap 
+       year calculations when used in accordance with the documentation 
+       provided by the Contractor and accepted by Canada, provided that all 
+       hardware, software and firmware products used with the deliverables 
+       properly exchange accurate date and date-related data with them.
+
+2.     To that end, the Contractor also warrants that date-related 
+       processing will not, in any way, prevent hardware, software or 
+       firmware from conforming to the requirement of the Contract prior to, 
+       during, or after the year 2000.  Canada may, at no additional cost, 
+       require the Contractor, prior to the performance of the services, to 
+       demonstrate compliance and/or compliance techniques and test 
+       procedures it intends to follow in order to comply with all of the 
+       obligations contained herein.
+
+3.     The obligations contained herein apply to the services provided by 
+       the Contractor and its subcontractor(s) involved in the performance 
+       of this Contract.  Subject to the specific contractual requirement, 
+       the obligations contained herein do not apply to hardware, firmware, 
+       software or software applications provided as Government Property 
+       unless expressed elsewhere in the Contract.
+
+4.     The warranties contained herein are separate and discrete from any 
+       other warranties specified in this Contract, and are not subject to 
+       any disclaimer of warranty<em> </em>which may be specified in this Contract, 
+       its appendices, its schedules, its annexes or any document 
+       incorporated in this Contract by reference.  The warranties 
+       contained herein are subject to any limitation of the Contractor's 
+       liability specified in the Contract.
+
+5.     The warranties contained herein shall not apply where a modification 
+       has been made to a deliverable provided under this Contract by a 
+       party other than the Contractor or a subcontractor or a party 
+       approved in writing by either of them.
+ 
+6.     Notwithstanding the foregoing, the provisions set out in the 
+       applicable Supplemental General Conditions, if any, under the 
+       section entitled "Warranty" apply.
+
+7.     The warranties contained herein shall have a term extending either:
+
+       (a)    to June 30, 2000, or,
+       (b)    for a period of six months following acceptance of the 
+              services,
+
+       whichever is the later date.
+
+</pre>

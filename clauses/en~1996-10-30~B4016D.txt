@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when the design data is the property of DND.  It does not apply 
+to ammunition produced under the global contract with SNC IT Inc.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Manufacture, packaging and inspection shall be governed by drawings, 
+specifications and schedules approved by the Director Ammunition Materiel 
+Management (DAMM) and issued under Canadian Forces Design Data List.
+
+
+</pre>

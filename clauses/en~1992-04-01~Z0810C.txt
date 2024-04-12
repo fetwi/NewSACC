@@ -1,0 +1,42 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts which are negotiated fixed-price type 
+supply contracts for standard or commercial items, under which the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  Government is to furnish to the contractor
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  Government property having an 
+acquisition cost of $50,000 or less.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The <abbr title="United States">U.S.</abbr> Government will deliver to the Contractor, for use in
+connection with this Contract, the property described elsewhere in
+this Contract or the specifications (hereinafter described as "<abbr title="United States">U.S.</abbr>
+Government-furnished Property") at the times and locations stated
+in this Contract. If the <abbr title="United States">U.S.</abbr> Government-furnished property,
+suitable for its intended use, is not so delivered, <abbr title="Canadian Commercial Corporation">CCC</abbr> shall, upon
+timely written request made by the Contractor, and if the facts
+warrant such action, equitably adjust any affected provision of
+this Contract.</p>
+<p>Title to <abbr title="United States">U.S.</abbr> Government-furnished property shall remain in the <abbr title="United States">U.S.</abbr> Government. The Contractor shall maintain adequate property
+control records of <abbr title="United States">U.S.</abbr> Government-furnished property in accordance
+with sound industrial practice.</p>
+<p>Unless otherwise provided in this Contract, the Contractor
+assumes the risk of, and shall be responsible for, any loss of or
+damage to <abbr title="United States">U.S.</abbr> Government-furnished property provided under this
+Contract upon its delivery to the Contractor, except for reasonable
+wear and tear, and except to the extent that such property is
+consumed in the performance of this Contract.</p>
+<p>The Contractor shall, upon completion of this Contract, prepare
+for shipment, deliver <abbr title="Free on Board">FOB</abbr> origin, or dispose of all <abbr title="United States">U.S.</abbr>
+Government-furnished property not consumed in the performance of
+this Contract or not theretofore delivered to the <abbr title="United States">U.S.</abbr> Government,
+as may be directed or authorized by <abbr title="Canadian Commercial Corporation">CCC</abbr>. The net proceeds of any
+such disposal shall be credited to the Contract Price or paid in
+such manner as <abbr title="Canadian Commercial Corporation">CCC</abbr> may direct.</p>
+</div></pre>

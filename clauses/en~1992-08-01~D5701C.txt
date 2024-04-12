@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause if the requisition specifies form CF 1280 and delivery 
+to and completion of installation at site is required and clause D5700D was 
+used.  Enter the distribution as per the requisition.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>On completion of the installation, form CF 1280, Certificate of Inspection 
+and Release, listing the contract items, shall be prepared by the 
+Contractor and when signed by the QAR shall be distributed as follows:  _____
+
+</pre>

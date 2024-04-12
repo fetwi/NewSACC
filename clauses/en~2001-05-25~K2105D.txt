@@ -1,0 +1,29 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contractual documents.  At the bid solicitation 
+stage, the list of sanctions is provided to bidders for information purposes 
+only.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Persons and companies in Canada are bound by economic sanctions 
+       imposed by Canada.  As a result, the Government of Canada cannot 
+       accept delivery of goods or services that originate, either directly 
+       or indirectly, from the countries subject to economic sanctions.  
+       Details on existing sanctions can be found at:
+
+       http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp
+
+2.     It is a condition of this Contract that the Contractor not supply to 
+       the Government of Canada any goods or services which are subject to 
+       economic sanctions.
+
+3.     By law, the Contractor must comply with changes to the regulations 
+       imposed during the life of the Contract.  During the performance of 
+       the Contract should the addition of a country to the list of 
+       sanctioned countries or the additions of a good or service to the 
+       list of sanctioned goods or services cause an impossibility of 
+       performance for the Contractor, the situation will be treated by the 
+       Parties as a force majeure.  The Contractor shall forthwith inform 
+       Canada of the situation; the procedures applicable to force majeure 
+       shall then apply.
+
+</pre>

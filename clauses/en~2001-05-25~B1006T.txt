@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Materiel is to be <strong>new production of current manufacture</strong> supplied by 
+       the principal manufacturer or its accredited agent and is to conform 
+       to the current issue of the applicable drawing, specification and/or 
+       part number as applicable.
+
+      <strong><strong><strong> OR
+</strong></strong></strong>
+2.     If materiel is not new production of current manufacture or is from 
+       a source other than the principal manufacturer or its accredited 
+       agent, it is to be<strong> unused and in new condition</strong> released and 
+       processed by an approved Contractor with the latest approved 
+       modifications incorporated as applicable, covered by its release 
+       notes.
+
+3.     The Bidder is to specify in its bid whether 1. or 2. is being 
+       offered.
+
+       <strong>SPECIFY</strong>:_____
+
+4.     If definition 2. above is used, the Bidder shall provide the 
+       following information with its bid:
+
+       (a)    name of manufacturer;
+
+       (b)    date of manufacture; and
+
+       (c)    if item contains elastomeric materiel, cure date for such 
+              must be provided.
+
+</pre>

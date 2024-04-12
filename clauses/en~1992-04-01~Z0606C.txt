@@ -1,0 +1,17 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the U.S. contract invokes DFARS 252.246-7000.
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A Material Inspection and Receiving Report, form DD 250, will be prepared 
+and distributed for each shipment made under this Contract in accordance 
+with the U.S. Defense Federal Acquisition Regulation supplement, Appendix F. 
+Questions regarding preparation and distribution of this form may be 
+addressed to the Quality Assurance Representative assigned to the 
+Contractor's plant.        
+
+As proof of shipment, one (1) signed copy of this inspection document must 
+   be supplied to, (insert name of DSS Contracting Officer) _____ and 
+   Defense Contract Management Area Operations/Ottawa, P.O. Box 3416, 
+   Station D, 365 Laurier Avenue West, Ottawa, Ontario K1P 6L4.    
+</pre>

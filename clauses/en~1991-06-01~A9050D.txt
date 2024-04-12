@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The manufacturer's standard commercial manuals will be accepted without 
+   formal submission and review of sample copies, on the assurance of the 
+   supplier that they contain adequate instructions for the operation, 
+   maintenance and repair of the equipment, as well as parts list 
+   containing illustrations, exploded views, and drawings, etc., necessary 
+   for the proper identification of all parts, assemblies, and special 
+   equipment. The Contractor  shall specify the manufacturer's 
+   identification numbers for the publications to be provided and shall 
+   certify that they are the correct issues for the equipment being 
+   purchased. 
+</pre>

@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the requisition specifies U.S. Federal Aviation 
+Administration (FAA) and/or Canadian Department of Transport (DOT) regulations 
+(DND QAC J).  Include release document clause D5600D.  If the requisition has  
+multiple Quality Assurance Codes (QAC), the procurement officer is to identify 
+the line item numbers which are associated with each QA clause. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Work described herein shall be inspected in compliance with the 
+requirements of the U.S. Federal Aviation Administration or the Canadian 
+Department of Transport civil aircraft regulations and is subject to 
+verification by the Department of National Defence at destination.  Proof 
+of inspection shall accompany each shipment.
+
+
+</pre>

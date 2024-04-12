@@ -1,0 +1,73 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause whenever definitions are required for procurement 
+covered by the special procedures under the Canada-Korea Agreement on the 
+Procurement of Telecommunications Equipment (CKTEA).
+
+This clause should not be used when the procurement is also covered by the World 
+Trade Organization - Agreement on Government Procurement (WTO-AGP).  The special 
+procedures under the CKTEA should only be used for procurement not covered by 
+the WTO-AGP.  For procurement covered by both the CKTEA and the WTO-AGP, 
+procedures for the WTO-AGP are followed. 
+
+This clause must always be used whenever clauses K5001T, K5002T, K5003T, K5004T, 
+K5005T and K5006T are used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>For the purpose of the Canada-Korea Agreement on the Procurement of 
+Telecommunications Equipment (CKTEA):
+
+1.     (a)    A Good is considered a Canadian or Korean good if it is 
+              considered so under Canada's "Determination of Country of 
+              Origin for the Purposes of Marking Goods (NAFTA Countries) 
+              Regulations".  Article 8 of these Regulations, which provides 
+              for a North American Free Trade Agreement (NAFTA) tariff 
+              preference override, cannot be used for determining whether a 
+              good is Canadian.
+
+       (b)    An Incidental Service means any service that is included in a 
+              tender for the procurement of a Covered Good under this 
+              Agreement.
+
+              A Service provided by an individual based in Canada or Korea 
+              is considered a Canadian or Korean service, respectively.  
+              Where a requirement consists of only one service, which is 
+              being provided by more than one individual, the service will 
+              be considered Canadian or Korean if a minimum of 60 percent 
+              of the total bid price for the service is provided by 
+              individuals based in Canada or Korea.
+
+       (c)    "Territory" means:
+
+              (i)    with respect to Korea, the territory of Korea as well 
+                     as those maritime areas, including the seabed and 
+                     subsoil adjacent to the outer limit of the territorial 
+                     areas over which Korea exercises, in accordance with 
+                     international law, sovereign rights or jurisdiction 
+                     for the purpose of exploration and exploitation of 
+                     natural resources of such areas.
+
+              (ii)   with respect to Canada, the territory to which its 
+                     customs laws apply, including any areas beyond the 
+                     territorial seas of Canada within which, in accordance 
+                     with international law and its domestic laws, Canada 
+                     may exercise rights with respect to the seabed and 
+                     subsoil and their natural resources.
+
+2.     Variety of goods: When requirements consist of more than one good, 
+       the evaluation can be done in two ways:
+
+       (a)    aggregate evaluation: no less than 60 percent of the total 
+              bid price must consist of Canadian and/or Korean goods; or, 
+
+       (b)    item by item evaluation: in some cases, the bid evaluation 
+              may be conducted on an item-by-item basis and contracts may 
+              be awarded to more than one supplier. In these cases, 
+              suppliers will be asked to identify separately each item that 
+              meets the definition of Canadian or Korean goods.
+
+3.     Mix of goods and services: when requirements consist of a mix of 
+       goods and services, no less than 60 percent of the total bid price 
+       must consist of Canadian and/or Korean goods and services (as 
+       defined above).
+
+</pre>

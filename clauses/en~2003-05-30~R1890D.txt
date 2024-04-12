@@ -1,0 +1,80 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer must edit the clause as required by the situation.  Use 
+the following clause with Open Agreements only.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The following hourly rates are fixed for the duration of the Consultant 
+Agreement - Open.
+
+PRINCIPALS -  All inclusive hourly rate to be fixed for the duration of the 
+Contract.
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Name</th>
+<th>$ per hour</th>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+<tr align="left" valign="top">
+<td>______________________________________________</td>
+<td>$_______________</td>
+</tr>
+</tbody></table> <pre>
+
+STAFF - Payroll Cost Factor to be fixed for the duration of the contract.  
+For the administration of the Contract, Hourly Rate increases for staff are 
+to be documented to PWGSC for approval.
+
+</pre> <table border="1">
+<tbody><tr align="left" valign="top">
+<th>Name / Position</th>
+<th>$ per hour (excluding factor)</th>
+<th>Factor</th>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>____________</td>
+<td>_____________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>____________</td>
+<td>_____________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>____________</td>
+<td>_____________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>____________</td>
+<td>_____________</td>
+</tr>
+<tr align="left" valign="top">
+<td>_________________________________</td>
+<td>____________</td>
+<td>_____________</td>
+</tr>
+</tbody></table> <pre>
+
+</pre>

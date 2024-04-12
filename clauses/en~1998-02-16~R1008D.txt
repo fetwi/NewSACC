@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+Buildings and Engineering Works.  When this clause is used in Buildings 
+requirements, insert "R2001D"; when used in Engineering Works requirements, 
+insert "R2003D".
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Construction Documents</strong>
+
+1.     The <em>Consultant</em> shall, after acceptance of the design development 
+       documents, prepare and
+
+       (a)    submit for review to the <em>Departmental Representative</em> 
+              construction documents detailing the requirements for the 
+              construction of the Project at each stage of production as 
+              specified in clause ____, Agreements Particulars.
+
+       (b)    submit an updated <em>Cost Plan</em> including a <em>Construction Cost 
+              Estimate</em> and <em>Project Schedule</em> at each specified stage of 
+              production;
+
+       (c)    provide copies of all construction documents submitted, in 
+              the type and number specified in clause _____.
+
+<strong>Pre-Tender </strong><strong><em>Construction Cost Estimate</em></strong><strong> and </strong><strong><em>Project Schedule</em></strong>
+
+The <em>Consultant</em> shall prepare for tender call purposes and submit to the <em>
+Departmental Representative</em> for acceptance a final <em>Construction Cost 
+Estimate</em> based on the approved construction documents, together with a 
+breakdown thereof, and an updated <em>Project Schedule</em>.
+
+</pre>

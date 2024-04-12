@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when United States Government property is 
+being provided.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">In addition to specific responsibilities delineated
+in appendices "B", "C", and "H" of the <cite>United States (U.S.) Federal
+Acquisition Regulations</cite>, as applicable, the Contractor shall be
+responsible for and accountable for all <abbr title="United States">U.S.</abbr> Government property,
+title to which vests in the <abbr title="United States">U.S.</abbr> Government, delivered to or
+acquired by the Contractor under the terms of this Contract,
+including property in the possession of a subcontractor.</li>
+<li value="2">Approval of the Contractor's property control system
+shall be made by the Production Assets Management Services,
+Aerospace, Marine and Electronics Systems Sector, Department of
+Public Works and Government Services, Ottawa, Ontario, to whom all
+questions concerning requisitioning, customs clearance,
+maintenance, etc., are to be referred.</li>
+</ol>
+</div></pre>

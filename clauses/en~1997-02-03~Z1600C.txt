@@ -1,0 +1,47 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract contains a 
+"Disputes" clause.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Disputes clause incorporated by reference in the
+U.S Contract <span class="input-required"><var>_____</var> <kbd>(<em><strong>(insert the contract number
+and date and delete this instruction)</strong></em>)</kbd></span> are hereby
+incorporated by reference into and form part of this Contract,
+between the Canadian Commercial Corporation (CCC) and the United
+States (U.S.) government covering the supplies set out in this
+Contract.</li>
+<li value="2">For the purposes of the Disputes clause herein
+incorporated, the word "<dfn>Contractor</dfn>" wherever it appears in the said
+Disputes clause, refers to <abbr title="Canadian Commercial Corporation">CCC</abbr> and reference to the word
+"<dfn>Contracting Officer</dfn>" in this Disputes clause shall be deemed to
+mean the <abbr title="United States">U.S.</abbr> Contracting Officer. <abbr title="Canadian Commercial Corporation">CCC</abbr> will keep the Canadian
+Contractor informed of any and all such disputes and, in the event
+of a decision being made by the Contracting Officer or the
+Secretary (as defined in the said <abbr title="Canadian Commercial Corporation">CCC</abbr>-<abbr title="United States">U.S.</abbr> Contract) which is
+binding on <abbr title="Canadian Commercial Corporation">CCC</abbr> in accordance with the said Disputes clause, the
+Canadian Contractor shall, if and to the extent required in writing
+by <abbr title="Canadian Commercial Corporation">CCC</abbr>, abide by such decision.</li>
+<li value="3">If the Canadian Contractor wishes to dispute a
+decision made by the Contracting Officer, the Canadian Contractor
+shall notify and submit a claim to the <abbr title="Canadian Commercial Corporation">CCC</abbr> Contracting Authority in
+sufficient time to permit <abbr title="Canadian Commercial Corporation">CCC</abbr> to process a claim on the <abbr title="United States">U.S.</abbr>
+government within the time limit stipulated in the Disputes
+clause.</li>
+<li value="4">Any claim submitted by the Canadian Contractor to <abbr title="Canadian Commercial Corporation">CCC</abbr>
+under this Disputes clause, must carry the certification detailed
+in paragraph (d) of the Disputes clause.</li>
+<li value="5">Any interest paid to <abbr title="Canadian Commercial Corporation">CCC</abbr> by the <abbr title="United States">U.S.</abbr> government as a
+result of such claim, pursuant to paragraph (h) of the Disputes
+clause, will be for the Contractor's account.</li>
+<li value="6"><abbr title="Canadian Commercial Corporation">CCC</abbr> shall not be liable to the Canadian Contractor
+except to the extent that it is established that the <abbr title="United States">U.S.</abbr>
+government is liable to <abbr title="Canadian Commercial Corporation">CCC</abbr> under the Disputes clause.</li>
+</ol>
+</div></pre>

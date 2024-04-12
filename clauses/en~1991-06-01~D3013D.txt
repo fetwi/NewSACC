@@ -1,0 +1,23 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.  For contractors located in Canada:  
+
+       Preservation and packaging shall be in accordance with the Canadian 
+       Forces Packaging Specification D-LM-008-OO1/SF-001, and shall be 
+       marked to D-LM-008-OO2/SF-001.  Level B "PKG DATA FORM REQD", shall 
+       be in accordance with CFPS D-LM-008-011/SF-001.  
+
+2.  For contractors located in U.S.A.:  
+
+       Preservation and packaging shall be in accordance with U.S. 
+       Department of Defense Military Standard MIL-STD-794 and shall be 
+       marked to MIL-STD-129.  Level B "PKG DATA FORM REQD" shall be in 
+       accordance with MIL-STD-834 and MIL-STD-726.  
+
+3.  Approval Authorities.  
+
+       When the "PKG REQTS CODE" for a specific item indicates "PKG DATA 
+   FORM REQD", packaging data forms previously approved by Canadian or 
+   United States authorities shall be acceptable.   
+</pre>

@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in bid solicitations when the evaluation methodology is provided 
+by the client or when it is deemed important to specify, in an annex, the 
+methodology used to evaluate the mandatory, desirable or rated criteria 
+specified in the bid solicitation.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The bid evaluation methodology is described at Annex ___ .
+</pre>

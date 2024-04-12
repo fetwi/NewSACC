@@ -1,0 +1,56 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to cover normal arrangements for progress payments in 
+bid solicitations and contracts for shipbuilding or ship repair or alteration or 
+repair to real property, or where the holdback is pursuant to legislation.  
+Enter fill-in data.
+
+1.  The routing instructions of paragraph 5 are those used for most contracts.  
+These may be adjusted to suit a particular contract so long as the Payment 
+Office is the last one to receive the claim.
+
+2.  If holdback will be applied at different rates for different line items, 
+then it should be reflected in clause H3025D.  The following is an option clause 
+relative to a holdback position on any given procurement and relates to 
+paragraph 3 and 4.b) of standard clause H3025D.  If the same rate of 
+payments/holdback is not applicable to all commodities or phases of the 
+procurement, add the following phrase to the foregoing:
+
+	"applicable to _____ (name the commodity or phase of the contract appropriate 
+to the payment/holdback rate stated) and payment/holdback equal to _____ percent 
+of such expenditures applicable to _____ (name the commodity or phase of the 
+contract appropriate to the payment/holdback rate stated )."
+
+3.  Should the Contractor require detailed information on elements of price such 
+as material, then this must also be reflected in clause H3025D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Progress payments will be made not more frequently that once a month upon 
+the following terms and conditions:
+
+1.  Progress claims shall be completed in full including a brief report of 
+the progress of the work to the date of the claim, and submitted to the 
+Minister on form DSS-MAS 1111, Claim for Progress Payment.
+
+2.  All the certificates appearing on the form are to be signed by or for 
+the respective persons indicated.
+
+3.  Payments shall be made up to _____ percent of the claimed amounts 
+approved by the Minister but in no event shall cumulative payments exceed _____ 
+percent of the Contract value.
+
+4.  Each claim shall show:
+
+       a)  expenditures plus pro-rated profit or fee or, alternatively, the 
+       value of milestones during the claim period by line item as detailed 
+       in the payment terms of the Contract;
+
+       b)  holdback at _____ percent, calculated on the amount in a);
+
+       c)  goods and services tax, calculated on the amount in a) above 
+       less the amount of the holdback.
+
+5.  The Contractor shall prepare the original and _____ copies of the Claim 
+   for Progress Payment, form DSS-MAS 1111, and forward them to the 
+   scientific/inspection authority, who in turn will send them to the DSS 
+   representative for further submission to the payment office.
+</pre>

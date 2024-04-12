@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor is responsible for obtaining copies of all US military 
+specifications and standards which may be applicable to this requirement. 
+These specifications and standards are available commercially, or may be 
+obtained directly from the US Department of Defense, Philadelphia, 
+telephone: (215) 697-2179/2667; facsimile: (215) 697-1462.
+
+
+</pre>

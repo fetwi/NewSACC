@@ -1,0 +1,21 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in contracts where the deliverables have not been specifically 
+identified in the Statement of Work and there will be items in addition to 
+reports.  List each item along with its applicable delivery date.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall deliver the following items to the Technical 
+       Authority at the place and time designated hereunder:
+
+              Item                 Delivery Date
+
+       1. ______________           ___________
+
+       2. ______________           ___________
+
+       3. ______________           ___________
+
+2.     The Contractor shall notify the Contracting Authority, in writing, 
+       once these items have been delivered.
+
+</pre>

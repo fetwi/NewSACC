@@ -1,0 +1,24 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause only where the Contractor is to own the Foreground 
+Information and where either DSS-MAS 9601-6, "Contractor to Own Intellectual 
+Property Rights in Foreground Information", or DSS-MAS 9624, "General Conditions 
+- Research and Development", form part of the contract.
+
+Add the following clause where the contractor is to be required to keep 
+Foreground Information confidential for a specific period of time following 
+completion of the contract.  This clause would be suitable where the client 
+department wishes to give the intellectual property rights to the contractor but 
+wishes to prevent publishing and to restrict disclosure of that information for 
+a period of time for security or other reasons.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor, during the performance of the Contract and for a period of _____ 
+months thereafter, shall keep confidential and shall not publish or 
+otherwise disclose to any person any Foreground Information, except as may 
+be necessary to carry out the Work under the Contract in which case the 
+Contractor shall impose the same obligation of confidentiality on any 
+person to whom the information is disclosed.  The foregoing obligation does 
+not apply to any Foreground Information where the same information is 
+publicly available form a source other than Canada.
+
+</pre>

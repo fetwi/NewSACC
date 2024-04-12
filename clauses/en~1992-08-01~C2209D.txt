@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Goods and Services Tax (GST) is not included in the amounts shown in 
+the Basis of Payment and Limitation of Expenditure clauses of the Standing 
+Offer. The GST, which is estimated at $_____, is included in the total 
+estimated cost shown on page 1 of this Standing Offer. The GST, to the 
+extent applicable, is to be shown separately on all invoices and claims for 
+progress payments and will be paid by Canada. The Supplier agrees to remit 
+to Revenue Canada-Customs and Excise any GST that the Supplier receives 
+from Canada pursuant to this Standing Offer.
+
+</pre>

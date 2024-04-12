@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Clause for Contracts Not Involving Research and Development - Contractor 
+Receives Intellectual Property Rights
+
+Use the following clause in a contract or part of a contract which does not 
+involve research and development, and where the client has specified that the 
+intellectual property rights are to vest in the contractor.  Do not use in 
+conjunction with General Conditions DSS-MAS 9224 which have their own clauses.
+
+NOTE:	This clause must be used in conjunction with clause K3400D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Copyright, patent rights and all other intellectual property rights in 
+anything first conceived, developed or reduced to practice by the 
+Contractor in the performance of the Work under the Contract shall vest in 
+the Contractor.
+
+</pre>

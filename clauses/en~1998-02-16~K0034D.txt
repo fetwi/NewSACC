@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with DSS-MAS 1034, Construction - Fixed Price and 
+Unit Prices.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Section 01 (Interpretation) of General Conditions DSS-MAS 1034, 
+Construction - Fixed and Unit Prices, is amended to include the following:
+
+       "01    Interpretation
+
+       (1)    In the contract,
+
+              (j)    "Canada", "Crown", "Her Majesty" or "the Government" 
+                     means Her Majesty the Queen in right of Canada;"
+
+</pre>

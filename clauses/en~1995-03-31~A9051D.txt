@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in bid solicitations and contract documents for the procurement 
+of equipment when the rights to translation of existing commercial publications 
+are involed.  This clause is to be used in conjunction with clause A9050D.  
+Procurement officers are to insert the number of copies which are required and 
+insert the name of the organization within the Department of National Defence 
+where the publications are to be sent.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada shall have the right to translate and reproduce for government use 
+only, all or any part of the publications supplied under the Contract.
+
+In addition to the copies which are to be supplied with the equipment, _____ 
+copies of each publication shall be forwarded to:
+
+       Department of National Defence
+       MGen George Pearkes Building
+       Ottawa, Canada
+       K1A 0K2
+
+       Attention:  _____
+</pre>

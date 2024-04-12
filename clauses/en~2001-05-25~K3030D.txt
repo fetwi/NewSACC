@@ -1,0 +1,53 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in combination with DSS-MAS 9676, General Conditions - 
+Services, or DSS-MAS 9601, General Conditions - Long Form, and clause K3002D, 
+Contractor to Own IP: No Explicit License Rights for Canada, in a Contract which 
+does not involve any research and development, where it is anticipated that the 
+intellectual property arising from the Work under the Contract, if any, will be 
+negligible.  Clause K3030D may be used in combination with K3002D where the 
+client department wishes to ensure that it obtains a license to exercise all 
+rights comprised in the copyright, if any, in a protected Work arising in the 
+Contractor's performance of the Contract, but does not require a license to 
+exercise any other intellectual property rights arising from the Work under the 
+Contract.
+
+Do not use this clause in conjunction with DSS-MAS 9624, General Conditions - 
+Research and Development.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In this clause, "Material" means anything that is created or 
+       developed by the Contractor as part of the Work under the Contract, 
+       and in which copyright subsists.
+
+2.     The Contractor hereby grants to Canada a non-exclusive, perpetual, 
+       irrevocable, world-wide, fully-paid and royalty-free license to 
+       exercise all rights comprised in the copyright in the Material, for 
+       any public purpose.
+
+3.     Copyright in any translation of the Material made by or for Canada 
+       shall vest in Canada.
+
+4.     Canada may use independent contractors in the exercise of Canada's 
+       license pursuant to this clause.
+
+5.     Canada shall reproduce the Contractor's copyright notice, if any, on 
+       all copies of the Material, and Canada shall acknowledge the 
+       Contractor's title to the copyright in the original work on all 
+       copies of translations of the Material effected by or for Canada.
+
+6.     No restrictions other than those set out in this section shall apply 
+       to Canada's use of copies of the Material or of translated versions 
+       of the Material.
+
+7.     At the request of the Minister, the Contractor shall provide to 
+       Canada, at the completion of the Work or at such other time as the 
+       Minister may require, a written permanent waiver of Moral Rights, in 
+       a form acceptable to the Minister, from every author that 
+       contributed to the Material.
+
+8.     If the Contractor is an author of the Material, the Contractor 
+       hereby permanently waives the Contractor's Moral Rights in respect 
+       of the Material.
+
+
+</pre>

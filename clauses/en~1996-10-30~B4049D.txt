@@ -1,0 +1,37 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to define a requirement for a Long Lead Time Item List (LLTIL) 
+for new equipment acquisitions. In variable &lt;&lt;1&gt;&gt; insert "bid" at the 
+solicitation stage and insert "Contract" at the contract stage.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, within ____ days of the effective date of the 
+       Contract, provide both to the Contracting Authority and to DND at 
+       the address cited below, a Long Lead Time Item List (LLTIL), 
+       prepared in accordance with the current issue of Canadian Forces 
+       Specification D-01-100-214/SF-000. The cost of preparing the LLTIL 
+       may be included in the &lt;&lt;1&gt;&gt; ____ price. Any item with a procurement 
+       lead time (from placement of order to delivery) of greater than ____ 
+       months shall be included.  Specific details of the data elements 
+       required in the LLTIL are listed on the Provisioning Documentation 
+       Selection Sheet appended at Annex ____.
+
+2.     Supplementary Provisioning Technical Documentation (SPTD) for the 
+       codification and cataloguing of items listed in the LLTIL, shall 
+       also be provided by the Contractor in accordance with the current 
+       issue of Canadian Forces Specification D-01-100-214/SF-000.
+
+3.     Should the Contractor have any questions regarding the preparation, 
+       format or content of the provisioning documentation, they shall be 
+       directed to:
+
+       National Defence Headquarters
+       MGen George R. Pearkes Building
+       101 Colonel By Drive
+       Ottawa ON  K1A 0K2
+
+<strong>       Attention: DCIP</strong> _____
+
+       Telephone: (613) ____-_____
+
+
+</pre>

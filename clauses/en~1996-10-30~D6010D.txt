@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to define the palletization requirements for shipments to 
+Canadian Forces Supply Depots.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall strap, and if necessary wrap, shipments on standard 48 
+in. x 40 in. wood or fibreboard pallets supplied without cost to Canada by 
+the Contractor. Total height including pallet shall not exceed 48 in. for 
+delivery to 25 CFSD (1B) and 42 in. for delivery to 7 CFSD (1A). Any 
+exception shall require the prior approval of the Contracting Authority.
+
+</pre>

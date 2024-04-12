@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to define Department of National Defence's packaging 
+requirements for the procurement of items which are covered by the following 
+categories:
+
+(a) 	Commercial Off-the-Shelf (COTS);
+(b) 	direct to customer, for immediate use (including modifications);
+(c) 	COLOG (co-operative logistics); or
+(d) 	items not covered by another Canadian Forces commodity packaging 
+specification (see D3016D) or military packaging (see D3013D).
+
+In the first and second blank, specify the item number(s).  In the third blank, 
+specify a mandatory quantity per unit pack or the following statement, "up to a 
+maximum of 100".
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Preparation for delivery for item number(s) _____ shall be in accordance 
+with the latest issue of the Canadian Forces Packaging Specification 
+D-LM-008-036/SF-000, Department of National Defence's Minimum Requirements 
+for Manufacturer's Standard Pack.
+
+Item number(s) _____ shall be packaged in quantities of _____ per package.
+
+
+</pre>

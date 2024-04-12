@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when NATO Stock Numbers (NSNs) are not available when the 
+original requisition is raised.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Unless authorized by the Contracting Authority, the Contractor shall not 
+release for shipment any item which is not identified with a NATO Stock 
+Number (NSN). If an NSN has not been provided, the Contractor shall request 
+an NSN from the Contracting Authority sixty (60) days prior to the 
+scheduled shipment date.  Such request shall include the technical 
+documentation required to allow for the cataloguing and assignment of the 
+NSN.
+
+
+</pre>

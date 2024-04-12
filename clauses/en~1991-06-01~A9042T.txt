@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Tenders/Quotations by telegram, telex or facsimile (Rapicom 3000) will be 
+   considered provided they are received before the closing time and 
+   contain the tender/quotation number and all essential pricing, sales tax, 
+   duty, FOB point, etc.  Our telex number is _____ and our facsimile 
+   (Rapicom 3000) number is _____.  Your confirming bid is to be mailed 
+   IMMEDIATELY following the dispatch of the telex or telegram. 
+</pre>

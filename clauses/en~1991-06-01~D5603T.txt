@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the requisition specifies form CF 1280 and 
+delivery to and completion of installation at site is required. Use clause 
+D5603C in contract. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>On completion of the installation, form CF 1280, Certificate of Inspection 
+   and Release, shall be prepared by the Contractor listing the Contract 
+   items and, when properly completed and signed by the Department of 
+   National Defence Quality Assurance Representative, be distributed as 
+   directed in the Contract. 
+</pre>

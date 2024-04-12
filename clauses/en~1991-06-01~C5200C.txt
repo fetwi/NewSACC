@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in FOB plant (origin) contracts if clause C5200T was 
+used.  Shipping instructions must be obtained from the Traffic Management Group, 
+Consumer Products and Traffic Management Branch and inserted as a fill-in.  See 
+SPM Directive 3250.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Notwithstanding the Shipping provisions of this Contract, goods shall be 
+   shipped prepaid via _____ including all delivery charges to _____.  
+   Prepaid transportation charges shall be shown as a separate item on the 
+   invoice, supported by a certified copy of the prepaid transportation 
+   bill.
+</pre>

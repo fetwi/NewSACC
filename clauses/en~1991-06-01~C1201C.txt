@@ -1,0 +1,15 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in ceiling price contracts involving more than one item 
+or groups of items.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The prices specified are ceiling prices and are subject to adjustment 
+   downward so as not to exceed the actual cost incurred computed in 
+   accordance with Contract Cost Principles, DSS-MAS 1031-2, as established 
+   by government audit, plus a profit of _____ percent of such cost, and on 
+   completion of the audit the prices shall be adjusted as aforesaid, and 
+   if there has been any overpayment it shall be promptly refunded to 
+   Canada.  The Contractor will segregate costs for each item or group of 
+   items for which a ceiling price has been established so that the costs 
+   of each such item or group of items may be determined.
+</pre>

@@ -1,0 +1,49 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following bid solicitation clause is to be used when it is anticipated that 
+clients will pay invoices associated with the contract or call-ups against the 
+standing offer by Government of Canada Acquisition Card (credit card). Use 
+clause H3027C in the contract or standing offer where the bidder indicates that 
+payment of invoices by credit card is acceptable. (Refer to the Supply Manual, 
+procedure 7A.042).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Government of Canada Acquisition Cards (credit cards) may be offered 
+       for payment of invoices. Payments of invoices made by credit card 
+       will not be subject to the Payment and Interest on Overdue Accounts 
+       provisions set out in General Conditions DSS-MAS ____ of the 
+       Contract or Standing Offer. If discounts for early payment are not 
+       available when a credit card is used to pay the invoice, it must be 
+       clearly indicated below.
+
+2.     Acceptance of credit cards for payment of invoices is optional, and 
+       at the discretion of the Contractor. Acceptance or non-acceptance of 
+       credit cards for the payment of invoices will not be considered in 
+       the evaluation of offers submitted in response to the bid 
+       solicitation.
+
+3.     The bidder is requested to indicate:
+
+       (  )   Government of Canada Acquisition Cards (credit cards) will be 
+              accepted for payment of invoices up until the ____ day (as 
+              specified by bidder) of the payment period as set out in the 
+              Contract or Standing Offer. Payment of invoices after this 
+              date will only be accepted by Government of Canada cheque, 
+              direct deposit, or electronic funds transfer, and will 
+              continue to be subject to the Payment and Interest on Overdue 
+              Accounts provisions set out in General Conditions DSS-MAS ____.
+
+4.     The use of a credit card as the payment instrument will / will not 
+       (as specified by bidder) preclude early payment incentives.
+
+5.     The following credit card(s) are accepted:
+
+       (a)    VISA ____
+       (b)    Mastercard ____
+       (c)    American Express ____
+
+       <strong>OR</strong>
+
+       (  )   Government of Canada Acquisition Cards (credit cards) will 
+              NOT be accepted for payment of invoices.
+
+</pre>

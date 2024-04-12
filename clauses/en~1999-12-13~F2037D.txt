@@ -1,0 +1,53 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+(a) 	SECURITY CLEARANCE is required (Block #12);
+
+(b) 	SAFEGUARDING OF DOCUMENTS, for destruction at the Contractor/Offeror's 
+site(s) is required (Block #13, 15 or 16);
+
+(c) 	Level of CLASSIFIED information or assets is identified in Block #13; and
+
+(d) 	CLASSIFIED information MAY NOT be processed/produced on EDP/ADP equipment 
+at the Contractor/Offeror's site(s) (Block #17).
+
+	The security clause will identify the procurement, i.e. a Contract or Standing 
+Offer as applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The attached Security Requirements Check List (SRCL) identifies the 
+       security requirements for the destruction of CLASSIFIED information 
+       at the _______ level using approved shredding equipment on the 
+       Contractor's premises. 
+
+2.     The client department shall ensure that only CLASSIFIED material no 
+       higher than the_________ level is provided to the Contractor for 
+       destruction under any resulting Contract. 
+
+3.     The Contractor shall, at all times during the performance of the 
+       Contract, hold a valid <strong><em>Facility Security Clearance (FSC),</em></strong> with 
+       approved Document Safeguarding at the level of _________, issued or 
+       approved by the Canadian and International Industrial Security 
+       Division (CIISD) of the Department of Public Works and Government 
+       Services Canada. 
+
+4.     Contractor personnel who will perform the shredding services and/or 
+       who will require access to CLASSIFIED information, assets or 
+       sensitive work sites shall EACH hold a valid ________ screening, 
+       granted or approved by CIISD.
+
+5.     Should the Contractor choose to utilize the services of mentally 
+       challenged individuals, then screening will NOT be required, however, 
+       these individuals shall be under the constant supervision of an 
+       authorized company representative who shall hold the required level 
+       of ______ screening.
+
+6.     The Contractor shall comply with the provisions of:
+
+       a)     the Security Requirements Check List (SRCL), attached at 
+              Annex "_____" which includes a Security Guide; and
+
+       b)     the Industrial Security Manual (June 1992).
+
+
+</pre>

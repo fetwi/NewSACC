@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause must be used in conjunction with clause M2400D, Revision - General, 
+in the Standing Offer and Call-up Authority (SOCA), where applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Due to an unexpected increase in usage of this Standing Offer, DSS has 
+authorized continued usage of the offer, up to the new total estimated 
+expenditure level of $_____.  This level represents the best estimate of 
+the value of all call-ups expected to be placed by all Identified Users 
+utilizing this Standing Offer over the period from _____ up to and 
+including _____.
+
+</pre>

@@ -1,0 +1,13 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is used by Aerospace, Marine and Electronics Systems 
+Directorate, where applicable. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The prices quoted do not include the service of our engineer for 
+   supervising the installation of the equipment or for making the 
+   necessary adjustments to same after installation by others. Such 
+   services, if required, will be provided at a standard rate of $_____ per 
+   man per day plus travelling and living expenses reasonably and properly 
+   incurred in carrying out this Work, if such services are required 
+   outside of our place of manufacture.
+</pre>

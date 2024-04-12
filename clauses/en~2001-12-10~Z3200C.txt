@@ -1,0 +1,46 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts requiring the Production Progress Report, 
+DD Form 375, when the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract is from an agency other than the Defense 
+Industrial Supply Center (DISC).  Enter "
+  <abbr title="number">
+   No.
+  </abbr>
+  of copies" and "Name and Address" 
+from the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor shall prepare the <cite>DD Form 375</cite>, Production
+Progress Report, both on a monthly basis and exception to the
+Contract delivery schedule basis. DD Form 375 shall be submitted
+monthly and no later than the second work day of the subsequent
+month. DD Form 375 will be distributed as follows:</p>
+<table>
+<caption>DD Form 375 - Production Progress Report</caption>
+<tbody><tr>
+<th><abbr title="Number">No.</abbr> of copies</th>
+<th>Name and Address</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+</div></pre>

@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for articles of a special nature which may require 
+special production tooling.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.  The Contractor shall provide production tooling as listed in the 
+Schedule attached at a price, of $ _____.
+
+2.  Title to the tooling and any replacement shall vest in Canada.     The 
+Contractor shall maintain and repair such tooling during the course of the 
+Contract at its expense.
+
+3.  The Contractor shall take reasonable and proper care of the tooling and 
+   act as custodian of such tooling at no direct cost to Canada for a 
+   period of _____ days from the Contract completion date. If inhibiting 
+   and packaging charges are involved, then these shall be the subject of a 
+   new contract.
+</pre>

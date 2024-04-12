@@ -1,0 +1,121 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the DND requisition specifies Government Quality 
+Assurance at source and Allied Quality Assurance Publication AQAP-13, (NATO 
+Software Quality Control System Requirements) is required.
+
+Note:	This clause is to be used when the requisition contains only Quality 
+Assurance Code F (QAC-F).  For requisitions with more than one QAC use clause 
+D5538D. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the following requirements:
+
+a)     <strong>CANADIAN CONTRACTORS </strong>shall comply with the requirements of AQAP-13, 
+       NATO Software Quality Control System Requirements.
+
+b)     <strong>U.K., EUROPEAN and NATO CONTRACTORS </strong>shall comply with the 
+       requirements of AQAP-13, NATO Software Quality Control System 
+       Requirements.
+
+c)     <strong>U.S. CONTRACTORS </strong>shall comply with the non-tailored requirements of 
+       DOD-STD-2168, Defense System Software Quality Program, as well as 
+       the following requirements:
+
+       (1)    the requirements of DOD-STD-2168 shall also apply to 
+              non-deliverable software developed under the Contract, which 
+              affects the quality of the deliverable product unless 
+              specifically exempted;
+
+       (2)    the Contractor shall appoint in writing a management 
+              representative with the necessary authority to resolve 
+              matters pertaining to software quality to the satisfaction of 
+              the Quality Assurance Representative (QAR);
+
+       (3)    the Software Quality Program Plan (SQPP) shall identify and 
+              describe the organization, responsibilities, and authorities 
+              for its execution and all key functions.  The SQPP shall also 
+              identify and make timely provisions for special needs 
+              (controls, tools, facilities, skills, etc.) required for its 
+              execution.  The SQPP shall also identify the methods to be 
+              used for the detection, reporting, analysis, and correction 
+              of software problems and deficiencies;
+
+       (4)    the Contractor shall reference and document Software Quality 
+              Control (SQC) procedures related to corrective actions which 
+              shall include provision for controlling and accepting 
+              non-conforming software;
+
+       (5)    the procedures to be used for reviews by the Contractor shall 
+              include:
+
+              (i)    descriptions of the objective of each review, and
+
+              (ii)   methods for specifying non-scheduled reviews;
+
+       (6)    the Contractor shall identify the Configuration    Management 
+              (CM) procedures to be applied to software development.  
+              Specifically, the Contractor shall ensure that procedures 
+              exist to identify, document and control all software.  The 
+              procedures shall include a method for:
+
+              (i)    program and/or module version identification;
+
+              (ii)   obtaining approval to implement a modification;
+
+              (iii)  keeping secure masters;
+
+              (iv)   the provision of validated copies;
+
+              (v)    the proper marking, storage and handling of software 
+                     media;
+
+              (vi)   issuing computer program and/or module versions; and
+
+              (vii)  ensuring that non-conforming software is identified 
+                     and segregated.
+
+       (7)    the Contractor shall make provisions for identifying, 
+              documenting and validating applicable software support tools, 
+              techniques and methodologies to be used to support the 
+              development or maintenance of software.  The extent and depth 
+              of testing for support software shall also be defined;
+
+       (8)    the Contractor shall establish and maintain procedures for 
+              the storage of all purchaser supplied materiel provided for 
+              accomplishment of the Contract requirement;
+
+       (9)    SQC measures related to software integration and testing 
+              shall include:
+
+              (i)    analysis of software requirements and design to 
+                     determine testability;
+
+              (ii)   verification that tests are conducted in accordance 
+                     with approved test plans and procedures and that the 
+                     software is the correct version; and
+
+              (iii)  provision to witness tests and/or certification that 
+                     test results are actual and valid.
+
+       (10)   the Contractor shall identify the procedures for marking, 
+              handling, storing, preserving, packing and shipping to 
+              protect the integrity of the software products to be 
+              delivered; and 
+
+       (11)   the Contractor shall provide the QAR with the accommodation 
+              and facilities required for the proper accomplishment of his 
+              work, and shall provide assistance required by the QAR for 
+              verification, documentation, or release of materiel.  The 
+              Contractor shall make his support tools available for 
+              reasonable use by the QAR for verification purposes.  The 
+              Contractor's personnel shall be made available for operation 
+              of such support tools as required.
+
+In all cases, Quality Control, Inspection and Test records that 
+substantiate conformance to the specified requirements, including records 
+of corrective actions, shall be retained by the Contractor for three (3) 
+years from the date of the completion or termination of the Contract and 
+shall be made available to the QAR upon request.
+
+</pre>

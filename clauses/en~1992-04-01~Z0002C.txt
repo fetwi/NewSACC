@@ -1,0 +1,54 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  The contracting officer shall insert in solicitations and contracts the clause 
+at
+  <abbr title="Federal Acquisition Regulation">
+   FAR
+  </abbr>
+  52.247-32,
+  <abbr title="Free on Board">
+   FOB
+  </abbr>
+  Origin, Freight Prepaid, when the delivery term is
+  <abbr title="Free on Board">
+   FOB
+  </abbr>
+  origin, freight prepaid.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">Explanation of delivery term: "<dfn>FOB origin,
+freight prepaid</dfn>" means:
+<ol type="1">
+<li value="1">Free of expense to the Government, delivered
+<ol type="i">
+<li value="1">on board the indicated type of conveyance of the
+carrier (or of the Government, if specified) at a designated point
+in the city, county, and province or state from which the shipments
+will be made and from which line-haul transportation service (as
+distinguished from switching, local drayage, or other terminal
+service) will begin;</li>
+<li value="2">to, and placed on, the carrier's wharf (at shipside, within
+reach of the ship's loading tackle, when the shipping point is
+within a port area having water transportation service) or the
+carrier's freight station;</li>
+<li value="3">to a <abbr title="United States">U.S.</abbr>/Canadian postal service facility; or</li>
+<li value="4">if stated in the solicitation, to any Government-designated
+point located within the same commercial zone as the <abbr title="Free on Board">FOB</abbr> origin
+point specified in the Contract (commercial zones are prescribed by
+the <abbr title="United States">U.S.</abbr> Interstate Commerce Commission at 49 <abbr title="Code of Federal Regulations">CFR</abbr> 1048); and</li>
+</ol>
+</li>
+<li value="2">The cost of transportation, ultimately the
+Government's obligation, is prepaid by the Contractor to the point
+specified in the Contract.</li>
+</ol>
+</li>
+<li value="2">Contractor responsibilities. The Contractor's
+responsibilities are the same as those listed in <abbr title="Federal Acquisition Regulation">FAR</abbr> 47.303-1 (b),
+except that the Contractor shall prepare Commercial Bills of Lading
+or other transportation receipts and shall prepay all freight
+charges to the extent specified in the Contract.</li>
+</ol>
+</div></pre>

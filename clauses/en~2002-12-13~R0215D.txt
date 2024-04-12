@@ -1,0 +1,25 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Persons and companies in Canada, and Canadians outside of Canada, 
+       are bound by economic sanctions imposed by Canada.  As a result, the 
+       Government of Canada cannot accept delivery of goods or services 
+       that originate, either directly or indirectly, from the countries or 
+       persons subject to economic sanctions.  
+
+       Details on existing sanctions can be found at:
+       <strong class="wsStyleUnderline">http://www.dfait-maeci.gc.ca/trade/sanctions-e.asp</strong>
+
+2.     It is a condition of the Contract that the Contractor not supply to 
+       the Government of Canada any goods or services which are subject to 
+       economic sanctions.
+
+3.     By law, the Contractor must comply with changes to the regulations 
+       imposed during the life of the Contract.  During the performance of 
+       the Contract should the imposition of sanctions against a country or 
+       person or the addition of a good or service to the list of 
+       sanctioned goods or services cause an impossibility of performance 
+       for the Contractor, the Contractor may request that the Contract be 
+       terminated in accordance with GC41 of the General Conditions.
+
+</pre>

@@ -1,0 +1,12 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is mandatory in AMES contracts/standing offers and supply 
+arrangements with a fixed time rate component when DSS is responsible for 
+verifying the time charged.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall prepare and submit to the Contracting Authority with 
+the final billing, details of the actual time taken in performance of the _____ 
+(Contract, Standing Offer or Supply Arrangement).  This submission shall be 
+signed and certified by the Contractor's financial officer.
+
+</pre>

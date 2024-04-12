@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts which provide for payment in
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  funds.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The prices to be paid for supplies or services delivered under
+this Contract are in <abbr title="United States">U.S.</abbr> funds and shall not be subject to
+adjustment for losses or gains resulting from fluctuation in
+exchange rates, the risk of which is for the Contractor's
+account.</p>
+</div></pre>

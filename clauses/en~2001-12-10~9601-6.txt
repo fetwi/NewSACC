@@ -1,0 +1,476 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-6 00     (10/12/01)    Contractor to Own Intellectual Property Rights 
+                            in Foreground Information</strong>
+
+<strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Disclosure of Foreground Information
+03     Contractor to Own Intellectual Property Rights in Foreground 
+       Information 
+04     License to Intellectual Property Rights in Foreground Information
+05     License to Intellectual Property Rights in Background Information
+06     Right to License
+07     Transfer of Intellectual Property Rights in Foreground Information
+08     Sale, Assignment, Transfer or Licensing of Intellectual Property 
+       Rights in Foreground Information
+09     Access to Information; Exception to Contractor Rights
+10     Waiver of Moral Rights
+
+
+
+<strong>9601-6 01     (25/05/01)    Interpretation</strong>
+
+1.     In the Contract,
+
+       "Background Information" means all Technical Information that is not 
+       Foreground Information and that is proprietary to or the 
+       confidential information of the Contractor, its subcontractors or 
+       any other supplier of the Contractor;
+
+       "Commercial Exploitation in Competition with the Contractor" does 
+       not include exploitation by Canada or by any contractor where the 
+       good or service produced through such exploitation is for end use by 
+       Canada, nor does it include dissemination or distribution by Canada 
+       to persons or to other governments at or below cost of any good or 
+       service delivered under the Contract or produced through such 
+       exploitation;
+
+       "Firmware" means any computer program stored in integrated circuits, 
+       read-only memory or other similar devices;
+
+       "Foreground Information" means any Invention first conceived, 
+       developed or reduced to practice as part of the Work under the 
+       Contract and all other Technical Information conceived, developed or 
+       produced as part of the Work under the Contract;
+
+       "General Conditions" means General Conditions - Long Form, DSS-MAS 
+       9601;
+
+       "Intellectual Property Right" means any intellectual property right 
+       recognized by the law, including any intellectual property right 
+       protected through legislation (such as that governing patents, 
+       copyright, industrial design, integrated circuit topography, or 
+       plant breeders' rights) or arising from protection of information as 
+       a trade secret or as confidential information;
+
+       "Invention" means any new and useful art, process, machine, 
+       manufacture or composition of matter, or any new and useful 
+       improvement in any art, process, machine, manufacture or composition 
+       of matter, whether or not patentable;
+
+       "Software" means any computer program whether in source or object 
+       code (including Firmware), any computer program documentation 
+       recorded in any form or upon any medium, and any computer database, 
+       and includes modifications to any of the foregoing;
+
+       "Technical Information" means all information of a scientific, 
+       technical or artistic nature  relating to the Work, whether oral or 
+       recorded in any form or medium and whether or not subject to 
+       copyright, including but not limited to any Inventions, designs, 
+       methods, processes, techniques, know-how, models, prototypes, 
+       patterns, samples, schematics, experimental or test data, reports, 
+       drawings, plans, specifications, photographs, collections of 
+       information, manuals and any other documents, and Software.  
+       Technical Information does not include data concerned with the 
+       administration of the Contract by Canada or the Contractor, such as 
+       internal financial or management information, unless it is a 
+       deliverable under the Contract.
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these Supplemental General Conditions shall have the meanings 
+       assigned to them in the General Conditions.
+
+3.     In the event of any inconsistency between the General Conditions and 
+       these Supplemental General Conditions, the applicable provisions of 
+       these Supplemental General Conditions shall prevail.
+
+4.     The General Conditions are amended by deleting the section entitled 
+       "Copyright" in its entirety.
+
+
+<strong>9601-6 02     (25/05/01)    Disclosure of Foreground Information</strong>
+
+1.     The Contractor shall promptly report and fully disclose to the 
+       Minister all Foreground Information that could be Inventions, and 
+       shall report and fully disclose to the Minister all other Foreground 
+       Information not later than the time of completion of the Work or 
+       such earlier time as the Minister or the Contract may require.
+
+2.     The Contractor shall, in each disclosure under this section, 
+       indicate the names of all Subcontractors at any tier, if any, in 
+       which Intellectual Property Rights to any Foreground Information 
+       have vested or will vest. 
+3.     Before and after final payment to the Contractor, the Minister shall 
+       have the right to examine all records and supporting data of the 
+       Contractor which the Minister reasonably deems pertinent to the 
+       identification of Foreground Information.
+
+
+<strong>9601-6 03     (25/05/01)    Contractor to Own Intellectual Property Rights 
+                            in Foreground Information</strong>
+
+1.     Subject to subsection 3 and section 07 (Transfer of Intellectual 
+       Property Rights in Foreground Information ), and without affecting 
+       any Intellectual Property Rights or interests therein that have come 
+       into being prior to the Contract or that relate to information or 
+       data supplied by Canada for purposes of the Contract, all 
+       Intellectual Property Rights in the Foreground Information shall 
+       immediately, as soon as they come into existence, vest in and remain 
+       the property of the Contractor.
+
+2.     Notwithstanding the Contractor's ownership of the Intellectual 
+       Property Rights in Foreground Information that is a prototype, model 
+       or custom or customized system or equipment together with associated 
+       manuals and other operating and maintenance documents and tools, 
+       Canada shall have unrestricted ownership rights in those 
+       deliverables, including the right to make them available for public 
+       use, whether for a fee or otherwise, and, except in the case of 
+       Software that is not necessary for the operation of the prototype, 
+       model or system or equipment, the right to sell them.
+
+3.     (a)    Where the Work under the Contract involves the preparation of 
+              a database or other compilation using information or data 
+              supplied by Canada or personal information referred to in 
+              paragraph (b), then the Intellectual Property Rights that 
+              shall vest under subsection 1 shall be restricted to the 
+              Intellectual Property Rights in Foreground Information that 
+              is capable of being exploited without the use of the 
+              information or data supplied by Canada or such personal 
+              information.  All Intellectual Property Rights in any 
+              database or other compilation, the Foreground Information in 
+              which cannot be exploited without the use of such information, 
+              data, or personal information, shall vest in Canada.  The 
+              Contractor agrees that it shall not use or disclose any such 
+              information or data or personal information for any purpose 
+              other than completing the Work under the Contract, and shall 
+              not dispose of it except by returning it to Canada.  The 
+              Contractor shall comply with the General Conditions of the 
+              Contract in regard to maintaining the confidentiality of such 
+              information, data or personal information.  Unless the 
+              Contract otherwise expressly provides, the Contractor shall 
+              deliver to Canada all such information, data or personal 
+              information, together with every copy, draft, working paper 
+              and note thereof that contains such information, data, or 
+              personal information, upon the completion or termination of 
+              the Contract or at such earlier time as the Minister may 
+              require.
+
+       (b)    Notwithstanding subsection 1, if the Work under the Contract 
+              involves the collection of personal information as that term 
+              is defined in the <em>Privacy Act</em> (R.S.C., c. P-21), then all 
+              Intellectual Property Rights in and title to that personal 
+              information shall, immediately upon the collection of it by 
+              the Contractor, vest in Canada, and the Contractor shall have 
+              no right or interest in it.
+
+
+<strong>9601-6 04     (25/05/01)    License to Intellectual Property Rights in 
+                            Foreground Information</strong>
+
+1.     In consideration of Canada's contribution to the cost of development 
+       of the Foreground Information, the Contractor hereby grants to 
+       Canada a non-exclusive, perpetual, irrevocable, world-wide, 
+       fully-paid and royalty-free license to  exercise all Intellectual 
+       Property Rights in the Foreground Information that vest in the 
+       Contractor pursuant to section 03, for any public purpose except 
+       Commercial Exploitation in Competition with the Contractor.  Canada'
+       s license to the Intellectual Property Rights in the Foreground 
+       Information also includes the right to disclose the Foreground 
+       Information to other governments for information purposes only.  The 
+       Intellectual Property Rights arising from any modification, 
+       improvement, development or translation of the Foreground 
+       Information that is effected by or for Canada in the exercise of 
+       this license shall vest in Canada, or in such person as Canada shall 
+       decide.
+
+2.     The Contractor acknowledges that Canada may wish to award contracts 
+       for any of the purposes contemplated in subsection 1 and that such 
+       contract awards may follow a competitive process.  The Contractor 
+       agrees that Canada's license in relation to the Intellectual 
+       Property Rights in the Foreground Information that vest in the 
+       Contractor pursuant to section 03, includes the right to disclose 
+       the Foreground Information to bidders for such contracts, and to 
+       sub-license or otherwise authorize the use of that information by 
+       any contractor engaged by Canada solely for the purpose of carrying 
+       out such a contract. Canada shall require the bidder or the 
+       contractor not to use or disclose any Foreground Information except 
+       as may be necessary to bid for or to carry out that contract.
+
+3.     For greater certainty and without limiting the generality of 
+       subsections 1 and 2, Canada's right to modify, improve, translate, 
+       reproduce or further develop any Foreground Information pursuant to 
+       subsections 1 and 2:
+
+       (a)    applies to Foreground Information that is Software, 
+              notwithstanding any terms to the contrary delivered by the 
+              Contractor with any deliverable, including the wording on any 
+              shrink-wrapped license attached to any deliverable; and
+
+       (b)    includes the right to reproduce and use Foreground 
+              Information that is Software, or any modified or improved or 
+              translated or further developed form of it, on any and all 
+              computer systems owned, leased or operated by Canada anywhere 
+              in the world.
+
+4.     Notwithstanding subsections 1, 2, and 3, if any Foreground 
+       Information arises solely from correction by the Contractor of 
+       errors in Background Information that is Software, or from minor 
+       modifications made by the Contractor to such Software, then the 
+       license set out in subsections 1, 2 and 3<strong> </strong>shall not apply to that 
+       Foreground Information and, unless otherwise agreed, the license 
+       that applies to such Background Information shall apply to that 
+       Foreground Information.
+
+5.     Where the Intellectual Property Rights in any Foreground Information 
+       are or will be owned by a Subcontractor at any tier, the Contractor 
+       shall either obtain a license from that Subcontractor that permits 
+       compliance with subsections 1, 2 and 3 or arrange for the 
+       Subcontractor to convey directly to Canada the same rights by 
+       execution of the form provided for that purpose by the Minister, in 
+       which case the Contractor shall deliver that form to the Minister, 
+       duly completed and executed by the Subcontractor, no later than the 
+       time of disclosure to Canada of that Foreground Information.
+
+6.     If the Contractor wishes to make use of any Canada-owned information 
+       that was supplied for purposes of the Contract, for the commercial 
+       exploitation or further development of any of the Foreground 
+       Information, then the Contractor may make a written request for a 
+       license to exercise the required Intellectual Property Rights in 
+       that Canada-owned information, to the minister for whose department 
+       or agency the Work is being or was carried out. The Contractor shall 
+       give that minister<strong> </strong>an explanation as to why such a license is 
+       required.  That minister shall respond in writing to the request 
+       within a reasonable period of time.  If the request is refused, the 
+       response shall provide an explanation for the refusal. Should that 
+       minister agree to grant such a license, it shall be on terms and 
+       conditions to be negotiated between the Contractor and that minister.  
+       It is understood that those terms may include payment of 
+       compensation to Canada.
+
+7.     The Contractor may apply to the minister for whose department or 
+       agency the Work is being or was carried out for a license to 
+       commercially exploit a translation of the Foreground Information 
+       which is effected by or for Canada, subject to the same restrictions 
+       and obligations as apply under the Contract to commercial 
+       exploitation of the Foreground Information that was translated.<strong>  </strong>Any 
+       such license shall be on terms and conditions to be negotiated 
+       between the Contractor and that minister.  It is understood that 
+       those terms may include payment of compensation to Canada.
+
+
+<strong>9601-6 05     (10/12/01)    License to Intellectual Property Rights in 
+                            Background Information</strong>
+
+1.     Without restricting the scope of any license or other right in the 
+       Background Information that Canada may otherwise hold, the 
+       Contractor hereby grants to Canada, in relation to any 
+       custom-designed or custom-manufactured part of the Work, a 
+       non-exclusive, perpetual, irrevocable, worldwide, fully-paid and 
+       royalty-free license to exercise such of the Intellectual Property 
+       Rights in any Background Information incorporated into the Work or 
+       necessary for the performance of the Work as may be required for the 
+       following purposes:
+
+       (a)    for the use, operation, maintenance, repair or overhaul of 
+              the custom-designed or custom-manufactured parts of the Work;
+
+       (b)    in the manufacturing of spare parts for maintenance, repair 
+              or overhaul of any custom-designed or custom-manufactured 
+              part of the Work by Canada if those parts are not available 
+              on reasonable commercial terms to enable timely maintenance, 
+              repair or overhaul;
+
+       (c)    for disclosure to any contractor engaged by Canada (or bidder 
+              for such a contract) to be used solely for a purpose set out 
+              in paragraph (a) or (b), but in the case of paragraph (b), 
+              only if the Contractor is unable or unwilling to provide the 
+              spare parts on reasonable commercial terms and within 
+              reasonable delivery times;
+
+       and the Contractor agrees to make any such Background Information 
+       (including, in the case of Software, source code) promptly available 
+       to Canada for any such purpose.
+
+2.     Notwithstanding subsection 1, the license set out therein shall not 
+       apply to any Software that is subject to detailed license conditions 
+       that are set out elsewhere in the Contract. Furthermore, in the case 
+       of commercial off-the-shelf software, the Contractor's obligation to 
+       make the source code promptly available to Canada for a purpose set 
+       out in subsection 1 shall apply only to source code that is within 
+       the control of or can be obtained by the Contractor or any 
+       Subcontractor, and in that event the Contractor shall, if requested 
+       by Canada, make the source code available to Canada within 
+       reasonable delivery times and on reasonable other commercial terms.
+
+3.     Canada may wish to award contracts to third party contractors under 
+       subsection 1, and such contract awards may follow a competitive 
+       process. The Contractor agrees that Canada's license in relation to 
+       the Intellectual Property Rights in Background Information includes 
+       the right to disclose the Background Information to bidders for such 
+       contracts, and to sublicense or otherwise authorize the use of that 
+       information by any contractor engaged by Canada solely for the 
+       purpose of carrying out such a contract. Canada shall require 
+       bidders and the contractor not to use or disclose any Background 
+       Information except as may be necessary to bid for or to carry out 
+       that contract.
+
+4.     Where the Intellectual Property Rights in any Background Information 
+       are owned by a Subcontractor at any tier, the Contractor shall 
+       either obtain a license from that Subcontractor that permits 
+       compliance with subsection 1 or arrange for the Subcontractor to 
+       convey directly to Canada the same rights by execution of the form 
+       provided for that purpose by the Minister, in which case the 
+       Contractor shall deliver that form to the Minister, duly completed 
+       and executed by the Subcontractor, no later than the time of 
+       disclosure to Canada of that Background Information.
+
+
+<strong>9601-6 06     (10/12/01)    Right to License</strong>
+
+The Contractor represents and warrants that the Contractor has, or the 
+Contractor shall obtain, without delay, the right to grant to Canada the 
+license to exercise the Intellectual Property Rights in the Foreground 
+Information and the Background Information as required by the Contract.
+
+
+<strong>9601-6 07     (25/05/01)    Transfer of Intellectual Property Rights in 
+                            Foreground Information</strong>
+
+1.     Until the Contractor completes the Work and discloses all of the 
+       Foreground Information in accordance with section 02 (Disclosure of 
+       Foreground Information), the Contractor shall not, without the prior 
+       written permission of the Minister, sell, assign or otherwise 
+       transfer title to the Intellectual Property Rights in any Foreground 
+       Information, or license or otherwise authorize the use of the 
+       Intellectual Property Rights in any of the Foreground Information by 
+       any person.
+
+2.     If Canada terminates the Contract in whole or in part for default, 
+       or if the Contractor fails to disclose any Foreground Information in 
+       accordance with section 02, the Minister may, by notice given not 
+       later than 90 days from the date of termination or from the date 
+       Canada learns of the failure to disclose, as the case may be, 
+       require the Contractor to convey to Canada all of the Intellectual 
+       Property Rights in the Foreground Information or, in the case of a 
+       notice based on failure to disclose, all of the Intellectual 
+       Property Rights in the Foreground Information not disclosed.  In the 
+       case of either notice, the rights to be conveyed shall include the 
+       Intellectual Property Rights in any Foreground Information that have 
+       vested or are to vest in a Subcontractor at any tier.  In the case 
+       of Intellectual Property Rights in Foreground Information which have 
+       been sold or assigned to a party other than a Subcontractor at any 
+       tier, the Contractor shall not be obligated to convey rights to 
+       Canada in accordance with this subsection, but shall pay to Canada 
+       on demand an amount equal to the consideration which the Contractor 
+       received from the sale or assignment of the Intellectual Property 
+       Rights in that Foreground Information or, in the case of a sale or 
+       assignment that was not at arm's length, the fair market value of 
+       the Intellectual Property Rights in that Foreground Information, in 
+       each case including the value of future royalties or license fees.
+
+3.     In the event of the issuance by the Minister of a notice under 
+       subsection 2, the Contractor shall, at its own expense and without 
+       delay, execute such conveyances or other documents relating to title 
+       to the Intellectual Property Rights as the minister for whose 
+       department or agency the Work is being or was carried out may 
+       require, and the Contractor shall, at Canada's expense, afford that 
+       minister all reasonable assistance in the preparation of 
+       applications and in the prosecution of any applications for, or any 
+       registration of, any Intellectual Property Right in any jurisdiction, 
+       including without limitation the assistance of the inventor in the 
+       case of Inventions.
+
+
+<strong>9601-6 08     (25/05/01)    Sale, Assignment, Transfer or Licensing of 
+                            Intellectual Property Rights in Foreground 
+                            Information</strong>
+
+1.     In any sale, assignment, transfer or license of Intellectual 
+       Property Rights in Foreground Information by the Contractor except a 
+       sale or license for end use of a product based on Foreground 
+       Information, the Contractor shall impose on the other party all of 
+       its obligations to Canada in relation to the Intellectual Property 
+       Rights in the Foreground Information and any restrictions set out in 
+       the Contract on the use or disposition of the Intellectual Property 
+       Rights in the<strong> </strong>Foreground Information (and, if applicable, the 
+       Foreground Information), including the obligation to impose the same 
+       obligations and restrictions on any subsequent transferee, assignee 
+       or licensee<strong>.</strong>
+
+2.     The Contractor shall promptly notify Canada of the name, address and 
+       other pertinent information in regard to any transferee, assignee or 
+       licensee referred to in subsection 1, and shall ensure that such 
+       party is required to do the same with regard to any subsequent 
+       transferee, assignee or licensee.
+
+3.     The Contractor shall not charge or permit any person to charge a 
+       royalty or other fee to Canada in respect of the Intellectual 
+       Property Rights in any Foreground Information for purposes of a 
+       contract or other arrangement with Canada.  Where the contract or 
+       other arrangement is for a product based on Foreground Information 
+       or on any modification or improvement thereof, the Contractor shall 
+       grant to Canada a reasonable credit against its commercial price for 
+       that product to take into account Canada's financial contribution 
+       toward the development of the product, and in the case of a product 
+       owned by a transferee, assignee or licensee of the Intellectual 
+       Property Rights in any Foreground Information, the Contractor shall 
+       ensure that such party is required to do the same.
+
+
+<strong>9601-6 09     (25/05/01)    Access to Information; Exception to Contractor 
+                            Rights</strong>
+
+1.     Subject to the <em>Access to Information Act</em>, R.S.C., c. A-1 and to any 
+       right of Canada under the Contract to release or disclose, Canada 
+       shall not release or disclose outside the Government of Canada any 
+       information delivered to Canada under the Contract that is 
+       confidential information or a trade secret of the Contractor or a 
+       Subcontractor.
+
+2.     Notwithstanding subsection 1, nothing in these terms and conditions 
+       shall be construed as limiting Canada's right to exercise the 
+       Intellectual Property Rights in any Foreground Information or any 
+       Background Information, or to disclose any Foreground Information or 
+       any Background Information, to the extent that such information:
+
+       (a)    is or becomes in the public domain, or to the extent that the 
+              Contractor does not benefit from or ceases to benefit from 
+              any Intellectual Property Rights protection for such 
+              information under legislation or at law (other than under the 
+              terms of the Contract), for any reason including as a result 
+              of Canada's use or disclosure of deliverables under the 
+              Contract for any purpose whatever that is not expressly 
+              excluded under the Contract;
+
+       (b)    is or becomes known to Canada from a source other than the 
+              Contractor, except from any source that is known to Canada to 
+              be under an obligation to the Contractor not to disclose the 
+              information;
+
+       (c)    is independently developed by or for Canada; or 
+
+       (d)    is disclosed under compulsion of a legislative requirement or 
+              any order of a court or other tribunal having jurisdiction.
+
+
+<strong>9601-6 10     (25/05/01)    Waiver of Moral Rights</strong>
+
+1.     The Contractor shall obtain a written permanent waiver of moral 
+       rights (as this term is defined in the <em>Copyright Act</em>, R.S.C., c. 
+       C-42), in a form acceptable to the Minister, from every author that 
+       contributes to any Foreground Information which is subject to 
+       copyright protection and which is deliverable to Canada under the 
+       terms of the Contract.  At the request of the Minister (be it at the 
+       completion of the Work or at any other time as the Minister may 
+       require), the Contractor shall provide the written waiver(s) of 
+       moral rights to the Minister.
+
+2.     If the Contractor is an author of the Foreground Information 
+       referred to in subsection 1, the Contractor hereby permanently 
+       waives the Contractor's moral rights in that Foreground Information.
+
+
+</pre>

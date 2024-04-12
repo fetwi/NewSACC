@@ -1,0 +1,60 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  As prescribed in
+  <abbr title="Federal Acquisition Regulation">
+   FAR
+  </abbr>
+  45.106(d), insert the following clause in solicitations and contracts when a fixed-price, time-and-material, or labour-hour contract is 
+contemplated and that the acquisition cost of all Government-furnished property 
+to be involved in the contract is $50,000 or less; unless a contract with an 
+educational or nonprofit organization is contemplated.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">The <abbr title="United States">U.S.</abbr> Government shall deliver to the Contractor,
+at the time and locations stated in this Contract, the
+Government-furnished property described in the Schedule or
+specifications. If that property, suitable for its intended use, is
+not delivered to the Contractor, the Contracting Officer shall
+equitably adjust affected provisions of this Contract in accordance
+with the Changes clause, if applicable, or the clause that
+establishes procedures for amending the Contract, when:
+<ol type="1">
+<li value="1">the Contractor submits a timely written request for
+an equitable adjustment; and</li>
+<li value="2">the facts warrant an equitable adjustment.</li>
+</ol>
+</li>
+<li value="2">Title to Government-furnished property shall remain
+in the <abbr title="United States">U.S.</abbr> Government. The Contractor shall use the
+Government-furnished property only in connection with this
+Contract. The Contractor shall maintain adequate property control
+records in accordance with sound industrial practice and will make
+such records available for <abbr title="Canadian Commercial Corporation">CCC</abbr> or <abbr title="United States">U.S.</abbr> Government inspection at all
+reasonable times, unless the clause at <cite>Federal Acquisition
+Regulation</cite> 52.245-1, Property Records, is included in this
+Contract.</li>
+<li value="3">Upon delivery of Government-furnished property to the
+Contractor, the Contractor assumes the risk and responsibility for
+its loss or damage, except:
+<ol type="1">
+<li value="1">for reasonable wear and tear;</li>
+<li value="2">to the extent property is consumed in performing this
+Contract; or</li>
+<li value="3">as otherwise provided for by the provisions of this
+Contract.</li>
+</ol>
+</li>
+<li value="4">Upon completing this Contract, the Contractor shall
+follow the instructions of the Contracting Officer regarding the
+disposition of all Government-furnished property not consumed in
+performing this Contract or previously delivered to <abbr title="Canadian Commercial Corporation">CCC</abbr> or the <abbr title="United States">U.S.</abbr>
+Government. The Contractor shall prepare for shipment, deliver <abbr title="Free on Board">FOB</abbr>
+origin, or dispose of the Government property, as may be directed
+or authorized by the Contracting Officer. The net proceeds of any
+such disposal shall be credited to the Contract Price or shall be
+paid to <abbr title="Canadian Commercial Corporation">CCC</abbr> or the <abbr title="United States">U.S.</abbr> Government as directed by the Contracting
+Officer.</li>
+</ol>
+</div></pre>

@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used when budget funds are limited. It is generally used in 
+conjunction with A0005T, A0200T, or a shorter version of the latter.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The funding for this project is limited to $_____ (Goods and Services Tax 
+extra or Harmonized Sales Tax extra, as appropriate). Bids valued in excess 
+of this amount will be considered non-responsive. This disclosure of 
+project funds does not commit Canada to pay such an amount.
+
+</pre>

@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Labour rate to be calculated in accordance with standard rates established 
+by the:
+
+(  ) Manufacturer's Flat Rate Manual 
+(  ) Chilton Labour Guide 
+(  ) Motors Flat Rate Manual 
+(  ) Other Publications, specify: _____
+</pre>

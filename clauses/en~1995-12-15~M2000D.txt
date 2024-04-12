@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Offeror shall provide Canada with Temporary Help Services in accordance 
+with Canadian General Standards Board standard CAN/CGSB-168.1 and the 
+provisions of the Standing Offer. Services requested and requisitioned by 
+individual departments and agencies shall include:
+
+<strong>Professional Category</strong>
+
+101.LS        Librarians
+
+<strong>Administrative Category</strong>
+
+201.IS        Information Services Personnel
+202.AS        Administrative Services
+203.PM        Program Administration Personnel
+
+<strong>Technical Category</strong>
+
+301.DD        Drafting and Illustrating Personnel
+302.EG-ESS    Engineering and Scientific Personnel
+303.SI        Library Technicians
+304.EL        Electronics
+
+<strong>Operational Category</strong>
+
+501.GL-ELE    General Labourers and Trades Helper
+502.GS-STS    Stores Services Personnel
+
+
+</pre>

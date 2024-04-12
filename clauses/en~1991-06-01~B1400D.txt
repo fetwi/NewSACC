@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Materiel shall be new production of current manufacture.  Age limitations 
+   at the date of delivery, as prescribed in _____ shall be observed on all _____ 
+   items, accessories, components, and assemblies.  For specific 
+   application, refer to _____. 
+</pre>

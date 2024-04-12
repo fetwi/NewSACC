@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when there is a requirement to identify a project authority in 
+the solicitation and contract documents. Procurement officers are to enter 
+fill-in information as appropriate and as stated on the requisition.  The 
+responsibility of the project authority should be described in the statement of 
+work.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Project Authority for the Contract is:
+
+Name: _____
+Title: _____
+Organization: _____
+Address: _____
+
+</pre>

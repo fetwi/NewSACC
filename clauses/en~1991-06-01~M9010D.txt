@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The list of DSS/CADG offices including the names and telephone numbers of 
+   the responsible contacts is attached as Appendix "__".  It is the 
+   responsibility of the requesting department or agency to contact the 
+   appropriate representative of CADG to establish availability of materiel. 
+</pre>

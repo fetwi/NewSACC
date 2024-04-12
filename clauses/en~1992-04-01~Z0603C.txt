@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in production Contracts when data is to be provided.    
+   
+
+NOTE: As the normal procedures do not apply, the SSC contracting officer must 
+make necessary arrangements for inspection with the U.S. Contracting Officer 
+named in the U.S. contract, or with the DND QAR if inspection of the data items 
+is to be at source.  
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Prior to proceeding with preparation of drafts of handbooks, drawings, 
+   publications or other technical data to be  supplied under this Contract, 
+   the Contractor shall contact the CCC Contracting Officer in order that 
+   appropriate arrangements can be made with the cognizant U.S. agency for 
+   specification interpretation and for preliminary inspection of draft 
+   copies of such items.    
+</pre>

@@ -1,0 +1,128 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to detail evaluation criteria in bid solicitations for projects 
+and services requirements. THIS CLAUSE IS TO BE USED AS A GUIDE ONLY. Minimum 
+point ratings must be specified for each criterion and/or group of criteria as 
+required by the situation. This is to be done by selecting either (a), (b) or 
+(c) choices as indicated at the beginning of the clause and deleting the (a), 
+(b), or (c) choices that are not applicable. Maximum point ratings must be 
+specified for each group of criteria as appropriate. Criteria which are 
+MANDATORY are to be set out as appropriate within each of the groupings. Use in 
+conjunction with A0265T, A0270T or A0275T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Each bid will be evaluated and scored in accordance with the following 
+criteria. In order to be considered further, bids must achieve...
+
+<strong>       [**PROCUREMENT OFFICERS ARE TO CHOOSE ONE OF THE FOLLOWING A), B)<strong><strong><strong> OR </strong></strong></strong>
+       C) CHOICES AND DELETE THE ONES FROM A), B)<strong><strong><strong> OR </strong></strong></strong>C) THAT ARE NOT 
+       APPLICABLE**]</strong>
+
+       (a)    the specified minimum points for each rated criterion and 
+              group of criteria.
+       (b)    the specified minimum points for each group of criteria.
+       (c)    the specified minimum points for the overall bid.
+
+1.     TECHNICAL PROPOSAL
+
+       (a)    MANDATORY CRITERIA:
+              _____
+
+       (b)    POINT-RATED CRITERIA:  (maximum _____ points, minimum _____ 
+              points)
+ 
+              (i)    understanding of scope and objectives (_____ points)
+
+              (ii)   proposed work feasibility, approach and methodology (_____ 
+                     points)
+
+              (iii)  recognition of problems and adequacy of solutions 
+                     proposed (_____ points)
+
+              (iv)   human resources asserted to be required by bidder:
+
+                     (1)    level of competence (_____ points)
+
+                     (2)    level of effort (_____ points)
+
+              (v)    human ressources offered:
+
+                     (1)    team organization planned (_____ points)
+
+                     (2)    backup offered (_____ points)
+
+              (vi)   technical capability of the firm:
+
+                     (1)    references on similar work (_____ points)
+
+                     (2)    language, systems, software, facilities to be 
+                            used (_____ points).
+
+              _____
+
+2.     MANAGEMENT PROPOSAL
+
+       (a)    MANDATORY CRITERIA:
+
+              _____
+
+       (b)    POINT-RATED CRITERIA:  (maximum _____ points, minimum _____ 
+              points)
+
+              (i)    work plan time schedule (_____ points)
+
+              (ii)   quality/control plan (_____ points)
+
+              (iii)  project manager capability:
+
+                     (1)    relevant experience, qualifications (_____ 
+                            points)
+ 
+                     (2)    references (_____ points)
+
+              (iv)   demonstration of availability of team members and 
+                     backup (_____ points).
+
+              _____
+
+3.     FINANCIAL PROPOSAL
+
+       (a)    MANDATORY CRITERIA:
+
+              _____
+
+       (b)    POINT-RATED CRITERIA:  (maximum _____ points, minimum _____ 
+              points)
+
+              (i)    compliance with proposed pricing methods (_____ points)
+
+              (ii)   acceptance of other proposed terms and conditions as 
+                     mentioned in the bid solicitation (_____ points)
+
+              (iii)  capability of the bidder to finance the performance of 
+                     the work (_____ points)
+
+              (iv)   socio-economic factors (Canadian industrial performers, 
+                     Canadian Content) (_____ points)
+
+              _____
+
+4.     GENERAL
+
+       (a)    MANDATORY CRITERIA:
+
+              (i)    compliance with all other bid solicitation mandatory 
+                     requirements
+
+              ____
+
+       (b)    POINT-RATED CRITERIA:  (maximum _____ points, minimum _____ 
+              points)
+
+              (i)    compliance with other bid solicitation desirable 
+                     requirements (_____ points)
+
+              _____
+
+5.     TOTAL:  (maximum _____ points, minimum _____ points ).
+
+</pre>

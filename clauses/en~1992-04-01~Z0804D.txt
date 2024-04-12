@@ -1,0 +1,46 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  As prescribed in
+  <abbr title="Federal Acquisition Regulation">
+   FAR
+  </abbr>
+  45.106(c), insert the following clause, in addition to 
+clause
+  
+   Z0801C
+  
+  , Government Property, in solicitations and contracts when a 
+fixed-price construction Contract is contemplated under which the Government is 
+to furnish Government property
+  <abbr title="Free on Board">
+   FOB
+  </abbr>
+  railway cars at a specified destination or
+  <abbr title="Free on Board">
+   FOB
+  </abbr>
+  truck at the project site. The Contract Schedule shall specify the point of delivery and may include special terms and conditions covering installation, preparation for operation, or equipment testing by the Government or by another contractor.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">The <abbr title="United States">U.S.</abbr> Government will furnish to the Contractor
+the property identified in the Schedule to be incorporated or
+installed into the Work or used in performing the Contract. The
+listed property will be furnished <abbr title="Free on Board">FOB</abbr> railway cars at the place
+specified in the Contract Schedule or <abbr title="Free on Board">FOB</abbr> truck at the project
+site. The Contractor is required to accept delivery, pay any
+demurrage or detention charges, and unload and transport the
+property to the job site at its own expense. When the property is
+delivered, the Contractor shall verify its quantity and condition
+and acknowledge receipt in writing to the Contracting Officer. The
+Contractor shall also report in writing to the Contracting Officer
+within twenty-four (24) hours of delivery any damage to or shortage
+of the property as received. All such property shall be installed
+or incorporated into the Work at the expense of the Contractor,
+unless otherwise indicated in this Contract.</li>
+<li value="2">Each item of property to be furnished under this
+clause shall be identified in the Schedule by quantity, item, and
+description.</li>
+</ol>
+</div></pre>

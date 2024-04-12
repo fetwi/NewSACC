@@ -1,0 +1,33 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations where bid financial security is 
+required.  Contracting officers should insert percentages and amounts in section 
+4 . Refer to procedure 6.279, Bid/Contract Security (Financial), in the Supply 
+Manual. Copies of the annexes referred to in this clause can be found in the 
+Supply Manual under "Annexes".
+
+This clause is to be used in conjunction with E0008D, Definitions.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Bid financial security is required and shall consist of:
+
+       (a)    a security deposit as defined hereunder, 
+
+       (b)    or a bid bond issued by a surety listed in Annex 7.2, 
+              Acceptable Bonding Companies, on the format shown as Annex 7.1, 
+              Bid Bond, attached hereto. 
+
+2.     Security deposits in the form of coupon bonds must have attached 
+       thereto all coupons that are unmatured at the time such bonds are 
+       delivered to Canada. Canada may, from time to time detach matured 
+       coupons and send them to the bidder at the address noted on the bid, 
+       unless advised otherwise by the Contractor.
+
+3.     Where the bid price is $250,000 or less, the security deposit shall 
+       be _____ percent thereof. Where the bid price exceeds $250,000, the 
+       security deposit shall be $_____ plus _____ percent of the amount by 
+       which the bid price exceeds $250,000, to a maximum of $ _____. 
+
+4.     Bidders who supply a security deposit as bid security are required 
+       to submit their bids under seal (does not apply in Quebec).
+
+</pre>

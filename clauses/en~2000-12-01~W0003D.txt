@@ -1,0 +1,18 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  This clause is to be used in both solicitations and standing offers/contracts 
+involving delivery locations outside Comprehensive Land Claims Settlement Areas 
+when the term "
+  <abbr title="Free on Board">
+   FOB
+  </abbr>
+  Destination" is used and the procurement is for unspecified 
+destinations.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Any reference within this document to "<abbr title="Free on Board">FOB</abbr> Destination any point
+in Canada" or "<abbr title="Free on Board">FOB</abbr> Destination/Region" shall apply only to
+destinations which are not within a Comprehensive Land Claims
+Settlement Area.</p>
+</div></pre>

@@ -1,0 +1,41 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 9, <cite>Co-operation Agreement between the Inuvialuit Regional
+Corporation (IRC) and the Department of National Defence Concerning the
+Operation and Maintenance of the North Warning System (NWS)</cite>,
+clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">4.2</span> For the purposes of this
+subsection, Inuvialuit are defined as per subsection 16.1 of the <abbr title="Inuvialuit Final Agreement">IFA</abbr>.
+<ol type="a">
+<li value="1">It is agreed that <abbr title="Department of National Defence">DND</abbr> and the Inuvialuit Regional
+Corporation (IRC) shall use their best efforts to identify, and
+advise the Inuvialuit of, actual and potential business
+opportunities arising out of <abbr title="Operation and Maintenance">O&amp;M</abbr> activities in the Inuvialuit
+Settlement Region (ISR), and to facilitate Inuvialuit involvement
+in such activities in the <abbr title="Inuvialuit Settlement Region">ISR</abbr>, and to facilitate Inuvialuit
+involvement in such activities by following the procedures set out
+in this subsection.</li>
+<li value="3">Where a substantial portion (i.e. more than 50
+percent) of the work in a Contract is within the <abbr title="Inuvialuit Settlement Region">ISR</abbr> <abbr title="North Warning System">NWS</abbr> <abbr title="Operation and Maintenance">O&amp;M</abbr>
+Contractors and Subcontractors will first solicit bids from
+qualified businesses on the list of Inuvialuit firms provided by
+the <abbr title="Inuvialuit Regional Corporation">IRC</abbr> pursuant to paragraph 4.2b. This process shall not limit
+other qualified Inuvialuit firms from bidding as well. At the same
+time, solicitation documents shall also be provided to the <abbr title="Inuvialuit Regional Corporation">IRC</abbr>. <abbr title="Department of National Defence">DND</abbr>, <abbr title="Department of Supply and Services">DSS</abbr>, and its <abbr title="Operation and Maintenance">O&amp;M</abbr> Contractors shall be held blameless if
+qualified Inuvialuit businesses were not solicited because their
+name did not appear on the list provided by the <abbr title="Inuvialuit Regional Corporation">IRC</abbr>. ased on
+demonstrated performance, Inuvialuit businesses may be added or
+deleted form the list.</li>
+</ol>
+</li>
+</ul>
+</div></pre>

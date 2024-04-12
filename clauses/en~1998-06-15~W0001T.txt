@@ -1,0 +1,30 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used in solicitations involving final delivery to locations 
+outside Comprehensive Land Claims Settlement Areas (CLCSAs) when the original 
+requirement has been divided to handle final delivery locations outside CLCSAs 
+on one solicitation and final delivery locations inside CLCSAs on a different 
+solicitation. Contracting Officers are to modify the clauses as required for 
+either a standing offer or contract and to insert the solicitation number 
+dealing with deliveries inside CLCSAs.
+
+The second paragraph of this clause is to cover the eventuality of there being 
+no bids received as a result of the solicitation pertaining to delivery 
+locations inside a CLCSA. The clause gives Canada the capability to include 
+final delivery locations inside CLCSAs in the proposed standing offer/contract 
+with the successful bidder of the solicitation for delivery points outside 
+CLCSAs.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Any resulting Standing Offer(s)/Contract(s) shall be for delivery 
+requirements to locations within Canada, except locations within 
+Comprehensive Land Claims Settlement Areas (CLCSAs). For delivery 
+requirements to locations within CLCSAs, solicitation number ____ (<strong><em>insert 
+applicable number</em></strong>) applies.
+
+In the event that there (is/are) no (Standing Offer(s)/Contract(s)) (issued
+/awarded) pursuant to solicitation number_____ (<strong><em>insert applicable number</em></strong>), 
+Canada reserves the right to negotiate for deliveries within CLCSAs with 
+suppliers who have been approved for (issuance/award) of a (Standing Offer/
+Contract)under this (Request for Standing Offer/Request for Proposal).
+
+</pre>

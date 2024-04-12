@@ -1,0 +1,20 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Terminations shall not be declared without a written legal opinion. In seeking 
+the opinion of Legal Services, the contracting officer must submit the contract 
+file with a chronological, typed index of the documents forming the basis for 
+the termination request, together with a short note outlining the events leading 
+to termination. Based on this information, Legal Services will render an opinion 
+as to whether the contractor would have a valid defence, should the Crown claim 
+loss or damages, and advise as to the appropriate method of termination.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada may, by giving thirty (30) calendar days written notice, cancel any 
+task or terminate this Contract in whole or in part, at no cost to Canada 
+in addition to that incurred to the date of termination for the particular 
+task or tasks terminated.  Upon any such complete or partial termination of 
+the Contract, the Contractor shall turn over to Canada all working papers, 
+notes, memoranda, reports, software programs, data in machine-readable 
+format or otherwise, and documentation which have been made or obtained in 
+relation to this Contract.
+
+</pre>

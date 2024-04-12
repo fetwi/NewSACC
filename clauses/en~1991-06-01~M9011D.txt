@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The cash discount period or payment date specified on the invoice shall be 
+   calculated from the date the invoice is received or the date the goods 
+   or services are delivered/rendered, whichever is the later date.  
+   Payment is subject to the goods or services being in accordance with the 
+   Contract specifications. 
+</pre>

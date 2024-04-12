@@ -1,0 +1,27 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the U.S. contract specifies government inspection 
+at plant and neither MIL-I-45208 nor MIL-Q-9858 is specified. Insert the name of 
+the city and the Canadian Forces Technical Services Agency telephone number 
+nearest to the contractor's address:
+
+   1. Maritime Region - Halifax  (902) 427-7150
+   2. Quebec Region   - Montreal (514) 283-5040
+   3. Ontario Region  - Toronto  (416) 224-4962
+   4. Western Region  - Edmonton (403) 973-4313
+
+ 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All Work shall be subject to Department of National Defence quality 
+assurance evaluations. Within forty-eight (48) hours of receipt of this 
+Contract, the Contractor shall make arrangements with the Department of 
+National Defence QA Representative (QAR) who normally services its plant. 
+The name, location and telephone number of the QAR may be obtained from the 
+Canadian Forces Technical Services Agency, (insert name of City) _____ , 
+telephone number _____.
+
+The Contractor shall comply with the requirements of Specification AQAP-9. 
+(Equivalent to Standard Inspection clause.)
+
+
+</pre>

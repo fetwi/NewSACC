@@ -1,0 +1,19 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following text when preparing a telegraphic or facsimile Stop Work Order 
+if a termination for convenience is contemplated or if a review of the contract 
+status is required before deciding whether termination is appropriate and, if 
+so, the type and extent of termination (including a termination for default).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This Stop Work Order is issued pursuant to section _____ ("Suspension of 
+Work" provision) of the General Conditions, if any in respect of Contract 
+File No. _____. 
+
+       "You are directed by the Minister of Public Works and Government 
+       Services to stop immediately all Work related to this Contract, 
+       including work at your subcontractors, until further notice by the 
+       Contracting Authority. You are to place no further orders and incur 
+       no further expense. You are also to provide the Contracting 
+       Authority with current detailed Contract status information".
+
+</pre>

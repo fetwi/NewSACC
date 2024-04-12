@@ -1,0 +1,9 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in contracts when the contractor's proposal constitutes the 
+specification for the work to be performed. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Work to be performed shall be in accordance with the technical and 
+   management portions of the Contractor's proposal entitled "_____," dated _____, 
+   and forming part of this Contract. 
+</pre>

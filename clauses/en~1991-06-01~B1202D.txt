@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Age limitations at date of delivery as prescribed in Canadian Forces 
+   Specification C-05-001-OO1/SF-000 shall be observed on all rubber items 
+   and accessories, components, assemblies or aircraft when the rubber is 
+   in contact with fuel, hydraulic fluid, oil, alcohol, oxygen, pneumatics 
+   and coolant systems.  For specific application refer to Canadian Forces 
+   Specification C-05-001-OO1/SF-000, (insert latest edition date).
+</pre>

@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Technical Authority for this Contract is:
+
+Name: ______
+Title: ______
+Department\Agency: ______
+Address: ______
+Postal Code: ______
+
+Telephone:    (   ) ___ - ____
+Facsimile:    (   ) ___ - ____
+
+The Technical Authority is responsible for all matters concerning the 
+technical content of the Work under this requirement. Any proposed changes 
+to the scope of the Work are to be discussed with the Technical Authority, 
+but any resulting change can only be confirmed by a contract amendment 
+issued by the Contracting Authority.
+
+
+</pre>

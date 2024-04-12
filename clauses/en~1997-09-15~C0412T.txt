@@ -1,0 +1,26 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>1.     Work</strong>
+
+       (a)    For Work as specified at _____ a firm price of: $_____
+       (b)    Goods and Services Tax (GST) at 7 percent of (a): $_____
+       (c)    Harmonized Sales Tax (HST) at 15 percent of (a): $_____
+       (d)    Total - Work, GST or HST included as appropriate : $_____
+
+<strong>2.     Unscheduled Work</strong>
+
+       (a)    Labour: Estimated person-hours at a firm charge-out rate for 
+              labour, including overhead and profit: _____ person-hours X $_____ 
+              per hour $_____
+
+       (b)    GST at 7 percent of (a): _____
+
+       (c)    HST at 15 percent of (a): $_____
+
+       (d)    Total - Unscheduled Work, GST or HST included as appropriate : $_____
+
+<strong>3.     Evaluation Price</strong>, GST or HST included as appropriate (1. plus 2.): _____.
+
+
+</pre>

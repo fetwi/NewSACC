@@ -1,0 +1,14 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to outline Contractor responsibility for provision of 
+test reports when the procurement is for Grade 8 material fasteners Class 5305 
+and 5306.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>For all Grade 8 material fasteners being provided as a requirement of this 
+Contract, the Contractor shall provide a valid chemical test report to the 
+Quality Assurance Representative (QAR) prior to shipment. If the test 
+report is not available from the original manufacturer, the Contractor 
+shall have the analysis performed at the Contractor's expense, at a test 
+facility acceptable to the QAR.
+
+</pre>

@@ -1,0 +1,8 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Overruns in excess of 2 percent or as otherwise stated herein will not be 
+   accepted.   Any overrun must be in the multiple of the basic package 
+   stipulated in this document. Overruns are to be distributed in 
+   accordance with the delivery schedule. 
+</pre>

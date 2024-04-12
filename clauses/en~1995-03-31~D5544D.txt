@@ -1,0 +1,11 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when ISO 10012-1 is the requirement.  This clause may be used in 
+conjunction with ISO 9001 and/or ISO 9002.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor's measurement and calibration system shall be in accordance 
+with the requirements of ISO 10012-1, published by the International 
+Organization for Standardization, current edition at date of submission of 
+Contractor's bid.
+
+</pre>

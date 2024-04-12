@@ -1,0 +1,22 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in Science contracts when the Scientific Authority has 
+officially delegated some responsibilities and tasks to a technically qualified 
+person. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Technical Liaison Officer for this Contract is:
+(name) 
+(title of officer) 
+(organization) 
+(address) 
+(postal code)
+
+TELEPHONE:    (___) ___-____ 
+FACSIMILE:    (___) ___-____
+
+The Technical Liaison Officer is responsible for the day-to-day technical 
+   liaison between the Contractor and the Scientific Authority, and will 
+   also be responsible for reviewing draft reports submitted by the 
+   Contractor.  The Technical Liaison Officer has no authority to authorize 
+   any deviations from the Contract. 
+</pre>

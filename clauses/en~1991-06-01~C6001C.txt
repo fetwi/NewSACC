@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in fixed time rate contracts which do not contain a 
+ceiling price. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada's liability to the Contractor under this Contract shall not exceed $_____, 
+   unless otherwise authorized in writing by the Minister. The Contractor 
+   shall not be obliged to perform any work or provide any services which 
+   would cause the total liability of Canada to exceed the said sum, unless 
+   an increase is so authorized.  The Contractor shall notify the Minister 
+   as to the adequacy of this sum when it is 75 percent committed, or four 
+   (4) months prior to the estimated date of completion of the Contract, 
+   whichever comes first.  However, if at any time the Contractor considers 
+   that the said sum may be exceeded, the Contractor must promptly notify 
+   the Minister. 
+</pre>

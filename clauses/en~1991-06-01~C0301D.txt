@@ -1,0 +1,28 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for printing requirements only.  This clause should be 
+in any of the undernoted situations (refer to SPM Directive 6300):
+
+a)	any single source Request for Proposal for which a cost reimbursable method 
+of payment is clearly indicated;
+
+b)	any contract containing a cost reimbursable element within the Basis of 
+Payment. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Upon completion of the Contract, the Contractor shall prepare and submit a 
+Cost Submission to the Contracting Officer specified in the Contract.  The 
+Cost Submission shall be signed and certified by the Contractor's Senior 
+Financial Officer and shall contain a breakdown of the following cost 
+elements as applicable;
+
+1)     material;
+2)     subcontract;
+3)     preparation charges;
+4)     press charges;
+5)     bindery charges;
+6)     profit;
+7)     delivery charges.
+
+Supporting information for each cost element must be available and be in 
+   sufficient detail that an in-depth audit can be carried out. 
+</pre>

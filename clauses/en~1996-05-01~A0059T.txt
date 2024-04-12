@@ -1,0 +1,16 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the bidder is required to propose a firm lot price 
+for the work and price breakdown for milestones\deliverables.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This section of the proposal shall include a cost summary of the services 
+requested or required.
+
+Indicate a firm lot price for the proposed work and for any applicable 
+   option(s) with a price breakdown tied to each milestone/deliverable as 
+   identified in the Statement of Work (SOW) document, Appendix/Annex "_____
+   ".  It shall also include the proposed method and schedule of payment 
+   where payments are tied to milestones and/or deliverables as specified.  
+   The proposal shall also include the level of effort by skill type and 
+   cost (firm per diem rates).
+</pre>

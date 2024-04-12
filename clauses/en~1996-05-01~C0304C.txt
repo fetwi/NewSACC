@@ -1,0 +1,32 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the Basis of Payment is to be based 
+on costs in accordance with Contract Cost Principles, form DSS-MAS 1031-2. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     On completion of the Contractor's obligations under this Contract, 
+       the Contractor shall prepare and submit a cost submission to the 
+       Contracting Authority specified in this Contract.  The cost 
+       submission shall be a statement of the costs incurred by the 
+       Contractor, in accordance with the Basis of Payment, for the Work 
+       performed under the terms of this Contract.
+
+2.     The cost submission shall be signed and certified by the Contractor'
+       s Senior Financial Officer and shall contain a breakdown of all 
+       applicable elements of cost, for example:
+
+       (a)    direct material;
+       (b)    general and administrative;
+       (c)    direct labour overhead;
+       (d)    direct charges;
+       (e)    profit;
+       (f)    subcontracts;
+       (g)    overhead;
+       (h)    goods and services tax;
+       (i)    delivery charges.
+
+3.     Supporting information for each element of cost shall be available 
+       and shall be in sufficient detail that an in-depth audit can be 
+       carried out.
+
+
+</pre>

@@ -1,0 +1,10 @@
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Goods and Services Tax (GST) is not included in the price.  In cases 
+when it applies, it will be shown separately on all invoices and claims for 
+progress payments and will be paid by Canada. The Contractor agrees to 
+remit to Revenue Canada, Customs, Excise and Taxation, any GST that the 
+Contractor receives from Canada.
+
+</pre>
