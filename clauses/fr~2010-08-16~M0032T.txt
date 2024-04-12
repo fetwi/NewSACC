@@ -1,9 +1,0 @@
-<pre><div class="sacc-item">
-<p>L'offre doit respecter les exigences de la demande d'offres
-à commandes et satisfaire à tous les critères
-d'évaluation technique obligatoires pour être
-déclarée recevable. La recommandation pour l'attribution
-d'une offre à commandes se fera en fonction de l'offre
-recevable la plus basse <span class="input-required"><var>_________</var> <kbd>(<em>insérer : « par
-article » ou « globalement »</em>)</kbd></span>.</p>
-</div></pre>

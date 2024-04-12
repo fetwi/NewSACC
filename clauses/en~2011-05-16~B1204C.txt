@@ -1,6 +1,0 @@
-<pre><div class="sacc-item">
-<h2>Option 1:</h2>
-<p>The Contractor must ensure that item(s) <span class="input-required"><var>___________</var> <kbd>(<i>insert the applicable item number</i>)</kbd></span> will contain 75 percent of the authorized shelf life as listed in <cite>ISO 2230</cite> at date of delivery to the Department of National Defence.</p>
-<h2>Option 2:</h2>
-<p>The Contractor must ensure that item(s) <span class="input-required"><var>___________</var> <kbd>(<i>insert the applicable item number</i>)</kbd></span> will contain 75 percent of the authorized shelf life as listed in <cite>CFTO D-05-001-001/SF-000</cite> at date of delivery to the Department of National Defence.</p>
-</div></pre>

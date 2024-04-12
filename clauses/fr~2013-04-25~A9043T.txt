@@ -1,6 +1,0 @@
-<pre><div class="sacc-item">
-<p>Cette demande de soumissions annule et remplace la demande de
-soumissions numéro <var>_______</var> , datée du
-<var>______</var> , dont la date de clôture était le
-<span class="input-required"><var>______</var> <kbd>(<em>insérer la date de clôture</em>)</kbd></span>, à <span class="input-required"><var>_______</var> <kbd>(<em>insérer l'heure de clôture</em>)</kbd></span>. Un compte rendu ou une rencontre de rétroaction sera offert sur demande aux soumissionnaires, aux offrants ou aux fournisseurs qui ont présenté une offre dans le cadre de la demande de soumissions précédente.</p>
-</div></pre>

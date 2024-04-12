@@ -1,6 +1,0 @@
-<pre><div class="sacc-item">
-<p>The quantity stated herein is minimum and must be delivered. An
-overshipment not in excess of <span class="input-required"><var>_____</var> <kbd>(<em>insert amount as specified in <abbr title="United States">U.S.</abbr>
-Contract</em>)</kbd></span> will be accepted and payment will be
-adjusted accordingly.</p>
-</div></pre>

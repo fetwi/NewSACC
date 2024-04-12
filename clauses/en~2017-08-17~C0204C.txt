@@ -1,7 +1,0 @@
-<pre><div class="sacc-item">
-<p>The Contractor will be paid for the Work specified in the authorized task authorization, in accordance with the Basis of payment <span class="input-required"><var>______</var> <kbd>(<em><strong>insert "at annex <var>___</var> " OR "detailed below"</strong></em>)</kbd></span>.</p>
-<p>Canada's liability to the Contractor under the authorized task authorization must not exceed the <kbd>(<em><strong>insert as applicable: "limitation of expenditure" or "ceiling price"</strong></em>)</kbd> specified in the authorized task authorization. Custom duties are <span class="input-required"><var>______</var> <kbd>(<em><strong>insert "included", "excluded" or "subject to exemption"</strong></em>)</kbd></span> and Applicable Taxes are extra.</p>
-<p>No increase in the liability of Canada or in the price of the Work specified in the authorized task authorization resulting from any design changes, modifications or interpretations of the Work will be authorized or paid to the Contractor unless these design changes, modifications or interpretations have been authorized, in writing, by the Contracting Authority before their incorporation into the
-Work.</p>
-<p><kbd>(<em><strong>Insert details of the basis of payment if not included in an annex.</strong></em>)</kbd></p>
-</div></pre>

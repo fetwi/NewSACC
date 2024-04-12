@@ -1,9 +1,0 @@
-<pre>The credit card <span class="wsStyleUnderline">                    </span> is accepted.
-
-<strong><em>OR</em></strong>
-
-The credit cards <span class="wsStyleUnderline">                   </span> and <span class="wsStyleUnderline">                </span> are accepted.
-
-
-
-</pre>

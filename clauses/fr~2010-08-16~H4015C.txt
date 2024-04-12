@@ -1,8 +1,0 @@
-<pre><div class="sacc-item">
-<p>En plus des rapports <span class="input-required"><var>________</var> <kbd>(<em>insérer « mensuels » ou « bi-mensuels » ou « trimestriels » selon la clause <span class="clauseRef">H4016C</span></em>)</kbd></span> sur l'avancement des
-travaux, l'entrepreneur doit livrer une ébauche du rapport
-final en format électronique, au plus tard le <span class="input-required"><var>_____</var> <kbd>(<em>insérer la
-date</em>)</kbd></span>, et un rapport final, au plus tard le
-<span class="input-required"><var>_____</var> <kbd>(<em>insérer la
-date</em>)</kbd></span>, au <span class="input-required"><var>_______</var> <kbd>(<em>insérer « responsable technique » ou « chargé de projet »</em>)</kbd></span>.</p>
-</div></pre>
