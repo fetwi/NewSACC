@@ -1,3 +1,4 @@
+<button href="#" id="print-clause" class="btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right " style="position: sticky;top: 56px;"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
