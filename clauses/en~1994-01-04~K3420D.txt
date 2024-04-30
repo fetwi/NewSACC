@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause if the Contractor is to be liable for liquidated 
 damages in the event that the Foreground Information is exploited outside of 
@@ -18,3 +19,4 @@ Canada would suffer, and that it is not intended to be, nor is it to be
 construed as, a penalty.
 
 </pre>
+</div>

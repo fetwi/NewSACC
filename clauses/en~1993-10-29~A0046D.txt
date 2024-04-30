@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause for solicitation and contract documents covering air charter 
 services for specialty air charters.
@@ -9,3 +10,4 @@ services for specialty air charters.
    particular, the Carrier must hold a valid Operating Certificate issued 
    by the Federal Department of Transport.
 </pre>
+</div>

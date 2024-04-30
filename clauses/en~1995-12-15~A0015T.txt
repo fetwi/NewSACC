@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>THIS CLAUSE IS TO BE USED AS A GUIDE ONLY. Contracting officers must edit the 
 list of criteria and indicate for each whether it is mandatory or desirable as 
@@ -50,3 +51,4 @@ should be included in the bid solicitation.
        confidential manner as provided in the <em>Access to Information Act</em>.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Add the following clause in a contract or part of a contract where K3000D or 
 K3001D is used, if the client department requires access to the contractor's 
@@ -34,3 +35,4 @@ under a sublicence referred to in this clause, unless the same information:
 (c)    is independently developed by or for Canada.
 
 </pre>
+</div>

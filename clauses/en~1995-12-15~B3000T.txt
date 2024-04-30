@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause where trade references are specified and substitutes 
 will be considered.  The words "or equal" must appear after each item.  
@@ -12,3 +13,4 @@ warrants that proposed equivalent substitutes will be fully interchangeable
 with the trade reference specified.
 
 </pre>
+</div>

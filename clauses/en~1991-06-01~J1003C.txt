@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following text when preparing a complete Termination for Default, only 
 after a supporting legal opinion or approval from a Legal Advisor has been 
@@ -20,3 +21,4 @@ The Minister reserves Her Majesty's right under the Contract to charge you
    which Her Majesty may be obliged to pay in procuring the said supplies 
    elsewhere. 
 </pre>
+</div>

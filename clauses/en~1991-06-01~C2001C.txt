@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause if C2901T was used. 
 </pre>
@@ -12,3 +13,4 @@
    stores have been exported (or supplied to the Minister's satisfaction in 
    Canada). 
 </pre>
+</div>

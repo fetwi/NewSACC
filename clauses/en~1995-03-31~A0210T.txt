@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used when budget funds are limited.  It is generally used 
 in conjunction with A0005T, A0200T, or a shorter version of the latter.
@@ -8,3 +9,4 @@ in excess of this amount will be considered non-responsive.  This
 disclosure of project funds does not commit Canada to pay such an amount.
 
 </pre>
+</div>

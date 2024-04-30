@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The following clause is to be used in all contract documents in conjunction with 
 clauses A0000T, "Standard Instructions and Conditions" and K0000D, "Conditions". 
@@ -42,3 +43,4 @@ provided by MERX, telephone: 1-800-964-6379, Internet Address: http://www.merx.c
               form part of this Contract.
 
 </pre>
+</div>

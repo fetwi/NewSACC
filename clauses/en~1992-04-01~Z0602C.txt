@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the U.S. contract specifies Government inspection 
 at plant and Quality Program requirement is MIL-Q-9858. Insert the name of the 
@@ -21,3 +22,4 @@ The Contractor's system of quality control for the Work described herein
    shall be in accordance with Specification AQAP-1 (equivalent to 
    MIL-Q-9858).    
 </pre>
+</div>

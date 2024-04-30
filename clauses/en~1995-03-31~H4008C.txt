@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The following clause may be used in "Limitation of Expenditure" and "Ceiling 
 Price" contracts.
@@ -12,3 +13,4 @@ condition of payment for such claims.  (A French version,<strong> "Formule de
 projet de contrat et de rapport</strong>", form DSS-MAS 9143-1, is also available.) 
  
 </pre>
+</div>

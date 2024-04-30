@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Science contracts with universities when progress 
 payments are to be made to the contractor. 
@@ -93,3 +94,4 @@ otherwise shall be refunded promptly to Canada.
    (a) and (b) of the clause to apply for the sole purpose of calculating 
    interest on overdue accounts. 
 </pre>
+</div>

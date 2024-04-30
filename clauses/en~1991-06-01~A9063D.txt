@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -14,3 +15,4 @@ are hereby deleted and replaced by the following:
    such replacement to be made at the delivery point set out in the 
    Contract, unless otherwise authorized by the Minister."  
 </pre>
+</div>

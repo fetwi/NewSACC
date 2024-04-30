@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>If clause C3000T or C3001T was used in the bid solicitation, use this clause in 
 all contracts with foreign-based contractors who are quoting in Canadian funds 
@@ -43,3 +44,4 @@ reached.
    advantageous to it within the 30-day period after the specified delivery 
    date. 
 </pre>
+</div>

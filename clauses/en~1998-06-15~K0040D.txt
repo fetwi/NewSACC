@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause where the deliverable(s) identified in the contractual 
 document will be for Facility Management or Outsourcing Services.
@@ -56,3 +57,4 @@ document will be for Facility Management or Outsourcing Services.
        whichever is the later date.
 
 </pre>
+</div>

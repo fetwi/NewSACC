@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use with clauses G2002D and G2003D.  Errors and Omissions Liability and Product 
 Liability insurance coverages of contractors must incorporate the conditions 
@@ -33,3 +34,4 @@ Contractor's Errors and Omissions Liability and Product Liability coverages:
        changes in the policy coverage."
 
 </pre>
+</div>

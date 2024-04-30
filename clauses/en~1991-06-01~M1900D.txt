@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -15,3 +16,4 @@ No contract or agreement shall result or arise from the RMSO, and Her
    for service is called up on form DSS-MAS 8251 and received by the 
    Supplier. 
 </pre>
+</div>

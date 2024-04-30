@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations for airborne aircraft equipment.  
 Use C2600C in the contract. 
@@ -7,3 +8,4 @@ Use C2600C in the contract.
    in aircraft and/or airborne aircraft equipment; therefore, the prices 
    quoted do not include customs duty. 
 </pre>
+</div>

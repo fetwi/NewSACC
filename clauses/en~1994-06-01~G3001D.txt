@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>While the Government property is under the care, custody or control of the 
 contractor, "All Risks" property insurance is required to cover any loss or 
@@ -33,3 +34,4 @@ policy:
        party as directed by the Contracting Authority."
 
 </pre>
+</div>

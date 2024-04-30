@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in cost reimbursable with fixed fee contracts to denote 
 the basis of payment terms.
@@ -9,3 +10,4 @@ with Contract Cost Principles, DSS-MAS 1031-2, plus a fixed fee of $ _____.
 The results and findings of Canada's audit shall be conclusive.
 
 </pre>
+</div>

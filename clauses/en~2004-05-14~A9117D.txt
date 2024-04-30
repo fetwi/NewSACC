@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in conjunction with A9115D whenever the customer 
 department wishes to contact the Contractor directly to obtain the required 
@@ -11,3 +12,4 @@ call-letter to suppliers or individual contact, in writing or by telephone).
 
 
 </pre>
+</div>

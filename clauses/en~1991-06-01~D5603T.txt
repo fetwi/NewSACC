@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the requisition specifies form CF 1280 and 
 delivery to and completion of installation at site is required. Use clause 
@@ -10,3 +11,4 @@ D5603C in contract.
    National Defence Quality Assurance Representative, be distributed as 
    directed in the Contract. 
 </pre>
+</div>

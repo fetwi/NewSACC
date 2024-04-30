@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in bid solicitations when the evaluation methodology is provided 
 by the client or when it is deemed important to specify, in an annex, the 
@@ -7,3 +8,4 @@ specified in the bid solicitation.
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre>The bid evaluation methodology is described at Annex ___ .
 </pre>
+</div>

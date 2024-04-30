@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>To be used in all bid solicitations and contracts placed on behalf of CIDA when 
 delivery is made direct to ultimate consignee. 
@@ -8,3 +9,4 @@ delivery is made direct to ultimate consignee.
    entitled "Goods Imported and Exported Drawback Regulations" or D-7-3-4 
    entitled "Canadian Manufactured Goods Exported Drawback Regulations." 
 </pre>
+</div>

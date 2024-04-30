@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The following clause should be used only with the appropriate security clause(s) 
 as detailed in subsection "5-F" of the Standard Acquisition Clauses and 
@@ -15,3 +16,4 @@ Authority.  Technical and clerical support, supplies and equipment
 necessary to accomplish tasks are to be provided by the Contractor.
 
 </pre>
+</div>

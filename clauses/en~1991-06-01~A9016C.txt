@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all contractual documents when hazardous wastes 
 bought, created or used during the performance of the work must be disposed of 
@@ -12,3 +13,4 @@ hazardous waste is picked up by the Contractor pursuant to this Contract,
 title to the hazardous waste passes to the Contractor.
 
 </pre>
+</div>

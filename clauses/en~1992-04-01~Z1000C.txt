@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following instructions when applicable in all CCC fixed price contracts 
 for stores.  
@@ -164,3 +165,4 @@ METHOD OF PAYMENT (Fixed Price)
    provided within sixty (60) days from date of shipment, CCC shall make 
    every effort to obtain acceptance from the receiving/ buying activity.   
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -7,3 +8,4 @@ effect on the date of call-up (order).
 THE PRICES SPECIFIED ABOVE MAY CHANGE ONLY IN DIRECT PROPORTION TO INCREASE
    /DECREASE IN FEDERAL/PROVINCIAL LEGISLATION, TAXES<strong><strong><strong> OR </strong></strong></strong>DUTIES. 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in a bid solicitation when it is intended that progress 
 or advance payments will be made upon request.  If the contract is for 
@@ -70,3 +71,4 @@ more frequently than once a month upon the following terms and conditions:
    scientific/inspection authority who in turn will send them to the DSS 
    representative for further submission to the payment office.
 </pre>
+</div>

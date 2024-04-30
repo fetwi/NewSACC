@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in cost reimbursable contracts which do not contain a 
 ceiling price. 
@@ -15,3 +16,4 @@ ceiling price.
    of such notification and estimate shall not increase Canada's liability 
    over the said sum.
 </pre>
+</div>

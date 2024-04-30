@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the subcontractor has not been specifically 
 identified at the time of contract award.
@@ -51,3 +52,4 @@ DSS-MAS 1137 - APPLICATION FOR PERMISSION TO SUBLET A PORTION OF CONTRACT
    after the wording General Conditions (Research and Development), add 
    DSS-MAS 9224.
 </pre>
+</div>

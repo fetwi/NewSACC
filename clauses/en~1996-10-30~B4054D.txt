@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>To define a requirement for an Initial Provisioning Conference (IPC) for new 
 equipment acquisitions. In variable &lt;&lt;1&gt;&gt; of paragraph "1." insert the number of 
@@ -47,3 +48,4 @@ insert "bid" at the solicitation stage and "Contract" at the contract stage.
        conference is not necessary.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when selection will be on the basis of the lowest priced bid 
 meeting mandatory minimum requirements only.
@@ -9,3 +10,4 @@ meeting mandatory minimum requirements only.
    lowest priced responsive bid will be recommended for award of a contract 
    or issuance of a standing offer, as the case may be.
 </pre>
+</div>

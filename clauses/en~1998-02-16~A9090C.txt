@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when the contractor has started, on its own initiative and at 
 its own risk, work that is part of an identifiable contract requirement and the 
@@ -24,3 +25,4 @@ by the Directorate Legal Advisor.
    of Payment herein and the said sum shall form part of Canada's liability 
    to the Contractor as set forth under the Limitation of Expenditure.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause requires a minimum of $1M insurance.  Use the clause R1650D for the 
 projects where only a minimum of $250K insurance is required.
@@ -227,3 +228,4 @@ CANADA TO REQUEST AT ANY TIME DUPLICATE CERTIFIED COPIES OF SAID INSURANCE
 POLICIES.
 
 </pre>
+</div>

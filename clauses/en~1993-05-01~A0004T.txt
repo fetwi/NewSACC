@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all solicitation documents where the GATT Agreement 
 applies.  This clause would normally be used in conjunction with clause C3010T.
@@ -36,3 +37,4 @@ solicitation:
        Conditions" referenced herein apply to Canadian-based suppliers only.
 
 </pre>
+</div>

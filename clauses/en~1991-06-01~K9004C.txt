@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all Science contracts when humans will be treated as 
 subjects in research activities.
@@ -20,3 +21,4 @@ subjects in research activities.
    continue, so that appropriate action (either revision of the Statement 
    of Work or termination by mutual consent of the Contract) can be taken.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when K2000T or K2002T was used to obtain certification of 
 eligibility of the bidder under the Federal Contractors Program for Employment 
@@ -15,3 +16,4 @@ Minister shall have the right, pursuant to the Default provisions of the
 Contract, to terminate the Contract for default.
 
 </pre>
+</div>

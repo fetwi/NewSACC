@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -9,3 +10,4 @@ expression is defined for purposes of the Goods and Services Tax
 accordingly would not constitute a "Taxable Supply" as this
 expression is defined for purposes of the <abbr title="Goods and Services Tax">GST</abbr> or <abbr title="Harmonized Sales Tax">HST</abbr>.</p>
 </div></pre>
+</div>

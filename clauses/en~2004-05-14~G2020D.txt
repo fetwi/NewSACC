@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Automobile Liability Insurance, at varying limits, is statutory in all Canadian 
 jurisdictions; nonetheless, use the following clause whenever the Contractor is 
@@ -29,3 +30,4 @@ contracting areas.
 
 
 </pre>
+</div>

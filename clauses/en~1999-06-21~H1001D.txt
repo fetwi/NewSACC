@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all contracts, standing offers, purchase orders, bid 
 solicitations (EXCEPT construction and utility contracts) applicable to the 
@@ -28,3 +29,4 @@ shipment.
    in paragraph 1 of the clause to apply for the sole purpose of 
    calculating interest on overdue accounts.
 </pre>
+</div>

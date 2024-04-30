@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -17,3 +18,4 @@ authorization in writing is provided to proceed in response to the Call-Up.
 A copy of all DSS-MAS 942's raised, and a copy of all DSS-MAS 942's 
    subsequently priced are to be sent to DSS. 
 </pre>
+</div>

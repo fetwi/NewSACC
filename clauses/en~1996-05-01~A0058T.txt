@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when bidders are required to propose firm per diem 
 rates for personnel for the contract period and option period(s).
@@ -10,3 +11,4 @@ Indicate a firm per diem rate(s) for the proposed personnel for the period
    of the proposed Contract, and for any applicable option period(s) as 
    indicated in Article _____, Basis of Payment.
 </pre>
+</div>

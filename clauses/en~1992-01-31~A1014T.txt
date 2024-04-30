@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -25,3 +26,4 @@ Guard Quality Assurance Officer Guard Quality Assurance Unit Security
    agrees that the inspections by the GQA Unit will be carried out at the 
    locations identified at Article ___, herein.  
 </pre>
+</div>

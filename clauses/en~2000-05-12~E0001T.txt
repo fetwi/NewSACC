@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when clause E0004T is used in the bid solicitation.  The 
 contracting officer is to fill in data required under paragraphs 1 (percentage 
@@ -62,3 +63,4 @@ attached hereto;<strong><strong><strong> OR
 
 
 </pre>
+</div>

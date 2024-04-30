@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when contract security is required, and in conjunction 
 with E0005C and E0008D.
@@ -45,3 +46,4 @@ hereto;<strong><strong><strong> OR
        unless advised otherwise by the Contractor.
 
 </pre>
+</div>

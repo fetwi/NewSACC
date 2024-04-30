@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in domestic contracts for goods which contain provision 
 for progress payments (refer to SPM Directive 4203). 
@@ -23,3 +24,4 @@ Failure to inform the Minister of such lien or failure to implement
    entitled "Default by Contractor" in the General Conditions of the 
    Contract and shall entitle the Minister to terminate the Contract.
 </pre>
+</div>

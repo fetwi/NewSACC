@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Science contracts when monthly progress payments are 
 to be made based on actual expenditures less a percentage for holdback. 
@@ -76,3 +77,4 @@ otherwise shall be refunded promptly to Canada.
    subparagraphs 5 (a) and (b) of this clause applying for the sole purpose 
    of calculating interest on overdue accounts. 
 </pre>
+</div>

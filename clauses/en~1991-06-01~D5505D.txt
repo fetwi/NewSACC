@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause should not be used in National Defence contracts.
 
@@ -10,3 +11,4 @@
    case of a carload shipment, are to be fastened to the inside door frame 
    of the railway car.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations and contracts when it is intended 
 that progress payments will be made.  If the contract is for shipbuilding or 
@@ -50,3 +51,4 @@ percent of the Contract value.
    scientific/inspection authority, who in turn will send them to the DSS 
    representative for further submission to the payment office.
 </pre>
+</div>

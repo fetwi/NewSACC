@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Include in all bid solicitations and contracts placed on behalf of CIDA when sea 
 shipment is on an EX QUAY (Incoterms 1980) basis, for duty on buyer's account 
@@ -64,3 +65,4 @@ PAYMENTS:  Against commercial invoices and documentation as stated above by
    CRITICAL document for payment.  It replaces B/L original used for other 
    terms, such as C. &amp; F. or C.I.F. 
 </pre>
+</div>

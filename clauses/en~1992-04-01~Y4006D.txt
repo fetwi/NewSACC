@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Include when one of the following clauses has been used:  Y4000D, Y4001D, 
 Y4002D, Y4003D, Y4004D or Y4005D.  
@@ -11,3 +12,4 @@ Y4002D, Y4003D, Y4004D or Y4005D.
                      K1A 0G4 
                      Attention: _____  
 </pre>
+</div>

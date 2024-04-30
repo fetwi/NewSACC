@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts placed by DSS headquarters or regional 
 directorates with United States suppliers, when the DND requisition specifies 
@@ -15,3 +16,4 @@ Proof of government quality assurance is required in the form of properly
    completed DD Form 250s.  Such proof is required by DND prior to payment 
    of invoices.
 </pre>
+</div>

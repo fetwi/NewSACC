@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is recommended for use in any "You are Requested" type contract.  In 
 addition, this clause is to be used whenever DSS-MAS 1053 General Conditions - 
@@ -9,3 +10,4 @@ respect to the subject matter of this Contract and supersedes all previous
 negotiations and documents related to it.
 
 </pre>
+</div>

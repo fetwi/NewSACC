@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>If some or all of the following factors need to be taken into consideration in 
 the exchange adjustment arrangements, use clause C3006D:
@@ -102,3 +103,4 @@ foreign currency component expressed in foreign funds) and at section C
    determining the impact of differences in cost as a result of changes in 
    the rate of exchange.
 </pre>
+</div>

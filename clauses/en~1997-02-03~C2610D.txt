@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>When the Department of National Defence is the importer, use the following 
 clause in bid solicitations and contracts for defence supplies valued at 
@@ -22,3 +23,4 @@ the order respecting the remission of customs duties.
    responsible for applying to Department of Public Works and Government 
    Services in good time for the certification required by the Order.
 </pre>
+</div>

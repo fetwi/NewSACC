@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used in all contracts with foreign-based contractors who 
 are awarded contracts providing for exchange adjustment provisions and progress 
@@ -47,3 +48,4 @@ at section C of the form has been reached.
    where shipped for clearance through customs, supported by a copy of the 
    relevant shipping document. 
 </pre>
+</div>

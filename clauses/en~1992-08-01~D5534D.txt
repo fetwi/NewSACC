@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the DND requisition specifies Government Quality 
 Assurance at source and Allied Quality Assurance Publication AQAP-9, (NATO Basic 
@@ -27,3 +28,4 @@ years from date of the completion or termination of the Contract and shall
 be made available to the QAR upon request.
 
 </pre>
+</div>

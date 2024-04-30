@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause if the requisition specifies form CF 1280 and 
 contractor resides in the U.S.A. and clause D5602T was used. Enter distribution 
@@ -9,3 +10,4 @@ as per requisition.
    Contractor and, when properly completed and signed, be distributed as 
    follows: _____ . 
 </pre>
+</div>

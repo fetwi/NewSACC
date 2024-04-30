@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in any of the undernoted situations (refer to SPM 
 Directive 6300):
@@ -60,3 +61,4 @@ A single copy of reasonable supporting information for each cost element,
    offices, in order that an in-depth audit can be carried out subsequently 
    as is deemed necessary.
 </pre>
+</div>

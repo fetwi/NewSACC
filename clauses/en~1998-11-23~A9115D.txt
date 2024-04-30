@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in procurements involving applicable service 
 requirements, as well as procurements involving both goods and services. This 
@@ -16,3 +17,4 @@ as applicable.
    supplier information as applicable, along with a certification as to the 
    completeness and accuracy of the information.
 </pre>
+</div>

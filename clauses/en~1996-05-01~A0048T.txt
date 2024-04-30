@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all solicitation documents where either the North 
 American Free Trade Agreement (NAFTA) or the World Trade Organization - 
@@ -14,3 +15,4 @@ Agreement on Government Procurement (WTO-AGP) applies.
               in this document, applies to Canadian-based bidders only.
 
 </pre>
+</div>

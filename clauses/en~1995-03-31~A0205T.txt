@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when the bid solicitation requests a technical, management and 
 financial proposal as part of the bid.  PROCUREMENT OFFICERS ARE TO DELETE THE 
@@ -17,3 +18,4 @@ The bid should contain _____ copies of the technical and management
    signed as well as other pages of, annexes to, and forms mentioned in the 
    bid solicitation, with fill-ins duly completed. 
 </pre>
+</div>

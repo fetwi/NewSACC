@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Bailee's Liability Insurance protects the Contractor against claims for damages 
 cause by its negligence (in effect not accidental direct damage) to goods in its 
@@ -46,3 +47,4 @@ contracting areas.
               incidents arising in due course of transit of goods.
 
 </pre>
+</div>

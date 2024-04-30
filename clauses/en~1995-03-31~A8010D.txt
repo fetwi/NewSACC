@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause with General Conditions DSS-MAS 9329 and DSS-MAS 9601. 
 This clause is standard boiler plate for rental agreements.  The wording of this 
@@ -60,3 +61,4 @@ clause is suitable for use in standing offers.
        apply.
 
 </pre>
+</div>

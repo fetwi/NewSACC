@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all bid solicitations and contractual documents with 
 progress payments which use the General Conditions noted below. Enter fill-in 
@@ -61,3 +62,4 @@ Use of this clause is not required when General Conditions - Long Form, DSS-MAS
                      accepted in accordance with the terms of this Contract.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when preparing a facsimile, electronic or other written 
 Rescission of Stop Work Order that does not refer to any termination.
@@ -17,3 +18,4 @@ thereon.  You should apply in writing to the Contracting Authority for the
 required set of forms in order to submit any claim for payment.
 
 </pre>
+</div>

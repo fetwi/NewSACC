@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>When using this clause for requirements in Ontario, insert "Ontario Regulation 
 250-94," and for requirements in the rest of Canada, insert "the Canadian Gas 
@@ -10,3 +11,4 @@ manufacture, in accordance with _____.
 
 
 </pre>
+</div>

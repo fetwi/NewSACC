@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in contracts where the award was issued via electronic 
 transmission.
@@ -8,3 +9,4 @@ facsimile" or "telephone" as applicable) dated _____.  The Work specified
 in that notice is not to be duplicated.
 
 </pre>
+</div>

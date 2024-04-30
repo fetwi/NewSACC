@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used in conjunction with either clause A9103T or A9104T.
 </pre>
@@ -43,3 +44,4 @@ _______
 (Date) 
 
 </pre>
+</div>

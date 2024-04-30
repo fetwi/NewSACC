@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The contracting officer must edit the clause as required by the situation.
 </pre>
@@ -224,3 +225,4 @@ to be documented to PWGSC for approval.
 <td>_____________________</td>
 </tr>
 </tbody></table> <pre></pre>
+</div>

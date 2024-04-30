@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when Quality Assurance Authority clause (D5510D) was 
 used. At the contract stage, include clause D5620C. This clause is not to be 
@@ -31,3 +32,4 @@ Materiel is to be released for shipment using a Certificate of Conformity
    in accordance with NATO STANAG 4107 which shall be prepared by the 
    Contractor.
 </pre>
+</div>

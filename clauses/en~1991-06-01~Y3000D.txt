@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use in all bid solicitations and contracts placed on behalf of
  <abbr title="Canadian International Development Agency">
@@ -39,3 +40,4 @@ containers prior to shipment.</p>
 <p>These packaging requirements must be strictly adhered to for
 ease of identification in completing export documentation.</p>
 </div></pre>
+</div>

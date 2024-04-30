@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use of the following clause for non-competitive acquisition of commercial 
 products/services valued over $50,000 whenever price certification clause 
@@ -15,3 +16,4 @@ repayment to Canada in the amount found to be in excess of the lowest price.
 
 
 </pre>
+</div>

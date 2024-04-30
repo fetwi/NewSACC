@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This evaluation clause is to be used when it is deemed advisable to ask the 
 bidder to estimate Canada's monthly disbursements during the term of the 
@@ -13,3 +14,4 @@ the bid must include a schedule of Canada's anticipated monthly
 disbursements on account of the proposed Work.
 
 </pre>
+</div>

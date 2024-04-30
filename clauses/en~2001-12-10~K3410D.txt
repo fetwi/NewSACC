@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in conjunction with DSS-MAS 9624,"General Conditions - 
 Research and Development," where Canada is to own the foreground information.
@@ -162,3 +163,4 @@ Research and Development," where Canada is to own the foreground information.
               any order of a court or other tribunal having jurisdiction."
 
 </pre>
+</div>

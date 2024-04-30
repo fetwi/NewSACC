@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in bid solicitations in order to select a contractor on the 
 basis of lowest price compliant bid without point rating. Use in conjunction 
@@ -12,3 +13,4 @@ with A0005T or similar list of mandatory requirements.
               determining factor in awarding the Contract.
 
 </pre>
+</div>

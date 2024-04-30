@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all Science contracts when taxable goods or services 
 will be delivered and the applicable Standard Instructions and Conditions have 
@@ -37,3 +38,4 @@ The Contractor is not relieved of any obligation to pay provincial sales
    taxes on goods or taxable services used or consumed in the performance 
    of this Contract, including materials incorporated in real property. 
 </pre>
+</div>

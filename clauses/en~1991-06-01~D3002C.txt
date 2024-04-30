@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all Science contracts when dangerous goods must be 
 transported during the performance of the work. 
@@ -21,3 +22,4 @@ goods by government vehicles or government personnel.
 The Contractor must adhere to all levels of regulations regarding dangerous 
    goods as set forth by federal, provincial and municipal laws and by-laws.
 </pre>
+</div>

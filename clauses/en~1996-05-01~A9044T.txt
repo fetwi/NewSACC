@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used in solicitations for procurements exceeding $25 000, 
 for requirements that are not classified, when a list is used to invite 
@@ -9,3 +10,4 @@ This list will not be updated as new bidders request bid packages.
 
 
 </pre>
+</div>

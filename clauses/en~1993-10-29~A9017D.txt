@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in requirements where the contractor has to charter a 
 vessel in order to perform the work.
@@ -8,3 +9,4 @@ vessel in order to perform the work.
    accessible lifesaving equipment, shall be adequately manned and in full 
    accordance with the <em>Canada Shipping Act</em>.
 </pre>
+</div>

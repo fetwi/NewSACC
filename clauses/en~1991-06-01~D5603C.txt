@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause if the requisition specifies form CF 1280 and delivery 
 to and completion of installation at site is required and clause D5603T was 
@@ -12,3 +13,4 @@ Defence Quality Assurance Representative, be distributed as follows: _____ .
 The equipment shall remain the responsibility of the Contractor until 
    accepted by an authorized Department of National Defence representative. 
 </pre>
+</div>

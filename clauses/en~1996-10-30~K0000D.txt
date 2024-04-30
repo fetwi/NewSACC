@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The following clause is to be used in all solicitation and contract documents in 
 conjunction with clauses A0000C, A0000T, M0000C or M0000T, as appropriate. 
@@ -63,3 +64,4 @@ LAB-180 (_____), Labour Conditions
 LAB-180B (_____), Labour Conditions
 
 </pre>
+</div>

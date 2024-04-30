@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all contracts awarded on a requirement to which the 
 Canadian Content policy had been applied and (a) the competition had been solely 
@@ -39,3 +40,4 @@ Nothing in this clause shall be interpreted as limiting the rights and
    remedies which Canada or the Minister may otherwise have in relation to 
    or pursuant to this Contract.  
 </pre>
+</div>

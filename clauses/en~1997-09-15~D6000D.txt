@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts placed with a U.S. supplier. When requests 
 for routing instructions are received from the supplier, the contracting officer 
@@ -48,3 +49,4 @@ of routing instructions.
                      transportation charges.
 
 </pre>
+</div>

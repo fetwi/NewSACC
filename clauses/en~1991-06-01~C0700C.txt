@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in competitive fixed time rate contracts for service 
 and material.  Fixed time rates may also include a pro-rata allowance for 
@@ -9,3 +10,4 @@ government representative who will verify time charged.
    will be verified by _____ before or after payment is made to the 
    Contractor under the terms and conditions of this Contract.
 </pre>
+</div>

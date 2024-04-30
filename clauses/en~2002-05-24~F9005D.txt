@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause as an additional paragraph in a security requirement 
 clause, ONLY after the client department has given written permission for this 
@@ -26,3 +27,4 @@ who holds a valid security clearance at the level of _____, provided by the
 department or agency for which the Work is being performed.
 
 </pre>
+</div>

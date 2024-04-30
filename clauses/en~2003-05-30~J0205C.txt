@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause to stop the work using a facsimile, electronic or other 
 written initial Notice of Termination for Convenience, when the client has 
@@ -25,3 +26,4 @@ Notice of Partial Termination with additional information will follow.
 
 
 </pre>
+</div>

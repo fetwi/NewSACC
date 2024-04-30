@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the U.S. contract specifies government inspection 
 at plant and neither MIL-I-45208 nor MIL-Q-9858 is specified. Insert the name of 
@@ -25,3 +26,4 @@ The Contractor shall comply with the requirements of Specification AQAP-9.
 
 
 </pre>
+</div>

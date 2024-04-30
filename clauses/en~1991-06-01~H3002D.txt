@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use clause H3002D for cost reimbursable or fixed time rate contracts when using 
 clause H3000D or H3001T.  (For cost reimbursable contracts only, after the 
@@ -14,3 +15,4 @@ Progress payments shall be regarded as interim payments only.  The Minister
    overpayments resulting from such progress payments or otherwise shall be 
    promptly refunded to Canada.
 </pre>
+</div>

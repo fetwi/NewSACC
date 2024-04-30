@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause to define a requirement for a Recommended Spare Parts List for 
 new equipment acquisitions. In variable &lt;&lt;1&gt;&gt; insert "bid" at the solicitation 
@@ -33,3 +34,4 @@ stage and insert "Contract" at the contract stage.
 
 
 </pre>
+</div>

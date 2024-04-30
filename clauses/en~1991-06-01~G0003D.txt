@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Direct the contractor to use the following clause in the insurance policy 
 conditions when the insurance is in the joint names of Canada and the 
@@ -14,3 +15,4 @@ Justice, Kent and Wellington Streets, Ottawa, Ontario K1A 0H8.
 
  
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -44,3 +45,4 @@ An official list of Federal Government authorized persons in the Ottawa/
    Hull region will be forwarded to the Supplier by the Contracting 
    Authority prior to the commencement date of the Standing Offer. 
 </pre>
+</div>

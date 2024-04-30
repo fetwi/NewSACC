@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used in solicitations involving final delivery to locations 
 outside Comprehensive Land Claims Settlement Areas (CLCSAs) when the original 
@@ -28,3 +29,4 @@ suppliers who have been approved for (issuance/award) of a (Standing Offer/
 Contract)under this (Request for Standing Offer/Request for Proposal).
 
 </pre>
+</div>

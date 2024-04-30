@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Risks arising from work under the contract should be identified and assessed to 
 ensure that the contractor is adequately insured and to protect the interests of 
@@ -31,3 +32,4 @@ necessary.
 
 
 </pre>
+</div>

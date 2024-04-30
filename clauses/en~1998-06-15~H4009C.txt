@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in multi-fiscal year "Limitation of Expenditure" and 
 "Ceiling Price" contracts valued at $100,000 or less.
@@ -9,3 +10,4 @@ the period the Work is being performed under the Contract. The statement
 shall be in the format attached hereto as Annex "____."
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause where Canada is to own the Foreground Information, if 
 the Crown is prepared, at the time of the Contract, to consider granting the 
@@ -42,3 +43,4 @@ complete system to the private sector, then the following clause may be used.
        such information or data or such personal information.
 
 </pre>
+</div>

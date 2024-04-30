@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following text when preparing a telegraphic or facsimile Stop Work Order 
 if a termination for convenience is contemplated or if a review of the contract 
@@ -17,3 +18,4 @@ File No. _____.
        Authority with current detailed Contract status information".
 
 </pre>
+</div>

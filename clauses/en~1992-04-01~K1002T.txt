@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Include the following clause and form DSS-MAS 4079, Statement of Eligible Goods, 
 in bid solicitations subject to the Canada-U.S. Free Trade Agreement, and in 
@@ -27,3 +28,4 @@ Should a verification by the Minister disclose a breach of such covenant,
    the Minister shall have the right to treat any contract resulting from 
    this bid as being in default.  
 </pre>
+</div>

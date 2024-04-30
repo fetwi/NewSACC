@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause for tooling acquired on a cost basis if the estimated 
 value of such tooling is over $500.  Enter fill-in data. 
@@ -74,3 +75,4 @@ contain the following particulars;
    AMES Directorate, Department of Supply and Services, Hull, Quebec, K1A 
    0S5.
 </pre>
+</div>

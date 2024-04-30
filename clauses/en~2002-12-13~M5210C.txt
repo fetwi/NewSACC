@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in standing offers where the performance of the work 
 will involve a fair wage schedule.
@@ -16,3 +17,4 @@ will involve a fair wage schedule.
        determined by the federal government.
 
 </pre>
+</div>

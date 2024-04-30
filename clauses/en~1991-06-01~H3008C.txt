@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use he following clause in all Science contracts. 
 </pre>
@@ -30,3 +31,4 @@
    thereof, such Work has been accepted in accordance with the terms of 
    this Contract. 
 </pre>
+</div>

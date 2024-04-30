@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause whenever a definition of Canadian goods and Canadian 
 services is required.  This clause must always be used whenever clauses K4001T, 
@@ -97,3 +98,4 @@ K4002T, K4003T, K4004T, K4005T and K4006T are used.
 
 
 </pre>
+</div>

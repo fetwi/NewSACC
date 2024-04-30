@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in bid solicitations and contracts which incorporate general 
 conditions such as 1034 and 2029, which do not include provisions for damage to 
@@ -10,3 +11,4 @@ the carrying out thereof, or shall, upon reasonable notice, promptly repair
 such damage or substitute such loss to Canada's satisfaction.
 
 </pre>
+</div>

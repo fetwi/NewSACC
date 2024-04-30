@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in "as and when requested" type contracts.
 </pre>
@@ -5,3 +6,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contract is in effect from _____ to _____ inclusive.
 
 </pre>
+</div>

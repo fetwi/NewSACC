@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when contract security is required.  Copies of the annexes 
 referred to in this clause can be found in the Supply Manual under "Annexes".
@@ -137,3 +138,4 @@ referred to in this clause can be found in the Supply Manual under "Annexes".
    coupons and send them to the bidder at the address noted on the bid, 
    unless advised otherwise by the Contractor.
 </pre>
+</div>

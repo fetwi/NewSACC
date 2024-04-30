@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause to define the palletization requirements for shipments to 
 Canadian Forces Supply Depots.
@@ -10,3 +11,4 @@ delivery to 25 CFSD (1B) and 42 in. for delivery to 7 CFSD (1A). Any
 exception shall require the prior approval of the Contracting Authority.
 
 </pre>
+</div>

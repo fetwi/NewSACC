@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when samples are required. "Days" may be replaced by 
 "weeks" or "months" as appropriate, and "per week" may be replaced by "per day" 
@@ -10,3 +11,4 @@ The balance shall be delivered at the rate of _____ per week thereafter
 until completion.
 
 </pre>
+</div>

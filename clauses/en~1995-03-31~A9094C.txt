@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause should be used when a proposed contractor has started work at its 
 own risk without the authorization of a government official, prior to contract 
@@ -29,3 +30,4 @@ produced by the Contractor in the performance of the Precontractual Work
 shall vest and remain in Canada.
 
 </pre>
+</div>

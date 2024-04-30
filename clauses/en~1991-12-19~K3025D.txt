@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Add the following clause in a contract for research and development, for 
 professional services or for a design phase of a multiphase procurement of a 
@@ -36,3 +37,4 @@ information:
 
        (c)  is independently developed by or for Canada.  
 </pre>
+</div>

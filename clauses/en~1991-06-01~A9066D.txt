@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -5,3 +6,4 @@
    personnel on equipment on board the vessel.  Such work will be carried 
    out at times mutually acceptable to the Crown and to the Contractor. 
 </pre>
+</div>

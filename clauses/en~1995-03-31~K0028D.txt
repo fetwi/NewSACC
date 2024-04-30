@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in science contracts when General Conditions - 
 Universities and Other Institutions, DSS-MAS 1053, are incorporated into the 
@@ -34,3 +35,4 @@ contract.
    of the price paid to date of default and any amounts otherwise payable 
    pursuant to this paragraph 3 exceed the total Contract Price.
 </pre>
+</div>

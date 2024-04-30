@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause for bid solicitations/contracts involving the services 
 of a non-resident when it is anticipated that the non-resident may be required 
@@ -11,3 +12,4 @@ See SPM Directive 4159.
    pay the Customs duty, excise taxes and goods and services tax assessed 
    by the customs officials.
 </pre>
+</div>

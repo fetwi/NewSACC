@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all competitive contracts awarded to other than a 
 low bidder on the basis of the application of the Canadian Content Premium 
@@ -41,3 +42,4 @@ In this clause, "shortfall" means the difference (measured in dollars)
    disclosed in a verification by the Minister where the amount disclosed 
    in the verification is less than the amount in the Statement.
 </pre>
+</div>

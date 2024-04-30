@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause to outline Bidder/Contractor responsibility to inspect 
 and provide an inspection/test report of actual measurements taken when 
@@ -52,3 +53,4 @@ procurement is for Safety Critical Class 3 Threaded Fasteners, NSN classes 5305,
        declared as non-responsive.
 
 </pre>
+</div>

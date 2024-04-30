@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following text in preparing a Termination by Mutual Consent only after a 
 supporting legal opinion or approval from a Legal Advisor has been obtained. 
@@ -12,3 +13,4 @@ or omitted to be done under the Contract.
 Please confirm your agreement with termination on the above terms by 
    signing and returning a copy to the Contracting Officer.
 </pre>
+</div>

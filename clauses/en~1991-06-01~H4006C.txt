@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Science contracts when the customer department has 
 requested a draft final report. 
@@ -11,3 +12,4 @@ the English language.
 A copy of the covering letter accompanying the final report shall be 
    forwarded to the Science Contracting Officer. 
 </pre>
+</div>

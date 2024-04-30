@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Science contracts when a draft final report is 
 required and details of the report content have not been included in the 
@@ -18,3 +19,4 @@ applicable, supporting graphs, tables and figures.
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Terminations shall not be declared without a written legal opinion. In seeking 
 the opinion of Legal Services, the contracting officer must submit the contract 
@@ -18,3 +19,4 @@ format or otherwise, and documentation which have been made or obtained in
 relation to this Contract.
 
 </pre>
+</div>

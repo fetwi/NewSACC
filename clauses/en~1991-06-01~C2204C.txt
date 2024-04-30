@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts where the GST may apply.  No GST clause is 
 necessary where the contract is for imported services or imported intangible 
@@ -14,3 +15,4 @@ personal property.
    identified as such on all invoices.  The Contractor agrees to remit to 
    Revenue Canada any GST paid or due.
 </pre>
+</div>

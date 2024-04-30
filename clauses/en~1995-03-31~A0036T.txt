@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause when the evaluation will be done using mandatory minimum 
 requirements and point rating and where the selection will be on the basis of 
@@ -24,3 +25,4 @@ could be A0275T.
    a standing offer, as the case may be, provided that the estimated total 
    price does not exceed the funds available for this requirement.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause if, or when, the deliverables identified in the 
 contractual document will be services not specifically related to the purchase 
@@ -56,3 +57,4 @@ of Information Technology (IT) systems.
        whichever is the later date.
 
 </pre>
+</div>

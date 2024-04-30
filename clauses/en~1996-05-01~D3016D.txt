@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause to define the packaging specifications for the procurement of 
 items covered by a commodity packaging specifications.   In the first blank, 
@@ -37,3 +38,4 @@ bearings).
 latest issue of the Canadian Forces packaging specifications _____.
 
 </pre>
+</div>

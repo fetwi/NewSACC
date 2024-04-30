@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause may be used in contracts when the Treasury Board Travel Directive 
 will be used and when no overhead costs for travel will be allowed.
@@ -16,3 +17,4 @@ All payments are subject to Government Audit.
 All travel must have prior authorization of the Project Authority.
 
 </pre>
+</div>

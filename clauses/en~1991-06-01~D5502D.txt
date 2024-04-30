@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Insert the applicable specification and applicable extension period when an 
 Allied Quality Assurance Publication (AQAP) is required as follows:
@@ -21,3 +22,4 @@ comply with the requirements of: _____
 The Contractor shall retain quality control and inspection records for a 
    period of _____ years from the date of the completion of the Contract.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -89,3 +90,4 @@ The Minister may terminate the Agreement at any time, and the fees paid to
 the Consultant shall be in accordance with the relevant provisions in GC 5.11.
 
 </pre>
+</div>

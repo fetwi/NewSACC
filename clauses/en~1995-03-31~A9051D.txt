@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in bid solicitations and contract documents for the procurement 
 of equipment when the rights to translation of existing commercial publications 
@@ -20,3 +21,4 @@ copies of each publication shall be forwarded to:
 
        Attention:  _____
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when an estimate of the cost of performing specific 
 work is required prior to issuing call-ups.  Call-ups should contain the 
@@ -14,3 +15,4 @@ User.  The estimated cost stated in the call-up shall not be exceeded
 without the specific written authorization of the Identified User.
 
 </pre>
+</div>

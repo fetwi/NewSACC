@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts where travel and living expenses at cost 
 (with no allowance for overhead or profit) are to be directly charged to the 
@@ -16,3 +17,4 @@ profit.  All payments are subject to government audit.
 
 
 </pre>
+</div>

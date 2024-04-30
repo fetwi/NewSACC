@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts which are for research and development or 
 for professional services, in contracts for the design phases of a multiphase 
@@ -100,3 +101,4 @@ design, including the assistance of the inventor in the case of Inventions.
 
 
 </pre>
+</div>

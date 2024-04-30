@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Refer to the chart "Summary of Benefits from Treasury Board of Canada 
 Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
@@ -23,3 +24,4 @@ Inuit of Nunavut Land Claims Agreement, clauses:
               the employment and training provisions set out in Article 23.
 
 </pre>
+</div>

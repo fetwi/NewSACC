@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>This clause is to be used in all negotiated firm-price bid solicitation 
 documents for non-commercial goods and services with an anticipated foreign 
@@ -77,3 +78,4 @@ based on the following criteria:
 6.  For Canadian-based suppliers, the Minister shall have the right to 
    audit any revision to costs under this clause.
 </pre>
+</div>

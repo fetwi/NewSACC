@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when the end item being produced will 
 remain in Canada as property of the U.S. Government.  
@@ -21,3 +22,4 @@ The details and procedures are set out in Revenue Canada Memorandum D7-3-11
    dated June 1,1986 which is available from local Customs and Excise 
    offices.   
 </pre>
+</div>

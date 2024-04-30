@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>It is highly advisable that all contracts contain either this clause or G1005D 
 as may be applicable.  The following clause should be used when insurance 
@@ -34,3 +35,4 @@ and, (3) commercial insurance is applicable.
        copy of all applicable insurance policies.
 
 </pre>
+</div>

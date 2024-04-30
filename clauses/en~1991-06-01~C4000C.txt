@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts where travel and living expenses, plus 
 profit, are to be directly charged to the contract. Refer to SPM Directive 4008. 
@@ -22,3 +23,4 @@ STRIKE OUT<strong><strong><strong> OR </strong></strong></strong>COMPLETE AS APP
 
 All payments are subject to government audit. 
 </pre>
+</div>

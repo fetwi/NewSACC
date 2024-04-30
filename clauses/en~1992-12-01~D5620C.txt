@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Insert the applicable text for all DND contracts where Government Quality 
 Assurance at source is a requirement and clause D5601D was used.  Enter the 
@@ -34,3 +35,4 @@ shall be distributed as follows:
 _____
 
 </pre>
+</div>

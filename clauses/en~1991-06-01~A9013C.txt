@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Science contracts when the selection of the 
 contractor was based on the qualifications of the proposed personnel, and that 
@@ -35,3 +36,4 @@ Notwithstanding the foregoing, the Contractor is required to perform the
    Work and provide the services in accordance with the terms of this 
    Contract.
 </pre>
+</div>

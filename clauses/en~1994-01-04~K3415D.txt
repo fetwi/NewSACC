@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause where the contractor is to be required to exploit the 
 intellectual property in Canada.
@@ -137,3 +138,4 @@ intellectual property in Canada.
    Canada, the Contractor shall upon demand account for and pay to Canada 
    any net revenues earned by the Contractor as a result of the breach.
 </pre>
+</div>

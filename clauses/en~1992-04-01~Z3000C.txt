@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when the DSS Priorities and Allocations 
 Officer has authorized use of a priority rating.    
@@ -51,3 +52,4 @@ Should the Contractor need assistance in obtaining delivery under a
    delinquent Rated Order with a U.S. firm, a request should also be made 
    to the Priorities and Allocations Officer.   
 </pre>
+</div>

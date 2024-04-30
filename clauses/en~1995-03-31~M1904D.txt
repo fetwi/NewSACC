@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The purpose of form "Call-Up Against a Standing Offer" (DSS-MAS 944) or 
 "Commande subséquente à une offre permanente" (DSS-MAS 945) is to allow an 
@@ -46,3 +47,4 @@ prevent competition.
    and only after the Offeror has been provided with a reasonable 
    opportunity to remedy the default.
 </pre>
+</div>

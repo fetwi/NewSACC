@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when a documented Quality Plan is required.  The clause 
 is used in conjunction with clause D5510D, Quality Assurance Authority, and the 
@@ -43,3 +44,4 @@ Software and System Engineering Guidelines for the Application of ISO 9001:
 
 
 </pre>
+</div>

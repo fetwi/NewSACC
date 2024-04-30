@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -19,3 +20,4 @@ The posted prices per litre are subject to upward or downward adjustment to
    called up and delivered between the effective date and the date of 
    termination of Contract/withdrawal of Standing Offer. 
 </pre>
+</div>

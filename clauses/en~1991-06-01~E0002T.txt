@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations when contract security will only 
 be required after bid evaluations if the risk involved in letting the contract 
@@ -11,3 +12,4 @@ to the successful bidder warrants it.  Refer to SPM Directive 2103.
    the Bidder shall provide it and the cost of providing such security as 
    stated above will be included in any contract awarded.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
 Buildings.
@@ -8,3 +9,4 @@ Representative</em> of any noted problems or the need for more information,
 clarification and direction.
 
 </pre>
+</div>

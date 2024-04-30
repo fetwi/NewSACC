@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -490,3 +491,4 @@ of such data files with the Custom Software.
 3.     The provisions of this section shall not be interpreted so as to 
    limit in any way the intellectual property  provisions of the Contract.
 </pre>
+</div>

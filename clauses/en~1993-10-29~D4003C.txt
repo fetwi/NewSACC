@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause in contracts with suppliers located in California when title is 
 not to be taken by Canada until delivery.  This clause is to be used in 
@@ -14,3 +15,4 @@ United States of America shown under _____ above.  Title to the goods shall
 pass to Canada at the time of such delivery.  
 
 </pre>
+</div>
