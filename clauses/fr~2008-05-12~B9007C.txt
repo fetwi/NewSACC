@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats de radoub des navires du 
 gouvernement pour les besoins du ministère de la Défense nationale.
@@ -32,3 +33,4 @@ contractante de la façon suivante :</p>
 <li value="3">une copie à l'entrepreneur.</li>
 </ol>
 </div></pre>
+</div>

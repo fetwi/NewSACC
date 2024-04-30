@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les agents de négociation des contrats peuvent inclure cette clause dans la 
 section de la demande de soumissions portant sur la préparation des soumissions 
@@ -7,3 +8,4 @@ financières.
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les soumissionnaires doivent proposer des prix ou des taux fermes pour tous 
    les articles énumérés dans l'(les) annexe(s) « ____ ».
 </pre>
+</div>

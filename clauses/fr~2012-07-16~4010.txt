@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales supplémentaires suivantes dans les contrats pour les besoins plus complexes, 
@@ -30,3 +31,4 @@ des services.
 <h2 id="2012-07-164010traduction-de-la-documentation">4010 02 (2012-07-16) Traduction de la documentation</h2>
 <p>L'entrepreneur convient que le Canada peut traduire dans l'autre langue officielle toute documentation qui lui a été livrée par l'entrepreneur et qui n'appartient pas au Canada en vertu de l'article 01. L'entrepreneur reconnaît que le Canada est propriétaire de la traduction et qu'il n'a aucune obligation de fournir une traduction à l'entrepreneur. Le Canada convient que toute traduction doit comprendre tout avis de droit d'auteur et tout avis de droit de propriété qui faisait partie de l'original. Le Canada reconnaît que l'entrepreneur n'est pas responsable des erreurs techniques ou d'autres problèmes qui pourraient être causés par la traduction.</p>
 </div></pre>
+</div>

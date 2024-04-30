@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Ne pas utiliser la clause suivante dans les contrats du ministère de la Défense 
 nationale.  Utiliser cette clause dans tous les contrats des autres ministères, 
@@ -31,3 +32,4 @@ les parenthèses dans b), préciser les coordonnées de l'usine de l'entrepreneu
 
 
 </pre>
+</div>

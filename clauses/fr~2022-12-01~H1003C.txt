@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque des paiements progressifs seront versés en fonction des frais engagés en présentant le formulaire de demande de paiement progressif
@@ -74,3 +75,4 @@
 <li value="3">Les paiements progressifs ne sont que des paiements provisoires. Le Canada peut procéder à une vérification gouvernementale et des vérifications provisoires du temps et des coûts et apporter lorsqu'il y a lieu des correctifs au contrat pendant l'exécution des travaux. Tout paiement en trop qui résulte du versement des paiements progressifs ou d'une autre cause doit être remboursé rapidement au Canada.</li>
 </ol>
 </div></pre>
+</div>

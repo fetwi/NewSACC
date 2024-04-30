@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -239,3 +240,4 @@ Pour les gouvernements, de même que pour les entités contrôlées par un gouve
 <li value="2">Si l'offrant fait faillite ou devient insolvable, ou qu'il se prévaut des dispositions d'une loi sur les débiteurs en faillite ou insolvables, ou qu'un séquestre est désigné aux termes d'un titre de créance ou qu'une ordonnance de séquestre est prononcée à son égard ou encore, qu'une ordonnance est rendue ou qu'une résolution est adoptée en vue de la liquidation de son entreprise, le responsable de l’offre à commandes peut, moyennant un avis écrit à l'offrant, sans délai mettre de côté l’offre à commandes.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions lorsque le soumissionnaire retenu pourra être appelé à démontrer que la capacité certifiée de son installation de carénage est appropriée.
@@ -8,3 +9,4 @@
 <p>Avant l'attribution du contrat et dans les <span class="input-required"><var>______</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours civils suivant la réception d'un avis écrit de l'autorité contractante, le soumissionnaire retenu doit fournir une attestation courante et valide de la capacité et de l'état des installations de carénage devant être utilisées pour les travaux. Cette attestation doit être fournie par un expert-conseil reconnu ou une société de classification reconnue et avoir été émise au cours des deux dernières années.</p>
 <p>Bien qu'une installation de carénage puisse avoir une capacité totale supérieure à celle du navire à radouber, la distribution du poids du navire peut entraîner une surcharge pour les blocs. En outre, bien que les dimensions physiques d'une installation de carénage puissent porter à croire qu'elles pourraient accueillir un navire déterminé, d'autres limitations comme l'espace des rails sur des bers roulants, des jetées en béton ou des contreforts adjacents au bassin, pourraient empêcher l'installation d'être considérée comme un emplacement possible de carénage et rendre la soumission non recevable.</p>
 </div></pre>
+</div>

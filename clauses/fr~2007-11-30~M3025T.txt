@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans toutes les demandes d'offres à commandes 
 concurrentielles pour des services afin d'identifier tout offrant qui pourrait 
@@ -90,3 +91,4 @@ l'offrant pour répondre aux exigences plus haut est exacte et complète.
 
 
 </pre>
+</div>

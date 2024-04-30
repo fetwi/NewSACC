@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   La clause suivante est utilisée dans les demandes de soumissions pour l’achat de vêtements énumérés à l’annexe A de l’
@@ -12,3 +13,4 @@
 <li>Lieu où seront effectués les travaux  :<span class="input-required"><var>________</var>(veuillez indiquer l’adresse complète si elle diffère de l’adresse indiquée au point a.)</span></li>
 <li>Nature des travaux réalisés par le fabricant ou sous-traitant  : <span class="input-required"><var>________</var></span></li>
 </ol> <p>(Saisissez les renseignements sur chaque fabricant et chaque sous-traitant)</p> <p>L’entrepreneur ne pourra recourir à aucun fabricant ou sous-traitant autre que ceux nommés ci-dessus sans l’autorisation écrite du Canada.</p> <p>Le soumissionnaire consent à ce que le Canada divulgue publiquement les renseignements fournis en lien avec les pays d’origine. </p> <p>Les soumissionnaires doivent immédiatement aviser le Canada par écrit de toute modification ayant une incidence sur les renseignements fournis au titre de la présente clause pendant toute la période de validité de la soumission.</p></pre>
+</div>

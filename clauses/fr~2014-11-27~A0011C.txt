@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsqu'un calendrier de projet n'a pas été demandé ailleurs dans le contrat, s'il y a lieu.  Utiliser la clause en conjonction avec
@@ -28,3 +29,4 @@ mettre en évidence les échéances précises des étapes énumérées ci-dessou
 <li value="3">Le calendrier doit être mis à jour régulièrement et être disponible dans les bureaux de l'entrepreneur pour que les représentants du Canada puissent l'examiner afin d'évaluer l'avancement des travaux.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats qui incluent les conditions 
 générales autres que 9601 ou 9624 lorsque les déchets et débris deviendront la 
@@ -12,3 +13,4 @@ qui devra procéder à leur enlèvement des lieux.
 
 
 </pre>
+</div>

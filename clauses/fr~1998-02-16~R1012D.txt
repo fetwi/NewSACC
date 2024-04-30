@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans l'entente de services d'expert-conseil en 
 architecture et en génie - bâtiments.
@@ -5,3 +6,4 @@ architecture et en génie - bâtiments.
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les <em>services</em> de base sont modifiés comme suit : _____.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque le contrat fait référence aux spécifications 
 ou aux normes militaires des États-Unis.
@@ -10,3 +11,4 @@ ou aux normes militaires des États-Unis.
    États-Unis, Philadelphie, téléphone: (215) 697-2179 / 2667; télécopieur: 
    (215) 697-1462.
 </pre>
+</div>

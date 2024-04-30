@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats de services impliquant des 
@@ -32,3 +33,4 @@ Services consultatifs de gestion des risques de
 <li value="4">Avis d'annulation : L’entrepreneur fournira à l'autorité contractante un avis écrit de trente (30) jours  avant l’annulation de la police ou tout autre changement à la police d’assurance.</li>
 </ol>
 </div></pre>
+</div>

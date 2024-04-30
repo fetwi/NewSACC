@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les offres à commandes.  L'ordre de priorité 
@@ -43,3 +44,4 @@ date de l'offre</em>)</kbd></span>, telle que modifiée le
 modification(s), s'il y a lieu</em>)</kbd></span>.</li>
 </ol>
 </div></pre>
+</div>

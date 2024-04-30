@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque tous les travaux dans le cadre d'un contrat doivent être réalisés au moyen d'autorisations de tâches afin de limiter l'obligation du Canada dans le cadre de celui-ci en fonction du montant précisé ci-après. Utiliser cette clause en conjonction avec
@@ -32,3 +33,4 @@ augmentation autorisée par écrit par l'autorité contractante.</li>
 <li value="4">Si le Canada résilie le contrat en totalité ou en partie pour inexécution, le Canada n'assumera aucune obligation envers l'entrepreneur en vertu de cette clause.</li>
 </ol>
 </div></pre>
+</div>

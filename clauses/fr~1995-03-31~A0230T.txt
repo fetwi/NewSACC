@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La présente clause d'évaluation doit être utilisée lorsqu'on estime qu'il est 
 préférable de demander au soumissionnaire de fournir le montant estimatif des 
@@ -14,3 +15,4 @@ tableau des paiements mensuels anticipés que devra verser le Canada pour
 l'exécution des travaux proposés.
 
 </pre>
+</div>

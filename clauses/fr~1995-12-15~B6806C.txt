@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante ne doit être utilisée qu'avec la ou les clauses appropriées 
 décrites à la section «F» du Guide des CCUA.
@@ -17,3 +18,4 @@ devront être fournis par l'entrepreneur.
 
 
 </pre>
+</div>

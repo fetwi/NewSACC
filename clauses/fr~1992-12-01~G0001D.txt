@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante doit être utilisée lorsque la nature du travail à exécuter 
 comporte un facteur de risque exceptionnel pour les tiers.  Établir les limites 
@@ -45,3 +46,4 @@ d)     PREUVE D'ASSURANCE : Après l'adjudication de contrat, l'entrepreneur
    d'assurance émise par l'assureur (les assureurs) comme preuve du fait 
    que l'assurance requise a été souscrite.
 </pre>
+</div>

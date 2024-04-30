@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Reproduire intégralement la clause suivante au début de l'invitation à 
 soumissionne lorsque le marché est réservé en vertu de la Politique sur les 
@@ -17,3 +18,4 @@ l'Accord Canada-Corée sur les achats de matériel de télécommunications
 (ACCMT), et (ou) article 1802 de l'Accord sur le commerce intérieur (ACI)</em></strong>.
 
 </pre>
+</div>

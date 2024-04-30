@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante de distribution des documents si la clause D5601D a 
 été utilisée sauf lorsque le contrat est pour les entrepreneurs canadiens 
@@ -41,3 +42,4 @@ l'initiateur de la demande.
 <strong>NOTA : </strong>Pour les contrats relatifs à la livraison de carburant aux aéronefs, 
    les exemplaires 2, 3, 4 et 5 ne sont pas requis et peuvent être détruits.
 </pre>
+</div>

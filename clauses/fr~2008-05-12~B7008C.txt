@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit produire des modèles réglementaires en un lot spécial suite à l'acceptation d'un échantillon de pré-production mais avant que la production commence.  Les agents de négociation des contrats doivent insérer le nom et l'adresse de la destination pour les modèles réglementaires.
@@ -12,3 +13,4 @@ Certificat d'inspection et de sortie, du ministère de la Défense nationale. Ce
 <p>Nom : <var>_____</var></p>
 <p>Adresse : <var>_____</var></p>
 </div></pre>
+</div>

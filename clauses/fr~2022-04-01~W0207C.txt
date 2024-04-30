@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut et pour lesquels la soumission évaluera les Plans des avantages pour les Inuits (PAI).
@@ -96,3 +97,4 @@
 </p> <p>L’entrepreneur doit fournir _______ <kbd><cite>(inscrire la description correspondante de l’exigence)</cite></kbd> conformément au Besoin de l’annexe ______ et à son engagement présenté dans le <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur figurant à l’annexe « ____ » (Plan des avantages pour les Inuits).</p> <p><strong>Ou</strong>
 </p> <p>L’entrepreneur doit fournir _______ <kbd><cite>(inscrire la description correspondante de l’exigence)</cite></kbd> conformément au Besoin de l’annexe ______, à la soumission technique de l’entrepreneur du _____ et intitulée _____, et à son engagement présenté dans le <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur figurant à l’annexe « ____ » (Plan des avantages pour les Inuits).</p> <p><strong>Ou</strong>
 </p> <p>L’entrepreneur doit fournir _______ <kbd><cite>(inscrire la description correspondante de l’exigence</cite></kbd>) conformément au Besoin de l’annexe ______, au volet technique et à la gestion expliqués dans la soumission de l’entrepreneur qui date du _____ et intitulée _____, et à son engagement présenté dans le <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur figurant à l’annexe « ____ » (Plan des avantages pour les Inuits).</p></pre>
+</div>

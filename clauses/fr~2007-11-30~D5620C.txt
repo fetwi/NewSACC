@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats si la clause D5606C a été 
 utilisée, sauf lorsque le contrat est pour la réparation et la révision avec un 
@@ -41,3 +42,4 @@ et 5 ne sont pas requis et peuvent être détruits.</p>
 </li>
 </ol>
 </div></pre>
+</div>

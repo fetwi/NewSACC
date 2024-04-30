@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les agents de négociation des contrats peuvent utiliser la clause suivante dans 
 les demandes de soumissions lancées par l'administration centrale de Travaux 
@@ -30,3 +31,4 @@ numéro de télécopieur et inclure la phrase ci-après.)
 
 Les soumissions transmises par télécopieur ne seront pas acceptées.
 </pre>
+</div>

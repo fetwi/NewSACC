@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>On demande au soumissionnaire d'utiliser, dans sa proposition, un système de 
 numérotation correspondant à celui de la demande de propositions (DP) et de 
@@ -12,3 +13,4 @@ références au matériel descriptif, aux guides techniques et aux brochures.
    sites Web où l'on peut trouver de plus amples renseignements ou les 
    manuels ou les brochures techniques qui n'accompagnent pas la soumission.
 </pre>
+</div>

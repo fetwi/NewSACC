@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions lorsque les soumissionnaires devront indiquer où se trouve l'information substantielle requise pour des sections spécifiques de la demande de soumissions pour aider l'équipe chargée de l'évaluation de la soumission technique.
@@ -19,3 +20,4 @@ sections ci-dessous.</p>
 <p><var>__________________</var></p>
 <p><var>__________________</var> .</p>
 </div></pre>
+</div>

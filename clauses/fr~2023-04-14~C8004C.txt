@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque le prix du contrat est fondé sur le coût cible, un bénéfice cible pour l’entrepreneur et des ratios de partage variables entre l’entrepreneur et le Canada, conformément à la section
@@ -55,3 +56,4 @@
 </ol>
 <p>Les droits de douane sont <span class="input-required"><var>_______</var></span> <kbd>(<em>inscrire « inclus », « exclus » ou « assujettis à des exemptions »</em>)</kbd>, et les taxes applicables sont en sus.</p>
 </div></pre>
+</div>

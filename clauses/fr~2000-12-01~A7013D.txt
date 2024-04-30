@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Le texte de cette clause doit figurer dans tout document de demande de services 
 ou de fourniture et d'installation.
@@ -11,3 +12,4 @@ l'entrepreneur.  L'entrepreneur fournira sur demande au gouvernement du
 Canada une copie des permis, licences ou certificats susmentionnés.
  
 </pre>
+</div>

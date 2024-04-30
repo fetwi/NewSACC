@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <pre><h2 class="element-invisible">Table des matières</h2>
 <ul>
 <li><a href="#2022-07-06TEMPLATES10">Modèles uniformisés d'approvisionnement</a></li>
@@ -23,3 +24,4 @@
 <h2 id="2022-07-06TEMPLATES30">Pour obtenir de plus amples renseignements</h2>
 <p>Les questions concernant les modèles  peuvent être transmises à  la Division des politiques et outils relatifs aux approvisionnements par courriel à l'adresse suivante : outilsapprov.proctools@tpsgc-pwgsc.gc.ca</p>
 </pre>
+</div>

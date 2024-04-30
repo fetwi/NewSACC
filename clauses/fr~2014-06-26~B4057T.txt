@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions pour le ministère de la Défense nationale (MDN) lorsqu'un système ou de l'équipement nouveau est nouvellement introduit dans le Système d'approvisionnement des Forces canadiennes et que les publications techniques correspondantes pour les manuels sont exigées conformément aux spécifications et aux normes du
@@ -41,3 +42,4 @@ parfaitement conforme à la dernière édition de la spécification <cite>C-01-1
 <h3>Droits de traduction et de reproduction</h3>
 <p>Pour toutes les publications fournies à titre de manuels commerciaux unilingues existants, devant être parfaitement conformes à la dernière édition de la spécification <cite>C-01-100-100/AG-005, Adoption de publications provenant du commerce et de gouvernements étrangers</cite>. Le Canada doit avoir le droit de les traduire et reproduire en tout ou en partie pour les fins du gouvernement. Les soumissionnaires doivent fournir un prix pour donner ce droit au Canada.</p>
 </div></pre>
+</div>

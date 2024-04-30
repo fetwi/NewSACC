@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes de soumissions d'une valeur de 
 plus de 25000$ et moins de 200 000$ (incluant toutes les taxes applicables), 
@@ -55,3 +56,4 @@ de RHDCC.
 
 
 </pre>
+</div>

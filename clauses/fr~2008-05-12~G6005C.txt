@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats de location à court terme 
@@ -31,3 +32,4 @@ l'entrepreneur doit inscrire comme locataire comme suit : Le
 Canada, représenté par <span class="input-required"><var>_____________</var> <kbd>(<em>insérer le nom
 du ministère de l'employé</em>)</kbd></span>.</p>
 </div></pre>
+</div>

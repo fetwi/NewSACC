@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause chaque fois que le statut légal et les capacités des 
 soumissionnaires sont retenus comme critères d'évaluation.
@@ -14,3 +15,4 @@ et permettre une visite du site dans un délai de dix (10) jours civils
 suivant la date de la demande.
 
 </pre>
+</div>

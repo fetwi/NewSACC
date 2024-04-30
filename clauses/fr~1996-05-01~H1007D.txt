@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante devrait être utilisée avec la clause H1003D.
 </pre>
@@ -15,3 +16,4 @@ acomptes ou à d'autres formes de paiement devra être remboursé au Canada
 dans les plus brefs délais.
 
 </pre>
+</div>

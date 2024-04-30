@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Veuillez utiliser cette clause dans la PARTIE 7 dans la section « A. Offre à commandes » de l’
@@ -69,3 +70,4 @@
 </ul>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Le gouvernement du Canada aura le droit de déclarer une offre non recevable, ou de réserver une offre à commandes, si l’attestation de l’exigence de vaccination contre la COVID-19 est ou devient fausse, ou si l’offrant ne respecte pas une telle attestation pendant la durée de tout contrat qui en découlerait (commande subséquente).</p> <p>Le gouvernement du Canada aura également le droit de résilier toute commande subséquente qui en découlerait pour manquement si l’attestation de l’exigence de vaccination contre la COVID-19 est ou devient fausse ou si l’entrepreneur ne respecte pas une telle attestation pendant la durée du contrat (commande subséquente).</p></pre>
+</div>

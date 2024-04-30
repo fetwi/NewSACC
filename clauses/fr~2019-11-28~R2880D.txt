@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Cette clause est généralement utilisée pour les contrats dont la valeur estimée 
@@ -333,3 +334,4 @@ se situe entre 100,000 $ et 5,000,000 $.
 <h3 id="2019-11-28R2880Dsentence-arbitrale">CG8.11.18 Sentence arbitrale</h3>
 <p>Sauf entente contraire des parties, le tribunal rend la sentence dans les 30 jours suivant la clôture des audiences arbitrales sauf si, pour cause de maladie ou tout autre raison indépendante de sa volonté, il prolonge le délai pour une période déterminée, en remettant un avis écrit à chaque partie.</p>
 </div></pre>
+</div>

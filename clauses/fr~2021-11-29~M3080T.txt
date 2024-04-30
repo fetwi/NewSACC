@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Veuillez utiliser cette clause dans la section « Résumé » de toute demande d’offre à commandes (DOC) pour laquelle toute commande subséquente qui sera faite suite à une offre à commandes subséquente pourrait être assujettie à la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs.
@@ -68,3 +69,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Cette exigence est assujettie à la Politique de vaccination contre la COVID-19 relative au personnel des fournisseurs. Le fait de ne pas compléter et de ne pas fournir l’attestation de l’exigence de vaccination contre la COVID-19 comme partie intégrante de l’offre rendra l’offre non recevable.</p></pre>
+</div>

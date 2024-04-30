@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats et les demandes de propositions.  
 Les agents de négociation des contrats sont avisés que l'ordre de priorité des 
@@ -32,3 +33,4 @@ celui de tout autre document qui figure par la suite sur ladite liste.
 
 
 </pre>
+</div>

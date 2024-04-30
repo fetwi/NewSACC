@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   La clause suivante est utilisée dans les contrats pour l’achat de vêtements énumérés à l’annexe A de l’
@@ -8,3 +9,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Le formulaire d’attestation de l’achat éthique qui est intégré à la demande de soumissions à sa date de clôture fait partie intégrante du contrat auquel il est intégré. L’entrepreneur doit veiller à la conformité continue avec les dispositions du formulaire d’attestation d’achat éthique qui a été signé pendant le processus de soumission, et ce, pendant toute la période du contrat. </p> <p>La clause sur le lieu d’origine de la fabrication qui est intégrée à la demande de soumissions à sa date de clôture fait partie intégrante du contrat auquel elle est intégrée. Il revient à l’entrepreneur de veiller à l’exactitude continue de la clause sur le lieu d’origine de la fabrication. L’entrepreneur doit immédiatement aviser le Canada par écrit de toute modification ayant une incidence sur les renseignements fournis au titre de la clause sur le lieu d’origine de la fabrication, et ce, pendant toute la période du contrat. L’attestation est sujette à vérification par le Canada à tout moment pendant la période du contrat. Le Canada peut déclarer une soumission non recevable, ou un manquement de la part de l’entrepreneur, s’il est établi que l’attestation est fausse, sciemment ou non, que ce soit pendant la période d’évaluation des soumissions ou pendant la période du contrat. L’obligation continue de maintenir l’exactitude de cette attestation représente une obligation importante du contrat.</p></pre>
+</div>

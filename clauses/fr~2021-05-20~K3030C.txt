@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats si le ministère client a décidé 
@@ -62,3 +63,4 @@ matériel, il renonce en permanence à ses droits moraux se
 rapportant au matériel.</li>
 </ol>
 </div></pre>
+</div>

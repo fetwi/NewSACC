@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats prévoyant l'expédition
@@ -36,3 +37,4 @@ transports mentionné ci-dessus. On peut obtenir la formule DD
 1659 du <span lang="en-CA"><abbr title="Defence Contract Management Americas">DCMA</abbr></span> (Canada) (téléphone 613-992-9020).</li>
 </ol>
 </div></pre>
+</div>

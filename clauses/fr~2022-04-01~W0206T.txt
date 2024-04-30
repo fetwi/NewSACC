@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant aux demandes de soumissions assujetties à la Directive du Nunavut et qui sont limitées aux appels d’offres pour les entreprises inscrites au Répertoire des entreprises inuites (REI).
@@ -107,3 +108,4 @@
 <li>Les soumissionnaires doivent s’inscrire au <abbr title="Répertoire des entreprises inuites">REI</abbr> <span class="input-required"><kbd><cite>(choisir « avant la clôture des soumissions »</cite> <strong><cite>ou</cite></strong> <cite>« dans les <var>___</var>[inscrire le nombre de jours ouvrables] jours ouvrables après la clôture des soumissions »).</cite></kbd></span> Si un soumissionnaire ne s’inscrit pas dans le délai imparti, son offre sera déclarée non recevable et sera rejetée.</li>
 <li>Si l’inscription au Répertoire des entreprises inuites n’est pas maintenue pendant la durée du contrat, le Canada peut résilier le contrat pour manquement.</li>
 </ol></pre>
+</div>

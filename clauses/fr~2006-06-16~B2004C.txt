@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque les agents de négociation des contrats doivent acheter du bois de construction de dimensions courantes ou des matériaux de construction pouvant inclure l'achat de bois de construction de dimensions courantes.
@@ -13,3 +14,4 @@ l'agence qui est autorisée par le Conseil d'accréditation
 de la Commission canadienne de normalisation du bois à
 effectuer la classification du bois au Canada.</p>
 </div></pre>
+</div>

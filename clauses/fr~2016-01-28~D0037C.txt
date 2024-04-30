@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats décrits ci-dessous lorsque l'entrepreneur est situé au Canada et que le ministère de la Défense nationale (MDN) est responsable de l'expédition :
@@ -79,3 +80,4 @@ Courriel blogILAA@forces.gc.ca
 <li value="7">Si la livraison des biens est reportée du fait des retards occasionnés par le Canada, la propriété sur les biens ainsi que les risques encourus doivent être transférés au Canada après un délai de 30 jours suivant la date à laquelle le Canada ou son transitaire désigné aura reçu une demande d'expédition en bonne et due forme ou 30 jours suivant la date de livraison spécifiée dans le contrat, le délai le plus long étant retenu.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante doit apparaître dans tous les documents relatifs à 
 l'Autorisation de passer une offre à commandes et des commandes subséquentes 
@@ -11,3 +12,4 @@ du MAS _____, reçu de _____, tel qu'indiqué ci-dessous dans la clause _____
 du Guide des clauses et conditions uniformisées d'achat.
 
 </pre>
+</div>

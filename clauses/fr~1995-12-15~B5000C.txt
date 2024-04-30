@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour les besoins de la Défense nationale 
 susceptibles d'être l'objet de modifications ou d'écarts par rapport au modèle 
@@ -13,3 +14,4 @@ autorisé à approuver, au nom du Canada, des modifications, des écarts et
 des demandes d'exemption jusqu'à concurrence d'un montant total de 1 000 $. 
 
 </pre>
+</div>

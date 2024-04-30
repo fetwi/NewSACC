@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de 
@@ -33,3 +34,4 @@ emploi et fassent entrer en ligne de compte les connaissances du
 milieu local qu'ont les Tr'ondëk Hwëch'in.</li>
 </ul>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats lorsque la préparation en vue de 
 la livraison doit être conforme à la commande d'emballage pour le transport - 
@@ -12,3 +13,4 @@ de la commande d'emballage pour le transport - Forces canadiennes
 (CETFC) <var>____</var> , en date du <span class="input-required"><var>____</var> <kbd>(<i>insérer le numéro
 et la date de la CETFC</i>)</kbd></span>.</p>
 </div></pre>
+</div>

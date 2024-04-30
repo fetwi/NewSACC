@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante avec une « entente - ouverte » seulement.
 </pre>
@@ -399,3 +400,4 @@ Conformément à l'alinéa 221 (1) d) de la <em>Loi de l'impôt sur le revenu</e
    donne son NEA, il doit s'assurer de l'exactitude des renseignements qui 
    le concerne dans le système Données d'inscription des fournisseurs.
 </pre>
+</div>

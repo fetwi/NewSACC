@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante pour résilier le contrat dans son entier pour 
 manquement.  Les agents de négociation des contrats doivent indiquer pour quels 
@@ -30,3 +31,4 @@ compris tout montant dépassant le prix contractuel que le
 Canada serait obligé de payer pour se procurer ailleurs les
 biens, les services ou les deux.</p>
 </div></pre>
+</div>

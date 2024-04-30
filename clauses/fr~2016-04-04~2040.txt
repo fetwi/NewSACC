@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales suivantes pour les besoins concurrentiels et non concurrentiels visant l'acquisition de biens et de services de recherche et développement, lorsqu'on invite les soumissionnaires à proposer des façons innovatrices de satisfaire un besoin particulier (
@@ -596,3 +597,4 @@
 <h2 id="2016-04-042040code-de-conduite-pour-approvisionnement">2040 55 (2016-04-04) Code de conduite pour l’approvisionnement – contrat</h2>
 <p>L’entrepreneur accepte de se conformer au<em> Code de conduite pour l'approvisionnement</em> et d’être lié par ses dispositions pendant la période du contrat.</p>
 </div></pre>
+</div>

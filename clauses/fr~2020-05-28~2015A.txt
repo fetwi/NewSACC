@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Les conditions générales suivantes doivent être utilisées lorsqu’un utilisateur autorisé (utilisateur fédéral désigné et utilisateur provincial ou territorial désigné) reçoit l’accès aux documents d’approvisionnement de Travaux publics et Services gouvernementaux Canada (TPSGC).
@@ -239,3 +240,4 @@ Le montant total versé par l’utilisateur autorisé aux termes du contrat, à 
 <h2 id="2020-05-282015Acode-de-conduite-pour-approvisionnement">2015A 31 (2018-07-16) Code de conduite de l’approvisionnement - contrat</h2>
 <p>L’entrepreneur accepte de se conformer au Code de conduite de l’approvisionnement et d’être lié par celui-ci pendant la durée du contrat.</p>
 </div></pre>
+</div>

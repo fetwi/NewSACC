@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats de location et d'entretien.
 </section>
@@ -13,3 +14,4 @@ ou « font l'objet d'une exemption »</i>)</kbd></span> et la taxe
 sur les produits et service ou la taxe de vente harmonisée est
 en sus, s'il y a lieu.</p>
 </div></pre>
+</div>

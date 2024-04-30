@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut et qui évalueront les Plans des avantages pour les Inuits (PAI). L’autorité responsable des avantages pour les Inuits peut également être l’autorité contractante. Dans le cas de projets d’envergures, cette responsabilité peut être accordée à une ressource additionnelle.
@@ -78,3 +79,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>L’autorité responsable du Plan des avantages pour les Inuits (PAI) du Canada pour le contrat est :</p> <p>Nom : _________</p> <p>Titre : _________</p> <p>Organisation : __________</p> <p>Adresse : __________</p> <p>Téléphone : ___ ___ _______</p> <p>Télécopieur : ___ ___ _______</p> <p>Courriel : ___________</p> <p>L’autorité responsable du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> est le représentant du ministère ou de l’organisme pour qui les travaux sont exécutés en vertu du contrat. Cette personne est responsable de toutes les questions liées aux avantages pour les Inuits et à ceux pour le Nunavut prévus dans le contrat. Les questions relatives à la mise en œuvre du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> peuvent être traitées avec l’autorité responsable du <abbr title="Plan des avantages pour les Inuits">PAI</abbr>.</p> <p>Toutefois, les changements au <abbr title="Plan des avantages pour les Inuits">PAI</abbr>, y compris un plan de mesures correctives, peuvent uniquement être apportés par une modification au contrat, publiée par l’autorité contractante.</p></pre>
+</div>

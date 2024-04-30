@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser les conditions générales supplémentaires suivantes dans les contrats 
 pour les services de maintenance et de soutien des logiciels sous licence.
@@ -285,3 +286,4 @@ l'entrepreneur ou un sous-traitant ont été apportées
 au logiciel sous licence.</li>
 </ol>
 </div></pre>
+</div>

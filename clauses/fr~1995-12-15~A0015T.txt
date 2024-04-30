@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>LA PRÉSENTE CLAUSE DOIT SERVIR DE GUIDE SEULEMENT. Les agents de négociation des 
 contrats doivent adapter la liste de critères et indiquer pour chacun s'il 
@@ -57,3 +58,4 @@ l'entrepreneur.
    divulgués, le Canada doit traiter ces documents de façon confidentielle, 
    suivant les dispositions de la <em>Loi sur l'accès à l'information</em>.
 </pre>
+</div>

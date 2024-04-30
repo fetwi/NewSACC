@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
@@ -22,3 +23,4 @@ chacune des clauses d'assurance de la qualité.
 <p>L'entrepreneur doit aviser le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> lorsqu'il a reçu d'un prestataire externe un produit ou un service jugé non conforme après qu'il ait été soumis à l'<abbr title="assurance officielle de la qualité">AOQ</abbr>.</p>
 <p>Pour la conception, le développement ou l'entretien du logiciel, l'entrepreneur devra interpréter les exigences de la norme de qualité <cite>ISO 9001:2015 « Systèmes de management de la qualité - Exigences »</cite>, selon les lignes directrices contenues dans la dernière édition (à la date du contrat) de <cite>ISO/IEC 90003:2014 « Ingénierie du logiciel - Lignes directrices pour l'application de l'ISO 9001:2008 aux logiciels informatiques ».</cite></p>
 </div></pre>
+</div>

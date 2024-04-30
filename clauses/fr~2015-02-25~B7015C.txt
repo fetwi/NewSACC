@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour les besoins de tissu lorsqu'un ou des échantillons de pré-production et(ou) un ou des échantillons de production sont exigés.
@@ -35,3 +36,4 @@
 <li value="8">Le ou les échantillons ne seront peut-être pas requis si l'entrepreneur est actuellement en production. L'entrepreneur doit soumettre par écrit au responsable technique sa demande d'exemption de fourniture d'échantillons. La décision relative à l'exemption de fourniture d'échantillons sera à la discrétion du responsable technique.</li>
 </ol>
 </div></pre>
+</div>

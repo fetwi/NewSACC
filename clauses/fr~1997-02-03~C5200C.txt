@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante si la clause C5200T a été utilisée, si les 
 instructions d'expédition qui ont été fournies par la Direction de la gestion 
@@ -12,3 +13,4 @@ certifiée de la facture de transport acquittée.
 
 
 </pre>
+</div>

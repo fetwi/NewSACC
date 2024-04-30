@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -51,3 +52,4 @@
 <dt><strong>Texte</strong></dt>
 <dd>Ce champ comporte le texte légal d'un item des <abbr title="clauses et conditions uniformisées d'achat">CCUA</abbr>.</dd>
 </dl> <h2 id="2022-05-13INTRO120">Pour poser des questions et obtenir de l'aide</h2> <p>Pour obtenir de l'aide ou de plus amples renseignements, veuillez remplir le formulaire Web destiné aux personnes-ressources en politique d'approvisionnement.</p> <h2 id="2022-05-13INTRO130">Mandat</h2> <p>Les articles 20 et 21 de la <cite>Loi sur le ministère des Travaux publics et des Services gouvernementaux</cite> confèrent au ministre les pouvoirs de négociation de contrats qui s'imposent, y compris la possibilité de fixer les modalités des marchés et les directives et modalités des autres documents qui se rapportent aux marchés ou à leur passation. L'article 22 de la Loi confère au ministre le pouvoir d'incorporer des clauses contractuelles par renvoi.</p></pre>
+</div>

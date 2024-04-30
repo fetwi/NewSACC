@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsqu'il n'y a aucun critère d'évaluation technique dans la demande de soumissions et que la méthode de sélection se fera en fonction de la soumission recevable avec le prix évalué le plus bas.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>Une soumission doit respecter toutes les exigences de la demande de soumissions pour être déclarée recevable. La soumission recevable avec le prix évalué le plus bas sera recommandée pour attribution d'un contrat.</p>
 </div></pre>
+</div>

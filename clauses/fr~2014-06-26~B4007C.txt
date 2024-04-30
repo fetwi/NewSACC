@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Les agents de négociation des contrats doivent choisir l'une des clauses suivantes et supprimer celles qui n'ont pas été utilisées. Par ailleurs, utiliser la clause
@@ -49,3 +50,4 @@ l'entrepreneur intitulée <var>_____</var>, en date du
 gestion de la soumission de l'entrepreneur intitulée
 <var>______</var>, en date du <var>_____</var>.</p>
 </div></pre>
+</div>

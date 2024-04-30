@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause toutes les fois que le Canada peut avoir besoin d'obtenir 
 des renseignements supplémentaires ou d'effectuer une visite des installations 
@@ -43,3 +44,4 @@ L'autorité contractante établira le nombre de jours dont disposeront les
    ci-haut mentionné.  Le défaut de répondre à la demande pourra avoir pour 
    conséquence que la soumission soit jugée non-recevable.
 </pre>
+</div>

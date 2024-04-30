@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les documents contractuels de conversion 
 et de réparation de navires (y compris les réparations d'urgence), sauf 1) si 
@@ -22,3 +23,4 @@ pour un contrat de cette nature, mais en aucun cas inférieur à 5 000 000 $
 par accident ou par incident.
 
 </pre>
+</div>

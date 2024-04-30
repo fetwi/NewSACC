@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Pour les marchés avec la date de livraison après la date de mise en oeuvre, les 
 agents d'achat considéreront que la «taxe sur les produits et services» est 
@@ -23,3 +24,4 @@ acquittées ou exigibles au titre de la TPS et de la TVH.
 
 
 </pre>
+</div>

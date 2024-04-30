@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque la marque, le modèle et/ou le numéro de pièce d'un fabricant sont utilisés dans la description de l'article et que des produits de remplacement seront pris en considération.  Avant de publier la demande de soumissions, l'agent de négociation des contrats devrait communiquer avec le client pour discuter de la possibilité d'utiliser des produits équivalents et des critères de rendement obligatoires relatifs à l'article spécifié qui doivent être inclus dans la demande de soumissions afin d'assurer une évaluation adéquate de l'équivalence du produit de remplacement.
@@ -27,3 +28,4 @@ figurant dans la demande de soumissions sont suivies des mots « ou l'équivale
 <li value="3">Lorsque le Canada évalue une soumission, il peut, sans toutefois y être obligé, demander aux soumissionnaires qui offrent un produit de remplacement de démontrer, à leurs propres frais, que le produit de remplacement est équivalent à l'article indiqué dans la demande de soumissions.</li>
 </ol>
 </div></pre>
+</div>

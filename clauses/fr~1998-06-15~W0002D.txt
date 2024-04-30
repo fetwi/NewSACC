@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>On doit utiliser cette clause dans les appels d'offres, ainsi que dans les 
 offres à commandes et dans les contrats lorsque le marché ne prévoit que des 
@@ -15,3 +16,4 @@ dans cette zone doivent être soumises au ministère des Travaux publics et
 des Services gouvernementaux pour être traitées distinctement.
 
 </pre>
+</div>

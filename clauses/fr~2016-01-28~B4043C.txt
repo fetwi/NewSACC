@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale pour obtenir la nomenclature et l’attribution de désignation des types pour du matériel commercial en vente libre de conception militaire ou pour de l'équipement militaire sur étagère , selon le cas. Les agents de négociation des contrats doivent inclure le nom du responsable des achats dans le contrat.
@@ -10,3 +11,4 @@
 <li value="3">L'accès au Système de désignation des types électroniques interarmées / Système de désignation des types de matériel aéronautique et de soutien interarmées est restreint et les utilisateurs doivent faire une demande pour obtenir un nom d'utilisateur et un mot de passe. Les représentants de l'entrepreneur chargés de transmettre les demandes d'attribution de nomenclature militaire doivent détenir une cote de fiabilité valide auprès du ministère de la Défense nationale ou de Travaux publics et Services gouvernementaux Canada. Pour toutes demandes d’accès ou pour l’obtention d’une copie des Guides des usagers pour ces systèmes, veuillez communiquer avec le point de contrôle du ministère au Canada, par téléphone au 819-939-9054 ou par télécopieur au 819-939-9060. </li>
 </ol>
 </div></pre>
+</div>

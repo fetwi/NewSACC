@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -240,3 +241,4 @@ soient autorisés par l'autorité contractante.</li>
 <li value="20">une indemnisation calculée ou dont la valeur est établie, selon les fluctuations dans le prix des titres des sociétés, comme les options sur les actions, les droits à la plus-value des actions, le régime d'options d'achat d'actions fictives ou la conversion d'actions nouvelles; ou toute indemnisation versée sous la forme de paiements à un employé au lieu que celui-ci reçoive ou exerce un droit, une option ou un avantage.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats maritimes lorsque l'entrepreneur 
@@ -12,3 +13,4 @@ matériel de sauvetage facilement accessible, qu'il sera
 doté d'un équipage adéquat et qu'il sera
 entièrement conforme à la <cite>Loi de 2001 sur la marine marchande du Canada</cite>, <abbr title="Lois du Canada">L.C.</abbr> 2001, <abbr title="chapitre">ch.</abbr> 26.</p>
 </div></pre>
+</div>

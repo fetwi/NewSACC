@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque le ministère client 
 demande que l'option de prolonger le contrat soit prévu dans le contrat.
@@ -15,3 +16,4 @@ Le Canada peut exercer cette option à n'importe quel moment, en envoyant un
    l'autorité contractante et sera confirmée, pour des raisons 
    administratives seulement, par une modification au contrat.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante quand le directeur général de l'Assurance de la 
 qualité doit vérifier les installations sur place. Inclure la clause D5701C du 
@@ -41,3 +42,4 @@ l'assurance de la qualité (RAQ) du ministère de la Défense nationale doit
 être distribuée selon les indications du contrat.
 
 </pre>
+</div>

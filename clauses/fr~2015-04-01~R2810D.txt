@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -723,3 +724,4 @@ L'entrepreneur doit s'assurer que les contrats de sous-traitance comprennent 	de
 Pour les gouvernements, de même que pour les entités contrôlées par un gouvernement, y compris les sociétés d'État, les présentes dispositions relatives à l'intégrité se limitent à respecter l'article 750 du <cite>Code criminel</cite>, le <cite>Règlement sur les marchés de l'État</cite> et le <cite>Code de conduite pour l'approvisionnement</cite></li>
 </ol>
 </div></pre>
+</div>

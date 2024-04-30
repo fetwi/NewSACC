@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -271,3 +272,4 @@ subséquente à l'offre à commandes.</li>
 au responsable de l'offre à commandes dont le nom est
 indiqué dans la <abbr title="demandes d'offres à commandes">DOC</abbr>.</p>
 </div></pre>
+</div>

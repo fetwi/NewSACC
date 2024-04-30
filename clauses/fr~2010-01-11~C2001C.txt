@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats de biens lorsque le prix 
@@ -29,3 +30,4 @@ celui-ci, un certificat de drawback qui permettra à
 l'entrepreneur de réclamer un drawback de droits de douane de
 l'<abbr title="Agence des services frontaliers du Canada">ASFC</abbr>.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions lorsque la clause
@@ -13,3 +14,4 @@
 <li value="2">Le Canada retournera tous les dépôts de garantie non confisqués aux soumissionnaires non retenus après l'attribution d'un contrat, et au soumissionnaire retenu sur réception de la garantie financière contractuelle exigée. Si aucun contrat n'est attribué, le Canada retournera tous les dépôts de garantie à la fin de la période de validité de la soumission, incluant toute prolongation.</li>
 </ol>
 </div></pre>
+</div>

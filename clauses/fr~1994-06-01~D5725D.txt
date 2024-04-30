@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour expliquer les responsabilités du 
 soumissionnaire ou de l'entrepreneur lorsqu'il s'agit d'effectuer une inspection 
@@ -56,3 +57,4 @@ NNO 5305, 5306, 5307, 5310 et 5315.
        déclarée irrecevable.
 
 </pre>
+</div>

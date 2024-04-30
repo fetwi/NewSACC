@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque AQAP-150 est exigé.  Lorsque la demande 
 comporte plusieurs codes de l'assurance de la qualité, l'agent des achats doit 
@@ -13,3 +14,4 @@ l'entrepreneur doit satisfaire aux exigences suivantes :
        vigueur à la date de présentation de la soumission de l'entrepreneur.
 
 </pre>
+</div>

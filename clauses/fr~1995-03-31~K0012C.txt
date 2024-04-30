@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Lorsque cette clause est utilisée dans une offre à commande, les agents de 
 négociation des contrats doivent supprimer toute référence à l'«offre de 
@@ -21,3 +22,4 @@ modifiée suivant chaque situation.
 2.     En dernier - l'offre de l'entrepreneur (date de l'offre _____).
 
 </pre>
+</div>

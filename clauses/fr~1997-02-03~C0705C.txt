@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats scientifiques comportant une 
 «limitation des dépenses» et un «prix plafond» attribués à des entrepreneurs 
@@ -47,3 +48,4 @@ d'une vérification discrétionnaire.
    en fonction des résultats de la vérification.  Le cas échéant, le 
    trop-perçu doit être promptement remboursé au Canada.
 </pre>
+</div>

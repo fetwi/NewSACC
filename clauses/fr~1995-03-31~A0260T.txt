@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utilisez cette clause dans les invitations à soumissionner afin que le choix de 
 l'entrepreneur puisse se faire en se fondant sur la soumission recevable la 
@@ -14,3 +15,4 @@ comprenant une liste d'exigences obligatoires.
               plus bas sera retenue pour fin d'attribution du contrat.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsqu'une garantie financière sous forme de cautionnement d'exécution est exigée.
@@ -11,3 +12,4 @@
         civils après la date d'attribution du contrat, fournir à l'autorité contractante un cautionnement d'exécution dûment signé PWGSC-TPSGC 505. Le cautionnement d'exécution doit représenter <var>_______</var> p. 100 du prix contractuel et doit être accepté à titre de garantie par une des compagnies de cautionnement, conformément aux <cite>lignes directrices sur les listes des sociétés autorisées à fournir une sécurité financière au Canada</cite>.</p>
 <p>Si le Canada ne reçoit pas le cautionnement d'exécution dans le délai requis, le Canada peut résilier le contrat pour manquement conformément aux dispositions du contrat.</p>
 </div></pre>
+</div>

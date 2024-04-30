@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les demandes de soumissions lorsque l'on 
 prévoit offrir une protection contre le risque de fluctuation du taux de change. 
@@ -105,3 +106,4 @@ selon le cas, conformément à l'une ou l'autre des clauses
 suivantes : C3015C, C3020C, C3025C, ou C3030C.</li>
 </ol>
 </div></pre>
+</div>

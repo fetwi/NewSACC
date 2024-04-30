@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats à prix ferme assujettis à un 
 rajustement de fluctuation du taux de change, lorsque le paiement pour les 
@@ -56,3 +57,4 @@ biens, les services ou les deux importés.</li>
 coûts et prix en vertu de cette clause.</li>
 </ol>
 </div></pre>
+</div>

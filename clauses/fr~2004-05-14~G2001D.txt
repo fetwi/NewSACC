@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>L'assurance commerciale de responsabilité civile protège l'entrepreneur contre 
 les réclamations en dommages-intérêts (dommages matériels et blessures corporels 
@@ -69,3 +70,4 @@ Canada (NCR RMIAS-SCGRA@tpsgc.gc.ca).
               accidentelles mineures.
 
 </pre>
+</div>

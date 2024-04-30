@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit 
 fournir une garantie financière contractuelle après l'attribution d'un contrat.
@@ -49,3 +50,4 @@ paragraphe 1.</pre>
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque la conformité avec les exigences du contrat 
 peut être adéquatement déterminée à destination (identité, condition et compte). 
@@ -36,3 +37,4 @@ autorisé du MDN à destination est soit le(s) destinataire(s), soit
 l'autorité technique, soit le responsable de l'assurance de la qualité.
 
 </pre>
+</div>

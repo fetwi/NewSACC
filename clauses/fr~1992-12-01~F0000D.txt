@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les clauses de la présente sous-section doivent être considérées comme des 
 guides, car chaque besoin contractuel peut nécessiter des modifications mineures 
@@ -18,3 +19,4 @@ en matière de sécurité (formule TBS/SCT 350-103), dont un échantillon est fo
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>
 </pre>
+</div>

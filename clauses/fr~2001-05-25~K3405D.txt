@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante de concert avec DSS-MAS 9601-6, « L'entrepreneur 
 détient les droits de propriété intellectuelle sur les renseignements originaux 
@@ -35,3 +36,4 @@ par la suppression en entier de l'alinéa 1. et est remplacé par le suivant :
                      ou opéré par le Canada à travers le monde. »
 
 </pre>
+</div>

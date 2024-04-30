@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans tous les contrats d’achat de biens ou services électroniques liés à des sites Web publics, à des applications Web publiques du gouvernement du Canada, pour un ministère ou un organisme énuméré aux annexes I, I.1 et II de la
@@ -43,3 +44,4 @@
 <p>Les travaux doivent se conformer aux normes pour le gouvernement du Canada établies par le Conseil du Trésor, lesquelles comprennent la Norme sur l’accessibilité des sites Web, la Norme sur la facilité d’emploi de sites Web, la Norme sur l’interopérabilité du Web, et la Norme sur l’optimisation des sites Web et des applications pour appareils mobiles. </p>
 <p>De plus, les travaux doivent se conformer aux normes et directives développées par le ministère ou l'organisme pour lequel les travaux sont exécutés. Ces normes et directives sont disponibles au centre d'expertise des Normes sur le Web du ministère ou de l’organisme concerné. </p>
 </div></pre>
+</div>

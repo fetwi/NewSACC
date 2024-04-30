@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans tous les contrats impliquant le soin et 
@@ -15,3 +16,4 @@ pratiques animales - BPA <sup>MD</sup> » du <abbr title="Conseil canadien de p
 réaliser ce genre de travaux. Le site Web suivant comprend de
 plus amples renseignements sur le <abbr title="Conseil canadien de protection des animaux ">CCPA</abbr> : <cite>Conseil canadien de protection des animaux</cite>.</p>
 </div></pre>
+</div>

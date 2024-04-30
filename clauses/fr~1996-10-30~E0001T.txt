@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque l'invitation à soumissionner contient la 
 clause E0004T.  L'agent de négociation des contrats doit inscrire les données 
@@ -57,3 +58,4 @@ des approvisionnements.
        n'accepter aucune offre, comme il le jugera approprié.
 
 </pre>
+</div>

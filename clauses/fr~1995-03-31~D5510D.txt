@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante de concert avec une des clauses suivantes, le cas 
 échéant : D5535D, D5540D, D5541D, D5542D, D5601D et D5620C. 
@@ -72,3 +73,4 @@ trois (3) ans après la date d'exécution ou de résiliation du contrat, et
 présentés sur demande au MDN/RAQ. 
 
 </pre>
+</div>

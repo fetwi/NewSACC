@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Ne pas utiliser cette clause pour les contrats pour les besoins de nourriture et 
@@ -74,3 +75,4 @@ d'expédier toute marchandise.</li>
 </li>
 </ol>
 </div></pre>
+</div>

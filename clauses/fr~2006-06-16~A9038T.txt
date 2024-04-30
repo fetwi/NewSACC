@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante lorsqu'il est avantageux, mais non obligatoire, pour 
 les soumissionnaires de visiter les lieux où les travaux seront exécutés, pour 
@@ -58,3 +59,4 @@ inclus dans la demande de soumissions, sous la forme d'une
 modification.</p></li>
 </ul>
 </div></pre>
+</div>

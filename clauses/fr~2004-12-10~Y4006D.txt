@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante lorsque l'une des clauses suivantes a été utilisée :
  
@@ -35,3 +36,4 @@ Gatineau (Québec)<br/>
 K1A 0G4<br/>
 Ä l'attention de : <var>____________</var> .</p>
 </div></pre>
+</div>

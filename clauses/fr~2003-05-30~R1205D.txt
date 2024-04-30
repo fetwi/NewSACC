@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>L'agent de négociation des contrats doit adapter la clause selon le cas.
 </pre>
@@ -73,3 +74,4 @@ CG 9.2        Exigences en matière d'assurance
 <strong>R1270D (30/05/03)    Sanctions internationales</strong>
 
 </pre>
+</div>

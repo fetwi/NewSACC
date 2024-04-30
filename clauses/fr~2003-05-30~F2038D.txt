@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque le travail de déchiquetage sera fait chez le 
 client par le personnel de l'entrepreneur détenant une attestation de sécurité 
@@ -53,3 +54,4 @@ NUMÉRO DE DOSSIER TPSGC: _______________.
 
 
 </pre>
+</div>

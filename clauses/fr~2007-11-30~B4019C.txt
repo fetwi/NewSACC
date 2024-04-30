@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque le contrat fait référence aux spécifications ou aux normes militaires des États-Unis.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>L'entrepreneur a la responsabilité de se procurer des exemplaires de toutes les spécifications et normes militaires des États-Unis qui peuvent s'appliquer au besoin. On peut obtenir ces documents commercialement, ou en visitant le site Web du département de la Défense des États-Unis, à l'adresse suivante : <cite>US Department of Defence</cite>.</p>
 </div></pre>
+</div>

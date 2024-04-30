@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque le Canada sera 
@@ -53,3 +54,4 @@ l'entrepreneur et le ministère client ou l'organisme. Il est
 entendu que ces conditions pourront prévoir le paiement d'une
 rémunération au Canada.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsque l'entrepreneur doit se procurer les documents techniques fournis par le gouvernement en s'adressant au bureau de la Région de l'assurance de la qualité de la Défense nationale le plus proche, s'il y a lieu.
@@ -9,3 +10,4 @@
 <li value="2">À la fin du contrat, l'entrepreneur doit remettre au responsable technique la liste de toutes les instructions techniques des Forces canadiennes appartenant au ministère de la Défense nationale et le matériel de données électroniques, accompagnés d'une demande d'instructions en ce qui concerne l'affectation de ces documents.</li>
 </ol>
 </div></pre>
+</div>

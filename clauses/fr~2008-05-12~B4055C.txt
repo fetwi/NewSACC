@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
 nationale pour indiquer que des avis de changement de matériel doivent être 
@@ -20,3 +21,4 @@ canadiennes</cite>, laquelle sera fournie par l'autorité contractante
 à la demande de l'entrepreneur.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque l'assurance officielle de la qualité à la 
 source est exigée et que la clause D5510D a été utilisée.  Cela s'applique à 
@@ -43,3 +44,4 @@ de conformité, conformément au STANAG 4107 de l'OTAN qui doivent être
 préparés par l'entrepreneur.
 
 </pre>
+</div>

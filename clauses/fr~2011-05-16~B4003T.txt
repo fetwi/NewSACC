@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque la demande de soumissions contient des références aux normes de l'Office des normes générales du Canada (ONGC).  Les agents de négociation des contrats doivent remplir les espaces en blanc avec le(s) nom(s) de la(des) norme(s) disponible(s )auprès de l'
@@ -19,3 +20,4 @@
 <br/>Site Web de l'ONGC : <cite>Office des normes générales du Canada
 </cite>
 </div></pre>
+</div>

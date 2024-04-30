@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans une demande de proposition à 2 phases.
 </section>
@@ -838,3 +839,4 @@ autre aspect du processus d'approvisionnement, et en soumettant une
 proposition, chaque soumissionnaire est réputé avoir
 accepté qu'il n'a aucun droit à cet égard.</p>
 </div></pre>
+</div>

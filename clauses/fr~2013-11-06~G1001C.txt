@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Les risques liés aux travaux prévus au contrat devraient être identifiés et 
@@ -55,3 +56,4 @@ applicables. Toute assurance supplémentaire souscrite est
 bénéfice et sa protection.</p>
 <p>L'entrepreneur doit faire parvenir à l'autorité contractante, dans les dix (10) jours suivant la date d'attribution du contrat, un certificat d'assurance montrant la couverture d'assurance et confirmant que la police d'assurance conforme aux exigences est en vigueur. Pour les soumissionnaires établis au Canada, l'assurance doit être souscrite auprès d'un assureur autorisé à faire affaire au Canada, cependant, pour les soumissionnaires établis à l’étranger, la couverture d’assurance doit être prise avec un assureur détenant une cote A.M. Best d’au moins  « A- ». L'entrepreneur doit, à la demande de l'autorité contractante, transmettre au Canada une copie certifiée de toutes les polices d'assurance applicables.</p>
 </div></pre>
+</div>

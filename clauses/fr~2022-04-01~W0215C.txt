@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant aux marchés qui sont assujettis à la Directive du Nunavut et qui sont limités aux appels d’offres pour les entreprises inscrites au Répertoire des entreprises inuites (REI).
@@ -96,3 +97,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>L’entrepreneur doit être inscrit au Répertoire des entreprises inuites (REI) pour la durée du contrat. À défaut de quoi, le Canada pourrait résilier le contrat pour défaut de paiement.</p></pre>
+</div>

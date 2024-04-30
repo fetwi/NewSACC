@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Cette clause est utilisée pour les invitations de modernisation d'ascenseurs.
@@ -264,3 +265,4 @@
 <h2 id="2018-06-21R5110Tcode-de-conduite-pour-approvisionnement">IG17 (2016-04-04) Code de conduite pour l’approvisionnement – soumission</h2>
 <p> Selon le Code de conduite pour l'approvisionnement, les soumissionnaires doivent répondre aux demandes de soumissions de façon honnête, équitable et exhaustive, rendre compte avec exactitude de leur capacité de satisfaire aux exigences énoncées dans les demandes de soumissions et les contrats subséquents, et présenter des soumissions et conclure des contrats que s’ils sont en mesure de satisfaire à toutes les obligations prévues au contrat. En présentant une soumission, le soumissionnaire atteste qu’il se conforme au <em>Code de conduite pour l’approvisionnement</em>. Le défaut de se conformer à cette exigence pourrait avoir pour conséquence que la soumission sera déclarée non recevable.</p>
 </div></pre>
+</div>

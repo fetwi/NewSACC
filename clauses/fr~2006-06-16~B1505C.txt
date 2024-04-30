@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour lesquels l'entrepreneur doit effectuer le transport de matières dangereuses.  Les responsabilités des fournisseurs relatives au transport des matières dangereuses sont décrites dans la
@@ -12,3 +13,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>L'entrepreneur doit étiqueter et expédier les produits visés par la <cite>Loi sur les produits dangereux</cite>, <abbr title="Lois révisées du Canada">L.R.C.</abbr> (1985), <abbr title="chapitre">ch.</abbr> H-3 et les règlements conformément à ladite loi et aux règlements, et être accompagnés des fiches signalétiques exigées, remplies en anglais ou en français. Les étiquettes doivent identifier clairement la nature des matières dangereuses et les fiches signalétiques doivent expliquer quels sont les dangers en question.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -33,3 +34,4 @@
 <li value="2">L´expert-conseil ne doit pas, en tant qu´individu, ou en tant qu´entité constituée ou non en personne morale, par l´entremise de ses employés ou de ses sous-experts-conseils, harceler, maltraiter, menacer ou intimider un employé, un expert-conseil ou un autre individu employé par le Canada ou travaillant sous contrat pour celui-ci, ou exercer une discrimination contre lui. L´expert-conseil sera informé par écrit de toute plainte et aura le droit de répondre par écrit. Après avoir reçu la réponse de l´expert-conseil, l´autorité contractante déterminera, à son entière discrétion, si la plainte est fondée et décidera de toute mesure à prendre.</li>
 </ol>
 </div></pre>
+</div>

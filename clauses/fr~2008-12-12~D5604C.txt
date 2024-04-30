@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats du ministère de la Défense 
@@ -22,3 +23,4 @@ d'expédition au moyen d'un certificat de conformité,
 conformément au <span lang="en-CA"><abbr title="Accords de normalisation">STANAG</abbr></span> 4107 de l'<abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr>, qui doit être
 préparé par l'entrepreneur.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   La clause du Guide des CCUA S3025T pour Ancien fonctionnaire, a été annulée et remplacée par un avis aux fournisseurs dans le Modèle de demande d’arrangements en matière d’approvisionnement (DAMA), les informant que les modèles de demande de soumissions et de contrat subséquent tiendront compte de ces exigences à ce que l'entrepreneur retenu devra fournir l’information sur son statut en tant qu’ancien fonctionnaire touchant une pension en vertu de la
@@ -10,3 +11,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Voir l'historique des révisions.</pre>
+</div>

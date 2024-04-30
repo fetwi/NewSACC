@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour toutes les invitations à soumissionner non 
 concurrentielles où il est possible que l'entrepreneur éventuel soit un ancien 
@@ -60,3 +61,4 @@ les clauses A9105C et A9106T.
        comme non recevable.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les demandes de soumissions assujetties à la Directive du Nunavut et qui évalueront les Plans des avantages pour les Inuits (PAI) (ajuster de manière appropriée).
@@ -83,3 +84,4 @@
 <li>la propriété inuite (entrepreneur et sous-traitants); et </li>
 <li>emplacement de l’entreprise dans la région du Nunavut. </li>
 </ol> <p>Les engagements contenus dans un <abbr title="Plan des avantages pour les Inuits">PAI</abbr> feront partie du contrat subséquent. </p> <p>Le <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur sera mis en œuvre par un suivi étroit et exigera, au minimum, que chaque facture soit accompagnée d’un rapport d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> (consulter l’annexe « ___ » « Rapport d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> »), qui démontre que les obligations contractuelles sont remplies.</p></pre>
+</div>

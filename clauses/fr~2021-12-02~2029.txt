@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales suivantes pour les besoins de faible valeur, concurrentiels ou non concurrentiels, pour l’acquisition de biens et services moins complexes comme les besoins courants de gestion de l’information et de technologie de l’information, les pièces de rechange commerciales pour les spécifications militaires, les produits commerciaux en vente libre, les achats par téléphone, et les besoins de services moins complexes, ne générant aucune propriété intellectuelle.
@@ -203,3 +204,4 @@
 <h2 id="2021-12-022029code-de-conduite-pour-approvisionnement">2029 28 (2016-04-04) Code de conduite pour l’approvisionnement – contrat</h2>
 <p>L’entrepreneur accepte de se conformer au Code de conduite pour l'approvisionnement et d’être lié par ses dispositions pendant la période du contrat.</p>
 </div></pre>
+</div>

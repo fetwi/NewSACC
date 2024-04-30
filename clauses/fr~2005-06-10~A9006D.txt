@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans tous les documents d'achat quand le client a confirmé 
 que le contrat sera un contrat de défense au sens de la Loi sur la production de 
@@ -9,3 +10,4 @@ défense </em>, L.R.C. 1985, ch. D-1, et est régi par cette loi.
 
 
 </pre>
+</div>

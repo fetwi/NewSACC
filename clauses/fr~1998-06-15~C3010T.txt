@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les invitations à soumissionnerrsque les 
 fluctuations du taux de change ou les paiements en monnaie étrangère peuvent 
@@ -62,3 +63,4 @@ doit pas utiliser cette clause dans les contrats à frais remboursables.
        change/Frais réels; C3030C, Taux de change/Demande d'acompte.
 
 </pre>
+</div>

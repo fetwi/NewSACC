@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Inclure dans les toutes demandes de soumissions et tous les contrats passés au 
 nom de l'ACDI, s'il y a expédition par mer C.A.F. ou C. &amp; F. (ne s'applique pas 
@@ -72,3 +73,4 @@ d'assurer les marchandises dans le cas des projets subventionnés par l'ACDI.
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser cette clause dans les contrats à prix ferme qui peuvent être assujettis aux dispositions relatives à la fluctuation du taux de change, lorsqu’un montant en monnaie étrangère est prévu pour les biens, les services ou les deux.   Cette clause peut être utilisée pour différentes méthodes de paiement.
@@ -62,3 +63,4 @@
 <li value="6">Le Canada se réserve le droit de vérifier toute révision de coûts et prix en conformément à la présente clause.</li>
 </ol>
 </div></pre>
+</div>

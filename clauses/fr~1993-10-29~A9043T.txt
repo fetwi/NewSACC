@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause au moment de republier une invitation à soumissionner. Les 
 agents d'approvisionnement doivent inscrire le numéro, la date et l'heure de 
@@ -8,3 +9,4 @@ nouvelle publication.
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>LA PRÉSENTE ANNULE ET REMPLACE L'INVITATION À SOUMISSIONNER NUMÉRO _____, 
    DU _____, DONT LA DATE ET L'HEURE DE CLÔTURE ÉTAIENT LE _____, À _____.
 </pre>
+</div>

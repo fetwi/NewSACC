@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les invitations à soumissionner portant sur des 
 services professionnels.
@@ -153,3 +154,4 @@ ATTESTATION
    a été constituée en société ainsi que la loi constituante, et préciser 
    le pourcentage réel de propriété canadienne.
 </pre>
+</div>

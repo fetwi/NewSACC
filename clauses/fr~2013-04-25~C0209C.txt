@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats comportant des autorisations de 
@@ -30,3 +31,4 @@ avant d'être intégrés aux travaux.</p>
 paiement relativement aux prix unitaires fermes, s'ils ne sont pas
 inclus dans une annexe</em>.)</p>
 </div></pre>
+</div>

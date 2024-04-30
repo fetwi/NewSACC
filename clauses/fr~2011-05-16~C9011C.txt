@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats avec des autorisations de tâches, 
 lorsque le responsable du projet ou le responsable technique peut autoriser les 
@@ -37,3 +38,4 @@ responsable " du projet " ou " technique " et
 l'autorité contractante " <em>ou</em> " l'autorité
 contractante "</i>)</kbd></span> avant d'être émise.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez la clause suivante dans les contrats lorsqu'un plan précis de 
@@ -14,3 +15,4 @@ préalable par <span class="input-required"><var>__________</var> <kbd>(<em>ins�
 chargé de projet » ou « le responsable technique »
 ou « l'autorité contractante »</em>)</kbd></span>.</p>
 </div></pre>
+</div>

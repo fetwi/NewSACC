@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Cette clause requiert un minimum de 250 000 $ en assurance Responsabilité professionnelle, le standard de l'industrie pour les projets de moindre 
@@ -42,3 +43,4 @@ M$ est requis en assurance.
 </li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez cette clause dans la section « Clauses du contrat subséquent » de toutes les demandes de soumissions qui n’utilisent pas la clause du Guide des
@@ -22,3 +23,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>L’entrepreneur doit se conformer et s’assurer que ses employés et ses sous-traitants se conforment à toutes les mesures de sécurité, ordres permanents, politiques et règles sur place qui sont en vigueur sur le lieu où le travail est effectué.</p></pre>
+</div>

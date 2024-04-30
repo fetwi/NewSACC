@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -352,3 +353,4 @@ imputé à l'arrangement en matière
 d'approvisionnement ou à tout contrat attribué en vertu
 de l'arrangement en matière d'approvisionnement.</p>
 </div></pre>
+</div>

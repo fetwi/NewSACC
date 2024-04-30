@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsque l'article ou les articles contiennent des éléments en élastomère, par exemple des tuyaux souples, du caoutchouc, des composés adhésifs.
@@ -29,3 +30,4 @@
   la norme <cite><span lang="en-CA">CFTO D-05-001-001/SF-000h</span></cite> à la date de livraison au
   ministère de la Défense nationale.</p>
 </div></pre>
+</div>

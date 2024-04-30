@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats maritimes lorsque les déchets et débris autre que le matériel dont on doit rendre compte appartiendront à l'entrepreneur.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>Malgré toute autre disposition du contrat, les déchets et débris découlant du contrat, autres que les pièces recensées, appartiendront à l'entrepreneur comme faisant partie du prix contractuel.</p>
 </div></pre>
+</div>

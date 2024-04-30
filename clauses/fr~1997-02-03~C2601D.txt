@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Lorsque l'entrepreneur est l'importateur, utiliser la clause suivante pour des 
 invitations à soumissionner et des contrats d'approvisionnements de défense 
@@ -26,3 +27,4 @@ douane.
    gouvernementaux, en temps opportun, l'attestation exigée aux termes du 
    Décret.
 </pre>
+</div>

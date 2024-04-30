@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante uniquement dans les contrats qui sont principalement 
 pour des services de satellite puisque le Conseil du Trésor a accordé une 
@@ -182,3 +183,4 @@ la mesure décrite dans ce paragraphe 4.</li>
 </li>
 </ol>
 </div></pre>
+</div>

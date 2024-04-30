@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante uniquement lorsque les renseignements originaux 
 doivent appartenir à l'entrepreneur et que soit les Conditions générales 
@@ -16,3 +17,4 @@ mêmes mesures qu'il prend en rapport avec toute autre propriété
 intellectuelle de la même nature dont il est le titulaire.
 
 </pre>
+</div>

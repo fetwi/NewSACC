@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause dans les invitations à soumissionner et dans les contrats 
 d'achat portant sur les marchés assujettis au Programme des marchés réservés aux 
@@ -18,3 +19,4 @@ sur l'exhaustivité de la convention.
    Seuls les engagements, conditions, déclarations et modalités qui 
    figurent au contrat lient les parties.
 </pre>
+</div>

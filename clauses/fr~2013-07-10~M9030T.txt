@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes d'offres à commandes portant sur 
@@ -80,3 +81,4 @@ l'information fournie par l'offre pour répondre aux exigences
 plus haut est exacte et complète.</li>
 </ol>
 </div></pre>
+</div>

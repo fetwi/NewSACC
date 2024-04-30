@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats et les demandes de soumissions passés pour le compte du Canada lorsque les marchandises sont expédiées par bateau (
  <abbr title="franco le long du navire">
@@ -121,3 +122,4 @@ contractante de Travaux publics et Services gouvernementaux Canada,
 un (1) exemplaire de la facture commerciale.</li>
 </ol>
 </div></pre>
+</div>

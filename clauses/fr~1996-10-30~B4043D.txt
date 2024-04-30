@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause pour obtenir la nomenclature de l'équipement de conception 
 militaire et, lorsque le gestionnaire du cycle de vie du matériel (GCVM) en fait 
@@ -30,3 +31,4 @@ la demande, de l'équipement commercial.
        articles livrables complets auxquels les données se rapportent.
 
 </pre>
+</div>

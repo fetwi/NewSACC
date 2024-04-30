@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Il est fortement recommandé que tous les contrats contiennent la clause suivante 
 ou G1005D, selon le cas.  Utiliser la clause suivante lorsque les exigences en 
@@ -36,3 +37,4 @@ commerciale est applicable.
        d'assurance applicables.
 
 </pre>
+</div>

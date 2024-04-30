@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Cette clause est utilisée pour les invitations dont la valeur estimée est égale ou supérieure à 100 000 $.
@@ -644,3 +645,4 @@ conflit d'intérêts, un avantage indu ou une apparence de
 conflit d'intérêts ou d'avantage indu.</li>
 </ol>
 </div></pre>
+</div>

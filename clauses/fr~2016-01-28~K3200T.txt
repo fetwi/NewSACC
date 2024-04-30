@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans toutes les demandes de soumissions lorsque le ministère ou l'organisme client a déterminé que le Canada détiendra tout droit de propriété intellectuelle résultant des travaux en vertu du contrat.
@@ -41,3 +42,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>Le <span class="input-required"><var>_____</var><kbd>(<em>insérer le nom du ministère ou de l'organisme client</em>)</kbd></span> a déterminé que tout droit de propriété intellectuelle découlant de l'exécution des travaux prévus par le contrat subséquent appartiendra au Canada, pour les motifs suivants, tel que défini dans la <cite>Politique sur les droits de propriété intellectuelle issus de marchés conclus avec l'État</cite> :<span class="input-required"><var>______</var><kbd>(<em>insérer un ou plusieurs motifs énumérés ci-dessus permettant au Canada de revendiquer les droits de propriété intellectuelle sur les renseignements originaux</em>)</kbd></span>.</p>
 </div></pre>
+</div>

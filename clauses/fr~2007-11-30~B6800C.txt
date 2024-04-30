@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit fournir une liste du matériel et des matériaux non consommables qui ont été achetés dans l'exécution des travaux et dont les coûts sont facturés en vertu du contrat.
@@ -7,3 +8,4 @@
 <p>À la fin du contrat, l'entrepreneur doit fournir au Canada une liste détaillée de l'ensemble du matériel et des matériaux non consommables qu'il a achetés dans l'exécution des travaux et qui ont été facturés en vertu du contrat. L'entrepreneur doit demander les directives relatives à l'aliénation du matériel et des matériaux non consommables et il devra se conformer aux directives du Canada à cet effet. Par matériel et matériaux non consommables, on entend tout ce qui n'est pas inclus dans les travaux effectués pour le Canada.</p>
 <p>Le cas échéant, l'entrepreneur doit inclure, pour chaque article énuméré, le nom, le fabricant, le numéro de modèle, le numéro de série, le matériel facultatif, le fournisseur et le prix.</p>
 </div></pre>
+</div>

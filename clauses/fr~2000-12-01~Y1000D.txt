@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser cette clause dans toutes les demandes de soumissions et tous les 
 contrats passés au nom de l'
@@ -13,3 +14,4 @@ contrat seront assujetties aux critères et procédures
 décrits dans le document CR96-2 <cite>Règlement sur le remboursement et le drawback relatifs aux marchandises importées et exportées</cite> ou D7-3-4 <cite>Règlement sur les drawbacks relatifs aux marchandises de fabrication canadienne exportées</cite>, de l'Agence des douanes et du revenu
 du Canada.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsqu'un état détaillé d'approvisionnement est exigé.
@@ -24,3 +25,4 @@
 <li value="3">Le <abbr title="Directeur - Opérations de la chaîne d'approvisionnement">DOCA</abbr> est responsable de l'acceptation finale de l'<abbr title="état détaillé d'approvisionnement">EDA</abbr> et de la <abbr title="documentation technique supplémentaire sur l'approvisionnement">DTSA</abbr>. Les questions portant sur la préparation, la présentation ou le contenu de la documentation d'approvisionnement mentionnée ci-dessus doivent être adressées au responsable des achats.</li>
 </ol>
 </div></pre>
+</div>

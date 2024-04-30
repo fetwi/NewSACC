@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser ces instructions et conditions uniformisées pour l'achat de services ou 
@@ -490,3 +491,4 @@ l'autorité contractante.</li></ul>
 <p>Titre en caractères d'imprimerie du représentant du soumissionnaire<var>______________________________</var></p>
 <p>Date de la signature<var>______________________________</var></p>
 </div></pre>
+</div>

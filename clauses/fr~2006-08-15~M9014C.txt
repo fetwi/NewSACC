@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les offres à commandes s'il est prévu que le 
 Canada peut exiger une prolongation de la période de l'offre à commandes.
@@ -14,3 +15,4 @@ L'offrant sera avisé de la décision d'autoriser l'utilisation de l'offre à
    commandes ______ jours avant l'expiration de celle-ci.  Une révision à 
    l'offre à commandes sera émise par le responsable de l'offre à commandes.
 </pre>
+</div>

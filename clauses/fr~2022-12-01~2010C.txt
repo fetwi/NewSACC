@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales suivantes pour les besoins de complexité moyenne, concurrentiels ou non concurrentiels, pour les besoins courants de services (par exemple les services manuels, l'enlèvement de la neige ou des déchets, le nettoyage, le lavage des vitres, l'entretien, etc.) Ces services ne génèrent pas de propriété intellectuelle.
@@ -270,3 +271,4 @@
 <h2 id="2022-12-012010Ccode-de-conduite-pour-approvisionnement">2010C 31 (2022-01-28) Code de conduite pour l'approvisionnement – contrat</h2>
 <p>L'entrepreneur accepte de se conformer au Code de conduite pour l'approvisionnement et d'être lié par ses dispositions pendant la période du contrat.</p>
 </div></pre>
+</div>

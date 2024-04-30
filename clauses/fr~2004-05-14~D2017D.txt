@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Le personnel des achats et des finances du ministère de la Défense nationale qui 
 produit la demande d'achat déterminera s'il y a lieu d'utiliser la clause 
@@ -25,3 +26,4 @@ articles de plastique, de métal, d'étoffe, de matériaux synthétiques ou de
 papier, ou des articles fabriqués au moyen d'au moins deux de ces matières. 
 
 </pre>
+</div>

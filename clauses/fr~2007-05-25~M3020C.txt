@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les offres à commandes portant sur des services 
 lorsque des individus bien précis sont proposés pour l'exécution des travaux et 
@@ -21,3 +22,4 @@ Si l'offrant est incapable de fournir un remplaçant avec des qualités et
    une expérience similaire, le Canada pourrait mettre de côté l'offre à 
    commandes.
 </pre>
+</div>

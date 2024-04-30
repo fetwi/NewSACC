@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque la période du contrat 
@@ -21,3 +22,4 @@ période prenant fin le 31 mars de chaque année est
 20<var>___</var> : <var>__________</var> $.</li>
 </ul>
 </div></pre>
+</div>

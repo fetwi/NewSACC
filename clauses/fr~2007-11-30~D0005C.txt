@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque la livraison totale s'applique. Le mot « jours civils » peut être remplacé par « semaines » ou « mois », selon le cas.
@@ -8,3 +9,4 @@
 les <var title="blank">_____</var> jours civils à partir de la date
 d'entrée en vigueur du contrat.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Afin d'indiquer clairement qu'aucune exigence en matière de sécurité n'est 
 requise pour une offre à commandes en particulier, la clause suivante doit être 
@@ -13,3 +14,4 @@ la publication de tout document relatif à une offre à commandes.
 contenir des exigences en matière de sécurité.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les demandes de soumissions lorsqu'une opinion 
 financière est requise.  Si l'information exigée doit être reçue dans un délai 
@@ -165,3 +166,4 @@ partie, ou toute autre forme de garantie exigée par le
 Canada).</li>
 </ol>
 </div></pre>
+</div>

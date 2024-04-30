@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales supplémentaires suivantes dans les contrats pour les biens ou les services lorsqu'il y a un élément de propriété 
@@ -86,3 +87,4 @@ de priorité des documents les conditions générales supplémentaires en ordre 
 <h2 id="2022-12-014007renonciation-aux-droits-moraux">4007 06 (2008-05-12) Renonciation aux droits moraux</h2>
 <p>Pendant et après le contrat, l'entrepreneur doit, sur demande du Canada, fournir une renonciation écrite permanente aux droits moraux, au sens de la <cite>Loi sur le droit d’auteur</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> C-42, de la part de chaque auteur qui contribue aux renseignements originaux qui font l'objet d'une protection par droit d'auteur et qui doivent être livrés au Canada en vertu du contrat. Si l'entrepreneur est un auteur des renseignements originaux, il renonce en permanence à ses droits moraux sur ces renseignements originaux.</p>
 </div></pre>
+</div>

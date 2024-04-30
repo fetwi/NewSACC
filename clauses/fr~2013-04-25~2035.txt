@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser les conditions générales suivantes pour les besoins plus complexes, concurrentiels ou non concurrentiels, pour l’acquisition de services.  A titre d’exemple, ces conditions générales pourraient être utlisées pour des besoins en gestion de l’information et de technologie de l’information, pour des besoins élaborés et spécialisés générant de  la propriété intellectuelle ou comportant des garanties d’exécution.
 </section>
@@ -1270,3 +1271,4 @@ parties.</p>
 <p>Les documents créés par l'entrepreneur et qui relèvent du Canada sont assujettis aux dispositions de la <cite>Loi sur l'accès à l'information</cite>.  L'entrepreneur reconnaît les responsabilités du Canada en vertu de la <cite>Loi sur l'accès à l'information</cite> et doit, dans la mesure du possible, aider le Canada à s'acquitter de ces responsabilités.  De plus, l'entrepreneur reconnaît que l'article 67.1 de la <cite>Loi sur l'accès à l'information</cite> stipule que toute personne qui détruit, modifie, falsifie ou cache un document ou ordonne à une autre personne de commettre un tel acte, dans l'intention d'entraver le droit d'accès prévu à la <cite>Loi sur l'accès à l'information</cite>, est coupable d'un acte criminel passible d'un emprisonnement ou d'une amende, ou les deux.
 </p>
 </div></pre>
+</div>

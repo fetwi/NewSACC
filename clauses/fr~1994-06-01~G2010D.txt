@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Remarques: Pour protéger les intérêts du Canada, on exige que toutes les polices 
 d'assurance responsabilité civile contractées par l'entrepreneur renferment les 
@@ -51,3 +52,4 @@ D)     «<strong>Avis de résiliation</strong> :  L'assureur s'engage à informe
        jours.»
 
 </pre>
+</div>

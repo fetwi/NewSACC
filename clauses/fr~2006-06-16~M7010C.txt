@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>À moins d'une autorisation de l'équipe responsable de la gestion des biens et 
 des services responsable, utiliser la clause suivante dans les offres à 
@@ -55,3 +56,4 @@ arrangement en matière d'approvisionnement, y compris l'application d'une
 mesure corrective du rendement d'un fournisseur.
 
 </pre>
+</div>

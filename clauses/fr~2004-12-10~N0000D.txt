@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante uniquement dans les contrats relatifs à la gestion 
 de l'information ou à la technologie de l'information assujettis aux pouvoirs 
@@ -161,3 +162,4 @@ de TPSGC, au numéro 819-956-7379.
        arrangement en matière d'approvisionnement. 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions concurrentielles 
@@ -86,3 +87,4 @@ clause A3050T.</p>
 contenu canadien de plusieurs produits, plusieurs services ou une
 combinaison de produits et de services, consulter l'Annexe 3.6(9),
 Exemple 2 du <cite>Guide des approvisionnements</cite>.</p></div></pre>
+</div>

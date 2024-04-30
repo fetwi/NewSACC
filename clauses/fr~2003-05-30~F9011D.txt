@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque la case 12 indique que l'entrepreneur ou 
 l'offrant doit avoir accès à l'établissement et qu'il doit travaille à un 
@@ -31,3 +32,4 @@ d'un contrat ou d'une offre à commandes.
        b)     du Manuel de la sécurité industrielle (dernière édition).
 
 </pre>
+</div>

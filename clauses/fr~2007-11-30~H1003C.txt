@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque des paiements progressifs 
 seront versés en fonction des frais engagés en présentant le formulaire de 
@@ -70,3 +71,4 @@ pour ledit paiement est  présentée.»</pre>
    qui résulte du versement de ces paiements progressifs ou d'une autre 
    cause doit être remboursé rapidement au Canada.
 </pre>
+</div>

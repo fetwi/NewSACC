@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>1. 	L'entrepreneur sera payé au prix de lot ferme de _______ $ pour les travaux 
 et les services effectués conformément au présent contrat.
@@ -57,3 +58,4 @@ canadiens sont inclus s'il y a lieu.
        douane canadiens sont inclus s'il y a lieu.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats domestiques de marchandises qui 
 prévoient le versement d'acomptes (voir la directive 4203 du GPA). 
@@ -26,3 +27,4 @@ Le défaut d'informer le Ministre de l'un quelconque de ces droits de
    figurant aux conditions générales du présent contrat et autorise le 
    Ministre à résilier le contrat.
 </pre>
+</div>

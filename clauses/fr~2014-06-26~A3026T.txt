@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans toutes les demandes de soumissions non concurrentielles pour des
@@ -133,3 +134,4 @@ paiement forfaitaire, le montant total des honoraires qui peut
 être payé à un ancien fonctionnaire qui a reçu
 un paiement forfaitaire est limité à 5 000 $, incluant les taxes applicables.</p>
 </div></pre>
+</div>

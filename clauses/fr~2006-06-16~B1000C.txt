@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque les instructions 
 uniformisées 2003 et les conditions générales 2010 ou 2029 s'appliquent à un 
@@ -12,3 +13,4 @@ uniformisées 9403 ou 9403-6.
    dessin, de la spécification et/ou du numéro de pièce applicable, en 
    vigueur à la date de clôture de la demande de soumissions.
 </pre>
+</div>

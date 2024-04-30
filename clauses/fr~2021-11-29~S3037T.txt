@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez cette clause dans la section « Résumé » de toute demande d’arrangement en matière d’approvisionnement (DAMA) lorsque des demandes de soumissions individuelles dans le cadre de l’arrangement en matière d’approvisionnement (AA) résultant peuvent être assujetties à la politique de vaccination contre la COVID-19 relative au personnel des fournisseurs. Veuillez également inclure la clause 4013 du Guide des
@@ -73,3 +74,4 @@
 </ul>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Le besoin couvert par la demande de soumissions de tout arrangement en matière d’approvisionnement résultant peut être assujetti à une vaccination contre la COVID-19 conformément à la politique de vaccination contre la COVID-19 relative au personnel des fournisseurs.</p></pre>
+</div>

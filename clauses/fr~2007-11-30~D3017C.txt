@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats pour définir l'exigence relative à 
 l'emballage de tout article appartenant aux catégories 1300 et 1410 de l'
@@ -13,3 +14,4 @@ et missiles) selon la version actuelle de la spécification
 relative l'emballage D-09-002-004/SG-000 des Forces
 canadiennes.</p>
 </div></pre>
+</div>

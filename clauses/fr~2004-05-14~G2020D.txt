@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>L'assurance automobile, à différents degrés, est obligatoire dans tous les 
 ressorts canadiens.  Il est néanmoins très important d'invoquer cette clause 
@@ -29,3 +30,4 @@ peuvent s'appliquer à certains domaines contractuels.
        contractante un avis écrit d'annulation de trente (30) jours.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats de biens lorsque le prix 
 contractuel ne comprend pas de droits de douane et(ou) de taxes à payer sur des 
@@ -22,3 +23,4 @@ drawback de droits de douane de l'ASFC.
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser une des clauses suivantes dans les contrats de biens quand 
 l'entrepreneur devra procéder à l'enlèvement des déchets et des débris des lieux.
@@ -18,3 +19,4 @@ suivante si des conditions générales autres que les conditions générales
 Tous les déchets et les débris deviendront la propriété de l'entrepreneur 
    qui devra procéder à leur enlèvement des lieux.
 </pre>
+</div>

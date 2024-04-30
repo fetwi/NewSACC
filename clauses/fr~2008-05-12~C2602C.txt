@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque le Conseil national de 
@@ -14,3 +15,4 @@ Canada. Ils sont exempts des droits de douane en vertu du
 <cite>numéro tarifaire 9988.00</cite> et la <cite>décision sur les douanes
 n° 153418</cite>, datée du 15 septembre 1998.</p>
 </div></pre>
+</div>

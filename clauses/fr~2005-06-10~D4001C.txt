@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats attribués en régime de 
 concurrence par le ministère de la Défense nationale (les clauses C2600T et 
@@ -30,3 +31,4 @@ les parenthèses dans b), préciser le lieu de destination convenu.
        ainsi que du dédouanement et des droits de douane (s'il y a lieu).
 
 </pre>
+</div>

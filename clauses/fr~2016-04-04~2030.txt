@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales suivantes pour les besoins plus complexes, concurrentiels ou non concurrentiels, pour l'acquisition de biens. A titre d'exemple, ces conditions générales peuvent être utilisées pour de l'équipement militaire, des besoins de gestion de l'information et de technologie de l'information, des besoins importants en matière d'aviation, des besoins générant de la propriété intellectuelle ou comportant des garanties d'exécution.
@@ -430,3 +431,4 @@
 <h2 id="2016-04-042030code-de-conduite-pour-approvisionnement">2030 45 (2016-04-04) Code de conduite pour l’approvisionnement – contrat</h2>
 <p>L’entrepreneur accepte de se conformer au Code de conduite pour l'approvisionnement et d’être lié  par ses dispositions pendant la période du contrat.</p>
 </div></pre>
+</div>

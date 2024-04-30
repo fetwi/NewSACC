@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes de soumission et les contrats 
 contenant des conditions générales telles que 1034 et 2029 qui ne comportent 
@@ -11,3 +12,4 @@ exécution ou, sujet à un préavis raisonnable, réparera promptement ces
 dommages ou remplacera les biens perdus à la satisfaction du Canada.
 
 </pre>
+</div>

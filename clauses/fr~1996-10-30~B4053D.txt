@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause pour indiquer qu'il faut tenir une Conférence 
 d'orientation d'approvisionnement initial (COAI) pour l'acquisition des nouveaux 
@@ -28,3 +29,4 @@ biens d'équipement.
        durer plus qu'une journée.
 
 </pre>
+</div>

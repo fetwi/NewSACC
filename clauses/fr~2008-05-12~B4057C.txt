@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats du ministère de la Défense 
 nationale (MDN) lorsqu'un système ou un équipement est nouvellement introduit 
@@ -92,3 +93,4 @@ reproduire en tout ou en partie pour les fins du gouvernement, les
 publications fournies en vertu du contrat comme manuels commerciaux
 unilingues existants.</p>
 </div></pre>
+</div>

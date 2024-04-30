@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les détenteurs remarquerons que des «REMARQUES» ont été fournies pour plusieurs 
 clauses. Ces Remarques servent de référence rapide pour les agents de 
@@ -219,3 +220,4 @@ commandes ou les arrangements en matière d'approvisionnement.</pre>
        Z4000-4999    Autres
 
 </pre>
+</div>

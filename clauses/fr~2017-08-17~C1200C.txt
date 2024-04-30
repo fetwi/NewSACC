@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser cette clause dans tous les contrats à frais remboursables lorsque les travaux sont soumis à un
@@ -33,3 +34,4 @@
 <p>L'entrepreneur sera payé pour les coûts qu'il a raisonnablement et convenablement engagés dans l'exécution des travaux, plus <span class="input-required"><var>_________</var> <kbd>(<em>insérer « un tarif fixe, » ou « un profit, »</em>)</kbd></span> conformément à la base de paiement <span class="input-required"><var>_________</var> <kbd>(<em>insérer « à l'annexe <span class="input-required"><var>_____</var> »</span> ou « détaillée ci-dessous »</em>)</kbd></span>, jusqu'à un prix plafond de <span class="input-required"><var>______</var>$ <kbd>(<em>insérer le montant au moment de l'attribution du contrat</em>)</kbd></span>. Les droits de douane <span class="input-required"><var>_______</var> <kbd>(<em>insérer « sont inclus », « sont exclus » ou « font l'objet d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
 <p class="description">(<em><strong>Insérer les détails de la base de paiement s'ils ne sont pas inclus dans une annexe</strong></em>.)</p>
 </div></pre>
+</div>

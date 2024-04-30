@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser les conditions générales supplémentaires suivantes dans les contrats 
@@ -295,3 +296,4 @@ dépôt se fait sous réserve de tous les droits et
 recours dévolus au Canada en vertu du contrat.</li>
 </ol>
 </div></pre>
+</div>

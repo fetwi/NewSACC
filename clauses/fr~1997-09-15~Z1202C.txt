@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -16,3 +17,4 @@ d'inscription de la <abbr title="taxe sur les produits et services">TPS</abbr>/<
 y a lieu, comme poste séparé sur chacune de ses factures
 adressées à la <abbr title="Corporation commerciale canadienne">CCC</abbr> en vertu de la présente.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les demandes d'offres à commandes d'une valeur 
 de plus de 25 000 $ et moins de 200 000 $ (incluant toutes les taxes 
@@ -79,3 +80,4 @@ numéro : <var>__________</var> .</li>
 <p>Des renseignements supplémentaires sur le PCF
 sont offerts sur le site Web de <abbr title="Ressources humaines et Développement des compétences Canada">RHDCC</abbr>.</p>
 </div></pre>
+</div>

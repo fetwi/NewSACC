@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez la clause suivante pour les contrats de services d'entretien préventif 
@@ -54,3 +55,4 @@ le responsable technique  » <strong>ou</strong> «  le chargé de projet
 <p><strong>Coût estimatif total</strong> - Limitation des dépenses : <strong><var>________</var> $</strong> (taxes applicables en sus).
     </p>
 </div></pre>
+</div>

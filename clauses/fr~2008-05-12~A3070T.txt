@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les procédures d'évaluation de la demande de 
 soumissions lorsque la compétition est conditionnellement limitée aux 
@@ -54,3 +55,4 @@ déclarées non recevables, ou sont retirées, alors
 toutes les autres soumissions reçues seront
 évaluées.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante est utilisée pour les besoins de la marine.  Inscrire 
 l'information requise après le numéro de la clause.  Cette clause doit être 
@@ -10,3 +11,4 @@ combinée à la clause appropriée sur les frais de déplacement et de subsistan
    journalier de _____ $ par personne, plus les frais de déplacement et de 
    subsistance jugés raisonnables.
 </pre>
+</div>

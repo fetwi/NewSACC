@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -121,3 +122,4 @@
 <h2 id="2020-05-282007code-de-conduite-pour-approvisionnement">12 (2022-05-12) Code de conduite pour l'approvisionnement – offre</h2>
 <p>Selon le <cite>Code de conduite pour l'approvisionnement</cite>, les offrants doivent répondre aux demandes d'offres à commandes (DOC) de façon honnête, équitable et exhaustive, rendre compte avec exactitude de leur capacité de satisfaire aux exigences énoncées dans la <abbr title="demande d’offres à commandes">DOC</abbr> et le contrat subséquent, présenter des offres et conclure des contrats uniquement s'ils sont en mesure de satisfaire à toutes les obligations prévues au contrat. En présentant une offre, l'offrant atteste qu'il se conforme au <cite>Code de conduite pour l'approvisionnement</cite>. Le défaut de se conformer à cette exigence pourrait avoir pour conséquence que l'offre sera déclarée non recevable.</p>
 </div></pre>
+</div>

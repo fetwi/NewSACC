@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur proposé 
 sera payé pour une portion des travaux exécutés avant la date d'entrée en 
@@ -53,3 +54,4 @@ l'entrepreneur dans l'exécution des travaux
 précontractuels appartiennent au Canada.</li>
 </ol>
 </div></pre>
+</div>

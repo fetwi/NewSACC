@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante de concert avec DSS-MAS 9676, « Conditions générales 
 - Services », ou DSS-MAS 9601, « Conditions générales - Formule détaillée », et 
@@ -53,3 +54,4 @@ Ne pas utiliser cette clause de concert avec DSS-MAS 9624, Conditions générale
        matériel.
 
 </pre>
+</div>

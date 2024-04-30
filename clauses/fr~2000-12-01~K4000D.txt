@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsqu'une définition de produits canadiens et de 
 services canadiens est exigée.  Cette clause doit toujours être utilisée lorsque 
@@ -114,3 +115,4 @@ les clauses K4001T, K4002T, K4003T, K4004T, K4005T et K4006T sont utilisées.
 
 
 </pre>
+</div>

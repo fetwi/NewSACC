@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante pour les contrats à taux horaire/unitaire forfaitaire, parallèlement à l’un des éléments suivants :
@@ -55,3 +56,4 @@
 </ol>
 <p>Lorsque l’entrepreneur informe l’autorité contractante que les fonds du contrat sont insuffisants, il doit lui fournir par écrit une estimation des fonds additionnels requis. La présentation de cette information par l’entrepreneur n’augmente pas la responsabilité du Canada à son égard.</p>
 </div></pre>
+</div>

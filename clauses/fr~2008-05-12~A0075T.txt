@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser  la clause suivante dans les demandes de soumissions pour des services 
 de conciergerie, d'alimentation et de sécurité lorsque de l'information visant 
@@ -79,3 +80,4 @@ ou d'informations additionnelles peuvent communiquer avec :
 <var>_________</var> .</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats scientifiques qui comprennent 
 les Conditions générales - Recherche et développement, DSS-MAS 9624.
@@ -12,3 +13,4 @@ développement, DSS-MAS 9624.
 
 Une copie du certificat de divulgation est jointe à titre d'annexe ___.
 </pre>
+</div>

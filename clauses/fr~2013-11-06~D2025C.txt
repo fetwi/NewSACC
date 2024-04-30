@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans tous les contrats, lorsque des matériaux d’emballage en bois peuvent être utilisés dans l’expédition, tels que mais sans s’y limiter aux palettes, caisses, boîtes d’emballage, bois de calage, tambours d’enroulement de câbles, caisses ou bobines/enrouleurs, lesquels doivent satisfaire aux exigences de la
@@ -22,3 +23,4 @@ du monde autre que la zone continentale des États-Unis</cite></p>
 Programme canadien de certification des matériaux d'emballage
 en bois (PCCMEB)</cite></p>
 </div></pre>
+</div>

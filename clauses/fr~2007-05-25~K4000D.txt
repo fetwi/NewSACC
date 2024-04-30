@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsqu'une définition de besoins et(ou) de services 
 canadiens est exigée.  Cette clause doit toujours être utilisée lorsque les 
@@ -90,3 +91,4 @@ MERIT (<strong class="wsStyleUnderline">http://strategis.ic.gc.ca/epic/internet/
               pétroliers.
 
 </pre>
+</div>

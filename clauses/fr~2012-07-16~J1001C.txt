@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante pour résilier le contrat en partie pour manquement.
@@ -42,3 +43,4 @@ contrat résiliée.</p>
 <p class="description">(<em>Insérer le paragraphe suivant lorsque la résiliation est reliée à des problèmes de rendement sujets aux dispositions de la Politique sur les mesures correctives du rendement des fournisseurs.</em>)</p>
 <p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs, cette résiliation partielle pour manquement déclenchera une évaluation d'une mesure corrective du rendement du fournisseur à la fin du contrat. De plus, une note indiquant qu'il y a eu une résiliation partielle pour manquement pour ce contrat sera inscrite dans le Système d'information sur les fournisseurs.</p>
 </div></pre>
+</div>

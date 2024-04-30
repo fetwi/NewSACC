@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant aux demandes de soumissions assujetties à la Directive du Nunavut, qui sont limitées aux appels d’offres pour les entreprises inscrites au Répertoire des entreprises inuites (REI) et qui évalueront les Plans des avantages pour les Inuits (PAI).
@@ -325,3 +326,4 @@
 </tr>
 </tbody>
 </table></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les documents contractuels lorsque 
 l'entrepreneur doit procéder à l'élimination de déchets dangereux achetés, 
@@ -11,3 +12,4 @@ produits ou utilisés dans le cadre de l'exécution du travail.
    dispositions du contrat, le cas échéant, et aux lois fédérales ou 
    provinciales ou aux règlements municipaux pertinents.
 </pre>
+</div>

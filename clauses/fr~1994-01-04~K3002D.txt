@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans un contrat qui ne comporte pas de recherche et 
 de développement et lorsque le client a précisé que les droits de propriété 
@@ -15,3 +16,4 @@ propres clauses.
    ou mis en application par l'entrepreneur dans l'exécution des travaux 
    prévus au contrat sont dévolus à l'entrepreneur.
 </pre>
+</div>

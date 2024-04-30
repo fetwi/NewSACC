@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les agents des achats doivent préciser le nombre de personnes pour qui il faudra 
 fournir des locaux, le genre de matériel nécessaire, etc.
@@ -8,3 +9,4 @@ meublés suivants au personnel du client ou au représentant du ministère des
 Travaux publics et des Services gouvernementaux : _____.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes d'arrangement en matière 
 d'approvisionnement portant sur des marchés réservés en vertu de la Stratégie 
@@ -68,3 +69,4 @@ A3002T.</pre>
 
 
 </pre>
+</div>

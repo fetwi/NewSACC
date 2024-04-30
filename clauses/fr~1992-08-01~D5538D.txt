@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante quand la demand du MDN indique qu'il s'agit d'une 
 assurance officielle de la qualité à la source et qu'il y a plus d'un code 
@@ -53,3 +54,4 @@ trois (3) ans après la date d'exécution ou de résiliation du contrat, et
 présentés sur demande au RAQ.
 
 </pre>
+</div>

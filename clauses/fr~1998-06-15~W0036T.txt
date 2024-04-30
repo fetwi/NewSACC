@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de 
 politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada » 
@@ -27,3 +28,4 @@ critère concernant l'embauchage de main-d'œuvre gwich'in
 tetlit.</li>
 </ul>
 </div></pre>
+</div>

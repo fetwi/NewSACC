@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utilisez la présente clause dans les invitations à soumissionner lorsque les 
 soumissions reçues ne seront évaluées selon une cotation numérique.  L'agent des 
@@ -28,3 +29,4 @@ obligatoires (O) et celles qui sont souhaitables (S), selon le cas.
        à soumissionner.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Le formulaire PWGSC-TPSGC 945, Commande subséquente à plusieurs offres à 
 commandes, (une version anglaise intitulée « Call-Up Against Multiple Standing 
@@ -51,3 +52,4 @@ la concurrence.
        situation.
 
 </pre>
+</div>

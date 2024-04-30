@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>L'assurance responsabilité couvrant l'atteinte à l'environnement protège 
 l'entrepreneur contre les réclamations se rapportant au dommage causé par la 
@@ -87,3 +88,4 @@ ajoutés aux avenants compris dans cette clause.
               des incidents découlant du transport de matières dangereuses.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque le besoin n’est pas assujetti à la Norme sur la divulgation des
@@ -86,3 +87,4 @@
 <p>L’entrepreneur doit indiquer à l’autorité contractante, dans les <kbd><var>(__)</var></kbd> jours civils suivant l’attribution du contrat, laquelle des deux (2) stratégies de réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr> il adoptera pour la durée du contrat, y compris toute période d’option ou prolongation prévue ou non prévue. L’entrepreneur doit fournir des mises à jour <kbd>(<em>insérer « annuelles », « semestrielles » ou une autre période, selon le cas</em>)</kbd> à l’autorité contractante sur ses progrès dans la réalisation de ses cibles de réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr>. <kbd>L’entrepreneur/l’offrant/le fournisseur</kbd> doit aviser l’autorité contractante s’il cesse de participer à une initiative.</p>
 </li>
 </ol></pre>
+</div>

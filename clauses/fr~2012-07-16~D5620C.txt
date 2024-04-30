@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats si la clause
@@ -42,3 +43,4 @@ format électronique en vigueur et les distribuer comme suit :</p>
 </ol>
 <p><strong>Remarque</strong> : Pour les contrats relatifs à la livraison de carburant aux aéronefs, les copies b, c et d ne sont pas requises.</p>
 </div></pre>
+</div>

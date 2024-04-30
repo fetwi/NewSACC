@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats lorsque l'entrepreneur est un non 
 résident et qu'il est responsable du dédouanement de tout outil, matériel ou 
@@ -27,3 +28,4 @@ de vente harmonisée, s'il y a lieu, fixés par les agents
 de douane et payables à l'Agence des services frontaliers du
 Canada.</p>
 </div></pre>
+</div>

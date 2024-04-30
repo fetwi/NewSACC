@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les invitations à soumissionner lorsqu'il y a 
 possibilité que les entrepreneurs établis aux États-Unis présentent des 
@@ -20,3 +21,4 @@ les mesures nécessaires pour recouvrer un tel paiement, et qu'il rembourse
 au Canada tout montant ainsi recouvré.
 
 </pre>
+</div>

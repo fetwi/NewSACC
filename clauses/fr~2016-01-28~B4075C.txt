@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante pour les contrats dans lesquels tous les travaux de soudage doivent être effectués conformément aux normes W47.1 ou W47.2, ou les deux, de l'Association canadienne de normalisation (CSA).
@@ -34,3 +35,4 @@
 <li value="3">Avant de débuter tout travail de fabrication, et à la demande du <kbd>(<em>insérer « responsable de l'inspection » ou « responsable technique », ou « chargé de projet »</em>)</kbd>, l'entrepreneur doit fournir des procédures de soudage approuvées, une liste du personnel qu'il a l’intention d’utiliser pour réaliser les travaux, ou les deux. La liste doit identifier les qualifications obtenues relativement aux procédures de soudage du <abbr title="Bureau canadien du soudage">BCS</abbr> pour chacune des personnes qui y sont énumérées et être  accompagnée d'une copie de la certification du <abbr title="Bureau canadien du soudage">BCS</abbr>,  selon les normes actuelles en matière de soudage de la <abbr title="Association canadienne de normalisation">CSA</abbr>, pour chacune d’elles.</li>
 </ol>
 </div></pre>
+</div>

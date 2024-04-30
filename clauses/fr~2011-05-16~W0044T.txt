@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Les agents de négociation des contrats doivent consulter l'article 9.35 du Guide 
@@ -37,3 +38,4 @@ qui sont utiles aux fins de l'analyse de la faisabilité
 économique de ces occasions d'affaires et entreprises.</li>
 </ul>
 </div></pre>
+</div>

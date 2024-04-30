@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les offres à commandes lorsqu'il est nécessaire 
@@ -33,3 +34,4 @@ n'importe quel moment, l'offrant juge que ladite limite sera
 dépassée, il doit en aviser aussitôt le responsable
 de l'offre à commandes.</p>
 </div></pre>
+</div>

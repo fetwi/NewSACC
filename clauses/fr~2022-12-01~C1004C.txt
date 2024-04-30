@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   La clause suivante vise à fournir des détails supplémentaires concernant les effets des constatations découlant de la vérification sur les montants du contrat.
@@ -82,3 +83,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Le Canada se réserve le droit de recouvrer des montants et d’apporter des rajustements aux montants payables à l’entrepreneur si l’examen des dossiers de l’entrepreneur a permis de déterminer des montants attribués au contrat qui ne sont pas conformes aux modalités du contrat.</p> <p>Lorsque les résultats d’un examen indiquent qu’il y a eu un trop-payé par le Canada, celui-ci est dû et payable à la date indiquée dans l’avis de trop-payé.</p></pre>
+</div>

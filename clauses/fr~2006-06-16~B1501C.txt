@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque de l'appareillage électrique acheté pour être utilisé au Canada devrait être certifié par un organisme de certification.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>Tout appareillage électrique fourni dans le cadre du contrat doit être, avant la livraison, certifié ou approuvé aux fins d'utilisation selon les exigences du <cite>Code canadien de l'électricité</cite>, Partie 1, par un organisme accrédité par le Conseil canadien des normes.</p>
 </div></pre>
+</div>

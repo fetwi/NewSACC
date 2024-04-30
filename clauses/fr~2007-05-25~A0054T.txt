@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes de soumissions lorsqu'un format 
 précis est demandé.
@@ -13,3 +14,4 @@ a)     utiliser du papier de 8,5 po x 11 po (216 mm x 279 mm);
 b)     utiliser un système de numérotation correspondant à celui de la 
    demande de soumissions.
 </pre>
+</div>

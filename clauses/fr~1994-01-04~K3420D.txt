@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante si l'entrepreneur doit être tenu responsable du 
 paiement des dommages-intérêts conventionnels si le renseignement original est 
@@ -18,3 +19,4 @@ des pertes que subirait le Canada, et que le montant ne constitue pas une
 sanction ni ne doit être interprété comme tel.
 
 </pre>
+</div>

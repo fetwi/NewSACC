@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -840,3 +841,4 @@ L’entrepreneur atteste comprendre que, s’il a conclu une entente administrat
 L’entrepreneur atteste comprendre que, dans la mesure où il s’appuie sur un ou des sous-traitants pour l’exécution du contrat, il ne devra pas conclure de contrat de sous-traitance avec une entreprise ayant été déclarée coupable, ou un affilié de cette entreprise ayant été déclaré coupable, de l’une des infractions citées aux paragraphes Infractions commises au Canada entraînant une incapacité légale, Infractions commises au Canada et infractions commises à l’étranger, ou ayant plaidé coupable à l’une de ces infractions, selon le cas, et pour laquelle aucun pardon ou mesure équivalente n’a été accordé en vertu des paragraphes Pardons accordés par le Canada et Pardons accordés par un gouvernement étranger sans l’approbation écrite préalable du ministre de <abbr title="Travaux publics et des Services gouvernementaux">TPSG</abbr>. Si l’entrepreneur a conclu un contrat avec un sous-traitant inadmissible pour lequel aucune approbation écrite préalable n’a été reçue par le Canada, le ministre de <abbr title="Travaux publics et des Services gouvernementaux">TPSG</abbr> déclarera l’entrepreneur inadmissible à la passation de contrats avec le Canada pour une période de cinq ans.</li>
 </ol>
 </div></pre>
+</div>

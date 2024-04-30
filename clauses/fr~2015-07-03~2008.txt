@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -230,3 +231,4 @@
 <h2 id="2015-07-032008code-de-conduite-pour-approvisionnement">20 (2016-04-04) Code de conduite pour l’approvisionnement – arrangement</h2>
 <p>Selon le <em>Code de conduite pour l'approvisionnement,</em> les fournisseurs doivent répondre aux demandes d’arrangements en matière d’approvisionnement (DAMA) de façon honnête, équitable et exhaustive, rendre compte avec exactitude de leur capacité de satisfaire aux exigences énoncées dans la <abbr title="demande d'arrangements en matière d'approvisionnement">DAMA</abbr> et l’arrangement en matière d'approvisionnement subséquent, présenter des soumissions et conclure des contrats que s’ils sont en mesure de satisfaire à toutes les obligations prévues au contrat. En présentant un arrangement, le fournisseur atteste qu’il se conforme au <em>Code de conduite pour l’approvisionnement</em>. Le défaut de se conformer à cette exigence pourrait avoir pour conséquence que l’arrangement sera déclaré non recevable.</p>
 </div></pre>
+</div>

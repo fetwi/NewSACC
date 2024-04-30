@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsqu'il peut y avoir une possibilité d'expédition 
 outre-mer.  Cette clause ne s'applique pas à des expéditions effectuées entre la 
@@ -29,3 +30,4 @@ D-01-05 -     Le Programme canadien de certification des matériaux
 
 
 </pre>
+</div>

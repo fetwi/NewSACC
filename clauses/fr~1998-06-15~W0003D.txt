@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Cette clause doit être utilisée dans les appels d'offres, de même que dans les 
 offres à commandes et les contrats prévoyant des points de livraison en dehors 
@@ -12,3 +13,4 @@ destinations qui ne se trouvent pas dans une zone de peuplement des
 revendications territoriales globales.
 
 </pre>
+</div>

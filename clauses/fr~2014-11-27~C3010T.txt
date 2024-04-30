@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions lorsque le Canada propose aux soumissionnaires le choix d’atténuer leurs risques en assumant les risques et les avantages liés aux fluctuations du taux de change.  Le prix total payé par le Canada sera ajusté à la hausse ou à la baisse, selon les fluctuations monétaires.
@@ -54,3 +55,4 @@
 <li value="5">Aux fins de la présente disposition relative à la fluctuation du taux de change, les autres taux ou calculs  proposés par le soumissionnaire ne seront pas acceptés.</li>
 </ol>
 </div></pre>
+</div>

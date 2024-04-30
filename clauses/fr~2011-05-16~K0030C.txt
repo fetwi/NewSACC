@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les contrats lorsque les conditions générales 
 2030 ou 2040 sont utilisées et que l'article portant sur la garantie doit être 
@@ -37,3 +38,4 @@ désigné par le Canada.</li>
 <p>Toutes les autres dispositions de la garantie demeurent en
 vigueur.</p>
 </div></pre>
+</div>

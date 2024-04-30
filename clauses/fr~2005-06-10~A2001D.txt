@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans toutes les documents de soumission ainsi que 
 dans les contrats de biens et de services conclus avec un entrepreneur étranger 
@@ -19,3 +20,4 @@ rendus, au Canada, par des résidents non permanents.
    acquitter tous les frais occasionnés par suite de la non-conformité aux 
    exigences en matière d'immigration.
 </pre>
+</div>

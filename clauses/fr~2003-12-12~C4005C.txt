@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque la directive du Conseil du 
 Trésor sur les voyages sera utilisée et que des frais généraux ou un profit 
@@ -24,3 +25,4 @@ Insérer le nom de l'autorité applicable</em></strong>).
 
 
 </pre>
+</div>

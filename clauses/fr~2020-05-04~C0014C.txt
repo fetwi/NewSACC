@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans le cadre d’une demande concurrentielle ou non concurrentielle lorsque le prix ou le taux d’un contrat (ou d’une modification) doit être fondé sur les coûts estimatifs ou réels. Utiliser de concert avec les principes des coûts contractuels clause
@@ -54,3 +55,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>La déclaration des pratiques de comptabilité analytique de l’entrepreneur « AAAAXX datée du xx-xx-20xx » est intégrée par renvoi au contrat et en fait partie intégrante.</p> <p>Les pratiques de comptabilité analytique décrites dans la déclaration des pratiques de comptabilité analytique de l’entrepreneur « AAAAXX datée du xx-xx-20xx » constituent une description complète et exacte des pratiques de comptabilité analytique à appliquer au contrat.</p></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour définir la spécification relative à l'emballage destinée à l'achat d'articles assujettis à cette spécification.
@@ -35,3 +36,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>L'entrepreneur doit préparer la livraison de l'(des)article(s) <var>_______</var> conformément à la dernière édition de la spécification relative à l'emballage des Forces canadiennes <var>_____</var> .</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -382,3 +383,4 @@ de conduite pour l'approvisionnement</cite> et à ses modalités. En plus de se 
 <li value="6">Si le fournisseur ou sa société mère, ses filiales ou ses autres affiliées ne demeurent pas libres et quittes des accusations ou des condamnations décrites aux paragraphes 2 et 3 au cours de la période de l'arrangement en matière d'approvisionnement, le Canada se réserve le droit de suspendre ou d'annuler l'arrangement en matière d'approvisionnement, conformément à la disposition traitant de la suspension ou l'annulation de la qualification par le Canada de l'arrangement en matière d'approvisionnement. </li>
 </ol>
 </div></pre>
+</div>

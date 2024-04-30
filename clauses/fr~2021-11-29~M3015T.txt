@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   À moins qu’un libellé équivalent ait déjà été inclus, veuillez utiliser la clause suivante dans la section « Attestations » de la
@@ -19,3 +20,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Afin de se voir accorder une offre à commandes, les offrants doivent fournir les attestations requises et les renseignements additionnels connexes.</p> <p>Les attestations fournies par les offrants au gouvernement du Canada peuvent faire l’objet de vérification par le gouvernement du Canada en tout temps. À moins d’avis contraire, le gouvernement du Canada déclarera une offre non recevable, aura le droit de réserver une offre à commandes, ou déclarera à un manquement de la part de l’entrepreneur si toute attestation faite par l’offrant est établie comme étant fausse, de manière délibérée ou non durant la période d’évaluation, pendant la durée de l’offre à commandes, ou pendant la durée du contrat. </p> <p>L’autorité de l’offre à commandes aura le droit de demander des renseignements additionnels afin de vérifier les attestations de l’offrant. À défaut de respecter toute demande ou exigence imposée par l’autorité de l’offre à commandes et de coopérer avec cette dernière, l’autorité de l’offre à commandes déclarera l’offre non recevable, résultera en une mise en réserve de l’offre à commandes, ou constituera un manquement au contrat.</p></pre>
+</div>

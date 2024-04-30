@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante uniquement lorsque les renseignements originaux 
 appartiennent à l'entrepreneur et que soit DSS-MAS 9601-6, « L'entrepreneur 
@@ -25,3 +26,4 @@ renseignements sont divulgués.  L'obligation qui précède ne s'applique pas
 d'une autre source que le Canada.
 
 </pre>
+</div>

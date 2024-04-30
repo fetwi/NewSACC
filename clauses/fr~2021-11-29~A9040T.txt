@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions lorsqu'une visite des lieux où les travaux seront réalisés est obligatoire pendant la période de la demande de soumissions pour bien saisir la nature des travaux et l'état des lieux. Dans le cas de demandes ayant trait au domaine de la marine, le mot « navire » peut être ajouté dans le titre.
@@ -74,3 +75,4 @@
 </div>
 <p>Les soumissionnaires qui ne confirmeront pas leur participation, qui ne fourniront pas le nom des personnes qui participeront à la visite des lieux ou qui ne remplissent pas et ne fournissent pas l’attestation ci-dessus se verront refuser l’accès aux lieux. Les soumissionnaires devront signer une feuille de présence. Les soumissionnaires devraient confirmer dans leur soumission qu’ils ont assisté à la visite. Aucun autre rendez-vous ne sera accordé aux soumissionnaires qui ne participeront pas à la visite obligatoire des lieux obligatoire ou qui n’enverront pas de représentant, et leur soumission sera déclarée non recevable. Toute précision ou tout changement apporté à la demande de soumissions à la suite de la visite des lieux sera inclus dans la demande de soumissions, sous la forme d’une modification.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser le texte suivant pour mettre fin aux travaux à l'aide d'un Avis de 
 résiliation pour des raisons de commodité transmis par télégraphie, télécopieur 
@@ -28,3 +29,4 @@ confirmation de résiliation avec d'autres éléments d'information.
 
 
 </pre>
+</div>

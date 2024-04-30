@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut.
@@ -99,3 +100,4 @@
 <li>L’entrepreneur doit préparer et attester l’original et deux (2) copies de la demande sur le formulaire PWGSC-TPSGC 1111, puis les transmettre au responsable <span class="input-required"><var>______</var> <kbd>(<cite>insérer « du projet »</cite> <strong><cite>ou</cite></strong> <cite>« technique »</cite> <strong><cite>ou</cite></strong> <cite>« de l’inspection »</cite>)</kbd></span> nommé à la section « Responsables » du contrat aux fins d’attestation après l’inspection et l’acceptation des travaux. Le <span class="input-required"><var>____</var> <kbd>(<cite>insérer « responsable du projet »</cite> <strong><cite>ou</cite></strong> <cite>« responsable technique »</cite> <strong><cite>ou</cite></strong> <cite>« responsable de l’inspection »</cite>)</kbd></span> fera parvenir l’original et les deux (2) exemplaires de la demande de règlement à l’autorité contractante aux fins d’attestation et de présentation au Bureau du traitement des paiements pour les autres attestations et opérations de paiement.</li>
 <li>L’entrepreneur ne peut soumettre une demande pour des travaux inachevés.</li>
 </ol></pre>
+</div>

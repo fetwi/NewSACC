@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale portant sur l'acquisition de biens d'équipement lorsqu'une conférence d'orientation d'approvisionnement initial est exigée.
@@ -10,3 +11,4 @@
 <p>L'objectif d'une conférence d'orientation d'approvisionnement initial (COAI) est de fournir des instructions et du soutien à l'entrepreneur pour préparer les documents d'approvisionnement initial exigés dans le contrat. L'entrepreneur doit communiquer avec le responsable des achats immédiatement après l'attribution du contrat. La conférence aura lieu dans les locaux du responsable des achats dans la région de la capitale nationale, le plus tôt possible après l'attribution du contrat. Étant donné qu'il s'agit d'un service offert à l'entrepreneur, l'entrepreneur ne réclamera pas ses coûts au Canada pour la prestation de la <abbr title="conférence d'orientation d'approvisionnement initial ">COAI</abbr>.</p>
 <p>Les questions portant sur la <abbr title="conférence d'orientation d'approvisionnement initial ">COAI</abbr> doivent être adressées au responsable des achats.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans toutes les demandes de soumissions.
 
@@ -15,3 +16,4 @@ Pour s'inscrire autrement que par Internet, les fournisseurs peuvent
    1-800-811-1148 afin d'obtenir le numéro de téléphone de l'agent 
    d'inscription des fournisseurs le plus près.
 </pre>
+</div>

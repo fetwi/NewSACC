@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions pour les besoins de vêtements lorsqu'un ou des échantillons de pré-production sont exigés.
@@ -35,3 +36,4 @@ Matériel disponible du gouvernement : Le soumissionnaire retenu doit acheter, 
 <li value="2">Si le ou les premiers échantillons sont rejetés, le soumissionnaire retenu devra soumettre le ou les deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<em>les soumissionnaires doivent insérer le nombre de jours</em>)</kbd></span> jours civils suivant l'avis du rejet par le responsable technique.</li>
 </ol>
 </div></pre>
+</div>

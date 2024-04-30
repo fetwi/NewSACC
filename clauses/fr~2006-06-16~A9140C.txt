@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats.  L'ordre de priorité des 
 documents qui figure ci-dessous est conforme aux politiques actuelles et aux 
@@ -32,3 +33,4 @@ celui de tout autre document qui figure par la suite sur ladite liste.
    soumission</em></strong>), telle que modifiée _______________ (<strong><em>insérer la ou les date(
    s) de la ou des modification(s) s'il y a lieu</em></strong>).
 </pre>
+</div>

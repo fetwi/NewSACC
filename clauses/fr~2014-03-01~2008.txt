@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -513,3 +514,4 @@ matière d'approvisionnement dont le nom figure dans la
 <abbr title="demandes d’arrangements en matière d’approvisionnement">DAMA</abbr>.</li>
 </ol>
 </div></pre>
+</div>

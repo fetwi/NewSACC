@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque la demande de soumissions comprend des critères d'évaluation techniques obligatoires et cotés par point, et lorsque la 
@@ -41,3 +42,4 @@ autre clause qui indique aux soumissionnaires le budget maximal disponible.
 <li value="2">Les soumissions ne répondant pas aux exigences de a) ou b) ou c) seront déclarées non recevables. La soumission recevable ayant obtenu le plus grand nombre de points sera recommandée pour attribution d'un contrat, pourvu que le prix total évalué n'excède pas le budget disponible pour ce besoin.</li>
 </ol>
 </div></pre>
+</div>

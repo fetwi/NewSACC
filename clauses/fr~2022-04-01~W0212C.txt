@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut et pour lesquels la soumission évaluera les Plans des avantages pour les Inuits (PAI).
@@ -84,3 +85,4 @@
 <li>Toute modification du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> doit être documentée à l’aide d’une modification de contrat officielle, qui ne sera accordée que si les parties conviennent de modifier le <abbr title="Plan des avantages pour les Inuits">PAI</abbr>. Le Canada se réserve le droit, à sa discrétion, de refuser ou d’accepter les modifications au <abbr title="Plan des avantages pour les Inuits">PAI</abbr> s’il considère que les modifications proposées n’offrent pas des avantages de même valeur.</li>
 <li>Toute réduction des avantages peut être considérée par le Canada comme un manquement à une obligation contractuelle.</li>
 </ol></pre>
+</div>

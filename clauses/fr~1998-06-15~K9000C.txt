@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats pour lesquels l'entrepreneur a 
 indiqué, au cours du processus de négociation des prix, qu'il n'était pas soumis 
@@ -23,3 +24,4 @@ gouvernementaux (MTPSG), dont l'entrepreneur reconnaît avoir reçu copie et
 qui figure au chapitre 10 du <em>Guide des approvisionnements</em> du MTPSG.
 
 </pre>
+</div>

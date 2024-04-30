@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les documents contractuels contenant des 
 Conditions générales, telles que les conditions DSS-MAS 1034 et DSS-MAS 9329, 
@@ -12,3 +13,4 @@ dommages ou remplacera les biens perdus à la satisfaction du Canada.
 
 
 </pre>
+</div>

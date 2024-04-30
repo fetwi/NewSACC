@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -11,3 +12,4 @@ ci-jointe et être transmis à l'autorité contractante, au plus tard quinze
 Le proposant comprend que le non-respect de cette exigence peut donner lieu 
    à la mise de côté de l'offre à commandes.
 </pre>
+</div>

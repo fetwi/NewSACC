@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause qui suit peut être utilisée dans les contrats qui comportent une 
 limite de dépenses et un prix plafond.
@@ -14,3 +15,4 @@ anglaise DSS-MAS 9143, « Contract Plan and Report Form », est également
 disponible.)
 
 </pre>
+</div>

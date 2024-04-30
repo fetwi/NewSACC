@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   La clause suivante est utilisée dans les demandes de propositions pour l’achat d’articles vestimentaires énumérées à l’annexe A de l’
@@ -28,3 +29,4 @@
 <li>Heures de travail
 <p>Sauf dans des circonstances extraordinaires, les employés du soumissionnaire et de ses premiers sous-traitants ne sont pas tenus de travailler plus que le moindre des scénarios suivants (a) 48 heures par semaine et 12 heures supplémentaires par semaine, ou (b) les limites des heures régulières et supplémentaires permises par la loi du pays de fabrication.</p></li>
 </ol></pre>
+</div>

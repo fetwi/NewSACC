@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -13,3 +14,4 @@
    l'entrepreneur et la main-d'oeuvre connexe doivent faire l'objet d'une 
    garantie de quatre-vingt-dix (90) jours.
 </pre>
+</div>

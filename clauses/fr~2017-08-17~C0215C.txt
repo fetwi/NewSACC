@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser cette clause dans les contrats à taux fixe basé sur le temps soumis à une
@@ -39,3 +40,4 @@
 <p>Pour les travaux décrits <span class="input-required"><var>_________</var> <kbd><strong>(<em>insérer la ou les sections appropriées de l'énoncé des travaux ou des besoins auxquelles s'applique cette base de paiement</em>)</strong></kbd></span> <span class="input-required"><var>________</var> <kbd><strong>(<em>insérer « de l'énoncé des travaux » ou « des besoins »</em>)</strong></kbd></span> à l'annexe  <var>____</var>:</p>
 <p>L'entrepreneur sera payé pour les travaux exécutés, conformément à la base de paiement à l'annexe <span class="input-required"><var>_______</var>, jusqu'à une limitation des dépenses de <span class="input-required"><var>________</var> $ <kbd><strong>(<em>insérer le montant au moment de l'attribution du contrat</em>).</strong></kbd></span> Les droits de douane sont <span class="input-required"><var>________</var> <kbd><strong>(<em>insérer « inclus », « exclus » ou « font l’objet d’un exemption »</em>),</strong></kbd></span> et les taxes applicables sont en sus.</span></p>
 </div></pre>
+</div>

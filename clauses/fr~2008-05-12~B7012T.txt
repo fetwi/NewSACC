@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les demandes de soumissions pour les besoins de 
 vêtements lorsqu'un ou des échantillons de pré-production sont exigés.
@@ -71,3 +72,4 @@ insérer le nombre de jours</i>)</kbd></span> jours civils suivant
 l'avis du rejet par le responsable technique.</li>
 </ol>
 </div></pre>
+</div>

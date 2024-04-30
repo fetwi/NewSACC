@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>On ne peut résilier un contrat sans avoir obtenu une opinion juridique par 
 écrit. Afin d'obtenir l'opinion du Contentieux, l'agent de négociation des 
@@ -19,3 +20,4 @@ logiciels, les données assimilables ou autres et la documentation créés ou
 obtenus en rapport avec le présent contrat.
 
 </pre>
+</div>

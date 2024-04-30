@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsqu'une ébauche du rapport 
@@ -31,3 +32,4 @@ résumé, une introduction, un exposé technique
 accompagné des conclusions et, selon le cas, des graphiques,
 tableaux et figures à l'appui.</p>
 </div></pre>
+</div>

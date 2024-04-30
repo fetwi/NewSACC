@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les invitations à soumissionner portant sur le 
 transport aérien nolisé de biens et de personnes.
@@ -26,3 +27,4 @@ L'appareil, qui assurera le service requis dans le cadre du présent contrat,
    point de départ, en vol et à destination ainsi que d'un dispositif de 
    radio-repérage d'urgence.
 </pre>
+</div>

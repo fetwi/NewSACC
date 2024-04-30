@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Les risques liés aux travaux prévus au contrat devraient être identifiés et 
 évalués pour déterminer s'il faut inclure au contrat des exigences particulières 
@@ -59,3 +60,4 @@ Canada. L'entrepreneur doit, à la demande de l'autorité
 contractante, transmettre au Canada une copie certifiée de
 toutes les polices d'assurance applicables.</p>
 </div></pre>
+</div>

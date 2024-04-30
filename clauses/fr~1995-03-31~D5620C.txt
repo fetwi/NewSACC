@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante de distribution des documents si la clause D5601D a 
 été utilisée. L'agent des achats doit indiquer la désignation de l'initiateur de 
@@ -43,3 +44,4 @@ g.     <strong>exemplaire 8 :</strong>
               être détruits.
 
 </pre>
+</div>

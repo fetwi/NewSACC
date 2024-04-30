@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante lorsqu'un prix ferme est établi pour les honoraires 
 professionnels et que les frais de déplacement et de subsistance ainsi que les 
@@ -70,3 +71,4 @@ l'entrepreneur sera payé un prix ferme de <span class="input-required"><var>___
 contrat</em></strong></i>)</kbd></span> pour effectuer tous les travaux relatifs
 à la période de prolongation du contrat.</p>
 </div></pre>
+</div>

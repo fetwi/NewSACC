@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut.
@@ -84,3 +85,4 @@
 <p>Une (1) copie de la facture, le Rapport d’étape du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> à jour et le rapport d’entretien <span class="input-required"><var>________</var> <kbd>(<cite>insérer « mensuel »</cite><strong>,</strong> <cite>« bimensuel »</cite><strong> <cite>ou</cite></strong> <cite>« trimestriel »</cite>)</kbd></span> doivent aussi être envoyés à l’autorité contractante nommée dans la section « Responsables » du contrat.</p>
 </li>
 </ol></pre>
+</div>

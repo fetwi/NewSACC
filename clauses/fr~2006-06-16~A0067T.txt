@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Les agents de négociation des contrats peuvent inclure cette clause dans la 
 section des demandes de soumissions portant sur la préparation des soumissions 
@@ -15,3 +16,4 @@ b)     Groupe B : Tous les articles énumérés à l'annexe « ____ »
 c)     Groupe C : Tous les articles énumérés à l'annexe « ____ »
 d)     Groupe D : Tous les articles énumérés à l'annexe « ____ ».
 </pre>
+</div>

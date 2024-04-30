@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez cette clause dans les « Clauses du contrat subséquent » de toute demande de soumissions qui inclut la clause
@@ -38,3 +39,4 @@
 <li>Lorsqu’un ordre est donné selon le paragraphe 1, à moins que l’autorité contractante résilie le contrat pour raisons de manquement de la part de l’entrepreneur ou que l’entrepreneur abandonne le contrat, l’entrepreneur aura droit au paiement de frais additionnels qui auront été encourus suite à la suspension en plus d’un profit équitable et raisonnable.</li>
 <li>Lorsqu’un ordre donné selon le paragraphe 1 est annulé, l’entrepreneur doit reprendre les travaux selon les conditions du contrat dès que pratiquement faisable. Si la suspension a affecté la capacité de l’entrepreneur à respecter la date de délivrance selon les conditions du contrat, la date pour l’exécution des travaux qui ont été affectés par la suspension sera prolongée pour une période équivalente à la période de suspension en plus d’une période, le cas échéant, qui, de l’avis de l’autorité contractante, et après consultation avec l’entrepreneur, est nécessaire pour que l’entrepreneur puisse reprendre les travaux. Tout ajustement équitable sera effectué au besoin à toute condition du contrat qui aura ainsi été affectée.</li>
 </ol></pre>
+</div>

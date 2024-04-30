@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante doit être utilisée dans toutes les demandes d'offre à 
 commande de concert avec la clause K0000D, intitulée «Conditions».
@@ -46,3 +47,4 @@ si elles y étaient formellement reproduites, sous réserve des autres
 conditions contenues dans la présente.
 
 </pre>
+</div>

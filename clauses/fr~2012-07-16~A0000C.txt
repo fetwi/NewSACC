@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats en conjonction avec les conditions
@@ -40,3 +41,4 @@
 <p>Toutes les clauses et conditions identifiées dans le contrat par un numéro, une date et un titre sont reproduites dans le <cite>Guide des clauses et conditions uniformisées d'achat</cite> publié par Travaux publics et Services gouvernementaux Canada (TPSGC).</p>
 <p>Le guide est disponible sur le site Web de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> : <cite>Guide des clauses et conditions uniformisées d'achat</cite>.</p>
 </div></pre>
+</div>

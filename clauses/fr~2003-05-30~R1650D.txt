@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Cette clause requiert un minimum de 250 k$ en assurance, le standard de 
 l'industrie pour les projets de moindre envergure.  Utiliser la clause R1250D 
@@ -235,3 +236,4 @@ DROIT DE CANADA DE DEMANDER EN TOUT TEMPS DES COPIES CERTIFIÉES CONFORMES
 EN DOUBLE DESDITS CONTRATS D'ASSURANCE.
 
 </pre>
+</div>

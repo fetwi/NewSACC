@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Incluez l’item suivant dans les marchés assujettis à la Directive du Nunavut, le cas échéant.
@@ -74,3 +75,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>L’autorité responsable du Plan des avantages pour les Inuits (PAI) de l’entrepreneur pour le contrat est :</p> <p>Nom : _________</p> <p>Titre : _________</p> <p>Organisation : __________</p> <p>Adresse : __________</p> <p>Téléphone : ___ ___ _______</p> <p>Télécopieur : ___ ___ _______</p> <p>Courriel : ___________</p> <p>L’autorité responsable du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur est le représentant de l’entrepreneur qui est responsable de toutes les questions liées aux avantages pour les Inuits et à ceux pour le Nunavut prévus dans le contrat. Les questions relatives au <abbr title="Plan des avantages pour les Inuits">PAI</abbr> peuvent être traitées avec l’autorité responsable du <abbr title="Plan des avantages pour les Inuits">PAI</abbr> de l’entrepreneur.</p></pre>
+</div>

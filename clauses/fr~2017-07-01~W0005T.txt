@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante lorsque le marché est réservé aux bénéficiaires d'une entente sur les revendications territoriales globales (ERTG), suite à un droit de premier refus en vertu d'une ou de plusieurs
@@ -14,3 +15,4 @@
 <p class="description"><strong><em>Instruction aux agents de négociation des marchés:</em></strong> <em>insérer l'énoncé suivant, s'il y a lieu</em>.</p>
 <blockquote>Conformément à l’article 800 de l’Accord de libre-échange canadien (ALEC), l’<abbr title="Accord de libre-échange canadien">ALEC</abbr> ne s’applique pas au présent marché.</blockquote>
 </div></pre>
+</div>

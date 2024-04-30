@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque le Canada doit indiquer qui participera à 
 l'évaluation des soumissions. 
@@ -23,3 +24,4 @@ Une équipe d'évaluation composée de représentants du Canada et _________ (<s
    inscrire le nom de l'entreprise ou du consultant</em></strong>) évalueront les 
    soumissions.
 </pre>
+</div>

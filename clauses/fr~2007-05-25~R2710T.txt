@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -574,3 +575,4 @@ des fournisseurs le plus près.
    Travaux publics et Services gouvernementaux Canada (TPSGC) suivant : <strong class="wsStyleUnderline">
    http://www.pwgsc.gc.ca/approvisionnements/text/forms/forms-f.html</strong>.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Il est important de définir et d'évaluer les risques que comportent les travaux 
 exécutés en vertu d'un contrat afin de faire en sorte que l'entrepreneur soit 
@@ -30,3 +31,4 @@ est nécessaire.
 
 
 </pre>
+</div>

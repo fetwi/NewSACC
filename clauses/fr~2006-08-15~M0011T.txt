@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes d'offres à commandes.  Cette 
 clause peut être utilisée en conjonction avec M9101T.
@@ -42,3 +43,4 @@ L'autorité de l'offre à commandes établira le nombre de jours dont
    tout item ci-haut mentionné.  Le défaut de répondre à la demande pourra 
    avoir pour conséquence que l'offre soit jugée non-recevable.
 </pre>
+</div>

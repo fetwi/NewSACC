@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats du ministère de la Défense nationale (MDN) établis avec des entrepreneurs de l'Union européenne afin de préciser les exigences du
@@ -18,3 +19,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>L'entrepreneur doit préparer l'article numéro(s) <var>_____</var> pour la préservation et l'emballage conformément aux normes de marquage et d'emballage de l'<abbr title="Organisation du Traité de l’Atlantique Nord">OTAN</abbr> incluses dans la dernière édition du document TL8100-0100 et doit être emballé pour répondre aux normes minimum de niveau d'emballage C.</p>
 </div></pre>
+</div>

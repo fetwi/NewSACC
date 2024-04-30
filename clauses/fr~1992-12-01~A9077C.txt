@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -21,3 +22,4 @@ rapport aux taux actuels du contrat ne dépasse pas _____ p. 100.
 Si la couronne décide d'exercer l'option, elle en avisera l'entrepreneur 
    par écrit au plus tard le _____.  
 </pre>
+</div>

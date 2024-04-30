@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions concurrentielles pour plusieurs articles (divers services) lorsque la concurrence est limitée exclusivement aux services canadiens, tel que défini au paragraphe 4 de la clause
@@ -65,3 +66,4 @@ contenu canadien de plusieurs produits, plusieurs services ou une
 combinaison de produits et de services, consulter l'Annexe 3.6,
 Exemple 2 du Guide des approvisionnements.</p>
 </div></pre>
+</div>

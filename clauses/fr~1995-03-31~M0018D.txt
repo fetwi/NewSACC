@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les cas où l'on veut obtenir des services de 
 gardiennage (sécurité).
@@ -12,3 +13,4 @@ ordres de poste communiqués ainsi qu'aux directives orales ou écrites du
 représentant autorisé du destinataire.
 
 </pre>
+</div>

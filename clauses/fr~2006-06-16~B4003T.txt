@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque la demande de soumissions contient des 
 références aux normes de l'Office des normes générales du Canada (ONGC).  Les 
@@ -19,3 +20,4 @@ Courriel :    <strong class="wsStyleUnderline">ncr.cgsb-ongc@tpsgc.gc.ca</strong
 
 Site Web de l'ONGC: <strong class="wsStyleUnderline">http://www.tpsgc.gc.ca/cgsb/home/index-f.html</strong>.
 </pre>
+</div>

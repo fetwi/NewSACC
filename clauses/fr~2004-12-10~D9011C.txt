@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats, en conjonction avec la clause 
 A0301T, Pièces de rechange d'avion militaire - substituts et traçabilité.
@@ -28,3 +29,4 @@ e)     toutes les autres données techniques pertinentes.
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans toutes les demandes d'offres à commandes non 
@@ -147,3 +148,4 @@ un paiement forfaitaire est limité à 5 000 $, incluant la
 taxe sur les produits et services ou la taxe de vente
 harmonisée.</p>
 </div></pre>
+</div>

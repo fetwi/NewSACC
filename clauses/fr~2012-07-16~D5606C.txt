@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsque les 
@@ -44,3 +45,4 @@ révision à l'Amélioration du système
 d'approvisionnement des Forces canadiennes, utiliser le formulaire
 <cite>DND 2227</cite>/<cite>DND 2228</cite> au lieu de <cite>FC1280</cite>.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Utiliser la clause suivante dans les offres à commandes lorsque l'offrant doit 
 présenter des rapports d'utilisation périodique.
@@ -51,3 +52,4 @@ responsable de l'offre à commandes dans les <span class="input-required"><var>_
 jours</i>)</kbd></span> jours civils suivant la fin de la période
 de référence.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Veuillez utiliser la clause suivante dans les demandes d’arrangements en matière d’approvisionnement lorsqu’une conférence des fournisseurs doit avoir lieu.
@@ -75,3 +76,4 @@
 <p>Si l’attestation ci-dessus n’est pas fournie et respectée ou si les exigences de sécurité ne sont pas respectées, les représentants se verront refuser l’accès à la conférence des fournisseurs.</p>
 <p>Toute précision ou tout changement apporté à la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> à la suite de la conférence des fournisseurs sera inclus dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, sous la forme d’une modification. Les fournisseurs qui ne participeront pas à la conférence pourront tout de même présenter un arrangement.</p>
 </div></pre>
+</div>

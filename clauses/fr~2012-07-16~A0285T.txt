@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les demandes de soumissions qui sont principalement pour les radoubs, réparations et nouvelles constructions navales lorsque l'inscription à la Commission des accidents du travail est obligatoire sous la juridiction de la province ou du territoire compétent.  Cette clause a pour but d'essayer de protéger les travailleurs qui opèrent dans des secteurs d'industries à risques élevés.
@@ -23,3 +24,4 @@
 <p>Le soumissionnaire doit avoir un compte en règle auprès de la Commission des accidents du travail de la province ou du territoire concerné.</p>
 <p>Le soumissionnaire devra fournir un certificat ou une lettre émis par la Commission des accidents du travail attestant que son compte est en règle, dans les <span class="input-required"><var>_______</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours suivant la demande de l'autorité contractante. Le défaut de répondre à la demande pourra avoir pour conséquence que la soumission soit jugée non recevable.</p>
 </div></pre>
+</div>

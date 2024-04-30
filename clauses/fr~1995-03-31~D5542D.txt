@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque l'ISO 9003 est exigé.  Lorsque la demande 
 comporte plusieurs codes de l'assurance de la qualité, l'agent des achats doit 
@@ -43,3 +44,4 @@ L'entrepreneur doit aviser le RAQ lorsqu'il a reçu d'un sous-traitant un
 produit jugé non conforme après qu'il ait été soumis à l'AOQ.
 
 </pre>
+</div>

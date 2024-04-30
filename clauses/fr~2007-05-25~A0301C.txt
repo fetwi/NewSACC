@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour aviser l'entrepreneur qu'il doit conserver les registres du fabricant constituant la preuve d'origine des pièces, les mettre à jour et les rendre disponibles à des fins d'examen.
@@ -28,3 +29,4 @@ ou d'application émis par le fabricant;</li>
 pertinentes.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser cette clause dans les contrats comportant des autorisations de tâches, lorsque les travaux à exécuter dans le cadre des autorisations de tâches individuelles peuvent être soumis à une
@@ -24,3 +25,4 @@
 <p>Aucune augmentation de la responsabilité totale du Canada ou du prix des travaux précisés dans toute <abbr title="autorisation de tâches">AT</abbr> autorisée découlant de tout changement à la conception, ou de toute modification ou interprétation des travaux, ne sera autorisée ou payée à l'entrepreneur, à moins que ces changements à la conception, ces modifications ou ces interprétations n'aient été approuvés, par écrit, par l'autorité contractante avant d'être intégrés aux travaux.</p>
 <p><kbd>(<em><strong>Insérer les détails de la base de paiement s'ils ne sont pas inclus dans une annexe.</strong></em>)</kbd></p>
 </div></pre>
+</div>

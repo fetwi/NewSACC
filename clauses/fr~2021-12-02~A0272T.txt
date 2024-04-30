@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Vous devez utiliser la clause suivante lorsque la demande de soumissions comprend des critères d’évaluation techniques obligatoires et que la sélection repose sur la soumission conforme ayant le prix évalué le plus bas par article ou le prix global évalué le plus bas.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
 <p>Pour être déclarée conforme, une soumission doit respecter les exigences de la demande de soumissions et satisfaire à tous les critères d’évaluation technique obligatoires. La soumission conforme ayant le <span class="input-required"><var>______</var> <kbd>(<em><strong>insérer</strong> : « prix évalué le plus bas par article » ou « prix global évalué le plus bas »</em>)</kbd></span> sera recommandée pour l’attribution d’un contrat.</p>
 </div></pre>
+</div>

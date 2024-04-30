@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans tous les contrats liés à la collecte ou à la création de renseignements personnels.
@@ -37,3 +38,4 @@ conserver des renseignements sous quelque forme que ce soit et doit
 veiller à ce qu'aucune trace des renseignements personnels ne
 reste en sa possession.</p>
 </div></pre>
+</div>

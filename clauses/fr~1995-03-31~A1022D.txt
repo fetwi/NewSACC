@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La présente clause doit être utilisée lorsqu'il faut nommer un agent de projet 
 dans les documents d'invitation à soumissionner et les documents contractuels.  
@@ -14,3 +15,4 @@ Organisme : _____
 Adresse : _____
 
 </pre>
+</div>

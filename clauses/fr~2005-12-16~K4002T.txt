@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans toutes les demandes de soumissions en régime de 
 concurrence auxquelles la Politique sur le contenu canadien s'applique (voir le 
@@ -44,3 +45,4 @@ Cette clause doit être utilisée en conjonction avec la clause K4000D.
               Signature                   Date
 
 </pre>
+</div>

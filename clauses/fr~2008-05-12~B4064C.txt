@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats du ministère de la Défense nationale (MDN) ayant trait aux services aériens offerts dans le cadre de la gestion optimisée des systèmes d'armes, des modifications des aéronefs, ainsi que pour la maintenance/réparation et la révision des aéronefs et des systèmes de propulsion appartenant ou étant gérés par le
@@ -24,3 +25,4 @@
 <li value="3">L'entrepreneur doit, sur un avis de deux semaines, permettre au personnel désigné du <abbr title="Ministère de la Défense nationale">MDN</abbr>/ <abbr title="Forces canadiennes">FC</abbr> d'avoir accès à toutes les données, aux documents et aux installations nécessaires pour effectuer une inspection de <abbr title="sécurité des vols">SV</abbr>.</li>
 </ol>
 </div></pre>
+</div>

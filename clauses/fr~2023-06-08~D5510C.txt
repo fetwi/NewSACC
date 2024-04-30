@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
@@ -83,3 +84,4 @@ installations de l'entrepreneur ou à celles du sous-traitant, ainsi que sur les
 <p>L'entrepreneur doit fournir, sans frais additionnels, toutes les données d'essai pertinentes, toutes les données techniques, les pièces d'essai et les échantillons pouvant raisonnablement être demandés par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> pour vérifier s'ils sont conformes aux exigences du contrat. L'entrepreneur doit expédier, à ses frais, ces données et pièces d'essai de même que ces échantillons à l'endroit indiqué par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
 <p>Les registres de contrôle de la qualité, d'inspection et d'essai faisant état de la conformité aux exigences spécifiées, ainsi que les registres des mesures correctives, doivent être conservés par l'entrepreneur pendant trois ans après la date d'exécution ou de résiliation du contrat, et présentés sur demande au <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
 </div></pre>
+</div>

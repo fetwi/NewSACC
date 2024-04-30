@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour les achats non-concurrentiels de produits et 
 services non commerciaux dont la valeur est de plus de 50 000 $, lorsque la 
@@ -21,3 +22,4 @@ profit juste et raisonnable.
 
 
 </pre>
+</div>

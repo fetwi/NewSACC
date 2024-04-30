@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause pour les demandes d'acquisitions d'immobilisations, dans 
 les demandes de soumission et documents contractuels lorsque des marchandises 
@@ -21,3 +22,4 @@ jours avant la date de livraison prévue au calendrier pour les articles
 livrables complets.
 
 </pre>
+</div>

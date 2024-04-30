@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les offres à commandes en conjonction avec les 
 clauses K0000D, M0000T et M0100D.
@@ -18,3 +19,4 @@ découlant de l'OC.
 
 
 </pre>
+</div>

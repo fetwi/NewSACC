@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes de soumissions lorsque la capacité 
 financière du soumissionnaire fait partie des critères d'évaluation.
@@ -21,3 +22,4 @@ Si un soumissionnaire fournit au Canada, à titre confidentiel, les
    divulgués, le Canada doit traiter ces documents de façon confidentielle, 
    conformément à la <em>Loi sur l'accès à l'information</em>, L.R. 1985, ch. A-1.
 </pre>
+</div>

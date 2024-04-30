@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante quand la sélection de l'entrepreneur est faite en 
 fonction de la meilleure valeur globale, à la suite d'une évaluation fondée sur 
@@ -26,3 +27,4 @@ A0270T.
        l'établissement d'une offre à commandes, selon le cas.
 
 </pre>
+</div>

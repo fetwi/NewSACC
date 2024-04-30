@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les demandes d'offres à commandes (DOC) et les 
 autorisations de passer des commandes subséquentes à une offre à commandes 
@@ -17,3 +18,4 @@ après la clause M0000T ou M0000C.
    uniformisées - offres à commandes, sont incorporées par renvoi et font 
    partie intégrante de ce document.
 </pre>
+</div>

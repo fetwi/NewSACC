@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Cette clause peut être utilisée de concert avec les clauses D5540D, D5541D et 
 D5542D afin de préciser la nature des contrôles de qualité requis lorsque 
@@ -12,3 +13,4 @@ qualité des entrepreneurs tienne compte de chacun des éléments du modèle.
 
 
 </pre>
+</div>
