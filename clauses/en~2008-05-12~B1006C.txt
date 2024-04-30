@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts for spare parts for the Department of 
 National Defence when the contractor will provide material that is new 
@@ -31,3 +32,4 @@ Contractor in its bid.</p>
 <p>Cure date if the item contains elastomeric material:
 <var>___________________</var> .</p>
 </div></pre>
+</div>

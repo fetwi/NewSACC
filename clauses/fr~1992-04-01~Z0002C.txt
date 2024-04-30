@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   L'agent de négociation des contrats devra insérer, dans les invitations à 
@@ -58,3 +59,4 @@ d'autres reçus de transport, et acquitter au préalable le
 fret dans la mesure stipulée dans le Contrat.</li>
 </ol>
 </div></pre>
+</div>

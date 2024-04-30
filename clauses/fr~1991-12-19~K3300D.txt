@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats qui ne visent pas des travaux de 
 recherche et de développement ou des services professionnels et qui ne portent 
@@ -125,3 +126,4 @@ l'identification des Données techniques visées par le paragraphe 2).
    d'enregistrement d'un droit d'auteur ou d'un dessin industriel, y 
    compris l'aide de l'inventeur s'il s'agit d'une Invention.  
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez la clause suivante dans tous les contrats prévoyant l'exportation de 
@@ -45,3 +46,4 @@ l'Entrepreneur au complet.</li>
 <p class="desription">Note : tous les autres envois de marchandises non inclus dans les catégories ci-dessus n'exigent pas que l'on remplisse la 
 formule B13.</p>
 </div></pre>
+</div>

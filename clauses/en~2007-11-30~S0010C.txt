@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in supply arrangements (SAs) unless otherwise 
 authorized by the responsible Commodity Team.  The clause refers to the business 
@@ -59,3 +60,4 @@ suppliers and the application of a vendor performance corrective measure.
 
 
 </pre>
+</div>

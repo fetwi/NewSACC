@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utilisez la clause suivante dans les contrats qui exigent un Rapport intérimaire 
 de production mensuel, formule DD 375, lorsque le contrat américain provient du 
@@ -19,3 +20,4 @@ distribuée comme suit :
 
 Nombre d'exemplaires         Nom et adresse   
 </pre>
+</div>

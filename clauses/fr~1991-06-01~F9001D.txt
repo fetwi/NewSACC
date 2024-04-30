@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -14,3 +15,4 @@ Si le ministère ou l'organisme passant la commande juge bon d'invoquer
    d'autres mesures de sécurité pendant la prestation du service, 
    l'Entrepreneur devra alors posséder l'autorisation sécuritaire exigée. 
 </pre>
+</div>

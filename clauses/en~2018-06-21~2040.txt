@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following general conditions for competitive and non-competitive requirements for the acquisition of research and development goods and services, where bidders are invited to propose innovative ways to meet a specific need (
@@ -1377,3 +1378,4 @@ Contract.</p>
 <h2 id="2018-06-212040code-of-conduct-for-procurement">2040 55 (2016-04-04) Code of Conduct for  Procurement—Contract</h2>
 <p>The Contractor agrees to comply with the Code of Conduct for Procurement and to be bound by its  terms for the period of the Contract.</p>
 </div></pre>
+</div>

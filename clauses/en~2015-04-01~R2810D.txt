@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -621,3 +622,4 @@ The Contractor must ensure that subcontracts include Integrity Provisions no 	le
 For governments, as well as entities controlled by a government, including Crown corporations, the present Integrity Provisions are reduced to complying with article 750 of the <cite>Criminal Code</cite>, the <cite>Government Contracts Regulations</cite> and the <cite>Code of Conduct for Procurement</cite>.</li>
 </ol>
 </div></pre>
+</div>

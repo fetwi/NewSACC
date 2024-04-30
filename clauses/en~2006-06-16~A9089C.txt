@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when form
@@ -20,3 +21,4 @@ portion of the Work, the Contractor must submit to the Contracting
 Authority a completed form <abbr title="Public Works and Government Services Canada">PWGSC</abbr>-<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> 1137 entitled Application
 for Permission to Subcontract.</p>
 </div></pre>
+</div>

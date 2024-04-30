@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause when a bidders' conference will be held.
@@ -26,3 +27,4 @@
 <p>Personnel security screening is required prior to gaining authorized access to <span class="input-required"><var>_______</var> <kbd>(<em>insert PROTECTED information, assets, or sites or CLASSIFIED information, assets or sites</em>)</kbd></span>. Bidders are requested to communicate with the Contracting Authority before the conference to confirm attendance. Bidders should provide, in writing, to the Contracting Authority, the name(s) of the person(s) who will be attending and a list of issues they wish to table no later than <span class="input-required"><var>_______</var> <kbd>(<em>insert date and time</em>)</kbd></span>. The Bidder’s Company Security Officer (CSO) must ensure that their representatives hold a valid security clearance at the required level for the bidders’ conference.  Failure to comply with the security requirements will result in the representatives being denied access to the bidders’ conference.</p>
 <p>Any clarifications or changes to the bid solicitation resulting from the bidders' conference will be included as an amendment to the bid solicitation. Bidders who do not attend will not be precluded from submitting a bid.</p>
 </div></pre>
+</div>

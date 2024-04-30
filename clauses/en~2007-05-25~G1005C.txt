@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when there is no specific insurance requirement in the 
 contract.
@@ -14,3 +15,4 @@ will be at its own expense and for its own benefit and protection.  It will
 not release the Contractor from or reduce its liability under the Contract.
 
 </pre>
+</div>

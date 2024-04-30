@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats évalués à $25,000 ou plus et FAB à 
 l'usine, quand les consignataires ne sont pas connus au moment de 
@@ -26,3 +27,4 @@ Hull (Québec) Canada K1A 0S5, en fournissant les renseignements suivants :
 
 Aucune expédition ne devra être effectuée avant réception des instructions.
 </pre>
+</div>

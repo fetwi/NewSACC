@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations.
 
@@ -12,3 +13,4 @@ Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
    statement must be provided to the effect that the signatory represents 
    all members of the joint venture.
 </pre>
+</div>

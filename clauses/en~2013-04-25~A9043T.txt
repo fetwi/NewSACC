@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause when reissuing a bid solicitation. Contracting officers are to insert the number, date and closing date and time of the bid solicitation which is being superseded.
@@ -10,3 +11,4 @@ a closing of <span class="input-required"><var>______</var>
 <kbd>(<em>insert the closing date</em>)</kbd></span> at <span class="input-required"><var>________</var> <kbd>(<em>insert the closing
 time</em>)</kbd></span>. A debriefing or feedback session will be provided upon request to bidders/offerors/suppliers who bid on the previous solicitation.</p>
 </div></pre>
+</div>

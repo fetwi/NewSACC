@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts in conjunction with general conditions 
 2010A, 2010B, 2010C, 2029, 2030, 2035 or 2040.
@@ -12,3 +13,4 @@ and Conditions</cite> Manual issued by Public Works and Government
 Services Canada (PWGSC). The Manual is available on the <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
 Website: http://sacc.pwgsc.gc.ca/sacc/index-e.jsp.</p>
 </div></pre>
+</div>

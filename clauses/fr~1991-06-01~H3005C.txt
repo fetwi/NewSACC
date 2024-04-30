@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans les contrats scientifiques lorsque des paiements 
 d'étape fermes doivent être faits conformément à un calendrier des étapes 
@@ -68,3 +69,4 @@ pré-établi.
    de la présente clause ne s'appliquera qu'aux seules fins de calculer 
    l'intérêt sur les comptes en souffrance. 
 </pre>
+</div>

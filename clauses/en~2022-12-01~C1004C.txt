@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   The following clause is intended to provide additional details concerning the effects of audit findings on contract amounts.
@@ -82,3 +83,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Canada reserves the right to recover amounts and make adjustments to amounts payable to the Contractor where an examination of the Contractor’s records has identified amounts allocated to the Contract that are not in accordance with the Contract terms.</p> <p>Where the results of an examination indicate that an overpayment by Canada has occurred, such overpayment is due and payable on the date indicated in the notice of overpayment.</p></pre>
+</div>

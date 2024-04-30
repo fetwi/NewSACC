@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in bid solicitations when it is mandatory for bidders 
 to view the work site during the solicitation period to fully understand the 
@@ -19,3 +20,4 @@ their bids will be rejected as non-compliant. Any clarifications or
 changes to the bid solicitation resulting from the site visit will
 be included as an amendment to the bid solicitation.</p>
 </div></pre>
+</div>

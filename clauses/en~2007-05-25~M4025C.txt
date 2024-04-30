@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in standing offers.  The order of documents shown below 
@@ -33,3 +34,4 @@ and title</em>)</kbd></span>;</li>
 offer</em>)</kbd></span>, as amended on <span class="input-required"><var>_________</var>
 <kbd>(<em>insert date(s) of amendment(s), if applicable</em>)</kbd></span>.</li>
 </ol></pre>
+</div>

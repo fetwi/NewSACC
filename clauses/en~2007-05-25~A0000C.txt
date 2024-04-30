@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts in conjunction with general conditions 
 1026A, 1026B, 2010, 2029, 9601, 9624, 9676 or TRA-95.
@@ -12,3 +13,4 @@ issued by Public Works and Government Services Canada (PWGSC).  The Manual
 is available on the PWGSC Website: <strong class="wsStyleUnderline">http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</strong>.
 
 </pre>
+</div>

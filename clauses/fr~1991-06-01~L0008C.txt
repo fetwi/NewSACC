@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats à frais remboursables lorsque le 
 Canada est propriétaire de l'outillage spécial de production déjà en possession 
@@ -22,3 +23,4 @@ de l'entrepreneur.  Veuillez fournir les données manquantes.
    conditionnement et de mise en caisses sont nécessaires, ils feront 
    l'objet d'un nouveau contrat du Ministère.
 </pre>
+</div>

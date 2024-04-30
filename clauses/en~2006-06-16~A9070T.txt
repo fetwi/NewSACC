@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>The contracting officer must indicate the name of the Canadian province or 
 territory the law of which Canada proposes to apply to the resulting contract.  
@@ -19,3 +20,4 @@ Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
    territory of its choice.  If no change is made, it acknowledges that the 
    applicable laws specified are acceptable to the Bidder.
 </pre>
+</div>

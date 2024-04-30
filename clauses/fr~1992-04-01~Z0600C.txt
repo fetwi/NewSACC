@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque le contrat américain 
 prescrit l'inspection à l'usine par le Gouvernement et que ni la norme 
@@ -25,3 +26,4 @@ L'Entrepreneur doit se conformer aux exigences de la spécification AQAP-9.
 
 
 </pre>
+</div>

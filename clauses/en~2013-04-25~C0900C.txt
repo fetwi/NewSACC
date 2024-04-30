@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in rental and maintenance contracts.
@@ -10,3 +11,4 @@ all parts, labour, preventive and remedial maintenance), payable
 each month in arrears. Customs duties are <span class="input-required"><var>_________</var> <kbd>(<em>insert "included",
 "excluded" or "subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
 </div></pre>
+</div>

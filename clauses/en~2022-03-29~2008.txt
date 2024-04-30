@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -251,3 +252,4 @@
 <h2 id="2022-03-292008code-of-conduct-for-procurement">20 (2022-01-28) Code of Conduct for Procurement—arrangement</h2>
 <p>The Code of Conduct for Procurement provides that Suppliers must respond to Requests for Supply Arrangements (RFSA) in an honest, fair and comprehensive manner, accurately reflect their capacity to satisfy the requirements set out in the <abbr title="Request for Supply Arrangement">RFSA</abbr> and resulting supply arrangement, submit bids and enter into contracts only if they will fulfill all obligations of the Contract. By submitting an arrangement, the Supplier is certifying that it is complying with the <cite>Code of Conduct for Procurement</cite>. Failure to comply with the <cite>Code of Conduct for Procurement</cite>, may render the arrangement non-responsive.</p>
 </div></pre>
+</div>

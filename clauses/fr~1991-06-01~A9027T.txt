@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -74,3 +75,4 @@ La ratification du Contrat sera assujettie à l'obtention d'une autorisation
    cette tâche.  Les employés de l'Entrepreneur devront accepter de fournir 
    des renseignements personnels aux fins d'autorisation sécuritaire.  
 </pre>
+</div>

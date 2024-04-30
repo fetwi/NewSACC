@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans tous les contrats scientifiques lorsqu'une base de 
 paiement de type "Limitation des dépenses" a été utilisée.  Cette clause doit 
@@ -27,3 +28,4 @@ L'Entrepreneur n'apportera aucune modification aux dessins ou aux
    engagés sans une telle autorisation ne seront pas remboursés par le 
    Canada. 
 </pre>
+</div>

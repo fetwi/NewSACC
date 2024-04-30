@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when advance payment will be made.
 
@@ -16,3 +17,4 @@ Refer to the procedures 6E.585, 6E.586, 6E.587, 6E.601, 6E.605, 7E.594, 7E.595,
 
 
 </pre>
+</div>

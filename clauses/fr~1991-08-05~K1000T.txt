@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Inclure la clause suivante et la formule DSS-MAS 4079, Déclaration de biens 
 admissibles, dans les invitations à soumissionner assujetties à l'Accord de 
@@ -29,3 +30,4 @@ Les biens admissibles, les produits d'origine canadienne et les produits
    indiqués dans la Déclaration des biens admissibles ou dans les 
    soumissions présentées sans cette dernière Déclaration.   
 </pre>
+</div>

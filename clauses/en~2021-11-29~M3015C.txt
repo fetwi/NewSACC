@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Unless equivalent language has already been included, use the following clause in the ‘Standing Offer’ section of the
@@ -19,3 +20,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Unless specified otherwise, the continuous compliance with the certifications provided by the Offeror with its offer or precedent to issuance of the Standing Offer (SO), and the ongoing cooperation in providing additional information are conditions of issuance of the <abbr title="Standing Offer">SO</abbr> and failure to comply will constitute the Offeror in default. Certifications are subject to verification by Canada during the entire period of the <abbr title="Standing Offer">SO</abbr> and of any resulting contract that would continue beyond the period of the <abbr title="Standing Offer">SO</abbr>.</p></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following supplemental general conditions in contracts for medium complexity competitive and non-competitive requirements for goods when a portion of the work is for professional services.
@@ -71,3 +72,4 @@
 <p>The Contracting Authority may at any time, by written notice, order the Contractor to suspend or stop the Work or part of the Work under the Contract. The Contractor must immediately comply with any such order in a way that minimizes the cost of doing so.
     </p>
 </div></pre>
+</div>

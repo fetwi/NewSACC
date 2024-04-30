@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when the contract contains references to United States 
 military specifications or standards.
@@ -10,3 +11,4 @@ military specifications or standards.
    Defence, Philadelphia, telephone: (215) 697-2179/2667; facsimile: (215) 
    697-1462.
 </pre>
+</div>

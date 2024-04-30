@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -67,3 +68,4 @@ Suspension</h2>
 Termination</h2>
 <p>Canada may, in Canada’s sole and absolute discretion, terminate the Agreement at any time by giving notice of termination in writing to the Consultant.  The Consultant shall not be paid any amount whatsoever for a termination, other than such amount, if any, payable to the Consultant in accordance with the Termination Costs provisions in GC5.11.</p>
 </div></pre>
+</div>

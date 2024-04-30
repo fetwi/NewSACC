@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when there is production of or access to 
@@ -46,3 +47,4 @@ of the Contract and in any event for so long as they will examine,
 possess or transfer controlled goods.</li>
 </ol>
 </div></pre>
+</div>

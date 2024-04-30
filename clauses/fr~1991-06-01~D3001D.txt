@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante quand l'emballage d'expédition, spécifié dans la 
 réquisition, doit être fait selon la « bonne pratique commerciale », les « 
@@ -9,3 +10,4 @@ standard commercial ».
    transport les plus avantageux puissent s'appliquer selon le mode de 
    transport choisi ou autorisé.
 </pre>
+</div>

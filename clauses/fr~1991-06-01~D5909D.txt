@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -30,3 +31,4 @@ d) Pendant la durée du Contrat, le calendrier des congés du titulaire sera
    selon un accord conclu avec celui-ci le bureau se préoccupera d'abord 
    d'assurer la disponibilité d'un personnel en permanence.  
 </pre>
+</div>

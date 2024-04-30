@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the contractor acknowledges that sufficient information has been provided by Canada with respect to the location and estimated amount of hazardous materials or toxic substances.
@@ -10,3 +11,4 @@
 <li value="3">The completion date for the Work takes into account the fact that the removal, handling, storage, disposal and/or working in the vicinity of hazardous materials such as asbestos, lead, <abbr title="Polychlorinated Biphenyls">PCBs</abbr>, silica and other hazardous materials or toxic substances may be affected by the need to comply with applicable laws or regulations and that this will not be considered to be an excusable delay.</li>
 </ol>
 </div></pre>
+</div>

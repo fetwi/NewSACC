@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts.  The contracting officer must ensure that 
 the applicable law selected by the bidder, or in absence of such selection, the 
@@ -20,3 +21,4 @@ in front of Terre-Neuve-et-Labrador and l'Ile-du-Prince-Édouard, and the words
 between the parties determined, by the laws in force in
 <var>______</var> .</p>
 </div></pre>
+</div>

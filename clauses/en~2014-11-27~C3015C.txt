@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in firm price contracts that may be subject to exchange rate fluctuation provisions where the goods or services or both include a foreign currency component.  This clause may be used for various methods of payment.
@@ -68,3 +69,4 @@
 <li value="8">Canada reserves the right to audit any revision to costs and prices under this clause.</li>
 </ol>
 </div></pre>
+</div>

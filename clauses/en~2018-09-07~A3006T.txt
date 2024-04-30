@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in requests for proposals (RFPs) for the procurement of apparel goods as listed at Annex A of
@@ -28,3 +29,4 @@
 <li>Hours of work
 <p>Except in extraordinary circumstances, the Bidder’s and its first-tier subcontractors’ employees are not required to work more than the lesser of (a) 48 hours per week and 12 hours overtime per week, or (b) the limits on regular and overtime hours allowed by the law of the country of manufacture.</p></li>
 </ol></pre>
+</div>

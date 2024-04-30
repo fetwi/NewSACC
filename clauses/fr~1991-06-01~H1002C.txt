@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats scientifiques lorsqu'un paiement 
 forfaitaire doit être versé à l'entrepreneur après que toutes les fournitures 
@@ -13,3 +14,4 @@ L'Entrepreneur doit rédiger et certifier un original et quatre (4) copies
    scientifiques qui attestera la demande de paiement et la remettra au 
    Délégué scientifique pour attestation et paiement. 
 </pre>
+</div>

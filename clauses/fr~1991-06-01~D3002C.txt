@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats scientifiques lorsque des 
 produits dangereux doivent être transportés dans le cadre de l'exécution du 
@@ -25,3 +26,4 @@ L'Entrepreneur doit se conformer à tous les niveaux de règlements en ce qui
    trait aux produits dangereux tels qu'ils figurent dans les lois et 
    arrêtés fédéraux, provinciaux et municipaux.
 </pre>
+</div>

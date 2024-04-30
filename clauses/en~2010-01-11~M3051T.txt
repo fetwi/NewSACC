@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in competitive requests for standing offers for single 
@@ -39,3 +40,4 @@ in
 <p><var title="checkbox">( )</var> the good(s) offered are Canadian
 goods as defined in paragraph 1 of clause A3050T.</p>
 </div></pre>
+</div>

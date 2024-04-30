@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause for all competitive requests for standing offers where 
 the potential offeror may be a Former Public Servant in receipt of a Lump Sum 
@@ -45,3 +46,4 @@ clauses A9105C and A9106T.
    the offer, and must be provided on, or before, offer closing.  Failure 
    to meet this condition will render the offer non-responsive.
 </pre>
+</div>

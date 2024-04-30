@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in solicitations that are subject to the Nunavut Directive, and are limited to competition among firms on the Inuit Firm Registry (IFR).
@@ -109,3 +110,4 @@
 <li>Bidders must be registered on the <abbr title="Inuit Firm Registry">IFR</abbr> <span class="input-required"><var>_______</var><kbd><cite>(insert( "by bid closing"</cite> <strong><cite>or</cite></strong> <cite>" by <var>___</var>(insert number of days) business days after bid closing”).</cite></kbd></span> If a bidder is not registered on the <abbr title="Inuit Firm Registry">IFR</abbr> by that time, their bid will be declared non responsive and given no further consideration.</li>
 <li>Failure to maintain registration on the <abbr title="Inuit Firm Registry">IFR</abbr> for the duration of the Contract may result in Canada terminating the contract for default.</li>
 </ol></pre>
+</div>

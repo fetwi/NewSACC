@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the requisition specifies
@@ -23,3 +24,4 @@ The completed inspection document(s) must be attached to, or
 enclosed with, each shipment, as applicable, in compliance with
 <abbr title="Federal Aviation Administration">FAA</abbr>/<abbr title="Department of Transport">DOT</abbr> regulations.</p>
 </div></pre>
+</div>

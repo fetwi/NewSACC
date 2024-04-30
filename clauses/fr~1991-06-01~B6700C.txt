@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats applicables au Fonds renouvelable 
 de la production de défense, lorsqu'il est prévu que l'entrepreneur doit 
@@ -22,3 +23,4 @@ ministère de la Défense nationale.
 Toutes les autres pièces, etc., qui ne sont pas mentionnées ci-dessus de 
    façon explicite doivent être fournies par l'Entrepreneur. 
 </pre>
+</div>

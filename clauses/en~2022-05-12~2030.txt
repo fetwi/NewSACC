@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following general conditions for higher complexity competitive or non-competitive requirements for the acquisition of goods. For example, these general conditions could be used for military equipment,
@@ -1077,3 +1078,4 @@
 <li>Where Canada intends to terminate the Contract under this section, Canada will inform the Contractor and provide the Contractor an opportunity to make written representations before making a final decision. Written representations must be submitted within 30 days from receiving a notice of concern unless Canada establishes a different deadline.</li>
 </ol>
 </div></pre>
+</div>

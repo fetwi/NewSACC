@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the contractor is responsible for sponging all wool or wool blend fabrics supplied by Canada.  Contracting officers must insert the name and address of the sponger.
@@ -11,3 +12,4 @@
 <p>Name of sponger: <var>_____</var></p>
 <p>Address : <var>_____</var> .</p>
 </div></pre>
+</div>

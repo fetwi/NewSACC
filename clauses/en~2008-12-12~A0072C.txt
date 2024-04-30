@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for services when Canada wants to reserve the right to terminate the contract on thirty (30) days notice without paying 
@@ -25,3 +26,4 @@ termination costs, if applicable.
 <li value="2">In the event of such termination, Canada will only pay for costs incurred for services rendered and accepted by Canada up to the date of the termination. Despite any other provision of the Contract, there will be no other costs that will be paid to the Contractor as a result of the termination.</li>
 </ol>
 </div></pre>
+</div>

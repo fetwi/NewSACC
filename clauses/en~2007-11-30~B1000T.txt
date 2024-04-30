@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in bid solicitations when the requirement is for new 
 material and must conform to the latest version of the drawing, specification 
@@ -8,3 +9,4 @@ and part number that is in effect on the bid solicitation closing date.
 the applicable drawing, specification and/or part number that is in
 effect on the bid solicitation closing date.</p>
 </div></pre>
+</div>

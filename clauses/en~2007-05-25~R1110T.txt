@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in 1 Stage - 2 Phase proposals.
 </pre>
@@ -646,3 +647,4 @@ Proponents shall take note that the performance of the Consultant during
    Report, used to record the performance is available on the PWGSC Website:  <strong class="wsStyleUnderline">
    http://www.pwgsc.gc.ca/acquisitions/text/forms/forms-e.html</strong>.
 </pre>
+</div>

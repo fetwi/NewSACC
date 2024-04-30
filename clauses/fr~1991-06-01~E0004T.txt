@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Insérer la clause suivante dans les invitations à soumissionner lorsqu'une 
 garantie financière de soumission est exigée.  Les agents de négociation des 
@@ -65,3 +66,4 @@ F.  En cas de soumission d'un dépôt de garantie, le soumissionnaire doit
    signer et sceller le certificat figurant à l'annexe E et le présenter 
    avec la soumission (sauf au Québec).
 </pre>
+</div>

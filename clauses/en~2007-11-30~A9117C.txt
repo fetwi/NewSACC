@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the procurement of applicable services (such as transportation and telecommunications; advertising services; professional and special services; and repair and maintenance services), as well as contracts involving a mix of goods and services, when the service component is $500 or more in the calendar year, and whenever the client department wishes to contact the contractor directly to obtain the required information. This includes contracts or standing offers with Canadians undertaking government work abroad.
@@ -17,3 +18,4 @@ its business number or Social Insurance Number, as applicable.
 contractors, in writing or by telephone).</li>
 </ol>
 </div></pre>
+</div>

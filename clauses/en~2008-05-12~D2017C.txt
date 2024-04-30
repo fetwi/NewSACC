@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the requirement and the fill-in 
@@ -32,3 +33,4 @@ include, but are not limited to, items constructed of plastic,
 metal, cloth, synthetics or paper, or a combination of two or more
 of them.</p>
 </div></pre>
+</div>

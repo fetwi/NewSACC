@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -25,3 +26,4 @@ Si le Fournisseur décide de retirer la présente offre, il s'efforcera d'en
    Fournisseur reconnaît que le retrait de l'offre n'influera aucunement 
    sur les commandes passées auparavant.  
 </pre>
+</div>

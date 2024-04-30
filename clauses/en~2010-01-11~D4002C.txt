@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when delivery is at destination and the 
 contractor is responsible for all delivery charges, administration, costs and 
@@ -28,3 +29,4 @@ delivery charges and customs duties and taxes.</p>
 <p>Incoterms 2000 "<abbr title="Delivered duty paid">DDP</abbr> Delivered Duty Paid" <span class="input-required"><var>_______</var> <kbd>(<i>insert the place of
 destination</i>)</kbd></span>.</p>
 </div></pre>
+</div>

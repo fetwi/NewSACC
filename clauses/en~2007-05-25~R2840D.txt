@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -140,3 +141,4 @@ GC4.4  Contaminated Site Conditions
    provisions of GC6.4, "Determination of Price" shall apply to any 
    additional work made necessary because of a contaminated site condition.
 </pre>
+</div>

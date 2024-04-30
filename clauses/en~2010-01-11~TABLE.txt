@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Readers will note that "REMARKS" have been provided for many clauses.  These 
 Remarks are intended to serve as a quick reference for contracting officers 
@@ -216,3 +217,4 @@ requirement and any special circumstances which surround it.</pre>
 
 
 </pre>
+</div>

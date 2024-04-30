@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in "Limitation of Expenditure" and "Ceiling Price" 
@@ -20,3 +21,4 @@ must be provided with each claim for payment.</li>
 report form by the Contracting Authority is a condition for payment
 in accordance with the Contract.</li>
 </ol></pre>
+</div>

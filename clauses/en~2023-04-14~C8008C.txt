@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause where award fee incentives are used to motivate contractors to perform in areas critical to a procurement’s success that are subject to judgment and qualitative measurement and evaluation, in accordance with Supply Manual section
@@ -48,3 +49,4 @@
 <li>The determination of award fees shall be binding on both parties and not subject to the Dispute Resolution clause included in Section <kbd>(<em>insert appropriate section number</em>)</kbd> <span class="input-required"><var>_______</var></span> of the Contract.</li>
 </ol>
 </div></pre>
+</div>

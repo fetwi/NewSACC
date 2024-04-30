@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante apparaîtra automatiquement au début de l'ensemble de clauses 
 figurant dans chacun des documents d'achat.  Insérez l'information appropriée 
@@ -38,3 +39,4 @@ d'achat, il suffit de communiquer avec le Groupe Communication Canada
 Les renvois aux clauses et conditions sont aussi affichés au Tableau des 
    projets de marchés. 
 </pre>
+</div>

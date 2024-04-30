@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for dangerous goods/hazardous products to ensure labelling and packaging is in accordance with regulations.
@@ -11,3 +12,4 @@
 <li value="4">The Contractor must adhere to all applicable laws regarding dangerous goods/hazardous products.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when standard instructions 2003 and either 
 general conditions 2010 or 2029 apply to a requirement and when the requirement 
@@ -11,3 +12,4 @@ Do not use this clause with standard instructions and conditions 9403 or 9403-6.
    applicable drawing, specification and/or part number that is in effect 
    on the bid solicitation closing date.
 </pre>
+</div>

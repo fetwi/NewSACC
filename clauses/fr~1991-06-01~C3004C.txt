@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante doit être utilisée dans tous les contrats attribués aux 
 entrepreneurs établis au Canada, lorsque ces contrats prévoient l'ajustement du 
@@ -61,3 +62,4 @@ ajustements de prix qui en découlent.
 7.  Le Ministre se réserve le droit de vérifier toute révision de prix en 
    vertu de la présente clause.
 </pre>
+</div>

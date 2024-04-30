@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when institutions listed in Schedule I,
@@ -73,3 +74,4 @@
 Treasury Board (TB) policy on <cite>Standard on Web Usability</cite></p>
 <p>The Work must also comply with the standards and guidelines that may be developed by the department or agency for whom the Work is being performed and which are a complement of the above mentioned <abbr title="Treasury Board">TB</abbr> policy. Such standards and guidelines are available from the department's or agency's <abbr title="Common look and feel">CLF</abbr> Centre of Expertise. For Public Works and Government Services Canada (PWGSC), contact the Communications Officer at: CommunicationsCQauWeb.CommunicationsWebQC@tpsgc-pwgsc.gc.ca.</p>
 </div></pre>
+</div>

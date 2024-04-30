@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats pour lesquels l'entrepreneur a 
 indiqué, au cours du processus de négociation des prix, qu'il n'était pas soumis 
@@ -21,3 +22,4 @@ prévus dans le contrat.  Voir la directive 4003 du GPA.
    définies dans la directive 4003 du GPA, dont l'Entrepreneur reconnaît 
    avoir reçu copie.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence when the requisition contains line items assigned as
@@ -23,3 +24,4 @@ the <abbr title="Quality Assurance Representative">QAR</abbr> for evaluation, ve
 <p>The Contractor must notify the <abbr title="Quality Assurance Representative">QAR</abbr> of non-conforming product or service  received from a subcontractor or external provider when the product or service has been subject to <abbr title="Government Quality Assurance">GQA</abbr>.</p>
 <p>For the design, development or maintenance of software, the Contractor must interpret the requirements of <cite><abbr title="International Organization for Standardization">ISO</abbr> 9001:2015 "Quality management systems - Requirements"</cite>, according to the guidelines of the latest issue (at contract date) of <cite><abbr title="International Organization for Standardization">ISO</abbr>/IEC 90003:2018 "Software engineering - Guidelines for the application of <abbr title="International Organization for Standardization">ISO</abbr> 9001:2015 to computer software"</cite>.</p>
 </div></pre>
+</div>

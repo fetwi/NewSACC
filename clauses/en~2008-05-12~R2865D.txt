@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  This clause is for optional use by other government departments.  R2860D is used 
 for PWGSC contracts.
@@ -336,3 +337,4 @@ within the times stipulated, an extra payment shall not be made to
 the Contractor in respect of the occurrence.</li>
 </ol>
 </div></pre>
+</div>

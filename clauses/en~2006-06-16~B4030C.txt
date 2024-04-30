@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the charter of fixed wing aircraft.
@@ -11,3 +12,4 @@
 <p>If at any time during the course of the operations, the flight crew, the maintenance crew or both are considered by the Identified User to be unsatisfactory for safety or other reasons, the Identified User may notify in writing the Contractor that the flight crew, the maintenance crew or both must be replaced. The Identified User must immediately advise the Contracting Authority of the problem with the crew(s). The Contractor must immediately, upon receiving such notification, withdraw and replace the crew specified in the notice. The Contractor must advise the Contracting
 Authority of the corrective action taken. The aircraft involved must be considered unserviceable until a satisfactory crew resumes operations.</p>
 </div></pre>
+</div>

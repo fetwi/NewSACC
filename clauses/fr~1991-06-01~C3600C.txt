@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lors des achats de métaux où les prix ne sont pas 
 fermes à cause de la fluctuation des prix de base.
@@ -11,3 +12,4 @@ fermes à cause de la fluctuation des prix de base.
    proposés n'a pas été approuvée par le Ministre et tant que le présent 
    contrat n'aura été modifié en conséquence.
 </pre>
+</div>

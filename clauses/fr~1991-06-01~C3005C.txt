@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>La clause suivante doit être incluse dans tous les contrats adjugés aux 
 entrepreneurs établis à l'étranger, lorsque ces contrats prévoient l'ajustement 
@@ -49,3 +50,4 @@ la section C de la formule, est atteint.
    biens ont été dédouanés, et joindre à la demande un exemplaire du 
    bordereau d'expédition approprié.
 </pre>
+</div>

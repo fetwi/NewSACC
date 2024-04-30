@@ -1,6 +1,8 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in standing offers for the purchase of butter when prices are subject to adjustment in accordance with any increase or decrease established by the Canadian Dairy Commission.
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p>The prices detailed in the Standing Offer are subject to upward or downward adjustment to allow for any increase or decrease in the support prices for butter established by the Canadian Dairy Commission. A copy of the Offeror’s notification of price increase or decrease from the Canadian Dairy Commission must be provided to the Standing Offer Authority.</p> <p>At the Offeror’s request, the Standing Offer will be revised to reflect the actual price of the increase or decrease, and will be evidenced, for administrative purposes only, through a revision to the standing offer completed by the Standing Offer Authority. The Offeror must not invoice at prices other than those specified in the Standing Offer.</p></pre>
+</div>

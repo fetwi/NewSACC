@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence 
@@ -52,3 +53,4 @@ guidelines of the latest issue (at contract date) of <cite><abbr title="Internat
 90003:2004 "Software engineering - Guidelines for the application
 of <abbr title="International Organization for Standardization">ISO</abbr> 9001:2000 to computer software"</cite>.</p>
 </div></pre>
+</div>

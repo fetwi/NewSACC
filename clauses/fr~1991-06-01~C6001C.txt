@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats à taux fixes basés sur le temps 
 qui ne spécifient pas de prix plafond. 
@@ -15,3 +16,4 @@ qui ne spécifient pas de prix plafond.
    moment l'entrepreneur prévoit que ce montant ne suffira pas, 
    l'entrepreneur doit en informer promptement le Ministre. 
 </pre>
+</div>

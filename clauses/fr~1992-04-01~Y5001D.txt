@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Inclure dans toutes les demandes de soumissions et tous les contrats passés au 
 nom de l'ACDI pour des marchandises destinées à l'exportation, lorsque 
@@ -13,3 +14,4 @@ TPS :
    transport de marchandises offert par les transporteurs fait partie d'un 
    transport en partance continue à l'égard de la propriété.»  
 </pre>
+</div>

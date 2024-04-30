@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when the successful bidder may be required to demonstrate that the capacity of the docking facility is adequate for the anticipated loading.
@@ -9,3 +10,4 @@
 <p>Although a dry docking facility may have a total capacity greater than the vessel to be docked, the weight distribution of the vessel may cause individual block loading to be exceeded. Also,
 while the physical dimensions of a dry docking facility may indicate acceptability for docking of a specific vessel, other limitations such as spacing of rails on a marine railway, concrete piers of abutments adjoining the dry dock may, preclude the facility from being considered as a possible dry docking site and render the bid non-responsive.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence to obtain nomenclature and assignment of type designations for commercial off-the-shelf (COTS) materiel of military design, or for military off-the-shelf (MOTS) equipment if applicable. Contracting officers must include the name of the Procurement Authority in the contract.
@@ -10,3 +11,4 @@
 <li value="3">Access to the JETDAS / ASETDS is restricted and users must apply for Logon ID and Password. The Contractor's representatives responsible for submitting Requests for Military Nomenclature must hold a valid Reliability Status registered with the Department of National Defence or Public Works and Government Services Canada. For any query to access or to obtain a copy of the systems User Guides, contact the Departmental Control Point (DCP) contact in Canada by phone at 819-939-9054 or by facsimile at 819-939-9060. </li>
 </ol>
 </div></pre>
+</div>

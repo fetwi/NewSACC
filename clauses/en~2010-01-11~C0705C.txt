@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts which contain a "Limitation of 
@@ -46,3 +47,4 @@ there has been any overpayment, the Contractor must repay Canada
 the amount found to be in excess.</li>
 </ol>
 </div></pre>
+</div>

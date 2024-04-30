@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in contracts that are subject to the Nunavut Directive and where the solicitation will evaluate Inuit Benefits Plans (IBP).
@@ -81,3 +82,4 @@
 <li>Any amendment to the <abbr title="Inuit Benefits Plan">IBP</abbr> must be documented through a formal contract amendment, which will only be issued if the Parties agree to modify the <abbr title="Inuit Benefits Plan">IBP</abbr>. Canada may, in its discretion, refuse to accept modifications to the <abbr title="Inuit Benefits Plan">IBP</abbr> if, in Canada’s opinion, the proposed amendments do not offer the same value of benefits.</li>
 <li>Any reduction in benefits may be considered by Canada as any other failure to meet a contractual obligation.</li>
 </ol></pre>
+</div>

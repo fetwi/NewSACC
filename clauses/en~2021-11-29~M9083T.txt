@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in requests for standing offers when an offerors' conference will be held.
@@ -80,3 +81,4 @@
 <p>Failure to provide and comply with the above certification or to comply with the security requirements will result in the representatives being denied access to the offerors’ conference.</p>
 <p>Any clarifications or changes to the <abbr title="Request for Standing Offer">RFSO</abbr> resulting from the offerors' conference will be included as an amendment to the <abbr title="Request for Standing Offer">RFSO</abbr>. Offerors who do not attend will not be precluded from submitting an offer.</p>
 </div></pre>
+</div>

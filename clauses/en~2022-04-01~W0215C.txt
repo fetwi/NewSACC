@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in contracts that are subject to the Nunavut Directive and when the solicitation is limited to competition among firms on the Inuit Firm Registry (IFR).
@@ -98,3 +99,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p>The Contractor must be registered on the Inuit Firm Registry (IFR) for the duration of the contract. Failure to do so may result in Canada terminating the contract for default.</p></pre>
+</div>

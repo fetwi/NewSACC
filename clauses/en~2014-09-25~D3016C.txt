@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts to define the packaging specification for the procurement of items covered by a commodity packaging specification.
@@ -35,3 +36,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The Contractor must prepare item(s) <var>______</var> for delivery in accordance with the latest issue of the Canadian Forces packaging specifications <var>_____</var> .</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -726,3 +727,4 @@ The Contractor confirms that it understands that where it has concluded an Admin
 The Contractor confirms that it understands that to the extent that it relies on a subcontractor(s) to perform the Contract, the Contractor will not enter into a subcontract with a company that has been convicted of or pleaded guilty or an Affiliate of the company has been convicted of or pleaded guilty, as the case may be, to any of the offences referenced in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections for which no pardon or equivalent has been received under the Canadian Pardons and Foreign Pardons subsections, without the prior written approval of the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. Where the Contractor has entered into a contract with an ineligible subcontractor and for which no prior written approval has been received by Canada, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will declare the Contractor to be ineligible to contract with Canada for a period of five years.</li>
 </ol>
 </div></pre>
+</div>

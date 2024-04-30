@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use one of the following clauses in contracts for goods when the contractor will 
 be required to remove scrap and waste materiel from the site.
@@ -16,3 +17,4 @@ conditions other than 9601 or 9624 form part of the contract</em>.)
 All scrap and waste material will become the property of the Contractor who 
    must remove it from the site.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Each contract may have individual requirements.  The following clause highlights 
 some common important endorsements for particular application to individual 
@@ -46,3 +47,4 @@ Risk Management and Insurance Advisory Services, at NCR RMIAS-SCGRA@pwgsc.gc.ca.
        physical damage to non-owned vehicles.
 
 </pre>
+</div>

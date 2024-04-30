@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the contractor indicated in its bid that payment of invoices by Electronic Payment Instruments will be accepted, and clause
@@ -40,3 +41,4 @@ The Contractor accepts to be paid using the following Electronic Payment Instrum
 <li value="6">Large Value Transfer System (LVTS) (Over $25M)</li>
 </ol>
 </div></pre>
+</div>

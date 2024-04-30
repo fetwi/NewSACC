@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when delivery is at destination and the 
@@ -32,3 +33,4 @@ delivery charges and customs duties and Applicable Taxes.</p>
 <p>Incoterms 2000 "<abbr title="Delivered duty paid">DDP</abbr> Delivered Duty Paid" <span class="input-required"><var>_______</var> <kbd>(<em>insert the place of
 destination</em>)</kbd></span>.</p>
 </div></pre>
+</div>

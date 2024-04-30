@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   All contracts must contain either this clause or
@@ -34,3 +35,4 @@ or maintained by the Contractor is at its own expense and for its
 own benefit and protection. It does not release the Contractor from
 or reduce its liability under the Contract.</p>
 </div></pre>
+</div>

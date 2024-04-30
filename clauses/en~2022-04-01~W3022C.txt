@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in contracts that are subject to the Nunavut Directive.
@@ -108,3 +109,4 @@
 <li>The Contractor must prepare and certify one original and two (2) copies of the claim on form PWGSC-TPSGC 1111, and forward it to the <span class="input-required"><var>______</var> <kbd>(<cite>insert "Project"</cite> <strong><cite>or</cite></strong> <cite>"Technical"</cite> <strong><cite>or</cite></strong> <cite>"Inspection"</cite>)</kbd></span> Authority identified under the section entitled "Authorities" of the Contract for appropriate certification after inspection and acceptance of the Work takes place.<br/>The <span class="input-required"><var>______</var> <kbd>(<cite>insert "Project"</cite> <strong><cite>or</cite></strong> <cite>"Technical"</cite> <strong><cite>or</cite> </strong><cite>"Inspection"</cite>)</kbd></span> Authority will then forward the original and two (2) copies of the claim to the Contracting Authority for certification and onward submission to the Payment Office for the remaining certification and payment action.</li>
 <li>The Contractor must not submit claims until all work identified in the claim is completed.</li>
 </ol></pre>
+</div>

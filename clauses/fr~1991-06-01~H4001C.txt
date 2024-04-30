@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats scientifiques lorsque l'échéancier 
 de livraison des rapports n'est pas précisé dans l'Enoncé de travail. 
@@ -9,3 +10,4 @@ de livraison des rapports n'est pas précisé dans l'Enoncé de travail.
    final en _____ copies, au plus tard le _____ (date), au Délégué 
    scientifique. 
 </pre>
+</div>

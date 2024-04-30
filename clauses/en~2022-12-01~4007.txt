@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following supplemental general conditions in contracts for goods or services when there is an element of intellectual property and Canada will own 
@@ -86,3 +87,4 @@ priority of documents clause in ascending order based on the identification numb
 <h2 id="2022-12-014007waiver-of-moral-rights">4007 06 (2008-05-12) Waiver of Moral Rights</h2>
 <p>If requested by Canada, during and after the Contract, the Contractor must provide a written permanent waiver of moral rights, as defined in the <cite>Copyright Act</cite>, <abbr title="Revised Statutes (1985)">R.S.</abbr>, 1985, <abbr title="chapter">c</abbr>. C-42, from every author that contributes to any Foreground Information subject to copyright protection that is a deliverable to Canada under the Contract. If the Contractor is an author of the Foreground Information, the Contractor permanently waives the Contractor's moral rights in that Foreground Information.</p>
 </div></pre>
+</div>

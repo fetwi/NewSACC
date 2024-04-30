@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -313,3 +314,4 @@ sanctions.</li>
 <li value="3">The Consultant must comply with changes to the regulations imposed during the period of the Agreement. The Consultant must immediately advise Canada if it is unable to perform the Services as a result of the imposition of economic sanctions against a country or person or the addition of a good or service to the list of sanctioned goods or services. If the parties cannot agree on a work around plan, the Agreement will be terminated for the convenience of Canada in accordance with terms and conditions of the Agreement.</li>
 </ol>
 </div></pre>
+</div>

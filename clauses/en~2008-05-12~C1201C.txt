@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when the work is subject to a ceiling 
 price and costs will be audited in accordance with Contract Cost Principles 
@@ -77,3 +78,4 @@ has been any overpayment, it must be promptly refunded to
 Canada.</p>
 <p class="description">(<strong><i>Insert details of the Basis of Payment if not included in an annex.</i></strong>)</p>
 </div></pre>
+</div>

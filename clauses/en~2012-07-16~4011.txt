@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following supplemental general conditions in contracts for medium complexity competitive 
@@ -34,3 +35,4 @@ or 2040.
 <li value="3">Despite any transfer of ownership, the Contractor is responsible for any loss or damage to the Work or any part of the Work until it is delivered to Canada in accordance with the Contract.  Even after delivery, the Contractor remains responsible for any loss or damage to any part of the Work caused by the Contractor or any subcontractor.</li>
 <li value="4">Upon transfer of ownership to the Work or any part of the Work to Canada, the Contractor must, if requested by Canada, establish to Canada's satisfaction that the title is free and clear of all claims, liens, attachments, charges or encumbrances. The Contractor must execute any conveyances and other instruments necessary to perfect the title that Canada may require.</li>
 </ol></pre>
+</div>

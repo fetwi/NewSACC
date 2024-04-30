@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when progress payments will be made based on cost incurred using progress claim form
@@ -74,3 +75,4 @@
 <li value="3">Progress payments are interim payments only. Canada may conduct a government audit and interim time and cost verifications and reserves the rights to make adjustments to the Contract from time to time during the performance of the Work. Any overpayment resulting from progress payments or otherwise must be refunded promptly to Canada.</li>
 </ol>
 </div></pre>
+</div>

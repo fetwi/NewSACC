@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in bid solicitations when it is proposed to offer 
 protection against the risk of    exchange rate fluctuation.  Contracting 
@@ -92,3 +93,4 @@ payment by Canada or, as applicable, in accordance with one of the
 following clauses: C3015C, C3020C, C3025C, or C3030C.</li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in Canadian defence contracts awarded to Canadian 
 contractors who may obtain material from United States (U.S.) suppliers, for the 
@@ -32,3 +33,4 @@ and 7A.140 for more information on the application of a priority rating.</pre>
 
 
 </pre>
+</div>

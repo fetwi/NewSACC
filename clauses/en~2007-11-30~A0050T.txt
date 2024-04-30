@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations issued by Public Works and Government Services Canada headquarters when bids must be submitted to the Bid Receiving Unit.
@@ -21,3 +22,4 @@
 <p class="description"><strong>Instruction to contracting officers</strong>: Insert the following paragraph when bids submitted by facsimile will not be accepted and delete this instruction.</p>
 <p>Due to the nature of the bid solicitation, bids transmitted by facsimile to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> will not be accepted.</p>
 </div></pre>
+</div>

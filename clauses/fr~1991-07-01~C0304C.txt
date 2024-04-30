@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats scientifiques lorsque la Base de 
 paiement doit être fondée sur les coûts conformément aux Principes des coûts 
@@ -29,3 +30,4 @@ Pour chaque élément de coût, des renseignements justificatifs devront être
    fournis avec suffisamment de détail pour permettre l'exécution d'une 
    vérification en profondeur. 
 </pre>
+</div>

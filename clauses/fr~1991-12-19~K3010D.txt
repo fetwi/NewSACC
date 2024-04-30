@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats visant des produits et services 
 lorsque la propriété intellectuelle doit être divulguée à d'autres 
@@ -16,3 +17,4 @@ propriété intellectuelle.  Utiliser uniquement avec la clause K3000D ou K3001D
    intellectuelle originale à d'autres gouvernements uniquement à titre de 
    renseignement.  
 </pre>
+</div>

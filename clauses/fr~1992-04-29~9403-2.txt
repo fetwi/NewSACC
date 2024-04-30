@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -43,3 +44,4 @@ des contrats d'ASC, qui décide, s'il y a lieu, de la mesure dans laquelle
 cette publicité est permise. 
 
 </pre>
+</div>

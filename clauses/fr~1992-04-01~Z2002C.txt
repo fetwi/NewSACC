@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
@@ -35,3 +36,4 @@ la responsabilité de toute autre violation liée à
 l'autorisation et l'approbation ci-dessus.</li>
 </ol>
 </div></pre>
+</div>

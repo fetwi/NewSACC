@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause for contracts for the supply of gases, when the 
@@ -9,3 +10,4 @@ hook-up of the cylinders to Canada's existing equipment.
 <p>The Contractor will be responsible for the hook-up of the
 cylinders to Canada's existing equipment.</p>
 </div></pre>
+</div>

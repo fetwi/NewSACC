@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations in conjunction with standard instructions
@@ -15,3 +16,4 @@
 <p>Bidders who submit a bid agree to be bound by the instructions, clauses and conditions of this bid solicitation and accept the clauses and conditions of the resulting contract.</p>
 <p>The standard instructions and conditions <span class="input-required"><var>________</var> <kbd>(<em>Insert the number</em>)</kbd></span> <span class="input-required"><var>_______</var> <kbd>(<em>Insert the date</em>)</kbd></span> are incorporated by reference into and form part of the bid solicitation.</p>
 </div></pre>
+</div>

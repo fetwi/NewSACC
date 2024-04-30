@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause only in Information Management/Information Technology 
 (IM/IT) contracts, because special authority was granted by the Treasury Board 
@@ -64,3 +65,4 @@ grouping), or in consultation with Risk Management Advisory Services.</pre>
 
 
 </pre>
+</div>

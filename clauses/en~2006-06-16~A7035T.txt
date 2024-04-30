@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Contracting officers may use this clause if knowledge of potential subcontracts 
 is desired prior to award of contract.
@@ -13,3 +14,4 @@ is desired prior to award of contract.
    business, or the provision of such incidental services as might 
    ordinarily be subcontracted in performing the work.
 </pre>
+</div>

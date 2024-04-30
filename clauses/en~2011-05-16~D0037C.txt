@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts described below when the contractor is located in Canada and the Department of National Defence is responsible for shipping:
@@ -79,3 +80,4 @@ to the <abbr title="Department of National Defence">DND</abbr> Inbound Logistics
 <li value="7">If Canada is responsible for delays in delivering the goods, ownership and risk will be transferred to Canada upon expiry of either thirty (30) days following the date on which a duly completed shipping application is received by Canada or by its appointed forwarding agent, or thirty (30) days following the delivery date specified in the Contract, whichever is later.</li>
 </ol>
 </div></pre>
+</div>

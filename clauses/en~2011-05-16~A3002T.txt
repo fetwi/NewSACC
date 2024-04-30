@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in bid solicitations for procurements that have been 
 set aside under the federal government's Procurement Strategy for Aboriginal 
@@ -19,3 +20,4 @@ officers:</strong> Insert the following sentence, if
 applicable.</em></p>
 <blockquote>"Further to Article 1802 of the <cite>Agreement on Internal Trade</cite> (AIT), <abbr title="Agreement on Internal Trade">AIT</abbr> does not apply to this procurement."</blockquote>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when institutions listed in Schedule I, 
 I.1 and II of the Financial Administration Act must comply with the Treasury 
@@ -37,3 +38,4 @@ CLF Centre of Expertise.  For Public Works and Government Services Canada
 
 
 </pre>
+</div>

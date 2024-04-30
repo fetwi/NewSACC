@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in non-competitive bid solicitations, for 
@@ -14,3 +15,4 @@ Canadian suppliers.  Use in conjunction with
 computed in accordance with <cite>Contract Cost Principles</cite> 1031-2, and
 includes an estimated amount of profit of $<var>_____</var> .</p>
 </div></pre>
+</div>

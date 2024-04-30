@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the  clause in contracts for the procurement of meat.
@@ -8,3 +9,4 @@
 <p>Without limiting any of Canada's rights of access or inspection included in the Contract, the Inspection Authority or its designated representative must have access to the storage and refrigeration areas on the Contractor's premises at any time during the performance of the Contract in order to inspect the packaging
 and, if applicable, any processing of the meat. The Contractor must provide all reasonable assistance to the Inspection Authority or its designated representative and any information the Inspection Authority or its designated representative may require concerning the preparation, packaging, and quality of the meat.</p>
 </div></pre>
+</div>

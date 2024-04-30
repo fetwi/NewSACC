@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -33,3 +34,4 @@
 <li value="2">The Consultant must not, either as an individual, or as a corporate or unincorporated entity, through its employees or subconsultants, harass, abuse, threaten, discriminate against or intimidate any employee, consultant or other individual employed by, or under contract with Canada. The Consultant will be advised in writing of any complaint and will have the right to respond in writing. Upon receipt of the Consultant's response, the Contracting Authority will, at its entire discretion, determine if the complaint is founded and decide on any action to be taken.</li>
 </ol>
 </div></pre>
+</div>

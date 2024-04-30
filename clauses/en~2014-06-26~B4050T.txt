@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations for the Department of National Defence when an Interim Spares List is required.
@@ -21,3 +22,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>Bidders must quote the cost of an Interim Spares List (ISL) in their bid, and the list must indicate the approximate number of line items.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in competitive solicitations or requests for standing offers or supply arrangements for procurements valued above $25 million
@@ -35,3 +36,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p><kbd>Instruction to contracting officers: Select “bidder”, “offeror” or “supplier” accordingly.</kbd></p> <p>The <kbd>bidder/offeror/supplier</kbd> must demonstrate in its <kbd>bid/offer/arrangement</kbd> that they are participating in Canada’s Net-Zero Challenge, by providing a signed Net-Zero Challenge participant letter from Environment and Climate Change Canada.</p> <p>OR</p> <p>The <kbd>bidder/offeror/supplier</kbd> must demonstrate in its <kbd>bid/offer/arrangement</kbd> participation in an equivalent initiative other than the Net-Zero Challenge, by providing evidence of participation from the issuing organization. Refer to PN-157 for List of Equivalent Initiatives.</p></pre>
+</div>

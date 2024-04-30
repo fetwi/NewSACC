@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations when all bids submitted must 
 include separate parts.  These parts will normally include a technical bid, a 
@@ -24,3 +25,4 @@ separate parts, as follows:
 2.     Prices must only appear in the Financial Bid and in no other part of 
    the bid.
 </pre>
+</div>

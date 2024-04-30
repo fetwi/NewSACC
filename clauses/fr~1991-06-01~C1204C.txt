@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans tous les contrats scientifiques lorsqu'un prix 
 plafond a été négocié comme base de paiement.  Cette clause doit toujours être 
@@ -19,3 +20,4 @@ Aucune augmentation de l'engagement total du Canada ou du prix du Travail
    modifications ou interprétations aient été approuvés par le Ministre 
    avant d'être intégrés dans le Travail ou les Services. 
 </pre>
+</div>

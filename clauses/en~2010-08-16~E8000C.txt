@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when a contract financial security in the form of labour and material payment bond is required.
@@ -13,3 +14,4 @@
 <li value="3">If Canada does not receive the required bond within the specified period, Canada may terminate the Contract for default pursuant to the default provision of the Contract.</li>
 </ol>
 </div></pre>
+</div>

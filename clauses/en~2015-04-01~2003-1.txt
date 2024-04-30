@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following standard instructions for the procurement of 
@@ -401,3 +402,4 @@ products:</p>
 <p>Print Title of representative of the Bidder<var>_______________________________________</var></p>
 <p>Date Signed<var>_______________________________________</var></p>
 </div></pre>
+</div>

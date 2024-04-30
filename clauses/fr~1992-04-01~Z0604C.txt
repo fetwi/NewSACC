@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Utiliser la clause suivante dans les contrats lorsque le contrat américain exige 
@@ -8,3 +9,4 @@ que l'inspection et l'acceptation soient toutes deux faites à destination.
 <p>L'inspection et l'acceptation seront effectuées à
 destination par le destinataire lui-même.</p>
 </div></pre>
+</div>

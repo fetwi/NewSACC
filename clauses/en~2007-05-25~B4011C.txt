@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when compressed gases are delivered or stored in contractor's-owned cylinders.
@@ -9,3 +10,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The Contractor is responsible for the testing and remarking of cylinders and/or tanks at five-year intervals starting from the date of manufacture, in accordance with <var>_____</var> .</p>
 </div></pre>
+</div>

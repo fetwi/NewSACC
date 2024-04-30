@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -143,3 +144,4 @@ La marge de profit de 10 p. 100 comprise dans l'attestation de prix peut
    ci-dessus, il est entendu que l'Entrepreneur doit rembourser à la 
    Couronne le trop-payé par rapport à un profit juste et raisonnable. 
 </pre>
+</div>

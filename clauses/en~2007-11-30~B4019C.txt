@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause when the contract contains references to United States military specifications or standards.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The Contractor is responsible for obtaining copies of all United States (US) military specifications and standards which may be applicable to the requirement. These specifications and standards are available commercially, or may be obtained by visiting the US Department of Defence Website, at the following address: <cite>US Department of Defence</cite>.</p>
 </div></pre>
+</div>

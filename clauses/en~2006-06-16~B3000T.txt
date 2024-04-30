@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause where a manufacturer's brand name, model and/or part number are used in the item description and a substitute product will be considered.  Before issuing the bid solicitation, the contracting officer should 
@@ -28,3 +29,4 @@ equivalency of each substitute product; or</li>
 <li value="3">In conducting its evaluation of the bids, Canada may, but will have no obligation to, request bidders offering a substitute product to demonstrate, at the sole cost of bidders, that the substitute product is equivalent to the item specified in the bid solicitation.</li>
 </ol>
 </div></pre>
+</div>

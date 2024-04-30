@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in standing offers where there is a need to include a 
 limitation of expenditure on the total value of the call-ups.
@@ -17,3 +18,4 @@ The Offeror must notify the Standing Offer Authority as to the adequacy of
    may be exceeded, the Offeror must promptly notify the Standing Offer 
    Authority.
 </pre>
+</div>

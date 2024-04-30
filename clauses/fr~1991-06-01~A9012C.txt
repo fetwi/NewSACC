@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque le sous-traitant n'a pas été indentifié de 
 façon précise au moment de l'adjudication du contrat.
@@ -57,3 +58,4 @@ LA FORMULE DSS-MAS 1137 - DEMANDE D'AUTORISATION DE SOUS-TRAITER UNE PARTIE
    suivante : dans le bloc APPROBATION, après les mots Conditions générales 
    du MAS, ajouter (Recherche et Développement) DSS-MAS 9224.
 </pre>
+</div>

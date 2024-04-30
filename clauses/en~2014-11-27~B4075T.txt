@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when welding must be performed by a contractor certified by the Canadian Welding Bureau and all welding done must be in accordance with the requirements of the Canadian Standards Association (CSA) standards W47.1 and W47.2.
@@ -21,3 +22,4 @@
 <li value="2">Before contract award and within <span class="input-required"><var>_______</var> <kbd>(<em>insert number of days</em>)</kbd></span> calendar days of the written request by the Contracting Authority, the successful Bidder must submit evidence demonstrating its certification to the welding standards.</li>
 </ol>
 </div></pre>
+</div>

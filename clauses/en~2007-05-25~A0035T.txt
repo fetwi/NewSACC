@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause when the bid solicitation contains mandatory and point-rated technical evaluation criteria, and the basis of selection will be the responsive bid with the lowest evaluated price per point.
@@ -33,3 +34,4 @@ point rating. The rating is performed on a scale of _____ (insert the total numb
 <li value="2">Bids not meeting (a) or (b) or (c) will be declared non-responsive. Neither the responsive bid that receives the highest number of points nor the one that proposed the lowest price will necessarily be accepted. The responsive bid with the lowest evaluated price per point will be recommended for award of a contract.</li>
 </ol>
 </div></pre>
+</div>

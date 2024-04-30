@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in bid solicitations as a mandatory financial 
 evaluation criteria when the bid must not exceed the maximum funding available 
@@ -15,3 +16,4 @@ valued in excess of this amount will be considered non-responsive.
 This disclosure does not commit Canada to pay the maximum funding
 available.</p>
 </div></pre>
+</div>

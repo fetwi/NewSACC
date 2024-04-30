@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats scientifiques dont la 
 Limitation des dépenses ou le Prix plafond sont évalués à plus de 100,000$. 
@@ -15,3 +16,4 @@ d'avancement de travaux sont requis, comme en vertu de la clause H4002C.)
    la formule par l'Agent de négociation des contrats scientifiques sera 
    une condition du règlement de ces demandes de paiement.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   This clause is used for solicitations with an estimated value of $100,000 or more.
@@ -484,3 +485,4 @@ interest, unfair advantage or an appearance of conflict of interest
 or unfair advantage exists.</li>
 </ol>
 </div></pre>
+</div>

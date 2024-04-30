@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser le texte suivant lors de la préparation d'une Abrogation d'un Ordre 
 d'arrêt des Travaux, transmis par télégramme, télex ou fac-similé, et qui ne 
@@ -18,3 +19,4 @@ Vous aurez droit au remboursement des coûts et dépenses supplémentaires
    l'Agent de négociation des contrats la série de formules nécessaires 
    pour faire toute demande de paiement. 
 </pre>
+</div>

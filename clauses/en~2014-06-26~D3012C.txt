@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence for preservation, packaging and packing of goods.
@@ -28,3 +29,4 @@ Preservation and packaging must be to level <var>_____</var> and packing must be
 Preservation, packaging and packing must be manufacturer's Trade Export Packaging or such packaging of a higher grade as recommended by the British Ministry.</li>
 </ul>
 </div></pre>
+</div>

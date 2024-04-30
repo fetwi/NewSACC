@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in all contracts where there is a potential use of wood packaging materials in shipping, such as but not limited to crates, boxes, packing cases, dunnage, pallets, cable drums and spools/reels, which must conform to the
@@ -14,3 +15,4 @@ Agency policy directives:</p>
 <p>D-98-08 - Entry Requirements for Wood Packaging Materials Produced in All Areas Other Than the Continental United States</p>
 <p>D-13-01 – Canadian Heat Treated Wood Products Certification Program (HT Program)</p>
 </div></pre>
+</div>

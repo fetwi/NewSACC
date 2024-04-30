@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause to terminate the entire contract for default.
@@ -35,3 +36,4 @@ goods, services or both elsewhere.</p>
 <p class="description">(<em>Insert the following paragraph when the termination relates to performance issues within the scope of the Vendor Performance Corrective Measures Policy</em>)</p>
 <p>In accordance with the Vendor Performance Corrective Measure Policy, this termination for default will trigger a Vendor Performance Corrective Measure assessment. In addition, a note indicating that there was a termination for default for this contract will be registered in the Vendor Information Management system.</p>
 </div></pre>
+</div>

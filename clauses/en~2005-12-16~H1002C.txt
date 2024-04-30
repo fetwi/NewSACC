@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts when one lump sum payment is to be made to 
 the contractor after all deliverables have been received and accepted.
@@ -14,3 +15,4 @@ certify the claim and forward it to the Technical Authority for
 certification and payment.
 
 </pre>
+</div>

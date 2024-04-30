@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante et la formule DSS-MAS 4079, Déclaration des biens 
 admissibles, dans les demandes de soumissions assujetties à l'Accord de libre- 
@@ -28,3 +29,4 @@ Si la vérification du Ministre révèle un manquement à l'engagement, le
    Ministre peut considérer que tout contrat résultant de la présente 
    soumission est en défaut.  
 </pre>
+</div>

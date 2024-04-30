@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause to terminate the contract in part for convenience when 
@@ -32,3 +33,4 @@ of this Notice to the Contracting Authority.</p>
 <p><span class="input-required"><var>______________________</var><br/>
 (Signature of the Contractor)</span></p>
 </div></pre>
+</div>

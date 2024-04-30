@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when the Treasury Board Travel Directive 
 will be used and when there is no allowance for profit and/or administrative 
@@ -18,3 +19,4 @@ directive referring to "travellers", rather than those referring to
 <p>All payments are subject to government audit.</p>
 <p>Estimated Cost: $ <var>_____</var> .</p>
 </div></pre>
+</div>

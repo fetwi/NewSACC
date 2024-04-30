@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations for spare parts for the Department of National Defence when the bidders must specify whether they offer to provide material that is new production of current manufacture, or not.
@@ -27,3 +28,4 @@ must conform to the latest issue of the applicable drawing, specification and pa
 <p>Date of manufacturer: <var>________________</var></p>
 <p>Cure date if the item contains elastomeric material: <var>_____________________</var>.</p>
 </div></pre>
+</div>

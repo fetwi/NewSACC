@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>While the government property is under the care, custody or control of the 
 Contractor including during transit, All Risks Property in Transit insurance is 
@@ -43,3 +44,4 @@ Insert in the blank of paragraph 1 one of the following: "Replacement Cost
 
 
 </pre>
+</div>

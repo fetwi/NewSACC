@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when there is a potential for 
 international shipping.
@@ -16,3 +17,4 @@ Areas Other Than the Continental United States</cite></p>
 <p><cite>D-01-05 - 
 The Canadian Wood Packaging Certification Program (CWPCP)</cite></p>
 </div></pre>
+</div>

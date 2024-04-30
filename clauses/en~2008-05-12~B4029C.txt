@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in marine contracts when docking, maintenance and 
 alterations of a government vessel and approved unscheduled work are required.
@@ -16,3 +17,4 @@ applicable</i>)</kbd></span>.</li>
 in the above paragraph (a).</li>
 </ol>
 </div></pre>
+</div>

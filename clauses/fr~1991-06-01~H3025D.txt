@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour fixer les modalités habituelles régissant les 
 acomptes dans les demandes de soumissions et les contrats relatifs à la 
@@ -56,3 +57,4 @@ dépasser _____ p.100 de la valeur du Contrat.
    responsable de l'inspection/autorité scientifique qui les fera parvenir 
    au représentant du MAS qui les enverra au bureau de paiement.
 </pre>
+</div>

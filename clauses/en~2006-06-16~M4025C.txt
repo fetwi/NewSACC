@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in standing offers.  The order of documents shown below 
 reflects current policy and legal advice.  The contracting officer must amend 
@@ -33,3 +34,4 @@ the list.
 
                      
 </pre>
+</div>

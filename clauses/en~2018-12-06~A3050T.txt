@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in all bid solicitations when the requirement is subject to the Canadian Content Policy.
@@ -125,3 +126,4 @@
 <li value="6"><strong>Other Canadian goods and services</strong>: Textiles: Textiles are considered to be Canadian goods according to a modified rule of origin, copies of which are available from the Clothing and Textiles Division, Commercial and Consumer Products Directorate.</li>
 </ol>
 </div></pre>
+</div>

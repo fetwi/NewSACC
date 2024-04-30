@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause when it is beneficial, but not mandatory, for bidders 
 to view the site where the work will be performed to improve their understanding 
@@ -46,3 +47,4 @@ the site visit will be included as an amendment to the bid
 solicitation.</p></li>
 </ul>
 </div></pre>
+</div>

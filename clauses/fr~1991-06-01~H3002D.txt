@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause H3002D pour les contrat à frais remboursables ou à taux 
 horaires fixes lorsque la clause H3000D ou H3001T est également utilisé. (Pour 
@@ -16,3 +17,4 @@ Les acomptes seront considérés comme des paiements provisoires seulement et
    Travail. Tout trop-payé résultant des acomptes ou autrement doit être 
    remboursé rapidement au Canada.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause when a "Procurement Authority" is named in the contract 
@@ -25,3 +26,4 @@ authority to authorize changes to the scope of the Work. Changes to
 the scope of Work can only be made through a contract amendment
 issued by the Contracting Authority.</p>
 </div></pre>
+</div>

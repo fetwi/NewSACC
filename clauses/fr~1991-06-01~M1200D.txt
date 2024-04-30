@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -14,3 +15,4 @@ l'avance conformément aux prix en vigueur à la date de l'achat.
    articles sont confirmés par le ministère client, ils ne seront pas 
    retournables. 
 </pre>
+</div>

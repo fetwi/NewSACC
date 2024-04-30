@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats prévoyant un cautionnement pour le 
 paiement de la main-d'oeuvre et des matériaux comme garantie financière des 
@@ -21,3 +22,4 @@ contrats.
    aux paragraphes 1 et 2 avant de recevoir toute somme qui, aux termes du 
    Contrat, serait payable par le Canada ou en son nom. 
 </pre>
+</div>

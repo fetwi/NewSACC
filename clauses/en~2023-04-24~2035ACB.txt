@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following general conditions for higher complexity competitive or non-competitive requirements for the acquisition of services in CanadaBuys (SAP Ariba). For example, these general conditions could be used for IM/IT requirements, elaborate and specialized services requirements which generate complex intellectual property or have performance guarantees.
@@ -464,3 +465,4 @@
 <h2 id="2023-04-242035ACBcode-of-conduct-for-procurement">2035 45 (2022-01-28) Code of Conduct for Procurement—Contract</h2>
 <p>The Contractor agrees to comply with the <cite>Code of Conduct for Procurement</cite> and to be bound by its terms for the period of the Contract.</p>
 </div></pre>
+</div>

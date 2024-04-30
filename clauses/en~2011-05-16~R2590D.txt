@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  This clause is generally used for contracts with an estimated value of less than 
 $100,000.
@@ -80,3 +81,4 @@ shall be in force and be maintained from the date of contract award
 until the day of issue of the Certificate of Completion.</li>
 </ol>
 </div></pre>
+</div>

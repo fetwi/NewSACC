@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour l'outillage spécial de production obtenu au 
 prix coûtant lorsque la valeur de l'outillage est évalué à plus de $500.  
@@ -77,3 +78,4 @@ contiendra les détails suivants :
    aérospatiaux, maritimes et électroniques, ministère des 
    Approvisionnements et Services, Hull (Québec) K1A 0S5. 
 </pre>
+</div>

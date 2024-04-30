@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -297,3 +298,4 @@ of Conduct for Procurement</cite> and to be bound by its terms.  Furthermore, in
 <li value="6">If the Supplier or any of the Supplier's parent, subsidiaries or other affiliates does not remain free and clear of any charges or convictions mentioned at subsections 2 and 3 during the period of the Supply Arrangement, Canada reserves the right, pursuant to the Suspension or Cancellation of Qualification by Canada provision of the Supply Arrangement, to suspend or cancel the Supply Arrangement.</li>
 </ol>
 </div></pre>
+</div>

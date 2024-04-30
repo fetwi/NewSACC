@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when clause E0004T is used to require bid financial security, but no contract financial security is required in the resulting contract clauses.
@@ -44,3 +45,4 @@
 <li value="2">Canada will return all non-forfeited security deposits to bidders after contract award or, if no contract is awarded, at the expiration of the bid validity period, including any extension.</li>
 </ol>
 </div></pre>
+</div>

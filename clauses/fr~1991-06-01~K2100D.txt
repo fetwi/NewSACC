@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les documents contractuels adressés aux 
 fournisseurs établis au Canada à l'exception de ceux établis pour le compte des 
@@ -32,3 +33,4 @@ de la résiliation du Contrat.
 (6) L'Entrepreneur convient d'assujettir aux termes de la présente clause 
    chacun de ses sous-traitants de premier niveau établis au Canada. 
 </pre>
+</div>

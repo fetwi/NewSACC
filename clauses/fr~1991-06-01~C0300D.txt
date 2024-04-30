@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les situations données ci-dessous (voir la 
 directive 6300 du GPA) :
@@ -66,3 +67,4 @@ L'entrepreneur doit aussi acheminer en même temps, pour chaque élément de
    de façon à permettre qu'une vérification approfondie puisse être 
    effectuée par la suite, au besoin. 
 </pre>
+</div>

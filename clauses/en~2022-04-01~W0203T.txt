@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in solicitations subject to the Nunavut Directive and will evaluate Inuit Benefits Plans (IBP) – Adjust appropriately.
@@ -80,3 +81,4 @@
 <li>Inuit ownership (Contractor and subcontractors); and</li>
 <li>Location in the Nunavut Settlement Area.</li>
 </ol> <p>The commitments contained in an <abbr title="Inuit Benefits Plan">IBP</abbr> will form part of the resulting contract. </p> <p></p></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats de radoub (y compris les cas 
 d'urgence) et dans les contrats de transformation, tel que demandé.  (Les 
@@ -11,3 +12,4 @@ parfait état de navigabilité à son chantier de construction à _____ .
 Début du travail : _____.
 Fin du travail : _____. 
 </pre>
+</div>

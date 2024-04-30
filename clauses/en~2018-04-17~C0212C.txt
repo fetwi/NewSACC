@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in cost reimbursable contracts with hourly rates for 
@@ -68,3 +69,4 @@ Annex <var>____</var> .</p>
 Expenditure: <span class="input-required"><var>___________</var>
 <kbd>(<em>Applicable Taxes extra</em>)</kbd></span></p>
 </div></pre>
+</div>

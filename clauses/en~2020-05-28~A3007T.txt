@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in requests for proposals (RFPs) for the procurement of the apparel goods that are listed in Annex A of
@@ -12,3 +13,4 @@
 <li>Location where work will be performed:<span class="input-required"><var>________</var>(please indicate the complete address if different from the address provided in a.)</span></li>
 <li>Nature of manufacturing/subcontracting work performed:<span class="input-required"><var>________</var></span></li>
 </ol> <p>(Enter the information for each manufacturer/subcontractor)</p> <p>Manufacturers/subcontractors, other than those listed above, may not be utilized without the written permission of Canada.</p> <p>The Bidder agrees that Canada may publicly disclose the information provided with respect to the countries of origin.</p> <p>Bidders must immediately inform Canada in writing of any and all changes affecting the information provided under this clause during the entire bid validity period.</p></pre>
+</div>

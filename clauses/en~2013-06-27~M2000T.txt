@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Clause M2000T is cancelled because it has been replaced by a Mandatory Certification, see Part 5 - Certifications, Part 7 -  Standing Offer and Resulting Contract Clauses and a new Annex titled Federal Contractors Program for Employment Equity - Certification of the Request for Standing Offer (RFSO) Template, to be used for requirements where an individual call-up limitation at $1M and above will be allowed.  This certification is mandatory for Departments or Agencies which are subject to the Federal Contractors Program (FCP).
@@ -43,3 +44,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre>See revision history.</pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the National Research Council Canada 
@@ -12,3 +13,4 @@ Canada. They are exempt from customs duties under <cite>tariff item <abbr title=
 9988.00.00</cite> and <cite>Customs Ruling <abbr title="Number">No.</abbr> 153418</cite>, dated 15 September
 1998.</p>
 </div></pre>
+</div>

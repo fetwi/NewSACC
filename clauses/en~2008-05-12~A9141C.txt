@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in marine contracts when the contractor has to charter 
@@ -11,3 +12,4 @@ accessible lifesaving equipment, will be adequately manned and in
 full compliance with the <cite>Canada Shipping Act</cite>, <abbr title="Statutes of Canada ">S.C.</abbr>
 2001, <abbr title="chapter">c</abbr>. 26.</p>
 </div></pre>
+</div>

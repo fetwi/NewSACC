@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les documents d'achat non-classés destinés 
 à des sociétés canadiennes, lorsque le personnel de l'entrepreneur affecté à un 
@@ -11,3 +12,4 @@ sécurité.
    conformément au règlement de la sécurité industrielle D.O.D. 5220-22-R 
    du département de la Défense.  
 </pre>
+</div>

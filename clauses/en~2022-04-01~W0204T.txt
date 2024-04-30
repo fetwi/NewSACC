@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in solicitations that are subject to the Nunavut Directive.
@@ -89,3 +90,4 @@
 </ol> <p><kbd><cite>If necessary, Insert (e) based on the frequency of invoices in your specific process.</cite></kbd></p> <ol start="5" type="a">
 <li>In addition to c., <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Reports, in accordance with Annex “___” (<abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report) of the contract, may also be requested by the Contracting Authority for submission <span class="input-required"><kbd>(<cite>insert “no later than</cite></kbd> <var>____________________________</var> <kbd>(<cite>insert number of calendar days) calendar days after</cite></kbd> <var>____________________________</var> <kbd>(<cite>insert specified period, cycle, milestone, etc.)”</cite>).</kbd></span></li>
 </ol></pre>
+</div>

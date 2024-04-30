@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in all standing offers where the winning offeror's 
 eligibility for consideration required the completion and submission of a signed 
@@ -39,3 +40,4 @@ Canadian Content certification.
        pursuant to any contract resulting from the Standing Offer.
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for clothing requirements when pre-production sample(s) are required. If the Contractor must purchase material from Canada, Contracting officers must insert the paragraph below specific to Government Available Material and renumber the subsequent paragraphs accordingly.
@@ -21,3 +22,4 @@ rejection from the Technical Authority.</li>
 <li value="8">The sample(s) may not be required if the Contractor is currently in production. The request for waiver of sample(s) must be made by the Contractor in writing to the Technical Authority. The waiving of this requirement will be at the discretion of the Technical Authority. If the Technical Authority agrees to the Contractor’s request, the Contracting Authority will issue an amendment to incorporate the waiving of this requirement in the Contract.</li>
 </ol>
 </div></pre>
+</div>

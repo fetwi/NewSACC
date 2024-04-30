@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the contractor is required to warrant 
@@ -28,3 +29,4 @@ departmental policy when common ownership control exists, as set
 out in the Department of Public Works and Government Services
 Transfer Pricing Policy published in Chapter 10 of the <cite>Supply Manual</cite>.</p>
 </div></pre>
+</div>

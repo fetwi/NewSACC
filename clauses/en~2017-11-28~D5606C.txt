@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence 
@@ -39,3 +40,4 @@ Assurance Representative on the release document is not
 required.</p>
 <p> Material must be released for shipment using either DND form CF 1280, Certificate of Release, Inspection and Acceptance,or a release document containing the same information. The Contractor must prepare the release document(s).</p>
 <p> For return of repair and overhaul material to the Defence Supply Chain, use forms <abbr title="Department of National Defence">DND</abbr> 2227/DND 2228 in lieu of <abbr title="Department of National Defence">DND</abbr> form CF 1280.</p></div></pre>
+</div>

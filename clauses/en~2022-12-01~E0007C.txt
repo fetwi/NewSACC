@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the contractor is required to provide contract financial security after contract award.
@@ -30,3 +31,4 @@
 <li value="3">If Canada does not receive the required financial security within the specified period, Canada may terminate the Contract for default pursuant to the Contract default provision.</li>
 </ol>
 </div></pre>
+</div>

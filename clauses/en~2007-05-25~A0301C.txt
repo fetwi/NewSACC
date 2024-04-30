@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts to advise the contractor that it must retain, maintain and keep available for review any records of the manufacturer sufficient to constitute proof of origin.
@@ -25,3 +26,4 @@ Certificate of Compliance issued by the manufacturer;</li>
 <li value="5">and any other relevant technical data.</li>
 </ol>
 </div></pre>
+</div>

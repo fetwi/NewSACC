@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause with a fixed price basis of payment in accordance with Supply Manual section
@@ -26,3 +27,4 @@
 <p>For the Work described in <span class="input-required"><var>_______</var> <kbd>(<em>insert the applicable section(s) of the statement of work or requirement for the portion of Work to which this basis of payment applies</em>)</kbd></span> of the <span class="input-required"><var>_______</var> <kbd>(<em>insert "Statement of Work" OR "Statement of Requirement"</em>)</kbd></span> in Annex <var>_______</var> and in consideration of the Contractor satisfactorily completing its obligations under the Contract, the Contractor will be paid a fixed price of $<span class="input-required"><var>_______</var> <kbd>(<em>insert the amount at Contract award</em>)</kbd></span>.</p>
 <p>Customs duties are <span class="input-required"><var>_______</var> <kbd>(<em>insert "included", “excluded” or "subject to exemption"</em>)</kbd></span> and applicable taxes are extra.</p>
 </div></pre>
+</div>

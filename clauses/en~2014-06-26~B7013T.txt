@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations for fabric requirements when pre-production and/or production sample(s) are required.
@@ -42,3 +43,4 @@ number of days</em>)</kbd></span> calendar days from date of contract award.</li
 </li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts for the Department of National Defence to 
 obtain nomenclature for equipment of military design for commercial equipment, 
@@ -34,3 +35,4 @@ Logon-ID and Password, see the above specification or contact the
 Procurement Authority.</li>
 </ol>
 </div></pre>
+</div>

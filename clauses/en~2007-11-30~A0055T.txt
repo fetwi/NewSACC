@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when all bids submitted must include separate sections.  These sections will normally include a technical bid and a financial bid, but may also include a management bid or other sections.
@@ -28,3 +29,4 @@ on <var>____</var>", and specify the medium such as CD, DVD</em></kbd>).</li></o
 <li value="2">Prices must appear in the financial bid only. No prices must be indicated in any other section of the bid.</li>
 </ol>
 </div></pre>
+</div>

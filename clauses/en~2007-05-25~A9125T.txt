@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations.  The contracting officer should 
@@ -13,3 +14,4 @@ for the proposed period of any resulting contract. Documentary
 evidence of the agreement or suitable instrument must be provided
 on or before bid closing date.</p>
 </div></pre>
+</div>

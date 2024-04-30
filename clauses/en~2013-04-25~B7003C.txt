@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when government-supplied material will be 
 used in the manufacture of items.  If a pre-production sample is not required, 
@@ -68,3 +69,4 @@ where the Contract has not been satisfactorily completed will be at
 the Contractor's expense.</li>
 </ol>
 </div></pre>
+</div>

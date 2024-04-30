@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  These Insurance Terms are applicable to the majority of construction contracts 
 that require insurance coverage for Commercial General Liability and Builder's 
@@ -173,3 +174,4 @@ and execute such documents as are necessary to effect payment of
 the proceeds.</li>
 </ol>
 </div></pre>
+</div>

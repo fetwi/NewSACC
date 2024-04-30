@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Contracting officers may include this clause in the section of the bid 
 solicitation relating to the preparation of financial bids. 
@@ -6,3 +7,4 @@ solicitation relating to the preparation of financial bids.
 <h3 class="clause-heading">Legal text for SACC item</h3><pre>Bidders must submit firm prices/rates for all items listed in Annex(es) "_____
    ".
 </pre>
+</div>

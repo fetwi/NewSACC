@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when it is mandatory for bidders to view the work site during the solicitation period to fully understand the scope of the work and the conditions of the site. In the case of marine requirements, the word "Vessel" may be added to the title.
@@ -78,3 +79,4 @@
 </div>
 <p>Bidders who do not confirm attendance, provide the name(s) of the person(s) who will attend, or who do not complete and submit the above certification as required will not be allowed access to the site. Bidders will be required to sign an attendance sheet. Bidders should confirm in their bid that they have attended the site visit. Bidders who do not attend the mandatory site visit or do not send a representative will not be given an alternative appointment and their bid will be declared non-responsive. Any clarifications or changes to the bid solicitation resulting from the site visit will be included as an amendment to the bid solicitation.</p>
 </div></pre>
+</div>

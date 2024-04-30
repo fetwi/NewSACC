@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following supplemental general conditions in contracts for licensed 
@@ -527,3 +528,4 @@ option, will confirm in writing to the Contractor that all copies
 of the Licensed Software have been destroyed except for one copy,
 which Canada may retain for archival purposes only.</p>
 </div></pre>
+</div>

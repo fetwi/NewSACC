@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for Public Cloud Software as a Service (SaaS) when limiting a Contractor's liability to Canada for first and third party claims.  This clause is to be used when using the Commodity Grouping Public Cloud (SaaS) and the associated Limitation of Liability.
@@ -19,3 +20,4 @@
 </li>
 <li><p><strong>Third Party Liability:</strong> Regardless whether the third party claims against Canada, the Contractor or both, each Party agrees that it will accept full liability for damages that it causes to the third party in connection with the Contract. The apportionment of liability will be the amount set out by agreement of the Parties or determined by a court. The Parties agree to reimburse each other for any payment to a third party in respect of damages caused by the other, the other Party agrees to promptly reimburse for its share of the liability.</p></li>
 </ul></pre>
+</div>

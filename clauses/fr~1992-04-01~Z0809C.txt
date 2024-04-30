@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utilisez la clause suivante dans les contrats lorsque la disposition des biens 
 excédentaires du Gouvernement américain doit s'effectuer au Canada. La procédure 
@@ -64,3 +65,4 @@ rebuts par l'inspecteur, s'effectue selon la procédure suivante :
 
 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in requests for standing offers which are estimated at 
 $200,000 or more (including all applicable taxes), except requirements excluded 
@@ -74,3 +75,4 @@ procedure 7A.127.)
    www.hrsdc.gc.ca/en/gateways/topics/wzp-gxr.shtml</em></strong><em class="wsStyleUnderline"> </em><em>and </em><strong><em class="wsStyleUnderline">http://www100.hrdc.gc.ca
    /lablswenm1e.shtml</em></strong><em>, respectively.</em>
 </pre>
+</div>

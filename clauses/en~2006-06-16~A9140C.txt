@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in contracts.  The order of documents shown below 
 reflects current policy and legal advice.  Contracting officers must amend the 
@@ -30,3 +31,4 @@ the list.
 6.     the Contractor's bid ________ (<strong><em>insert date of bid</em></strong>), as amended _______ 
    <strong><em>(insert date(s) of amendment(s), if applicable</em></strong>).
 </pre>
+</div>

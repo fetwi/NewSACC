@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -259,3 +260,4 @@ contract entered into under the Supply Arrangement.</p>
 <h2 id="2017-07-012020code-of-conduct-for-procurement">2020 18 (2016-04-04)  Code of Conduct for Procurement—Supply Arrangement</h2>
 <p>The Supplier agrees to comply with the <em>Code of Conduct for Procurement</em> and to be bound by its terms for the period of the Supply Arrangement  and of any resulting contracts. </p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Inclure dans toutes les demandes de soumissions et tous les contrats passés au 
 nom de l'ACDI, s'il y a expédition aérienne C.A.F. ou C. &amp; F. Il n'est 
@@ -61,3 +62,4 @@ dédouanement n'est mentionné dans le Contrat) :
    attestés par le Contrôleur de l'Agence canadienne de développement 
    international. 
 </pre>
+</div>

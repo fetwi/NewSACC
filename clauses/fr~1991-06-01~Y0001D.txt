@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Inclure dans tous les contrats et toutes les demandes de soumissions passés au 
 nom de l'ACDI avec des fournisseurs commerciaux quand le MAS est chargé des 
@@ -17,3 +18,4 @@ Place du Portage, Phase III
 Hull (Québec)
 K1A 0S5. 
 </pre>
+</div>

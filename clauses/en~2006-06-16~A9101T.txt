@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause when Canada needs to identify who will participate in 
 the evaluation of bids.
@@ -20,3 +21,4 @@ bids.
 An evaluation team composed of representatives of Canada and _________ (<strong><em>
    insert name of firm or consultant</em></strong>) will evaluate the bids.
 </pre>
+</div>

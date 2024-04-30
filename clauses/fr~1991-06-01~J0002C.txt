@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser le texte suivant lors de la préparation d'une Résiliation partielle 
 pour des raisons de commodité lorsque l'on prévoit une demande d'indemnité.
@@ -32,3 +33,4 @@ Veuillez accuser réception du présent Avis de résiliation partielle en le
    signant et en renvoyant un exemplaire à l'Agent de négociation des 
    contrats. 
 </pre>
+</div>

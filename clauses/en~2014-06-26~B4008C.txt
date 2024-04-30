@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Contracting officers are required to choose one of the clauses and delete the unused choices. Alternatively, use clause
@@ -44,3 +45,4 @@ description of the requirement</em>)</kbd></span> in accordance with the Require
 <p>The Contractor must provide <span class="input-required"><var>________</var> <kbd>(<em>fill in appropriate
 description of the requirement</em>)</kbd></span> in accordance with the Requirement at Annex "<var>_____</var>" and the technical and management portions of the Contractor's bid entitled <var>_____</var>, dated <var>_____</var>.</p>
 </div></pre>
+</div>

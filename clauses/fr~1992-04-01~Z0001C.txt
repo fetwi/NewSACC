@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats prévoyant l'expédition FAB à 
 l'usine et lorsqu'on utilise des Connaissements du Gouvernement américain.  
@@ -21,3 +22,4 @@ l'usine et lorsqu'on utilise des Connaissements du Gouvernement américain.
    mentionné ci-dessus. On peut obtenir la formule DD 1659 à la DCMAO, 
    Ottawa (téléphone 992-9020).  
 </pre>
+</div>

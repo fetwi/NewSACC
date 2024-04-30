@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante quand la demande spécifie l'usage des règlements de 
 l'Administration fédérale de l'aviation des États-Unis (U.S. Federal Aviation 
@@ -11,3 +12,4 @@ Administration) et/ou du ministère des Transports canadien.
    vérification par le ministère de la Défense nationale à destination.  
    Une preuve d'inspection doit accompagner chaque expédition.
 </pre>
+</div>

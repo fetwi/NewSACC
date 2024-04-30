@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when General Conditions 2030 or 2040 are 
 used and the warranty section is to be amended to indicate that the contractor 
@@ -31,3 +32,4 @@ another location directed by Canada.</li>
 <p>All other provisions of the warranty section remain in
 effect.</p>
 </div></pre>
+</div>

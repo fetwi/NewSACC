@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in requests for supply arrangements when a suppliers' conference will be held.
@@ -31,3 +32,4 @@
 <p>Personnel security screening is required prior to gaining authorized access to <span class="input-required"><var>________________</var> <kbd>(<em>insert PROTECTED information, assets, or sites or CLASSIFIED information, assets or sites</em>)</kbd></span>. Suppliers are requested to communicate with the Supply Arrangement Authority before the conference to confirm attendance. Suppliers should provide, in writing, to the Supply Arrangement Authority, the name(s) of the person(s) who will be attending and a list of issues they wish to table no later than <span class="input-required"><var>____________</var><kbd>(<em>insert date and time</em>)</kbd></span>. The Supplier’s Company Security Officer (CSO) must ensure that their representatives hold a valid security clearance at the required level for the Suppliers’ conference. Failure to comply with the security requirements will result in the representatives being denied access to the Suppliers’ conference.</p>
 <p>Any clarifications or changes to the <abbr title="Request for Supply Arrangement">RFSA</abbr> resulting from the Suppliers' conference will be included as an amendment to the <abbr title="Request for Supply Arrangement">RFSA</abbr>. Suppliers who do not attend will not be precluded from submitting an arrangement.</p>
 </div></pre>
+</div>

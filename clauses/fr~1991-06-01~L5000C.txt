@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsque de l'équipement spécial d'essais est acheté 
 au prix coûtant. Voir la directive 2056 du GPA. Remplir les données manquantes.
@@ -40,3 +41,4 @@ de l'équipement qui ne sont plus nécessaires, à : _____ .
    l'équipement ne devra en aucun cas dépasser $_____, à moins et avant que 
    des engagements supplémentaires ne soient autorisés par le Canada.
 </pre>
+</div>

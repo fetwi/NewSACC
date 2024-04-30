@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  This clause requires a minimum of $1M Professional Liability insurance.  Use the 
 clause R1650D for the projects where only a minimum of $250,000 Professional 
@@ -76,3 +77,4 @@ before making any adverse material changes."</li>
 </li>
 </ol>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats du MDN pour remise en état et 
 entretien des aéronefs relatifs aux stocks obtenus par approvisionnement 
@@ -31,3 +32,4 @@ L'Entrepreneur doit garder les pièces de rechange qu'il a achetées ou
    comptabilité, d'emmagasinage, de manutention, de protection et d'emploi 
    de ces pièces de rechange.
 </pre>
+</div>

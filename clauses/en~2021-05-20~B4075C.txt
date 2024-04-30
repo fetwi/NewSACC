@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts where all welding done must be carried out in accordance with the requirements of the Canadian Standards Association (CSA) standards W47.1 and/or W47.2.
@@ -34,3 +35,4 @@
 <li value="3">Before the commencement of any fabrication work, and upon request from the <kbd>(<em>insert "Inspection Authority" or "Project Authority" or "Technical Authority"</em>)</kbd>, the Contractor must provide approved welding procedures and/or a list of welding personnel they intend to use in the performance of the Work. The list must identify the <abbr title="Canadian Welding Bureau">CWB</abbr> welding procedure qualifications attained by each of the personnel listed and must be accompanied by a copy of each person's current <abbr title="Canadian Welding Bureau">CWB</abbr> certification to <abbr title="Canadian Standards Association">CSA</abbr> welding standards.</li>
 </ol>
 </div></pre>
+</div>

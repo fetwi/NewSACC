@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour les achats de fils métalliques et de câbles 
 lorsque des dévidoirs et des lattis sont requis. 
@@ -23,3 +24,4 @@ renvoyé en bon état à l'usine, port payé d'avance.
 Après le vingt-deuxième mois, une remise de 50 p.100 du dépôt sera accordée 
    pour un dévidoir ou un lattis retourné en bon état, port payé d'avance.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the purchase of wheat when prices are 
@@ -20,3 +21,4 @@ Contracting Authority.</p>
 increase or decrease at time of delivery. The Contractor must not
 invoice at prices other than those specified in the Contract.</p>
 </div></pre>
+</div>

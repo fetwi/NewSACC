@@ -1,5 +1,4 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button>
-<div>
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -53,4 +52,5 @@
 <dd>Remarks are provided for many items and especially for clauses. These remarks are intended to provide contracting officers with instructions that are associated with the recommended use of an item.  The use of a particular item in bid solicitations, contracts, standing offers or supply arrangements is determined by the contracting officer after an examination of the specific requirement and any special circumstances which surround it.</dd>
 <dt><strong>Text</strong></dt>
 <dd>This field contains the legal text of a <abbr title="Standard Acquisition Clauses and Conditions">SACC</abbr> item.</dd>
-</dl> <h2 id="2022-05-13INTRO120">Ask questions - get help</h2> <p>For more information or if you require further assistance, please use the Procurement Policy Contact web form.</p> <h2 id="2022-05-13INTRO130">Authority</h2> <p>Sections 20 and 21 of the <cite>Department of Public Works and Government Services Act</cite> provide the necessary contracting powers of the Minister, including the power to fix terms and conditions of contracts, and instructions, terms and conditions with respect to other documents relating to contracts and their formation. Section 22  of the Act gives the Minister the power to incorporate contractual clauses by reference.</p></pre></div>
+</dl> <h2 id="2022-05-13INTRO120">Ask questions - get help</h2> <p>For more information or if you require further assistance, please use the Procurement Policy Contact web form.</p> <h2 id="2022-05-13INTRO130">Authority</h2> <p>Sections 20 and 21 of the <cite>Department of Public Works and Government Services Act</cite> provide the necessary contracting powers of the Minister, including the power to fix terms and conditions of contracts, and instructions, terms and conditions with respect to other documents relating to contracts and their formation. Section 22  of the Act gives the Minister the power to incorporate contractual clauses by reference.</p></pre>
+</div>

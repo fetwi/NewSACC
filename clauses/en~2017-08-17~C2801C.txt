@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in Canadian defence contracts awarded to Canadian-based contractors who may obtain material from United States (U.S.) suppliers, for the provision of goods to be used directly in Canadian defence activities.
@@ -32,3 +33,4 @@ DGAPrioritesdedefense.ACQBDefencePriorities@pwgsc-tpsgc.gc.ca ; or by facsimile:
 responsible for any breach of the Contract that arises from such a failure.</li>
 </ol>
 </div></pre>
+</div>

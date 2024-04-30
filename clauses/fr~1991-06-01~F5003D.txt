@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les documents d'achat non-classés destinés 
 à des sociétés canadiennes, lorsque le pesonnel de l'entrepreneur affecté à un 
@@ -13,3 +14,4 @@ sécurité.
    Conditions générales du Contrat et du Manuel de sécurité industrielle du 
    ministère des Approvisionnements et Services. 
 </pre>
+</div>

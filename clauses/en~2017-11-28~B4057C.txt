@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in contracts for the Department of National Defence (DND) when a system or equipment is newly introduced in the Canadian Forces Supply System and when the corresponding technical publications for manuals are provided in accordance with
@@ -38,3 +39,4 @@ delivery date</strong></em>)</kbd></span>.</p>
 <h3>Right to translate and reproduce</h3>
 <p>The Contractor gives Canada the right to translate and reproduce, for government purposes, any or part of any publication provided under the Contract as existing unilingual commercial manuals.</p>
 </div></pre>
+</div>

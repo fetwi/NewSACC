@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   The following general conditions are to be used when an Authorized User (Federal Identified User and Provincial/Territorial Identified User) is authorized/permitted access to
@@ -242,3 +243,4 @@
 <h2 id="2018-07-162015Acode-of-conduct-for-procurement">2015A 31 (2018-07-16) Code of Conduct for Procurement — contract</h2>
 <p>The Contractor agrees to comply with the Code of Conduct for Procurement and to be bound by its terms for the period of the Contract.</p>
 </div></pre>
+</div>

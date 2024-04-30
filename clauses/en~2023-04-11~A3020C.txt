@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts when the requirement is not subject to the
@@ -85,3 +86,4 @@
 <p>The Contractor must advise the Contracting authority within <kbd>(<var>__</var>)</kbd> calendar days of contract award, which of the two (2) <abbr title="Greenhouse Gas">GHG</abbr> emissions reduction strategies the contractor will adopt for the duration of the Contract including any option periods or extensions. The Contractor must provide <kbd>(<em>insert “annual”, “biannual” or other time period as appropriate</em>)</kbd> updates to the Contracting authority on its progress in achieving its <abbr title="Greenhouse Gas">GHG</abbr> reduction targets. The <kbd>contractor/offeror/supplier</kbd> must notify the <kbd>Contracting/Standing Offer/Supply Arrangement</kbd> authority if they are no longer participating in an initiative.</p>
 </li>
 </ol></pre>
+</div>

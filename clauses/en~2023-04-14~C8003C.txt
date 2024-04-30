@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clauses where the price of the contract is based on target cost, and a target profit along with a maximum and minimum profit for the contractor, in accordance with Supply Manual section
@@ -59,3 +60,4 @@
 </ol>
 <p>Customs duties are <span class="input-required"><var>_______</var></span> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd> and applicable taxes are extra.</p>
 </div></pre>
+</div>

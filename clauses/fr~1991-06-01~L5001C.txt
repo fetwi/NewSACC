@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats lorsque les biens appartenant au 
 Canada (l'outillage, l'équipement d'essai, les matériaux, etc.) peuvent devenir 
@@ -12,3 +13,4 @@ excédentaires.
    l'entrepreneur le premier choix de refus à une juste valeur marchande à 
    être négociée avec le Groupe de la distribution des biens de la Couronne. 
 </pre>
+</div>

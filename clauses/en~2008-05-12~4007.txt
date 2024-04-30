@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following supplemental general conditions in contracts for goods or 
 services when there is an element of intellectual property and Canada will own 
@@ -209,3 +210,4 @@ Contractor's moral rights in that Foreground Information.
 
 
 </pre>
+</div>

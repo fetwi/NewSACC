@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in all bid solicitations when the client department or agency 
@@ -75,3 +76,4 @@ determined that any intellectual property rights arising from the
 performance of the Work under the resulting contract will belong to
 Canada, on the following grounds: <var>_____</var>.</p>
 </div></pre>
+</div>

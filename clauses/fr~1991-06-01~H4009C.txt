@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans tous les contrats scientifiques dont la 
 Limitation des dépenses ou le Prix plafond est évalué à $100,000 ou moins.
@@ -9,3 +10,4 @@ Limitation des dépenses ou le Prix plafond est évalué à $100,000 ou moins.
    vertu du Contrat.  Cet état doit être présenté dans la forme précisée à 
    l'annexe ___, ci-jointe.
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
  Pas de remarques.
 </section>
@@ -24,3 +25,4 @@ Dans la proposition, le proposant doit exposer la façon dont il entend
    Il en va de même pour les méthodes de coordination et de contrôle 
    relatives à toutes les phases du travail à effectuer.  
 </pre>
+</div>

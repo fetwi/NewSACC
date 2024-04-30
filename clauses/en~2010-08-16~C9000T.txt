@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in bid solicitations when a contract will be awarded on 
@@ -8,3 +9,4 @@ a lowest aggregate basis and the bidder must bid on each item and/or destination
 <p>Bidders must provide individual prices for each item and/or
 destination.</p>
 </div></pre>
+</div>

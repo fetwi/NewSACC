@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  No remarks.
 </section>
@@ -212,3 +213,4 @@ For governments, as well as entities controlled by a government, including Crown
 <li value="2">If the Offeror becomes bankrupt or insolvent, or takes the benefit of any statute relating to bankrupt or insolvent debtors, or if a receiver is appointed under a debt instrument or a receiving order is made against the Offeror, or an order is made or a resolution passed for the winding-up of the Offeror, the Standing Offer Authority may, by giving written notice to the Offeror, immediately set aside the standing offer.</li>
 </ol>
 </div></pre>
+</div>

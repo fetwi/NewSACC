@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for ship refits when acceptance of ships 
@@ -10,3 +11,4 @@ the procedures of <cite><abbr title="Canadian Forces Technical Order">CFTO</abbr
 1148</cite>, Report of Inspection of (SHIP) and, as applicable, form <cite><abbr title="Canadian Forces">CF</abbr>
 702</cite>, Acceptance of (SHIP) into the Canadian Forces.</p>
 </div></pre>
+</div>

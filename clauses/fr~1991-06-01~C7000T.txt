@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans toutes les demandes de soumissions en régime de 
 concurrence qui nécessitent une Déclaration concernant le contenu canadien.  
@@ -20,3 +21,4 @@ Au cas où la vérification effectuée par le Ministre révélerait que les
    de $0.10 pour chaque dollar d'écart sera versé au Canada, sur demande 
    écrite.
 </pre>
+</div>

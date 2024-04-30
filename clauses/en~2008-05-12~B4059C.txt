@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence when the contractor must obtain the government supplied technical documents from the nearest National Defence Quality Assurance Region office, if applicable.
@@ -9,3 +10,4 @@
 <li value="2">At contract completion, the Contractor must provide the Technical Authority with a list of all Department of National Defence-owned Canadian Forces Technical Orders and electronic data material, with a request for disposal instructions.</li>
 </ol>
 </div></pre>
+</div>

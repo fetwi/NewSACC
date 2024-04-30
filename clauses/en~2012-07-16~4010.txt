@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following supplemental general conditions in contracts for higher complexity competitive 
@@ -32,3 +33,4 @@ and non-competitive requirements for goods when a portion of the work is for ser
 <p>The Contractor agrees that Canada may translate in the other official language any documentation delivered to Canada by the Contractor that does not belong to Canada under section 01.  The Contractor acknowledges that Canada owns the translation and that it is under no obligation to provide any translation to the Contractor.  Canada agrees that any translation must include any copyright notice and any proprietary right notice that was part of the original.  Canada acknowledges that the Contractor is not responsible for any technical errors or other problems that may arise as a result of the translation.
 </p>
 </div></pre>
+</div>

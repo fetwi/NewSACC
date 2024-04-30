@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for the Department of National Defence when a contract involves controlled goods as defined in the Schedule to the
@@ -12,3 +13,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The Contract involves controlled goods as defined in the Schedule to the <cite>Defence Production Act</cite>. The Contractor must identify those controlled goods to the Department of National Defence.</p>
 </div></pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Include the following in contracts that are subject to the Nunavut Directive.
@@ -87,3 +88,4 @@
 <p>One (1) copy of the invoice, the up-to-date <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report and <span class="input-required"><var>________</var> <kbd>(<cite>insert "monthly"</cite> <strong><cite>or</cite></strong> <cite>"bi-monthly"</cite> <strong><cite>or</cite></strong> <cite>"quarterly"</cite>)</kbd></span> maintenance report must also be forwarded to the Contracting Authority identified under the section entitled "Authorities" of the Contract.</p>
 </li>
 </ol></pre>
+</div>

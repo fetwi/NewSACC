@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans les contrats scientifiques lorsque les fournitures 
 n'ont pas été identifiées de façon spécifique dans l'Enoncé de travail et qu'il 
@@ -19,3 +20,4 @@ Article                                   Date de livraison
 L'Entrepreneur devra aviser, par écrit, l'Agent de négociation des contrats 
    scientifiques lorsque ces articles auront été livrés. 
 </pre>
+</div>

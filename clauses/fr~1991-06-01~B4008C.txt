@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser cette clause dans les contrats scientifiques lorsque l'Enoncé de 
 travail fourni par le ministère client est la principale source de 
@@ -11,3 +12,4 @@ façon dont l'ouvrage sera réalisé en général.
    présent Contrat, et conformément à la proposition technique et de 
    gestion de l'Entrepreneur, intitulée "_____", en date du _____. 
 </pre>
+</div>

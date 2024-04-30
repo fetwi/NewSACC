@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in bid solicitations and contracts in conjunction with 
 clauses A0000C and A0000T, OR with M0000C, M0000T and M0100D, as appropriate.
@@ -39,3 +40,4 @@ LAB-180 (_____), Labour Conditions - Fair Wages and Hours of Labour
 LAB-180B (_____), Labour Conditions
 
 </pre>
+</div>

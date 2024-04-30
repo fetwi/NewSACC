@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause where the description of the services to be performed 
 could give the impression or lead to the interpretation that a partnership could 
@@ -11,3 +12,4 @@ solely rely on that clause and must always ensure that the words "partner" and
    not represent itself as a representative of the Government of Canada in 
    its dealings with third parties.
 </pre>
+</div>

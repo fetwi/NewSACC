@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in preventive and remedial maintenance service 
 contracts with firm monthly and hourly rates.
@@ -55,3 +56,4 @@ subject to government audit.</p>
 Expenditure: <strong>$</strong> <span class="input-required"><var>__________</var> <kbd>(<i>GST/HST
 extra</i>)</kbd></span></p>
 </div></pre>
+</div>

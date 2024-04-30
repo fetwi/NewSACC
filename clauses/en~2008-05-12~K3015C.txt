@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts if the contractor is required to keep the 
@@ -29,3 +30,4 @@ perform the Work under the Contract. The Contractor must impose the
 same obligation of confidentiality on any person to whom the
 information is disclosed to perform the Work.</p>
 </div></pre>
+</div>

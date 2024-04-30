@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use the following clause in conjunction with clause G2030D and refer to clause 
 G2035D for important additional endorsements in contracts related to aviation 
@@ -66,3 +67,4 @@ Risk Management and Insurance Advisory Services at NCR RMIAS-SCGRA@pwgsc.gc.ca.
    or by specific reference to this contract, extend to assumed liabilities 
    with respect to contractual insurance provisions.
 </pre>
+</div>

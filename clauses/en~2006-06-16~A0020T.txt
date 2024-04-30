@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Use this clause whenever Canada may need additional information or a site survey 
 to verify that the bidder has the necessary capabilities to fulfill the 
@@ -37,3 +38,4 @@ Bidders will have the number of days specified in the request by the
    above items.  Failure to comply with the request may result in the bid 
    being declared non-responsive.
 </pre>
+</div>

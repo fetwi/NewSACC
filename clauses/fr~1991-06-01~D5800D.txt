@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante lorsqu'il s'agit de contrats d'entretien ou de 
 contrats de réparation et de révision et que les travaux sont effectués sur 
@@ -10,3 +11,4 @@ Toute question ayant trait à l'exécution des travaux sur place devra être
    portée à l'attention du _____, qui devra certifié que les travaux ont 
    été exécutés de façon satisfaisante et acceptés en signant _____. 
 </pre>
+</div>

@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante pour les achats non concurrentiels de produits et 
 services non commerciaux, évalués à plus de 50 000 $, effectués auprès d'agents 
@@ -9,3 +10,4 @@ et de détaillants canadiens, y compris les filiales de fabricants étrangers.
    coûts contractuels, DSS-MAS 1031-2, et que le prix en question comprend 
    un profit estimatif de _____ $. 
 </pre>
+</div>

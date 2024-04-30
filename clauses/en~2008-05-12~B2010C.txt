@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in all contracts for translation services.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The Contractor guarantees that the electronic medium and software provided to Canada under the Contract have no viruses or unauthorized codes, whether or not through fault or negligence on the part of the Contractor. If Canada suffers any loss or damage due to viruses or unauthorized codes, the Contractor must reimburse all the expenses incurred by Canada to return its systems to their initial condition.</p>
 </div></pre>
+</div>

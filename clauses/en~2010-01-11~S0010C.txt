@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in supply arrangements when periodic usage reports are 
 required from the supplier.
@@ -40,3 +41,4 @@ no later than <span class="input-required"><var>______</var>
 <kbd>(<i>insert number of days</i>)</kbd></span> calendar days after the end
 of the reporting period.</p>
 </div></pre>
+</div>

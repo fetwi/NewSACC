@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use this clause in the ‘Resulting Contract Clauses’ section of any solicitations that do not use
@@ -23,3 +24,4 @@
  </p>
 </section>
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><p>The Contractor must comply and ensure that its employees and subcontractors comply with all security measures, standing orders, policies or other rules in force at the site where the Work is performed.</p></pre>
+</div>

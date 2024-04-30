@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Les clauses Guide des CCUA sont annulées comme elles ne sont plus en cours d'utilisation par la Corporation commerciale canadienne.
@@ -88,3 +89,4 @@ prior to shipment of the supplies. The Supplier shall obtain
 inspection reports.</li>
 </ol>
 </div></pre>
+</div>

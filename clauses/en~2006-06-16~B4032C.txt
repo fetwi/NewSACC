@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
 <p>
   Use the following clause in contracts for air travel requirements.
@@ -6,3 +7,4 @@
 <h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
 <p>The pilot-in-command of the aircraft must ensure that all passengers are given a safety briefing before take-off in accordance with Section 602.89, Part VI, General Operating and Flight Rules of the <cite>Canadian Aviation Regulations</cite> 2005-2.</p>
 </div></pre>
+</div>

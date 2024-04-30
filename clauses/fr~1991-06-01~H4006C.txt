@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
 <pre>Utiliser la clause suivante dans les contrats scientifiques lorsque le ministère 
 client a demandé une ébauche du rapport final. 
@@ -11,3 +12,4 @@ et en français.
 Une copie de la lettre d'envoi accompagnant le rapport final devra être 
    envoyée à l'Agent de négociation des contrats scientifiques.
 </pre>
+</div>

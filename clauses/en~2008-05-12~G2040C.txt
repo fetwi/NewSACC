@@ -1,3 +1,4 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
 <h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
  Use the following clause in contracts when Environmental Impairment Liability 
 insurance is required. Environmental Impairment Liability insurance protects the 
@@ -124,3 +125,4 @@ settlement amount and the amount finally awarded or paid to the
 plaintiffs (inclusive of costs and interest) on behalf of
 Canada.</p></ol>
 </div></pre>
+</div>
