@@ -1,0 +1,3 @@
+- Templates has been added to clauses and will load in the same way in these html files.
+- Added Printer button added to each clause.
+- Added Back to top button.
