@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause can be used in conjunction with D5540D, D5541D or D5542D for 
+clarification purposes when full certification is not required. This clause must 
+immediately follow the ISO 9000 inspection clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is not the intent of the previous clause to require that the Contractor 
+be registered to the applicable standard; however, the Contractors' quality 
+system must address each element contained in the model.
+
+
+</pre>
+</div>

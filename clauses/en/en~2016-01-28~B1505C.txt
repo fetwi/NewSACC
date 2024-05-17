@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts where the contractor is required to ship dangerous goods/hazardous products. Suppliers have responsibilities regarding the shipment of dangerous goods/hazardous products which are specified in the
+  <cite>
+
+    Transportation of Dangerous Goods Act
+   
+</cite>
+  , 1992 and
+  <cite>
+
+    Hazardous Products Act
+   
+</cite>
+  , and their associated Regulations.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must label and ship dangerous goods/hazardous products falling within the <cite>Transportation of Dangerous Goods Act</cite>, 1992, <abbr title="chapter">c</abbr>.34 and the <cite>Hazardous Products Act</cite>, <abbr title="Revised Statutes of Canada">R.S.C.</abbr> 1985, <abbr title="chapter">c.</abbr> H-3 and their regulation(s) in accordance with the said Acts and regulation(s) accompanied by the required safety data sheet(s) completed in both English and French.</p>
+</div></pre>
+</div>

@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante lorsque l'une des clauses suivantes a été utilisée :
+ 
+  Y4000D
+ 
+ ,
+ 
+  Y4001D
+ 
+ ,
+ 
+  Y4002D
+ 
+ ,
+ 
+  Y4003D
+ 
+ ,
+ 
+  Y4004D
+ 
+ ou
+ 
+  Y4005D
+ 
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Envoyer toutes les factures établies au nom de l'Agence
+canadienne de développement international à l'adresse
+suivante :</p>
+<p>Agence canadienne de développement international<br/>
+200, Promenade du Portage<br/>
+Gatineau (Québec)<br/>
+K1A 0G4<br/>
+Ä l'attention de : <var>____________</var> .</p>
+</div></pre>
+</div>

@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>L'agent de négociation des contrats doit indiquer de quelle province ou de quel 
+territoire provient la loi que le Canada se propose d'appliquer à l'offre à 
+commandes et au contrat subséquent.  On demandera à l'offrant d'indiquer dans 
+son offre officielle s'il y a des changements à la loi provinciale ou 
+territoriale applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'offre à commandes et tous les contrats subséquents doivent être 
+       interprétés et régis selon les lois en vigueur dans _____, et les 
+       relations entre les parties seront déterminées par ces lois.
+
+2.     À sa discrétion, l'offrant peut utiliser les lois applicables d'une 
+       province ou d'un territoire canadien de son choix, sans que la 
+       validité de son offre ne soit mise en question, en supprimant la 
+       province ou le territoire canadien précisé et en insérant la 
+       province ou le territoire canadien de son choix.  S'il n'y a pas de 
+       changement, cela signifie que l'offrant accepte la loi applicable 
+       indiquée.
+
+
+</pre>
+</div>

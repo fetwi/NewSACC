@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 5.4, <cite>Vuntut Gwich'in First Nation Final Agreement (VGFA)</cite>,
+Chapter 10, Schedule A, clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">9.8</span> For any contracts tendered
+publicly by the Canadian Parks Service, other than the contracts
+referred to in 9.7, the Canadian Parks Service shall include, where
+appropriate, criteria for:
+<ul class="hierarchy">
+<li><span class="number">9.8.1</span> knowledge of Vuntut Gwitchin
+language, culture, society or traditional knowledge of the Vuntut
+Gwitchin First Nation Traditional Territory; and</li>
+<li><span class="number">9.8.2</span> the employment of Vuntut
+Gwitchin professional services, the use of Vuntut Gwitchin
+professional services, the use of Vuntut Gwitchin suppliers,
+on-the-job training or skills development for Vuntut Gwitchin, in
+the specifications for the tendering of contracts related to the
+procurement of goods and services for the Park.</li>
+</ul>
+</li>
+</ul>
+</div></pre>
+</div>

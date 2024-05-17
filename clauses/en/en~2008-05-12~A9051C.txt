@@ -1,0 +1,58 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts for the procurement of equipment when 
+Canada requires the right to translate existing publications.
+
+Where the contractor will be providing document deliverables specifically 
+written as part of the work under the contract, one of the following general 
+conditions must be used:
+ 
+  2010A
+ 
+ ,
+ 
+  2010B
+ 
+ ,
+ 
+  2010C
+ 
+ ,
+ 
+  2030
+ 
+ ,
+ 
+  2035
+ 
+ or
+ 
+  2040
+ 
+ .  Under these 
+general conditions, Canada owns the rights to translate custom-written documents 
+provided under the contract as Canada owns the copyright in the work.  In the 
+case where both custom-written and existing publications are to be provided by 
+the contractor, this clause is to be used in conjunction with the appropriate 
+general conditions.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor grants to Canada a non-exclusive, perpetual,
+irrevocable and royalty-free license to translate and reproduce for
+government use all or any part of the technical publications
+supplied with the equipment delivered under the Contract. Copyright
+in the translation made by Canada or by independent contractors
+engaged by Canada will belong to Canada.</p>
+<p class="description"><strong>Instruction to contracting
+officers</strong> : Delete the following for non-Department of
+National Defence requirements.</p>
+<p>In addition to the copies which are to be delivered with the
+equipment, <var>_____</var> copies of each publication must be
+forwarded to:</p>
+<p>Department of National Defence<br/>
+MGen George Pearkes Building<br/>
+Ottawa, Canada<br/>
+K1A 0K2<br/>
+Attention: <var>__________</var>.</p>
+</div></pre>
+</div>

@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les services d'entretien sur place, lorsque des 
+taux horaires sont proposés - coûts remboursables.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour les services d'entretien sur place et les services connexes relatifs à 
+l'équipement énuméré à l'appendice « _____ », assurés pendant la principale 
+période d'entretien (PPE) et en dehors de la PPE, selon la définition du 
+contrat, l'entrepreneur sera payé pour les frais de main-d'oeuvre, de 
+matériel (s'il y a lieu) et de déplacement et de subsistance (s'il y a lieu), 
+comme suit :
+
+Pour la période de douze (12) mois commençant le ______ :
+
+<strong>Main d'oeuvre</strong>
+
+L'entrepreneur sera payé pour les heures réellement travaillées, aux taux 
+horaires fermes indiqués à l'appendice « _____ ».  Il obtiendra un montant 
+minimum pour la première demi-heure, calculé à partir de l'heure d'arrivée 
+du technicien de l'entrepreneur sur place.  Tout le temps imputable 
+additionnel dépassant la première demi-heure doit être arrondi au quart 
+d'heure près.
+
+<strong>Matériel et pièces de rechange</strong>
+
+Le matériel et les pièces de rechange seront fournis selon le prix de liste 
+indiqué à l'appendice «_____», moins un rabais de _____ p. 100.  Tous les 
+prix des pièces et du matériel sont FOB destination, droits de douane 
+inclus, s'il y a lieu.  (La taxe sur les produits et services ou la taxe de 
+vente harmonisée, selon le cas, est en sus.)
+
+<strong>Frais de déplacement et de subsistance</strong>
+
+Il n'y aura pas de temps de déplacement ou de frais de déplacement et de 
+subsistance à payer pour les services effectués dans un rayon de _____ 
+kilomètres du centre de services désigné indiqué à l'appendice « _____ ».
+
+Pour les services effectués en dehors d'un rayon de _____ kilomètres du 
+centre de services désigné, l'entrepreneur sera payé pour le temps de 
+déplacement réel, conformément aux taux horaires spécifiés à l'appendice « _____ ».
+
+De plus, les frais de déplacement et de subsistance raisonnables et 
+appropriés du personnel qui exécute directement les travaux, préalablement 
+autorisés par le coordonnateur de l'entretien, seront remboursés au prix 
+coûtant, sans aucune indemnité supplémentaire pour les frais généraux ou la 
+marge bénéficiaire, conformément aux indemnités relatives à l'utilisation 
+d'un véhicule privé, aux repas et faux frais qui sont précisées aux 
+appendices B, C et D de la Directive du Conseil du Trésor sur les voyages  
+(<strong class="wsStyleUnderline">http://www.tbs-sct.gc.ca/hr-rh/gtla-vgcl/</strong>), et selon les autres 
+dispositions de la Directive qui se rapportent aux « voyageurs » plutôt que 
+celles qui se rapportent aux « employés ».
+
+Coût estimatif : _____.
+
+Tous les paiements sont assujettis à une vérification par le gouvernement.
+
+<strong>Services sur appel (délai d'attente)</strong>
+
+L'entrepreneur sera payé pour les heures réelles de service sur appel 
+(délai d'attente) au taux horaire ferme de _____ $.
+
+<strong>Coût estimé pour les articles </strong>: _____ : _____ $.
+
+
+</pre>
+</div>

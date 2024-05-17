@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Articles dangereux/matériaux hasardeux - tout matériel qui est classé comme 
+dangereux/hasardeux être classé comme :
+
+a. Contenant utilisé pour le transport - conformément avec la loi sur le 
+transport de articles dangereux; et
+
+b. contenant pour produit immédiat - conformément avec la loi sur les 
+produits hasardeux.
+
+Les fiches bilingues de données de sécurité de matériel (2 exemplaires) 
+indiquant le numéro de nomenclature de l'OTAN doivent être fournies comme 
+suit:
+
+1. une exemplaire doit être jointe à l'envoi, et 
+
+2. l'autre doit être envoyée au:
+
+       Quartier général de la Défense nationale     
+       101 Promenade du Colonel By     
+       Ottawa (Ontario)     
+       Canada  K1A 0K2
+
+       Attn : DSRO 3-2-3-2
+
+</pre>
+</div>

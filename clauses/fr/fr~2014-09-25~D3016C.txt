@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour définir la spécification relative à l'emballage destinée à l'achat d'articles assujettis à cette spécification.
+ </p>
+<p>
+  Dans le premier espace, inscrire le numéro de l'article.
+ </p>
+<p>
+  Dans le deuxième espace, indiquer le numéro de la spécification relative à l'emballage ainsi que le titre.
+ </p>
+<ol type="a">
+<li>
+   D-LM-008-015/SF-000, Cristaux piézoélectriques;
+  </li>
+<li>
+   D-LM-008-026/SF-001, Garnitures prédécoupées ou des joints d'étanchéité (caoutchouc naturel ou synthétique, liège, amiante ou cuir);
+  </li>
+<li>
+   D-LM-008-027/SF-001, Armes portatives;
+  </li>
+<li>
+   D-LM-008-030/SF-001, Tuyaux en caoutchouc, en plastique, en tissu ou en métal (y compris les tubes), ainsi que les raccords, les lances et les crépines;
+  </li>
+<li>
+   D-LM-008-033/SF-000, Ensembles appariés de paliers, marine;
+  </li>
+<li>
+   D-LM-008-035/SF-001, Composants, sous-ensembles et matériels électroniques contre les décharges électrostatiques;
+  </li>
+<li>
+   D-LM-008-037/SF-000, Roulements (autres que les roulements pour instruments de précision).
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit préparer la livraison de l'(des)article(s) <var>_______</var> conformément à la dernière édition de la spécification relative à l'emballage des Forces canadiennes <var>_____</var> .</p>
+</div></pre>
+</div>

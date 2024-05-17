@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats de radoub de navires, et dans 
+les contrats de réparation et de révision de navires ou de systèmes de navires, 
+lorsque le navire sera arrimé dans les installations de l'entrepreneur ou dans 
+des installations autres que celles du ministère client, et que le Canada se 
+réserve le droit de faire exécuter par son personnel des travaux limités.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le Canada se réserve le droit de faire exécuter par
+son personnel des travaux limités à l'égard de
+l'équipement situé à bord du navire. Ces travaux
+seront effectués à des moments mutuellement acceptables
+pour le Canada et l'entrepreneur.</p>
+</div></pre>
+</div>

@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  All contracts must contain either this clause or
+  
+   G1001C
+  
+  as may be applicable.
+ </p>
+<p>
+  Use the following clause when there is no specific insurance requirement. Use 
+clause
+  
+   G1001C
+  
+  when there are specific insurance requirements included in the contract.
+ </p>
+<p>
+  For further assistance, contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor is responsible for deciding if insurance coverage
+is necessary to fulfill its obligation under the Contract and to
+ensure compliance with any applicable law. Any insurance acquired
+or maintained by the Contractor is at its own expense and for its
+own benefit and protection. It does not release the Contractor from
+or reduce its liability under the Contract.</p>
+</div></pre>
+</div>

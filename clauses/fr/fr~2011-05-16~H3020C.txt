@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour des services d'entretien 
+facturés de façon mensuelle ou bimestrielle ou trimestrielle.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit soumettre les factures
+conformément à l'article intitulé « Présentation des factures » des conditions
+générales accompagnées du rapport d'entretien <span class="input-required"><var>________</var> <kbd>
+(<em><strong>insérer</strong> « mensuel » <strong>ou</strong> « bimestriel » <strong>ou</strong> « trimestriel »</em>)</kbd></span>
+ décrit <span class="input-required"><var>________</var> <kbd>
+(<em><strong>insérer</strong> « dans l'énoncé des travaux » <strong>ou</strong> « à l'article <var>____</var>  »</em>)</kbd></span> du contrat.
+<br/>Les factures ne doivent pas être soumises avant que les
+travaux identifiés dans la facture soient complétés
+et que tous les rapports sur les demandes de services d'entretien
+pour les travaux identifiés dans la facture soient reçus
+par le chargé de projet.
+</li>
+<li value="2">L'entrepreneur doit distribuer les factures et
+rapports comme suit :
+<ul class="no-markers"><li>
+<ol type="a">
+<li value="1">L'original et deux (2) copies de la facture ainsi que
+du rapport <span class="input-required"><var>_____</var>
+<kbd>(<em><strong>insérer</strong> « mensuel » <strong>ou</strong> « bimestriel » <strong>ou</strong> « trimestriel »</em>)</kbd></span> doivent être envoyés
+à l'adresse qui apparaît à la page 1 du contrat pour
+attestation et paiement.</li>
+</ol>
+</li>
+<li><strong>OU</strong>
+<ol type="a">
+<li value="1">L'original et deux (2) copies de la facture ainsi que
+du rapport <span class="input-required"><var>_____</var> <kbd>(<em><strong>insérer</strong>
+« mensuel » <strong>ou</strong> « bimestriel » <strong>ou</strong> « trimestriel »</em>)</kbd></span> doivent être envoyés à l'adresse suivante 
+pour attestation et paiement <span class="input-required"><var>__________</var>. <kbd>(<strong><em>Les agents de négociation des contrats doivent insérer le nom et l'adresse de l'organisation</em></strong>)</kbd></span></li>
+<li value="2">Une (1) copie de la facture ainsi que du rapport
+<span class="input-required"><var>______</var> <kbd>(<em><strong>insérer</strong>« mensuel » <strong>ou</strong> « bimestriel » <strong>ou</strong> « trimestriel »</em>)</kbd></span> 
+doit être envoyer à l'autorité contractante identifiée sous l'article
+intitulé « Responsables » du contrat.</li>
+</ol>
+</li>
+</ul>
+</li>
+</ol>
+</div></pre>
+</div>

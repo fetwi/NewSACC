@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les taux pour les heures supplémentaires seront des taux horaires fermes, 
+tout compris, TPS en sus, F.A.B. au point de destination, comme suit:
+
+Catégorie de personnel Prix Ferme(s) $_____
+
+Les taux pour les heures supplémentaires ne s'appliqueront qu'au travail 
+exécuté, dépassant ____heures par _____.
+
+TAUX POUR LA PÉRIODE D'OPTION:
+
+Pourvu que la Couronne exerce l'option, les taux suivants s'appliqueront à 
+la période du _____ au ____.
+
+</pre>
+</div>

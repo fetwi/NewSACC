@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante pour résilier le contrat en partie pour manquement.
+  <br/>
+  Les agents de négociation des contrats doivent indiquer pour quels motifs le
+  <br/>
+  contrat est résilié (i.e. des biens qui n'ont pas été livrés, des services qui
+  <br/>
+  n'ont pas été rendus conformément au contrat).
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter les Services juridiques
+  <br/>
+  avant d'émettre un avis de résiliation partielle pour manquement.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le présent avis donne suite à l'Ordre d'arrêt des
+travaux en date du <span class="input-required"><var>_____</var>
+<kbd>(<em>supprimer ce paragraphe si un Ordre d'arrêt des travaux
+n'a pas été envoyé par l'autorité contractante</em>)</kbd></span>.</p>
+<p>Conformément au droit absolu du Canada de résilier le
+contrat en partie pour manquement si l'entrepreneur manque à
+l'une de ses obligations prévues au contrat, l'autorité
+contractante avise l'entrepreneur que la partie suivante du contrat
+est résiliée en vertu du l'article <var>_____</var>,
+Manquement de la part de l'entrepreneur, des conditions
+générales <var>_______</var>, pour les motifs
+suivants :</p>
+<p class="description">(<em>Insérer la ou les parties résiliées
+et les motifs pour résilier partiellement le contrat pour
+manquement</em>)</p>
+<p>L'entrepreneur doit poursuivre le reste des travaux
+conformément aux conditions du contrat.</p>
+<p>Le Canada se réserve le droit en vertu du contrat de
+réclamer de l'entrepreneur toutes les pertes et tous les
+dommages que pourrait subir le Canada en raison du manquement, y
+compris tout montant dépassant le prix contractuel que le
+Canada serait obligé de payer pour se procurer ailleurs les
+biens, les services ou les deux reliés à la partie du
+contrat résiliée.</p>
+<p class="description">(<em>Insérer le paragraphe suivant lorsque la résiliation est reliée à des problèmes de rendement sujets aux dispositions de la Politique sur les mesures correctives du rendement des fournisseurs.</em>)</p>
+<p>Conformément à la Politique sur les mesures correctives du rendement des fournisseurs, cette résiliation partielle pour manquement déclenchera une évaluation d'une mesure corrective du rendement du fournisseur à la fin du contrat. De plus, une note indiquant qu'il y a eu une résiliation partielle pour manquement pour ce contrat sera inscrite dans le Système d'information sur les fournisseurs.</p>
+</div></pre>
+</div>

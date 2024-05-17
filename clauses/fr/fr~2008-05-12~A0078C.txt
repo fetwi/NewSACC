@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'il peut être nécessaire d'ajouter une période de transition à la fin du contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur reconnaît que la nature des services fournis en vertu du contrat exigent la continuité et qu'il peut être nécessaire d'ajouter une période de transition à la fin du contrat. L'entrepreneur accepte que le Canada puisse, à sa discrétion, prolonger le contrat d'une période de <span class="input-required"><var>___________</var> <kbd>(<em>insérer le nombre de jours ou de mois</em>)</kbd></span> selon les mêmes conditions afin d'assurer la transition nécessaire. L'entrepreneur accepte que, durant la période prolongée du contrat, il sera payé conformément aux dispositions applicables prévues à la Base de paiement.</p>
+<p>L'autorité contractante avisera l'entrepreneur de la prolongation du contrat en lui faisant parvenir un avis écrit au moins <var>____</var> jours civils avant la date d'expiration du contrat. La prolongation sera confirmée, pour des raisons administratives seulement, par une modification au contrat.</p>
+</div></pre>
+</div>

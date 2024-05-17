@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour l'achat de viande.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Si la catégorie de la viande commandée n'est pas disponible pour livraison, l'entrepreneur doit fournir en remplacement une catégorie supérieure, et ce, sans frais supplémentaires.</p>
+</div></pre>
+</div>

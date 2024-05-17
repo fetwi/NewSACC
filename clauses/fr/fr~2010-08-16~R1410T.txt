@@ -1,0 +1,627 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans une Demande de proposition à une phase.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>IG1    Définitions
+IG2    Aperçu de la procédure de sélection
+IG3    Numéro d'entreprise - approvisionnement
+IG4    Propositions recevables
+IG5    Établissement de la proposition
+IG6    Prix de la proposition
+IG7    Demandes d'éclaircissement pendant la durée de l'invitation
+IG8    Limite quant au nombre de propositions
+IG9    Permis et licences nécessaires
+IG10   Conditions d'admission
+IG11   Programme de contrats fédéraux
+IG12   Assurances à souscrire
+IG13   Exigences relatives à la sécurité industrielle et des installations
+IG14   Composition de l'équipe de l'expert-conseil
+IG15   Présentation des propositions
+IG16   Propositions présentées en retard
+IG17   Révision des propositions
+IG18   Acceptation des propositions 
+IG19   Identité ou capacité juridique du proposant
+IG20   Séance d'explications
+IG21   États financiers
+IG22   Évaluation du rendement
+
+
+<strong>IG1    (2003-05-30)  Définitions</strong>
+
+1.     Dans la présente demande de proposition (DDP), on entend par :
+
+       Comité d'évaluation de TPSGC : Le comité constitué pour évaluer et 
+       coter les propositions. Les membres de ce comité sont suffisamment 
+       représentatifs des compétences professionnelles et possèdent 
+       l'expérience voulue pour évaluer correctement tous les aspects des 
+       propositions.
+
+       Cote de prix : La cote attribuée à l'offre de prix d'une proposition 
+       dans la procédure de sélection et servant ensuite à établir la note 
+       de prix pour en tenir compte dans le pourcentage de la note totale à 
+       attribuer après l'évaluation et la cotation des propositions 
+       présentées.
+
+       cote technique : La cote attribuée aux aspects techniques dune 
+       proposition dans la procédure de sélection et servant ensuite à 
+       établir la note technique pour en tenir compte dans le pourcentage 
+       de la note totale.
+
+       équipe de l'expert-conseil : L'équipe proposée pour fournir tous les 
+       services requis pour réaliser le projet, laquelle est composée de 
+       l'expert-conseil principal (le proposant), des sous-experts-conseils, 
+       des spécialistes et des autres firmes.
+
+       personnel clé : Les membres du personnel du proposant, ainsi que 
+       ceux des sous-experts-conseils, des spécialistes et des autres 
+       firmes auxquels il se propose de faire appel pour réaliser le 
+       présent projet.
+
+       proposant : La personne morale présentant une proposition à titre 
+       d'expert-conseil principal (également appelée « soumissionnaire » 
+       dans les présentes).
+
+<strong>IG2    (2007-05-25)  Aperçu de la procédure de sélection</strong>
+
+<strong>2.1    Proposition</strong>
+
+1.     Les propositions sont établies et présentées suivant une procédure 
+       prévoyant deux enveloppes: le proposant doit présenter le volet « 
+       technique » de la proposition dans une « enveloppe » et le volet 
+       financier de son offre (proposition de prix) dans une deuxième 
+       enveloppe.
+
+2.     Les renseignements que les proposants doivent fournir sont décrits 
+en détails dans la DDP.
+
+3.     Pour donner suite à la DDP, les proposants intéressés doivent 
+       présenter une proposition dans laquelle ils doivent :
+
+       a)     indiquer si cette proposition est présentée par une 
+              entreprise à propriétaire unique ou par un consortium;
+
+       b)     décrire, si la proposition est présentée par un consortium, 
+              les rapports juridiques et professionnels proposés et les 
+              avantages apportés par la création du consortium;
+
+       c)     identifier l'expert-conseil principal et les 
+              sous-experts-conseils et spécialistes auxquels on se propose 
+              de faire appel pour constituer l'équipe de l'expert-conseil, 
+              ainsi que la structure organisationnelle proposée pour 
+              l'équipe;
+
+       d)     décrire dans quelle mesure les membres de l'équipe de 
+              l'expert-conseil proposée ont réussi à assurer les services 
+              dans le cadre de projets comparables à celui qui fait l'objet 
+              de la proposition;
+
+       e)     identifier l'accréditation professionnelle, l'expérience, les 
+              compétences et le savoir-faire de l'équipe de 
+              l'expert-conseil proposée et des personnes clés auxquelles on 
+              se propose de faire appel pour assurer les services requis;
+
+       f)     respecter toutes les autres exigences énoncées dans la DDP.
+
+<strong>2.2    Évaluation et cotation des propositions</strong>
+
+1.     Un comité d'évaluation de Travaux publics et Services 
+       gouvernementaux Canada (TPSGC) examinera, évaluera et cotera les 
+       éléments techniques des propositions recevables présentées 
+       conformément aux critères, aux éléments et aux coefficients de 
+       pondération indiqués dans la DDP. À la fin de l'évaluation, on 
+       établira les cotes techniques.
+
+2.     Les propositions qui auront obtenu la note de passage précisée dans 
+       la section Exigences de présentation et évaluation des propositions 
+       de la DDP seront étudiées plus en profondeur.
+
+3.     Les enveloppes de proposition de prix de toutes les propositions 
+       recevables sont ouvertes après évaluation technique. Quand il y a au 
+       moins trois propositions recevables, un prix moyen est établi en 
+       additionnant toutes les propositions de prix et en divisant la somme 
+       par le nombre de propositions de prix dépouillées. Ce calcul ne sera 
+       pas effectué si une ou deux propositions recevables sont reçues.
+
+4.     Toutes les propositions de prix ayant un écart de plus de 25 p. 100 
+       au dessus du prix moyen occasionneront le rejet de la proposition 
+       complète, laquelle ne sera plus considérée.
+
+5.     On cotera comme suit les propositions de prix restantes :
+
+       a)     On attribuera la cote de prix de 100 à la proposition de prix 
+la moins-disante.
+
+       b)     On attribuera les cotes de prix de 80, 60, 40 et 20, 
+              respectivement, aux deuxième, troisième, quatrième et 
+              cinquième propositions de prix les moins-disantes. On 
+              attribuera la cote de prix de 0 à toutes les autres 
+              propositions de prix.
+
+       c)     Dans les rares cas où deux (ou plusieurs) propositions de 
+              prix sont identiques, on attribuera la même cote aux 
+              propositions de prix égales, et on sautera le nombre 
+              correspondant de cotes ensuite.
+
+       d)     On multipliera la cote de prix par le pourcentage du 
+              coefficient préétabli pour obtenir la note de prix.
+
+6.     Une proposition dont le prix proposé est supérieur à toute limite 
+       financière maxima, lorsqu'une telle limite est indiquée dans les 
+       Instructions particulières aux proposants, occasionnera le rejet de 
+       la soumission.
+ 
+<strong>2.3    Note totale</strong>
+
+1.     On calculera la note globale (totale) attribuée à la proposition 
+       complète de chaque proposant en additionnant :
+
+       a)     la note technique (première enveloppe de la proposition); et
+
+       b)     la note de prix (seconde enveloppe de la proposition).
+
+2.     Le Comité d'évaluation de TPSGC recommandera de contacter d'abord le 
+       proposant auquel on aura attribué la meilleure note totale, afin de 
+       négocier les dernières modalités d'une entente pour la prestation 
+       des services requis.
+
+<strong>2.4    Avis</strong>
+
+TPSGC devrait normalement envoyer un avis par écrit aux proposants non 
+retenus dans un délai d'une semaine suivant la conclusion d'une entente 
+contractuelle avec le proposant retenu.
+
+<strong>IG3    (2010-08-16)  Numéro d'entreprise - approvisionnement</strong>
+
+Les proposants canadiens doivent avoir un numéro d'entreprise - 
+approvisionnement (NEA) avant de se voir attribuer un contrat. Pour obtenir 
+un NEA, les proposants peuvent s'inscrire au service Données d'inscription 
+des fournisseurs, sur le site Web Contrats Canada. Pour s'inscrire 
+autrement que par Internet, les proposants peuvent communiquer avec l'agent 
+d'inscription des fournisseurs le plus près.
+
+<strong>IG4    (2003-05-30)  Propositions recevables</strong>
+
+Pour être jugée recevable, votre proposition doit respecter toutes les 
+exigences obligatoires énoncées dans la DDP. Le soumissionnaire qui aura 
+présenté une proposition irrecevable ne pourra plus participer à la 
+procédure de sélection.
+
+<strong>IG5    (2003-05-30)  Établissement de la proposition</strong>
+
+Le proposant doit établir la proposition d'après les documents pertinents 
+énumérés dans les Instructions particulières aux proposants. Il lui 
+appartient de demander des éclaircissements sur les clauses, les conditions 
+ou les exigences techniques exprimées dans la DDP.
+
+<strong>IG6    (2003-05-30)  Prix de la proposition</strong>
+
+Sauf prescription contraire ailleurs dans les documents de la DDP :
+
+       a)     la proposition de prix doit être fondée sur la monnaie 
+       canadienne,
+
+       b)     la proposition de prix exclue toute somme couvrant la taxe 
+              sur les produits et services ou la taxe de vente harmonisée, 
+              le cas échéant, et
+
+       c)     aucune protection contre les fluctuations du taux de change 
+n'est accordée, et
+
+       d)     toute demande de protection contre les fluctuations du taux 
+              de change ne sera pas considérée et rendra la proposition 
+              irrecevable.
+
+<strong>IG7    (2003-05-30)  Demandes d'éclaircissement pendant la durée de 
+l'invitation</strong>
+
+1.     Le principal responsable du proposant doit soumettre par écrit, à la 
+       personne dont le nom figure sur la page couverture de la DDP, toutes 
+       les questions ou demandes d'éclaircissement pendant la durée de 
+       l'invitation. TPSGC transmettra les réponses au principal 
+       responsable du proposant, qui sera chargé de les rediffuser sil y a 
+       lieu, au sein des membres de l'équipe du proposant.
+
+2.     Afin d'assurer légalité de l'information fournie aux proposants, on 
+       transmettra simultanément, à tous les proposants, les réponses 
+       apportées aux demandes d'éclaircissement importantes.
+
+3.     Les demandes d'éclaircissement doivent être adressées EXCLUSIVEMENT 
+       à la personne visée à l'alinéa 1. ci-dessus. À défaut de respecter 
+       cette condition pendant la durée de la DDP, votre proposition 
+       pourrait, pour cette seule raison, être rejetée.
+
+<strong>IG8    (2003-05-30)  Limite quant au nombre de propositions</strong>
+
+1.     Bien qu'il ne soit pas nécessaire de constituer un consortium pour 
+       participer à ce marché, des firmes d'experts-conseils peuvent 
+       décider de le faire, si elles le jugent opportun. Toutefois, on 
+       n'acceptera qu'une proposition par proposant, qu'elle soit présentée 
+       par une firme à titre de proposant distinct ou par cette firme dans 
+       le cadre d'un consortium. Si une firme intervenant individuellement 
+       ou dans le cadre d'un consortium présente plusieurs propositions, 
+       elles seront toutes rejetées, et la firme ou le consortium dont 
+       cette firme fait partie ne sera pas retenu.
+
+2.     On entend par « consortium » une association de deux ou plusieurs 
+       parties réunissant leurs moyens financiers, leurs biens, leurs 
+       connaissances, leurs compétences, leur temps ou d'autres ressources 
+       dans un consortium, en s'engageant à en partager les bénéfices et 
+       les pertes, chacune exerçant sur l'entreprise un certain contrôle.
+
+3.     Ne constitue pas un accord de consortium, une convention selon 
+       laquelle le Canada conclut un contrat directement avec un 
+       expert-conseil principal qui peut faire appel à des 
+       sous-experts-conseils ou à des experts-conseils spécialisés pour 
+       assurer certaines tranches de services. Par conséquent, différents 
+       proposants peuvent proposer d'inclure dans leur équipe, un même 
+       sous-expert-conseil ou une même firme d'experts-conseils spécialisés.
+
+4.     Sans égard à l'alinéa 3. ci-dessus, afin d'éviter les conflits 
+       d'intérêts, en apparence comme en réalité, lorsqu'une firme agit à 
+       titre de proposant individuel ou comme composante d'un proposant en 
+       consortium, cette firme ne peut faire partie de l'équipe d'un autre 
+       proposant, que ce soit à titre de sous-expert conseil ou 
+       expert-conseil spécialisé ou à titre de composante d'un autre 
+       proposant en consortium. À défaut de respecter cette restriction, 
+       toutes les propositions ainsi présentées seront rejetées.
+
+5.     Tous les consortiums constitués pour fournir des services 
+       professionnels ou autres doivent respecter intégralement les 
+       exigences des lois provinciales ou territoriales afférentes, dans la 
+       province ou le territoire où se déroulera le projet.
+
+<strong>IG9    (2003-05-30)  Permis et licences nécessaires</strong>
+
+1.     Les membres de l'équipe de l'expert-conseil et les membres du 
+       personnel clé doivent être ou pouvoir être accrédités, certifiés ou 
+       autorisés pour fournir les services professionnels nécessaires, dans 
+       toute la mesure prescrite par les lois provinciales ou territoriales, 
+       dans la province ou le territoire où se déroulera le projet.
+
+2.     En présentant une proposition, le soumissionnaire atteste qu'il est 
+       convaincu que l'équipe de l'expert-conseil et les membres du 
+       personnel clé proposés respectent les exigences de l'alinéa 1.  Le 
+       proposant reconnaît que TPSGC se réserve le droit de vérifier tous 
+       les renseignements à ce titre et qu'une attestation fausse ou 
+       erronée peut entraîner le rejet de la proposition, qui sera déclarée 
+       irrecevable.
+
+<strong>IG10   (2003-05-30)  Conditions d'admission</strong>
+
+1.     Les proposants doivent noter qu'on peut juger qu'ils sont 
+inadmissibles à ce projet de marchés si :
+
+       a)     une firme ou un particulier faisant partie de l'équipe de 
+              l'expert-conseil a été reconnu coupable selon les articles 
+              121 (« <em>Fraudes envers le gouvernement</em> » et «<em> Entrepreneur qui 
+              souscrit à une caisse électorale</em> »), 124 (« <em>Achat ou vente 
+              dune charge</em> ») ou 418 («<em> Vente d'approvisionnements 
+              défectueux à Sa Majesté</em> ») du Code criminel;
+
+       b)     le proposant a été jugé inadmissible à ce projet de marchés à 
+              la suite d'un rendement insatisfaisant dans le cadre d'un 
+              projet antérieur déterminé conformément aux procédures 
+              dévaluation de rendement du ministère;
+
+       c)     une firme ou un particulier faisant partie de l'équipe de 
+              l'expert-conseil a été jugé inadmissible à ce projet de 
+              marchés avec le ministère, conformément aux procédures 
+              dévaluation de rendement du ministère mentionné au paragraphe 
+              1.b), ce qui lui interdit de présenter une proposition dans 
+              le cadre des travaux ou d'une tranche des travaux qu'il 
+              serait appelé à effectuer, dans le cadre de toute entente 
+              contractuelle découlant de la présentation de la proposition;
+
+       d)     à l'égard d'opérations antérieures ou actuelles avec le 
+gouvernement du Canada :
+
+              (i)    le proposant est en faillite ou, pour quelque raison 
+                     que ce soit, il ne peut exercer ses activités pendant 
+                     une durée prolongée;
+
+              (ii)   une preuve, à la satisfaction du Canada, de fraude, de 
+                     corruption, de fausse déclaration dolosive ou 
+                     d'incapacité de respecter une loi protégeant les 
+                     personnes contre toute forme de discrimination a été 
+                     présentée à l'égard dune entreprise ou d'un 
+                     particulier faisant partie de l'équipe de 
+                     l'expert-conseil;
+
+              (iii)  le Canada a déjà exercé ses recours contractuels de 
+                     résiliation pour inexécution à l'égard d'une commande 
+                     ou d'un marché conclu avec une firme ou un particulier 
+                     faisant partie de l'équipe de l'expert-conseil ou a 
+                     l'intention de le faire;
+
+              (iv)   le Canada constate que l'exécution d'autres marchés ou 
+                     commandes par le proposant, notamment l'efficacité et 
+                     la qualité d'exécution des travaux et la mesure dans 
+                     laquelle le proposant a réalisé les travaux 
+                     conformément aux clauses et aux conditions 
+                     contractuelles, sont suffisamment médiocres pour 
+                     porter atteinte au succès de l'exécution des travaux 
+                     faisant l'objet de la soumission initiale.
+
+2.     Dans les cas où le Canada a l'intention de déclarer une entreprise 
+       inadmissible à ce projet de marchés conformément à l'une des 
+       modalités de l'alinéa 1. ci-dessus, sauf 1.b), le ministre le fera 
+       savoir à l'entreprise et lui donnera un délai de dix (10) jours pour 
+       présenter ses observations avant de rendre une décision définitive 
+       sur l'inadmissibilité de l'entreprise.
+
+<strong>IG11   (2010-08-16)  Programme de contrats fédéraux</strong>
+
+1.     En vertu du Programme de contrats fédéraux (PCF), certaines firmes, 
+       y compris un soumissionnaire qui est membre d'une coentreprise, 
+       soumissionnant pour des contrats du gouvernement fédéral d'une 
+       valeur de 200 000 $ ou plus (incluant toutes les taxes applicables) 
+       doivent s'engager officiellement à mettre en oeuvre un programme 
+       d'équité en matière d'emploi. Il s'agit d'une condition préalable à 
+       l'attribution du contrat. Si le soumissionnaire, ou si le 
+       soumissionnaire est une coentreprise et qu'un membre de la 
+       coentreprise, est assujetti au PCF, la preuve de son engagement doit 
+       être fournie avant l'attribution du contrat.
+
+       Les firmes qui ont été déclarées entrepreneurs non admissibles par 
+       Ressources humaines et Développement des compétences Canada (RHDCC) 
+       n'ont plus le droit d'obtenir des contrats du gouvernement au-delà 
+       du seuil prévu par le <em>Règlement sur les marchés de l'État</em> pour les 
+       demandes de soumissions. Les firmes peuvent être déclarés 
+       entrepreneurs non admissibles soit parce que RHDCC a constaté leur 
+       non-conformité ou ils se sont retirés volontairement du PCF pour une 
+       raison autre que la réduction de leur effectif à moins de 100 
+       employés. Toute soumission présentée par un entrepreneur non 
+       admissible, y compris une soumission présentée par une coentreprise 
+       dont un membre est un entrepreneur non admissible, sera déclarée non 
+       recevable.
+
+2.     Si le soumissionnaire n'est pas visé par les exceptions énumérées 
+       aux paragraphes 3.a) ou b) ci-dessous, ou qu'il n'a pas de numéro 
+       d'attestation valide confirmant son adhésion au PCF, il doit 
+       télécopier (819-953-8768) un exemplaire signé du formulaire LAB 1168, 
+       Attestation d'engagement pour la mise en oeuvre de l'équité en 
+       matière d'emploi, à la Direction générale du travail de RHDCC.
+
+3.     Le soumissionnaire, ou, si le soumissionnaire est une coentreprise 
+       le membre de la coentreprise, atteste comme suit sa situation 
+       relativement au PCF :
+
+       Le soumissionnaire ou le membre de la coentreprise :
+
+       a)     (    ) n'est pas assujetti au PCF, puisqu'il compte un 
+                     effectif de moins de 100 employés à temps plein ou à 
+                     temps partiel permanent, ou des employés temporaires 
+                     ayant travaillé 12 semaines ou plus au Canada,
+
+       b)     (    ) n'est pas assujetti au PCF, puisqu'il est un employeur 
+                     réglementé en vertu de la Loi sur l'équité en matière 
+                     d'emploi, L.C. 1995, ch. 44;
+
+       c)     (    ) est assujetti aux exigences du PCF, puisqu'il compte 
+                     un effectif de 100 employés ou plus à temps plein ou à 
+                     temps partiel permanent, ou des employés temporaires 
+                     ayant travaillé 12 semaines ou plus au Canada, mais n'
+                     a pas obtenu de numéro d'attestation de RHDCC 
+                     puisqu'il n'a jamais soumissionné pour des contrats de 
+                     200 000 $ ou plus. Dans ce cas, une attestation 
+                     d'engagement dûment signée est jointe;
+
+       d)     (    ) est assujetti au PCF et possède un numéro 
+                     d'attestation valide, à savoir le numéro : __________ 
+                     (c.-à-d. qu'il n'a pas été déclaré entrepreneur non 
+                     admissible par RHDCC).
+
+       Pour plus de renseignements sur le PCF, visiter le site Web de RHDCC.
+
+<strong>IG12   (2007-05-25)  Assurances à souscrire</strong>
+
+Le proposant retenu devra souscrire en permanence à une assurance 
+responsabilité professionnelle et à une assurance responsabilité civile 
+générale, conformément aux exigences énoncées ailleurs dans les documents 
+de la DDP.
+
+<strong>IG13   (2003-05-30)  Exigences relatives à la sécurité industrielle et des 
+installations</strong>
+
+1.     Les proposants doivent prendre note des exigences relatives à la 
+       sécurité industrielle ou à la protection des installations, qui 
+       peuvent être stipulées dans les documents de la DDP et de l'entente, 
+       et doivent les respecter. Si on exige des cotes de sécurité 
+       industrielle ou de protection des installations, les employés et les 
+       membres du personnel du proposant, ainsi que les autres membres de 
+       l'équipe de l'expert-conseil participant à la réalisation du projet, 
+       devront être titulaires d'une cote de sécurité du personnel valable 
+       et pertinente, pouvant être exigée en vertu des clauses de la DDP, 
+       ou devront s'engager à faire l'objet d'une enquête pour se faire 
+       délivrer cette cote.
+
+2.     Si une cote de sécurité est exigée, chaque personne participant à la 
+       réalisation du projet doit en être titulaire avant le début des 
+       travaux.
+
+3.     Dans toutes les ententes contractuelles conclues avec des personnes 
+       qui doivent participer aux services à fournir, le proposant retenu 
+       devra prévoir des modalités pour s'acquitter des obligations qui 
+       peuvent lui être imposées en vertu des modalités de la présente 
+       clause.
+
+<strong>IG14   (2003-05-30)  Composition de l'équipe de l'expert-conseil</strong>
+
+En présentant une proposition, le proposant déclare et atteste que les 
+personnes morales et physiques proposées dans la proposition pour assurer 
+les services requis seront celles qui fourniront effectivement ces services 
+dans la réalisation du projet, dans le cadre de toute entente contractuelle 
+découlant de la présentation de la proposition. Si le proposant suggère, 
+pour réaliser le projet, une personne physique qui n'est pas à son service, 
+il déclare que cette dernière (ou son employeur) lui a donné par écrit 
+l'autorisation de proposer ses services dans le cadre du projet à réaliser.
+
+<strong>IG15   (2003-05-30)  Présentation des propositions</strong>
+
+1.     Il appartient au proposant :
+
+       a)     de présenter une proposition signée et dûment remplie, SELON 
+              LE MODÈLE DEMANDÉ, au plus tard à la date et à l'heure de 
+              clôture indiquées pour la présentation des propositions;
+
+       b)     d'acheminer la proposition UNIQUEMENT au bureau identifié sur 
+              la page couverture de la DDP pour la présentation des 
+              propositions;
+
+       c)     le proposant est requis de signée sa proposition conformément 
+aux exigences suivantes:
+
+              (i)    Société
+                     Les signataires autorisés doivent apposer leur 
+                     signature; leur nom et leur titre doivent être 
+                     inscrits en lettres moulées ou être imprimé.
+
+              (ii)   Associés
+                     Tous les associés doivent signer et leur nom doit être 
+                     inscrit en lettres moulées ou être imprimé. Si tous 
+                     les associés ne signent pas ou si le signataire n'est 
+                     pas un associé, il faut joindre, à la proposition, un 
+                     exemplaire certifié du règlement signé par tous les 
+                     associés autorisant cette personne ou ces personnes à 
+                     signer la proposition en leur nom.
+
+              (iii)  Propriétaire unique
+                     Le propriétaire unique doit signer, et son nom doit 
+                     être inscrit en lettres moulées ou être imprimé. Si le 
+                     signataire n'est pas le propriétaire unique, il faut 
+                     joindre à la proposition un exemplaire certifié du 
+                     règlement signé par le propriétaire unique autorisant 
+                     cette personne ou ces personnes à signer la 
+                     proposition.
+
+              (iv)   Consortium
+                     Les signataires autorisés de chaque membre du 
+                     consortium doivent signer, et leur nom et leur titre 
+                     doivent être imprimé ou inscrit en lettres moulées. 
+                     Chacun des signataires participants signe le document 
+                     de la façon qui correspond à ses modalités 
+                     particulières, qui sont décrites plus en détail dans 
+                     les alinéas (i) à (iii) ci-dessus.
+
+       d)     de veiller à indiquer clairement les renseignements suivants :
+
+              (i)    son nom et son adresse; 
+              (ii)   le nom du principal responsable à contacter dans son 
+entreprise;
+              (iii)  la désignation et le numéro de l'invitation;
+              (iv)   la date et l'heure de clôture fixées pour la 
+présentation des propositions;
+
+       e)     de présenter une proposition complète et suffisamment 
+              détaillée, permettant de faire une évaluation exhaustive 
+              conformément aux critères exprimés dans la présente DDP.
+
+2.     L'offre technique et l'offre de prix de la proposition doivent être 
+       présentées dans des enveloppes distinctes et faciles à reconnaître, 
+       conformément aux instructions reproduites dans les documents de la 
+       DDP. Les deux enveloppes doivent être présentées dans un seul colis, 
+       reproduisant clairement et en évidence les renseignements indiqués à 
+       l'alinéa 1.d) ci-dessus.
+
+3.     Le proposant est seul responsable de présenter dans les délais et en 
+       bonne et due forme la proposition auprès du bureau désigné pour la 
+       présentation des propositions. TPSGC n'assumera pas cette 
+       responsabilité, qui ne pourra pas lui être cédée non plus. Le 
+       proposant assume seul tous les risques et toutes les conséquences si 
+       la proposition n'est pas présentée dans les délais et en bonne et 
+       due forme.
+
+4.     On peut présenter les propositions et les pièces justificatives en 
+français ou en anglais.
+
+<strong>IG16   (2003-05-30)  Propositions présentées en retard</strong>
+
+Conformément à la politique de TPSGC, les propositions présentées après la 
+date et l'heure fixées pour la clôture de la DDP sont retournées à leur 
+expéditeur sans être décachetées.
+
+<strong>IG17   (2003-05-30)  Révision des propositions</strong>
+
+On pourra modifier les propositions présentées conformément à ces exigences, 
+à la condition que la proposition révisée parvienne au bureau désigné pour 
+la présentation des propositions au plus tard à la date et à l'heure fixées 
+pour la clôture de la DDP. La révision apportée à la proposition devra être 
+transmise sur le papier à en-tête du proposant ou porter une signature 
+l'identifiant. La révision doit également montrer clairement la (les) 
+modification(s) à la proposition originelle. La révision doit également 
+inclure les renseignements exigés à l'alinéa 1.d) de l'article IG15.
+
+<strong>IG18   (2003-05-30)  Acceptation des propositions</strong>
+
+1.     Le Canada pourra accepter l'une quelconque des propositions 
+       présentées ou pourra rejeter n'importe laquelle ou la totalité des 
+       propositions.
+
+2.     En cas d'erreur dans la multiplication ou l'addition des prix, le 
+prix unitaire sera prépondérant.
+
+3.     Bien qu'il puisse conclure une entente ou une convention 
+       contractuelle sans négociation au préalable, le Canada se réserve le 
+       droit de négocier un marché avec les soumissionnaires.
+
+<strong>IG19   (2003-05-30)  Identité ou capacité juridique du proposant</strong>
+
+Afin d'établir la capacité juridique grâce à laquelle il pourra conclure 
+une entente contractuelle, le proposant qui exerce ses activités autrement 
+qu'en son nom personnel devra, sur demande, avant l'attribution du marché, 
+fournir la preuve de la capacité juridique lui permettant d'exercer ses 
+activités à titre d'entreprise. Cette preuve pourra se présenter entre 
+autre sous la forme d'une copie de la convention constitutive ou de la 
+déclaration d'enregistrement de la raison ou de la dénomination sociale 
+d'une entreprise à propriétaire unique, d'une appellation de commerce ou 
+d'une société de personnes, entre autres.
+
+<strong>IG20   (2003-05-30)  Séance d'explications</strong>
+
+On ne donnera d'explications à un proposant que sur demande, seulement 
+lorsque TPSGC aura conclu une entente contractuelle avec le proposant 
+retenu. Si un proposant souhaite obtenir une séance d'explications, le 
+proposant devra contacter la personne dont le nom figure sur la page 
+couverture de la Demande de propositions. Les explications fournies 
+comprendront un exposé des motifs pour lesquels on n'a pas retenu la 
+proposition, en rappelant les critères d'évaluation. On protégera le 
+caractère confidentiel de l'information se rapportant aux autres 
+propositions.
+
+<strong>IG21   (2003-05-30)  États financiers</strong>
+
+1.     Afin de s'assurer que le proposant a la capacité financière requise 
+       pour s'acquitter des travaux demandés, l'autorité contractante se 
+       réserve le droit de consulter, au cours de la période d'évaluation 
+       de la proposition, les plus récentes données sur la situation 
+       financière du proposant. L'information financière qui devra être 
+       fournie sur demande inclut, sans toutefois s'y limiter, les plus 
+       récents états financiers vérifiés du proposant ou les plus récents 
+       états financiers certifiés par son agent financier principal.
+
+2.     Si le proposant fournit au Canada, à titre confidentiel, les 
+       informations demandées et l'informe de la confidentialité des 
+       documents divulgués, le Canada doit traiter ces documents de façon 
+       confidentielle, suivant les dispositions de la <em>Loi sur l'accès à 
+       l'information</em>.
+
+3.     S'il advenait qu'une proposition soit jugée irrecevable parce qu'il 
+       aura été déterminé que le proposant n'a PAS la capacité financière 
+       requise pour s'acquitter des travaux demandés, un avis officiel à 
+       cet effet lui sera transmis.
+
+<strong>IG22   (2010-01-11)  Évaluation du rendement</strong>
+
+Les proposants doivent prendre note que le rendement de l'expert-conseil 
+pendant et après la prestation des services sera évalué par le Canada.  
+L'évaluation sera basée sur les critères suivants : conception, qualité des 
+résultats, gestion, délai et coûts. Si le rendement de l'expert-conseil est 
+jugé insatisfaisant, celui-ci pourrait se voir refuser des contrats 
+immobiliers dans le futur. Le formulaire PWGSC-TPSGC 2913-1, SELECT - 
+Formulaire du rapport d'évaluation du rendement de l'expert-conseil, est 
+utilisé pour évaluer le rendement.
+
+
+
+</pre>
+</div>

@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>À moins d'une autorisation de l'équipe responsable de la gestion des biens et 
+des services responsable, utiliser la clause suivante dans les arrangements en 
+matière d'approvisionnement lorsque plus d'un ministère est indiqué comme 
+utilisateur de l'arrangement en matière d'approvisionnement.  Le responsable de 
+l'arrangement en matière d'approvisionnement doit annexer une liste des données 
+dont le fournisseur doit rendre compte à l'arrangement en matière 
+d'approvisionnement.  Le Bureau de gestion de la valeur, Secteur du 
+renouvellement des approvisionnements, demande, à tout le moins, les éléments de 
+données qui sont décrits dans le rapport sur le volume des transactions 
+disponible à l'Index des offres à commandes (http/soi.pwgsc.gc.ca).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le fournisseur doit compiler et tenir à jour des données sur l'utilisation 
+des biens ou des services fournis au gouvernement fédéral dans le cadre de 
+contrats découlant de l'arrangement en matière d'approvisionnement.  Ces 
+données doivent comprendre les achats commandés, y compris les achats payés 
+à l'aide d'une carte d'achat du gouvernement du Canada.  À chaque trimestre, 
+le fournisseur doit rassembler ces données et les soumettre au responsable 
+de l'arrangement en matière d'approvisionnement de Travaux publics et 
+Services gouvernementaux Canada (TPSGC).  Les données doivent inclure les 
+données indiquées à l'annexe « ______ ».
+
+Les trimestres se répartissent comme suit : 
+
+Premier trimestre : du 1er avril au 30 juin;
+Deuxième trimestre : du 1er juillet au 30 septembre;
+Troisième trimestre : du 1er octobre au 31 décembre;
+Quatrième trimestre : du 1er janvier au 31 mars.
+
+Le fournisseur doit présenter son rapport trimestriel au plus tard le 
+dernier vendredi du troisième mois civil du trimestre.  Les biens ou les 
+services fournis pendant la période suivant cette journée doivent être 
+inclus dans le rapport du prochain trimestre.  Les rapports électroniques 
+doivent être remplis et remis au responsable de l'arrangement en matière 
+d'approvisionnement de TPSGC au plus tard 15 jours civils après la fin du 
+trimestre.
+
+Tous les champs de données du rapport doivent être remplis tel que demandé.  
+Si certaines données ne sont pas disponibles, le fournisseur doit en 
+indiquer la raison.  Si aucun service n'a été fourni pendant un mois donné, 
+le fournisseur doit soumettre un rapport portant la mention « NÉANT ».
+
+Le fait de ne pas fournir les rapports trimestriels dûment remplis dans les 
+délais prescrits pourrait entraîner le retrait du Canada de l'arrangement 
+en matière d'approvisionnement, le retrait du fournisseur de la liste de 
+fournisseurs ainsi que l'application d'une mesure corrective du rendement 
+du fournisseur.
+
+</pre>
+</div>

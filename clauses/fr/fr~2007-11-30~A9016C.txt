@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats qui incluent des exigences 
+spécifiques, lorsque des travaux sont exécutés dans des établissements du 
+gouvernement, pour que l'entrepreneur élimine les déchets dangereux qui peuvent 
+être enlevés ou se trouventr à découvert sur le site.
+
+Utiliser la clause A9019C lorsque le contrat n'inclut pas d'exigences 
+spécifiques pour l'élimination des déchets dangereux mais l'entrepreneur doit 
+quand même se conformer à toute loi applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit éliminer tous les déchets dangereux enlevés ou laissés 
+à découvert durant l'exécution des travaux conformément aux exigences du 
+contrat et à toute loi applicable.
+
+
+
+</pre>
+</div>

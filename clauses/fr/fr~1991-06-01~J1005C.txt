@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser le texte suivant lors de la préparation d'une Résiliation partielle 
+pour inexécution, seulement après avoir obtenu un avis légal en ce sens ou que 
+l'approbation d'un conseiller légal a été obtenue, lorsque l'entrepreneur 
+indique qu'il ne peut pas ou ne veut pas exécuter une partie du contrat. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La présente fait suite à votre télex/fac-similé/lettre du _____ adressé(e) 
+à _____ .
+
+Comme vous avez indiqué que vous ne vouliez pas ou ne pouviez pas livrer 
+certains articles décrits dans le Contrat précité, conformément aux devis 
+et conditions du Contrat, et suivant les dispositions relatives à 
+l'inexécution figurant aux Conditions générales faisant partie intégrante 
+du Contrat, le Ministre des Approvisionnements et Services résilie en 
+partie, par la présente, le Contrat pour les articles suivants :
+
+                          (Description des articles)
+
+Vous devrez poursuivre le reste des Travaux conformément aux devis et 
+conditions du Contrat.
+
+Le Ministre se réserve le droit, au nom de Sa Majesté, et en vertu du 
+   Contrat, de vous imputer toutes les pertes et dommages que pourrait 
+   subir Sa Majesté en raison de votre inexécution, y compris tout montant 
+   dépassant le Prix contractuel que Sa Majesté serait obligée de payer 
+   pour se procurer ailleurs lesdits articles. 
+</pre>
+</div>

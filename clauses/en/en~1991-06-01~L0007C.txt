@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in cost reimbursable contracts where Canada owns and 
+provides special production tooling.  Enter fill-in data.     
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada shall provide the special production tooling (hereinafter 
+       referred to as "the tooling") required to perform the Work under 
+       this Contract as listed in the Schedule attached.
+
+2.     Title to the tooling shall remain vested in Canada and title to any 
+       replacement thereof shall vest in Canada.
+
+3.     The Contractor shall give written notice to _____ at least sixty (60) 
+   days before the date when the tooling will no longer be required for use 
+   in the performance of any contract with Canada. If no disposal 
+   instructions are received from the Minister, the Contractor shall act as 
+   custodian of the tooling at no direct cost to Canada for a period of _____ 
+   days from the Contract completion date. If inhibiting, packaging and 
+   crating charges are involved, these will be the subject of a new 
+   contract with this Department.
+</pre>
+</div>

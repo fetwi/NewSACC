@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in marine contracts when scrap and waste materials 
+other than accountable material will be owned by the contractor.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Despite the provisions of section 09 of general conditions 1026A, scrap and 
+waste materials other than accountable material, derived from the Contract, 
+will revert to the Contractor as part of the Contract Price.
+
+
+</pre>
+</div>

@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le coût total imputable à Sa Majesté par suite de commandes subséquentes à 
+la présente offre permanente ne doit pas, sauf autorisation contraire 
+donnée par écrit par le ministre, dépasser la somme de _____. L'Offreur 
+n'est pas tenu d'exécuter un travail ni de fournir un service ou des 
+articles par suite de commandes, si cela entraîne un dépassement des 
+dépenses globales imputables à Sa Majesté en vertu de la présente offre 
+permanente. Lorsque l'Offreur estime qu'il peut y avoir dépassement dudit 
+montant, il doit en aviser promptement le ministère des Approvisionnements 
+et Services, à Hull (Québec) K1A OS5, à l'attention de la Section "__", 
+pour que le ministre puisse, s'il le juge opportun, autoriser une 
+augmentation du montant.
+
+</pre>
+</div>

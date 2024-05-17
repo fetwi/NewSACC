@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Agence des douanes et du revenu du Canada (Impôt) est autorisé à 
+réacheminer les marchandises d'une destination à une autre, pendant la 
+durée du contrat.  Le prix FOB atelier peut être utilisé advenant la 
+nécessité de réacheminer les livraisons vers une autre destination.  Les 
+nouveaux frais de transport (s'ils impliquent une augmentation occasionnée 
+par un changement de destination) devront être soumis à la Direction de la 
+gestion des transports du ministère des Travaux publics et des Services 
+gouvernementaux.  Il est obligatoire que ces frais (que ce soit une 
+augmentation ou une diminution) soient approuvés par l'autorité 
+contractante avant que la réexpédition ait lieu.  Advenant l'omission 
+d'obtenir cette approbation avant la réexpédition, cela impliquera le 
+non-paiement de toute augmentation de coût.
+
+
+</pre>
+</div>

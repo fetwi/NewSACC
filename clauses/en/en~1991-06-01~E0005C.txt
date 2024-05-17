@@ -1,0 +1,113 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts which provide for a security deposit as 
+contract financial security.  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.  In this clause,
+
+       "completion of warranty period" means the later of the date upon 
+       which the warranty period expires by the passage of time or the date 
+       upon which the obligations of the Contractor related to the warranty 
+       provisions of the Contract have been fulfilled;
+
+       "security deposit" means
+
+       (a)  a bill of exchange
+
+              (1)  that is payable to the Receiver General for Canada, and
+
+              (2)  that is certified by an approved financial institution 
+              or drawn by an approved financial institution on itself; or
+
+       (b)  a Government guaranteed bond; or
+
+       (c)  such other security as may be deemed appropriate by the 
+       contracting authority (DSS) and approved by the Treasury Board;
+
+       "approved financial institution" means
+
+       (a)  any corporation or institution that is a member of the Canadian 
+       Payments Association;
+
+       (b)  a corporation that accepts deposits that are insured by the 
+       Canada Deposit Insurance Corporation or the Régie de 
+       l'assurance-dépôts du Québec to the maximum permitted by law;
+
+       (c)  a credit union as defined in paragraph 137 (6)(b) of the Income 
+       Tax Act; or
+
+       (d)  a corporation that accepts deposits from the public, if 
+       repayment of the deposits is guaranteed by Her Majesty in right of a 
+       province.
+
+       "Government guaranteed bond" means a bond of the Government of 
+       Canada or a bond unconditionally guaranteed as to principal and 
+       interest by the Government of Canada that is
+
+       (a)  payable to bearer; or
+
+       (b)  accompanied by a duly executed instrument of transfer of the 
+       bond to the Receiver General for Canada in accordance with the 
+       Domestic Bonds of Canada Regulations; or
+
+       (c)  registered in the name of the Receiver General for Canada. 
+2.     (a) The Contractor shall deposit with the Minister a security 
+       deposit in the amount of $ _____ within _____ days of the Contract 
+       date.  If, for any reason, the Minister does not receive, within the 
+       specified period, the Contract executed by the Contractor and the 
+       security deposit in the amount set out above, the Minister may 
+       retain the bid security provided and may accept any offer, seek new 
+       bids, negotiate a contract or not accept any bids as the Minister 
+       may deem advisable.
+
+       (b)  If the security deposit is in the form of a coupon bond, the 
+       bond shall have attached thereto all coupons that are unmatured at 
+       the time the security deposit is given.  The Minister may, from time 
+       to time, detach matured coupons and send them to the Contractor at 
+       the address provided for by this agreement for the sending of 
+       notices, unless advised otherwise by the Contractor.
+
+       (c)  If the security deposit is in the form of a bill of exchange, 
+       the Minister shall deposit it in an open account in the Consolidated 
+       Revenue Fund.  Security deposits in the form of the bills of 
+       exchange that are deposited to the credit of the Consolidated 
+       Revenue Fund shall bear simple interest, calculated on the basis of 
+       the rates which are in effect during the period that the deposit is 
+       held.  These rates are published monthly by the Department of 
+       Finance and are set to be equal to the average yield on 90-day 
+       Treasury Bills less 1/8 of 1 percent.  Interest shall be paid 
+       annually or when the security deposit is returned to the Contractor, 
+       if earlier.  A Contractor may, however, request the Minister to hold 
+       and not cash the bill of exchange, in which case no interest will 
+       become payable.
+
+3.  The Minister may convert the security deposit to the use of Canada if 
+any circumstance exists which would entitle the Minister to terminate the 
+Contract for default, but any such conversion shall not constitute 
+termination.
+
+4.  Where the Minister so converts the security deposit:
+
+       (a)  the proceeds thereof shall be used to complete the Work 
+       according to the terms of the Contract to the nearest extent that it 
+       is feasible to do so and any balance left thereafter shall be 
+       returned to the Contractor on completion of the warranty period; and
+
+       (b)  if the Minister enters into an agreement outside the Contract 
+       to have the Work completed, the Contractor shall:
+
+              (1)  be deemed to have irrevocably abandoned the Work; and
+
+              (2)  remain liable for the excess cost of completing the Work 
+              if the amount of the security deposit is not sufficient for 
+              such purpose.  ("Excess cost" means any amount over and above 
+              the amount of the Contract Price remaining unpaid together 
+              with the amount of the security deposit.)
+
+5.  If the Minister does not convert the security deposit to the use of 
+   Canada prior to the date of completion of the warranty period, the 
+   Minister shall return the security deposit to the Contractor within a 
+   reasonable time after such date. 
+</pre>
+</div>

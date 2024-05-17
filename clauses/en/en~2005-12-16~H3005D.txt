@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when milestone payments are to be made in accordance 
+with a predetermined Schedule of Milestones.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Milestone payments shall be made in accordance with the Schedule of 
+       Milestones attached as Annex "______", upon the following terms and 
+       conditions:
+
+       (a)    milestone claims shall be completed in full, on form 
+              PWGSC-TPSGC 1111, Claim for Progress Payment, (<strong>http://www.pwgsc.gc.ca
+              /acquisitions/text/forms/forms-e</strong><strong></strong>
+<strong>.html</strong>) and submitted to Canada in accordance with the invoicing 
+instructions specified herein;
+
+       (b)    all the certificates appearing on the said form are to be 
+              signed by the respective persons indicated thereon or their 
+              delegate; and
+
+       (c)    all deliverables required for the milestone claimed have been 
+              received and accepted by the ________ Authority.
+
+2.     Each claim must show the following:
+
+       (a)    amount currently claimed;
+
+       (b)    total of all previous claims against the Contract and the 
+              extension of the totals to date; and
+
+       (c)    Contract Number, Financial Codes and Client Reference Number 
+              as shown on page 1 of the Contract.
+
+3.     The Contractor shall prepare and certify an original and _____ 
+       copies of its claim on form PWGSC-TPSGC 1111 and forward it to the _____ 
+       Authority.
+
+4.     The balance owing shall be paid to the Contractor, subject to:
+
+       (a)    delivery and acceptance of all deliverables; and 
+
+       (b)    the certification of the final claim by the Contracting 
+              Authority and the _______ Authority.
+
+5.     Payment by Canada to the Contractor for the Work shall be made:
+
+       (a)    in the case of a milestone payment other than the final 
+              payment, within thirty (30) days following the date of 
+              receipt of a duly completed form PWGSC-TPSGC 1111;
+
+       (b)    in the case of a final payment, within thirty (30) days 
+              following the date of receipt of the duly completed form 
+              PWGSC-TPSGC 1111, or within thirty (30) days following the 
+              date on which the Work is completed, whichever date is the 
+              later.
+
+6.     If Canada has any objection to the form of the milestone claim, 
+       within fifteen (15) days of its receipt, Canada shall notify the 
+       Contractor of the nature of the objection.  "Form of the claim" 
+       means a claim that contains or is accompanied by such substantiating 
+       documentation as Canada requires.  Failure by Canada to act within 
+       fifteen (15) days will only result in the date specified in 
+       subsection 5 of the clause to apply for the sole purpose of 
+       calculating interest on overdue accounts.
+
+</pre>
+</div>

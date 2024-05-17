@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La clause suivante doit être incluse lorsque le Canada loue des véhicules à long 
+terme.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur ne doit pas assurer les risques que comporte pour le Canada 
+l'utilisation ou l'exploitation de tout véhicule loué à <strong>long terme</strong> par le 
+Canada, <strong>sauf si </strong>des lois provinciales obligent tout locateur à assurer tout 
+véhicule loué et dans ce cas l'entrepreneur aura souscrit une police 
+d'assurance pour le véhicule ainsi loué. Une copie de la police ou une 
+preuve d'assurance doit être fournie au Canada.
+
+</pre>
+</div>

@@ -1,0 +1,95 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause lorsque des paiements d'étape fermes doivent être 
+effectués conformément à un calendrier d'étapes pré-établi.  Elle peut également 
+être utilisée avec la formule H4003C lorsqu'il faut produire des rapports 
+d'étape.  Voici la marche à suivre pour acheminer la formule PWGSC-TPSGC 1111-1, 
+Réclamation de paiement partiel :
+
+a)	L'entrepreneur remplit la formule PWGSC-TPSGC 1111-1 et la fait parvenir au 
+ministère client (responsable technique ou auteur de la demande d'achat) qui 
+atteste sur la formule que le travail a été réalisé de façon satisfaisante et il 
+l'envoie à l'agent de négociation des contrats de TPSGC.
+
+b)	L'agent de négociation des contrats vérifie les renseignements figurant sur 
+la formule PWGSC-TPSGC 1111-1 et confirme qu'ils sont complets et exacts et 
+renvoie la formule au ministère client (responsable technique ou auteur de la 
+demande d'achat).
+
+c)	Le ministère client vérifie également les renseignements inscrits sur la 
+formule PWGSC-TPSGC 1111-1 et confirme qu'ils sont complets et exacts et fait 
+parvenir la formule au responsable des paiements (au ministère client) qui paie 
+l'entrepreneur.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Des paiements d'étape seront versés conformément au calendrier 
+       d'étapes pré-établi joint à l'annexe « _____ », à condition que :
+
+       a)     les demandes de paiement d'étape soient remplies en utilisant 
+              la formule PWGSC-TPSGC 1111-1, « Réclamation de paiement 
+              partiel », et présentées au Canada conformément aux 
+              instructions du présent document.  (Une version anglaise 
+              intitulée « Claim for Progress Payment »,PWGSC-TPSGC 1111, 
+              est également disponible.)
+
+       b)     toutes les attestations demandées sur la formule soient 
+              signées par les personnes indiquées ou leurs délégués;
+
+       c)     le responsable technique ait reçu et accepté tous les 
+              rapports nécessaires à la demande de paiement d'étape.
+
+2.     La demande doit indiquer les renseignements suivants :
+
+       a)     le montant actuellement demandé;
+
+       b)     le montant total de toutes les demandes précédentes en 
+              fonction du montant du contrat et de toutes les hausses du 
+              montant total convenues jusqu'à maintenant;
+
+       c)     le numéro de la demande, le code financier et le numéro de 
+              contrat tels qu'ils figurent à la page 1 du présent contrat.
+
+3.     Chaque demande de paiement d'étape doit être accompagnée d'un 
+       rapport d'étape, s'il y a lieu.
+
+4.     L'entrepreneur doit rédiger et certifier un original et _____ copies 
+       de la formule PWGSC-TPSGC 1111-1 (PWGSC-TPSGC 1111) et l'envoyer au 
+       responsable technique ou à l'auteur de la demande d'achat, selon le 
+       cas.
+
+5.     Le dernier montant payable sera versé suivant :
+
+       a)     la livraison et l'acceptation de toutes les fournitures;
+
+       b)     l'approbation de la demande de paiement final par l'autorité 
+              contractante et le responsable technique.
+
+6.     Les paiements par Canada à l'entrepreneur pour les travaux réalisés 
+       seront faits comme suit :
+
+       a)     dans le cas d'un paiement d'étape autre que le paiement final, 
+              dans les trente (30) jours suivant la date de réception d'une 
+              demande de paiement d'étape dûment remplie sur la formule 
+              PWGSC-TPSGC 1111-1 (PWGSC-
+TPSGC 1111);
+
+       b)     dans le cas d'un paiement final, dans les trente (30) jours 
+              suivant la date de réception de la demande finale d'un 
+              paiement d'étape remplie sur la formule PWGSC-TPSGC 1111-1 
+              (PWGSC-TPSGC 1111), ou dans les trente (30) jours suivant la 
+              date à laquelle le travail est achevé, le délai le plus long 
+              étant retenu;
+
+       c)     si le Canada a une quelconque objection quant au contenu de 
+              la demande de paiement d'étape, le Canada devra, dans les 
+              quinze (15) jours de sa réception, aviser l'entrepreneur de 
+              la nature de son objection.  Le « contenu de la demande » 
+              signifie une demande de paiement accompagnée des documents 
+              d'appui exigés par le Canada. Si le Canada n'agit pas dans 
+              les quinze (15) jours, il n'y aura qu'une seule conséquence : 
+              la date précisée aux paragraphes 6 a) et b) de la présente 
+              clause ne s'appliquera qu'aux seules fins de calculer 
+              l'intérêt sur les comptes en souffrance.
+
+</pre>
+</div>

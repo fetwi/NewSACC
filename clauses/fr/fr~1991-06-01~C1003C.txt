@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats scientifiques lorsque, en raison 
+d'une situation d'urgence, le travail doit commencer avant que le prix final ou 
+que la base de paiement n'ait été définitivement arrêté. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le prix des Travaux doit être négocié conformément aux Principes des coûts 
+   contractuels, DSS-MAS 1031-2, et l'Entrepreneur doit entreprendre de 
+   telles négociations dès qu'il lui est raisonnablement pratique de le 
+   faire et, dans tous les cas, avant d'avoir achevé les Travaux. 
+</pre>
+</div>

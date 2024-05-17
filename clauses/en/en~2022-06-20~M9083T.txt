@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for standing offers when an offerors' conference will be held.
+ </p>
+<p>
+  Select Option 1 when no security requirement is associated with the offerors’ conference.
+ </p>
+<p>
+  Select Option 2 when personnel security screening is required prior to gaining authorized access to PROTECTED information, assets, or sites or CLASSIFIED information, assets or sites.
+ </p>
+<p>
+  Consult section
+  
+   3.115 Bidders' Conferences
+  
+  of the
+  <em>
+   Supply Manual
+  </em>
+  for more information.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p><kbd><em><strong>Instruction to standing offer authorities:</strong> complete and insert one of the following options:</em></kbd></p>
+<h2>Option 1</h2>
+<p>An offerors' conference will be held at <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert address</em>)</kbd></span> on <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert date [<abbr title="for example">e.g.</abbr> 17 March 2014]</em>)</kbd></span>. The conference will begin at <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert time [<abbr title="for example">e.g.</abbr> 14:00 <abbr title="Eastern Standard Time">EST</abbr> or <abbr title="Eastern Daylight Time">EDT</abbr>]</em>)</kbd></span>, in <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert location/room number</em>)</kbd></span>. The scope of the requirement outlined in the Request for Standing Offers (RFSO) will be reviewed during the conference and questions will be answered. It is recommended that Offerors who intend to submit an offer attend or send a representative.</p>
+<p>Offerors are requested to communicate with the Standing Offer Authority before the conference to confirm attendance. Offerors should provide, in writing, to the standing Offer Authority, the name(s) of the person(s) who will be attending and a list of issues they wish to table no later than <span class="input-required"><var>_____</var><kbd>(<em>insert date and time</em>)</kbd></span>. Any clarifications or changes to the <abbr title="Request for Standing Offer">RFSO</abbr> resulting from the Offerors' conference will be included as an amendment to the <abbr title="Request for Standing Offer">RFSO</abbr>. Offerors who do not attend will not be precluded from submitting an offer.</p>
+<p>Any clarifications or changes to the <abbr title="Request for Standing Offer">RFSO</abbr> resulting from the Offerors' conference will be included as an amendment to the <abbr title="Request for Standing Offer">RFSO</abbr>. Offerors who do not attend will not be precluded from submitting an offer.
+</p>
+<h2>Option 2</h2>
+<p>An offerors' conference will be held at <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert address</em>)</kbd></span> on <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert date [<abbr title="for example">e.g.</abbr> 17 March 2014]</em>)</kbd></span>. The conference will begin at <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert time [<abbr title="for example">e.g.</abbr> 14:00 <abbr title="Eastern Standard Time">EST</abbr> or <abbr title="Eastern Daylight Time">EDT</abbr>]</em>)</kbd></span>, in <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert location/room number</em>)</kbd></span>. The scope of the requirement outlined in the Request for Standing Offers (RFSO) will be reviewed during the conference and questions will be answered. It is recommended that Offerors who intend to submit an offer attend or send a representative.</p>
+<p>Personnel security screening is required prior to gaining authorized access to <span class="input-required"><var>__________________________________</var> <kbd>(<em>insert PROTECTED information, assets, or sites or CLASSIFIED information, assets or sites</em>)</kbd></span>. Offerors are requested to communicate with the Standing Offer Authority before the conference to confirm attendance. Offerors should provide, in writing, to the Standing Offer Authority, the name(s) of the person(s) who will be attending and a list of issues they wish to table no later than <span class="input-required"><var>__________________________________</var><kbd>(<em>insert date and time</em>)</kbd></span>. The Offeror’s Company Security Officer (CSO) must ensure that their representatives hold a valid security clearance at the required level for the Offerors’ conference. Failure to comply with the security requirements will result in the representatives being denied access to the Offerors’ conference.</p>
+<p>Any clarifications or changes to the <abbr title="Request for Standing Offer">RFSO</abbr> resulting from the Offerors' conference will be included as an amendment to the <abbr title="Request for Standing Offer">RFSO</abbr>. Offerors who do not attend will not be precluded from submitting an offer.
+</p>
+</div></pre>
+</div>

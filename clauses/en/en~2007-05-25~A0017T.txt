@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when public bid openings will be held. Contracting officers are to insert the location, time and date for the public bid opening.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>A public bid opening will be held in <span class="input-required"><var>________</var> <kbd>(<em>Insert the
+location</em>)</kbd></span> at <span class="input-required"><var>_________</var> <kbd>(<em>Insert the time and time
+zone</em>)</kbd></span> on <span class="input-required"><var>___________</var> <kbd>(<em>Insert the
+date</em>)</kbd></span>.</p>
+</div></pre>
+</div>

@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when institutions listed in Schedule I, 
+I.1 and II of the Financial Administration Act must comply with the Treasury 
+Board (TB) policy on Common Look and Feel (CLF) Standards for the Internet.
+
+CLF Standards offer a consistent and predictable presentation of government 
+services and content, which facilitate effective online interaction between the 
+Government of Canada and Canadians.  CLF provides standards on web addresses, 
+common web page formats, e-mail, accessibility, interoperability and usability 
+of websites.
+
+CLF Standards are revised periodically by TB; the most recent version of the may 
+be found at the following address: http://www.tbs-sct.gc.ca/cio-dpi/pols_e.asp.
+
+Any contract for electronic goods or services that are related to public facing 
+websites or sub-sites and public facing web applications of the Government of 
+Canada, performed for a department or agency that is an institution listed in 
+the above mentioned schedules of the Act, should contain a clause referring the 
+contractor to the obligation of complying with the most recent version of the 
+CLF Standards.
+
+CLF Standards may also be complemented by standards and guidelines developed by 
+institutions.  It is therefore necessary to refer to those standards and 
+guidelines as well.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Work must comply with the standards established in the Treasury Board 
+(TB) policy on Common Look and Feel (CLF) Standards for the Internet, which 
+are found at the following address: http://www.tbs-sct.gc.ca/cio-dpi/pols_e.asp.
+
+The Work must also comply with the standards and guidelines that may be 
+developed by the department or agency for whom the Work is being performed 
+and which are a complement of the above mentioned TB policy.  Such 
+standards and guidelines are available from the department's or agency's 
+CLF Centre of Expertise.  For Public Works and Government Services Canada, 
+contact the Web Planning and Standards Centre of Expertise at: 
+PlanificationWeb-WebPlanning@pwgsc.gc.ca.
+
+
+</pre>
+</div>

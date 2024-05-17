@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Bien que la livraison soit demandée pour le ________, la meilleure date de 
+livraison qui peut être offerte est le _______.
+
+<strong>Remarque</strong> :    La date de livraison sera une condition essentielle dans tout 
+              contrat subséquent.  Se référer à l'article 11 des conditions 
+              générales 9601.
+
+
+</pre>
+</div>

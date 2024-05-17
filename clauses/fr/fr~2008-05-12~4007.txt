@@ -1,0 +1,235 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser les conditions générales supplémentaires suivantes dans les contrats 
+pour les biens ou les services lorsqu'il y a un élément de propriété 
+intellectuelle et que le Canada détiendra les droits de propriété intellectuelle 
+sur les renseignements originaux.
+
+Utiliser ces conditions générales supplémentaires en conjonction avec l'une des 
+conditions générales suivantes : 1026A, 1026B, 2010A, 2010B, 2030, 2035 ou 2040, 
+et avec les conditions générales supplémentaires 4001, 4002, et(ou) 4003, selon 
+le cas.  Ne pas utiliser avec les conditions générales 2029 et 2010C.
+
+Lorsqu'utilisées avec 2040, la clause K3410C doit être insérée dans le contrat 
+pour modifier les conditions générales.
+
+Lorsque plusieurs conditions générales supplémentaires sont utilisées, les 
+agents de négociation des contrats doivent énumérer dans la clause d'ordre de 
+priorité des documents les conditions générales supplémentaires en ordre 
+numérique croissant selon le numéro d'identification.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Dossiers et divulgation des renseignements originaux
+03     Droits de propriété intellectuelle sur les renseignements originaux
+04     Licence concernant les droits de propriété intellectuelle sur les 
+renseignements de base
+05     Droits de l'entrepreneur d'accorder des licences
+06     Renonciation aux droits moraux
+
+
+<strong>4007   01     (2008-05-12)  Interprétation</strong><strong></strong>
+
+1.     Dans le contrat, à moins que le contexte n'indique un sens différent :
+
+       « conditions générales » désigne les conditions générales qui font 
+       partie du contrat;
+
+       « droit de propriété intellectuelle » désigne tout droit de 
+       propriété intellectuelle reconnu par la loi, incluant tout droit de 
+       propriété intellectuelle protégé par la loi, telles les lois qui 
+       régissent les brevets, les droits d'auteur, les dessins industriels, 
+       les topographies de circuits intégrés et les droits d'obtentions 
+       végétales, ou faisant l'objet d'une protection en vertu de la loi, 
+       comme les secrets industriels ou les renseignements confidentiels;
+
+       « logiciel » désigne tout programme informatique, en code source ou 
+       en code objet (incluant les micrologiciels), toute documentation des 
+       programmes informatiques enregistrée sous quelque forme ou sur 
+       quelque support que ce soit, et toute base de données informatisées, 
+       et incluant toute modification;
+
+       « micrologiciel » désigne tout programme informatique entreposé dans 
+       des circuits intégrés, la mémoire fixe ou tout autre dispositif 
+       semblable faisant partie du matériel ou autre équipement;
+
+       « propriété intellectuelle » désigne toute information ou 
+       connaissance de nature industrielle, scientifique, technique, 
+       commerciale, littéraire, dramatique, artistique ou qui touche la 
+       créativité dans le cadre des travaux, qu'elle soit communiquée 
+       oralement ou enregistrée sous toute forme ou sur tout support, sans 
+       égard à ce qu'elle fasse ou non l'objet de droits d'auteur; cela 
+       comprend, sans s'y limiter, les inventions, les concepts, les 
+       méthodes, les processus, les techniques, le savoir-faire, les 
+       démonstrations, les modèles, les prototypes, les maquettes, les 
+       échantillons, les schémas, les données provenant d'expériences ou 
+       d'essais, les rapports, les dessins, les plans, les spécifications, 
+       les photographies, les manuels et tout autre document, les logiciels 
+       et les micrologiciels;
+
+       « renseignements de base » désigne toute propriété intellectuelle 
+       autre que les renseignements originaux qui est incorporée dans les 
+       travaux ou nécessaire à l'exécution des travaux, qu'elle soit la 
+       propriété de l'entrepreneur ou d'un tiers;
+
+       « renseignements originaux » désigne toute propriété intellectuelle 
+       conçue, développée, produite ou mise en application pour la première 
+       fois dans le cadre des travaux prévus au contrat.
+
+2.     Les mots et expressions définis dans les conditions générales et 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales.  En cas de 
+       divergence entre les conditions générales et les présentes 
+       conditions générales supplémentaires, les dispositions pertinentes 
+       des présentes conditions générales supplémentaires l'emporteront.
+
+3.     Si les conditions générales supplémentaires 4001 et 4003 sont 
+       également incorporées par renvoi dans le contrat, les dispositions 
+       de ces conditions générales supplémentaires concernant les droits de 
+       propriété intellectuelle prévaudront dans le contexte de ces 
+       conditions générales supplémentaires.
+
+<strong>4007   02     (2008-05-12)  Dossiers et divulgation des renseignements 
+originaux</strong><strong></strong>
+
+1.     Durant et après la période d'exécution du contrat, l'entrepreneur 
+       doit conserver des dossiers détaillés sur les renseignements 
+       originaux, incluant les données portant sur leur création. 
+       L'entrepreneur doit signaler et divulguer pleinement au Canada 
+       l'ensemble des renseignements originaux tel que le contrat l'exige.  
+       Si le contrat ne prévoit pas spécifiquement quand et comment 
+       l'entrepreneur doit le faire, l'entrepreneur doit fournir ces 
+       renseignements dès que l'autorité contractante en fait la demande, 
+       que ce soit avant ou après l'exécution du contrat.
+
+2.     Avant ou après que le dernier paiement soit versé à l'entrepreneur, 
+       ce dernier doit donner au Canada l'accès à l'ensemble des dossiers 
+       et des données à l'appui que le Canada considère pertinents pour 
+       permettre l'identification des renseignements originaux.
+
+3.     Pour toute propriété intellectuelle élaborée ou créée dans le cadre 
+       des travaux, le Canada pourra présumer que celle-ci a été élaborée 
+       ou créée par le Canada, si les dossiers de l'entrepreneur 
+       n'indiquent pas que cette propriété intellectuelle a été créée par 
+       l'entrepreneur, ou par quiconque au nom de l'entrepreneur, à 
+       l'exception du Canada.
+
+<strong>4007   03     (2008-05-12)  Droits de propriété intellectuelle sur les 
+renseignements originaux</strong><strong></strong>
+
+1.     Le Canada détient tous les droits de propriété intellectuelle sur 
+       les renseignements originaux dès leur conception.  L'entrepreneur ne 
+       détient aucun droit de propriété intellectuelle sur les 
+       renseignements originaux, sauf tout droit qui peut lui être accordé 
+       par écrit par le Canada.
+
+2.     L'entrepreneur doit intégrer dans tout renseignement original qui 
+       fait l'objet d'un droit d'auteur, quelle que soit la forme ou le 
+       support sur lequel il est conservé, le symbole de droit d'auteur et 
+       un des avis suivants, selon le cas : © Sa Majesté la Reine du chef 
+       du Canada (année) ou © Her Majesty the Queen in Right of Canada 
+       (year).
+
+3.     L'entrepreneur doit signer tout document se rapportant aux droits de 
+       propriété intellectuelle sur les renseignements originaux tel 
+       qu'exigé par le Canada.  L'entrepreneur doit fournir au Canada, aux 
+       frais du Canada, toute l'aide raisonnable dans la préparation et 
+       l'acheminement de toute demande d'enregistrement de droits de 
+       propriété intellectuelle, dans toute juridiction, y compris l'aide 
+       de l'inventeur s'il s'agit d'inventions.
+
+<strong>4007   04     (2008-05-12)  Licence concernant les droits de propriété 
+                           intellectuelle sur les renseignements de base</strong><strong></strong>
+
+1.     L'entrepreneur accorde au Canada une licence qui l'autorise à 
+       utiliser les renseignements de base dans la mesure où cela est jugé 
+       raisonnable et nécessaire pour permettre au Canada d'exercer 
+       pleinement ses droits sur les biens livrables et les renseignements 
+       originaux.  Cette licence est non exclusive, perpétuelle, 
+       irrévocable, mondiale, intégralement payée et libre de redevances.  
+       Cette licence ne peut être limitée d'aucune façon par l'entrepreneur 
+       en donnant un avis prévoyant le contraire, incluant le texte 
+       apparaissant sur une licence emballée sous film plastique et 
+       accompagnant un bien livrable.
+
+2.     Pour plus de certitude, la licence du Canada sur les renseignements 
+       de base comprend notamment, mais non exclusivement :
+
+       a)     le droit de divulguer les renseignements de base aux tiers 
+              soumissionnant ou négociant des contrats avec le Canada, et 
+              le droit d'autoriser, par sous-licence ou autrement, tout 
+              entrepreneur engagé par le Canada à utiliser ces 
+              renseignements uniquement aux fins d'exécution de ces 
+              contrats.  Le Canada exigera de ces tiers et de ces 
+              entrepreneurs qu'ils n'utilisent ou ne divulguent ces 
+              renseignements, sauf lorsque cela s'avère nécessaire lors de 
+              la soumission, de la négociation ou de l'exécution des 
+              contrats;
+
+       b)     le droit de divulguer les renseignements de base à d'autres 
+              gouvernements aux fins d'information;
+
+       c)     le droit de reproduire, modifier, améliorer, élaborer ou 
+              traduire les renseignements de base, ou de le faire exécuter 
+              par une personne engagée par le Canada.  Le Canada, ou une 
+              personne désignée par le Canada, détiendra les droits de 
+              propriété intellectuelle associés à la reproduction, la 
+              modification, l'amélioration, l'élaboration ou la traduction;
+
+       d)     sans restreindre la portée de toute licence ou de tout autre 
+              droit que le Canada pourrait autrement détenir sur les 
+              renseignements de base, en ce qui a trait à toute partie des 
+              travaux conçue sur mesure ou fabriquée sur mesure, le droit 
+              d'utiliser et divulguer à un entrepreneur engagé par le 
+              Canada les renseignements de base aux fins suivantes :
+
+              (i)    l'utilisation, le fonctionnement, la maintenance, la 
+                    réparation ou la révision de toute partie des travaux 
+                    conçue ou fabriquée sur mesure; et
+
+              (ii)   la fabrication de pièces de rechange destinées à la 
+                    maintenance, à la réparation ou à la révision, par le 
+                    Canada, de toute partie des travaux conçue ou fabriquée 
+                    sur mesure, si ces pièces ne peuvent être obtenues à 
+                    des conditions commerciales raisonnables pour permettre 
+                    la maintenance, la réparation ou la révision en temps 
+                    opportun.
+
+3.     L'entrepreneur s'engage à mettre promptement à la disposition du 
+       Canada tout renseignement de base aux fins mentionnées ci-haut, y 
+       compris, dans le cas de logiciels, le code source.  La licence ne 
+       s'applique pas cependant à un logiciel faisant l'objet de conditions 
+       de licence détaillées qui sont énoncées ailleurs dans le contrat.  
+       De plus, dans le cas d'un logiciel en vente libre dans le commerce, 
+       l'obligation de l'entrepreneur de mettre promptement le code source 
+       à la disposition du Canada ne s'applique qu'à tout code source qui 
+       est sous le contrôle de l'entrepreneur ou d'un sous-traitant, ou qui 
+       peut être obtenu par l'un d'eux.
+
+<strong>4007   05     (2008-05-12)  Droits de l'entrepreneur d'accorder des 
+licences</strong><strong></strong>
+
+L'entrepreneur déclare et garantit qu'il a le droit d'accorder au Canada 
+les licences et tout autre droit lui permettant d'utiliser les 
+renseignements de base.  Si un sous-traitant ou un autre tiers détient des 
+droits de propriété sur des renseignements de base, l'entrepreneur doit 
+soit avoir une licence de ce sous-traitant ou tiers qui lui permet de se 
+conformer à l'article 4 ou faire des arrangements avec ce sous-traitant ou 
+tiers pour qu'il accorde sans délai la licence requise directement au 
+Canada. 
+
+<strong>4007   06     (2008-05-12)  Renonciation aux droits moraux</strong>
+
+Pendant et après le contrat, l'entrepreneur doit, sur demande du Canada, 
+fournir une renonciation écrite permanente aux droits moraux, au sens de la <em>
+Loi sur le droit d'auteur</em>, L.R., 1985, ch. C-42, de la part de chaque 
+auteur qui contribue aux renseignements originaux qui font l'objet d'une 
+protection par droit d'auteur et qui doivent être livrés au Canada en vertu 
+du contrat.  Si l'entrepreneur est un auteur des renseignements originaux, 
+il renonce en permanence à ses droits moraux sur ces renseignements 
+originaux.
+
+
+</pre>
+</div>

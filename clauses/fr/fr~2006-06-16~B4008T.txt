@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante lorsque le contrat éventuel qui fait partie de la 
+demande de soumissions contient une des clauses
+ 
+  B4008C
+ 
+ pour incorporer un besoin 
+ou une liste d'articles livrables.  Par ailleurs, utiliser la clause
+ 
+  B4007T
+ 
+ lorsque le contrat éventuel fait référence à un énoncé des travaux.
+
+	Choisir la première clause quand la liste des articles est générée par 
+l'Environnement automatisé de l'acheteur, sous « Détails de l'article », à la 
+deuxième page de la demande de soumissions.
+
+	Choisir la deuxième clause quand le besoin est décrit dans les clauses du 
+contrat éventuel faisant partie de la demande de soumissions.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+<p>Le besoin est décrit en détail sous « Détails de l'article  ».</p></li>
+<li><p><strong>OU</strong></p><h2>Clause 2</h2>
+<p>Le besoin est décrit en détail à l'article
+<var>______</var> des clauses du contrat éventuel.
+<span class="description">(<strong><em>L'agent de négociation des contrats doit
+insérer le numéro de l'article qui fait
+référence à la clause <span class="clauseRef">B4008C</span></em></strong>.)</span></p></li>
+</ul>
+</div></pre>
+</div>

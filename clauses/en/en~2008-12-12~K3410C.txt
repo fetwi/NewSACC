@@ -1,0 +1,153 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when there is an element of intellectual 
+property and Canada is to own intellectual property rights in foreground 
+information.
+ </p>
+<p>
+  Use this clause in conjunction with general conditions
+  
+   2040
+  
+  where Canada is to 
+own the foreground information.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The general conditions 2040 are amended by deleting
+the sections entitled "Records and Disclosure of Foreground
+Information", Ownership of Intellectual Property Rights in
+Foreground Information", "Licenses to Intellectual Property Rights
+in Foreground and Background Information", "Contractor's Rights to
+Grant Licenses", "Waiver of Moral Rights", "License to Intellectual
+Property Rights in Canada's Information", "Transfer or License of
+Contractor's Rights", "Transfer of Intellectual Property Rights
+upon Termination of the Contract for Default", and "Products
+Created Using the Foreground Information" in their entirety. This
+section applies in lieu of those sections.</li>
+</ol>
+<h2>[Canada to Own Intellectual Property Rights in Foreground
+Information]</h2>
+<ol type="1">
+<li value="2">
+<ol type="a">
+<li value="1">During and after the performance of the Contract,
+the Contractor must keep detailed records of the Foreground
+Information, including details of its creation. The Contractor must
+report and fully disclose to Canada all Foreground Information as
+required by the Contract. If the Contract does not specifically
+state when and how the Contractor must do so, the Contractor must
+provide this information if requested by the Contracting Authority,
+whether before or after the completion of the Contract.</li>
+<li value="2">Before and after final payment to the Contractor, the
+Contractor must provide Canada with access to all records and
+supporting data that Canada considers pertinent to the
+identification of Foreground Information.</li>
+<li value="3">For any Intellectual Property that was developed or
+created in relation to the Work, Canada will be entitled to assume
+that it was developed or created by Canada, if the Contractor's
+records do not list that Intellectual Property or do not indicate
+that it was created by the Contractor, or by someone on behalf of
+the Contractor, other than Canada.</li>
+</ol>
+</li>
+<li value="3">
+<ol type="a">
+<li value="1">All Intellectual Property rights in the
+Foreground Information belong to Canada as soon as they come into
+existence. The Contractor has no right in or to any such
+Intellectual Property Rights in the Foreground Information, except
+any right that may be granted in writing by Canada.</li>
+<li value="2">The Contractor must incorporate the copyright symbol
+and one of the following notices, as appropriate into all
+Foreground Information that is subject to copyright regardless of
+the form or medium upon which it is recorded: © Her Majesty
+the Queen in Right of Canada (year), or © Sa Majesté la
+Reine du chef du Canada (year).</li>
+<li value="3">The Contractor must execute any documents relating to
+the Intellectual Property Rights in the Foreground Information as
+Canada may require. The Contractor must, at Canada's expense,
+provide Canada all reasonable assistance in the preparation of
+applications and in the prosecution of any applications for
+registration of any Intellectual Property Rights in any
+jurisdiction, including the assistance of the inventor in the case
+on inventions.</li>
+</ol>
+</li>
+<li value="4">
+<ol type="a">
+<li value="1">The Contractor grants to Canada a license to use
+the Background Information to the extent that it is reasonably
+necessary for Canada to exercise fully all its rights in the
+deliverables and in the Foreground Information. This license is
+non-exclusive, perpetual, irrevocable, worldwide, fully-paid and
+royalty-free. The license cannot be restricted in any way by the
+Contractor providing any form of notice to the contrary, including
+the wording on any shrink-wrapped license attached to any
+deliverable.</li>
+<li value="2">For greater certainty, Canada's license in the
+Background Information includes, but is not limited to:
+<ol type="i">
+<li value="1">the right to disclose the Background Information to
+third parties bidding on or negotiating contracts with Canada and
+to sublicense or otherwise authorize the use of that information by
+any contractor engaged by Canada solely for the purpose of carrying
+out such contracts. Canada will require these third parties and
+contractors not to use or disclose that information except as may
+be necessary to bid, negotiate or carry out those contracts;</li>
+<li value="2">the right to disclose the Background Information to other
+governments for information purposes;</li>
+<li value="3">the right reproduce, modify, improve, develop or translate
+the Background Information or have it done by a person hired by
+Canada. Canada, or a person designated by Canada, will own the
+Intellectual Property Rights associated with reproduction,
+modification, improvement, development or translation.</li>
+<li value="4">without restricting the scope of any license or other right
+in the Background Information that Canada may otherwise hold in
+relation to any custom-designed or custom-manufactured part of the
+Work, the right to use and disclose to a contractor engaged by
+Canada the Background Information for the following purposes:
+<ol type="A">
+<li value="1">For the use, operation, maintenance, repair or overhaul of
+the custom-designed or custom-manufactured parts of the Work;</li>
+<li value="2">In the manufacturing of spare parts for maintenance, repair
+or overhaul of any custom-designed or custom-manufactured part of
+the Work by Canada if those parts are not available on reasonable
+commercial terms to enable timely maintenance, repair or
+overhaul.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="3">The Contractor agrees to make the Background
+Information, including in the case of Software, the source code,
+promptly available to Canada for any purpose mentioned above. The
+license does not apply to any Software that is subject to detailed
+license conditions that are set out elsewhere in the Contract.
+Furthermore, in the case of commercial off-the-shelf software, the
+Contractor's obligation to make the source code promptly available
+to Canada applies only to source code that is within the control of
+or can be obtained by the Contractor or any subcontractor.</li>
+</ol>
+</li>
+<li value="5">The Contractor represents and warrants that it has
+the right to grant to Canada the license and any other rights to
+use the Background Information. If the Intellectual Property Rights
+in any Background Information are owned by a subcontractor or any
+other third party, the Contractor must have a license from that
+subcontractor or third party that permits compliance with paragraph
+4 or arrange, without delay, for the subcontractor or third party
+to grant promptly the required license directly to Canada.</li>
+<li value="6">If requested by Canada, during and after the
+Contract, the Contractor must provide a written permanent waiver of
+moral rights, as defined in the <cite>Copyright Act</cite>, <abbr title="Revised Statutes (1985)">R.S.</abbr>,
+1985, <abbr title="chapter">c</abbr>. C-42, from every author that contributes to any Foreground
+Information subject to copyright protection that is a deliverable
+to Canada under the Contract. If the Contractor is an author of the
+Foreground Information, the Contractor permanently waives the
+Contractor's moral rights in that Foreground Information.</li>
+</ol>
+</div></pre>
+</div>

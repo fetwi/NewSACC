@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans un contrat qui ne comporte pas de recherche et 
+de développement et lorsque le client a précisé que les droits de propriété 
+intellectuelle doivent appartenir à l'entrepreneur.  Ne pas utiliser cette 
+clause de concert avec les Conditions générales DSS-MAS 9624 qui ont leurs 
+propres clauses.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les conditions générales sont modifiées par la suppression de la 
+       totalité de la clause intitulée « Droits d'auteur » qui est 
+       remplacée par le paragraphe 2.
+
+2.     Le droit d'auteur, le droit aux brevets et tout autre droit de 
+   propriété intellectuelle pour tout ce qui a d'abord été conçu, développé 
+   ou mis en application par l'entrepreneur dans l'exécution des travaux 
+   prévus au contrat sont dévolus à l'entrepreneur.
+</pre>
+</div>

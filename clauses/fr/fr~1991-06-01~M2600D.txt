@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En plus de celles indiquées au contrat, des quantités supplémentaires de 25 
+   p. 100 pour chaque article peuvent être achetées au même prix et aux 
+   mêmes conditions à la discrétion du Ministre.  Lorsque 25 p. 100 de la 
+   quantité indiquée est inférieure à celle prévue dans une commande 
+   subséquente à une offre permanente pour un article donné, l'article ne 
+   sera pas inclus dans cette option. 
+</pre>
+</div>

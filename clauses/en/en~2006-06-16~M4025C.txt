@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in standing offers.  The order of documents shown below 
+reflects current policy and legal advice.  The contracting officer must amend 
+the list to reflect the documents applicable to each standing offer and list the 
+annexes by order of priority, as applicable.
+
+Use clause A9140C for contracts.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>If there is a discrepancy between the wording of any documents which appear 
+on the list, the wording of the document which first appears on the list 
+has priority over the wording of any document which subsequently appears on 
+the list.
+
+1.     the call up against the Standing Offer, including any annexes;
+
+2.     the Standing Offer;
+
+3.     (<strong><em>Contracting officer to delete if not applicable</em></strong>) the supplemental 
+       general conditions __________ (Insert number and title);
+
+4.     General conditions ___________ (<strong><em>insert number and title</em></strong>);
+
+5.     Annex "_______" - ____________;
+
+6.     Annex "______" - ____________;
+
+7.     the Offeror's offer ____________ (<strong><em>insert date of offer</em></strong>), as amended _________ 
+       <strong><em>(insert date(s) of amendment(s), if applicable</em></strong>).
+
+
+
+
+                     
+</pre>
+</div>

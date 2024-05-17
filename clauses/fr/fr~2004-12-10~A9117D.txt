@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les achats de services pertinents (tels que 
+services de transport et télécommunications; services de publicité; services 
+professionnels et spéciaux; et achats de services de réparation et d'entretien) 
+si l'élément « service » est d'un montant de 500 $ ou plus dans l'année civile, 
+(y compris les achats composés à la fois de biens et de services.  Ceci inclus 
+les contrats ou les offres à commandes attribués à des Canadiens qui effectuent 
+des travaux pour le gouvernement à l'étranger, et lorsque le ministère client 
+désire communiquer directement avec l'entrepreneur afin d'obtenir l'information 
+requise.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Conformément à l'alinéa 221 (1) d) de la <em>Loi de l'impôt sur le 
+       revenu</em>, les ministères et organismes sont tenus de déclarer à l'aide 
+       de feuillets T1204, Paiements contractuels de services du 
+       gouvernement, les paiements contractuels versés aux entrepreneurs en 
+       vertu de contrats de services pertinents (y compris les contrats 
+       composés à la fois de biens et de services). 
+
+2.     Afin de permettre aux ministères et organismes de se conformer à 
+       cette exigence, l'entrepreneur doit fournir son numéro d'entreprise 
+       ou numéro d'assurance sociale à l'Agence du revenu du Canada, selon 
+       le cas.  (Les demandes peuvent être faites par lettre d'appel 
+       générale aux entrepreneurs, par écrit ou par téléphone.)
+
+</pre>
+</div>

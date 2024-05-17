@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque les frais de transport correspondent à un 
+facteur d'évaluation des soumissions.  Pour savoir quand ce facteur est 
+applicable et pour obtenir la liste des exceptions, consulter la procédure 6.621 
+du Guide des approvisionnements.  Pour obtenir des renseignements 
+supplémentaires sur les exigences obligatoires relatives à l'information sur les 
+coûts de transport, consulter la procédure 7.409 du Guide.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Puisque les frais de transport que devra peut-être payer 
+       l'expéditeur interviennent dans l'évaluation des soumissions, les 
+       soumissionnaires sont priés de fournir les renseignements suivants :
+
+       a)     poids à l'expédition, par unité : _____;
+       b)     cubage par unité : _____;
+       c)     catégorie de marchandise : _____;
+       d)     lieu d'expédition :_____;
+       e)     nom du transporteur ferroviaire si l'usine est desservie par 
+              une voie de service : _____;
+       f)     mode de transport recommandé et coût afférent : _____.
+</pre>
+</div>

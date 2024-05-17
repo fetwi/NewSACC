@@ -1,0 +1,104 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumission et les contrats 
+quand des acomptes sont prévus.
+
+Si des retenues sont appliquées à différents taux pour les différents types 
+d'articles, la présente clause doit alors en faire mention.  Voici une clause 
+d'option relative à une retenue sur tout marché donné et elle se rapporte aux 
+alinéas 1. c) et 2. b) de la présente clause.  Si le même taux de paiement ou de 
+retenue ne s'applique pas à tous les produits ou phases du contrat, ajouter 
+l'énoncé suivant à ce qui précède :
+
+	« applicable à _____ (Indiquer le produit ou la phase du contrat visé au taux 
+de paiement ou de retenue établi) et aux paiements ou aux retenues correspondant 
+à _____ p. 100 des dépenses qui s'appliquent à _____ (Indiquer le produit ou la 
+phase du contrat visé au taux de paiement ou de retenue établi) ».
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les acomptes ne doivent pas être versés plus d'une fois pas mois 
+       selon les conditions suivantes :
+
+       a)     les demandes d'acomptes doivent fournir toutes les données 
+              pertinentes et elles doivent être présentées au Canada sur le 
+              formulaire PWGSC-TPSGC 1111, « Réclamation de paiement 
+              partiel », (<strong class="wsStyleUnderline">http://www.tpsgc.gc.ca/sos/corporate/forms-f.html</strong>) 
+              conformément aux instructions de facturation du présent 
+              document;
+
+       b)     toutes les attestations figurant sur le formulaire doivent 
+              être signées par les personnes indiquées ou leurs délégués, 
+              et
+
+       c)     les paiements atteindront jusqu'à _____ p. 100 des montants 
+              totaux réclamés approuvés par le Canada sans que le cumulatif 
+              dépasse _____ p. 100 de la valeur totale que le Canada doit 
+              verser en vertu du contrat.
+
+2.     Les renseignements suivants doivent figurer sur chaque réclamation :
+
+       a)     les dépenses, plus le bénéfice ou les honoraires calculés au 
+              prorata, s'il y a lieu, ou, autrement, la valeur des étapes 
+              franchies au cours de la période sur laquelle porte la 
+              réclamation par type d'article, selon les conditions de 
+              paiement du contrat;
+
+       b)     moins la valeur de la retenue correspondant à _____ p. 100, 
+              calculé sur le montant en 2. a);
+
+       c)     le montant total de toutes les réclamations précédentes 
+              soumises dans le cadre du présent contrat; et
+
+       d)     la taxe sur les produits et services ou la taxe de vente 
+              harmonisée, selon le cas, calculée sur le montant en 2. a) 
+              ci-dessus.
+
+3.     Le solde du montant dû sera payé lorsque le contrat aura été dûment 
+       exécuté ou, dans le cas de contrats comportant une entente à prix 
+       unitaire, à la livraison et l'acceptation de chacune, à condition 
+       qu'une facture finale pour le paiement soit présentée.  (Voir les 
+       instructions de facturation dans le contrat.)
+
+4.     S'il en est fait mention dans le présent document, les copies 
+       requises des rapports mensuels de paiements doivent accompagner le 
+       formulaire PWGSC-TPSGC 1111.
+ 
+5.     L'entrepreneur doit remplir l'original et deux (2) copies du 
+       formulaire PWGSC-TPSGC 1111, et les acheminer comme suit :
+
+       a)     autorité _____;
+
+       b)     autorité _____;
+
+       c)     bureau de paiement.
+
+6.     Les acomptes doivent être considérés comme des paiements provisoires 
+       seulement et le Canada aura le droit de procéder à des vérifications 
+       provisoires des coûts et du temps ou à des contrôles, et d'apporter 
+       des rajustements, de temps à autre, durant l'exécution des travaux.  
+       Tout paiement excédentaire du versement de ces acomptes ou d'une 
+       autre cause devra être remboursé rapidement au Canada.
+
+7.     Pour les travaux accomplis, le Canada paiera l'entrepreneur :
+
+       a)     dans le cas d'un acompte autre que le dernier paiement, dans 
+              les trente (30) jours suivant la date de réception du 
+              formulaire PWGSC-TPSGC 1111 dûment rempli;
+
+       b)     dans le cas du dernier paiement, dans les trente (30) jours 
+              suivant la réception du formulaire PWGSC-TPSGC 1111 dûment 
+              rempli, ou dans les trente (30) jours suivant la fin des 
+              travaux, le délai le plus long étant retenu.
+
+8.     Si le Canada s'oppose au contenu de la demande d'acompte, le Canada 
+       devra, dans les quinze (15) jours suivant sa réception, aviser 
+       l'entrepreneur de la nature de l'objection.  On entend par «contenu 
+       de la demande» une demande qui contient ou à laquelle s'ajoute de la 
+       documentation à l'appui telle qu'exigée par le Canada.  Si le Canada 
+       ne donne pas suite dans les quinze (15) jours, la date stipulée aux 
+       alinéas 7. a) et b) de la clause servira dans l'unique but de 
+       calculer l'intérêt sur les comptes en souffrance.
+
+
+</pre>
+</div>

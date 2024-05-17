@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause for contracts for goods requiring spare parts for which existing 
+initial provisioning documentation is required to be revised.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Provisioning Parts Breakdown (PPB), provided in electronic media 
+       consistent with the current issue of Canadian Forces Specification 
+       D-01-100-214/SF-000, shall be amended by the Contractor to reflect 
+       all design changes.
+
+2.     Should the Contractor have any questions regarding the provisioning 
+       documentation, and its delivery, they shall be directed to:
+
+       National Defence Headquarters
+       MGen George R. Pearkes Building
+       101 Colonel By Drive
+       Ottawa ON  K1A 0K2
+
+<strong>       Attention: DCIP _____</strong>
+
+       Telephone: (613) ____-_____
+
+</pre>
+</div>

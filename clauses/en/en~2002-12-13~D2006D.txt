@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with B4003T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     <strong>BASIC PACK</strong> - Commercial Standard
+
+2.     <strong>BULK PACK</strong>:
+
+       (a)    Stock Number (Product Code);
+       (b)    Item Description;
+       (c)    Unit of Issue;
+       (d)    Quantity;
+       (e)    Batch Number or Contract Number;
+       (f)    Name and address of Consignee;
+       (g)    Name and address of Supplier.
+
+3.     In addition, marking and preparation for shipment shall be in 
+       accordance with Canadian General Standards Board standard 43-GP-103P, 
+       Packaging of Paper, Printing and Stationary.
+
+4.     Failure to comply with the above will result in return for repacking 
+       or reworking or both at the Contractor's expense.
+
+
+</pre>
+</div>

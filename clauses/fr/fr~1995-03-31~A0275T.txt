@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le choix du fournisseur doit se faire selon 
+le principe de la soumission/l'offre conforme ayant obtenu la cote la plus 
+élevée.  En général, elle est utilisée avec la clause A0210T.  Elle doit 
+accompagner la clause A0200T ou une clause similaire.  Cette clause peut être 
+remplacée par la clause A0036T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour qu'elle soit considérée comme recevable, une soumission/offre 
+       doit :
+
+       a)     respecter tous les critères obligatoires; et
+
+       b)     obtenir le minimum de points requis pour les critères soumis 
+              à la cotation numérique, tel qu'indiqué dans l'invitation à 
+              soumissionner.
+
+2.     Les soumissions/offres qui ne satisfont pas aux exigences a) ou b) 
+   mentionnées ci-dessus seront éliminées.  C'est la soumission/l'offre qui 
+   a obtenu le plus grand nombre de points qui sera recommandée aux fins de 
+   l'attribution d'un contrat ou de l'établissement d'une offre à commandes, 
+   selon le cas, à la condition que le prix global estimatif ne dépasse pas 
+   la somme attribuée relativement au besoin.
+</pre>
+</div>

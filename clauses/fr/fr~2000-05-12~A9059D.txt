@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsqu'un entrepreneur exécute des travaux au chantier naval de la BFC 
+Esquimalt, et que ces travaux sont normalement effectués par des employés 
+du Groupe de réparation des navires, ils devront normalement se dérouler 
+conformément aux méthodes, aux pratiques et à la distribution des tâches en 
+vigueur dans ce chantier maritime, compte tenu des limitations des 
+juridictions professionnelles des groupes (Victoria) affiliés au Conseil 
+des métiers et du travail des chantiers maritimes du gouvernement fédéral.
+
+S'il faut obtenir un permis de travail, cette tâche incombera à 
+l'entrepreneur ou au sous-traitant.  En pareil cas, le permis de travail 
+sera de dix dollars (10$) par ouvrier et par semaine, et il ne sera payé 
+que si les ouvriers de l'entrepreneur ou du sous-traitant n'appartiennent 
+pas aux mêmes syndicats affiliés au Conseil des métiers et du travail des 
+chantiers maritimes du gouvernement fédéral (Victoria).
+
+</pre>
+</div>

@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>To define a requirement for an Initial Provisioning Conference (IPC) for new 
+equipment acquisitions. In variable &lt;&lt;1&gt;&gt; of paragraph "1." insert the number of 
+days. In variable &lt;&lt;2&gt;&gt; insert the name of the contact person. In variable &lt;&lt;3&gt;&gt; 
+insert "bid" at the solicitation stage and "Contract" at the contract stage.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall within &lt;&lt;1&gt;&gt; day of the effective date of the 
+       Contract, contact &lt;&lt;2&gt;&gt; by telephone at (   )___-____ to arrange an 
+       Initial Provisioning Conference (IPC) to be held at the Contractor's 
+       facility. The cost per day for an IPC shall be included in the &lt;&lt;3&gt;&gt; 
+       price.
+
+2.     The purpose of the IPC is:
+
+       (a)    if a Provisioning Parts Breakdown (PPB) has been included in 
+              the contract, to allow Canada to verify that the PPB reflects 
+              the current and complete configuration of the equipment being 
+              procured by comparing it to full assembly drawings; and
+
+       (b)    if a PPB has not been included in the contract, to select the 
+              spares required to support the deliverable end items during 
+              an initial period of service.
+
+3.     The Contractor shall have available:
+
+       (a)    a suitable conference room;
+
+       (b)    engineering and product support assistance;
+
+       (c)    equipment for a physical examination, if practicable;
+
+       (d)    engineering, reliability and maintainability data;
+
+       (e)    modification data, if applicable;
+
+       (f)    Supplementary Provisioning Technical Documentation (SPTD) as 
+              defined in the current issue of Canadian Forces Specification 
+              D-01-100-214/SF-000.
+
+4.     Canada's provisioning representation would normally consist of five 
+       representatives from the technical and logistic areas.
+
+5.     The Contractor may still be required to provide logistic and 
+       engineering clarification or assistance and shall be required to 
+       provide SPTD should it subsequently be decided that a provisioning 
+       conference is not necessary.
+
+</pre>
+</div>

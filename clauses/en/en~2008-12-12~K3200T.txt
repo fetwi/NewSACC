@@ -1,0 +1,79 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in all bid solicitations when the client department or agency 
+has determined that Canada will own any intellectual property arising from the 
+work under the contract.
+ </p>
+<p>
+  Contracting officers will insert one or more of the following grounds for Canada 
+ownership, as supplied by the client department or agency (do not include the 
+Treasury Board exception number in bid solicitations):
+ </p>
+<ul class="hierarchy">
+<li>
+<strong class="number">
+    (6.1)
+   </strong>
+   national security;
+  </li>
+<li>
+<strong class="number">
+    (6.2)
+   </strong>
+   statutes, regulations or previous obligations of Canada to a third party 
+or parties preclude contractor ownership of the Intellectual Property Rights in 
+Foreground Information;
+  </li>
+<li>
+<strong class="number">
+    (6.3)
+   </strong>
+   the bidder has declared in writing that  he is not interested in owning 
+the Intellectual Property Rights in Foreground Information;
+  </li>
+<li>
+<strong class="number">
+    (6.4.1)
+   </strong>
+   the main purpose of the contract, or of the deliverables contracted for, 
+is to generate knowledge and information for public dissemination;
+  </li>
+<li>
+<strong class="number">
+    (6.4.2)
+   </strong>
+   the main purpose of the contract, or of the deliverables contracted for, 
+is to augment an existing body of Canada's background information as a 
+prerequisite to the transfer of the augmented background to the private sector, 
+through licensing or assignment of ownership (not necessarily to the original 
+contractor), for the purposes of commercial exploitation;
+  </li>
+<li>
+<strong class="number">
+    (6.4.3)
+   </strong>
+   the main purpose of the contract, or of the deliverables contracted for, 
+is to deliver a component or subsystem that will be incorporated into a complete 
+system at a later date, as a prerequisite to the planned transfer of the 
+complete system to the private sector, through licensing or assignment of 
+ownership, for purposes of commercial exploitation;
+  </li>
+<li>
+<strong class="number">
+    (6.5)
+   </strong>
+   where the material developed or produced consists of material subject to 
+copyright, with the exception of computer software and all documentation 
+pertaining to that software.
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The <span class="input-required"><var>_____</var> <kbd>(<em>insert
+the name of the client department or agency</em>)</kbd></span> has
+determined that any intellectual property rights arising from the
+performance of the Work under the resulting contract will belong to
+Canada, on the following grounds: <var>_____</var>.</p>
+</div></pre>
+</div>

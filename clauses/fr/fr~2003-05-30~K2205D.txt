@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause lorsque l'entrepreneur doit concevoir et écrire un cahier 
+de charges ou des spécifications pour le compte du Canada devant servir à une 
+invitation à soumissionner, ou lorsque l'entrepreneur doit gérer et modifier la 
+documentation et les données techniques appartenant au Canada et qui pourraient 
+servir à la réparation ou à la fabrication de ses équipements, au radoub ou à la 
+construction de navire appartenant au Canada, ou lorsque l'entrepreneur agit à 
+titre de représentant du Canada dans la gestion de tout contrat de réparation, 
+de radoub ou de construction/fabrication.
+
+Insérer le nom de l'entrepreneur qui effectuera les travaux, s'il est connu, ou 
+« le soumissionnaire retenu pour effectuer les travaux ».
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour éviter tous conflits d'intérêts réels ou apparents, 
+       l'entrepreneur convient par la présente qu'au cours de la période 
+       contractuelle, il n'exécutera pas de services pour le compte du 
+       constructeur de navires : _______ (<strong>Insérer le nom de(s) 
+       l'entrepreneur(s)</strong>), ni ne passera de contrats avec lui.
+
+2.     L'entrepreneur convient aussi qu'il s'assurera que le personnel 
+       fourni, en vertu du contrat, consacrera tout son temps et toute son 
+       attention à l'exécution des services prévus par la présente, et que, 
+       par conséquent, il ne sera pas en situation de conflit d'intérêts 
+       possible pendant la durée du contrat.
+
+3.     Le contrat précisera ce qui suit :
+
+       a)     aucun ancien détenteur de charge publique qui ne se 
+              conformerait pas aux dispositions l'après-mandat du Code 
+              régissant la conduite de titulaires de charge publique en ce 
+              qui concerne les conflits d'intérêts et l'après-mandat ne 
+              pourra retirer un avantage direct du contrat; et
+
+       b)     pendant la durée du contrat, toutes les personnes engagées 
+              pour exécuter le contrat se conduiront conformément aux 
+              principes du Code.  Si, pendant la durée du contrat, devait 
+              être acquis un intérêt occasionnant un conflit d'intérêts ou 
+              semblant occasionner un écart par rapport aux principes, 
+              l'entrepreneur le déclarerait immédiatement au représentant 
+              ministériel.
+
+
+</pre>
+</div>

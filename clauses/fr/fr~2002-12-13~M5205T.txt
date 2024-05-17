@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les offres à commandes lorsque les travaux 
+comprennent des services de transport ou qu'une échelle des justes salaires 
+fédérale est comprise dans le contrat, ou les deux.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les soumissionnaires doivent respecter la Politique en matière de 
+       taux de transport ainsi que le Règlement sur les justes salaires et 
+       les heures de travail du gouvernement fédéral lorsque l'offre à 
+       commandes comprendra des services de transport par camion ou une 
+       échelle des justes salaires fédérale.
+
+2.     Le soumissionnaire atteste qu'il respectera la Politique en matière 
+       de taux de transport et l'échelle des justes salaires, qui exigent 
+       qu'il soit payé directement aux entrepreneurs principaux ou, par 
+       l'entremise de ceux-ci, à leurs sous-traitants et à leurs employés, 
+       dans le cadre de contrats passés avec le gouvernement fédéral,
+
+       a)     les taux de transport minimums ou maximums fixés par le 
+              gouvernement provincial ou territorial compétent dans le 
+              secteur géographique où se dérouleront les travaux, la 
+              majorité des travaux ou l'élément le plus considérable des 
+              travaux, ou
+
+       b)     les taux précisés dans l'échelle des justes salaires adoptée 
+              ou établie par le gouvernement fédéral pour le secteur 
+              géographique où se dérouleront les travaux, la majorité des 
+              travaux ou l'élément la plus considérable des travaux, ou
+
+       c)     les deux.
+
+</pre>
+</div>

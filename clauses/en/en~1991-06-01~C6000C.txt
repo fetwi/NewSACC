@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in firm price contracts to ensure against the 
+contractor carrying out any design changes, modifications or interpretations of 
+specifications without prior approval of the Minister. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>No increase in the total liability of Canada or in the price of supplies 
+   resulting from any design changes, modifications or interpretations of 
+   specifications, made by the Contractor, will be authorized or paid to 
+   the Contractor unless such design changes, modifications or 
+   interpretations,have been approved by the Minister prior to their 
+   incorporation in the Work. 
+</pre>
+</div>

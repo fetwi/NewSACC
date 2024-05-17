@@ -1,0 +1,223 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Les détenteurs remarquerons que des «REMARQUES» ont été fournies pour plusieurs 
+clauses. Ces Remarques servent de référence rapide pour les agents de 
+négociations des contrats en ce qui a trait à l'usage recommandé des clauses.  
+Suite à un examen d'un besoin spécifique et des circonstances qui l'entourent, 
+l'agent de négociation des contrats déterminera l'usage d'une clause 
+particulière dans les demandes de soumissions, les contrats, les offres à 
+commandes ou les arrangements en matière d'approvisionnement.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>TABLE DES MATIÈRES</strong>
+
+
+<strong>Sous-section</strong> :
+
+<strong>A.     INSTRUCTIONS AUX SOUMISSIONNAIRES/ENTREPRENEURS</strong>
+
+A0000         Incorporation par renvoi
+A0001-0999    Examen des soumissions/critères d'évaluation
+A1000-1999    Autorités
+A2000-2999    Emploi de résidents non permanents
+A3000-3999    Attestations
+A7000-7999    Entretien/services
+A8000-8999    Baux/location
+A9000-9999    Autres
+
+<strong>B.     DÉFINITIONS DES BESOINS</strong>
+
+B0001-0999    Échantillons
+B1000-1999    Matériel
+B2000-2999    Produits homologués, approuvés, certifiés
+B3000-3999    Succédanés équivalents
+B4000-4999    Dessins et spécifications
+B5000-5999    Modifications par rapport au modèle
+B6000-6999    Soin des fournitures de l'État
+B7000-7999    Quantité
+B9000-9999    Autres
+
+<strong>C.     PRIX</strong>
+
+C0001-0499    Prix ferme
+C0500-0999    Taux fixes basés sur le temps
+C1000-1499    Prix plafond
+C2000-2999    Taxes et droits
+C3000-3999    Taux de change et échelle mobile pour les matériaux
+C4000-5999    Coûts de transport
+C6000-6999    Limitation des dépenses
+C9000-9999    Autres
+
+<strong>D.     LIVRAISON, INSPECTION ET ACCEPTATION</strong>
+
+D0001-0999    Exigences quant à la livraison
+D1000-3999    Préparation pour la livraison
+D4000-4999    Expédition et FOB
+D5000-5999    Inspection et acceptation
+D6000-6999    Instructions d'expédition
+D9000-9999    Autres
+
+<strong>E.     GARANTIE FINANCIÈRE</strong>
+
+E0001-0999    Dépôts de garantie/cautionnements
+E5000-5999    Cautionnements d'exécution
+E8000-8099    Cautionnements, main-d'oeuvre et matériaux
+E9000-9999    Autres
+
+<strong>F.     SÉCURITÉ INDUSTRIELLE</strong>
+
+F0001-0999    Fiabilité de base
+F1000-1999    Fiabilité approfondie
+F2000-2999    Autorisation sécuritaire
+F9000-9999    Autres
+
+<strong>G.     ASSURANCES</strong>
+
+G0001-1999    Responsabilité de l'entrepreneur
+G2000-2999    Responsabilité civile
+G3000-3999    Biens de l'État
+G4000-4999    Affrètement d'aéronefs
+G5000-5999    Navires
+G6000-6999    Véhicules
+
+<strong>H.     MODALITÉS DE PAIEMENT</strong>
+
+H0001-0999    Intérêts sur les comptes en souffrance
+H1000-2999    Modalités de paiement
+H3000-4999    Acomptes
+H5000-6999    Paiements progressifs
+H9000-9999    Autres
+
+<strong>I.     SERA DÉTERMINÉ ULTÉRIEUREMENT</strong>
+
+<strong>J.     RÉSILIATION</strong>
+
+J0001-0999    Résiliation pour raisons de commodité
+J1000-1999    Résiliation pour inexécution
+J2000-2499    Résiliation par consentement mutuel
+J3000-3999    Retrait
+J9000-9999    Autres
+
+<strong>K.     CONDITIONS GÉNÉRALES - MODIFICATIONS</strong>
+
+K0000         Incorporation par renvoi
+K0001-0999    Exceptions aux conditions générales
+K1000-1999    Déclaration des biens admissibles 
+K2000-2099    Équité en matière d'emploi
+K2100-2199    Sanctions internationales
+K2200-2299    Conflit d'intérêt
+K3000-3999    Propriété intellectuelle
+K4000-4999    Contenu canadien
+K9000-9999    Autres
+
+<strong>L.     OUTILLAGE DE PRODUCTION ET ÉQUIPEMENT D'ESSAI</strong>
+
+L0001-0999    Outillage de production
+L5000-5999    Équipement spécial d'essais
+L9000-9999    Autres 
+
+<strong>M.     OFFRES A COMMANDES</strong>
+
+M0000         Incorporation par renvoi
+M0001-1999    Instructions aux soumissionnaires et entrepreneurs
+M2000-2999    Définition des besoins
+M3000-4999    Prix
+M5000-6999    Livraison et inspection
+M7000-7999    Rapports
+M8000-8999    Conditions générales
+M9000-9999    Autres
+
+<strong>N.     LIMITATION DE LA RESPONSABILITÉ</strong>
+
+N0000
+N0001-
+
+<strong>O.     SERA DÉTERMINÉ ULTÉRIEUREMENT</strong>
+
+<strong>P.     IMPRIMERIE</strong>
+
+P0000-0999    Instructions aux soumissionnaires
+P1000-1999    Définitions des besoins
+P2000-2999    Prix
+P3000-3999    Livraison, inspection, acceptation, emballage et étiquetage
+P4000-4999    Conditions générales - modifications
+P5000-5999    Modalités de paiement
+P9000-9999    Autres
+
+<strong>Q.     SERA DÉTERMINÉ ULTÉRIEUREMENT</strong>
+
+<strong>R.     ATTRIBUTION DES MARCHÉS IMMOBILIERS</strong>
+
+R0000-0199    Instructions générales
+R0200-0299    Conditions générales
+R0300-0399    Conditions générales supplémentaires
+R0400-0499    Instructions aux soumissionnaires/entrepreneurs
+R1000-1999    Définition des besoins
+R2000-2999    Prix/Modalités de paiement
+R4000-4999    Déclaration statutaire
+
+<strong>S.     ARRANGEMENTS EN MATIÈRE D'APPROVISIONNEMENT</strong><strong></strong>
+
+<strong>T.-V.  SERONT DÉTERMINÉES ULTÉRIEUREMENT</strong>
+
+<strong>W.     ENTENTES SUR LES REVENDICATIONS TERRITORIALES GLOBALES</strong>
+
+W0000-0009    Exigences de livraison
+W0010-0019    Convention de la Baie James et du Nord québécois
+W0020-0029    Convention définitive des Inuvialuit
+W0030-0039    Entente sur la revendication territoriale globale des 
+Gwich'in
+W0040-0049    Entente sur les revendications territoriales globales des 
+Inuit du Nunavut
+W0050-0119    Accord-cadre définitif du Conseil des Indiens du Yukon
+W0120-0129    Entente sur la revendication territoriale globale des Dénés 
+et des Métis du Sahtu
+W0130-0139    Convention pour l'établissement d'un parc national sur l'île 
+Banks
+W0140-0149    Accord de cogestion du parc national Tuktut Nogait
+W0150-0159    Accord de coopération entre l'« Inuvialuit Regional 
+Corporation » et le ministère de la Défense nationale concernant 
+l'exploitation et la maintenance du Système d'alerte du Nord
+W0160-0169    Accord de coopération entre l'« Inuvialuit Regional 
+Corporation » et le ministère de la Défense nationale  concernant le 
+réaménagement et le nettoyage des sites DEW dans la région de peuplement 
+des Inuvialuit
+
+<strong>X.     RÉSERVÉE POUR LES CLAUSES LOCALES DE L'EIA (ne sont pas publiées 
+dans le Guide des CCUA)</strong>
+
+<strong>Y.      PROGRAMME DE SUBVENTIONS DE L'ACDI</strong><strong></strong>
+
+Y0001-0999    Permis d'exportation
+Y1000-1999    Drawback des droits de douane
+Y2000-2999    Frais de port
+Y3000-3999    Conditionnement et étiquetage
+Y4000-4999    Expédition et documentation
+Y5000-5999    Taxe sur les produits et services
+Y9000-9999    Autres
+
+<strong>Z.     CORPORATION COMMERCIALE CANADIENNE - Gouvernement des É.-U.</strong><strong></strong>
+
+Z0001-0199    Transports
+Z0200-0399    Administration des contrats
+Z0400-0599    Conservation, conditionnement, emballage et marquage
+Z0600-0799    Inspection et acceptation
+Z0800-0999    Propriété du gouvernement des É.-U.
+Z1000-1999    Facturation et documentation
+Z1200-1399    Taxe sur les produits et services
+Z1400-1599    Changements contractuels
+Z1600-1799    Litiges
+Z1800-1999    Inexécution
+Z2000-2199    Indemnité pour les brevets d'invention
+Z2200-2399    Droits de douane
+Z2400-2599    Variation dans la quantité
+Z2600-2799    Dispositions spéciales
+Z2800-2999    Prix
+Z3000-3199    Priorités
+Z3200-3399    Rapports de production
+Z3400-3599    Dispositions supplémentaires
+Z4000-4999    Autres
+
+
+
+</pre>
+</div>

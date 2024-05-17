@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les soumissionnaires doivent présenter des prix pour les quantités 
+   emballées, conformément aux spécifications figurant à l'annexe "B" pour 
+   chaque produit. En outre, si les quantités contenues dans vos 
+   conditionnements commerciaux diffèrent de celles qui font l'objet de 
+   conditionnements de base, intermédiaires et en vrac énoncées à l'annexe 
+   "B", vous pouvez préciser vos propres quantités et vos prix FAB à 
+   l'usine et à destination à l'annexe "___" ci-jointe. Ces prix peuvent ou 
+   non être pris en considération au moment de l'évaluation des offres. 
+   S'ils sont retenus, les quantités prévues dans le contrat seront 
+   ajustées au besoin pour être conformes aux quantités choisies.  
+</pre>
+</div>

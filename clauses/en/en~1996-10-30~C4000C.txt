@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where travel and living expenses, plus 
+profit, are to be directly charged to the contract, determined in accordance 
+with the appropriate departmental profit policy. Refer to Annex 10.1.4: COST 
+INTERPRETATION BULLETIN - Number 04, Travel Costs in the Supply Manual. Clauses 
+are to be revised as necessary where living expenses are being recovered at per 
+diem rates or where a firm basis of pricing is used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor will be paid for authorized reasonable and proper 
+       travel and living expenses incurred by personnel directly engaged in 
+       the performance of the Work at cost calculated in accordance with 
+       Contract Cost Principles, DSS-MAS 1031-2. In addition, the following 
+       allowance will be paid at the rate shown:
+
+       STRIKE OUT<strong><strong><strong> OR </strong></strong></strong>COMPLETE AS APPLICABLE
+
+       Administrative Overhead: _____ percent.
+
+       Profit on travel and living expenses and on administrative overhead: ____ 
+       percent.
+
+2.     All payments are subject to government audit.
+
+
+</pre>
+</div>

@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts in conjunction with A0300T, Military 
+Aviation Replacement Parts - Condition and Certification of Deliverables End 
+Items.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall provide the following airworthiness documentation, 
+enclosed in the shipment or attached to the item:
+
+______________________
+
+______________________
+
+______________________.
+
+
+</pre>
+</div>

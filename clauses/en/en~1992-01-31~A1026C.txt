@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Project Authority:    _____    
+
+The Project Authority is responsible for all matters concerning the 
+   technical or pedagogical content of the work under this requirement. Any 
+   proposed changes to the scope of the work are to be discussed with the 
+   Project Authority, but any resulting changes can only be authorized by 
+   an amendment issued by the Contracting Authority. In addition, only work 
+   called-up by the resulting contract will be performed against the 
+   contract.  
+</pre>
+</div>

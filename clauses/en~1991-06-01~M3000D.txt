@@ -1,9 +1,0 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
-<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
- No remarks.
-</section>
-<h3 class="clause-heading">Legal text for SACC item</h3><pre>FOLLOWING AWARD OF A STANDING OFFER, IT IS THE SUPPLIER'S RESPONSIBILITY TO 
-   SUPPLY AND UPDATE PRICE LISTS AND/OR CATALOGUES THE DEPARTMENT MAY 
-   REQUIRE. 
-</pre>
-</div>

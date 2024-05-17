@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Aux fins du présent besoin, les heures de travail et périodes 
+       d'heures supplémentaires suivantes s'appliqueront :
+
+       a)     Un jour de travail normal sera toute période de 7.5 heures 
+              située entre 7 h et 17 h, du lundi au vendredi inclusivement, 
+              et totalisant 37.5 heures par semaine.
+
+       b)     Les heures supplémentaires du lundi au vendredi débuteront 
+              après une période de 7.5 heures de travail continu chaque 
+              jour.
+
+       c)     Les heures supplémentaires du samedi et du dimanche 
+              constitueront toute période de travail effectué le samedi ou 
+              le dimanche.
+
+2.     Les déplacements effectués au-delà d'un rayon de 40 kilomètres à 
+       partir de l'emplacement de travail seront, s'ils sont autorisés par 
+       le bureau d'inspection du ministère des Travaux publics et des 
+       Services gouvernementaux (MTPSG), payés conformément aux directives 
+       du Conseil du Trésor relatives aux déplacements pour la fonction 
+       publique, d'après la version la plus récente en vigueur à ce 
+       moment-là, et les dépenses engagées seront payées sans provision 
+       pour frais généraux ni bénéfice.
+
+3.     Aucune somme ne sera accordée pour des frais d'enlèvement engagés 
+       par le personnel affecté, à partir des lieux de travail ou en 
+       direction de ceux-ci.
+
+4.     Pendant la durée du contrat, le calendrier des congés du titulaire 
+       sera établi avec l'approbation préalable du bureau d'inspection du 
+       MTPSG et selon un accord conclu avec celui-ci, le bureau se 
+       préoccupera d'abord d'assurer la disponibilité d'un personnel en 
+       permanence.
+
+
+</pre>
+</div>

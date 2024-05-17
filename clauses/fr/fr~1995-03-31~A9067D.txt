@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les invitations à soumissionner et les documents 
+contractuels pour les agences et revendeurs.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La garantie apparaissant dans le contrat n'est pas moins avantageuse pour 
+le Canada, à tout égard, que les conditions de la garantie standard offerte 
+par le fabricant ou le concepteur et concernant les biens ou services qu'il 
+doit fournir en vertu de ce contrat.
+
+</pre>
+</div>

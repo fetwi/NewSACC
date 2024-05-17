@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the original notice of contract award 
+was issued by e-mail, facsimile or telephone.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor was notified of contract award by <span class="input-required"><var>__________</var> <kbd>(<em>insert "e-mail",
+"facsimile" or "telephone", as applicable</em>)</kbd></span> on
+<span class="input-required"><var>_________</var> <kbd>(<em>insert date</em>)</kbd></span>. The Work specified in the notice, if any,
+must not be duplicated.</p>
+</div></pre>
+</div>

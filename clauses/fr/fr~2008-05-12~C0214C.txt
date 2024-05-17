@@ -1,0 +1,101 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats de services lorsque des taux 
+horaires fermes sont établis pour les honoraires professionnels et que les frais 
+de déplacement et de subsistance ainsi que les coûts directs doivent être 
+remboursés au coût réel, sans majoration.
+
+Ajouter ou supprimer des paragraphes au besoin pour satisfaire des exigences 
+précises.  Ajouter le paragraphe relatif à l'option de prolongation du contrat, 
+s'il y a lieu.
+
+Utiliser cette clause en conjonction avec C6001C.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur sera payé des taux horaires fermes comme suit, pour les 
+travaux exécutés en vertu du contrat.  Les droits de douane _______ (<span class="wsInlineRemark"><strong>
+insérer</strong></span><em> </em>« sont inclus », « sont exclus »<em> </em><span class="wsInlineRemark"><strong>ou</strong></span><em> </em>« font l'objet d'une exemption 
+») et la taxe sur les produits et services ou la taxe de vente harmonisée (
+TPS/TVH) est en sus, s'il y a lieu.
+
+</pre> <table border="0" summary="Taux Horaires Fermes">
+<thead>
+<tr align="left" valign="top">
+<th>Catégorie</th>
+<th>Nom (s'il y a lieu)</th>
+<th>Taux horaire ferme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>_________________</td>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+<tr>
+<td>_________________</td>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+</tbody>
+</table> <pre>
+Coût estimatif total : _____ $
+
+<strong>Frais de déplacement et de subsistance</strong>
+
+L'entrepreneur sera remboursé pour les frais autorisés de déplacement et de 
+subsistance qu'il a  raisonnablement et convenablement engagés dans 
+l'exécution des travaux, au prix coûtant, sans aucune indemnité pour les 
+frais généraux ou le profit, conformément aux indemnités relatives aux 
+repas, à l'utilisation d'un véhicule privé, et aux faux frais qui sont 
+précisées aux appendices B, C et D de la Directive du Conseil du Trésor sur 
+les voyages (http://www.tbs-sct.gc.ca/pubs_pol/hrpubs/TBM_113/menu-travel-
+voyage_f.asp ), et selon les autres dispositions de la Directive qui se 
+rapportent aux « voyageurs » plutôt que celles qui se rapportent aux « 
+employés ».
+
+Tout déplacement doit être approuvé au préalable par le ____________ (<span class="wsInlineRemark"><strong>
+insérer le nom de l'autorité applicable</strong></span>). Tous les paiements peuvent faire 
+l'objet d'une vérification par le gouvernement.
+
+Coût estimatif : _____ $.
+
+<strong>Autres coûts directs</strong>
+
+L'entrepreneur sera remboursé pour les coûts directs qu'il a 
+raisonnablement et convenablement engagés dans l'exécution des travaux, par 
+exemple, pour la location de salles de réunion, les télécommunications et 
+la traduction.  Ces coûts seront remboursés au coût réel, sans majoration, 
+sur présentation d'un état détaillé des coûts accompagné des reçus 
+appropriés.
+
+Coût estimatif : _______ $
+
+<strong>Coût estimatif total - Limitation des dépenses : ________ $</strong> (TPS/TVH en sus)
+<strong></strong>
+
+<span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats</strong></span><span class="wsInlineRemark">:</span><em> </em><span class="wsInlineRemark">Insérer le paragraphe 
+suivant lorsque le contrat comprend une option de prolongation.</span><strong></strong>
+<strong>Option de prolongation du contrat</strong>
+Durant la période de prolongation du contrat, l'entrepreneur sera payé aux 
+taux horaires fermes suivants pour effectuer tous les travaux relatifs à la 
+période de prolongation du contrat.
+
+</pre> <table border="0" summary="Taux horaire ferme">
+<thead>
+<tr align="left" valign="top">
+<th>Catégorie</th>
+<th>Taux horaire ferme</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+<tr>
+<td>_________________</td>
+<td>$________________</td>
+</tr>
+</tbody>
+</table> <pre></pre>
+</div>

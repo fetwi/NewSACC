@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats à taux fixe basé sur le temps 
+lorsque les heures supplémentaires doivent être autorisées d'avance et par écrit 
+par l'agent de négociation des contrats.
+
+Pour plus de renseignements, consulter l'article
+ 
+  8.50
+ 
+ du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur ne devra pas faire d'heures supplémentaires
+en vertu du contrat à moins d'y être autorisé
+d'avance et par écrit par l'autorité contractante. Toutes
+les demandes de paiement doivent être accompagnées d'une
+copie de l'autorisation d'heures supplémentaires et d'un
+rapport faisant état des détails exigés par le
+Canada en ce qui a trait aux heures supplémentaires
+effectuées conformément à cette autorisation. Le
+paiement pour les heures supplémentaires autorisées sera
+calculé comme suit :</p>
+<p class="description">(<strong>Insérer les détails de
+calcul.</strong>)</p>
+</div></pre>
+</div>

@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in competitive bid solicitations not subject to public advertising, for requirements that are not classified, when a list is used to invite suppliers. Contracting officers must attach the list of suppliers invited to bid as an annex to the bid solicitation.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The list of suppliers being invited to bid on this solicitation
+is attached as Annex <var>"_____"</var>. This list will not be
+updated if additional suppliers request copies of the bid
+solicitation.</p>
+</div></pre>
+</div>

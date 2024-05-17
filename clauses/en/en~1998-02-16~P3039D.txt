@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Department of Revenue Canada (Taxation) is authorized to redirect 
+shipments from one destination to another during the period of the contract.  
+FOB Plant price to be used in the event that it may be necessary to 
+redirect deliveries to another destination.  The new transportation cost 
+(if reflecting an increase due to changed destination) shall be submitted 
+to the Department of Public Works and Government Services Traffic 
+Management Directorate.  It is mandatory that the cost (either an increase 
+or decrease) be approved by the Contracting Authority prior to shipment.  
+Failure to obtain the prior approval shall imply that any cost increase 
+will not be paid.
+
+</pre>
+</div>

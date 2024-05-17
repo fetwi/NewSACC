@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque des représentants du Canada devront travailler dans des locaux fournis par l'entrepreneur. Les agents de négociation des contrats doivent préciser le nombre de personnes pour qui il faudra fournir des locaux, le genre de matériel nécessaire, etc.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Pour la période du contrat, l'entrepreneur devra fournir les locaux meublés suivants aux représentants autorisés du Canada : <var>_____</var> .</p>
+</div></pre>
+</div>

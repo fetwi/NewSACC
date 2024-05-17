@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque le calendrier de livraison 
+des rapports n'est pas précisé dans l'énoncé des travaux.
+
+Utiliser cette clause en conjonction avec H4016C.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En plus des rapports ________ (<span class="wsInlineRemark">insérer</span> « mensuels » <span class="wsInlineRemark">ou</span> « bi-mensuels » <span class="wsInlineRemark">ou</span> «
+ trimestriels » selon la clause H4016C) sur l'avancement des travaux, 
+l'entrepreneur doit livrer une ébauche du rapport final en _____ copies, au 
+plus tard le _____ (<span class="wsInlineRemark">insérer la date</span>), et un rapport final en _____ copies, 
+au plus tard le _____ (<span class="wsInlineRemark">insérer la date</span>), au                    (<span class="wsInlineRemark">insérer</span> « 
+responsable technique » <span class="wsInlineRemark">ou</span> « chargé de projet »).
+
+
+
+</pre>
+</div>

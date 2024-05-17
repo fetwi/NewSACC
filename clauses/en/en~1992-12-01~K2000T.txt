@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations where a resultant contract may be 
+subject to the Employment Equity Policy (SPM Directive 3055).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Federal Contractors Program for Employment Equity requires that some 
+organizations bidding for federal government contracts make a formal 
+commitment to implement employment equity, as a pre-condition to the 
+validation of their bids. All bidders must check the applicable box(es) 
+below. Failure to do so may render the bid non-responsive.
+
+Program requirements do not apply for the following reason(s):  
+
+       [ ]    bid is less than $200,000;
+
+       [ ]    this organization has fewer than 100 permanent part-time and/
+              or full time employees;
+
+       [ ]    this organization is a federally regulated employer;
+
+or, program requirements do apply:
+
+       [ ]    copy of signed Certificate of Commitment is enclosed; or
+
+       [ ]    Certificate number is _____.
+
+       NOTE: The Certificate of Commitment, criteria and other information 
+   about the Federal Contractors Program for Employment Equity, are 
+   available in the Standard Acquisition Clauses and Conditions (SACC) 
+   Manual, Section 2, and on the Open Bidding Service (OBS) electronic 
+   bulletin board.
+</pre>
+</div>

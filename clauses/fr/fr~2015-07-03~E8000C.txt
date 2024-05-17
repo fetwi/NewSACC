@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsqu'une garantie financière sous forme de cautionnement pour le paiement de la main-d'oeuvre et des matériaux est exigée.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent compléter le paragraphe 1.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Afin de garantir la disponibilité des fonds pour la main-d'oeuvre, les services et les matériaux, l'entrepreneur doit, dans les <var>_____</var> jours civils après la date d'attribution du contrat, fournir à l'autorité contractante un cautionnement pour le paiement de la main-d'oeuvre et des matériaux dûment signé formulaire PWGSC-TPSGC 506. Le cautionnement pour le paiement de la main-d'oeuvre et des matériaux doit représenter <var>_______</var> p. 100 du prix contractuel et doit être accepté à titre de garantie par une des compagnies de cautionnement énumérées à l'<cite>Appendice L, Compagnies de cautionnement reconnues, de la Politique sur les marchés du Conseil du Trésor.</cite></li>
+<li value="2">L'entrepreneur doit afficher une copie du cautionnement dans un endroit bien en évidence à chaque endroit où les travaux sont exécutés.</li>
+<li value="3">Si le Canada ne reçoit pas le cautionnement exigé dans le délai requis, le Canada peut résilier le contrat pour manquement conformément aux dispositions du
+contrat.</li>
+</ol>
+</div></pre>
+</div>

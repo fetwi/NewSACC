@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain 
+contient une clause « option d'augmentation ».
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La <abbr title="Corporation commerciale candienne">CCC</abbr> se réserve le droit d'augmenter la quantité
+commandée dans le Contrat pour un montant ne dépassant
+pas <var>_____</var> p. 100. L'utilisation de cette option devra
+faire l'objet d'un avis de la <abbr title="Corporation commerciale candienne">CCC</abbr> dans un délai de
+<var>_____</var> jours, à partir du <var>_____</var> , date
+à laquelle le présent Contrat a été
+attribué. Sauf accord contraire entre la <abbr title="Corporation commerciale candienne">CCC</abbr> et
+l'Entrepreneur, il est bien entendu que les quantités qui
+peuvent être demandées en plus au moyen de cette option
+seront fournies après la livraison de la quantité
+initialement prévue, aux mêmes prix et taux de
+livraison.</p>
+</div></pre>
+</div>

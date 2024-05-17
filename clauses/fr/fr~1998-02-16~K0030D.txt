@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause avec DSS-MAS 1036, Recherche et développement.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les conditions générales supplémentaires DSS-MAS 1036, Recherche et 
+développement, sont modifiées en supprimant l'article 02 (Exécution de 
+l'ouvrage) et en le remplaçant par le suivant :
+
+       « 02   Exécution de l'ouvrage
+
+       L'entrepreneur,
+
+       a)     exécute l'ouvrage à la satisfaction du responsable du projet 
+              et se conforme à toutes les instructions et directives que 
+              peut lui donner, de temps à autre, le ministre ou le 
+              responsable du projet en ce qui concerne l'ouvrage, 
+              l'exécution des travaux ou leur avancement.
+
+       b)     s'assure de la sécurité des travailleurs et de l'exécution 
+              diligente et efficace des travaux conformément aux pratiques 
+              reconnues dans l'industrie et aux dispositions législatives 
+              relatives à la santé et à la sécurité des travailleurs. »
+
+</pre>
+</div>

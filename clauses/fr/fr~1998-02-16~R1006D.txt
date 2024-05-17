@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans l'entente de services d'expert-conseil en 
+architecture et en génie - travaux d'ingénierie.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Après l'approbation des études conceptuelles, l'<em>expert-consei</em>l doit 
+       préparer et
+
+       a)     soumettre au <em>représentant du Ministère</em> les documents de 
+              conception préliminaire dont les études analytiques, dessins 
+              et autres documents techniques suffisamment détaillés en vue 
+              de déterminer la taille, l'objet et la nature de l'ensemble 
+              du projet;
+
+       b)     proposer un <em>coût estimatif de construction</em> à jour ainsi qu'un <em>
+              plan des coûts</em> et un calendrier du projet, et
+
+       c)     fournir des exemplaires de tous les documents de conception 
+              préliminaire selon le modèle et le nombre précisés dans la 
+              clause R2003D, Particularités de l'entente.
+
+</pre>
+</div>

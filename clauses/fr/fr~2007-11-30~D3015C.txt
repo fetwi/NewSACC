@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats pour des marchandises 
+dangereuses/produits dangereux, afin de s'assurer que l'étiquetage et 
+l'emballage sont conformes aux règlements.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit assurer un étiquetage et
+emballage appropriés en vue de la fourniture et de
+l'expédition de marchandises dangereuses/produits dangereux au
+gouvernement du Canada.</li>
+<li value="2">L'entrepreneur sera tenu responsable des dommages
+causés par un emballage, étiquetage ou transport
+inapproprié de marchandises dangereuses/produits
+dangereux.</li>
+<li value="3">L'entrepreneur doit clairement marquer le pourcentage
+de matières dangereuses en volume sur toutes les
+étiquettes de marchandise. À défaut de le faire,
+l'entrepreneur sera tenu responsable des dommages causés au
+cours du déplacement des marchandises dangereuses/produits
+dangereux par des véhicules ou des employés du
+gouvernement.</li>
+<li value="4">L'entrepreneur doit respecter toutes les lois
+applicables relatives aux marchandises dangereuses/produits
+dangereux.</li>
+</ol>
+</div></pre>
+</div>

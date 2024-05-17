@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the request for standing offers contains mandatory 
+and point-rated technical evaluation criteria, and the basis of selection will 
+be the responsive offer with the lowest evaluated price.
+
+Contracting officers must complete and insert in 1.(c) one of the following 
+options:
+
+Option 1:
+	"obtain the required minimum of _____ (insert minimum percentage) percent 
+overall of the points for the technical evaluation criteria which are subject to 
+point rating.  The rating is performed on a scale of _____ (insert total number 
+of available points) points."
+
+Option 2:
+	"obtain the required minimum of _____ (insert minimum number of points) points 
+overall for the technical evaluation criteria which are subject to point rating. 
+ The rating is performed on a scale of _____ (insert total number of available 
+points) points."
+
+Option 3:
+	"obtain the required minimum of points overall for the technical evaluation 
+criteria which are subject to point rating."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     To be declared responsive, an offer must:
+
+       (a)    comply with all the requirements of the Request for Standing 
+              Offers (RFSO); and
+
+       (b)    meet all mandatory technical evaluation criteria; and
+
+       (c)    ________ (<strong><em>Contracting officers are to insert one of the 
+              options provided under the remarks section above</em></strong>.)
+
+2.     Offers not meeting (a) or (b) of (c) above declared non-responsive.  
+   The responsive offer with the lowest evaluated price will be recommended 
+   for issuance of a standing offer.
+</pre>
+</div>

@@ -1,0 +1,685 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>9601-10       00     (25/05/01)    Conditions générales - formule 
+                            semi-détaillée</strong>
+
+<strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Qualité de l'entrepreneur
+03     Modifications et renonciations
+04     Exécution des travaux
+05     Respect du droit applicable
+06     Cession
+07     Rigueur des délais
+08     Retard justifiable
+09     Paiement
+10     Intérêt sur les comptes en souffrance
+11     Modification des taxes et des droits
+12     Droit de propriété
+13     Garantie
+14     Protection contre les réclamations de tiers
+15     Redevances et violations
+16     Droits d'auteur
+17     Manquement de la part de l'entrepreneur
+18     Résiliation au gré du Ministre
+19     Membres de la Chambre des communes
+20     Conflits d'intérêts
+21     Pots-de-vin
+22     Dissociabilité
+23     Exhaustivité de la convention
+24     Certification - Honoraires conditionnels
+
+
+
+
+<strong>9601-10       01     (25/05/01)    Interprétation</strong>
+
+1.     À moins que le contexte n'indique un sens différent, les définitions 
+       qui suivent s'appliquent au présent contrat.
+
+       « Canada », « Couronne », « Sa Majesté » ou « État » : Sa Majesté la 
+       Reine du chef du Canada;
+
+       « contrat » : la convention écrite liant les parties, les présentes 
+       Conditions générales, les Conditions générales supplémentaires 
+       stipulées dans la convention écrite et tout autre texte que l'un ou 
+       l'autre de ces documents intègre au document par renvoi, compte tenu 
+       des modifications apportées avec l'accord des parties;
+
+       « contrat de sous-traitance » : comprend le contrat cédé par un 
+       sous-traitant, à tout échelon de la sous-traitance, pour l'exécution 
+       d'une partie des travaux, les termes et expressions dérivés étant 
+       interprétés en conséquence;
+
+       « coût » : le coût établi conformément aux Principes des coûts 
+       contractuels, DSS-MAS 1031-2, en vigueur à la date de l'appel 
+       d'offres;
+
+       « devis » : la description fonctionnelle ou technique des travaux 
+       indiquée ou mentionnée au contrat, y compris les dessins, les 
+       échantillons et les modèles ainsi que, sauf incompatibilité avec 
+       tout élément ou mention du contrat, la description indiquée ou 
+       mentionnée dans une brochure, un document relatif au produit ou tout 
+       autre document fourni par l'entrepreneur relativement à tout ou 
+       partie des travaux;
+
+       « droits moraux » : a le même sens que dans la <em>Loi sur le droit 
+       d'auteur</em>, L.R.C. (1985), ch. C-42;
+
+       « l'entrepreneur » : la personne physique ou morale dont le nom 
+       figure à la page de signature de la convention écrite et qui est 
+       chargée de fournir au Canada des biens ou des services stipulés par 
+       contrat;
+
+       « Ministre » : le ministre des Travaux publics et des Services 
+       gouvernementaux et tout mandataire dûment autorisé;
+
+       « partie » : le Canada ou l'entrepreneur, ou encore tout autre 
+       signataire du contrat; « parties »  l'ensemble de ceux-ci;
+
+       « prix contractuel » : la somme payable à l'entrepreneur en vertu du 
+       contrat, pour l'exécution des travaux;
+
+       « redevances » comprend les éléments suivants :
+
+       a)     les droits de licence et autres versements apparentés aux 
+              redevances, ainsi que les actions en dommages-intérêts, liés 
+              à l'utilisation ou à la violation d'un brevet, d'un dessin 
+              industriel déposé, d'une marque de commerce, d'une oeuvre 
+              protégée par le droit d'auteur, d'un secret industriel ou 
+              d'un autre droit de propriété intellectuelle; 
+
+       b)     les frais engagés en raison de l'exercice, par quiconque, de 
+              droits moraux.
+
+       « travaux » :  les activités, services, matériaux, équipements, 
+       logiciels, articles et objets que doit fournir l'entrepreneur 
+       conformément aux modalités du contrat.
+
+2.     Les intitulés apparaissant dans les présentes Conditions générales 
+       n'y figurent qu'à titre de repère ou d'information et n'ont pas 
+       d'incidence sur leur interprétation.
+
+3.     Si le contrat est un contrat de défense au sens de la <em>Loi sur la 
+       production de défense</em>, L.R.C. 1985, ch. D-1, il est régi par cette 
+       loi.
+
+4.     Aux fins du contrat, le singulier comprend le pluriel, le pluriel 
+       comprend le singulier, et le masculin comprend le féminin.
+
+
+<strong>9601-10       02     (01/12/92)    Qualité de l'entrepreneur</strong>
+
+L'entrepreneur est retenu à titre d'entrepreneur indépendant à la seule fin 
+d'exécuter les travaux.  Ni l'entrepreneur ni ses employés ne constituent 
+des employés, des préposés ou des mandataires du Canada.
+
+
+<strong>9601-10       03     (01/12/92)    Modifications et renonciations</strong>
+
+Les modifications apportées au contrat ne sont valides que si elles sont 
+intégrées au contrat au moyen d'un document écrit à cet effet portant la 
+signature des représentants autorisés du Ministre et de l'entrepreneur.  
+Une renonciation n'est valable, ne lie les parties et ne modifie leurs 
+droits que lorsqu'elle est faite par écrit par l'autorité contractante, 
+dans le cas d'une renonciation du Canada, et par le représentant autorisé 
+de l'entrepreneur, dans le cas d'une renonciation de l'entrepreneur.  Le 
+fait qu'une partie renonce à exercer les recours que lui confère 
+l'inexécution de l'une ou l'autre des conditions du contrat ne l'empêche 
+pas d'obtenir la sanction de celle-ci à l'occasion d'une inexécution 
+subséquente, et n'est pas réputée constituer une renonciation à l'exercice 
+du recours que confère toute inexécution subséquente.
+
+
+<strong>9601-10       04     (01/12/92)    Exécution des travaux</strong>
+
+1.     L'entrepreneur déclare et atteste ce qui suit :
+
+       a)     il est qualifié pour exécuter les travaux;
+
+       b)     il a les qualités requises, incluant la connaissance et 
+              l'habileté, pour exécuter les travaux, et l'aptitude à les 
+              utiliser efficacement à cette fin.
+
+2.     L'entrepreneur fournit tout ce qui est nécessaire à l'exécution des 
+       travaux.
+
+3.     L'entrepreneur :
+
+       a)     exécute les travaux de manière diligente et efficace;
+
+       b)     s'assure que les travaux :
+
+              (1)    sont de bonne qualité et sont exécutés à l'aide de 
+                     matériaux appropriés et selon les règles de l'art;
+
+              (2)    sont en tous points conformes au devis;
+
+              (3)    satisfont aux exigences du contrat.
+
+
+<strong>9601-10       05     (01/12/92)    Respect du droit applicable</strong>
+
+L'entrepreneur se conforme aux dispositions législatives applicables à 
+l'exécution des travaux.
+
+
+<strong>9601-10       06     (01/12/92)    Cession</strong>
+
+1.     L'entrepreneur ne peut céder tout ou partie du contrat sans avoir 
+       préalablement obtenu le consentement écrit du Ministre, et toute 
+       prétendue cession effectuée sans avoir obtenu ce consentement est 
+       nulle et sans effet.
+
+2.     La cession du contrat ne relève pas l'entrepreneur de ses 
+       obligations aux termes du contrat ni ne confère d'obligations au 
+       Canada ou au Ministre, sauf consentement écrit à l'effet contraire 
+       du Ministre.
+
+
+<strong>9601-10       07     (01/12/92)    Rigueur des délais</strong>
+
+Les délais impartis dans le contrat sont de rigueur.
+
+
+<strong>9601-10       08     (01/12/92)    Retard justifiable</strong>
+ 
+En cas de retard dans l'exécution des travaux pour des raisons de force 
+majeure, les délais d'exécution sont prolongés pour une période équivalant 
+au temps perdu pour ces raisons, à condition que l'entrepreneur ait prévenu 
+le Ministre de l'événement de force majeure aussitôt qu'il en a pris 
+conscience; le Ministre se réserve toutefois le droit, si la période visée 
+par le cas de force majeure est supérieure à 30 jours, par avis écrit à 
+l'entrepreneur, de résilier le contrat, sans frais pour le Canada, se 
+rapportant à tout ou partie des travaux non exécutés.  Lorsque l'avis de 
+résiliation est signifié en vertu du présent article et que le Canada a 
+payé d'avance tout ou partie des travaux visés par la résiliation, l'avance 
+doit être remboursée au Ministre sur présentation d'une demande écrite à 
+cette fin.  Les cas de «force majeure» au sens du présent article incluent 
+les incendies, les inondations, les émeutes, les actions de l'ennemi, les 
+cas fortuits, les actions du gouvernement et les autres événements qui 
+échappent à la volonté de l'entrepreneur.
+
+
+<strong>9601-10       09     (01/12/92)    Paiement</strong>
+
+1.     Par dérogation à toute autre disposition du contrat, le paiement à 
+       l'entrepreneur n'est versé que lorsque les conditions suivantes sont 
+       remplies :
+
+       a)     une facture, des notes d'inspection, des attestations et tout 
+              autre document exigé par le contrat ont été remis 
+              conformément aux dispositions du contrat et aux directives du 
+              Ministre;
+
+       b)     tous ces documents ont été vérifiés par le Ministre;
+
+       c)     en ce qui concerne toute partie des travaux pour laquelle le 
+              paiement est exigé, l'entrepreneur a établi à la demande et 
+              selon les exigences du Ministre qu'elle était libre et quitte 
+              de tout privilège, créance, saisie, sûreté ou charge;
+
+       d)     en ce qui concerne le paiement de travaux achevés, ceux-ci 
+              ont été inspectés par le Canada et jugés conformes aux 
+              dispositions du contrat, y compris le devis.
+
+2.     Dans les 15 jours suivant la réception d'une facture, le Ministre 
+       donne à l'entrepreneur un avis concernant toute lacune relevée dans 
+       la facture ou insuffisance de pièces justificatives et, le cas 
+       échéant, le paiement du montant exigé dans la facture est différé 
+       jusqu'à ce que l'entrepreneur corrige la lacune selon les exigences 
+       du Ministre.
+
+
+<strong>9601-10       10     (01/12/00)    Intérêt sur les comptes en souffrance</strong>
+
+1.     Les définitions suivantes s'appliquent au présent article :
+
+       « date de paiement » : la date que porte le titre négociable tiré 
+       par le Receveur général du Canada et remis aux fins de payer une 
+       somme exigible;
+
+       « en souffrance » : s'entend de la somme qui demeure impayée le 
+       lendemain du jour où elle est devenue exigible;
+
+       « exigible » : s'entend de la somme due par le Canada et exigible 
+       par l'entrepreneur aux termes du contrat;
+
+       « taux moyen » : la moyenne arithmétique simple du taux d'escompte 
+       en vigueur chaque jour, à 16 h, heure normale de l'est, pour le mois 
+       de calendrier immédiatement antérieur à la date de paiement, et « 
+       taux d'escompte » s'entend du taux d'intérêt fixé de temps en temps 
+       par la Banque du Canada qui représente le taux minimum auquel elle 
+       consent des avances à court terme aux membres de l'Association 
+       canadienne des paiements.
+
+2.     Sous réserve du contrat, le Canada verse à l'entrepreneur des 
+       intérêts simples, au taux moyen majoré de 3 p. 100 par année, sur 
+       toute somme en souffrance, à partir du premier jour où la somme est 
+       en souffrance jusqu'au jour qui précède la date de paiement.  
+       L'intérêt est payable sans avis de l'entrepreneur.
+
+3.     Le Canada ne verse pas d'intérêts en application du présent article 
+       lorsqu'il n'est pas responsable du retard à payer l'entrepreneur.
+
+4.     Le Canada ne verse pas d'intérêts sur les paiements anticipés qui 
+       sont en souffrance. 
+
+<strong>9601-10       11     (01/12/92)    Modification des taxes et des droits</strong>
+
+1.     Aux fins du présent article, « soumission » comprend une proposition, 
+       une soumission ou une offre présentée par l'entrepreneur en réponse 
+       à une demande du Ministre.
+
+2.     Sous réserve du paragraphe 3, si une modification est apportée (y 
+       compris par ajout ou par suppression), au moment ou à la suite de la 
+       présentation de la soumission, à une taxe, à un droit, notamment de 
+       douanes, et à des frais similaires perçus en application des lois 
+       sur la taxe de vente ou d'accise du Gouvernement du Canada, ayant 
+       une incidence sur le coût des travaux à assumer par l'entrepreneur, 
+       le prix contractuel est rajusté pour tenir compte de l'augmentation 
+       ou de la diminution de ce coût.
+
+3.     Le prix contractuel n'est pas rajusté à la hausse en vertu du 
+       paragraphe 2 si un avis public de la modification a été donné avant 
+       la date de clôture des soumissions avec suffisamment de détails pour 
+       permettre de calculer l'incidence de la modification sur le coût des 
+       travaux à assumer par l'entrepreneur.
+
+4.     L'entrepreneur fait parvenir au Ministre une attestation faisant 
+       état de l'augmentation ou de la diminution du coût des travaux 
+       découlant directement de la modification d'une taxe, d'un droit ou 
+       d'un autre frais perçu.  Le Ministre peut, au moyen d'une 
+       vérification, s'assurer de l'exactitude de l'augmentation ou de la 
+       diminution du coût avant ou après le rajustement du prix contractuel.
+
+5.     Par dérogation aux paragraphes 2 à 4, aucun rajustement du prix 
+       contractuel pour tout ou partie des travaux n'intervient par suite 
+       d'une modification visée au présent article qui se produit après la 
+       date de livraison stipulée au contrat à l'égard de ces travaux.
+
+
+<strong>9601-10       12     (31/03/95)    Droit de propriété</strong>
+
+1.     Sauf disposition contraire du contrat et sous réserve du paragraphe 
+       2, le droit de propriété sur tout ou partie des travaux est transmis 
+       au Canada dès leur livraison et leur acceptation par ou pour le 
+       Canada.
+
+2.     Lorsqu'un paiement est effectué à l'entrepreneur à l'égard de 
+       matériaux, de pièces, de travaux en cours ou de travaux achevés, 
+       notamment au moyen d'acomptes ou d'avances à justifier, le droit de 
+       propriété y afférent est transmis au Canada, à moins qu'il ne soit 
+       déjà ainsi transmis aux termes d'une autre disposition du contrat.
+
+3.     Par dérogation à toute transmission du droit de propriété mentionné 
+       au présent article et sous réserve des dispositions contraires du 
+       contrat, le risque de perte ou d'endommagement de tout ou partie des 
+       matériaux, pièces, travaux en cours ou travaux achevés incombe à 
+       l'entrepreneur jusqu'à la livraison au Canada conformément au 
+       contrat.  L'entrepreneur est responsable de la perte ou de 
+       l'endommagement de toute partie des travaux qui est causé par lui ou 
+       un sous-
+traitant après telle livraison.
+
+4.     L'attribution d'un droit de propriété visé au paragraphe 2 
+       n'entraîne pas l'acceptation par le Canada des matériaux, pièces, 
+       travaux en cours ou travaux achevés ni ne relève l'entrepreneur de 
+       son obligation d'exécuter les travaux conformément au contrat.
+
+5.     Lorsque le droit de propriété sur tout ou partie des matériaux, 
+       pièces, travaux en cours ou travaux achevés est transmis au Canada, 
+       l'entrepreneur établit, à la demande et selon les exigences du 
+       Ministre, que ce droit de propriété est libre et quitte de tout 
+       privilège, créance, saisie, sûreté ou charge et il signe les actes 
+       de transfert s'y rapportant et les autres documents nécessaires pour 
+       valider le titre qu'exige le Ministre.
+
+6.     Lorsque le contrat est un contrat de défense au sens de la <em>Loi sur 
+       la production de défense</em>, L.R.C. 1985, ch. D-1, le droit de 
+       propriété sur les travaux ou sur des matériaux, pièces, travaux en 
+       cours ou travaux achevés est transmis au Canada libre et quitte de 
+       tout privilège, réclamation, charge ou servitude, et le Ministre 
+       peut à tout moment le transférer ou l'aliéner, notamment par vente, 
+       en totalité ou en partie, conformément à l'article 20 de cette loi.
+
+
+<strong>9601-10       13     (01/12/92)    Garantie</strong>
+ 
+1.     Malgré l'inspection et l'acceptation des travaux par le Canada ou 
+       pour le compte de celui-ci et sans limite à l'application des autres 
+       dispositions du contrat ou des conditions, garanties ou dispositions, 
+       tacites ou prévues par la loi, l'entrepreneur garantit, pour une 
+       période de 12 mois à compter de la livraison ou, lorsque 
+       l'acceptation a lieu à une date ultérieure, à compter de 
+       l'acceptation, ou pour la période que prévoit expressément la 
+       convention écrite intervenue entre les parties, que les travaux sont 
+       exempts de toute défectuosité liée à la conception, aux matériaux et 
+       à la qualité de l'exécution et qu'ils sont conformes aux exigences 
+       du contrat.
+
+2.     Lorsque, pendant la période de garantie visée au paragraphe 1, le 
+       Ministre constate la défectuosité ou la non-conformité de quelque 
+       partie des travaux, l'entrepreneur, sur demande du Ministre à cet 
+       effet, répare, remplace ou rectifie, à ses frais et à son choix, la 
+       portion des travaux jugée défectueuse ou non conforme aux exigences 
+       du contrat.
+
+3.     Les travaux jugés défectueux ou non conformes sont retournés à 
+       l'entrepreneur en vue de leur remplacement, de leur réparation ou de 
+       leur rectification.  Cependant, lorsque le Ministre est d'avis qu'il 
+       n'est pas opportun de déplacer les travaux, l'entrepreneur procède 
+       aux réparations ou aux rectifications nécessaires là où les travaux 
+       se trouvent et il est remboursé des frais justes et raisonnables 
+       (incluant une indemnité de déplacement et de subsistance) engagés 
+       pour ce faire, à l'exclusion de tout profit, déduction faite du coût 
+       correspondant à la rectification de la défectuosité ou de la 
+       non-conformité dans les locaux de l'entrepreneur.
+
+4.     Le Canada paie les frais d'expédition de tout ou partie des travaux 
+       aux locaux de l'entrepreneur conformément au paragraphe 3, et 
+       l'entrepreneur paie les frais d'expédition des travaux en cause, une 
+       fois remplacés ou rectifiés, au lieu de livraison précisé dans le 
+       contrat, ou les frais moindres requis pour expédier les travaux en 
+       cause à un autre endroit désigné par le responsable technique.
+
+5.     La garantie prévue au paragraphe 1 s'applique à toute partie des 
+       travaux qui est réparée, remplacée ou par ailleurs rectifiée 
+       conformément au paragraphe 2, pendant toute la durée de la période 
+       de garantie restante.  Les dispositions des paragraphes 2 à 5 du 
+       présent article s'appliquent, compte tenu des adaptations 
+       nécessaires, à toute partie des travaux qui, pendant cette période, 
+       est jugée défectueuse ou non conforme au contrat.
+
+
+<strong>9601-10       14     (25/05/01)    Protection contre les réclamations de 
+                                   tiers</strong>
+
+1.     L'entrepreneur indemnise le Canada et le Ministre, ainsi que leurs 
+       préposés et mandataires, de tous dommages-intérêts ou frais subis 
+       par eux collectivement ou individuellement, et de toute action, 
+       réclamation, poursuite ou autre procédure dirigée contre eux 
+       collectivement ou individuellement, à tout moment, en raison :
+
+       a)     de préjudice corporel (incluant le préjudice entraînant le 
+              décès) ou de la perte ou de l'endommagement du bien d'autrui 
+              qui peuvent résulter, ou dont on allègue qu'ils résultent, de 
+              l'exécution des travaux ou d'une partie de ceux-ci, étant 
+              entendu que le Canada et le Ministre ne peuvent se prévaloir 
+              de la protection du présent article que dans la mesure où le 
+              préjudice, la perte ou l'endommagement est causé par le 
+              Canada;
+
+       b)     de tout privilège, saisie, sûreté ou autre charge ou créance 
+              visant des matériaux, des pièces, des travaux en cours ou des 
+              travaux achevés fournis au Canada ou à l'égard desquels 
+              celui-ci a effectué un paiement.
+
+
+<strong>9601-10       15     (25/05/01)    Redevances et violations</strong>
+
+1.     L'entrepreneur indemnise le Canada et le Ministre, ainsi que leurs 
+       préposés et mandataires, et les dégage de toute responsabilité, à 
+       l'égard de toute action, réclamation, poursuite ou autre procédure 
+       en vue du paiement de redevances, fondée ou dont on allègue qu'elle 
+       est fondée sur l'exécution du contrat ou sur l'utilisation ou 
+       l'aliénation, par le Canada, de toute chose fournie par 
+       l'entrepreneur aux termes du contrat.
+
+2.     Le Canada indemnise l'entrepreneur ainsi que ses préposés et 
+       mandataires, et les dégage de toute responsabilité, à l'égard de 
+       toute réclamation, action, poursuite ou autre procédure visant le 
+       paiement de redevances, dont l'entrepreneur a informé sans délai le 
+       Ministre et qui résulte, ou dont on allègue qu'elle résulte, de ce 
+       qui suit :
+ 
+       a)     soit l'utilisation, par l'entrepreneur, dans l'exécution du 
+              contrat, de matériel ou d'un devis et d'autres renseignements, 
+              qu'il n'a pas conçus et qui lui ont été fournis par le Canada 
+              ou au nom de ce dernier;
+
+       b)     soit le fait que l'entrepreneur se soit conformé à des 
+              dessins d'exécution dont il n'était pas l'auteur, qui lui ont 
+              été fournis par le Canada ou au nom de ce dernier et qui 
+              prévoient la modification des travaux.
+
+       Le Canada n'indemnise ni ne dégage l'entrepreneur de toute 
+       responsabilité à l'égard du paiement effectué dans le cadre d'un 
+       règlement que s'il a consenti à celui-ci.
+
+
+<strong>9601-10       16     (25/05/01)    Droits d'auteur</strong>
+
+1.     Les définitions qui suivent s'appliquent au présent article.
+
+       « matériel » Tout ce qui est créé ou conçu par l'entrepreneur aux 
+       fins d'exécution des travaux prévus au contrat et qui est protégé 
+       par des droits d'auteur, mais exclu les programmes informatiques et 
+       la documentation relative au logiciel.
+
+2.     Le droit d'auteur dans le matériel sera dévolu au Canada, et 
+       l'entrepreneur insérera dans le matériel l'un ou l'autre symbole de 
+       droit d'auteur et avis suivant :
+
+       © SA MAJESTÉ LA REINE DU CHEF DU CANADA (année)
+
+       ou
+
+       © HER MAJESTY THE QUEEN IN RIGHT OF CANADA (year)
+
+3.     À la fin de l'exécution du contrat, ou à telle autre date précisée 
+       par le contrat ou par le Ministre, l'entrepreneur divulgue 
+       intégralement et promptement au Ministre tout matériel créé ou 
+       développé en vertu du contrat.
+
+4.     Lorsque le droit d'auteur dans un matériel est dévolu au Canada en 
+       vertu du contrat, l'entrepreneur signera les actes de cession et 
+       autres documents que le Ministre pourra exiger en ce qui concerne le 
+       titre ou le droit d'auteur.
+
+5.     L'entrepreneur ne pourra utiliser, copier, divulguer ou publier un 
+       matériel, sauf dans la mesure nécessaire pour exécuter le contrat.
+
+6.     À la demande du Ministre, l'entrepreneur fournira au Canada, soit à 
+       l'achèvement des travaux soit à telle autre date que pourra indiquer 
+       le Ministre, une renonciation écrite permanente aux droits moraux, 
+       dans une forme acceptable pour le Ministre, de la part de chaque 
+       auteur qui a contribué au matériel.
+
+7.     Si l'entrepreneur est un auteur du matériel, il renonce par les 
+       présentes en permanence à ses droits moraux se rapportant au 
+       matériel.
+
+
+<strong>9601-10       17     (25/05/01)    Manquement de la part de l'entrepreneur</strong>
+
+1.     Lorsque l'entrepreneur manque à une de ses obligations prévues au 
+       contrat, le Ministre peut, moyennant un avis écrit à l'entrepreneur, 
+       résilier tout ou partie du contrat soit sur-le-champ soit à 
+       l'expiration du délai imparti dans l'avis pour remédier au 
+       manquement lorsque l'entrepreneur n'a pas, dans le délai imparti, 
+       remédié au manquement selon les exigences du Ministre.
+
+2.     Lorsque l'entrepreneur fait faillite ou devient insolvable, qu'il 
+       cède ses biens au profit de ses créanciers, qu'il se prévaut des 
+       dispositions d'une loi sur les débiteurs en faillite ou insolvables, 
+       qu'un séquestre est désigné aux termes d'un titre de créance ou 
+       qu'une ordonnance de séquestre est prononcée à son égard, ou encore 
+       qu'une ordonnance est rendue ou qu'une résolution est adoptée en vue 
+       de la liquidation de son entreprise, le Ministre peut, moyennant un 
+       avis à l'entrepreneur, résilier sans délai tout ou partie du contrat 
+       pour manquement.
+
+3.     Une fois donné l'avis prévu aux paragraphes 1 ou 2, l'entrepreneur 
+       n'a droit à aucun autre paiement mais il demeure redevable envers le 
+       Canada des sommes, y compris les paiements d'étape, versées par le 
+       Canada ainsi que des pertes et des dommages subis par celui-ci en 
+       raison du manquement ou de l'événement sur lequel l'avis était fondé, 
+       y compris l'accroissement du coût, pour le Canada, de l'exécution 
+       des travaux par un tiers.  Le présent article n'a pas d'incidence 
+       sur l'obligation légale du Canada de limiter les dommages.
+
+
+<strong>9601-10       18     (25/05/01)    Résiliation au gré du Ministre</strong>
+
+1.     Par dérogation à toute autre disposition du contrat, le Ministre 
+       peut, à tout moment avant l'achèvement des travaux, moyennant un 
+       avis à cet effet à l'entrepreneur (ci-après appelé, à l'occasion, un 
+       «avis de résiliation», résilier le contrat en ce qui a trait à tout 
+       ou partie des travaux non achevés.  Une fois l'avis de résiliation 
+       donné, l'entrepreneur cesse d'exécuter les travaux (y compris la 
+       fabrication et l'obtention de matériaux pour l'exécution du contrat) 
+       selon les modalités précisées dans l'avis, mais il poursuit 
+       l'exécution des travaux qui ne sont pas touchés par l'avis de 
+       résiliation.  Le Ministre peut toujours donner un ou plusieurs 
+       autres avis de résiliation relativement aux parties des travaux non 
+       visées par la résiliation précédente.
+
+2.     Lorsqu'un avis de résiliation est donné en application du paragraphe 
+       1, l'entrepreneur a le droit d'être payé par le Canada, s'il ne l'a 
+       pas déjà été, dans la limite des frais qu'il a raisonnablement et 
+       dûment engagés aux fins d'exécuter le contrat, pour ce qui suit :
+
+       a)     compte tenu du prix contractuel, tous les travaux achevés qui 
+              ont été inspectés et acceptés conformément au contrat, qu'ils 
+              aient été achevés avant l'avis de résiliation ou après 
+              celui-ci conformément aux directives contenues dans l'avis de 
+              résiliation;
+
+       b)     le coût, pour l'entrepreneur, majoré d'un profit juste et 
+              raisonnable, des travaux visés par l'avis de résiliation 
+              avant leur achèvement, calculé conformément aux dispositions 
+              du contrat et des Principes des coûts contractuels, DSS-MAS 
+              1031-2;
+
+       c)     les frais directement et accessoirement liés à la cessation 
+              de tout ou partie des travaux, à l'exclusion du coût des 
+              indemnités de départ et des dommages-intérêts aux employés 
+              dont les services ne sont plus requis en raison de la 
+              résiliation, sauf les salaires que l'entrepreneur est 
+              légalement tenu de leur verser et les indemnités de départ et 
+              dommages-intérêts raisonnables versés aux employés embauchés 
+              pour exécuter le contrat et dont l'engagement était 
+              expressément requis par le contrat ou approuvé par écrit par 
+              le Ministre aux fins de l'exécution du contrat.
+
+3.     Le Ministre peut réduire le montant du paiement effectué à l'égard 
+       de certaines parties des travaux dans les limites où il ressort 
+       d'une inspection que les exigences du contrat n'ont pas été 
+       respectées.
+
+4.     Par dérogation au paragraphe 2, les sommes auxquelles l'entrepreneur 
+       a droit aux termes des aliénas 2a) et b), et les sommes versées ou 
+       dues à l'entrepreneur suivant d'autres dispositions du contrat, ne 
+       doivent pas dépasser, au total, le prix contractuel ou la partie de 
+       celui-ci qui correspond à la partie des travaux que vise la 
+       résiliation.
+
+5.     Lorsqu'il s'approvisionne en matériaux et en pièces aux fins de 
+       l'exécution du contrat et qu'il sous-
+traite quelque partie des travaux, l'entrepreneur, sauf autorisation 
+contraire du Ministre, passe des commandes et conclut des contrats de 
+sous-traitance à des conditions qui lui permettent de les résilier selon 
+des modalités similaires à celles prévues au présent article et, de manière 
+générale, l'entrepreneur collabore avec le Ministre et fait tout ce qui est 
+raisonnablement en son pouvoir pour limiter les obligations financières du 
+Canada en cas de résiliation selon le présent article.
+
+6.     Sauf dans la mesure prévue au présent article, les mesures prises et 
+       les avis de résiliation donnés par le Ministre en vertu du présent 
+       article ne confèrent aucun recours à l'entrepreneur, ni directement 
+       ni indirectement, notamment en ce qui a trait à l'obtention de 
+       dommages-intérêts ou d'une indemnité sur le fondement, par exemple, 
+       d'un manque à gagner.
+
+
+<strong>9601-10       19     (25/05/01)    Membres de la Chambre des communes</strong>
+
+Les membres de la Chambre des communes ne peuvent participer au contrat ni 
+en tirer avantage.
+ 
+<strong>9601-10       20     (25/05/01)    Conflits d'intérêts</strong>
+
+L'entrepreneur convient qu'il s'agit d'une condition du contrat que toute 
+personne qui ne se conforme pas aux dispositions du Code régissant la 
+conduite des titulaires de charge publique en ce qui concerne les conflits 
+d'intérêt et l'après-mandat ou du Code régissant les conflits d'intérêts et 
+l'après-mandat s'appliquant à la fonction publique, ne peut bénéficier 
+directement du présent contrat.
+
+
+<strong>9601-10       21     (25/05/01)    Pots-de-vin</strong>
+
+L'entrepreneur déclare ce qui suit aucun pot-de-vin, présent, bénéfice ou 
+autre avantage n'a été ni ne sera consenti, promis ou offert, directement 
+ou indirectement, à un représentant ou à un employé du Canada ni à un 
+membre de sa famille, en vue d'exercer une influence sur la conclusion ou 
+la gestion du contrat.
+
+
+<strong>9601-10       22     (25/05/01)    Dissociabilité</strong>
+
+
+Toute disposition du contrat qu'un tribunal compétent juge invalide, 
+illégale ou non susceptible d'exécution est dissociée du contrat, et les 
+autres dispositions du contrat demeurent en vigueur et applicables.
+
+
+<strong>9601-10       23     (25/05/01)    Exhaustivité de la convention</strong>
+
+Le contrat fait état de la totalité de la seule entente intervenue entre 
+les parties relativement à l'objet du contrat et remplace toute négociation, 
+communication ou autre entente antérieure, écrite ou verbale, s'y 
+rapportant, à moins qu'elle ne soit intégrée par renvoi au contrat.
+
+
+<strong>9601-10       24     (25/05/01)    Certification - Honoraires conditionnels</strong>
+
+1.     L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, 
+       directement ou indirectement, et s'engage à ne pas verser, 
+       directement ni indirectement, des honoraires conditionnels en 
+       rapport à la négociation ou à l'obtention du présent contrat ou en 
+       rapport à toute demande ou démarche reliée au présent contrat, à 
+       aucune personne autre qu'un employé remplissant les fonctions 
+       habituelles liées à son poste.
+
+2.     Tous les comptes et dossiers concernant le versement d'honoraires ou 
+       de toute autre rémunération en rapport à l'obtention ou à la 
+       négociation du contrat ou en rapport à toute demande ou démarche 
+       reliée au contrat seront assujettis aux dispositions du contrat 
+       portant sur les comptes et la vérification.
+
+3.     Si l'entrepreneur fait une fausse déclaration aux termes de la 
+       présente section ou ne respecte pas les obligations précisées dans 
+       le présent document, le Ministre pourra soit résilier le contrat 
+       pour défaut d'exécution conformément aux dispositions pertinentes 
+       contenues dans le contrat, soit recouvrer, de l'entrepreneur, par 
+       une réduction du prix du contrat ou autrement, le montant total des 
+       honoraires conditionnels.
+
+4.     Les définitions suivantes s'appliquent au présent article :
+
+       « honoraires conditionnels » - Tout paiement, ou autre forme de 
+       rémunération, qui est subordonné au degré de succès ou calculé en 
+       fonction du degré de succès obtenu en rapport à l'obtention d'un 
+       marché gouvernemental, à la négociation d'une partie ou de la 
+       totalité des conditions de ce marché ou à toute demande ou démarche 
+       reliée au marché.
+
+       « employé(e) » - Toute personne avec qui l'entrepreneur a une 
+       relation d'employeur à employé;
+
+       « personne » - Comprend un particulier ou un groupe, une corporation, 
+       une société, une organisation et une association et, sans limiter la 
+       portée générale de ce qui précède, tout particulier qui est tenu de 
+       fournir au directeur une déclaration en vertu de l'article 5 de la<em> 
+       Loi concernant l'enregistrement des lobbyistes</em>, L.R.C. (1985), ch. 
+       44 (4e suppl.), et de toute modification qui pourrait lui être 
+       apportée de temps à autre.
+
+
+</pre>
+</div>

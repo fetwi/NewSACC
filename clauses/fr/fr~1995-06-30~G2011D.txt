@@ -1,0 +1,42 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause de concert avec la clause G2002D ou la clause G2003D.  
+Pour protéger les intérêts du Canada, on exige que toutes les garanties 
+d'assurance contre les erreurs/omissions et d'assurance responsabilité de 
+produits contractées par l'entrepreneur renferment les conditions définies dans 
+la présente clause.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les clauses suivantes doivent être incluses dans les garanties d'assurance 
+contre les erreurs/omissions et d'assurance responsabilité de produits :
+
+A)     «<strong>Droits de poursuite ou de modification aux garanties d'assurance</strong> :  
+       Il est entendu et convenu que si une poursuite est intentée pour ou 
+       contre le Canada et que, nonobstant cette clause, l'assureur ou les 
+       assureurs ont un droit de poursuite ou de défense au nom du Canada à 
+       titre en vertu de la présente police d'assurance, l'assureur ou les 
+       assureurs devront immédiatement communiquer avec le Procureur 
+       général du Canada pour s'entendre sur les mesures juridiques à 
+       prendre. Ils devront, à cette fin, envoyer une lettre recommandée à 
+       l'adresse suivante :
+
+
+       Avocat général principal
+       Contentieux des affaires civiles
+       Ministère de la Justice
+       Rues Kent et Wellington
+       Ottawa (Ontario)  K1A 0H8 
+
+       Une copie de cette lettre doit être envoyée dans un délai 
+       raisonnable à l'autorité contractante, à titre d'information.
+
+       L'assureur accepte aussi que le Canada puisse participer à sa 
+       défense en cas de poursuite intentée contre le Canada. Ce dernier 
+       devra toutefois, dans ce cas, assumer tous les frais liés à sa 
+       «codéfense».»
+
+B)     «<strong>Avis de résiliation</strong> :  L'assureur s'engage à informer par écrit 
+   l'autorité contractante de toute résiliation de police ou de tout 
+   changement apporté à la protection, et ce, dans les quinze (15) jours.»
+</pre>
+</div>

@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le travail doit être exécuté à la satisfactin et sous réserve de 
+   l'acceptation du Consignataire ou son représentant autorisé.    
+   Cependant, il faut noter qu'il est de la responsabilité du Consignataire 
+   de procéder à l'inspection des services de gardiens de sécurité qui lui 
+   sont fournis et de rapporter tout manquement à l'Autorité contractante.  
+</pre>
+</div>

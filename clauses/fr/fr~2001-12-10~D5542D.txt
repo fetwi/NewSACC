@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le système requis est pour l'inspection et 
+les tests finaux seulement.  Lorsque la demande comporte plusieurs codes de 
+l'assurance de la qualité, l'agent de négociation des contrats doit identifier 
+les numéros d'articles qui sont associés à chaque clause relative au système de 
+management de la qualité.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences suivantes :
+
+       ISO 9001:2000 - Systèmes de management de la qualité - Exigences, 
+       publiée par l'Organisation internationale pour la standardization 
+       (ISO), édition courante à la date de soumission de l'offre de 
+       l'entrepreneur à l'exclusion des exigences suivantes :
+
+       7.1    Planification de la réalisation du produit
+       7.2.3  Communication avec les clients
+       7.3    Conception et développement
+       7.4    Achats
+       7.5.1  Maîtrise de la production et de la préparation du service
+       7.5.2  Validation des processus de production et de préparation du 
+              service
+       7.5.3  Identification et traçabilité
+
+L'objet de la clause n'est pas d'exiger que l'entrepreneur obtienne 
+l'enregistrement à la norme visée, mais bien que le système de management 
+de la qualité des entrepreneurs tienne compte de chacune des exigences de 
+la norme.
+
+<strong>Aide à l'assurance officielle de la qualité (AOQ)</strong> :
+
+L'entrepreneur doit mettre à la disposition du représentant en assurance de 
+la qualité (RAQ) les locaux et les installations nécessaires pour 
+l'exécution correcte de l'AOQ.  L'entrepreneur doit également fournir toute 
+l'aide que le RAQ demande pour l'évaluation, la vérification, la validation, 
+la documentation ou la libération des produits.
+
+Le RAQ doit avoir libre accès à toute installation de l'entrepreneur ou de 
+ses sous-traitants où est effectuée une partie des travaux.  Le RAQ doit 
+pouvoir évaluer et vérifier sans restriction que l'entrepreneur se conforme 
+aux procédures du système de la qualité et valider que les produits soient 
+conformes aux exigences contractuelles.  L'entrepreneur doit permettre au 
+RAQ d'utiliser raisonnablement ses équipements de contrôle en vue 
+d'effectuer toutes les activités de validation.  Le personnel de 
+l'entrepreneur doit être disponible, sur demande, pour l'utilisation de ces 
+équipements.
+
+Lorsque le RAQ estime que l'AOQ est nécessaire chez un sous-traitant, 
+l'entrepreneur doit le mentionner dans le document d'achat et fournir des 
+copies au RAQ, accompagnées de données techniques pertinentes telles que 
+demandées par le RAQ.
+
+L'entrepreneur doit aviser le RAQ lorsqu'il a reçu d'un sous-traitant un 
+produit jugé non conforme après qu'il ait été soumis à l'AOQ.
+
+</pre>
+</div>

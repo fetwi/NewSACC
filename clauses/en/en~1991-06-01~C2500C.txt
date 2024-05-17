@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all Science contracts when taxable goods or services 
+will be delivered and the applicable Standard Instructions and Conditions have 
+not been referenced. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Excluding the exceptions noted below, the Contractor shall not invoice or 
+collect any ad valorem sales tax levied by the province in which goods and 
+services are delivered to federal government departments and agencies under 
+authority of the following provincial sales tax licences:
+
+ Newfoundland                  32243-0-09 Prince Edward Island          
+OP-10000-250 Nova Scotia                   U84-00-03172-3 New Brunswick                 
+P87- 01648 Quebec                        10-0813-5602-0001 Ontario                       
+11708174G Manitoba                      390516-0 British Columbia              
+005521
+
+ Exceptions:
+
+       a)  petroleum products subject to provincial gasoline and motor fuel 
+       taxes;
+
+       b)  tobacco products;
+
+       c)  prepared meals and transient living accommodations;
+
+       d)  broadcast advertising services (Quebec/Newfoundland) and all 
+       other advertising in Newfoundland;
+
+       e)  amusement and/or entertainment taxes.
+
+In Alberta and Saskatchewan, provincial retail sales taxes do not apply to 
+goods or taxable services delivered to the federal government under this 
+Contract.
+
+The Contractor is not relieved of any obligation to pay provincial sales 
+   taxes on goods or taxable services used or consumed in the performance 
+   of this Contract, including materials incorporated in real property. 
+</pre>
+</div>

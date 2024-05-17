@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all science-related contracts that cover 
+commercially available services that do not include any research elements or 
+would result in any new technology, invention or process being developed.  An 
+example would be analytical laboratory services.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>General Conditions - Services, DSS-MAS 9076, with the following 
+modifications,shall apply to and form part of this Contract.  
+
+Section 1 - Interpretation, in subsection (1) add the following paragraph:
+
+       (h) "Canada", "Crown", or "Her Majesty" mean Her Majesty the Queen 
+   in right of Canada. 
+</pre>
+</div>

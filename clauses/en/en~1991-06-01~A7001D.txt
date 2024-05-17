@@ -1,0 +1,9 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The principal period of maintenance is the period between 0800 hours and 
+   1700 hours, Monday through Friday, excluding federal government holidays 
+   in the city in which the specified equipment is located. 
+</pre>
+</div>

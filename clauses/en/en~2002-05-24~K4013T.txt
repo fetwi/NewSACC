@@ -1,0 +1,48 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all competitive bid solicitations in which the 
+Canadian Content policy is applicable (see Supply Manual), where competition is 
+being solely limited to bids offering Canadian Goods and/or Services and where 
+it is not mandatory that bidders submit a certification with their bid.  This 
+clause is to be used for multi-item requirements that are being certified on an 
+individual item basis and where the bidder will be required to indicate beside 
+each item, listed in the bid, whether the item is Canadian.
+
+This clause must be used in conjunction with clause K4000D, Canadian Content 
+Definition.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     This procurement is limited to Canadian Goods and/or Services as 
+       defined in clause K4000D, Canadian Content Definition.
+
+2.     By executing this representation and warranty, the Bidder represents 
+       and warrants that, of the goods and/or services being offered, items 
+       individually identified as such in the bid are Canadian Goods and/or 
+       Services as defined in clause K4000D, Canadian Content Definition, 
+       and acknowledges that only those items will receive consideration.
+
+3.     Bids may be accepted in whole or in part.
+
+4.     The Bidder acknowledges that the Minister relies upon such 
+       representation and warranty to evaluate bids and to enter into any 
+       contract resulting from this bid.  Such representation and warranty 
+       of Canadian content may be verified in such manner as the Minister 
+       may reasonably require.
+
+5.     Should a verification by the Minister disclose a breach of such 
+       covenant, the Minister shall have the right to treat any contract 
+       resulting from this bid as being in default.
+
+6.     The execution of this representation and warranty on the signature 
+       block immediately following this paragraph is a condition to render 
+       the bid responsive.  Failure to provide the signed certification 
+       upon request within ______ calendar days, if it is not submitted 
+       with bid, will render the bid non-responsive.
+
+
+
+       ___________________  ___________________
+              Signature                   Date
+
+</pre>
+</div>

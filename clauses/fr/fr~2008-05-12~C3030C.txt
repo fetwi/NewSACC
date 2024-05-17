@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats à prix ferme assujettis à un 
+rajustement de fluctuation du taux de change, lorsque le paiement pour les 
+biens, les services ou les deux comprend un montant en monnaie étrangère et la 
+méthode de paiement prévoit des paiements progressifs correspondant aux «coûts 
+engagés» seulement.  Consulter les procédures 7E.574 et 11.007 du Guide des 
+approvisionnements.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le prix en monnaie canadienne comprend le montant en monnaie 
+       étrangère pour les biens, les services ou les deux provenant de 
+       l'extérieur du Canada, tel que précisé à l'annexe _____ du 
+       formulaire PWGSC-TPSGC 9411, Demande de rajustement du taux de 
+       change (http://www.tpsgc.gc.ca/approvisionnements/text/forms/forms-f.html).
+
+2.     Le prix doit être rajusté à la hausse ou à la baisse en fonction des 
+       coûts engagés, calculés selon le taux de change réel de la monnaie 
+       étrangère obtenu par l'entrepreneur au moment du versement de la 
+       somme au fournisseur ou au sous-traitant établi à l'étranger pour 
+       les biens, les services ou les deux.
+
+3.     Sur chaque demande de paiement progressif présentée en vertu du 
+       contrat, l'entrepreneur doit indiquer, de façon distincte, la valeur 
+       de la monnaie étrangère ou le facteur de rajustement du taux de 
+       change (taux à la hausse, à la baisse ou stable).  Il doit aussi 
+       fournir la preuve qu'il a payé le sous-traitant ou le fournisseur 
+       établi à l'étranger pour les biens, les services ou les deux inclus 
+       dans le montant réclamé.
+
+4.     Le Canada pourra vérifier toute révision de coûts et prix en vertu 
+       de cette clause.
+
+
+</pre>
+</div>

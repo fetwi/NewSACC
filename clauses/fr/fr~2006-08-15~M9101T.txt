@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le Canada doit indiquer qui participera à 
+l'évaluation des offres.  Utiliser en conjonction avec M0011T.
+
+Utiliser la clause 1 lorsque des employés du gouvernement fédéral uniquement 
+participeront à l'évaluation des offres.
+
+Utiliser la clause 2 lorsqu'une tierce partie participera également à 
+l'évaluation, étant donné qu'il est nécessaire de divulguer le nom des 
+participants tiers à tous les offrants en raison des obligations du Canada en 
+matière de confidentialité.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Clause 1</strong>
+
+Une équipe d'évaluation composée de représentants du Canada évaluera les 
+offres.
+
+<strong>OU</strong>
+
+<strong>Clause 2</strong>
+
+Une équipe d'évaluation composée de représentants du Canada et _________ (<strong><em>
+   inscrire le nom de l'entreprise ou du consultant</em></strong>) évalueront les offres.
+</pre>
+</div>

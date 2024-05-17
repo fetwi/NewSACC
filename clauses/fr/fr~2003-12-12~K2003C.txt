@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante conjointement avec K2000T ou K2002T, lorsque l'une 
+ou l'autre de ces clauses a été utilisée afin d'obtenir une attestation 
+d'admissibilité de la part du soumissionnaire relativement au Programme de 
+contrats fédéraux pour l'équité en matière d'emploi.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Dans sa proposition, l'entrepreneur a attesté sa situation relativement au 
+Programme de contrats fédéraux pour l'équité en matière d'emploi.
+
+L'entrepreneur reconnaît que le ministre s'est fondé sur cette attestation 
+pour conclure le présent marché.  Cette attestation peut être vérifiée de 
+la manière jugée raisonnable par le ministre.  L'entrepreneur reconnaît 
+qu'en cas de fausse déclaration, le ministre aura le droit de résilier le 
+contrat pour défaut, conformément aux dispositions du contrat relatives au 
+manquement de la part de l'entrepreneur..
+
+</pre>
+</div>

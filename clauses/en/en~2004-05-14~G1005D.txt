@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>It is highly advisable that all contracts contain clause G1001D.  In instances 
+where the insurance provisions do not apply to specific contracts, the following 
+should be used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It shall be the sole responsibility of the Contractor to decide whether or 
+not any insurance coverage is necessary for its own protection or to 
+fulfill its obligations under the Contract and to ensure compliance with 
+required federal, provincial or municipal law.  Any such insurance shall be 
+provided and maintained by the Contractor at its own expense.
+
+
+</pre>
+</div>

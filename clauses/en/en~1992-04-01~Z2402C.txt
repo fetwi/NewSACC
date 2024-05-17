@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract contains the 
+"increase option" clause.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>CCC reserves the right to increase the Contract quantity by an
+amount not to exceed <var>_____</var> percent. Exercise of this
+option shall be by written notice from <abbr title="Canadian Commercial Corporation">CCC</abbr> within <var>____</var>
+days from <var>_____</var> , the date of award of this Contract.
+Unless otherwise agreed between <abbr title="Canadian Commercial Corporation">CCC</abbr> and the Contractor, it is
+understood that the quantities which may be added by exercise of
+this option will be supplied after delivery of the initial Contract
+quantity, at the same price and same delivery rate.</p>
+</div></pre>
+</div>

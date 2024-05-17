@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations and contracts when the DND 
+requisition specifies verification by the Department of National Defence at 
+destination (DND QAC B). For requisitions with more than one Quality Assurance 
+Code (QAC), the procurement officer is to identify the line item numbers which 
+are associated with each QA clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor is responsible for performing or having performed all 
+inspections and tests necessary to substantiate that the materiel or 
+services provided conform to the Contract requirements.
+
+This materiel is subject to verification by the Department of National 
+Defence at destination.  
+
+
+</pre>
+</div>

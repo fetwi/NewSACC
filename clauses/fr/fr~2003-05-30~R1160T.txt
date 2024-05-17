@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>L'agent de négociation des contrats doit adapter la clause selon le cas.  
+Insérer la clause suivante seulement si l'achat est assujetti à des fonds 
+comportant une limite maximale.  Cette clause devrait être en tout cas utilisée 
+avec précaution.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le budget disponible pour les services est limité à la somme de _____ $ (la 
+taxe sur les produits et services ou la taxe de vente harmonisée en sus, le 
+cas échéant).  Une soumission dont le prix proposé est supérieur à cette 
+limite sera rejetée.  Cette déclaration de fonds disponibles n'engage pas 
+le Canada à payer une telle somme.
+
+</pre>
+</div>

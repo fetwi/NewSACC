@@ -1,0 +1,54 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts for the Department of National Defence 
+(DND) when the work will be performed by Canadian-based contractors and when DND 
+quality assurance at source is required.
+
+Use this clause in conjunction with D5515C, D5604C, D5605C and D5606C, in the 
+part "resulting contract clauses" of the bid solicitation.  At contract award, 
+use this clause in conjunction with the following clauses, as applicable: 
+D5402C, D5509C, D5540C, D5606C and D5620C.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>All work is subject to Government Quality Assurance performed at
+the Contractor's or subcontractor's facility, and at the
+installation site, by the Director of Quality Assurance, or its
+designated Quality Assurance Representative (QAR).
+<br/>Director of Quality Assurance
+<br/>National Defence Headquarters
+<br/>MGen George <abbr title="Reference clauses">R</abbr>. Pearkes Building
+<br/>101 Colonel By Drive
+<br/>Ottawa, ON K1A 0K2
+<br/>E-mail: ContractAdmin.DQA@forces.gc.ca</p>
+<p>Within forty-eight (48) hours of contract award, the Contractor
+must contact the <abbr title="Quality Assurance Representative">QAR</abbr>. The name, location and phone number of the <abbr title="Quality Assurance Representative">QAR</abbr> can be obtained from the nearest National Defence Quality
+Assurance Region (NDQAR) listed below:</p>
+<ul class="no-markers">
+<li>Atlantic - Halifax 902-427-7224 or 902-427-7150</li>
+<li>Quebec - Montreal 514-732-4410 or 514-732-4477</li>
+<li>Quebec - Quebec City 418-694-5998, ext. 5996</li>
+<li>National Capital Region - Ottawa 819-994-8973</li>
+<li>Ontario - Toronto 416-635-4404, ext. 6081 or 6075</li>
+<li>Ontario - London 519-964-5757</li>
+<li>Manitoba/Saskatchewan - Winnipeg 204-833-2500, ext. 6574</li>
+<li>Alberta - Calgary 403-410-2320, ext. 3830</li>
+<li>Alberta - Edmonton 780-973-4011, ext. 2276</li>
+<li>Vancouver 604-225-2520, ext. 2460</li>
+<li>Victoria 250-363-5662</li></ul>
+<p>The Contractor is responsible for performing, or having
+performed, all inspections and tests necessary to substantiate that
+the material or services provided conform to the requirements of
+the Contract.</p>
+<p>The Contractor must provide, at no additional cost, all
+applicable test data, all technical data, test pieces and samples
+as may reasonably be required by the <abbr title="Quality Assurance Representative">QAR</abbr> to verify conformity to
+the requirements of the Contract. The Contractor must forward at
+its expense such technical data, test data, test pieces and samples
+to such location as the <abbr title="Quality Assurance Representative">QAR</abbr> may direct.</p>
+<p>Quality control, inspection and test records that substantiate
+conformity to the specified requirements, including records of
+corrective actions, must be retained by the Contractor for three
+(3) years from the date of completion or termination of the
+Contract and must be made available to the <abbr title="Quality Assurance Representative">QAR</abbr> upon request.</p>
+</div></pre>
+</div>

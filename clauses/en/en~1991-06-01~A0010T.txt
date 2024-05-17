@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>a)  Bids and related documents may be submitted either in English or in 
+French.   
+
+b)  The Contractor should identify the country of origin for each product 
+on form DSS-MAS 4079, Statement of Eligible Goods.  
+
+c)  All suppliers must exclude GST.
+
+d)  Suppliers located in Canada are required to include Canadian customs 
+duties and excise taxes in bids submitted to Department of Supply and 
+Services (DSS).   
+
+e)  Suppliers located outside Canada are to exclude Canadian customs duties 
+and excise taxes submitted to DSS.   
+
+f)  Foreign-based suppliers may submit bids in either Canadian or American 
+   currency.   
+</pre>
+</div>

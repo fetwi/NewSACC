@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans toutes les demandes de soumissions et tous les 
+documents contractuels.  Voir la directive 642. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les anciens titulaires de charge publique qui dérogent aux dispositions du 
+   Code régissant la conduite des titulaires de charge publique en ce qui 
+   concerne les conflits d'intérêts et l'après-mandat ne doivent pas 
+   directement en profiter. 
+</pre>
+</div>

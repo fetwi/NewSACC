@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l'entrepreneur doit 
+attester qu'il n'est pas soumis au contrôle d'une autre division, société mère 
+ou société affiliée fournissant les matériaux ou les services, ou les deux, liés 
+à l'exécution des travaux prévus dans le contrat.  Consulter l'alinéa 10.55(e) du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur atteste qu'il n'est pas assujetti au
+contrôle collectif d'une autre division, société
+mère ou société affiliée fournissant des
+matériaux ou des services, ou les deux, liés à
+l'exécution des travaux prévus dans le contrat. Aux fins
+de la présente garantie, l'expression <dfn>« contrôle
+collectif »</dfn> signifie que la société exerçant un
+tel contrôle détient au moins 50 p. cent des droits de
+vote.</p>
+<p>L'entrepreneur reconnaît que le Canada s'est fondé sur
+la garantie lorsqu'il a établi le coût imputable
+prévu au contrat. Advenant la violation de cette garantie, le
+Canada aura le droit de résilier le contrat pour manquement ou
+bien, de réajuster le prix qui y est prévu afin de tenir
+compte de la marge de profit payable, selon la politique
+ministérielle, en cas de contrôle collectif, l'une et
+l'autre possibilités étant définies dans la
+Politique du prix de transfert du ministère des Travaux
+publics et des Services gouvernementaux qui figure au chapitre 10
+du <cite>Guide des approvisionnements.</cite></p>
+</div></pre>
+</div>

@@ -1,0 +1,107 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions lorsque l'on 
+prévoit offrir une protection contre le risque de fluctuation du taux de change. 
+ Les agents de négociation des contrats doivent évaluer les risques en 
+consultation avec le Secteur de la politique, du risque, de l'intégrité et de la 
+gestion stratégique.  
+
+Utiliser cette clause en conjonction avec
+ 
+  C3015C
+ 
+ ,
+ 
+  C3020C
+ 
+ ,
+ 
+  C3025C
+ 
+ ou
+ 
+  C3030C
+ 
+ , 
+selon le cas.
+
+Pour plus de renseignements, consulter les articles
+ 
+  4.65
+ 
+ ,
+ 
+  5.45.15
+ 
+ ,
+ 
+  5.60
+ 
+ et
+ 
+  8.40
+ 
+ du
+ <cite>
+
+   Guide des approvisionnements
+  
+</cite>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Sauf indication contraire dans la demande de
+soumissions, les soumissions doivent être en monnaie
+canadienne.</li>
+<li value="2">Les soumissionnaires peuvent demander au Canada
+d'assumer le risque de fluctuation du taux de change. Ils doivent
+en faire explicitement la demande au moment de présenter leur
+soumission.</li>
+<li value="3">Le montant en monnaie étrangère est la
+composante du prix qui varie directement en fonction des
+fluctuations du taux de change. Il peut comprendre le prix net FOB
+à l'usine du fabricant étranger, les coûts liés
+aux droits applicables, à la taxe d'accise, aux taxes applicables, les droits d'entrée, les frais
+de transport ou de livraison payables en devises
+étrangères, ainsi que tous les autres frais incombant
+à l'importateur officiel, si les produits proviennent de
+l'étranger et doivent être payés en en monnaie
+étrangère.</li>
+<li value="4">La valeur de change du montant en monnaie
+étrangère de la soumission ou du prix négocié
+doit être indiquée <span class="input-required"><var>__________</var> <kbd>(<i>insérer « dans
+la soumission » ou « avant l'attribution du
+contrat »</i>)</kbd></span>. Le formulaire PWGSC-TPSGC 9411, Demande de rajustement du taux de change, peut être
+utilisé à cette fin. Si des paiements d'étape sont
+envisagés, il est recommandé d'indiquer sur le formulaire
+ci-dessus le montant en monnaie étrangère pour chacune
+des étapes.</li>
+<li value="5">Toutes les soumissions sont évaluées en
+monnaie canadienne. Par conséquent, aux fins de
+l'évaluation, le cours à midi de la Banque du Canada en
+vigueur à la date de clôture des soumissions, ou toute
+autre date indiquée dans la demande de soumissions, sera
+utilisé comme facteur de conversion initial de la monnaie en
+cause. (L'autorité contractante remplira la colonne 3 du
+formulaire ci-dessus.)</li>
+<li value="6">Aux fins de la présente disposition sur le
+rajustement du taux de change, les taux proposés par les
+soumissionnaires ne seront pas acceptés.</li>
+<li value="7">S'il y a deux (2) soumissions identiques, et à
+condition que la soumission retenue soit toujours
+considérée comme la plus avantageuse pour le Canada, la
+préférence sera donnée au soumissionnaire qui assume
+la totalité ou une partie des risques liés au rajustement
+du taux de change, plutôt qu'à celui qui n'assume pas ces
+risques. De plus, le soumissionnaire qui assume tous les risques
+aura la préférence sur celui qui n'en assume qu'une
+partie.</li>
+<li value="8">Le Canada payera le facteur de rajustement du taux de
+change en monnaie canadienne, en utilisant le cours à midi en
+vigueur à la date du paiement effectué par le Canada ou,
+selon le cas, conformément à l'une ou l'autre des clauses
+suivantes : C3015C, C3020C, C3025C, ou C3030C.</li>
+</ol>
+</div></pre>
+</div>

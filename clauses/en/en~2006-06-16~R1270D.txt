@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Persons in Canada, and Canadians outside of Canada, are bound by 
+       economic sanctions imposed by Canada.  As a result, the Government 
+       of Canada cannot accept delivery of goods or services that originate, 
+       either directly or indirectly, from the countries or persons subject 
+       to economic sanctions.
+
+       Details on existing sanctions can be found at:
+       <strong class="wsStyleUnderline">http://www.dfait-maeci.gc.ca/trade/sanctions-en.asp</strong>.
+
+2.     It is a condition of this Contract that the Consultant not supply to 
+       the Government of Canada any goods or services which are subject to 
+       economic sanctions.
+
+3.     By law, the Consultant must comply with changes to the regulations 
+   imposed during the life of the Contract.  During the performance of the 
+   Contract, should the imposition of sanctions against a country or person 
+   or the addition of a good or service to the list of sanctioned goods or 
+   services cause an impossibility of performance for the Consultant, the 
+   situation will be treated by the Parties as a force majeure.  The 
+   Consultant shall forthwith inform Canada of the situation; the 
+   procedures applicable to force majeure shall then apply.
+</pre>
+</div>

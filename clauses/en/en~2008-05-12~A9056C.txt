@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in marine contracts when fueling and disembarking of fuel from Canadian government vessels is conducted under the supervision of a responsible supervisor.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must ensure that fueling and disembarking of fuel from Canadian government vessels are conducted under the supervision of a responsible supervisor trained and experienced in these operations.</p>
+</div></pre>
+</div>

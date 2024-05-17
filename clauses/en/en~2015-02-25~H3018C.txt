@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in standing offers for air charter services for the 
+carriage of goods and people.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must submit invoices in accordance
+with the section entitled "Invoice Submission" of the general
+conditions.
+<br/>Each invoice must show:
+<ol type="a">
+<li value="1">all applicable information as detailed under the
+section entitled "Invoice Submission" of the general
+conditions;</li>
+<li value="2">the total amount payable based on the Basis of
+Payment;</li>
+<li value="3">the name and address of the client department as
+shown on the call-up;</li>
+<li value="4">the call-up number;</li>
+<li value="5">all direct expenses, supported by a copy of invoice</li>
+</ol>
+</li>
+<li value="2">Each original invoice for flying must be supported by
+charter tickets signed by the Charterer after each flight, showing
+that the service covered by the invoice has been completed in
+accordance with the Contract. Contracting officer must choose one of the following
+options:
+
+
+<br/>The original and one (1) copy of the invoice must be
+forwarded to the consignee for certification and payment.
+
+<br/>OR
+
+<br/>The invoice must be distributed as follows:
+<ol type="a">
+<li value="1">the original and one (1) copy must be forwarded to
+the following address for certification and payment:
+<span class="input-required"><var>_________</var>. <kbd>(<em>contracting officers
+must insert the name and address of the
+organization</em>)</kbd></span></li>
+<li value="2">a copy must be forwarded to the Standing Offer
+Authority identified under the section entitled "Authorities" of
+the Standing Offer.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

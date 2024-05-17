@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations, in the section relating to the preparation of financial bids.
+ </p>
+<p>
+  Use clause 1 when the bidder must submit firm prices for all items; or clause 2 when the bidder must submit firm prices for one or multiple groups of items. Delete the clause not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li>
+<h2>Clause 1</h2>
+Bidders must submit firm prices for all items listed in Annex(es) "<var>_____</var> ".
+</li>
+<li><strong>OR</strong>
+<br/>
+<h2>Clause 2</h2>
+Bidders must submit firm prices for one or multiple groups of items. However, bidders must submit firm prices for all items listed in the group(s) of items for which they submit prices. The groups of items are as follows:
+
+<ol type="a">
+<li value="1">Group A: All items listed in Annex "<var>____</var>"</li>
+<li value="2">Group B: All items listed in Annex "<var>____</var>"</li>
+<li value="3">Group C: All items listed in Annex "<var>____</var>"</li>
+<li value="4">Group D: All items listed in Annex "<var>____</var>".</li>
+</ol>
+</li>
+</ul>
+</div></pre>
+</div>

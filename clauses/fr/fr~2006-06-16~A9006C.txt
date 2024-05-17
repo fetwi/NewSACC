@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque le client a confirmé que 
+le contrat sera un contrat de défense au sens de la Loi sur la production de 
+défense.  Pour les offres à commandes, voir la clause M0022D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le contrat est un contrat de défense au sens de la <em>Loi sur la production de 
+   défense</em>, L.R.C. 1985, ch. D-1, et est régi par cette loi.
+</pre>
+</div>

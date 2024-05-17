@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when the Request for Standing Offers contains mandatory technical evaluation criteria and the basis of selection will be the responsive offer with the lowest evaluated price on an item by item basis, or the responsive offer with lowest evaluated price on an aggregate basis.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>An offer must comply with the requirements of the Request for
+Standing Offers and meet all mandatory technical evaluation
+criteria to be declared responsive. The responsive offer with the
+<span class="input-required"><var>______</var> <kbd>(<em>insert: "lowest
+evaluated price on an item by item basis" or "lowest evaluated
+price on an aggregate basis"</em>)</kbd></span> will be recommended for
+issuance of a standing offer.</p>
+</div></pre>
+</div>

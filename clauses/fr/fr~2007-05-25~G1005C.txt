@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le contrat ne contient pas d'exigences 
+particulières en matière d'assurance.
+
+Se référer aux clauses 6C.225 à 6C.227 du Guide des approvisionnements.
+
+Se référer à la clause G1001C lorsque le contrat contient des exigences 
+particulières en matière d'assurance.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur est responsable de décider s'il doit s'assurer pour remplir 
+ses obligations en vertu du contrat et pour se conformer aux lois 
+applicables.  Toute assurance souscrite ou maintenue par l'entrepreneur est 
+à sa charge ainsi que pour son bénéfice et sa protection.  Elle ne dégage 
+pas l'entrepreneur de sa responsabilité en vertu du contrat, ni ne la 
+diminue. 
+
+</pre>
+</div>

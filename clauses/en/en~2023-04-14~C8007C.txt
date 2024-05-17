@@ -1,0 +1,98 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause where a contractor is provided with opportunity to earn additional profit upon achievement of targeted delivery dates of critical value to Canada, in accordance with Supply Manual section
+  
+   4.70.25.10
+  
+  and the
+  
+   Practitioner’s Guide for Procurement Pricing
+  
+  , section 4.4.2.
+ </p>
+<p>
+  The contractor may earn an incentive based on pre-defined measurable and objective criteria on adhering to the delivery timeline of goods or services that are of
+  <strong>
+   critical value or provide additional value to Canada. To earn the incentive, the contractor’s performance must be over and above the requirements specified in the Statement of Work
+  </strong>
+  .
+ </p>
+<p>
+  The specified performance levels must be accepted by the client and be reasonable.
+ </p>
+<p>
+  Use option 1 when the incentive payment is fixed.
+ </p>
+<p>
+  Use option 2 when the incentive payment is variable in relation to the performance of the contractor.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The performance criteria for unearned incentive fees may be modified during the Contract at the discretion of Canada.</p>
+<p>Unearned incentive fees are not payable in the event that the Contract is terminated in full, or in part, for convenience by Canada, mutual consent, and/or default.</p>
+<p><kbd><strong>Choose one of the following incentive payment types:</strong></kbd></p>
+<p><kbd>Option 1:</kbd> Fixed Payment</p>
+<table>
+<thead>
+<tr>
+<th>Evaluation Period</th>
+<th>Criteria</th>
+<th>Method of Validation </th>
+<th>Fixed Payment Amount If Criteria Successfully Met</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+</tr>
+</tbody></table>
+<p><kbd>(<em>Adjust as required</em>)</kbd></p>
+<p>The maximum Schedule Performance Incentive amount that can be earned: $<span class="input-required"><var>_______</var></span> <kbd>(<em>insert sum of all fixed incentive payment amounts</em>)</kbd>. Applicable taxes are extra.</p>
+<p>If <strong>all</strong> the criteria for <strong>any</strong> individual incentive amount are not met, the Contractor will not receive any payment for that individual incentive amount. </p>
+<p><kbd>Option 2:</kbd> Variable Payment</p>
+<ol>
+<li>The standard performance target is <span class="input-required"><var>_______</var></span> <kbd>(<em>insert criteria in unit of time for expected performance under normal conditions</em>)</kbd>.</li>
+<li>The maximum variable incentive amount is $<span class="input-required"><var>_______</var></span> <kbd>(<em>insert sum of all maximum incentive amounts</em>)</kbd>. Applicable taxes are extra.</li>
+<li>The Contractor will receive payment in proportion to the degree of compliance with the specified criteria as follows:</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Evaluation Period</th>
+<th>Criteria</th>
+<th>Method of Validation </th>
+<th>(A) Maximum Incentive Available</th>
+<th>(B) Percentage of Variable Incentive Amount Earned</th>
+<th>(A) x (B) Variable Incentive Dollar Amount</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+<td><span class="input-required"><var>_______</var></span>%</td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+<td><span class="input-required"><var>_______</var></span>%</td>
+<td>$<span class="input-required"><var>_______</var></span></td>
+</tr>
+</tbody></table>
+<p><kbd>(<em>Adjust as required</em>)</kbd></p>
+<p>If <strong>all</strong> the criteria for <strong>any</strong> individual incentive amount are not met, the Contractor will not receive any payment for that individual incentive amount.</p>
+</div></pre>
+</div>

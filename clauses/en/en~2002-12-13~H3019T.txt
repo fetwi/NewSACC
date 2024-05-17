@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Invoices must be submitted on the Contractor's own form and must be 
+       prepared to show:
+
+       (a)    the date;
+       (b)    name and address of the CONSIGNEE;
+       (c)    Contract Number, Serial Number and Financial Code(s);
+       (d)    device type, manufacturer, and serial number;
+       (e)    Client Reference Number (CRN);
+       (f)    Procurement Business Number (PBN). 
+
+2.     Mailing addresses for the invoices will be defined in the resulting 
+       contract.
+
+</pre>
+</div>

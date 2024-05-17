@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A) The all-inclusive hourly rates provided by the Supplier and detailed in 
+Appendix "__" include allowances for the following:
+
+       1.  Minimum Wage - The temporary employee must be paid not less than 
+       the higher of the Federal or Provincial minimum wage.
+
+       2.  Employee Benefits - The cost of all mandatory employee benefits 
+       as defined herein and any other benefits mutually agreed to by the 
+       supplier and the temporary employee.
+
+       3.  Interviews - The cost associated with candidate interviews with 
+       potential Federal Government users.
+
+       4.  Utilization Reporting - The cost of preparing and delivering the 
+       required monthly reports.
+
+B) Calculation of Overtime Rates:
+
+The increase in billing rate for authorized overtime work WILL NOT INCLUDE 
+any element of overhead and profit, and will be confined solely to the 
+increase in wages and employer contributions.
+
+The Supplier agrees that all overtime worked will require the prior 
+approval of the Service Site Authority.
+
+C) Transportation:
+
+Transportation costs between the temporary employee's residence and the 
+   work site and/or the Supplier's premises are the Supplier's 
+   responsibility and are not included in the Supplier's rates. 
+</pre>
+</div>

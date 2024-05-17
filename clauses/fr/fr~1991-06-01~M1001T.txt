@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Aucun contrat ni accord ne doit résulter ni découler de la présente Offre 
+   permanente et Sa Majesté ne prend par la présente aucune obligation, 
+   tant et aussi longtemps qu'une Commande suséquente à une offre 
+   permanente pour services de travail temporaire, formule DSS-MAS 8251, 
+   n'est envoyée par un fondé de pouvoir conformément à l'article 17A et 
+   que cette commande n'est reçue par le Fournisseur. 
+</pre>
+</div>

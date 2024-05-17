@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor will be required to make patterns for sealing as a special 
+lot after acceptance of the Pre-production Sample, if applicable, and prior 
+to production.  These patterns must conform to the technical requirements 
+in all respects.
+
+Patterns not acceptable for sealing will be returned to the Contractor 
+indicating their non-conformance and will require replacement.
+
+Patterns for sealing will be forwarded from the Contractor's plant with a 
+properly signed release document (CF 1280), if applicable, to:
+
+       Name: _____
+       Address: _____
+
+</pre>
+</div>

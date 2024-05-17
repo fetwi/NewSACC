@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions portant sur des 
+marchés réservés en vertu de la Stratégie d'approvisionnement auprès des 
+entreprises autochtones, une initiative du gouvernement fédéral, lorsque le 
+marché aurait autrement été assujetti à un ou plusieurs accords commerciaux.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Ce marché est réservé aux entreprises autochtones
+en vertu d'une initiative du gouvernement fédéral sur la
+Stratégie d'approvisionnement auprès des entreprises
+autochtones, décrite à l'Annexe 9.4
+ Exigences relatives au Programme de marchés
+réservés aux entreprises autochtones, du <cite>Guide des approvisionnements</cite></p>
+<p class="description"><em><strong>Instruction à l'intention des
+agents de négociations des contrats :</strong> Insérer la
+phrase suivante s'il y a lieu.</em></p>
+<blockquote>« Ce marché est exclu des accords commerciaux
+internationaux en vertu des dispositions de chaque accord
+relativement aux marchés réservés aux petites
+entreprises et aux entreprises minoritaires. »</blockquote>
+<p class="description"><em><strong>Instruction à l'intention des agents de
+négociations des contrats :</strong> Insérer la
+phrase suivante s'il y a lieu.</em></p>
+<blockquote>« Conformément à l'article 1802 de l'Accord sur
+le commerce intérieur (ACI), l'<abbr title="Accord sur le commerce intérieur">ACI</abbr> ne s'applique pas au
+présent marché. »</blockquote>
+</div></pre>
+</div>

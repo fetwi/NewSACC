@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when travel and living expenses, plus 
+profit and/or overhead, as applicable, will be directly charged to the contract.
+ </p>
+<p>
+  For information on travel costs , consult Annex
+  
+   Annex 10.5.4
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor will be reimbursed for the authorized
+travel and living expenses reasonably and properly incurred in the
+performance of the Work, at cost, in accordance with Contract Cost
+Principles 1031-2.
+<br/><span class="description"><strong>Instruction to contracting
+officers:</strong> Insert the following paragraph when there is an
+allowance for profit and/or overhead.</span>
+<br/><blockquote>The following allowance will be paid as follows:
+<br/>Administrative overhead: <var>_____</var> percent of authorized
+travel and living expenses.
+<br/>Profit on travel and living expenses and on administrative
+overhead: <var>______</var> percent.</blockquote>
+</li>
+<li value="2">All payments are subject to government audit.</li>
+</ol>
+</div></pre>
+</div>

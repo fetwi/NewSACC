@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall treat as confidential, during as well as after the 
+provision of goods or services contracted for, any information of a 
+character confidential to the affairs of Her Majesty to which their 
+servants or agents become privy.  All personnel assigned to provide 
+services to the requisitioning department must have a current Security 
+Clearance to the level specified by that department and granted by the 
+Security Branch, Supply and Services Canada.
+
+Should it become necessary during the course of the service for the 
+   requisitioning department or agency to invoke further security measures, 
+   it will be necessary for the Contractor to comply with the security 
+   classification established at that time. 
+</pre>
+</div>

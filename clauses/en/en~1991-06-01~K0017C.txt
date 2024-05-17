@@ -1,0 +1,68 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all Science contracts EXCEPT those awarded to 
+Canadian universities, affiliated institutions and colleges. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>General Conditions - Research and Development, DSS-MAS 9224, with the 
+following modifications, shall apply to and form part of this Contract. 
+
+1)  Section 1, subsection (1) is amended by deleting the words "the 
+Government" in paragraph (h) and replacing them with the word "Canada".
+
+2)  Section 7, Inspection, is hereby supplemented by adding the following 
+subsection:
+
+       (5) The Contractor shall not stop or suspend Work pending the 
+       settlement or determination of any differences arising under the 
+       Contract, unless so instructed by the Minister.
+
+3)  Section 11, Subcontracts, is hereby supplemented by adding the 
+following sentence to subsection (1):
+
+       For work requiring consent, should the Contractor propose to solicit 
+       bids from other than Canadian sources, the Contractor shall obtain 
+       the written consent of the Minister prior to solicitation.
+
+4)  Section 21, Termination, Suspension, Change, subsection 2, paragraph (b), 
+is deleted in its entirety and the following is substituted therefor:
+
+       (b) the Work or any portion of the Work is terminated, the 
+       Contractor shall be paid for all finished deliverables, delivered 
+       and accepted and for all materials or work in process delivered and 
+       acceptable to Canada, the Cost to the Contractor in accordance with 
+       the terms of the Contract plus the proportional part of any profit 
+       applicable thereto. The Contractor shall also be entitled to be 
+       reimbursed its costs which are incidental to the cancellation of 
+       obligations incurred by the Contractor pursuant to the termination 
+       notice, the cost of preparing the necessary accounts and statements 
+       with respect to the Work performed to the effective date of such 
+       termination and commitments made by the Contractor with respect to 
+       the terminated portion of the Work, wages which the Contractor is 
+       obliged under any laws or regulations for the time being in force to 
+       pay employees whose services are no longer required by reason of 
+       such termination, the costs of and incidental to the taking of any 
+       inventory of materials, components, work in process and finished 
+       work on hand at the effective date of the termination, and other 
+       costs and expenses of and incidental to the termination in whole or 
+       in part of operations under the Contract; provided always that 
+       payment and reimbursement under the provisions of this subsection 
+       shall be made only to the extent that is established, to the 
+       satisfaction of the Minister, that the said costs and expenses were 
+       actually incurred by the Contractor, and that the same are 
+       reasonable and are properly attributable to the termination of the 
+       Work or the part thereof so terminated;
+
+       (c) in no event shall the aggregate of the price paid to date and 
+       the amounts payable pursuant to this section exceed the total 
+       Contract Price;
+
+       (d) the Contractor shall have no claim for damages, compensation, 
+       loss of profit, allowance or otherwise by reason of or directly or 
+       indirectly arising out of any action taken, or notice given by the 
+       Minister under or pursuant to the provisions of this section except 
+       as and to the extent in this section expressly provided.
+
+ 
+</pre>
+</div>

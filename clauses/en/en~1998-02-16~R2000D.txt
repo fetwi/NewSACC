@@ -1,0 +1,182 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+Buildings.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>1.     Fee Arrangement(s) for Basic </strong><strong><em>Services</em></strong>
+
+       The basic fee to be paid to the <em>Consultant</em> for the Basic <em>Services</em> 
+       described herein, shall be determined by one or more of the 
+       following arrangements:
+
+       (a)    Percentage Fee
+
+              The calculation of the total basic fee recognizes the 
+              variability of the <em>Construction Cost Estimate</em> as the Project 
+              develops.  The basic fee for the various <em>Services</em> of the 
+              Project development shall be calculated on the basis of the 
+              following formula:
+
+              An amount equal to <em>F x A</em>
+              Where <em>F</em> = the percentage specified in clause R2001D, 
+              Agreement Particulars , and <em>A</em> = as follows:
+
+              (1)    At Analysis of <em>Project Brief</em> and Design Concept: 
+                     <em>A </em>= the <em>Construction Cost Estimate</em> at the time of 
+                     signing this Agreement.
+
+              (2)    At Design Development:
+                     <em>A</em> = the accepted preliminary <em>Construction Cost 
+                     Estimate</em> prepared on completion of the design concept 
+                     documents.
+
+              (3)    At Construction Documents:
+                     <em>A</em> = the accepted updated <em>Construction Cost Estimate</em> 
+                     prepared on completion of the design development 
+                     documents.
+
+              (4)    At Tender Call and Tender Evaluation:
+                     <em>A</em> = the accepted final <em>Construction Cost Estimate</em> 
+                     prepared on completion of the construction documents.
+
+              (5)    At Construction and Contract Administration and Post 
+                     Construction Warranty Review:
+                     <em>A</em> = the <em>Construction Contract Award Price</em>.
+
+              The total basic fee is adjusted in accordance with the terms 
+              of any authorization pursuant to B6 in clause R0220D, General 
+              Conditions.
+
+       (b)    Fixed Fee
+
+              The fixed fee shall be in the amount(s) specified in clause 
+              R2001D.
+
+       (c)    Time Based Fee
+
+              (1)    Principals and executives, and other personnel 
+                     approved in that capacity by the <em>Departmental 
+                     Representative</em> shall be paid at the hourly rate 
+                     specified in clause R2001D.
+
+              (2)    Staff approved by the <em>Departmental Representative</em> 
+                     shall be paid at <em>Payroll Cost</em> multiplied by the 
+                     factor(s) specified in clause R2001D, except that the 
+                     multiplying factor shall not be applied to the premium 
+                     portion of authorized overtime included in <em>Payroll 
+                     Cost</em>.
+
+              (3)    Normal Working Hours 
+                     The normal working hours per day for principals, 
+                     executives and <em>Consultant</em>'s employees, shall be deemed 
+                     to be seven and a half (7.5) hours of any day during 
+                     which they are actually engaged in the performance of 
+                     the <em>Services</em>.
+
+              (4)    Travel Time
+                     Travel time during normal working hours, that is 
+                     related to the Project and authorized by the <em>
+                     Departmental Representative</em>, shall be chargeable as 
+                     time worked.
+
+                     Travel time outside normal working hours, that is 
+                     related to the Project and authorized by the <em>
+                     Departmental Representative</em>, shall be chargeable up to 
+                     a maximum of three (3) hours per day, unless otherwise 
+                     authorized.
+
+              (5)    Maximum Amount(s) Payable
+                     The maximum amount(s) that applies (apply) to the <em>
+                     Services</em> to be carried out at time rates shall be as 
+                     specified in clause R2001D, which amount(s) shall not 
+                     be exceeded without the prior authorization of the <em>
+                     Departmental Representative</em>.
+
+<strong>2.     Payments for Basic </strong><strong><em>Services</em></strong><strong></strong>
+
+       (a)    Payments in respect of the percentage fee arrangement shall 
+              be made during the performance of the <em>Services</em>, on the basis 
+              of the fee calculations as described in subsection 1.(a) 
+              above, for each of the Basic Services equal to the amounts 
+              specified below:
+
+              (1)    Payment for Analysis of <em>Project Brief</em> and Design 
+                     Concept:
+                     Upon acceptance of the design concept documents, an 
+                     amount equal to 10 percent of the basic fee;
+
+              (2)    Payment for Design Development:
+                     Upon acceptance of the design development documents, 
+                     an amount equal to 15 percent of the basic fee;
+
+              (3)    Payment for Construction Documents:
+                     Upon acceptance of the construction documents, an 
+                     amount equal to 45 percent of the basic fee;
+
+              (4)    Payment for Tender Call, Tender Evaluation and 
+                     Contract Award:
+                     Upon award of the <em>Construction Contract</em>, or upon 
+                     completion of tender evaluation(s) in such cases where 
+                     Canada does not award a <em>Construction Contract</em> for 
+                     reasons other than those specified in subsection 2.(f) 
+                     below, an amount equal to 5 percent of the basic fee;
+
+              (5)    Payment for Construction and Contract Administration:
+                     Upon interim completion of the <em>Construction Contract</em>, 
+                     an amount equal to 22 percent of the basic fee;
+
+              (6)    Payment for Final Completion and Post Construction 
+                     Warranty Review:
+                     Upon reporting to the <em>Departmental Representative</em> on 
+                     the status of the defects at the end of the warranty 
+                     period(s) an amount equal to 3 percent of the basic 
+                     fee.
+
+       (b)    Payments in respect of the fixed fee arrangement shall be 
+              made upon satisfactory performance of the <em>Services</em> but such 
+              payments shall not exceed the amount(s) as specified in 
+              clause R2001D for each <em>Service</em>. 
+       (c)    Payments in respect of the time based fee arrangement shall 
+              be made upon satisfactory performance of the <em>Services</em> but 
+              such payments shall not exceed the amount(s) as specified in 
+              clause R2001D for each <em>Service</em>.
+
+       (d)    Progress payments, in respect of all fee arrangements, shall 
+              be made in accordance with clause R0220D of this Agreement, 
+              but such payments shall not exceed the value of the fee 
+              indicated for each <em>Service</em> under consideration.
+
+       (e)    Progress payments in respect of construction and contract 
+              administration for percentage fee or fixed fee arrangements 
+              may be made in proportion to the percentage of the 
+              construction work completed and approved for payment under 
+              the <em>Construction Contract</em>.
+
+       (f)    If, for reasons attributable to the <em>Consultant</em>, a price 
+              cannot be obtained by a tender or negotiation within the <em>
+              Construction Cost Limit</em>, or acceptable to the <em>Departmental 
+              Representative</em> for the award of the <em>Construction Contract</em>, 
+              the <em>Consultant</em> shall be entitled to receive payment for the 
+              tender call, bid evaluation and construction contract award <em>
+              Services</em>, only when the requirements of C8.3, in clause 
+              R0220D have been met.
+
+<strong>3.     Fee Arrangement(s) for Additional </strong><strong><em>Services</em></strong><strong></strong>
+
+       Fee arrangement(s) of Additional <em>Services</em> described herein shall be 
+       determined as follows:
+
+       ____________
+
+       ____________
+
+<strong>4.     Payments for Additional </strong><strong><em>Services</em></strong><strong></strong>
+
+       Payments for Additional <em>Services</em> shall be made upon satisfactory 
+       performance of the Additional <em>Service(s)</em> but such payments shall not 
+       exceed the amount(s) specified in clause R2001D for each Additional <em>
+       Service</em>.
+
+</pre>
+</div>

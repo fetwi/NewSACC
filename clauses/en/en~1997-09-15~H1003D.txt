@@ -1,0 +1,75 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations and contracts when it is intended 
+that progress payments will be made.
+
+If holdback will be applied at different rates for different line items, then it 
+should be reflected in this clause.  The following is an option clause relative 
+to a holdback position on any given procurement and relates to sections 3 and 
+4(b) of this clause.  If the same rate of payment/holdback is not applicable to 
+all commodities or phases of the procurement, add the following phrase to the 
+foregoing:
+
+	"applicable to _____ (name the commodity or phase of the contract appropriate 
+to the payment/holdback rate stated) and payment/holdback equal to _____ percent 
+of such expenditures applicable to _____ (name the commodity or phase of the 
+contract appropriate to the payment/holdback rate stated )."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Progress payments will be made not more frequently than once a month upon 
+the following terms and conditions:
+
+1.     Progress claims shall be completed in full, on form PWGSC-TPSGC 1111, 
+       "Claim for Progress Payment" and submitted to Canada in accordance 
+       with the invoicing instructions specified herein. (A french version, 
+       "Réclamation de paiement partiel", form PWGSC-TPSGC 1111-1, is also 
+       available.)
+ 
+2.     All the certificates appearing on the form are to be signed by or 
+       for the respective persons indicated.
+
+3.     Payments will be made up to _____ percent of the claimed amounts 
+       approved by Canada but in no event will cumulative payments exceed _____ 
+       percent of the total to be paid by Canada under the Contract.
+
+4.     Each claim will show:
+
+       (a)    expenditures plus pro-rated profit or fee if applicable or, 
+              alternatively, the value of milestones during the claim 
+              period by line item as detailed in the payment terms of the 
+              Contract;
+
+       (b)    less holdback at _____ percent, calculated on the amount in a);
+
+       (c)    the totals of all previous claims against the Contract;
+
+       (d)    goods and services tax calculated on the amount in a) above. 
+5.     The balance of the amount payable will be paid upon satisfactory 
+       completion of the contract or in the case of unit price contracts 
+       upon the delivery and acceptance of each unit, provided that a final 
+       claim for such payment is submitted<em> </em><strong><em>(refer to the invoicing 
+       instructions in the Contract)</em></strong>.
+
+6.     If specified herein, the Claim for Progress Payment shall be 
+       accompanied by the required copies of monthly progress reports;
+
+7.     The Contractor shall prepare the original and two (2) _____ copies 
+       of the "Claim for Progress Payment", form PWGSC-TPSGC 1111 and they 
+       shall be routed as follows:
+
+       (a)    _____ Authority;
+
+       (b)    _____ Authority;
+
+       (c)    Payment Office.
+
+8.     Progress payments shall be regarded as interim payments only and 
+       Canada shall have the right to conduct interim cost/time 
+       verifications or audits and to make adjustments from time to time 
+       during the performance of the Work. Any overpayment resulting from 
+       such progress payments or otherwise shall be refunded promptly to 
+       Canada.
+
+
+</pre>
+</div>

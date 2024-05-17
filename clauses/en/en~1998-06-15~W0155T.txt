@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation 
+document, before any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 9, Co-operation Agreement between the Inuvialuit Regional
+Corporation and the Department of National Defence Concerning the
+Operation and Maintenance of the North Warning System (NWS),
+clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">4.3</span> The following specific business
+opportunities for the provision of services associated with Work
+within the Inuvialuit Settlement Region (ISR) shall be provided
+through the <abbr title="North Warning System">NWS</abbr> <abbr title="Operation and Maintenance">O&amp;M</abbr> Contractor or Subcontractors:
+<ul class="hierarchy">
+<li><span class="number">4.3.3</span>. Pursuant to the <abbr title="Inuvialuit Final Agreement">IFA</abbr>, the <abbr title="North Warning System">NWS</abbr> <abbr title="Operation and Maintenance">O&amp;M</abbr> Contractor shall obtain gravel from the Inuvialuit for
+all sites on Inuvialuit Lands (i.e. Cape Parry, Nicholson
+Peninsula, Horton River, Liverpool Bay, and Keats Point). The
+specific gravel requirements shall be determined by the <abbr title="North Warning System">NWS</abbr> <abbr title="Operation and Maintenance">O&amp;M</abbr>
+Contractor or Subcontractor. The Inuvialuit shall provide the
+required granular material from the nearest appropriate location or
+locations consistent with satisfying environmental and cost
+minimisation criteria. All other gravel contracts shall be tendered
+pursuant to section 4.2 of his agreement.</li>
+</ul>
+</li>
+</ul>
+</div></pre>
+</div>

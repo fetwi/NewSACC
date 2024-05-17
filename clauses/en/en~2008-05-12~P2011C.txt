@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in standing offers when the transaction cost of paper 
+is subject to adjustment and clause
+  
+   P2011T
+  
+  was included in the request for 
+standing offers.
+ </p>
+<p>
+  Contracting officers must review paragraph 3 of the clause to identify the types 
+of paper identified in the request for standing offers.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The portion of the price directly related to the base
+transaction cost of paper is subject to price adjustment (increase
+or decrease) at any time during the standing offer period but not
+before <span class="input-required"><var>_______</var> <kbd>(<em>insert
+the date corresponding to the end of the 30-day period after the
+issuance of the standing offer</em>)</kbd></span>. The price will be
+adjusted using the percentage of the announced increase or decrease
+that came into effect by applying it to the applicable base
+transaction cost.</li>
+<li value="2">To request a price adjustment, the Offeror must
+provide the Standing Offer Authority with a notice indicating the
+increase or decrease in the base transaction cost of paper
+identified below. Such notice must contain the price as publicly
+announced by at least three (3) paper suppliers who supply the
+grade specified in the Standing Offer and the date the price came
+into effect.</li>
+<li value="3">The base transaction cost of paper subject to price
+adjustment is as follows:
+<ol type="a">
+<li value="1">cover stock (if applicable): <var>_____</var> <abbr title="pounds">lb</abbr>. at
+a base transaction cost per <abbr title="per hundred weight">Cwt</abbr>. of $<var>______</var> , and which
+represent <var>_____</var> percent of the unit price(s).<br/>
+Brand name and paper supplier: <var>___________________</var>.</li>
+<li value="2">text stock (if applicable): <var>______</var> <abbr title="pounds">lb</abbr>. at
+a base transaction cost per <abbr title="per hundred weight">Cwt</abbr>. of $<var>______</var> , and which
+represent <var>______</var> percent of the unit price(s).<br/>
+Brand name and paper supplier: <var>___________________</var>.</li>
+</ol>
+</li>
+<li value="4">The Offeror must provide a copy of the quotation from
+the paper supplier(s) to support the above base transaction cost
+and a copy of the revised quotation from the paper supplier(s) to
+support the adjusted base transaction cost.</li>
+<li value="5">Any price adjustment must be approved by the Standing
+Offer Authority and will be evidenced through a revision to the
+Standing Offer.</li>
+</ol>
+</div></pre>
+</div>

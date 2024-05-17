@@ -1,0 +1,58 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Conformément au
+  <span lang="en-CA">
+<abbr title="Federal Acquisition Regulation">
+    FAR
+   </abbr>
+</span>
+  45.106(c), insérer la clause suivante en plus de la clause
+  
+   Z0801C
+  
+  , Biens du Gouvernement, dans les invitations à soumissionner et les 
+contrats lorsqu'on envisage un Contrat de construction à prix fixe en vertu 
+duquel le Gouvernement doit fournir des biens
+  <abbr title="franco à bord">
+   FAB
+  </abbr>
+  wagons de chemin de fer à une 
+destination déterminée ou
+  <abbr title="franco à bord">
+   FAB
+  </abbr>
+  camion à l'emplacement du projet.  Le calendrier 
+du Contrat devra stipuler le point de livraison et pourra inclure des conditions 
+spéciales régissant l'installation, la préparation pour utilisation, ou les 
+essais d'équipement par le Gouvernement ou par un autre entrepreneur.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">Le Gouvernement américain fournira à
+l'Entrepreneur les biens indiqués dans le calendrier et devant
+être intégrés ou installés dans les Travaux ou
+utilisés pour exécuter le Contrat. Les biens
+énumérés sur la liste seront fournis <abbr title="franco à bord">FAB</abbr> wagons de
+chemin de fer à l'emplacement stipulé dans le calendrier
+du Contrat ou <abbr title="franco à bord">FAB</abbr> camion à l'emplacement du projet.
+L'Entrepreneur est tenu d'accepter la livraison, de payer tous les
+frais de surestaries ou de détention, et de décharger et
+de transporter les biens à l'emplacement des travaux, et ce
+à ses propres frais. Lorsque les biens seront livrés,
+l'Entrepreneur devra vérifier leur quantité et leur
+état, et en accuser réception par écrit à
+l'Agent de négociation des contrats. Il devra aussi
+déclarer par écrit à cet Agent, dans les 24 heures
+suivant la livraison, tous les dommages ou manques constatés
+à l'égard des biens reçus. Tous ces biens devront
+être installés et intégrés dans les Travaux aux
+frais de l'Entrepreneur, à moins d'indication contraire dans
+le présent Contrat.</li>
+<li value="2">Chaque article devant être fourni en vertu de la
+présente clause sera identifié dans le calendrier selon
+la quantité, la nature de l'article et la description.</li>
+</ol>
+</div></pre>
+</div>

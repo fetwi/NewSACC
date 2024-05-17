@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for the Department of National Defence 
+when a documented quality plan is required.
+
+Use the clause with D5510C and D5515C in the part "resulting contract clauses" 
+of the bid solicitation.  At contract award, use this clause in conjunction with 
+D5510C or D5515C depending on whether the contractor is Canadian or non-Canadian.
+
+In addition, use this clause in conjunction with D5401T and the associated 
+clauses stipulating the Quality System Requirements.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>No later than _____ days after the effective date of the Contract, the 
+Contractor must submit for acceptance by the Department of National Defence 
+(DND) a Quality Plan prepared according to the latest issue (at contract 
+date) of ISO 10005 Quality management systems - Guidelines, for quality 
+plans.  The Quality Plan must describe how the Contractor will conform to 
+the specified quality requirements of the Contract and specify how the 
+required quality activities are to be carried out, including quality 
+assurance of subcontractors.  The Contractor must include a traceability 
+matrix from the elements of the specified quality requirements to the 
+corresponding paragraphs in the Quality Plan.
+
+The documents referenced in the Quality Plan must be made available when 
+requested by Public Works and Government Services Canada or DND.
+
+If the Quality Plan was submitted as part of the bidding process, the 
+Contractor must review and, where appropriate, revise the submitted plan to 
+reflect any changes in requirements or planning which may have occurred as 
+a result of pre-contract negotiations.
+
+Upon acceptance of the Quality Plan by DND, the Contractor must implement 
+the Quality Plan.  The Contractor must make appropriate amendments to the 
+Quality Plan throughout the term of the contract to reflect current and 
+planned quality activities.  Amendments to the Quality Plan must be 
+acceptable to DND.
+
+If the Contract includes the option for software design, development or 
+maintenance of software, the Contractor must interpret the requirements of 
+ISO 9001:2000 Quality management systems - Requirements, according to the 
+guidelines of the latest issue (at contract date) of ISO/IEC 90003 Software 
+engineering - Guidelines for the application of ISO 9001:2000, to computer 
+software.
+
+
+</pre>
+</div>

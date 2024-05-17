@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations and contracts when a DSS Quality 
+Assurance Agency is called up on requisitions as the inspecting agency. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Work provided under the Contract shall be subject to inspection by the 
+following agency: _____ .
+
+The Contractor shall refer all questions regarding drawings and 
+   specifications to this Agency prior to production and shall make 
+   arrangements for inspection prior to packaging and shipping of goods.
+</pre>
+</div>

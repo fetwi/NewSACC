@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la demande du MDN indique qu'une assurance 
+officielle de la qualité à la source est requis. Ceci s'applique à tous les 
+entrepreneurs sauf aux entrepreneurs canadiens participant à la réparation et à 
+la remise en état au titre du SAFC. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le matériel doit être libéré aux fins d'expédition au moyen des documents 
+de sortie suivants :
+
+
+<strong>a)     POUR LES ENTREPRENEURS CANADIENS:</strong><strong></strong>
+
+Le matériel doit être libéré aux fins d'expédition au moyen de la formule 
+CF 1280 du MDN, Certificat de conformité, ou d'un document de sortie 
+contenant les mêmes données et accepté par le représentant de l'assurance 
+de la qualité (RAQ).
+
+La procédure de sortie alternative peut être utilisée avec l'autorisation 
+écrite du RAQ compétent. Dans ce cas, l'entrepreneur doit ajouter aux 
+documents de sortie la déclaration suivante :
+
+"Cet envoi a été autorisé conformément à la procédure de sortie alternative 
+faisant partie du contrat et approuvée par (nom et titre du RAQ responsable), 
+(numéro d'enregistrement), (date d'autorisation)."
+
+<span class="wsStyleUnderline">Signature (CQ de l'entrepreneur), nom (dactylographié ou écrit en lettres 
+moulées), titre et date</span>
+
+<strong>b)     POUR LES ENTREPRENEURS AMÉRICAINS:</strong><strong></strong>
+
+Le matériel doit être libéré aux fins d'expédition au moyen de la formule 
+DD 250, Rapport de réception et d'inspection du matériel. Cette formule 
+doit être préparée par l'entrepreneur et, lorsqu'elle a été dûment remplie, 
+signée par le RAQ et distribuée comme indiqué.
+
+<strong>c)     POUR LES ENTREPRENEURS EUROPÉENS, DU ROYAUME-UNI et de L'OTAN:</strong><strong></strong>
+
+Le matériel doit être libéré aux fins d'expédition au moyen d'un certificat 
+de conformité, conformément au STANAG 4107 de l'OTAN. Les certificats 
+doivent être préparés par l'entrepreneur et, lorsqu'ils ont été dûment 
+remplis, signés par le RAQ et distribués comme indiqué.
+
+</pre>
+</div>

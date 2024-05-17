@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Evaluation using mandatory minimum requirements and point rating - 
+contractor selection on the basis of lowest valid proposal.
+
+BASIS OF SELECTION:
+
+Further to DSS-MAS 9403-5 "Standard Instructions and Conditions", it is 
+understood by the parties submitting proposals that, to be considered valid, 
+a proposal must (a) meet all the mandatory requirements of this RFP and (b) 
+achieve a minimum of 70% of the points for the criteria which are subject 
+to point rating. The rating is performed on a scale of 100 points.
+
+Proposals not meeting (a) or (b) above will be given no further 
+   consideration. The lowest priced valid proposal will be recommended for 
+   the award of a contract.  
+</pre>
+</div>

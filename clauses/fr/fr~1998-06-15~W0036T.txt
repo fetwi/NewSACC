@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de 
+politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada » 
+pour savoir dans quels cas on doit appliquer cette clause.  Elle doit figurer 
+intégralement à la fin de l'invitation à soumissionner, avant les annexes ou les 
+appendices.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les avantages qui s'appliquent à ce marché sont
+exprimés dans la section 3 des clauses de l'Entente sur la
+revendication territoriale globale des Gwich'in (ERTGC),
+appendice C:</p>
+<ul class="hierarchy">
+<li><span class="number">13.6.2</span> Le gouvernement avise par
+écrit les Gwich'in Tetlit de tout appel d'offres concernant
+des marchés relatifs à des activités de sylviculture
+dans la zone d'exploitation principale.</li>
+<li><span class="number">13.6.3</span> Les Gwich'in Tetlit doivent
+se voir offrir en priorité les marchés de durée
+déterminée proposés par le gouvernement relativement
+à des activités de sylviculture dans la zone
+d'exploitation principale.</li>
+<li><span class="number">13.6.6</span> Le gouvernement doit inclure
+à toute offre de marché relatif à des activités
+de sylviculture dans la zone d'exploitation principale un
+critère concernant l'embauchage de main-d'œuvre gwich'in
+tetlit.</li>
+</ul>
+</div></pre>
+</div>

@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>GC 4.1 Material, Plant and Real Property Supplied by Canada</strong>
+
+The Contractor, having care, custody and control of the Work and its site, 
+shall be responsible for any loss or damage, excluding reasonable wear and 
+tear, to any property of Canada arising out of the performance of the Work 
+whether or not such loss arises from causes beyond the Contractor's control.
+
+<strong>GC 4.2 Construction Safety</strong>
+
+The Contractor shall be responsible for the health and safety of all 
+persons granted access to the site of the Work and for initiating, 
+maintaining and supervising all safety inspections, precautions and 
+programs in connection with the performance of the Work in accordance with 
+the health and safety legislation in force in the province where the Work 
+is being performed<strong>.</strong>
+
+</pre>
+</div>

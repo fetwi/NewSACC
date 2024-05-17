@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une visite des lieux d'exécution des travaux 
+est nécessaire pendant la période de la demande de soumissions pour bien saisir 
+la nature des travaux et l'état des lieux.  Dans le cas de demandes ayant trait 
+au domaine de la marine, le mot « navire » peut être ajouté dans le titre.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Il est obligatoire que le soumissionnaire ou un représentant de ce dernier 
+   visite les lieux d'exécution des travaux.  Des dispositions ont été 
+   prises pour la visite des lieux d'exécution des travaux, qui aura lieu 
+   le _____ (date), à _____________ (heure et endroit).  Les 
+   soumissionnaires doivent communiquer avec l'autorité contractante au 
+   plus tard ______ jour(s) avant la visite prévue pour confirmer leur 
+   présence et fournir le nom des personnes qui assisteront à la visite.  
+   Les soumissionnaires devront signer une formule de présence.  Les 
+   soumissionnaires devraient confirmer dans leur soumission qu'ils ont 
+   assisté à la visite.  Aucun autre rendez-vous ne sera accordé aux 
+   soumissionnaires qui ne participeront pas à la visite ou qui n'enverront 
+   pas de représentant, et leur soumission sera jugée irrecevable.  Toute 
+   précision ou tout changement apporté à la demande de soumissions à la 
+   suite de la visite des lieux sera inclus dans la demande de soumissions, 
+   sous la forme d'une modification.
+</pre>
+</div>

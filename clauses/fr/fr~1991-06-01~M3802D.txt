@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Il est entendu que le Responsable du service sur les lieux, relevant de 
+l'Utilisateur désigné, demandera la livraison des biens ou des services au 
+moyen de la DSS-MAS 942, Commande subséquente à une offre permanente, ou 
+par d'autres moyens comme le téléphone, le télex, le télécopieur ou les 
+télégrammes. Toutes les commandes subséquentes passées par téléphone, par 
+télex, par télécopieur ou par télégramme devront être confirmées par écrit 
+sur la formule DSS-MAS 942. 
+
+Sur demande, nous fournirons immédiatement au Responsable du service sur 
+les lieux une estimation des coûts d'exécution de ces biens ou services, 
+conformément à la disposition relative à l'établissement des prix de la 
+présente offre permanente, et nous n'exécuterons aucun travail ni aucun 
+service en réponse à une commande subséquente à moins que l'estimation 
+correspondante n'ait été examinée par le Responsable du service sur les 
+lieux, et qu'une autorisation écrite expresse ne soit fournie en réponse à 
+la commande subséquente. 
+
+Il faut envoyer au MAS une copie de chaque DSS-MAS 942 établie et une copie 
+de chaque DSS-MAS 942 dont le prix aura été établi par la suite.
+
+
+</pre>
+</div>

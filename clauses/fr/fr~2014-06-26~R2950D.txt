@@ -1,0 +1,144 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li>01 Généralités</li>
+<li>02 Taux horaires de main-d'oeuvre</li>
+<li>03 Coûts des matériaux, de
+l'outillage et de l'équipement</li>
+<li>04 Majoration à l'entrepreneur ou au
+sous-traitant</li>
+</ul>
+</div>
+<h2>01 (2007-05-25) Généralités</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit présenter une ventilation
+des coûts estimés pour chaque modification proposée
+conformément à l'alinéa 4) de la CG6.4.1, « Calcul du prix avant d'apporter des modifications ». La
+ventilation doit faire état de l'ensemble des coûts de la
+main-d'oeuvre, d'outillage et de matériaux qui sont
+estimés par l'entrepreneur et sous-traitants, ainsi que du
+montant de chaque majoration.</li>
+<li value="2">Il appartient à l'entrepreneur de s'assurer que
+tous les prix des sous-traitants inclus dans le prix qu'il soumet
+au Canada sont justes et raisonnables, compte tenu des
+modalités exprimées dans les présentes.</li>
+<li value="3">Le nombre d'heures de travail requises pour la
+modification proposée doit être fondé sur le nombre
+estimatif d'heures requises pour exécuter les travaux.</li>
+<li value="4">Ces heures peuvent comprendre le temps de travail du
+contremaître en service, calculé au taux applicable
+convenu par écrit entre l'entrepreneur et le Canada.</li>
+<li value="5">Le temps attribuable à la manutention des
+matériaux, les facteurs de productivité et les
+périodes de repos approuvées doivent faire partie du
+nombre d'heures requises pour la modification proposée et ne
+seront pas payés comme élément distinct aux taux
+horaires.</li>
+<li value="6">Les majorations visées à l'article 04
+ci-après ne doivent pas être compris dans les taux
+horaires de main-d'oeuvre.</li>
+<li value="7">Seuls les travaux directement reliés aux
+modifications pourront faire l'objet d'un crédit pour travaux
+supprimés.</li>
+<li value="8">Lorsqu'une modification entraîne la suppression
+de travaux qui n'ont pas encore été exécutés,
+le Canada a droit à un ajustement au montant du contrat,
+égal au coût que l'entrepreneur aurait engagé si les
+travaux n'avaient pas été supprimés.</li>
+<li value="9">Les majorations mentionnées à l'article 04
+ci-après ne doit être appliqué à aucun
+crédit pour travaux supprimés.</li>
+<li value="10">Dans les cas où le changement consiste à
+ajouter des éléments aux travaux et à en supprimer,
+les majorations visées à l'article 04 ci-après ne
+s'appliquent que lorsque le coût des travaux ajoutés
+moins le coût des travaux supprimés entraîne une
+augmentation du montant du contrat. La majoration en pourcentage ne
+s'appliquera qu'à la tranche des coûts des travaux
+ajoutés en sus du coût des travaux supprimés.</li>
+<li value="11">Si la modification proposée oblige à
+modifier la date d'achèvement des travaux prévue au
+contrat ou a un impact sur les travaux, l'entrepreneur doit
+déterminer le nouveau coût, le cas échéant, et
+l'inclure dans la ventilation qu'il présente au Canada.</li>
+</ol>
+<h2>02 (2014-06-26) Taux horaires de main-d'oeuvre</h2>
+<ol type="1">
+<li value="1">Les taux horaires de main-d'oeuvre
+énumérés dans la ventilation de l'entrepreneur son
+établis conformément aux conventions collectives
+s'appliquant sur le chantier et comprennent :
+<ol type="a">
+<li value="1">le taux de salaire de base;</li>
+<li value="2">les rémunérations de vacances;</li>
+<li value="3">les avantages sociaux, soit :
+<ol type="i">
+<li value="1">les cotisations d'assurance-sociale;</li>
+<li value="2">les cotisations de retraite;</li>
+<li value="3">les droits d'affiliation syndicale;</li>
+<li value="4">les cotisations aux caisses de formation et
+d'industrie;</li>
+<li value="5">les autres avantages sociaux applicables, le cas
+échéant, que l'entrepreneur peut justifier.</li>
+</ol></li>
+<li value="4">les obligations légales et les exigences
+établies par la loi, évaluées et payables en vertu
+de la loi, qui incluent :
+<ol type="i">
+<li value="1">les cotisations d'assurance-emploi;</li>
+<li value="2">les cotisations au Régime de pensions du Canada ou au
+Régime des rentes du Québec;</li>
+<li value="3">les cotisations à verser à la Commission de la
+santé et de la sécurité du travail ou à
+l'organisme chargé de l'indemnisation des accidents du
+travail;</li>
+<li value="4">les primes d'assurance-responsabilité civile et
+dommages matériels;</li>
+<li value="5">les primes d'assurance-santé.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2>03 (2007-05-25) Coûts des matériaux, de l'outillage
+et de l'équipement</h2>
+<ol type="1">
+<li value="1">Les coûts de tous les achats et locations
+doivent être calculés d'après le montant réel
+versé aux fournisseurs par l'entrepreneur ou par le
+sous-traitant; lesdits éléments de coût doivent
+comprendre tous les rabais applicables.</li>
+</ol>
+<h2>04 (2007-05-25) Majoration de l'entrepreneur ou du
+sous-traitant</h2>
+<ol type="1">
+<li value="1">Les majorations établies conformément
+à l'article 1) de la CG6.4.1, « Calcul du prix avant
+d'apporter des modifications » sont réputées comme
+étant rémunération intégrale pour :
+<ol type="a">
+<li value="1">la surveillance, la coordination, l'administration,
+les frais généraux, la marge bénéficiaire et le
+risque que comporte la réalisation des travaux dans le respect
+du montant stipulé; et</li>
+<li value="2">les suppléments de coûts divers se
+rapportant :
+<ol type="i">
+<li value="1">à l'achat ou à la location des
+matériaux, de l'outillage et de l'équipement;</li>
+<li value="2">à l'achat de petit outillage et de fournitures;</li>
+<li value="3">aux mesures de sécurité et de protection;</li>
+<li value="4">aux permis, aux cautionnements, aux assurances, aux
+études techniques, aux dessins de l'ouvrage fini, à la
+mise en service et au bureau de chantier.</li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

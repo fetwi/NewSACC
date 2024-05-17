@@ -1,0 +1,201 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<p>01 Code of Conduct and Certifications - Bid</p>
+<p>02 Procurement Business Number</p>
+<p>03 Standard Instructions, Clauses and
+Conditions</p>
+<p>04 Definition of Bidder</p>
+<p>05 Submission of a Bid</p>
+<p>06 Legal Capacity</p>
+<p>07 Rejection of Bid</p>
+<p>08 Price Justification</p>
+<p>09 Bid Costs</p>
+<p>10 Joint Venture</p>
+<p>11 Further Information</p>
+</div>
+<h2>01 Code of Conduct and Certifications - Bid </h2>
+<ol type="1">
+<li value="1">Bidders must comply with the <cite>Code of Conduct for Procurement</cite>. In addition to the <cite>Code of Conduct for Procurement</cite>, bidders must a) respond to bid solicitations in an honest, fair and comprehensive manner, b) accurately reflect their capacity to satisfy the requirements stipulated in the bid solicitations and resulting contracts, c) submit bids and enter into contracts only if they will fulfill all obligations of the Contract.</li>
+<li value="2">	Bidders further understand that, to ensure fairness, openness and transparency in the procurement process, the commission of certain acts or offences will render them ineligible to be awarded a contract.  Canada will declare non-responsive any bid in respect of which the information herein requested is missing or inaccurate, or in respect of which the information contained in the certifications specified hereinafter is found to be untrue, in any respect, by Canada.  If it is determined, after contract award, that the Bidder made a false declaration, Canada will have the right to terminate the Contract for default.  The Bidder will be required to diligently maintain up-to-date the information herein requested.  The Bidder and any of the Bidder's parent companies, subsidiaries and affiliates, will also be required to remain free and clear of any acts or convictions specified herein during the period of any contract arising from this bid solicitation.  Canada may verify the information provided by the Bidder, including the information relating to the acts or convictions specified herein, through independent research, use of any government resources or by contacting third parties.</li>
+<li value="3">	For the purpose of this section, business concerns, organizations and individuals are Bidder's affiliates if:
+
+<ol type="a">
+<li value="1">	directly or indirectly either one controls or has the power to control the other, or</li>
+<li value="2">	a third party has the power to control both.</li>
+</ol>	
+Indicia of control, include, but are not limited to, interlocking management or ownership, identity of interests among family members, shared facilities and equipment, common use of employees, or a business entity created following the acts or convictions specified in this section which has the same or similar management, ownership, or principal employees, as the case may be.
+</li>
+<li value="4">Bidders must submit the following as part of their bid:
+
+<ol type="a">
+<li value="1">a complete list of names of all individuals who are currently directors of the Bidder;</li>
+<li value="2">a properly completed and signed Consent Form, for each individual named in the aforementioned list.</li>
+</ol>
+</li>
+<li value="5">
+The Bidder must diligently maintain the list up-to-date by informing Canada in writing of any change occurring during the validity period of the bid, and must also provide Canada with the corresponding Consent Forms.  The Bidder will also be required to diligently maintain the list and to provide Consent Forms during the period of any contract arising from this bid solicitation.</li>
+<li value="6">
+By submitting a bid, the Bidder certifies to be aware, and that its parent companies, subsidiaries and affiliates are aware, that Canada may verify the information provided by the Bidder, including the information relating to the acts or convictions specified herein, through independent research, use of any government resources or by contacting third parties.</li>
+<li value="7">
+By submitting a bid, the Bidder certifies that neither the Bidder nor any of the Bidder's parent companies, subsidiaries or affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Contract if the payment of the fee would require the individual to file a return under section 5 of the <cite>Lobbying Act</cite>.</li>
+<li value="8">
+By submitting a bid, the Bidder certifies that except for those offences where a criminal pardon or a record suspension has been obtained, capacities restored by the Governor in Council, or leniency granted as further described in subsection 9 herein, neither the Bidder nor any of the Bidder's parent companies, subsidiaries or affiliates has ever been convicted of an offence under any of the following provisions:
+
+<ol type="a">
+<li value="1">	section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), 46 (<em>Foreign directives</em>) 47 (<em>Bid rigging</em>), 49 (<em>Agreements or arrangements of federal financial institutions</em>), 52 (<em>False or misleading representation</em>), 53 (<em>Deceptive notice of winning a prize</em>) under the <cite>Competition Act</cite>, or</li>
+<li value="2">	section 121 (<em>Frauds on the government and Contractor subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>), section 462.31 (<em>Laundering proceeds of crime</em>) <em>or sections 467.11 to 467.13 (Participation in activities of criminal organization</em>) of the <cite>Criminal Code</cite> of Canada, or</li>
+<li value="3">	paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (Fraud against Her Majesty) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite>Financial Administration Act</cite>, or</li>
+<li value="4">	section 239 (<em>False or deceptive statements</em>) of the <cite>Income Tax Act</cite>, or</li>
+<li value="5">	section 327 (<em>False or deceptive statements</em>) of the <cite>Excise Tax Act</cite>, or</li>
+<li value="6"> section 3 (<em>Bribing a foreign public official</em>) of the <cite>Corruption of Foreign Public Officials Act</cite>, or</li>
+<li value="7">	section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite>Controlled Drugs and Substance Act</cite>.</li>
+</ol>
+</li>
+<li value="9">	In circumstances where a criminal pardon or a record suspension has been obtained, capacities restored by the Governor in Council, or leniency granted pursuant to a formal program (similar to the Competition Bureau's Leniency Program) for offences other than sections 121, 124, 380 for fraud committed against Her Majesty and 418 of the <cite>Criminal Code</cite> or offences under the <cite>Financial Administration Act</cite>, the Bidder must provide with its bid a certified copy of confirming documentation from an official source.
+</li>
+</ol>
+<h2>02 Procurement Business Number</h2>
+<p>Suppliers are required to have a Procurement Business
+Number (PBN) before contract award. Suppliers may register for a
+<abbr title="Procurement Business Number">PBN</abbr> online at Supplier Registration
+Information. For non-Internet registration, suppliers may
+contact the InfoLine at 1-800-811-1148 to obtain the telephone
+number of the nearest Supplier Registration Agent.</p>
+<h2>03 Standard Instructions, Clauses and Conditions</h2>
+<p>Pursuant to the <cite>Department of Public
+Works and Government Services Act</cite> (<abbr title="Statutes of Canada">S.C.</abbr> 1996, c.16), the
+instructions, clauses and conditions identified in the bid
+solicitation and resulting contract by number, date, and title are
+incorporated by reference into and form part of the bid
+solicitation and resulting contract as though expressly set out in
+the bid solicitation and resulting contract.</p>
+<h2>04 Definition of Bidder</h2>
+<p><dfn>"Bidder"</dfn> means the person or entity (or, in the case of
+a joint venture, the persons or entities) submitting a bid to
+perform a contract for goods, services or both. It does not include
+the parent, subsidiaries or other affiliates of the Bidder, or its
+subcontractors.</p>
+<h2>05 Submission of a Bid</h2>
+<ol type="1">
+<li value="1">Canada requires that each bid, at closing date and
+time or upon request from the Contracting Authority, be signed by
+the Bidder or by an authorized representative of the Bidder. If a
+bid is submitted by a joint venture, it must be in accordance with
+section 10.</li>
+<li value="2">The bid will be treated as confidential, subject to
+the provisions of the <cite>
+Access to Information Act</cite> (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> A-1) and the
+<cite>
+Privacy Act</cite> (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> P-21).</li>
+</ol>
+<h2>06 Legal Capacity</h2>
+<p>The Bidder must have the legal capacity to contract. If the
+Bidder is a sole proprietorship, a partnership or a corporate body,
+the Bidder must provide, if requested by the Contracting Authority,
+a statement and any requested supporting documentation indicating
+the laws under which it is registered or incorporated together with
+the registered or corporate name and place of business. This also
+applies to bidders submitting a bid as a joint venture.</p>
+<h2>07 Rejection of Bid</h2>
+<ol type="1">
+<li value="1">Canada may reject a bid where any of the following
+circumstances is present:
+<ol type="a">
+<li value="1">the Bidder is subject to a Vendor Performance
+Corrective Measure, under the Vendor Performance Corrective Measure Policy, which
+renders the Bidder ineligible to bid on the requirement;</li>
+<li value="2">an employee, or subcontractor included as part of the
+bid, is subject to a Vendor Performance Corrective Measure, under
+the Vendor Performance Corrective Measure Policy, which would render that employee or
+subcontractor ineligible to bid on the requirement, or the portion
+of the requirement the employee or subcontractor is to
+perform;</li>
+<li value="3">the Bidder is bankrupt or where, for whatever reason, its activities are rendered inoperable for an extended period;</li>
+<li value="4">evidence, satisfactory to Canada, of fraud, bribery, fraudulent misrepresentation or failure to comply with any law protecting individuals against any manner of discrimination, has been received with respect to the Bidder, any of its employees or any subcontractor included as part of the bid;</li>
+<li value="5">evidence satisfactory to Canada that based on past conduct or behavior, the Bidder, a subcontractor or a person who is to perform the Work is unsuitable or has conducted himself/herself improperly;</li>
+<li value="6">with respect to current or prior transactions with
+the Government of Canada
+<ol type="i">
+<li value="1">Canada has exercised its contractual remedies of
+suspension or termination for default with respect to a contract
+with the Bidder, any of its employees or any subcontractor included
+as part of the bid;</li>
+<li value="2">Canada determines that the Bidder's performance on other
+contracts, including the efficiency and workmanship as well as the
+extent to which the Bidder performed the Work in accordance with
+contractual clauses and conditions, is sufficiently poor to
+jeopardize the successful completion of the requirement being bid
+on.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Where Canada intends to reject a bid pursuant to a
+provision of subsection 1. (f), the Contracting Authority will so
+inform the Bidder and provide the Bidder ten (10) days within which
+to make representations, before making a final decision on the bid
+rejection.</li>
+</ol>
+<h2>08 Price Justification</h2>
+<p>The Bidder must provide, on Canada's request, one or more of the
+following price justification:</p>
+<ol type="a">
+<li value="1">a current published price list indicating the
+percentage discount available to Canada; or</li>
+<li value="2">a copy of paid invoices for the like quality and
+quantity of the goods, services or both sold to other customers;
+or</li>
+<li value="3">a price breakdown showing the cost of direct labour,
+direct materials, purchased items, engineering and plant overheads,
+general and administrative overhead, transportation, etc., and
+profit; or</li>
+<li value="4">price or rate certifications; or</li>
+<li value="5">any other supporting documentation as requested by
+Canada.</li>
+</ol>
+<h2>09 Bid Costs</h2>
+<p>No payment will be made for costs incurred in the preparation
+and submission of a bid in response to the bid solicitation. Costs
+associated with preparing and submitting a bid are the sole
+responsibility of the Bidder.</p>
+<h2>10 Joint Venture</h2>
+<ol type="1">
+<li value="1">A joint venture is an association of two or more
+parties who combine their money, property, knowledge, expertise or
+other resources in a single joint business enterprise, sometimes
+referred as a consortium, to bid together on a requirement. Bidders
+who bid as a joint venture must indicate clearly that it is a joint
+venture and provide the following information:
+<ol type="a">
+<li value="1">the name of each member of the joint venture;</li>
+<li value="2">the Procurement Business Number of each member of the
+joint venture;</li>
+<li value="3">the name of the representative of the joint venture,
+i.e. the member chosen by the other members to act on their behalf,
+if applicable;</li>
+<li value="4">the name of the joint venture, if applicable.</li>
+</ol>
+</li>
+<li value="2">If the information is not clearly provided in the
+bid, the Bidder must provide the information on request from the
+Contracting Authority.</li>
+<li value="3">The bid and any resulting contract must be signed by
+all the members of the joint venture unless one member has been
+appointed to act on behalf of all members of the joint venture. The
+Contracting Authority may, at any time, require each member of the
+joint venture to confirm that the representative has been appointed
+with full authority to act as its representative for the purposes
+of the bid solicitation and any resulting contract. If a contract
+is awarded to a joint venture, all members of the joint venture
+will be jointly and severally or solidarily liable for the
+performance of any resulting contract.</li>
+</ol>
+<h2>11 Further Information</h2>
+<p>For further information, the Bidder may contact the Contracting
+Authority identified in the bid solicitation.</p>
+</div></pre>
+</div>

@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when bidders are required to provide specific documents 
+with their bids (examples: proof of insurance, letter of credit, list of 
+subcontractors, etc.).  Use this clause in conjunction with either A0031T, 
+A0034T, A0035T, A0036T.  Insert this clause under the mandatory requirements of 
+the evaluation criteria in the bid solicitation.
+
+When using the Medium Complexity template 2T-MED1, insert this clause in Annex X 
+- Evaluation Criteria and Basis of Selection under Part 1 (Evaluation Criteria), 
+article 1 (Mandatory Requirements).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder must provide the following documents with its bid:
+
+1. ______________
+
+2. ______________
+
+3. ______________.
+</pre>
+</div>

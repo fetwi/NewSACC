@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when transportation costs are to be submitted to the Traffic 
+Management Directorate (TMD) for analysis.  For information on when these costs 
+are to be submitted to TMD, including the list of exceptions, refer to Supply 
+Manual procedure 6E.621, and for additional information on the mandatory 
+provisions for transportation cost information, refer to procedure 7D.409.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Bidder shall provide the following information concerning 
+       transportation costs which may be incurred either by Canada or the 
+       Contractor in the delivery of the units to destination:
+
+       (a)    shipping weight per unit;
+       (b)    number of items per unit;
+       (c)    cubic measurement per unit;
+       (d)    freight classification;
+       (e)    name of shipping point;
+       (f)    name of rail carrier, if shipment is by rail; and
+       (g)    recommended method of shipment and its costs.
+
+
+</pre>
+</div>

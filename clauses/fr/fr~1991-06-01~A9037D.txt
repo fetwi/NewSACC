@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Catégorie professionnelle : 
+
+101. LS       Bibliothécaires
+
+Catégorie administrative : 
+
+201. IS              Agents d'information 
+202. AS       Services administratifs 
+203. PM       Personnel chargé de la gestion des programmes
+
+Catégorie technique : 
+
+301. DD       Dessinateurs et illustrateurs 
+302. EG-ESS   Personnel de soutien technologique et scientifique
+303. SI              Techniciens de bibliothèque 
+304. EL       Electronique
+
+Catégorie de l'exploitation : 
+
+501. GL-ELE   Manoeuvres et personnel de métier auxiliaire 
+502. GS-STS   Magasiniers 
+</pre>
+</div>

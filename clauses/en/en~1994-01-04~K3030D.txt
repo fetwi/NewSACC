@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Clause for contracts not involving research and development - the Contractor 
+receives intellectual property.
+
+Use the following clause in a contract where clause K3002D is used, if the 
+client department requires the right to use, copy or translate material in which 
+copyright subsists.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In this section, "Material" means anything that is created or 
+       developed by the Contractor as part of the Work under the Contract, 
+       and in which copyright subsists.
+
+2.     The Contractor hereby grants to Canada a non-exclusive, irrevocable, 
+       worldwide, fully-paid and royalty-free license to use, copy or 
+       translate the Material for government purposes.
+
+3.     Copyright in any translation of the Material made by Canada shall 
+       vest in Canada, but this copyright shall be subservient to the 
+       copyright in the original Material.
+
+4.     Canada may use independent contractors in the exercise of Canada's 
+       rights under this section.
+
+5.     Canada shall reproduce the Contractor's copyright notice, if any, on 
+       all copies or translations of the Material.
+
+6.     No restrictions other than those set out in this section shall apply 
+       to Canada's use of copied or translated versions of the Material.
+
+</pre>
+</div>

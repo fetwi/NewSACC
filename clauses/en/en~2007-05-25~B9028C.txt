@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor may require access to Canada's facilities, equipment, documentation or personnel.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada's facilities, equipment, documentation and personnel are not automatically at the disposal of the Contractor. If access to government premises, computer systems (micro computer network), working space, telephones, terminals, documentation and personnel for consultation is required by the Contractor to perform the Work, the Contractor must advise the Contracting Authority of the need for such access in a timely fashion. If the Contractor's request for access is approved by Canada and arrangements are made to provide access to the Contractor, the Contractor, its subcontractors, agents and employees must comply with all the conditions applicable at the Work site. The Contractor must further ensure that the facilities and equipment are used solely for the performance of the Contract.</p>
+</div></pre>
+</div>

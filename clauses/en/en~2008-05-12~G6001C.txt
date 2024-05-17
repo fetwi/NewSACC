@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when vehicles are leased by Canada on a 
+long-term basis.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must not insure the risks to Canada
+arising from the use or operation of vehicles leased by Canada on a
+long-term basis (over 30 days) except where Provincial law makes it
+mandatory for the Contractor to insure any leased vehicles. Where
+Provincial law makes it mandatory to insure a leased vehicle, the
+Contractor must obtain insurance coverage in respect of the vehicle
+supplied under the lease, and a copy or evidence of such insurance
+is to be provided to Canada.</li>
+<li value="2">Canada may decide not to purchase Collision, All
+Perils or Comprehensive insurance. The option that must be chosen
+by Canada when renting a vehicle must depend on the applicable
+<cite>Treasury Board Risk Management Policy</cite>.</li>
+<li value="3">In the event of an accident that is self-insured by
+Canada (as Lessee), Canada must obtain a written estimate for the
+repairs and, in consultation with the Contractor (as Lessor), must
+decide where the repairs are to be performed. If the Contractor
+decides to have the damage repaired at another place and the cost
+of said repairs is higher then the estimate obtained by Canada,
+Canada must only pay the lesser amount. Further, if the Contractor
+decides that the vehicle is to be repaired at a place other then
+the place Canada chooses, the Contractor must be responsible to pay
+transport costs of the vehicle to the alternate location.</li>
+<li value="4">When a rental vehicle is in a disabling accident, all
+rental charges must cease on said vehicle.</li>
+</ol>
+</div></pre>
+</div>

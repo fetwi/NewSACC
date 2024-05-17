@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans toutes les demandes de soumissions.
+
+Ne pas utiliser cette clause avec les instructions uniformisées 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les fournisseurs canadiens doivent avoir un numéro d'entreprise - 
+approvisionnement (NEA) avant de se voir attribuer un contrat.  Les 
+fournisseurs peuvent s'inscrire pour obtenir un NEA du système Données 
+d'inscription des fournisseurs en se rendant sur le site Web d'Accès 
+entreprises Canada (<strong class="wsStyleUnderline">http://contractscanada.gc.ca</strong>).
+
+Pour s'inscrire autrement que par Internet, les fournisseurs peuvent 
+   communiquer avec la LigneInfo d'Accès entreprises Canada au 
+   1-800-811-1148 afin d'obtenir le numéro de téléphone de l'agent 
+   d'inscription des fournisseurs le plus près.
+</pre>
+</div>

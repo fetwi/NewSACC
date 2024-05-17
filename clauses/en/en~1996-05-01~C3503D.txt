@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Subject to the following provisions, a portion of the price may be 
+       increased or decreased, depending on the price variation of paper 
+       stock, between the date the Contractor submitted its bid and the 
+       date of first delivery of work.
+
+2.     In the event of paper cost variation, the Contractor shall provide 
+       notice of increase or decrease of the price of paper used for this 
+       Contract, within ten (10) days of the date of first delivery of work, 
+       indicating the price fluctuation of paper stock, as publicly 
+       announced by at least three (3) Canadian paper mills.
+
+3.     Canada has the sole right to either accept the proposed price change, 
+       or to refuse the change. Refusal implies that the Contract is ipso 
+       facto annulled "ab initio" (retroactively, as if it never had 
+       existed), with no costs or liabilities to any party. The right of 
+       Canada shall be exercised in writing, be sent to the Contractor 
+       within ten (10) days of receipt of the Contractor's notice of price 
+       fluctuation, regardless if some or all paper has then been delivered, 
+       all unused paper shall be returned to the Contractor, at Canada's 
+       cost, and all used paper shall be paid for at the new published 
+       price. 
+
+4.     Acceptance of the price fluctuation will be evidenced by a contract 
+       amendment. Until such an amendment is issued, prices are not to be 
+       invoiced at a different rate than the rate stated in this Contract.
+
+
+</pre>
+</div>

@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when it is anticipated that users will make payments 
+for call-ups against the standing offer with a Government of Canada Acquisition 
+Card (credit card) at the point of sale, and clause M3503T was used in the 
+Request for Standing Offers, and the bidder has indicated in clause M3503T that 
+payment for call-ups by credit card at point of sale is acceptable. (Refer to 
+Supply Manual, procedure 5.184.)
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Payments at point of sale for call-ups against the standing offer made by 
+credit card will not be subject to the Payment and Interest on Overdue 
+Accounts provisions set out in General Conditions DSS-MAS ______ of the 
+Standing Offer.
+
+The following credit card(s) are accepted (as specified by the Bidder):
+
+VISA _______
+MasterCard _______.
+
+
+</pre>
+</div>

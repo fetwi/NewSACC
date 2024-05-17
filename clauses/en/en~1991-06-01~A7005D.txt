@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Monthly maintenance charges shall be suspended for any item of 
+       equipment which is not operational. 
+
+2.     A maintenance credit shall apply to all items of equipment which are 
+   not operational and whose availability falls below 90 percent over any 
+   thirty-day (30) period.  The credit shall be equal to the monthly 
+   maintenance rate for that non-operational equipment multiplied by the 
+   difference between 100 percent and the availability of the equipment. 
+</pre>
+</div>

@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque les frais de déplacement 
+et de subsistance (sans aucune indemnité supplémentaire pour les frais généraux 
+ou la marge bénéficiaire) doivent être directement imputés au contrat.  
+Consulter l'annexe 10.1.4 dans le Guide des approvisionnements, COMMUNIQUÉ 
+D'INTERPRÉTATION DES COÛTS - Numéro 04, Frais de déplacement.  Lorsque 
+nécessaire les clauses qui utilisent les frais de subsistance recouvrés selon un 
+taux quotidien ou une méthode d'établissement de prix ferme sont modifiées en 
+conséquence.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>On paiera à l'entrepreneur les frais autorisés de déplacement et de 
+subsistance raisonnables et convenables engagés par le personnel 
+participant directement à l'exécution des travaux, au prix coûtant calculé 
+conformément aux Principes des coûts contractuels, DSS-MAS 1031-2, sans 
+aucune indemnité supplémentaire pour les frais généraux et les bénéfices. 
+Tous les paiements peuvent faire l'objet d'une vérification du gouvernement.
+
+
+
+</pre>
+</div>

@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the technical evaluation requires compliance with 
+mandatory requirements and further evaluation subject to point rating.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Technical Proposal shall be divided in two (2) separate parts, as 
+follows:
+
+1.     Mandatory Requirements
+2.     Requirements Subject to Point Rating
+
+1.     <strong>Mandatory Requirements</strong>
+
+       Proposals will be examined to determine their compliance with the 
+       mandatory requirements as detailed in the attached Appendix/Annex "____
+       ". Bidders are instructed to address each requirement in sufficient 
+       depth to permit a complete analysis and assessment by the Evaluation 
+       Team. Only proposals found to meet the mandatory requirements will 
+       be further evaluated in accordance with the evaluation criteria 
+       subject to point rating.
+
+2.     <strong>Requirements Subject to Point Rating</strong>
+
+       Proposals will be evaluated and scored in accordance with specific 
+       evaluation criteria as detailed in the attached Appendix/Annex "____
+       ".
+  
+</pre>
+</div>

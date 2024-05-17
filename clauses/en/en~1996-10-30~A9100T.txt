@@ -1,0 +1,61 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used in all bid solicitations.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada may reject a bid where any of the following circumstances is 
+       present:
+
+       (a)    the bidder, or any employee or subcontractor included as part 
+              of the bid, has been convicted under section 121 ("Frauds on 
+              the government" &amp; "Contractor subscribing to election fund"), 
+              124 ("Selling or purchasing office"), or 418 ("Selling 
+              defective stores to Her Majesty") of the <em>Criminal Code</em>; or
+
+       (b)    the bidder is subject to a Vendor Performance Corrective 
+              Measure, under the Vendor Performance Policy, which renders 
+              the bidder ineligible to bid on the Work;
+
+       (c)    an employee or subcontractor included as part of the bid, is 
+              subject to a Vendor Performance Corrective Measure, under the 
+              Vendor Performance Policy, which would render that employee 
+              or subcontractor ineligible to bid on the Work, or the 
+              portion of the Work the employee or subcontractor is to 
+              perform;
+
+       (d)    with respect to current or prior transactions with the 
+              Government of Canada 
+
+              (1)    the bidder is bankrupt or where, for whatever reason, 
+                     its activities are rendered inoperable for an extended 
+                     period;
+
+              (2)    evidence, satisfactory to Canada, of fraud, bribery, 
+                     fraudulent misrepresentation or failure to comply with 
+                     any law protecting individuals against any manner of 
+                     discrimination, has been received with respect to the 
+                     bidder, any of its employees or any subcontractor 
+                     included as part of its bid;
+
+              (3)    Canada has exercised its contractual remedies of 
+                     suspension or termination for default with respect to 
+                     a Contract with the bidder, any of its employees or 
+                     any subcontractor included as part of its bid; or
+
+              (4)    Canada determines that the bidder's performance on 
+                     other contracts, including the efficiency and 
+                     workmanship as well as the extent to which the bidder 
+                     executed the work in accordance with contractual terms 
+                     and conditions, is sufficiently poor to jeopardize the 
+                     successful completion of the requirement being bid on.
+
+
+2.     Where Canada intends to reject a bid pursuant to a provision of 
+       paragraph 1, other than 1(b), the Contracting Authority will so 
+       inform the bidder and provide the bidder ten (10) days within which 
+       to make representations, prior to making a final decision on the bid 
+       rejection.
+
+
+</pre>
+</div>

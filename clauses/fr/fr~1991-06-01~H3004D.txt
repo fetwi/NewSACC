@@ -1,0 +1,66 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans toutes les invitations à soumissionner et les 
+documents contractuels prévoyant des acomptes et qui utilisent les formules de 
+Conditions générales énumérées ci-dessous.  Veuillez fournir les données 
+pertinentes selon le cas.
+
+					Article
+	DSS-MAS 1026A		10
+	DSS-MAS 1026 S100A		10
+	DSS-MAS 1026B		19
+	DSS-MAS 9076			8
+	CCC-50			17
+
+Il n'est pas nécessaire d'utiliser cette clause lorsqu'on utilise les Conditions 
+générales - Formule détaillée, DSS-MAS 9329-1.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'article_____des Conditions générales_____ faisant partie du 
+       présent contrat est supprimé et remplacé par celui qui suit.
+
+       a)     Aucun paiement ne sera versé à l'entrepreneur à moins ou 
+              avant que les factures, notes d'inspection et tout autre 
+              document exigé par le Ministre ou l'inspecteur soient 
+              présentés conformément aux conditions du contrat ou aux 
+              instructions du Ministre.
+
+       b)     Dans les cas où les coûts ont été défrayés par l'entrepreneur 
+              et où le paiement est effectué par le Ministre:
+
+                     Le Canada ne devra faire aucun paiement à 
+                     l'entrepreneur, s'il en est requis, à moins ou avant 
+                     que l'entrepreneur n'ait établi à la satisfaction du 
+                     Ministre que les matériaux, pièces, travaux en cours 
+                     et travaux finis sont tous libres de réclamations, 
+                     privilège, saisie, charge ou servitude.
+
+       c)     Dans les cas où les coûts se sont accumulés dans les comptes 
+              de l'entrepreneur comme obligation à être acquittée dans le 
+              cours normal des affaires et où le Ministre effectue le 
+              paiement :
+
+                     Aucun paiement ne devra être fait à l'entrepreneur à 
+                     moins ou avant que l'entrepreneur, s'il en est requis, 
+                     n'ait établi à la satisfaction du Ministre que :
+
+                     (1)    l'entrepreneur n'a pas failli, dans le cours 
+                            normal des affaires, à ses obligations 
+                            accumulées issues du présent contrat;
+
+                     (2)    le paiement effectué par le Ministre ne sera 
+                            utilisé que pour l'acquittement de telles 
+                            obligations;
+
+                     (3)    suite à cet acquittement, les matériaux, pièces, 
+                            travaux en cours et travaux finis devront être 
+                            tous libres de réclamations, privilèges, charge 
+                            ou servitude.
+
+       d)     Dans le cas des travaux finis :
+
+                     Le Canada ne devra faire aucun paiement à 
+   l'entrepreneur à moins ou avant que ces travaux finis n'aient été 
+   inspectés ou acceptés conformément aux conditions du contrat.
+</pre>
+</div>

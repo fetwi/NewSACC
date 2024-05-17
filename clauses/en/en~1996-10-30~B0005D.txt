@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to advise the contractor of the availability of test facilities 
+if such tests are required.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Subject to availability, the Contractor may use the facilities at the Proof 
+and Experimental Test Establishment (PETE) at Nicolet, Quebec, for contract 
+related tests and proofs. The costs of any tests performed at PETE shall be 
+borne by the Contractor.
+
+
+</pre>
+</div>

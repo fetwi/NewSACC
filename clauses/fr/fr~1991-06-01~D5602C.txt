@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante si la demande spécifie l'emploi de la formule CF 
+1280 si l'Entrepreneur réside aux États-Unis et si la clause D5602T fut 
+utilisée.  Indiquer la distribution tel qu'indiqué à la demande.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'autorisation de l'expédition du matériel, utiliser la formule DD 250, 
+   intitulée Inspection du matériel et compte rendu de réception. 
+   L'Entrepreneur doit établir la formule DD 250 et, après l'avoir dûment 
+   remplie et signée, la distribuer de la façon suivante : _____ . 
+</pre>
+</div>

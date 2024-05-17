@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when progress payment against milestone 
+will be made in accordance with an established schedule of milestones using form 
+PWGSC-TPSGC 1111 and the amount claimed is  subject to holdback.  Use clause 
+H3005C when the amount claimed is not subject to holdback.
+
+Use the clause in conjunction with H0004C, and if applicable use H3022C or 
+H3024C and H4012C.
+
+Contracting officers should review the policy on progress payments (Supply 
+Manual, Section 6E).  Milestone payment is a form of progress payment which is 
+addressed under the policy related to progress payments.
+
+Instructions to contracting officers:
+
+1.	Delete paragraph 1 (b) if not applicable;
+
+2.	Insert one of the following options in paragraph 2 of the clause.  If the 
+options provided below do not reflect the requirement, contracting officers may 
+revise the paragraph accordingly.
+
+Option 1: Use this clause in unit prices contract when the holdback will be paid 
+upon delivery and acceptance of the item for which milestones payments were made.
+
+"The balance of the amount payable will be paid in accordance with the payment 
+provisions of the Contract upon completion and delivery of the item if the Work 
+has been accepted by Canada and a final claim for such payment is submitted."
+
+Option 2: Use this clause when payment will be made upon completion and 
+acceptance of all work and deliveries.
+
+"The balance of the amount payable will be paid in accordance with the payment 
+provisions of the Contract upon completion and delivery of all Work required 
+under the Contract if the Work has been accepted by Canada and a final claim for 
+such payment is submitted."</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada will make milestone payments in accordance with the Schedule 
+       of Milestones detailed in the Contract and the payment provisions of 
+       the Contract, up to <span class="wsStyleUnderline">                  </span> percent of the amount claimed 
+       and approved by Canada if:
+
+       (a)    an accurate and complete claim for milestone payment using 
+              form PWGSC-TPSGC 1111 and any other document required by the 
+              Contract have been submitted in accordance with the invoicing 
+              instructions provided in the Contract.  Form PWGSC-TPSGC 1111 
+              is available at the following Website:  http://www.pwgsc.gc.ca
+              /acquisitions/text/forms/forms-e.html;
+              
+       (b)    the total amount for all milestone payments paid by Canada 
+              does not exceed
+              <span class="wsStyleUnderline">          </span> percent of the total amount to be paid under the 
+              Contract;<span class="wsStyleUnderline"></span>
+              
+       (c)    all the certificates appearing on form PWGSC-TPSGC 1111 have 
+              been signed by the respective authorized representatives; 
+              
+       (d)    all work associated with the milestone and as applicable any 
+              deliverable required have been completed and accepted by 
+              Canada.
+
+2.     <span class="wsStyleUnderline">                     </span> <span class="wsInlineRemark">(</span><span class="wsInlineRemark"><strong>contracting officers must insert one of the 
+       options provided under the remarks section above</strong></span><span class="wsInlineRemark">.)</span>
+
+
+</pre>
+</div>

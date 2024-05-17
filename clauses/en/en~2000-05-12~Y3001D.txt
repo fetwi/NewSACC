@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use in all bid solicitations and contracts placed on behalf of
+ <abbr title="Canadian International Development Agency">
+  CIDA
+ </abbr>
+ when 
+shipment is
+ <abbr title="Free on Board">
+  FOB
+ </abbr>
+ packaging/marshalling facility in Canada.  The name of the 
+appropriate packaging facility may be obtained from the Traffic Management 
+Directorate.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Packaging shall be suitable for domestic shipment to consignment
+address. Only identical items are to be contained in any one
+interior package, except that sets of tools, parts, etc., are to be
+packed as individual sets, whenever possible. The contents of each
+interior package are to be clearly indicated by label or tag
+showing the item number, quantity, customer reference number, and
+contract number.</p>
+<p>Only items from one contract shall be packaged in one exterior
+container.</p>
+<p>One copy of the detailed packing list shall be included with the
+package.</p>
+</div></pre>
+</div>

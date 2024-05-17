@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Date _____ 
+
+One method of supply used by the Department of  Supply and Services (DSS) 
+to satisfy the requirements of our customer departments, is to arrange with 
+suppliers to submit a standing offer, to provide goods, services or both to 
+the federal government, during a specified period. The customer departments 
+to be served are then delegated purchasing authority by DSS and may access 
+the source of supply directly, as and when required, by issuing call-ups or 
+requisitions, detailing the exact quantities of goods or level of services 
+they wish to order from the supplier, at a particular point in time, during 
+the effective period of the supplier's offer. 
+
+This method of supply is particularly useful in acquiring large volumes of 
+frequently ordered goods or services, when the total volume or value of 
+goods or level of services that may be required by all customers can be 
+estimated beforehand, but it is not possible at the outset to identify the 
+exact requirements for any given customer at a specific time in the future. 
+
+Inasmuch as DSS foresees, during the period from _____ up to and including _____ 
+a potential need for goods or services or both as more particularly stated 
+in the attached, you are hereby invited to provide DSS with a standing 
+offer. If you wish to submit an offer, you are required to do so on the 
+enclosed form.  Please note that the quantity of goods, level of services 
+and estimated expenditure specified in the attached are only an 
+approximation of requirements given in good faith. The making of a standing 
+offer by you shall not constitute an agreement by the Crown or any 
+designated user to order any or all of the said goods or services. The 
+designated user may make one or several call-ups against a standing offer, 
+each such call-up constituting an acceptance of said standing offer for 
+that part of the said goods or services as are described in the call-up. 
+
+Your offer must be returned to the following address and received by the 
+time and date indicated below. 
+
+Return completed "Form" to: 
+
+  Closing date and time:   
+
+Address enquiries to:          Telephone No.: 
+
+  (Signature) for the Department of Supply and Services  
+</pre>
+</div>

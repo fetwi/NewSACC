@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In the event that modifications, i.e. Design Changes or additional 
+       work are introduced, costs for this work will be negotiated under 
+       Design Change Procedure. Even if there is no change in cost, the 
+       Design Change form shall be completed to provide a formal reference 
+       to the change in Specification.
+
+2.     Should the Owner deem it advisable to make any reasonable changes in 
+       the arrangement or details during the course of the work, provided 
+       they are ordered before that particular part of work to which the 
+       Owner refers is commenced and they involve no extra cost to the 
+       Contractor, they shall be implemented without invalidating the 
+       Contract.
+
+3.     The costs of Design Changes will be negotiated as follows:
+
+       (a)    Labour at a Firm Hourly Chargeout rate of $_____ per 
+              person-hour.
+       (b)    Material at Laid Down Cost, plus of mark-up of _____ percent.
+       (c)    Goods and Services Tax or Harmonized Sales Tax to be shown as 
+              a separate item.  
+
+
+</pre>
+</div>

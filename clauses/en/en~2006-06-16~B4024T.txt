@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations when a manufacturer's brand name, 
+model and/or part number are used in the item description and substitutes will 
+not be considered.  Use clause B3000T when equivalent substitutes will be 
+considered.
+
+Do not use this clause in bid solicitations subject to North American Free Trade 
+Agreement or World Trade Organization on Government Procurement.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Bidders must provide products that are of the same description, brand name, 
+   model and/or part number as detailed in the item description of the bid 
+   solicitation.  Bidders are advised that substitute products will not be 
+   considered.
+</pre>
+</div>

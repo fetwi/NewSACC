@@ -1,0 +1,345 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Remarks:</strong>      Use the following standard instructions for Low Dollar Value 
+              and Medium Complexity requirements, for Competitive and 
+              Non-Competitive goods or services.
+
+<strong>Public Works and Government Services Canada</strong>
+
+01     Procurement Business Number
+02     Instructions, Conditions and Clauses 
+03     Submission of Bids
+04     Late Bids
+05     Delayed Bids
+06     Transmission by Facsimile
+07     Customs Clearance
+08     Legal Capacity
+09     Rights of Canada
+10     Vendor Performance
+11     Communications - Solicitation Period
+12     Price Support
+13     Bid Costs
+14     Further Information
+
+
+<strong>01     Procurement Business Number</strong>
+
+Canadian suppliers are required to have a Procurement Business Number (PBN) 
+before Contract award. Suppliers may register for a PBN in the Supplier 
+Registration Information service on line at the Contracts Canada Internet 
+site at:  <strong class="wsStyleUnderline">http://contractscanada.gc.ca</strong>.  For non-Internet registration, 
+suppliers may contact the Contracts Canada InfoLine at 1-800-811-1148 or, 
+in the National Capital Area at
+(819) 956-3440, to obtain the telephone number of the nearest Supplier 
+Registration Agent.
+
+<strong>02     Instructions, Conditions and Clauses</strong>
+
+Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 
+1996, c.16, the instructions, conditions and clauses identified by title, 
+number and a date in the bid solicitation and resulting contract are 
+incorporated by reference into and form part of the bid solicitation and 
+resulting contract as though expressly set out in the bid solicitation and 
+resulting contract.
+
+<strong>03     Submission of Bids</strong>
+
+1.     Canada requires that each bid be signed by the Bidder or by an 
+       authorized representative of the Bidder.  If a bid is being 
+       submitted by a joint venture, the bid must clearly state that it is 
+       submitted as a joint venture and must be signed by all members of 
+       the joint venture or a statement must be provided to the effect that 
+       the signatory represents all members of the joint venture.
+
+2.     It is the Bidder's responsibility to:
+
+       (a)    obtain clarification of the requirements contained in the bid 
+              solicitation, if necessary, prior to submitting a bid;
+       (b)    prepare its bid in accordance with the instructions contained 
+              in the bid solicitation;
+       (c)    submit by closing time and date a signed and complete bid;
+       (d)    send its bid ONLY to Public Works and Government Services 
+              Canada (PWGSC) Bid Receiving Unit specified on page 1 of the 
+              bid solicitation or to the address specified in the bid 
+              solicitation;
+       (e)    ensure that the Bidder's name, return address, the bid 
+              solicitation number, and bid solicitation closing date and 
+              time are clearly visible on the envelope or the parcel(s) 
+              containing the bid; and,
+       (f)    provide a comprehensible and sufficiently detailed bid, 
+              including all requested pricing details, that will permit a 
+              complete evaluation in accordance with the criteria set out 
+              in the bid solicitation.
+
+3.     If Canada has provided bidders with multiple formats of a document 
+       (for example, a document may be downloaded through the GETS, but may 
+       also be made available on CD-ROM through GETS), the format 
+       downloaded through the GETS will take precedence. If Canada issues 
+       an amendment to the bid solicitation revising any documents provided 
+       to bidders in multiple formats, Canada will not necessarily update 
+       all formats to reflect these revisions.  It is the Bidder's 
+       responsibility to ensure that revisions made through any 
+       solicitation amendment issued through the GETS are taken into 
+       account in the alternate formats it uses of bid solicitation 
+       documents.
+
+4.     Bids will remain open for acceptance for a period of not less than 
+       sixty (60) days from the closing date of the bid solicitation, 
+       unless otherwise indicated in the bid solicitation.  Canada reserves 
+       the right to seek an extension of the bid validity period from all 
+       responsive bidders in writing, within a minimum of three (3) days 
+       prior to the end of the bid validity period.  If the extension is 
+       accepted by all responsive bidders, Canada will continue with the 
+       evaluation of the bids.  If the extension is not accepted by all 
+       responsive bidders, Canada will, at its sole discretion, either 
+       continue with the evaluation of the bids of those who have accepted 
+       the extension or cancel the solicitation.
+
+5.     Bid documents and supporting information may be submitted in either 
+       English or French.
+
+6.     In the case of error in the extension of prices, the unit price will 
+       govern. 
+
+7.     For Canadian-based bidders, Canadian customs duties and excise taxes 
+       must be included and, Goods and Services Tax (GST) or Harmonized 
+       Sales Tax (HST) must be excluded. For foreign-
+based bidders, Canadian customs duties, excise taxes and GST or HST, must 
+be excluded. Canadian customs duties and excise taxes payable by Canada 
+will be added, for evaluation purposes only, to the prices submitted by 
+foreign-based bidders.
+
+       Although Canada reserves the right to award the contract(s) either 
+       on an FOB plant or FOB destination basis or other Incoterms as 
+       indicated in the bid solicitation document, bidders are requested to 
+       provide prices as indicated in the bid solicitation document. 
+
+8.     Bids received on or before the stipulated bid solicitation closing 
+       date and time will become the property of Canada and will not be 
+       returned. All bids will be treated as confidential, subject to the 
+       provisions of the <em>Access to Information Act</em>, R.S. 1985, c.A-1 and 
+       the <em>Privacy Act</em>, R.S. 1985, c.P-
+21.
+
+9.     Except as specifically provided otherwise in the bid solicitation, 
+       Canada will evaluate a bidder's bid only on the documentation 
+       provided as part of its bid.  References in a bid to additional 
+       information not submitted with the bid, such as website addresses 
+       where additional information can be found or technical manuals or 
+       brochures not submitted with the bid will not be considered in the 
+       evaluation of the bid.
+
+<strong>04     Late Bids</strong>
+
+Public Works and Government Services Canada (PWGSC) will return bids 
+delivered after the stipulated bid solicitation closing date and time, 
+unless they qualify as a delayed bid as described below.
+
+<strong>05     Delayed Bids</strong>
+
+1.     A bid delivered to the specified Bid Receiving Unit after the 
+       closing date and time but before the contract award date may be 
+       considered, provided the delay can be proven to have been due solely 
+       to a delay in delivery that can be attributed to the Canada Post 
+       Corporation (CPC) (or national equivalent of a foreign country).  
+       Purolator Inc. is not considered to be part of CPC for the purposes 
+       of delayed bids. The only pieces of evidence relating to a delay in 
+       the CPC system that are acceptable to PWGSC are:
+
+       (a)    a CPC cancellation date stamp; or
+       (b)    a CPC Priority Courier Bill of Lading; or
+       (c)    a CPC Xpresspost Label 
+
+       that clearly indicates that the bid was mailed before the bid 
+       closing date.
+
+2.     For bids transmitted by facsimile, only the date, time and place of 
+       receipt recorded by PWGSC will be accepted as evidence of a delayed 
+       bid.
+
+3.     Misrouting, traffic volume, weather disturbances, labour disputes or 
+       any other causes for the late delivery of bids are not acceptable 
+       reasons for the bid to be accepted by PWGSC.
+
+4.     Postage meter imprints, whether imprinted by the Bidder, the CPC or 
+       the postal authority outside Canada, are not acceptable as proof of 
+       timely mailing. 
+<strong>06     Transmission by Facsimile</strong>
+
+1.     Unless otherwise instructed in the bid solicitation, bids may be 
+       submitted by facsimile.  The only acceptable facsimile number for 
+       responses to bid solicitations issued by PWGSC headquarters is (819) 
+       997-9776.  The facsimile number for responses to bid solicitations 
+       issued by PWGSC regional offices is identified in the bid 
+       solicitation.
+
+2.     If the Bidder submits a bid by facsimile, Canada will not be 
+       responsible for any failure attributable to the transmission or 
+       receipt of the faxed bid including, but not limited to, the 
+       following:
+
+       (a)    receipt of garbled or incomplete bid;
+       (b)    availability or condition of the receiving facsimile 
+              equipment;
+       (c)    incompatibility between the sending and receiving equipment;
+       (d)    delay in transmission or receipt of the bid;
+       (e)    failure of the Bidder to properly identify the bid;
+       (f)    illegibility of the bid; or 
+       (g)    security of bid data.
+
+3.     Bids submitted by facsimile will constitute the formal bid of the 
+       Bidder and must be submitted in accordance with section 3.<strong> </strong> For 
+       responses transmitted by facsimile, written confirmation is required 
+       within two (2) working days after bid closing, unless otherwise 
+       specified in the solicitation.  All documents confirming bids should 
+       bear the word "CONFIRMATION".
+
+<strong>07     Customs Clearance</strong>
+
+It is the responsibility of the Bidder to allow sufficient time to obtain 
+customs clearance, where required, before the bid closing date and time.  
+Delays related to the obtaining of customs clearance cannot be construed as 
+"undue delay in the mail" and will not be accepted as a delayed bid under 
+section 5.
+
+<strong>08     Legal Capacity</strong><strong></strong>
+
+The Bidder must have the legal capacity to contract.  If the Bidder is a 
+sole proprietorship, a partnership or a corporate body, the Bidder must 
+provide, if requested by the Contracting Authority, a statement and any 
+requested supporting documentation indicating the laws under which it is 
+registered or incorporated together with the registered or corporate name 
+and place of business.  This also applies to bidders submitting a bid as a 
+joint venture.
+
+<strong>09     Rights of Canada</strong><strong></strong>
+
+Canada reserves the right to:
+
+(a)    reject any or all bids received in response to the bid solicitation;
+(b)    enter into negotiations with bidders on any or all aspects of their 
+bids;
+(c)    accept any bid in whole or in part without negotiations;
+(d)    cancel the bid solicitation at any time; 
+(e)    reissue the bid solicitation; 
+(f)    if no compliant bids are received and the requirement is not 
+       substantially modified, re-tender the requirement by inviting only 
+       the bidders who bid to re-submit bids within a period designated by 
+       Canada; and, 
+(g)    negotiate with the sole compliant Bidder to ensure best value to 
+Canada.
+
+<strong>10     Vendor Performance</strong>
+
+1.     Canada may reject a bid where any of the following circumstances is 
+       present:
+
+       (a)    the Bidder, or any employee or subcontractor included as part 
+              of the bid, has been convicted under Section 121 (<em>Frauds on 
+              the government &amp; Contractor subscribing to election fund</em>), 
+              Section 124 (<em>Selling or purchasing office</em>), or Section 418 (<em>
+              Selling defective stores to Her Majesty</em>) of the Criminal Code; 
+              or,
+
+       (b)    the Bidder is subject to a Vendor Performance Corrective 
+              Measure, under the Vendor Performance Policy, which renders 
+              the Bidder ineligible to bid on the requirement;
+
+       (c)    an employee or subcontractor included as part of the bid, is 
+              subject to a Vendor Performance Corrective Measure, under the 
+              Vendor Performance Policy, which would render that employee 
+              or subcontractor ineligible to bid on the requirement, or the 
+              portion of the requirement the employee or subcontractor is 
+              to perform;
+
+       (d)    with respect to current or prior transactions with the 
+              Government of Canada
+
+              (i)    the Bidder is bankrupt or where, for whatever reason, 
+                     its activities are rendered inoperable for an extended 
+                     period;
+
+              (ii)   evidence, satisfactory to Canada, of fraud, bribery, 
+                     fraudulent misrepresentation or failure to comply with 
+                     any law protecting individuals against any manner of 
+                     discrimination, has been received with respect to the 
+                     Bidder, any of its employees or any subcontractor 
+                     included as part of its bid;
+
+              (iii)  Canada has exercised its contractual remedies of 
+                     suspension or termination for default with respect to 
+                     a contract with the Bidder, any of its employees or 
+                     any subcontractor included as part of its bid; 
+
+              (iv)   Canada determines that the Bidder's performance on 
+                     other contracts, including the efficiency and 
+                     workmanship as well as the extent to which the Bidder 
+                     executed the requirement in accordance with 
+                     contractual terms and conditions, is sufficiently poor 
+                     to jeopardize the successful completion of the 
+                     requirement being bid on.
+
+2.     Where Canada intends to reject a bid pursuant to a provision of 
+       paragraph 1, other than 1.(b), the Contracting Authority will so 
+       inform the Bidder and provide the Bidder ten (10) days within which 
+       to make representations, prior to making a final decision on the bid 
+       rejection.
+
+<strong>11     Communications - Solicitation Period</strong>
+
+To ensure the integrity of the competitive bid process, enquiries and other 
+communications regarding the bid solicitation, must be directed, in writing, 
+ONLY to the Contracting Authority identified in the bid solicitation. 
+Failure to comply can (for that reason alone) result in the 
+disqualification of the bid.
+
+To ensure consistency and quality of information provided to bidders, 
+significant enquiries received and the replies to such enquiries will be 
+provided simultaneously to bidders to which the bid solicitation has been 
+sent, without revealing the sources of the enquiries.
+
+<strong>12     Price Support</strong>
+
+In the event that the Bidder's bid is the sole responsive bid received, the 
+Bidder must provide, on Canada's request, one or more of the following 
+price support if applicable:
+
+(a)    a current published price list indicating the percentage discount 
+       available to Public Works and Government Services Canada (PWGSC); 
+
+(b)    copies of paid invoices for like services performed for other 
+       customers or for like items (same quantity and quality) sold to 
+       other customers; 
+
+(c)    a price breakdown showing the cost of direct labour, direct 
+       materials, purchased items, engineering and plant overheads, general 
+       and administrative overhead, transportation, profit, etc.;
+
+(d)    a price or rate certifications;
+
+(e)    any other supporting documentation as requested by Canada.
+
+<strong>13     Bid Costs</strong>
+
+No payment will be made for costs incurred in the preparation and 
+submission of a bid in response to the bid solicitation.  Costs associated 
+with preparing and submitting a bid as well as any costs incurred by the 
+Bidder associated with the evaluation of the bid, are the sole 
+responsibility of the Bidder.
+
+<strong>14     Further Information</strong>
+
+1.     For further information, bidders may contact the Contracting 
+       Authority identified in the bid solicitation. 
+2.     For bid solicitations issued out of PWGSC headquarters, enquiries 
+       concerning receipt of bids may be addressed to the Bid Receiving 
+       Unit, Procurement Operational Support Division, telephone (819) 
+       956-3370.  For bid solicitations issued out of PWGSC regional 
+       offices, enquiries concerning receipt of bids may be addressed to 
+       the Contracting Authority identified in the bid solicitation.
+
+
+</pre>
+</div>

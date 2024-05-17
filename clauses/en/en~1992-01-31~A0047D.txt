@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Department reserves the right to accept any proposal as submitted, 
+without prior negotiations with the proposed Contractor. It is the 
+responsibility of proposers to obtain clarification of the requirements 
+contained herein, if necessary, prior to submitting their proposals.
+
+The Department reserves the right to conduct a facility evaluation on any 
+   firm being considered prior to award of contract.  
+</pre>
+</div>

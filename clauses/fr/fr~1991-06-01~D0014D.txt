@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les viandes fraîches, refroidies ou congelées doivent être livrées 
+   conformément aux descriptions d'achat des Forces canadiennes qui 
+   stipulent que les produits congelés seront maintenus à -18 oC ou plus 
+   bas et les produits refroidis à 4 oC ou plus bas jusqu'à ce qu'ils 
+   soient livrés aux Forces canadiennes et ils ne doivent pas être livrés 
+   dans des véhicules non réfrigérés.  Ces produits seront livrés au 
+   destinataire en bonne condition, ne montreront aucun signe de 
+   détérioration et, s'il s'agit de produits congelés, ne seront pas 
+   congelés pour une période de plus de 90 jours, après la transformation, 
+   avant la livraison. 
+</pre>
+</div>

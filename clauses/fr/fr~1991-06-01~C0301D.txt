@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante seulement pour les besoins en matière d'imprimerie.  
+Cette clause doit être utilisée pour les situations suivantes (voir la directive 
+no 6300 du GPA) :
+
+	a)  toute demande de propositions adressée à un fournisseur unique ou exclusif 
+et qui comporte de toute évidence une méthode de paiement reposant sur le 
+remboursement des frais;
+
+	b)  tout contrat dont la base de paiement comporte un élément de remboursement 
+des frais. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Une fois le Contrat exécuté, l'Entrepreneur doit préparer et présenter un 
+état des coûts à l'Agent de négociation désigné dans le Contrat. L'état 
+doit être signé et certifié par l'agent financier supérieur de 
+l'Entrepreneur et doit contenir une ventiliation des éléments de frais 
+suivants, selon le cas:
+
+1)     Matériaux                         
+2)     Sous-traitance                    
+3)     Frais de préparation              
+4)     Frais d'impression                
+5)     Frais de reliure 
+6)     Profit 
+7)     Frais de livraison     
+
+
+Il doit y avoir des pièces justificatives pour chaque élément de frais et 
+   elles doivent être suffisamment détaillées pour permettre la tenue d'une 
+   vérification approfondie. 
+</pre>
+</div>

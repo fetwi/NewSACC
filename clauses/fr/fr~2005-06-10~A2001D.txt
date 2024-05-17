@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans toutes les documents de soumission ainsi que 
+dans les contrats de biens et de services conclus avec un entrepreneur étranger 
+lorsque les termes de ceux-ci pourraient entraîner que des services soient 
+rendus, au Canada, par des résidents non permanents.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Il incombe à l'entrepreneur de s'assurer que les résidents non permanents, 
+   qui ont l'intention de séjourner au Canada pour exécuter le contrat et 
+   qui ne sont ni citoyens du Canada ni ressortissants des États-Unis, 
+   reçoivent tous les documents et instructions utiles relatifs aux 
+   exigences de l'immigration canadienne et obtiennent le permis de travail 
+   requis avant de se présenter au point d'entrée canadien.  L'entrepreneur 
+   doit également s'assurer que les ressortissants des États-Unis qui 
+   viennent au Canada dans la même intention reçoivent tous les documents 
+   et instructions utiles en ce sens avant de se présenter au point 
+   d'entrée canadien.  L'entrepreneur peut se procurer ces documents à 
+   l'ambassade ou au consulat du Canada dans son pays. L'entrepreneur doit 
+   acquitter tous les frais occasionnés par suite de la non-conformité aux 
+   exigences en matière d'immigration.
+</pre>
+</div>

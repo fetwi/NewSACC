@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause lorsque les entrepreneurs doivent demander des 
+instructions d'expédition pour des munitions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Au moment où les articles livrables complets pour les munitions de 
+       guerre peuvent être expédiés ou auparavant, l'entrepreneur doit 
+       demander des instructions d'expédition à l'autorité contractante et 
+       fournir les renseignements suivants :
+
+       a)     le numéro du bon de commande;
+       b)     le numéro de nomenclature de l'OTAN et la description;
+       c)     la méthode d'expédition recommandée.
+
+2.     L'entrepreneur ne doit pas expédier d'articles livrables complets 
+       pour les munitions tant que l'autorité contractante ne lui aura pas 
+       donné d'instructions à cette fin.
+
+</pre>
+</div>

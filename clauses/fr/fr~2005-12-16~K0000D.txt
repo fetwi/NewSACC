@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions et les contrats en 
+conjonction avec les clauses A0000C et A0000T, OU avec M0000C, M0000T et M0100D, 
+selon le cas.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>[**<strong><em>Insérer la date des conditions générales et conditions générales 
+supplémentaires qui s'appliquent.  Supprimer les conditions qui ne 
+s'appliquent pas</em></strong>**]
+
+<strong>Conditions générales</strong>
+
+1026A (_____), Approvisionnements - prix ferme
+1026B (_____), Approvisionnements - Remboursements des frais
+1031-2 (_____), Principes des coûts contractuels
+1034 (_____), Construction - prix fixé et prix unitaires
+2010 (_____), Conditions générales - biens ou services (complexité moyenne)
+2029 (_____), Conditions générales - biens ou services (achats de faible 
+valeur)
+9601 (_____), Conditions générales - Formule détaillée
+9624 (_____), Conditions générales - Recherche et développement
+9676 (_____), Conditions générales - Services
+CCC-50 (_____), Corporation commerciale canadienne
+TRA-95 (_____), Traduction
+
+<strong>Conditions générales supplémentaires</strong>
+
+1028 (_____), Construction de navires - prix ferme
+1029 (_____), Réparation des navires
+1033 (_____), Construction de navires - remboursement des coûts
+1036 (_____), Recherche et développement
+9601-1 (_____), Achat ou location de matériel
+9601-2 (_____), Services d'élaboration ou de modification de logiciels
+9601-3 (_____), Intégration du système
+9601-4 (_____), Logiciels sous licence
+9601-5 (_____), Services de soutien des logiciels sous licence
+9601-6 (_____), L'entrepreneur détient les droits de propriété 
+intellectuelle sur les renseignements originaux
+9601-7 (_____), Le Canada détient les droits de propriété intellectuelle 
+sur les renseignements originaux
+LAB-180 (_____), Conditions de travail - Justes salaires et heures de 
+travail
+LAB-180B (_____), Conditions de travail
+
+</pre>
+</div>

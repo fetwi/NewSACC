@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use this clause in all bid solicitations and contracts placed on behalf of the 
+Canadian International Development Agency (CIDA) when delivery is made through a 
+marshalling contractor.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>All drawback submissions stemming from this Contract shall be
+subject to the criteria and procedures described in the following
+Regulations: <cite>Goods Imported and Exported Refund and Drawback
+Regulations</cite>
+or <cite>Canadian Manufactured Goods Exported Drawback Regulations</cite>.
+Canadian International Development Agency (CIDA) will issue a
+"Certificate" as proof of export. To obtain such a certificate, the
+supplier must submit a copy of the invoice(s) for which a
+certificate is required with a covering letter to:</p>
+<p>Canadian International Development Agency<br/>
+Contract and Contribution Audit Unit<br/>
+Accounts Verification<br/>
+200 <span lang="fr-CA">Promenade du Portage</span><br/>
+Gatineau, Quebec K1A 0G4</p>
+<p>CIDA will verify that the invoice copy is consistent with the
+original invoice covering project goods destined for export, stamp
+and sign the invoice copy, and return it to the supplier.</p>
+</div></pre>
+</div>

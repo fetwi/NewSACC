@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les contrats lorsque les fournitures n'ont pas été 
+identifiées de façon spécifique dans l'énoncé de travail et qu'il y aura des 
+articles autres que des rapports.  Énumérer chaque article en précisant la date 
+de livraison applicable.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur devra livrer les articles suivants au responsable 
+       technique, à l'endroit et au moment indiqués ci-dessous :
+
+              Article                     Date de livraison
+
+       1. ________________         _____________
+
+       2. ________________         _____________
+
+       3. ________________         _____________
+
+2.     L'entrepreneur devra aviser, par écrit, l'autorité contractante 
+       lorsque ces articles auront été livrés.
+
+</pre>
+</div>

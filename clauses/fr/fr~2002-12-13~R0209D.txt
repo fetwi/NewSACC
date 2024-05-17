@@ -1,0 +1,349 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+RA 1   Interprétation
+RA 2   Tribunal arbitral
+RA 3   Application
+RA 4   Engagement de la procédure
+RA 5   Constitution du tribunal
+RA 6   Rencontre préliminaire
+RA 7   Communications
+RA 8   Représentation
+RA 9   Règles de procédure
+RA 10  Lieu de l'arbitrage
+RA 11  Délais
+RA 12  Demande et déefense
+RA 13  Autres déclarations écrites
+RA 14  Exposé conjoint des faits
+RA 15  Preuve
+RA 16  Audiences
+RA 17  Défaut
+RA 18  Sentence arbitrale
+
+<strong>RA 1   (13/12/02)    Interprétation</strong>
+
+1.1    Les termes définis dans le contrat et utilisés dans les présentes 
+       règles ont le sens que leur attribue le contrat.
+
+1.2    Dans les présentes règles, on entend par:
+
+       «requérant»:  l'entrepreneur;
+
+       «coordonnateur de règlement des différends» ou «coordonnateur» 
+       indique le Directeur, Conseil de règlement des différends 
+       contractuels, Travaux publics et Services gouvernementaux Canada, 
+       Place du Portage, Phase III, 7A1, 11 rue Laurier, Hull (Québec), K1A 
+       0S5;
+
+       «Défenseur»:  l'État
+
+<strong>RA 2   (13/12/02)    Tribunal arbitral</strong>
+
+2.1    Sous réserve des présentes règles et sauf entente contraire des 
+       parties, le tribunal arbitral se compose d'un arbitre unique («le 
+       tribunal»), nommé conformément aux présentes règles.
+
+
+<strong>RA 3</strong>   <strong>(13/12/02)    Application</strong>
+
+3.1    Les présentes règles s'appliquent à l'arbitrage mené conformément au 
+       contrat. D'un commun accord, les parties peuvent les modifier ou en 
+       ajouter d'autres.
+
+3.2    La portée de la procédure d'arbitrage se limite au règlement du 
+       différend soumis à l'arbitrage.
+
+3.3    Le différend est réglé conformément aux présentes règles, que le 
+       règlement exige ou non la détermination d'une question de droit, 
+       dans la mesure où celle-ci est une question de droit soumise à 
+       l'arbitrage au sens du contrat. 
+
+3.4    La procédure arbitrale est régie conformément à la <em>Loi sur 
+       l'arbitrage commercial</em>, L.R.C. (1985), ch.17 (2e suppl.) (le Code), 
+       et aux dispositions des présentes règles, et sous réserve uniquement 
+       des dispositions de la <em>Loi sur l'arbitrage commercial</em>, les parties 
+       conviennent que la décision et la sentence du tribunal sont finales 
+       et lient les deux parties.
+ 
+3.5    Le tribunal ne peut trancher le différend <em>ex aequo et</em> <em>bono</em> ou à 
+       titre d'amiable compositeur.
+
+3.6    Le tribunal se prononce conformément aux modalités du contrat et 
+       tient compte des règles de l'art applicables à la transaction.
+
+3.7    Les frais du tribunal et de l'arbitrage sont assumés à parts égales 
+       par les parties, et chacune supporte ses propres frais.
+
+<strong>RA 4   (13/12/02)    Engagement de la procédure</strong>
+
+4.1    L'une ou l'autre des parties peut soumettre un différend à 
+       l'arbitrage exécutoire dans la mesure prévue par le contrat, en 
+       remettant un avis écrit à l'autre partie, conformément au contrat.
+
+4.2    L'avis visé à la RA 4.1 contient les renseignements suivants:
+
+       4.2.1 une description sommaire du contrat
+
+       4.2.2  un énoncé des questions en litige
+
+       4.2.3  une demande de renvoi du différend à l'arbitrage exécutoire
+
+4.3    Un exemplaire de l'avis visé à la RA 4.1 est remis en même temps au 
+       coordonnateur du règlement des différends  (le «coordonnateur») et à 
+       l'autre partie. 
+
+4.4    À moins d'avis contraire, l'arbitrage est en suspens et est regroupé 
+       avec tous les autres différends comparables en une seule session 
+       d'arbitrage selon les termes du contrat.
+
+<strong>RA 5   (13/12/02)    Constitution du tribunal</strong>
+
+5.1    Dans les dix (10) jours ouvrables suivant la réception des documents 
+       visés à la clause DR6.6, le coordonnateur remet aux parties une 
+       liste d'arbitres qualifiés du secteur privé, obtenue d'une entité 
+       indépendante et impartiale, ainsi que des instructions leur 
+       demandant de choisir et de classer, individuellement et 
+       confidentiellement, les arbitres qui ont leur préférence et qu'elles 
+       jugent entièrement acceptables, par ordre décroissant.
+
+5.2    Dans les dix (10) jours ouvrables suivant la réception de la liste 
+       visée à la DR 5.1, chaque partie se conforme aux instructions 
+       accompagnant la liste et remet sa réponse au coordonnateur.
+
+5.3    Dans les deux (2) jours ouvrables suivant la réception des réponses, 
+       le coordonnateur sélectionne l'arbitre nommé par les deux parties 
+       qui est le plus haut sur la liste, à titre de tribunal aux fins de 
+       l'arbitrage.
+
+5.4    En cas d'égalité, le coordonnateur consulte les deux parties afin 
+       qu'elles réévaluent leur choix pour l'aider à sélectionner l'arbitre 
+       acceptable par elles deux.  Si les parties ne peuvent s'entendre, le 
+       coordonnateur leur remet une deuxième liste d'arbitres, et la 
+       procédure est reprise.
+
+5.5    Si, après la reprise de la procédure, le coordonnateur ne 
+       sélectionne pas encore un arbitre unique acceptable par les deux 
+       parties, le tribunal sera constitué de trois (3) arbitres, un nommé 
+       par chaque partie et le troisième, par ces deux (2) arbitres.
+
+5.6    Quoi qu'il en soit, le tribunal est constitué d'une ou de plusieurs 
+       personnes ayant de l'expérience de la question faisant l'objet du 
+       différend et qui sont indépendantes des parties.  Notamment, il n'a 
+       aucun lien de dépendance avec les deux parties et n'est pas composé 
+       de membres d'une société, d'un cabinet ou d'un organisme qui 
+       conseille l'une des deux parties, ni d'une personne (ou de personnes) 
+       dont les services sont retenus par ailleurs de façon régulière par 
+       les parties.
+
+5.7    Les parties conviennent de conclure un contrat avec le tribunal 
+       choisi, lequel est rédigé par le coordonnateur et convenu par les 
+       parties.
+
+5.8    Les parties conviennent d'assumer chacune leurs propres frais.  Les 
+       honoraires et les dépenses raisonnables du tribunal ainsi que les 
+       dépenses raisonnables liées à la tenue de l'arbitrage sont assumées 
+       à parts égales par les parties.
+
+<strong>RA 6   (13/12/02)    Rencontre préliminaire</strong>
+
+6.1    Sauf entente contraire des parties à l'arbitrage et du tribunal, les 
+       parties rencontrent le tribunal dans les dix (10) jours ouvrables 
+       suivant la constitution du tribunal, aux fins suivantes:
+
+       6.1.1  fixer le lieu de la procédure et les dispositions à prendre 
+              par les parties;
+
+       6.1.2  confirmer les adresses de remise des communications écrites à 
+              chaque partie et au tribunal;<em></em>
+
+<em>       </em>6.1.3  présenter au tribunal les questions soumises à l'arbitrage;
+
+       6.1.4  estimer la durée de l'audience et le nombre de témoins 
+              probables;
+
+       6.1.5  déterminer la nécessité d'un enregistrement sténographique ou 
+              autre de la procédure, ou la nécessité d'assurer des services 
+              particuliers, comme l'interprétation, la traduction ou des 
+              mesures de sécurité;
+
+       6.1.6  déterminer toute autre question pertinente pour la tenue de 
+              l'arbitrage.
+
+<strong>RA 7   (13/12/02)    Communications</strong>
+
+7.1    Sous réserve de la RA 7.2, le tribunal ne peut communiquer avec une 
+       partie impliquée dans le différend sauf en présence de l'autre 
+       partie.
+
+7.2    Malgré la RA 7.1, le tribunal peut communiquer séparément avec les 
+       parties afin d'établir les procédures ou de fixer l'heure d'une 
+       rencontre; il ne peut y avoir exception à cette règle générale 
+       qu'avec le consentement écrit de toutes les parties.
+
+7.3    Si le tribunal envoie une communication écrite à une partie, il en 
+       envoie un exemplaire à l'autre partie.
+
+7.4    Si une partie envoie une communication écrite au tribunal, elle en 
+       envoie un exemplaire à l'autre partie.
+
+7.5    Toute communication devant ou pouvant être donnée au tribunal ou à 
+       l'une des parties l'est par écrit et est considérée comme donnée si 
+       elle est envoyée par télécopieur ou par courrier affranchi à 
+       l'adresse établie aux fins du contrat dans le cas des parties et à 
+       l'adresse fournie par le tribunal dans le cas de ce dernier; une 
+       telle communication est réputée reçue conformément aux Conditions 
+       générales du contrat.
+
+<strong>RA 8   (13/12/02)    Représentation</strong>
+
+8.1    Les parties peuvent être représentées ou aidées par n'importe qui 
+       durant la procédure arbitrale.
+
+<strong>RA 9   (13/12/02)    Règles de procédure</strong> 
+9.1    Sous réserve des présentes règles, le tribunal peut tenir 
+       l'arbitrage de la façon qu'il juge appropriée.  Il a notamment le 
+       pouvoir de déterminer la recevabilité, la pertinence, l'importance 
+       et le poids de toute preuve produite.
+
+<strong>RA 10  (13/12/02)    Lieu de l'arbitrage</strong>
+
+10.1   Le tribunal peut se réunir en tout lieu qu'il juge approprié pour 
+       l'audition des témoins, des experts ou des parties, ou pour 
+       l'inspection de documents, de marchandises ou d'autres biens. Il 
+       procédera à une inspection sur place à la demande de l'une des 
+       parties.  Toute inspection sur place est faite en présence des deux 
+       parties et de leurs représentants.  La procédure d'inspection sur 
+       place est enregistrée dans le cadre de l'audience même.
+
+<strong>RA 11  (13/12/02)    Délais</strong>
+
+11.1   Le tribunal peut prolonger ou abréger un délai visé par les 
+       présentes règles, ou fixé ou déterminé par le tribunal, s'il 
+       considère que c'est raisonnable et approprié.
+
+11.2   Si une procédure est close conformément aux alinéas 25<em>a</em>) ou 32(2)<em>a</em>) 
+       du Code visé par la <em>Loi sur l'arbitrage commercial</em>, cette clôture 
+       est réputée une sentence finale rejetant la demande du requérant, 
+       sauf si le défendeur convient du contraire par écrit.
+
+<strong>RA 12  (13/12/02)    Demande et défense</strong>
+
+12.1   Dans les dix (10) jours ouvrables suivant la constitution du 
+       tribunal, le requérant énonce par écrit les faits à l'appui de sa 
+       demande, les questions en litige et la réparation demandée, et il 
+       remet la demande au défendeur, au coordonnateur et au tribunal.
+
+12.2   Dans les dix (10) jours ouvrables suivant la réception de la demande, 
+       le défendeur énonce par écrit sa défense relativement à ces éléments 
+       et la remet au requérant, au coordonnateur et au tribunal.
+
+12.3   Dans les cinq (5) jours ouvrables suivant la réception de la défense, 
+       le requérant peut énoncer par écrit sa réponse à la défense et la 
+       remettre au défendeur, au coordonnateur et au tribunal.
+
+12.4   Toute partie peut modifier sa demande ou sa défense, ou y ajouter 
+       des éléments, pendant la procédure arbitrale, sauf si le tribunal 
+       estime que c'est inapproprié compte tenu de toutes les circonstances, 
+       notamment le retard à présenter la demande ou les ajouts.
+
+12.5   Une demande ou une défense ne peut être modifiée si le document 
+       modifié n'est pas visé par la portée de la convention d'arbitrage.
+
+<strong>RA 13  (13/12/02)    Autres déclarations écrites</strong>
+
+13.1   Le tribunal peut exiger ou autoriser la présentation d'autres 
+       déclarations écrites des parties et en fixer le délai de production.
+
+<strong>RA 14  (13/12/02)    Exposé conjoint des faits</strong>
+
+14.1   Dans le délai précisé par le tribunal, les parties rédigent et 
+       déposent auprès du tribunal un exposé conjoint des faits, notamment 
+       une chronologie du projet, les échéanciers, les quantités et les 
+       acomptes. Le tribunal se rend disponible, sur un avis raisonnable, 
+       pour aider les parties à s'entendre sur le plus grand nombre de 
+       faits possible dans les circonstances.
+
+14.2   Dans le délai précisé par le tribunal, les parties rédigent et 
+       déposent auprès du tribunal un dossier conjoint de documents, 
+       notamment tous les documents mentionnés dans l'exposé conjoint des 
+       faits et les demandes, les défenses et les réponses. 
+
+<strong>RA 15  (13/12/02)    Preuve</strong>
+
+15.1   Chaque partie établit les faits à l'appui de sa demande ou de sa 
+       défense. 
+
+15.2   Chaque partie remet au tribunal et à l'autre partie, dans le délai 
+       fixé par le tribunal, un exemplaire des documents et un résumé des 
+       autres preuves qu'elle a l'intention de produire à l'appui des faits 
+       en litige énoncés dans sa demande, sa défense ou sa réponse.
+
+15.3   Le tribunal peut à l'occasion obliger les parties à produire des 
+       documents, des preuves et d'autres éléments dans les délais qu'il 
+       peut déterminer. 
+
+<strong>RA 16  (13/12/02)    Audiences</strong>
+
+16.1   Toutes les demandes, les défenses, les documents ou autres 
+       renseignements fournis, ou les demandes présentées au tribunal par 
+       une partie sont communiqués à l'autre, et tout rapport ou preuve 
+       documentaire d'expert sur lesquels le tribunal peut fonder sa 
+       décision sont communiqués à l'autre partie, au moins huit (8) jours 
+       ouvrables avant leur production.
+
+16.2   Les parties sont informées suffisamment à l'avance de toute audience 
+       du tribunal et de toute rencontre avec celui-ci, aux fins de 
+       l'inspection de documents, de marchandises ou d'autres biens.
+
+16.3   Si une partie a l'intention de faire déposer un témoin, elle 
+       communique au tribunal et à l'autre partie, dans le délai déterminé 
+       par le tribunal,
+
+       16.3.1 les nom, adresse et curriculum vitae de chaque témoin qu'elle 
+                     a l'intention de faire déposer, et
+
+       16.3.2 l'objet du témoignage de ces témoins.
+
+16.4   Chaque partie a le droit d'interroger, de contre-interroger et de 
+       réinterroger tous les témoins, au besoin.
+
+16.5   Toutes les audiences et les rencontres d'une procédure arbitrale 
+       sont tenues à huis clos.
+
+<strong>RA 17  (13/12/02)    Défaut</strong>
+
+17.1   Si, sans invoquer d'empêchement légitime, le requérant ne présente 
+       pas sa demande conformément aux présentes règles ou dans le délai 
+       autorisé par le tribunal conformément aux règles, le tribunal rend 
+       une ordonnance mettant fin à la procédure arbitrale relativement à 
+       cette demande.
+
+17.2   L'ordonnance visée à la RA 17.1 ne vise pas les demandes 
+       reconventionnelles présentées relativement à cette procédure 
+       arbitrale.
+
+17.3   Si, sans invoquer d'empêchement légitime, le défendeur ne présente 
+       pas sa défense conformément aux présentes règles ou dans le délai 
+       autorisé par le tribunal conformément aux règles, le tribunal 
+       poursuit la procédure arbitrale sans considérer ce défaut en soi 
+       comme une acceptation des allégations du demandeur.
+
+17.4   Si, sans invoquer d'empêchement légitime, une des parties omet de 
+       comparaître à l'audience ou de produire des documents, le tribunal 
+       peut poursuivre la procédure et statuer sur la base des éléments de 
+       preuve dont il dispose.
+<strong> </strong><strong></strong>
+<strong>RA 18  (13/12/02)    Sentence arbitrale</strong>
+
+18.1   Sauf entente contraire des parties, le tribunal rend la sentence 
+       dans les trente (30) jours suivant la clôture des audiences 
+       arbitrales sauf s'il prolonge le délai pour une période expresse, en 
+       remettant un avis écrit à chaque partie, pour cause de maladie ou 
+       toute autre raison indépendante de sa volonté.
+
+
+</pre>
+</div>

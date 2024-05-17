@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts to specify the amount that will be paid 
+for the pre-contractual period and to include a basis of payment for the period 
+from the contract date to contract completion.  
+
+Use this clause in conjunction with A9094C; and with C6001C which should reflect 
+the total amount of paragraphs 1. and 2. below.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In consideration of the services provided for the period from _____ 
+       (<strong><em>insert start date</em></strong>) up to _____ (<strong><em>insert date before the effective 
+       date of the Contract</em></strong>), the Contractor will be paid the sum of $_____.  
+       Customs duties are ________ (<strong><em>insert </em></strong><em>"</em><span class="wsInlineRemark">included</span><em>"</em><strong><em>, </em></strong><em>"</em><span class="wsInlineRemark">excluded</span><em>"</em><strong><em> or </em></strong><em>"</em><span class="wsInlineRemark">
+       exempt</span><em>") and </em>Goods and Services Tax  or Harmonized Sales Tax (GST or 
+       HST) is extra, if applicable.
+
+2.     For the period from _____ (<strong><em>insert</em></strong> <strong><em>effective date of the Contract</em></strong>) to 
+       contract completion, the Contractor will be paid its costs 
+       reasonably and properly incurred in the performance of the work in 
+       accordance with the Basis of Payment (<strong><em>insert </em></strong><em>"</em><span class="wsInlineRemark">as detailed in Annex ____
+       "</span><strong><em><strong><strong><strong> OR </strong></strong></strong></em></strong><em>"</em><span class="wsInlineRemark">as detailed below</span><strong>"</strong>).  Customs duties are _______ (<strong><em>insert</em></strong><em> "</em><span class="wsInlineRemark">
+       included</span><em>"</em><strong><em>, </em></strong><em>"</em><span class="wsInlineRemark">excluded</span><em>"</em><strong><em> or </em></strong><em>"</em><span class="wsInlineRemark">exempt</span><em>") and </em>GST or HST is extra, if 
+       applicable.
+
+
+
+</pre>
+</div>

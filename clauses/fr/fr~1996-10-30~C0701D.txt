@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez la clause suivante pour vérifier l'exactitude du temps imputé et pour 
+l'approuver, tant dans les contrats concurrentiels que non concurrentiels à taux 
+fixes basés sur le temps.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Des représentants du Canada pourront vérifier le temps imputé et 
+l'exactitude du système d'enregistrement du temps de l'entrepreneur, avant 
+ou après le versement du paiement à ce dernier en vertu des modalités du 
+présent contrat.  Dans le cas où l'on effectue la vérification après le 
+paiement, l'entrepreneur s'engage à rembourser le trop-payé, dès que le 
+Canada lui en fera la demande.
+
+
+</pre>
+</div>

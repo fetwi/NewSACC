@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats pour les biens et les services (à 
+l'exception des contrats de construction et de services publics) lorsque qu'un 
+seul paiement sera fait quand les travaux seront complétés et livrés.
+
+Utiliser cette clause en conjonction avec H0004C.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Canada paiera l'entrepreneur lorsque les travaux seront complétés et 
+livrés conformément aux dispositions de paiement du contrat si :
+
+a)     une facture exacte et complète ainsi que tout autre document exigé 
+       par le contrat ont été soumis conformément aux instructions de 
+       facturation prévues au contrat;
+       
+b)     tous ces documents ont été vérifiés par le Canada;
+       
+c)     les travaux livrés ont été acceptés par le Canada.
+
+
+</pre>
+</div>

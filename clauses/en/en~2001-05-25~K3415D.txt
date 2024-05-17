@@ -1,0 +1,164 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause where the Contractor is to be required to exploit the 
+Intellectual Property in the Foreground Information in Canada.  With some 
+deletions and minor changes, this clause can also be used to require commercial 
+exploitation within a specified time, in Canada or elsewhere.  See Legal 
+Services about the advisability of including this clause.
+
+IMPORTANT NOTE:  The following clause, "Commercialization in Canada", must not 
+be used in a contract for the procurement of goods or services which is subject 
+to the procurement disciplines of either the World Trade Organization - 
+Agreement on Government Procurement (WTO-AGP) or the North American Free Trade 
+Agreement (NAFTA).  Any use of this provision which is not prohibited pursuant 
+to the WTO-AGP or the NAFTA should be tailored to the specific circumstances of 
+the situation as the clause may be difficult to enforce or may impose 
+impractical restrictions on the Contractor's commercialization and thus may 
+result in the Contractor failing to commercialize the IP.  Furthermore, the use 
+of the clause will require on-going monitoring by the client department.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In consideration of the Contractor receiving title to the 
+       Intellectual Property Rights in the Foreground Information, the 
+       Contractor agrees that manufacture of any product incorporating or 
+       derived from the Foreground Information will be done substantially 
+       in Canada and that the provision of any service incorporating or 
+       derived from the Foreground Information will be substantially from a 
+       base in Canada, and that such a product or such a service will be 
+       marketed and sold within _____ months after final payment under the 
+       Contract is made to the Contractor. 
+
+2.     The Contractor shall have satisfied the obligation in subsection 1 
+       in relation to any part of the Foreground Information if a product 
+       manufactured substantially in Canada or a service provided 
+       substantially from a base in Canada that incorporates or is derived 
+       from that part of the Foreground Information is being offered for 
+       general sale by the Contractor or its transferee, assignee or 
+       licensee, and at least one arm's-length sale has been made (other 
+       than a sale from a transferee, assignee or licensee to the 
+       Contractor, or vice-versa).  The minister for whose department or 
+       agency the Work is being or was carried out may accept other 
+       evidence as demonstrating satisfaction of the obligation. When the 
+       obligation has been satisfied in relation to any part of the 
+       Foreground Information, the obligation shall cease to apply to that 
+       part of the Foreground Information.
+
+3.     If, ____ months before the end of the period specified in subsection 
+       1, the obligation to market and sell a product or service as set out 
+       in that subsection has not yet been satisfied in relation to any 
+       part of the Foreground Information, the Contractor shall immediately 
+       submit to the minister for whose department or agency the Work is 
+       being or was carried out a report setting out:
+
+       (a)    a description of the efforts that have been and will be made 
+              by the Contractor or its transferee, assignee or licensee to 
+              satisfy the obligation; and
+
+       (b)    the reasons why the obligation has not been satisfied.
+
+4.     At the expiration of the period specified in subsection 1, if the 
+       minister for whose department or agency the Work is being or was 
+       carried out is satisfied that the Foreground Information is capable 
+       of commercial exploitation in Canada but that
+
+       (a)    the Contractor (or its transferee, assignee or licensee) is 
+              incapable of achieving that; or
+ 
+       (b)    the Contractor has not made every reasonable effort to fulfil 
+              the obligation;
+
+       then that minister may invoke either of the remedies set out in 
+       subsection 6.  If that minister is satisfied that the potential 
+       value to Canada of commercial exploitation of the Foreground 
+       Information substantially in Canada so justifies,  that minister may 
+       extend the time for the Contractor to fulfil the obligation by such 
+       period as that minister may decide.  In any other circumstance, the 
+       obligation shall cease to apply to that part of the Foreground 
+       Information.
+
+5.     The Contractor agrees that any of the following, affecting any part 
+       of the Foreground Information, would constitute a breach of the 
+       Contractor's obligation entitling the minister to exercise, in 
+       relation to that part of the Foreground Information, the option to 
+       collect the liquidated damages provided for in the Contract for such 
+       a breach (if any), or, without prejudice to any other remedy that 
+       may be available at law or under the Contract, to exercise a remedy 
+       set out in subsection 6:
+
+       (a)    the Contractor or any affiliate, subcontractor or agent of 
+              the Contractor manufactures outside Canada a product 
+              incorporating or derived from the Foreground Information 
+              without that product also being manufactured substantially in 
+              Canada, or provides from a base outside Canada a service 
+              incorporating or derived from the Foreground Information 
+              without that service also being provided substantially from a 
+              base in Canada;
+
+       (b)    through the act or omission, whether direct or indirect, and 
+              whether deliberate or negligent, of the Contractor or its 
+              employee or subcontractor (including the sale or assignment 
+              of the Foreground Information or license or other 
+              authorization of the use of the Foreground Information), any 
+              person, corporation or other entity is enabled to manufacture 
+              outside Canada a product incorporating or derived from the 
+              Foreground Information without that product also being 
+              manufactured substantially in Canada, or to provide from a 
+              base outside Canada a service incorporating or derived from 
+              the Foreground Information without that service also being 
+              provided substantially from a base in Canada;
+
+       (c)    the Contractor or its transferee or assignee, or a 
+              controlling interest in the Contractor or its transferee or 
+              assignee, is acquired by a person not resident in Canada or 
+              by a corporation or other entity controlled outside of Canada, 
+              and that person, corporation or other entity does not enter 
+              into an agreement with the minister for whose department or 
+              agency the Work is being or was carried out governing the use 
+              of the Foreground Information, promptly and before a breach 
+              described in paragraph (a) or (b) has occurred; or
+
+       (d)    to the extent permitted by the laws of Canada or a Canadian 
+              province, the Contractor or its transferee or assignee 
+              becomes bankrupt or insolvent, makes an assignment for the 
+              benefit of creditors, or takes the benefit of any statute 
+              relating to bankrupt or insolvent debtors, or the Contractor, 
+              its transferee or assignee suffers the appointment against it 
+              of a receiver under a debt instrument or by a court, or an 
+              order is made or a resolution passed for the winding up of 
+              the Contractor, its transferee or assignee.
+
+6.     Where this subsection applies by virtue of subsection 4 or 5, the 
+       minister for whose department or agency the Work is being or was 
+       carried out may, by notice, either
+
+       (a)    require the Contractor to assign or transfer to Canada at no 
+              cost the Intellectual Property Rights in the Foreground 
+              Information, or
+
+       (b)    require the Contractor to provide to one or more persons, 
+              corporations or other entities specified by that minister at 
+              no cost a non-exclusive, perpetual, unconditional, 
+              irrevocable, world-wide, and royalty-free license permitting 
+              the commercial exploitation of the Intellectual Property 
+              Rights in the Foreground Information, including the right to 
+              further develop the Foreground Information and to own the 
+              Intellectual Property Rights in any such further development.
+
+       The Contractor agrees that it will promptly execute such conveyances 
+       or other documents relating to title or licensing as the said 
+       minister may require, and that it will afford that minister or a 
+       licensee, as the case may be, at that party's expense all reasonable 
+       assistance in the preparation of applications and in the prosecution 
+       of any application for registration of any Intellectual Property 
+       Rights in any jurisdiction arising out of the Foreground Information, 
+       including without limitation the assistance of the inventor in the 
+       case of Inventions.
+
+7.     In the event that a breach described in paragraph (a), (b) or (c) of 
+       subsection 5 occurs, in addition to all other remedies available to 
+       Canada at law or under the terms of the Contract, the Contractor 
+       shall upon demand account for and pay to Canada any net revenues 
+       earned by the Contractor as a result of the breach. 
+
+</pre>
+</div>

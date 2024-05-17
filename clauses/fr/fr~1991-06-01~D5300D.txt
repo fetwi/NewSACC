@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions et les contrats 
+quand les réquisitions du MDN spécifient l'inspection d'acceptation par le 
+ministère de la Défense nationale à destination.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux exécutés en vertu du présent Contrat seront soumis à la 
+   vérification par le ministère de la Défense nationale à destination. 
+</pre>
+</div>

@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante si C2901T a été utilisée. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous certifions que le présent contrat a été passé puisque l'entrepreneur a 
+exclu du prix contractuel tous les droits de douane et taxes qui ont été 
+payés ou devraient être payés sur les biens importés utilisés pour 
+fabriquer les marchandises que l'entrepreneur a accepté de fournir. En 
+conséquence, nous autorisons, par la présente, l'entrepreneur à demander un 
+drawback de droits de douane applicables aux termes du règlement établi par 
+l'Agence des douanes et du revenu du Canada, Douanes et Accise, lorsque les 
+produits fabriqués auront été exportés (ou fournis au Canada à la 
+satisfaction du Ministre).
+
+
+
+</pre>
+</div>

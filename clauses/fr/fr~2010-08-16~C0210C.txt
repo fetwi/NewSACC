@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur proposé 
+sera payé pour les travaux exécutés avant la date d'entrée en vigueur du contrat.
+
+Utiliser cette clause en conjonction avec
+ 
+  A9120C
+ 
+ ou
+ 
+  A9094C
+ 
+ ou
+ 
+  A9088C
+ 
+ , selon le 
+cas.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>En considération des travaux précontractuels
+décrits à l'annexe <var>_____</var> , Énoncé
+des travaux, `exécutés durant la période
+commençant le <span class="input-required"><var>_____</var>
+<kbd>(<i>insérer la date du début des travaux</i>)</kbd></span> et
+se terminant le <span class="input-required"><var>_____</var>
+<kbd>(<i>insérer la date du dernier jour avant la date
+d'entrée en vigueur du contrat</i>)</kbd></span>, l'entrepreneur
+sera payé un prix ferme de <var>_____</var> $. Les droits de
+douane <span class="input-required"><var>______</var>
+<kbd>(<i>insérer «  sont inclus  », «  sont exclus
+ » ou «  font l'objet d'une exemption  »</i>)</kbd></span>
+et la taxe sur les produits et services ou la taxe de vente
+harmonisée est en sus, s'il y a lieu.</p>
+</div></pre>
+</div>

@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in "Limitation of Expenditure" and "Ceiling Price" 
+contracts when progress or milestone payments will be made and the submission of 
+the contract plan and report form is a condition for payment.
+ </p>
+<p>
+  Contracting officers must ensure that the submission of the contract plan and 
+report form is indicated in the invoicing instructions of the contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><ol type="1">
+<li value="1">The Contractor must use the Contract Plan and Report
+Form, PWGSC-TPSGC 9143 (or an equivalent form acceptable to the
+Contracting Authority) to report the progress of the Work and the
+costs to date against the original work plan.</li>
+<li value="2">An updated copy of the contract plan and report form
+must be provided with each claim for payment.</li>
+<li value="3">Receipt and acceptance of the contract plan and
+report form by the Contracting Authority is a condition for payment
+in accordance with the Contract.</li>
+</ol></pre>
+</div>

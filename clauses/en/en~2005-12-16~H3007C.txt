@@ -1,0 +1,93 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when progress payments are to be made 
+based on actual expenditures less a percentage for holdback.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Progress payments, monthly or less frequently, shall be made up to ____ 
+       percent of the costs and charges incurred in accordance with the 
+       Basis of Payment, but not in excess of ____ percent of the value of 
+       the Contract, provided that:
+
+       (a)    the Contractor submits to the Contracting Authority a fully 
+              completed "Claim for Progress Payment", form PWGSC-TPSGC 1111 
+              (<strong>http://www.pwgsc.gc.ca/acquisitions/text/forms/forms-e</strong><strong></strong>
+<strong>.html</strong>).  Each claim must show the following:
+
+              (i)    expenditures in accordance with the Basis of Payment 
+                     for the Work performed during the period of the claim;
+
+              (ii)   holdback of ____ percent;
+
+              (iii)  total of all previous claims against the Contract and 
+                            the extension of the totals to date;
+
+              (iv)   Goods and Services Tax or Harmonized Sales Tax, as 
+                            applicable;
+
+              (v)    Procurement Business Number; and
+
+              (vi)   Contract Number, Financial Codes, and Client Reference 
+                            Number as shown on page 1 of the Contract.
+
+       (b)    all the certificates appearing on the said form are signed by 
+              the respective persons indicated thereon or their delegate;
+
+       (c)    the claim is accompanied by the deliverables required for the 
+              period of the claim;
+
+       (d)    the deliverables are accepted by the Technical Authority;
+
+       (e)    the claim is certified by the Contracting Authority and the 
+              Technical Authority; and
+
+       (f)    two (2) sets of backup documentation (receipts, vouchers, etc.) 
+              to support the claim are supplied to the Contracting 
+              Authority.
+
+2.     The Contractor shall prepare and certify an original and two (2) 
+       copies of its claim on form PWGSC-TPSGC 1111.  The claim will be 
+       forwarded to the Contracting Authority who will certify the claim 
+       and forward it to the Technical Authority for certification and 
+       payment.
+
+3.     The balance owing shall be paid to the Contractor, subject to:
+
+       (a)    completion and acceptance of the Work; 
+
+       (b)    the submission of all deliverables to the Technical Authority; 
+              and 
+
+       (c)    the certification of the final claim by the Contracting 
+              Authority and the Technical Authority.
+
+4.     Progress payments shall be regarded as interim payments only and 
+       Canada shall have the right to conduct interim cost/time 
+       verifications or audits and to make adjustments from time to time 
+       during the performance of the Work.  Any overpayments resulting from 
+       such progress payments or otherwise shall be refunded promptly to 
+       Canada.
+
+5.     Payment by Canada to the Contractor for the Work shall be made:
+
+       (a)    in the case of a progress payment other than the final 
+              payment, within thirty (30) days following the date of 
+              receipt of the duly completed form PWGSC-TPSGC 1111;
+
+       (b)    in the case of a final payment, within thirty (30) days 
+              following the date of receipt of the duly completed form 
+              PWGSC-TPSGC 1111, or within thirty (30) days following the 
+              date on which the Work is completed, whichever date is the 
+              later.
+
+6.     If Canada has any objection to the form of the progress claim, 
+       within fifteen (15) days of its receipt, Canada shall notify the 
+       Contractor of the nature of the objection.  "Form of the claim" 
+       means a claim that contains or is accompanied by such substantiating 
+       documentation as Canada requires.  Failure by Canada to act within 
+       fifteen (15) days will only result in the date specified in 
+       subsection 5 of the clause to apply for the sole purpose of 
+       calculating interest on overdue accounts.
+
+</pre>
+</div>

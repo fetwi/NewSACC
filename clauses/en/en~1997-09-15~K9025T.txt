@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations for procurements subject to the 
+Set-Aside Program for Aboriginal Business. When the General Conditions to be 
+used in the bid solicitation and contract do not include an entire agreement 
+provision, the clause K9026D, Entire Agreement, must also be used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     This procurement is set aside for Aboriginal business under the 
+       federal government's Set-Aside Program for Aboriginal Business. 
+       Bidders must complete and sign the certification "Certification 
+       Requirements for the Set-Aside Program for Aboriginal Business" 
+       contained in Appendix "____", <em>Requirements for the Set-Aside Program 
+       for Aboriginal Business</em>, and this certification shall be submitted 
+       with the proposal. <strong>It is a precondition to the submission of a valid 
+       bid that this certification be accurately completed. Failure to 
+       complete and submit the Certification with the proposal shall render 
+       the proposal non-compliant.</strong>
+
+2.     By executing the certification, the Bidder represents and warrants 
+       that it is an Aboriginal business as defined in the Set-Aside 
+       Program for Aboriginal Business.
+
+3.     The Bidder acknowledges that the Minister relies upon such 
+       representation and warranty to evaluate bids and shall rely upon 
+       such representation and warranty to enter into any contract 
+       resulting from this bid. Such representation and warranty of the 
+       certification may be verified in such manner as the Minister may 
+       reasonably require.
+
+4.     Should a verification by the Minister disclose a breach of such 
+       representation and warranty, the Minister shall have the right to 
+       disqualify the bid or to treat any contract resulting from this bid 
+       as being in default and render it subject to the remedies set out in 
+       the certification and General Conditions.
+
+
+</pre>
+</div>

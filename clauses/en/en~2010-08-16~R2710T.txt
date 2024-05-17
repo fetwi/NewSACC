@@ -1,0 +1,492 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is used for solicitations with an estimated value of $100,000 or 
+more.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+GI01   Completion of Bid
+GI02   Identity or Legal Capacity of the Bidder
+GI03   Goods and Services Tax/Harmonized Sales Tax
+GI04   Quebec Sales Tax
+GI05   Capital Development and Redevelopment Charges
+GI06   Registry and Pre-qualification of Floating Plant
+GI07   Listing of Subcontractors and Suppliers
+GI08   Bid Security Requirements
+GI09   Submission of Bid
+GI10   Revision of Bid
+GI11   Acceptance of Bid
+GI12   Bid Costs
+GI13   Procurement Business Number
+GI14   Compliance With Applicable Laws
+GI15   Approval of Alternative Materials
+GI16   Performance Evaluation
+
+
+<strong>GI01   (2008-12-12)  Completion of Bid</strong>
+
+1)     The bid shall be
+
+       (a)    submitted on the Bid and Acceptance Form provided through the 
+              Government Electronic Tendering Service (GETS) or on a clear 
+              and legible reproduced copy of such Bid and Acceptance Form 
+              that must be identical in content and format to the Bid and 
+              Acceptance Form provided through GETS;
+
+       (b)    based on the Bid Documents listed in the Special Instructions 
+              to Bidders;
+
+       (c)    correctly completed in all respects;
+
+       (d)    signed by a duly authorized representative of the Bidder; and
+
+       (e)    accompanied by
+
+              (i)    bid security as specified in GI08; and
+
+              (ii)   any other document or documents specified elsewhere in 
+                     the solicitation where it is stipulated that said 
+                     documents are to accompany the bid.
+
+2)     Subject to paragraph 6) of GI11, any alteration to the pre-printed 
+       or pre-typed sections of the Bid and Acceptance Form, or any 
+       condition or qualification placed upon the bid shall be cause for 
+       disqualification. Alterations, corrections, changes or erasures made 
+       to statements or figures entered on the Bid and Acceptance Form by 
+       the Bidder shall be initialed by the person or persons signing the 
+       bid. Initials shall be original(s). Alterations, corrections, 
+       changes or erasures that are not initialed shall be deemed void and 
+       without effect.
+
+3)     Unless otherwise noted elsewhere in the Bid Documents, facsimile 
+       copies of bids are not acceptable.
+
+<strong>GI02   (2007-05-25)  Identity or Legal Capacity of the Bidder</strong>
+
+1)     In order to confirm the authority of the person or persons signing 
+       the bid or to establish the legal capacity under which the Bidder 
+       proposes to enter into Contract, any Bidder who carries on business 
+       in other than its own personal name shall, if requested by Canada, 
+       provide satisfactory proof of
+
+       (a)    such signing authority; and
+
+       (b)    the legal capacity under which it carries on business;
+
+       prior to contract award. Proof of signing authority may be in the 
+       form of a certified copy of a resolution naming the signatory(ies) 
+       that is (are) authorized to sign this bid on behalf of the 
+       corporation or partnership. Proof of legal capacity may be in the 
+       form of a copy of the articles of incorporation or the registration 
+       of the business name of a sole proprietor or partnership.
+
+<strong>GI03   (2007-05-25)  Goods and Services Tax / Harmonized Sales Tax</strong>
+
+1)     Bidders are not to include any amounts for the Goods and Services 
+       Tax (GST) or Harmonized Sales Tax (HST), whichever is applicable, 
+       and the GST/HST shall not be included when calculating the amount of 
+       any bid security or contract security that may be required. Any 
+       amount levied in respect of the GST/HST shall be billed as a 
+       separate item in a progress claim submitted by the Contractor, and 
+       shall be paid to the Contractor in addition to the amount approved 
+       by Canada for work performed under the Contract. The Contractor 
+       shall be required to remit the appropriate amount to the Canada 
+       Revenue Agency in accordance with the applicable legislation.
+
+<strong>GI04   (2007-05-25)  Quebec Sales Tax</strong>
+
+1)     The Federal Government is exempt from the Quebec Sales Tax (QST). 
+       Bidders shall not include in their prices any amount that is 
+       intended to cover the QST on goods and services performed in the 
+       execution of the Work except for such amounts for which an Input Tax 
+       Refund is not available. The successful Bidder should make 
+       arrangements directly with the Province of Quebec to recover any QST 
+       paid by it in performing the Work under the resulting Contract.
+
+<strong>GI05   (2007-05-25)  Capital Development and Redevelopment Charges</strong>
+
+1)     For the purposes of GC1.8, "Laws, Permits and Taxes", in the General 
+       Conditions of the Contract, only fees or charges directly related to 
+       the processing and issuing of building permits shall be included. 
+       The Bidder shall not include any monies in the bid amount for 
+       special municipal development, redevelopment or other fees or 
+       charges which a municipal authority may seek as a prerequisite to 
+       the issuance of building permits.
+
+<strong>GI06   (2007-05-25)  Registry and Pre-qualification of Floating Plant</strong>
+
+1)     Dredges or other floating plant to be used in the performance of the 
+       Work must be on Canadian registry. For dredges or other floating 
+       plant that are not of Canadian make or manufacture, the Bidder must 
+       obtain a certificate of qualification from Industry Canada as 
+       described in the Floating Plant Appendix of the Bid and Acceptance 
+       Form, and this certificate must accompany the bid.  Plant so 
+       qualified by Industry Canada may be accepted on this project.
+
+<strong>GI07   (2010-01-11)  Listing of Subcontractors and Suppliers</strong>
+
+1)     Notwithstanding any list of Subcontractors that the Bidder may be 
+       required to submit as part of the bid, the Bidder shall, within 48 
+       hours of receipt of a notice to do so, submit all information 
+       requested in the said notice including the names of Subcontractors 
+       and Suppliers for the part or parts of the Work listed. Failure to 
+       do so shall result in the disqualification of its bid.
+
+<strong>GI08   (2010-08-16)  Bid Security Requirements</strong>
+
+1)     The Bidder shall submit bid security with the bid in the form of a 
+       bid bond or a security deposit in an amount that is equal to not 
+       less than 10 percent of the bid amount. The maximum amount of bid 
+       security required with any bid is $2,000,000.
+
+2)     A bid bond (form PWGSC-TPSGC 504) shall be in an approved form, 
+       properly completed, with original signature(s) and issued by an 
+       approved company whose bonds are acceptable to Canada either at the 
+       time of solicitation closing or as identified in Treasury Board 
+       Appendix L, Acceptable Bonding Companies.
+
+3)     A security deposit shall be an original, properly completed, signed 
+where required and be either
+
+       (a)    a bill of exchange, bank draft or money order payable to the 
+              Receiver General for Canada;
+
+       (b)    bonds of, or unconditionally guaranteed as to principal and 
+              interest by, the Government of Canada; or
+
+4)     A bill of exchange, bank draft or money order referred to in 
+       subparagraph 3)(a) of GI08 shall be certified by or drawn on
+
+       (a)    a corporation or institution that is a member of the Canadian 
+              Payments Association;
+
+       (b)    a corporation that accepts public deposits and repayment of 
+              the deposits is unconditionally guaranteed by Her Majesty in 
+              right of a province;
+
+       (c)    a corporation that accepts deposits that are insured by the 
+              Canada Deposit Insurance Corporation or the "Régie de 
+              l'assurance-dépôts du Québec" to the maximum permitted by law;
+
+       (d)    a corporation, association or federation incorporated or 
+              organized as a credit union or co-operative credit society 
+              that conforms to the requirements of a credit union which are 
+              more particularly described in paragraph 137(6)(b) of the <em>
+              Income Tax Act</em>; or
+
+       (e)    Canada Post Corporation.
+
+5)     If a bill of exchange, bank draft or money order is drawn on an 
+       institution or corporation other than a chartered bank it must be 
+       accompanied by proof that the said institution or corporation meets 
+       at least one of the criteria described in paragraph 4) of GI08, 
+       either by letter or by a stamped certification on the bill of 
+       exchange, bank draft, or money order.
+
+6)     For the purposes of this section a bill of exchange is an 
+       unconditional order in writing signed by the Bidder and addressed to 
+       an approved financial institution, requiring the said institution to 
+       pay, on demand, at a fixed or determinable time, a sum certain of 
+       money to, or to the order of, the Receiver General for Canada.
+
+7)     Bonds referred to in subparagraph 3)(b) of GI08 shall be provided on 
+       the basis of their market value current at the date of solicitation 
+       closing, and shall be 
+
+       (a)    payable to bearer;
+
+       (b)    accompanied by a duly executed instrument of transfer of the 
+              bonds to the Receiver General for Canada in the form 
+              prescribed by the Domestic Bonds of Canada Regulations; or
+
+       (c)    registered as to principal or as to principal and interest in 
+              the name of the Receiver General for Canada pursuant to the 
+              Domestic Bonds of Canada Regulations. 
+
+8)     As an alternative to a security deposit an irrevocable standby 
+       letter of credit is acceptable to Canada and the amount shall be 
+       determined in the same manner as a security deposit referred to 
+       above.
+
+9)     An irrevocable standby letter of credit referred to in paragraph 8) 
+       of GI08 shall
+
+       (a)    be an arrangement, however named or described, whereby a 
+              financial institution (the "Issuer") acting at the request 
+              and on the instructions of a customer (the "Applicant") or on 
+              its own behalf,
+
+              (i)    is to make a payment to, or to the order of, the 
+                     Receiver General for Canada as the beneficiary;
+
+              (ii)   is to accept and pay bills of exchange drawn by the 
+                     Receiver General for Canada;
+
+              (iii)  authorizes another financial institution to effect 
+                     such payment or accept and pay such bills of exchange; 
+                     or
+
+              (iv)   authorizes another financial institution to negotiate 
+                     against written demand(s) for payment provided that 
+                     the terms and conditions of the letter of credit are 
+                     complied with; 
+
+       (b)    state the face amount which may be drawn against it;
+
+       (c)    state its expiry date;
+
+       (d)    provide for sight payment to the Receiver General for Canada 
+              by way of the financial institution's draft against 
+              presentation of a written demand for payment signed by the 
+              Departmental Representative identified in the letter of 
+              credit by his/her office;
+
+       (e)    provide that more than one written demand for payment may be 
+              presented subject to the sum of those demands not exceeding 
+              the face value of the letter of credit;
+
+       (f)    provide that it is subject to the International Chamber of 
+              Commerce (ICC) Uniform Customs and Practice for Documentary 
+              Credits, 2007 Revision, ICC Publication No. 600;
+
+       (g)    clearly specify that it is irrevocable or deemed to be 
+              irrevocable pursuant to article 6 c) of the ICC Uniform 
+              Customs and Practice for Documentary Credits, 2007 Revision, 
+              ICC Publication No. 600; and
+
+       (h)    be issued or confirmed, in either official language, by a 
+              financial institution which is a member of the Canadian 
+              Payments Association and is on the letterhead of the Issuer 
+              or Confirmer. The format is left to the discretion of the 
+              Issuer or Confirmer.
+
+10)    Bid security shall lapse or be returned as soon as practical 
+following
+
+       (a)    the solicitation closing date, for those Bidders submitting 
+              non-compliant bids; and
+
+       (b)    the administrative bid review, for those Bidders submitting 
+              compliant bids ranked fourth to last on the schedule of bids; 
+              and
+
+       (c)    the award of contract, for those Bidders submitting the 
+              second and third ranked bids; and
+
+       (d)    the receipt of contract security, for the successful Bidder; 
+              or
+
+       (e)    the cancellation of the solicitation, for all Bidders.
+
+11)    Notwithstanding the provisions of paragraph 10) of GI08 and provided 
+       more than three compliant bids have been received, if one or more of 
+       the bids ranked third to first is withdrawn or rejected for whatever 
+       reason then Canada reserves the right to hold the security of the 
+       next highest ranked compliant bid in order to retain the bid 
+       security of at least three valid and compliant bids.
+
+<strong>GI09   (2008-12-12)  Submission of Bid</strong><strong></strong>
+
+1)     The Bid and Acceptance Form, duly completed, and the bid security 
+       shall be enclosed and sealed in an envelope provided by the Bidder, 
+       and shall be addressed and submitted to the office designated on the 
+       Front Page "Invitation to Tender" for the receipt of bids. The bid 
+       must be received on or before the date and time set for solicitation 
+       closing. 
+
+2)     Unless otherwise specified in the Special Instructions to Bidders 
+
+       (a)    the bid shall be in Canadian currency;
+       (b)    exchange rate fluctuation protection is not offered; and
+       (c)    any request for exchange rate fluctuation protection shall 
+              not be considered.
+
+3)     Prior to submitting the bid, the Bidder shall ensure that the 
+       following information is clearly printed or typed on the face of the 
+       bid envelope:
+
+       (a)    Solicitation Number;
+       (b)    Name of Bidder;
+       (c)    Return address; and
+       (d)    Closing Date and Time.
+
+4)     Timely and correct delivery of bids is the sole responsibility of 
+the Bidder.
+
+<strong>GI10   (2010-01-11)  Revision of Bid</strong>
+
+1)     A bid submitted in accordance with these instructions may be revised 
+       by letter or facsimile provided the revision is received at the 
+       office designated for the receipt of bids, on or before the date and 
+       time set for the closing of the solicitation. The letter or 
+       facsimile shall be on the Bidder's letterhead or bear a signature 
+       that identifies the Bidder.
+
+2)     A revision to a bid that includes unit prices must clearly identify 
+       the change(s) in the unit price(s) and the specific item(s) to which 
+       each change applies.
+
+3)     A letter or facsimile submitted to confirm an earlier revision shall 
+       be clearly identified as a confirmation.
+
+4)     Failure to comply with any of the above provisions shall result in 
+       the rejection of the non-compliant revision(s) only. The bid shall 
+       be evaluated based on the original bid submitted and all other 
+       compliant revision(s).
+
+<strong>GI11   (2008-05-12)  Acceptance of Bid</strong>
+
+1)     Canada may accept any bid, whether it is the lowest or not, or may 
+       reject any or all bids.
+
+2)     Without limiting the generality of paragraph 1) of GI11, Canada may 
+       reject a bid if any of the following circumstances is present:
+
+       (a)    the Bidder, or any employee or subcontractor included as part 
+              of the bid, has been convicted under section 121 ("<em>Frauds on 
+              the government</em>" &amp; "<em>Contractor subscribing to election fund</em>"), 
+              124 "<em>Selling or purchasing office</em>"), 380 ("<em>Fraud committed 
+              against Her Majesty</em>") or 418 ("<em>Selling defective stores to 
+              Her Majesty</em>") of the Criminal Code of Canada, or under 
+              paragraph 80(1)(d) ("<em>False entry, certificate or return</em>"), 
+              subsection 80(2) ("<em>Fraud against Her Majesty</em>") or Section 154.01 
+              ("<em>Fraud against Her Majesty</em>") of the <em>Financial Administration 
+              Act</em>;
+
+       (b)    the Bidder's bidding privileges are suspended or are in the 
+              process of being suspended;
+
+       (c)    the bidding privileges of any employee or subcontractor 
+              included as part of the bid are suspended or are in the 
+              process of being suspended, which suspension or pending 
+              suspension would render that employee or subcontractor 
+              ineligible to bid on the Work, or the portion of the Work the 
+              employee or subcontractor is to perform;
+
+       (d)    with respect to current or prior transactions with Canada
+
+              (i)    the Bidder is bankrupt or if, for whatever reason, its 
+                     activities are rendered inoperable for an extended 
+                     period;
+
+              (ii)   evidence, satisfactory to Canada, of fraud, bribery, 
+                     fraudulent misrepresentation or failure to comply with 
+                     any law protecting individuals against any manner of 
+                     discrimination, has been received with respect to the 
+                     Bidder, any of its employees or any subcontractor 
+                     included as part of its bid;
+
+              (iii)  Canada has exercised, or intends to exercise, the 
+                     contractual remedy of taking the work out of the 
+                     contractor's hands with respect to a contract with the 
+                     Bidder, any of its employees or any subcontractor 
+                     included as part of its bid; or 
+
+              (iv)   Canada determines that the Bidder's performance on 
+                     other contracts is sufficiently poor to jeopardize the 
+                     successful completion of the requirement being bid on. 
+
+3)     In assessing the Bidder's performance on other contracts pursuant to 
+       subparagraph 2)(d)(iv)of GI11, Canada may consider, but not be 
+       limited to, such matters as:
+
+       (a)    the quality of workmanship in performing the Work;
+
+       (b)    the timeliness of completion of the Work;
+
+       (c)    the overall management of the Work and its effect on the 
+              level of effort demanded of the department and its 
+              representative; and
+
+       (d)    the completeness and effectiveness of the Contractor's safety 
+              program during the performance of the Work.
+
+4)     Without limiting the generality of paragraphs 1), 2) and 3) of GI11, 
+       Canada may reject any bid based on an unfavourable assessment of the
+
+       (a)    adequacy of the bid price to permit the work to be carried 
+              out and, in the case of a bid providing prices per unit, 
+              whether each such price reasonably reflects the cost of 
+              performing the part of the work to which that price applies;
+
+       (b)    Bidder's ability to provide the necessary management 
+              structure, skilled personnel, experience and equipment to 
+              perform competently the work under the Contract; and
+
+       (c)    Bidder's performance on other contracts.
+
+5)     If Canada intends to reject a bid pursuant to a provision of 
+       paragraphs 1), 2), 3) or 4) of GI11, other than subparagraph 2)(b) 
+       of GI11, Canada shall so inform the Bidder and provide the Bidder 
+       ten (10) days within which to make representations, prior to making 
+       a final decision on the bid rejection.
+
+6)     Canada may waive informalities and minor irregularities in bids 
+       received if Canada determines that the variation of the bid from the 
+       exact requirements set out in the Bid Documents can be corrected or 
+       waived without being prejudicial to other Bidders.
+
+<strong>GI12   (2010-01-11)  Bid Costs</strong>
+
+1)     No payment will be made for costs incurred in the preparation and 
+       submission of a bid in response to the bid solicitation. Costs 
+       associated with preparing and submitting a bid, as well as any costs 
+       incurred by the Bidder associated with the evaluation of the bid, 
+       are the sole responsibility of the Bidder.
+
+<strong>GI13   (2010-08-16)  Procurement Business Number</strong>
+
+1)     Canadian Bidders are required to have a Procurement Business Number 
+       (PBN) before Contract award. Bidders may register for a PBN in the 
+       Supplier Registration Information system on the Contracts Canada Web 
+       site. For non-Internet registration, Bidders may contact the nearest 
+       Supplier Registration Agent.
+
+<strong>GI14   (2007-05-25)  Compliance with Applicable Laws</strong>
+
+1)     By submission of a bid, the Bidder certifies that the Bidder has the 
+       legal capacity to enter into a contract and is in possession of all 
+       valid licences, permits, registrations, certificates, declarations, 
+       filings, or other authorizations necessary to comply with all 
+       federal, provincial and municipal laws and regulations applicable to 
+       the submission of the bid and entry into any ensuing contract for 
+       the performance of the work.
+
+2)     For the purpose of validating the certification in paragraph 1) of 
+       GI14, a Bidder shall, if requested, provide a copy of every valid 
+       licence, permit, registration, certificate, declaration, filing or 
+       other authorization listed in the request, and shall provide such 
+       documentation within the time limit(s) set out in the said request.
+
+3)     Failure to comply with the requirements of paragraph 2) of GI14 
+       shall result in disqualification of the bid.
+
+<strong>GI15   (2007-05-25)  Approval of Alternative Materials</strong>
+
+1)     When materials are specified by trade names or trademarks, or by 
+       manufacturers' or suppliers' names, the bid shall be based on use of 
+       the named materials. During the solicitation period, alternative 
+       materials may be considered provided full technical data is received 
+       in writing by the Contracting Officer at least ten (10) calendar 
+       days prior to the solicitation closing date. If the alternative 
+       materials are approved for the purposes of the bid, an addendum to 
+       the bid documents shall be issued.
+
+<strong>GI16   (2010-01-11)  Performance Evaluation</strong>
+
+1)     Bidders shall take note that the performance of the Contractor 
+       during and upon completion of the work shall be evaluated by Canada. 
+       The evaluation shall be based on the quality of workmanship; 
+       timeliness of completion of the work; project management, contract 
+       management and management of health and safety. Should the 
+       Contractor's performance be considered unsatisfactory, the 
+       Contractor's bidding privileges on future work may be suspended 
+       indefinitely.
+
+2)     The form PWGSC-TPSGC 2913,  SELECT - Contractor Performance 
+       Evaluation Report Form, is used to record the performance.
+
+
+
+</pre>
+</div>

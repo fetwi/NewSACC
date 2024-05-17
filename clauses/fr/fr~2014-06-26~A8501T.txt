@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsque le 
+soumissionnaire doit fournir les détails du navire.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A8501C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le navire devra être conforme aux exigences indiquées
+dans les spécifications ci-jointes. Le soumissionnaire doit
+préciser les détails suivants relativement à son
+navire :</p>
+<ol type="a">
+<li value="1">nom du navire <var>_____</var>;</li>
+<li value="2">numéro officiel <var>_____</var>;</li>
+<li value="3">longueur, largeur, jaugeage <var>_____</var>;</li>
+<li value="4">nom du capitaine du navire pendant la période
+d'affrètement <var>_____</var>.</li>
+</ol>
+</div></pre>
+</div>

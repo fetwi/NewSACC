@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all bid solicitations in conjunction with clauses 
+A0000C, Standard Instructions and Conditions" and K0000D, "Conditions". 
+Contracting officers are to specify, where indicated, the applicable set of 
+Standard Instructions and Conditions, including title, number and date. For 
+Standing Offers, refer to clause M0000T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Standard Acquisition Clauses and Conditions Manual</strong>
+
+All instructions, general terms, conditions and clauses identified herein 
+by title, number and date are set out in the Standard Acquisition Clauses 
+and Conditions (SACC) Manual, issued by Public Works and Government 
+Services Canada (PWGSC), bearing Catalogue No. P60-4/1-1998E and revised as 
+of 21 June 1999.
+
+The SACC Manual may be obtained from:
+
+Canadian Government Publishing
+Phone: (819) 956-4800.
+
+An electronic version may also be viewed at the following PWGSC Internet 
+address:
+<strong>http://www.pwgsc.gc.ca/sacc</strong>.
+
+<strong>Standard Instructions and Conditions</strong>
+
+Standard Instructions and Conditions in DSS-MAS _____ (_____) set out in 
+the SACC Manual are hereby incorporated by reference into and form part of 
+this solicitation.  Submission of a bid constitutes acknowledgement that 
+the Bidder has read and agrees to be 
+bound by such instructions.
+
+<strong>Terms and Conditions of Solicitation and Resulting Contract</strong>
+
+Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 
+1996, c.16, the general terms, conditions and clauses identified herein by 
+title, number and date, are hereby incorporated by reference into and form 
+part of this bid solicitation and any resulting contract, as though 
+expressly set out herein, subject to any other express terms and conditions 
+herein contained.
+
+
+</pre>
+</div>

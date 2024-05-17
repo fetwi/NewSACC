@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     You shall be paid the basic price of $_____  per  square metre of 
+       road, entrances, sidewalks and parking areas, etc., for a total of $_____ 
+       square metres of snow clearing over the entire area shown on drawing.  
+       This basic price shall apply only to a maximum precipitation of 200 
+       centimetres of snow. If the total precipitation should not exceed 
+       200 centimetres, you shall receive the total amount of $_____  for 
+       the first 200 centimetres.
+
+2.     <strong>ADDITIONAL PREMIUM</strong>: If the total precipitation should exceed 200 
+       centimetres you shall receive an additional premium of $_____ per 
+       hundred square meters of area for each additional 2.5 centimetres of 
+       precipitation requiring clearing. The precipitation shall be 
+       calculated to the nearest 2.5 centimetres.
+
+       For the supply and application of sand, salt, calcium or stones or a 
+       combination of these, a price per ton may be specified.
+
+3.     <strong>METHOD OF PAYMENT</strong>: You shall be paid the basic price mentioned in 1. 
+   above in four instalments.  The first three payments shall be made on 
+   the last of December, January and  February. The fourth and final 
+   payment shall be made as soon as possible after April 30 provided no 
+   claim exists against you. 
+</pre>
+</div>

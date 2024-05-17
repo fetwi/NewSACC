@@ -1,0 +1,122 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9628   Purchase of Commercially Available Goods and Services and Services 
+       under $25,000</strong>
+
+1.     In the Contract, unless the context otherwise requires,
+
+       "Canada", "Crown","Her Majesty" or "the Government"means Her Majesty 
+       the Queen in right of Canada;
+
+       "Contract" means these general conditions, any referenced provisions 
+       and the agreement to which they are attached;
+
+       "Minister" means the Minister of Public Works and Government 
+       Services and any other person authorized to act on the Minister's 
+       behalf. 
+
+       "Work" means the whole of the work, services, materials, matters and 
+       things required to be done, furnished and/or performed by the 
+       Contractor in order to carry out the Contract;
+
+2.     The Contractor represents and warrants that the Work will be of a 
+       proper quality, free from any defect in material and workmanship, 
+       and shall be in full conformity with all other contract requirements.  
+       Notwithstanding prior acceptance of the Work and without restricting 
+       any other term of the Contract or any conditions, warranty or 
+       provision implied or imposed by law, the Contractor, if requested by 
+       the Minister, shall replace or repair at its own expense any work 
+       which becomes defective or fails to conform to the Contract as the 
+       result of faulty or inefficient manufacture, material or workmanship, 
+       notice of which is provided to the Contractor within a reasonable 
+       time during or after the warranty period which commences the day 
+       after delivery and acceptance of the Work.  The warranty period will 
+       be ninety (90) days or the length of the Contractor's or 
+       manufacturer's standard warranty period, whichever is longer. 
+
+3.     Except as otherwise provided in the Contract, title to the Work or 
+       any part thereof shall vest in Canada upon delivery to and 
+       acceptance by Canada of the Work or any part thereof.  Where title 
+       to any work or any part thereof, or any rights vest in Canada under 
+       the Contract, the Contractor shall execute such conveyances and 
+       other documents relating to title as may be required to evidence the 
+       title or rights of Canada.  Unless otherwise specified in the 
+       Contract, risk of loss or damage to the Work or any part thereof 
+       shall remain with the Contractor until delivery to and acceptance by 
+       Canada.
+
+4.     Payment by Canada for the Work shall be made following delivery, 
+       inspection and acceptance of the Work, and following presentation of 
+       invoices and such other documentation of which prior notice has been 
+       furnished.  The period for payment shall be within thirty (30) days, 
+       calculated from the date the invoice is received, or the date of 
+       receipt of the goods, whichever is the later date. Canada shall be 
+       liable to pay, without demand from the Contractor, simple interest 
+       at the Average Rate plus 3% per annum on any amount which is overdue 
+       from the day such amount became overdue until the day prior to the 
+       date of payment, inclusive; however, interest will not be payable 
+       nor paid unless the amount has been outstanding (unpaid) for more 
+       than fifteen (15) days following the due date, unless requested by 
+       the Contractor.  Interest will not be payable on overdue advance 
+       payments or if Canada is not responsible for the delay in payment.  
+       The Average Rate is the simple arithmetic mean of the rates of 
+       interest established by the Bank of Canada from time to time during 
+       the month preceding payment.
+
+5.     It is a term of this Contract that payment under this Contract is 
+       subject to there being an appropriation for the particular 
+       requirement for the fiscal year in which any commitment under this 
+       Contract would come in course of payment.
+
+6.     Without prejudice to any other rights or remedies, if the Contractor 
+       is in default in performance of the Contract or is bankrupt or 
+       insolvent or in receivership, the Minister may terminate all or a 
+       portion of the Contract.  The Minister may at any time, by notice, 
+       terminate the Contract or reduce the quantity or scope of the Work 
+       to be delivered and the Contractor will give effect to such notice 
+       thereof according to its terms.  In such a case, all work delivered 
+       and accepted and unpaid in accordance with the notice shall be paid 
+       for in accordance with the pricing basis established in the Contract.  
+       The Contractor shall be entitled to be reimbursed the actual costs 
+       reasonably and properly incurred as a direct result of the 
+       termination, but in no case shall such reimbursement exceed the 
+       Contract Price or shall the Contractor have claim for damages, 
+       compensation, loss of profit or otherwise, except as herein provided.
+
+7.     The Contractor represents and covenants that no bribe, gift or other 
+       inducement has been or will be paid, given, promised, or offered to 
+       any official or employee of Canada for, or with a view to, the 
+       obtaining of the Contract by the Contractor.  No member of the House 
+       of Commons shall be admitted to any share or part of the Contract or 
+       to any benefit to arise therefrom.
+
+8.     In the event of any change in any tax imposed under the <em>Excise Act</em>, 
+       the <em>Excise Tax Act</em>, or any duties imposed under the Customs Tariff 
+       or any other federal or provincial sales, excise or other like 
+       duties, taxes, charges or impositions after the bid submission date 
+       and which affects the costs to the Bidder/Contractor of the Work, 
+       the Bid/Contract Price shall be adjusted to reflect the increase or 
+       decrease in the cost to the Bidder/Contractor. 
+
+9.     Time is of the essence of the Contract. 
+
+10.    Canada, in the course of meeting its international obligations, may 
+       impose restrictions on trade, financial transactions or other 
+       dealings with a foreign nation pursuant to the <em>United Nations Act</em>, <em>
+       Special Economic Measures Act</em>, or <em>Export and Import Permits Act</em>.  
+       The Contractor undertakes to comply with such restrictions and 
+       agrees that Canada has the right to terminate the Contract for 
+       default and recover damages for any breach by the Contractor of its 
+       undertaking.
+
+11.    Bidders are hereby notified that Canada may reject any bid in any of 
+       the circumstances described in clause A9100T entitled "Vendor 
+       Performance", as set out in the Public Works and Government Services 
+       Canada <em>Standard Acquisition Clauses and Conditions </em>Manual.  Clause 
+       A9100T, is hereby incorporated by reference into this document.
+
+
+</pre>
+</div>

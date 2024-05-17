@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Dans le cadre d'une modification des exigences de l'article 8 intitulée 
+«Garantie» des Conditions générales, DSS-MAS 1026A, l'Entrepreneur garantit 
+par la présente : 
+
+       a) la peinture de la partie immergée de la coque durant une période 
+       de douze (12) mois à partir de la date du désarrimage, et 
+
+       b) tous les autres travaux durant une période de quatre-vingt-dix 
+       (90) jours à partir de la date d'acceptation du navire; cette 
+       garantie stipule que tous les travaux d'exécution et les matériaux 
+       seront de première qualité et entièrement conformes aux 
+       spécifications. L'Entrepreneur garantit par la présente que toutes 
+       les pièces que le constructeur du navire aura fournies et qui 
+       pourront, au cours de ladite période de quatre-vingt-dix (90) jours 
+       ou de douze (12) mois, se révéler défectueuses ou montrer des signes 
+       de faiblesse ou d'usure indue à cause d'une erreur de conception, de 
+       matériel ou d'exécution, seront réparées ou remplacées, pourvu qu'en 
+       cas de défectuosité relative à la peinture immergée et se produisant 
+       pendant la période de garantie, l'Entrepreneur ne soit tenu de 
+       réparer et (ou) de remplacer les éléments en question que selon une 
+       valeur déterminée comme suit : 
+
+       Le coût initial pour la Couronne des travaux de peinture immergée, 
+   divisé par cinquante-deux (52) semaines et multiplié par le nombre de 
+   semaines restantes dans la période de garantie. Le montant établi par ce 
+   calcul représentera le «crédit en dollars» dû à la Couronne par 
+   l'Entrepreneur.  
+</pre>
+</div>

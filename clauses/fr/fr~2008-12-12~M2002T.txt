@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes d'offres à commandes d'une valeur 
+de plus de 25 000 $ et moins de 200 000 $ (incluant toutes les taxes 
+applicables), sauf dans le cas des besoins exclus en vertu des alinéas 5.129 d), 
+e) et f) du Guide des approvisionnements.
+
+Pour les demandes de soumissions, utiliser la clause A3031T.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les offrants qui sont assujettis au Programme de contrats fédéraux pour 
+l'équité en matière d'emploi (PCF) et qui ont été déclarés entrepreneurs 
+non admissibles par Ressources humaines et Développement social Canada 
+(RHDSC) n'ont plus le droit d'obtenir des contrats du gouvernement fédéral 
+au-delà du seuil prévu par le <em>Règlement sur les marchés de l'État</em> pour les 
+demandes de soumissions.  Les offrants peuvent être déclarés entrepreneurs 
+non admissibles soit parce que RHDSC a constaté leur non-conformité ou ils 
+se sont retirés volontairement du PCF pour une raison autre que la 
+réduction de leur effectif de moins de 100 employés.  Toute offre présentée 
+par un entrepreneur non admissible sera déclarée non recevable.
+
+L'offrant atteste comme suit sa situation relativement au PCF :
+
+L'offrant :
+
+a)     (    ) n'est pas assujetti au PCF, puisqu'il compte un effectif de 
+              moins de 100 employés permanents à temps plein, à temps 
+              partiel ou temporaires au Canada,
+
+b)     (    ) n'est pas assujetti au PCF, puisqu'il est un employeur 
+              réglementé en vertu de la <em>Loi sur l'équité en matière 
+              d'emploi</em>, L.C. 1995, ch. 44;
+
+c)     (    ) est assujetti aux exigences du PCF, puisqu'il compte un 
+              effectif de 100 employés permanents ou plus à plein temps, à 
+              temps partiel ou temporaires au Canada, mais n'a pas obtenu 
+              de numéro d'attestation de RHDSC puisqu'il n'a jamais 
+              soumissionné pour des contrats de 200 000 $ ou plus;
+
+d)     (    ) n'a pas été déclaré entrepreneur non admissible par RHDSC et 
+              possède un numéro d'attestation valide, à savoir le numéro : __________.
+
+Des renseignements supplémentaires sur le PCF sont offerts sur le site Web 
+de RHDSC, à l'adresse suivante : http://www.rhdsc.gc.ca/fr/travail/egalite/
+pcf/index.shtml.
+
+
+
+
+</pre>
+</div>

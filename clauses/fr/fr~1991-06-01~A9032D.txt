@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>A.  A partir des données contenues dans le Profil du Fournisseur et de 
+l'évaluation faite par l'Autorité contractante, cette entreprise a obtenu 
+la cote _____.
+
+B.  Avisez l'Autorité contractante par écrit de toute modification du 
+Profil du Fournisseur ou des installations d'essai, d'entrevue ou de 
+counselling, et ce, dans les trente (30) jours civils.
+
+C.  Il est entendu et convenu que l'Autorité contractante ou son 
+représentant désigné a le droit, sur avis raisonnable, d'inspecter les 
+installations du Fournisseurs, et ce, pendant la durée entière de l'offre 
+permanente, en vue d'assurer que le Fournisseur se conforme aux critères de 
+classification établis par l'Autorité contractante.  Le Fournisseur a déja 
+accusé réception de ces critères.
+
+LE FOURNISSEUR DOIT RENCONTRER LES CONDITIONS ETABLIES PAR LA COMMISSION DE 
+   LA FONCTION PUBLIQUE ET CELLES ETABLIES PAR LE MINISTERE DES 
+   APPROVISIONNEMENTS ET SERVICES. 
+</pre>
+</div>

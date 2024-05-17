@@ -1,0 +1,8 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  SACC Manual "Y" clauses for grant food aid were cancelled at the request of the Canadian International Development Agency (CIDA), as of October 30, 2012.  The procurement of food aid is now carried out by their partners, such as the World Food Programme (WFP), the Canadian Foodgrains Bank (CFGB), or other.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>See revision history.</pre>
+</div>

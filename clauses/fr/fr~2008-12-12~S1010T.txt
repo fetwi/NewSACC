@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'arrangements en matière 
+d'approvisionnement lorsque les études et l'expérience d'individus proposés sont 
+des critères qui seront évalués.
+ </p>
+<p>
+  Lorsque le modèle 2T-RFSA1 est utilisé, insérer cette clause, s'il y a lieu, 
+dans la Partie 5 - Attestations.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le fournisseur atteste qu'il a vérifié tous les
+renseignements fournis dans les curriculum vitae et les documents
+à l'appui présentés avec l'arrangement, plus
+particulièrement les renseignements relatifs aux études,
+aux réalisations, à l'expérience et aux
+antécédents professionnels, et que ceux-ci sont
+exacts.</p>
+</div></pre>
+</div>

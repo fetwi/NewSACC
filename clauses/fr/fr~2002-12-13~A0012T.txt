@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les invitations à soumissionner en régime de 
+concurrence.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Afin d'assurer l'intégrité du processus d'appel à la concurrence, 
+       toutes les demandes de renseignements, et autre communication, 
+       relativement à ce besoin, de la date de publication à la date 
+       d'adjudication, doivent être adressées<strong> uniquement</strong> à la personne dont 
+       le nom figure à la page un (1) de l'invitation à soumissionner.  
+       Elles<strong> ne doivent pas être</strong> adressées à aucun autre représentant du 
+       gouvernement.  Le défaut de se conformer à la présente (pour cette 
+       raison uniquement) pourrait entraîner le rejet de la soumission.
+
+2.     Les demandes de renseignements doivent être présentées <strong>par écrit</strong>.
+
+3.     Les demandes de renseignements doivent être reçues au moins _____ 
+       jours civils avant la date de clôture des soumissions afin qu'il 
+       soit possible d'y répondre en temps opportun.  Pour ce qui est des 
+       demandes de renseignements reçues après cette date, il est possible 
+       qu'on ne puisse y répondre avant la date de clôture des soumissions.
+
+4.     Afin que tous les soumissionnaires reçoivent la même information et 
+       que celle-ci soit de qualité égale, les demandes de renseignements 
+       importantes reçues, ainsi que les réponses à ces demandes, seront 
+       fournies simultanément à toutes les entreprises invitées à 
+       soumissionner, sans toutefois mentionner le nom de l'auteur.
+
+
+</pre>
+</div>

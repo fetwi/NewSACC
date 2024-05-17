@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The total cost to Her Majesty resulting from call-ups against this standing 
+   offer shall not exceed $_____ unless otherwise authorized in writing by 
+   this Department. The Carrier shall not be obliged to perform any work or 
+   provide any services which would cause the total liability of Her 
+   Majesty to exceed the sum, unless an increase is so authorized. The 
+   Carrier shall notify this Department as to the adequacy of this sum when 
+   it is 75% committed, or four months prior to the estimated date of 
+   completion of the Standing Offer, whichever comes first. However, if at 
+   any time the Carrier considers that the said sum may be exceeded, the 
+   Carrier will promptly notify this Department.  
+</pre>
+</div>

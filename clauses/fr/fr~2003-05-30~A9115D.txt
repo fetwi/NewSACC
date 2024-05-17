@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les achats qui ont trait aux services 
+pertinents si l'élément « service » est d'un montant de 500 $ ou plus dans 
+l'année, ainsi que pour les achats composés à la fois de biens et de services.  
+Sont aussi inclus les marchés ou les offres à commandes attribués à des 
+Canadiens qui exécutent des marchés gouvernementaux à l'étranger.  Utiliser de 
+concert avec soit la clause H3023D, A9116D ou A9117D, selon le cas.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Conformément à l'alinéa 221 (1) d) de la <em>Loi de l'impôt sur le revenu</em>, les 
+ministères et organismes sont tenus de déclarer à l'aide de feuillets T1204 
+Paiements contractuels de services du gouvernement, les paiements 
+contractuels versés aux entrepreneurs en vertu de marchés de services 
+pertinents (y compris les marchés composés à la fois de biens et de 
+services).  Afin de permettre aux ministères et organismes de se conformer 
+à cette exigence, l'entrepreneur est tenu de fournir son numéro 
+d'entreprise - approvisionnement (NEA) ou son numéro d'assurance sociale.  
+Lorsqu'un entrepreneur donne son NEA, il doit s'assurer de l'exactitude des 
+renseignements qui le concernent dans le système Données d'inscription des 
+fournisseurs.
+
+</pre>
+</div>

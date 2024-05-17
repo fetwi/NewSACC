@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in requests for supply arrangements when the request 
+for supply arrangements (2T-RFSA1) template is not used.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>As a courtesy, the Government of Canada requests that successful suppliers 
+notify the Supply Arrangement Authority in advance of their intention to 
+make public an announcement related to the issuance of a supply arrangement 
+or the award of a contract resulting from the Supply Arrangement.
+
+
+
+</pre>
+</div>

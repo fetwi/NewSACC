@@ -1,0 +1,104 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  The following general conditions are to be used when an Authorized User (Federal Identified User and Provincial/Territorial Identified User) is authorized/permitted access to
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  procurement documents.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2018-07-162009interpretation">01 Interpretation</a></li>
+<li><a href="#2018-07-162009general">02 General</a></li>
+<li><a href="#2018-07-162009standard-conditions-and-clauses">03 Standard conditions and clauses</a></li>
+<li><a href="#2018-07-162009offer">04 Offer</a></li>
+<li><a href="#2018-07-162009call-ups">05 Call-ups</a></li>
+<li><a href="#2018-07-162009withdrawal">06 Withdrawal</a></li>
+<li><a href="#2018-07-162009revision">07 Revision</a></li>
+<li><a href="#2018-07-162009joint-venture">08 Joint Venture</a></li>
+<li><a href="#2018-07-162009disclosure-of-information">09 Disclosure of Information</a></li>
+<li><a href="#2018-07-162009publication-of-standing-offer-information">10 Publication of Standing Offer Information</a></li>
+<li><a href="#2018-07-162009integrity-provisions">11 Integrity Provisions—Standing Offer</a></li>
+<li><a href="#2018-07-162009access-to-information">12 Access to Information</a></li>
+<li><a href="#2018-07-162009default-by-the-offeror">13 Default by the Offeror</a></li>
+<li><a href="#2018-07-162009code-of-conduct-for-procurement">14 Code of Conduct for Procurement—Standing Offer</a></li>
+</ul>
+</div>
+<h2 id="2018-07-162009interpretation">2009 01 (2018-07-16) Interpretation</h2>
+<p>In the Standing Offer, unless the context otherwise requires:</p>
+<dl>
+<dt>"Authorized User"</dt>
+<dd>means a Federal Identified User and Provincial/Territorial Identified User as specified in the Standing Offer and authorized to make call-ups against the Standing Offer;</dd>
+<dt>"Call-up" </dt>
+<dd>means an order issued by an Authorized User duly authorized to issue a call-up against a particular standing offer. Issuance of a call-up to the Offeror constitutes acceptance of its offer and results in the creation of a contract between the Authorized User and the Offeror for the goods, services or both described in the Call-up; </dd>
+<dt>"Canada", "Crown", "Her Majesty" or "the Government"</dt>
+<dd>means Her Majesty the Queen in right of Canada as represented by the Minister of Public Works and Government Services and any other person duly authorized to act on behalf of that Minister;</dd>
+<dt>"Federal Identified User" </dt>
+<dd>means any Federal Government Department, agency or Crown corporation listed in Schedules I, I.1, II, III, of the Financial Administration Act, <abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> F-11;</dd>
+<dt>"Offeror" </dt>
+<dd>means the person or entity whose name appears on the signature page of the Standing Offer and who offers to provide goods, services or both to Authorized Users under the Standing Offer;</dd>
+<dt>"Provincial/Territorial Identified User"</dt>
+<dd>means any Canadian province or territory including, as applicable, Municipal, Academic Institutions, Schools and Hospitals Sector (MASH), to whom the Minister of the Department of Public Works and Government Services can provide access to its procurement services and instruments. The MASH Sector can include regional, local, district or other forms of municipal government, school boards, publicly-funded academic, health and social service entities, as well as any corporation or entity owned or controlled by one or more of the preceding entities, which are identified in the Standing Offer;</dd>
+<dt>"Standing Offer" </dt>
+<dd>means the written offer from the Offeror, the clauses and conditions set out in full text or incorporated by reference from the Standard Acquisition Clauses and Conditions Manual, these general conditions, annexes and any other document specified or referred to as forming part of the Standing Offer;</dd>
+<dt>"Standing Offer Authority" </dt>
+<dd>means the person designated as such in the Standing Offer, or by notice to the Offeror, to act as the representative of Canada in the management of the Standing Offer. The Standing Offer Authority will issue a document called "Standing Offer and Call-up Authority" to permit Authorized Users to make call-ups against the Standing Offer and to notify the Offeror that authority to make call-ups against the Standing Offer has been given to Authorized Users.</dd>
+</dl>
+<h2 id="2018-07-162009general">2009 02 (2018-07-16) General</h2>
+<p>The Offeror acknowledges that a standing offer is not a contract and that the issuance of a Standing Offer and Call-up Authority does not oblige or commit Authorized Users to procure or contract for any goods, services or both listed in the Standing Offer. The Offeror understands and agrees that Authorized Users have the right to procure the goods, services or both specified in the Standing Offer by means of any other contract, standing offer or contracting method.</p>
+<h2 id="2018-07-162009standard-conditions-and-clauses">2009 03 (2018-07-16) Standard conditions and clauses</h2>
+<p>Pursuant to the Department of Public Works and Government Services Act, <abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr>16, the clauses and conditions identified in the Standing Offer by number, date and title are incorporated by reference and form part of the Standing Offer and any contract resulting from the Standing Offer as though expressly set out in the Standing Offer and resulting contract.</p>
+<h2 id="2018-07-162009offer">2009 04 (2018-07-16) Offer</h2>
+<ol>
+<li>The Offeror offers to provide and deliver to Authorized Users the goods or services or combination of goods and services described in the Standing Offer, in accordance with the pricing set out in the Standing Offer if and when Authorized Users may request those goods or services or combination of goods and services, in accordance with the conditions listed at subsection 2 below.</li>
+<li>The Offeror understands and agrees that:
+            <ol type="a">
+<li>a call-up against the Standing Offer will form a contract only when those goods or services or combination of goods and services have been requested, provided that the Call-up is made in accordance with the provisions of the Standing Offer;</li>
+<li>Canada's liability is limited to that which arises from Call-ups against the Standing Offer made by Federal Identified Users only and within the period specified in the Standing Offer;</li>
+<li>Canada is not acting as an agent for the Provincial/Territorial Identified User nor is the Provincial/Territorial Identified User a principal of Canada. By issuing a call-up against the Standing Offer, the Provincial/Territorial Identified User accepts all responsibilities and liabilities associated with the issuance and management of the call-up;</li>
+<li>Canada may require that the purchase of goods or services or combination of goods and services listed in the Standing Offer be made using an electronic purchasing tool. Unless otherwise specified in the Standing Offer, Canada will provide the Offeror at least three months' notice before imposing such a requirement;</li>
+<li>the Standing Offer cannot be assigned or transferred in whole or in part;</li>
+<li>the Standing Offer may be set aside by Canada at any time.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2018-07-162009call-ups">2009 05 (2018-07-16) Call-ups</h2>
+<p>If applicable, the Authorized Users will use the form included in the Standing Offer to order goods or services or combination of goods and services. Requests for goods or services or combination of goods and services may also be initiated through telephone calls, facsimiles, emails, etc. or by using acquisition cards (Visa or MasterCard). </p>
+<p>Call-ups ordered and paid for with acquisition cards (Visa and MasterCard), including Call-ups made by telephone calls must be confirmed in writing through emails, facsimiles or other means, and must be in accordance with the terms and conditions and at the prices stipulated in the Standing Offer.</p>
+<h2 id="2018-07-162009withdrawal">2009 06 (2018-07-16) Withdrawal</h2>
+<p>In the event that the Offeror wishes to withdraw the Standing Offer after authority to call-up against the Standing Offer has been given, the Offeror must provide no less than 30 days' written notice to the Standing Offer Authority, unless specified otherwise in the Standing Offer. The 30 days' period will start upon receipt of the notification by the Standing Offer Authority and the withdrawal will be effective at the expiry of that period. The Offeror must fulfill any and all call-ups which are made before the expiry of that period.</p>
+<h2 id="2018-07-162009revision">2009 07 (2018-07-16) Revision</h2>
+<p>The period of the Standing Offer may only be extended, or its usage increased, by the Standing Offer Authority issuing a revision to the Standing Offer in writing.</p>
+<h2 id="2018-07-162009joint-venture">2009 08 (2018-07-16) Joint Venture</h2>
+<p>If the Offeror is a joint venture, the Offeror agrees that all members of the joint venture are jointly and severally or solidarily liable for the performance of any contract resulting from the Standing Offer. If the membership of a joint venture changes, the Standing Offer will be set aside by Canada.</p>
+<h2 id="2018-07-162009disclosure-of-information">2009 09 (2018-07-16) Disclosure of Information</h2>
+<p>The Offeror agrees to the disclosure of its standing offer unit prices or rates by Canada, and further agrees that it will have no right to claim against Canada, the Authorized Users, their employees, agents or servants, in relation to such disclosure.</p>
+<h2 id="2018-07-162009publication-of-standing-offer-information">2009 10 (2018-07-16) Publication of Standing Offer information</h2>
+<ol>
+<li>The Offeror agrees that Canada may publish certain information related to the Standing Offer or a catalogue. The Offeror agrees to the disclosure of the following information included in the Standing Offer:
+            <ol type="a">
+<li>the conditions of the Standing Offer;</li>
+<li>the Offeror's procurement business number, its name, the name, address, telephone number, fax number and email address of its representative;</li>
+<li>the Offeror's profile and its level of security clearance;</li>
+<li>the Offeror's qualified domains of expertise or the categories for which the Offeror has qualified.</li>
+</ol>
+</li>
+<li>Canada will not be liable for any errors, inconsistencies or omissions in any published information. If the Offeror identifies any error, inconsistency or omission, the Offeror agrees to notify the Standing Offer Authority immediately.</li>
+</ol>
+<h2 id="2018-07-162009integrity-provisions">2009 11 (2018-07-16) Integrity Provisions—Standing Offer</h2>
+<p>The Ineligibility and Suspension Policy (the “Policy”) and all related Directives incorporated by reference into the Request for Standing Offers on its closing date are incorporated into, and form a binding part of the Standing Offer and any resulting contracts. The Offeror must comply with the provisions of the Policy and Directives, which can be found on Public Works and Government Services Canada’s website at Ineligibility and Suspension Policy.</p>
+<h2 id="2018-07-162009access-to-information">2009 12 (2018-07-16) Access to Information</h2>
+<p>Records created by the Offeror, and under the control of the Authorized Users, are subject to federal or provincial/territorial access to information and privacy laws as applicable. The Offeror acknowledges the responsibilities of the Authorized Users under these laws and must, to the extent possible, assist the Authorized Users in discharging these responsibilities. </p>
+<p>Furthermore, the Offeror acknowledges that section 67.1 of the Access to Information Act, <abbr title="Revised Statutes">R.S.</abbr>C. 1985, <abbr title="chapter">c.</abbr> A-1, or its equivalent at the provincial/territorial level, provides that any person, who destroys, alters, falsifies or conceals a record, or directs anyone to do so, with the intent of obstructing the right of access that is provided by the Access to Information Act, or its equivalent at the provincial/territorial level, is guilty of an offence and is liable to imprisonment or a fine, or both. </p>
+<h2 id="2018-07-162009default-by-the-offeror">2009 13 (2018-07-16) Default by the Offeror</h2>
+<ol>
+<li> If the Offeror is in default in carrying out any of its obligations under the Standing Offer, the Standing Offer Authority may, by giving written notice to the Offeror, set aside the standing offer. The set aside will take effect immediately or at the expiration of a cure period specified in the notice, if the Offeror has not cured the default to the satisfaction of the Standing Offer Authority within that cure period.</li>
+<li>If the Offeror becomes bankrupt or insolvent, or takes the benefit of any statute relating to bankrupt or insolvent debtors, or if a receiver is appointed under a debt instrument or a receiving order is made against the Offeror, or an order is made or a resolution passed for the winding-up of the Offeror, the Standing Offer Authority may, by giving written notice to the Offeror, immediately set aside the standing offer.</li>
+</ol>
+<h2 id="2018-07-162009code-of-conduct-for-procurement">2009 14 (2018-07-16) Code of Conduct for Procurement—Standing Offer</h2>
+<p>The Offeror agrees to comply with the Code of Conduct for Procurement and to be bound by its terms for the period of the Standing Offer and of any resulting contracts.</p>
+</div></pre>
+</div>

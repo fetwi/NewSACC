@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+-	SECURITY CLEARANCE is required (Block #12);
+
+-	Safeguarding of documents, of assets or production at the contractor's site(s) 
+is required (Blocks #13 and 15 or 16);
+
+-	Level of CLASSIFIED information or assets is identified in Block #13; 
+
+-	CLASSIFIED information MAY be required to be processed/ produced on EDP/ADP 
+equipment at the contractor's site(s) (Block #17).
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, at all times during the performance of the 
+       Contract, hold a valid Facility Security Clearance at the level of ________________ 
+       with approved Document Safeguarding at the level of _______________, 
+       issued by the Industrial and Corporate Security Branch (ICSB) of the 
+       Department of Supply and Services (DSS).
+
+2.     Contractor personnel who require access to CLASSIFIED information/
+       assets or sensitive work sites shall EACH hold a valid personnel 
+       security screening at the level of_______ granted by ICSB.
+
+3.     The Contractor SHALL NOT perform any sensitive (DESIGNATED/
+       CLASSIFIED) Automatic/Electronic Data Processing and/or production 
+       until ICSB has issued written approval.  After approval has been 
+       granted, these tasks may be performed at the level of ________. 
+
+4.     The Contractor shall comply with the provisions of the: 
+
+       a)     Security Requirements Check List (SRCL), attached at Annex __ ;
+
+       b)     Industrial Security Manual (June 1992).
+
+</pre>
+</div>

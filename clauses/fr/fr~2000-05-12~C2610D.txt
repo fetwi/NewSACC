@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Lorsque le ministère de la Défense nationale est l'importateur, utiliser la 
+clause suivante pour des invitations à soumissionner et des contrats 
+d'approvisionnements de défense d'une valeur de 250 000 $CAN ou plus lorsque 
+l'article ou des composantes de l'article sont importés en vertu du Tarif des 
+douanes portant sur la remise de droits de douane.  Les agents de négociation 
+des contrats devraient demander des prix avec des droits de douane indiqués 
+séparément.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les marchandises fournies aux termes du contrat étant des 
+       approvisionnements de défense, une remise des droits de douane sur 
+       les importations au Canada peut être accordée en vertu du numéro 
+       tarifaire 9982.00.00, des annexes du <em>Tarif des douanes</em>.
+
+2.     La remise des droits de douane payables peut être accordée selon le 
+       numéro tarifaire 9982.00.00 lorsque la valeur totale du marché des 
+       approvisionnements de défense est de 250 000 $CAN ou plus.  Cette 
+       valeur comprend la valeur à l'importation des produits plus le droit 
+       qui serait applicable en l'absence du <em>Tarif des douanes</em>.
+
+3.     C'est au ministère de la Défense nationale qu'incombe la 
+       responsabilité de veiller à la remise des droits de douane à 
+       l'importation ou au paiement de ces mêmes droits et de demander un 
+       remboursement à l'Agence des douanes et du revenu du Canada.  Il lui 
+       incombe aussi de demander au ministère des Travaux publics et des 
+       Services gouvernementaux, en temps opportun, l'attestation exigée 
+       aux termes du <em>Tarif des douanes</em>.
+
+
+</pre>
+</div>

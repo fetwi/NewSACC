@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Specifically, the Evaluation Team shall use the following 
+       information to assess proposals:
+
+       (a)    All information provided in, and documentation provided with, 
+              the proposal which is relevant to the stated evaluation 
+              criteria.
+
+       (b)    nformation obtained from reference checks conducted by the 
+              Evaluation Team.
+
+       (c)    Additional supporting or supplementary data which might be 
+              requested and provided during the evaluation process.
+
+       (d)    Information obtained in interview with proposed personnel if 
+              conducted during the evaluation process.
+
+
+</pre>
+</div>

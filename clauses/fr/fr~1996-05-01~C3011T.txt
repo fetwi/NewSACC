@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la fluctuation du taux de change n'est pas 
+prise en considération. Les agents de négociation des contrats doivent se servir 
+de cette clause uniquement lorsque la clause C3010T, Fluctuation du taux de 
+change, n'est pas utilisée. 
+
+Nota : Pour de plus amples renseignements, consulter la procédure 6.313, 
+Fluctuations des taux de change, dans le Guide des approvisionnements.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent projet de marché ne prévoit aucune protection relative à la 
+fluctuation du taux de change. Aucune demande de protection contre la 
+fluctuation du taux de change ne sera prise en considération. Toute 
+soumission incluant une disposition en ce sens sera jugée irrecevable. 
+
+
+</pre>
+</div>

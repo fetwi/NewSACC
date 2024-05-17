@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause peut être utilisée dans les contrats lorsque la directive du 
+Conseil du Trésor sur les voyages sera utilisée et que les frais de voyage ne 
+seront pas admis au titre des frais généraux.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>On paiera à l'entrepreneur les frais autorisés de déplacement et de 
+subsistance, raisonnables et convenables, engagés à l'exécution des travaux, 
+sans aucune indemnité supplémentaire pour les frais généraux ou la marge 
+bénéficaire et qui seront remboursés conformément aux directives du Conseil 
+du Trésor en vigueur lors des voyages.
+
+Coût estimatif : _____
+
+Tous les paiements sont assujettis à la vérification gouvernementale.
+
+Tout déplacement doit être approuvé au préalable par le chef de projet.
+</pre>
+</div>

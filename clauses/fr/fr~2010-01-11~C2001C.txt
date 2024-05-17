@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de biens lorsque le prix 
+contractuel ne comprend pas de droits de douane et(ou) de taxes à payer sur des 
+biens importés qui doivent être livrés au Canada en vertu du contrat et qui 
+seront exportés par le Canada.
+ </p>
+<p>
+  Pour plus de renseignements, consulter l'
+  
+   Annex 4.3
+  
+  (6) du Guide des 
+approvisionnements.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le prix contractuel ne comprend pas de droits de douane et(ou)
+de taxes à payer sur des biens importés qui doivent
+être livrés au Canada en vertu du contrat et qui seront
+exportés par le Canada.</p>
+<p>Le Canada cède à l'entrepreneur tous ses droits de
+drawback liés au contrat en vertu du <cite>Règlement sur le remboursement et le drawback relatifs aux marchandises importées et exportées</cite> et du <cite>Mémorandum D7-3-8</cite>,
+Marchandises achetées par les ministères du gouvernement
+du Canada, de l'Agence des services frontaliers du Canada
+(ASFC).</p>
+<p>Le Canada fournira à l'entrepreneur, à la demande de
+celui-ci, un certificat de drawback qui permettra à
+l'entrepreneur de réclamer un drawback de droits de douane de
+l'<abbr title="Agence des services frontaliers du Canada">ASFC</abbr>.</p>
+</div></pre>
+</div>

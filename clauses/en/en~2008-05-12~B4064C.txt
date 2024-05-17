@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence (DND) related to air and aviation services provided in support of optimized weapon system management, aircraft modification, as well as maintenance/repair and overhaul of
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  owned/controlled aircraft and propulsion systems.
+ </p>
+<p>
+  Air and aviation services include, but are not limited to, all maintenance actions deeper than servicing and/or elementary tasks, first to third level 
+maintenance, repair and overhaul, modification or systems upgrade activities for both hardware and software, and flying operations including test flight and/or ferry flight activities.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must comply with and participate in the Department of National Defence/Canadian Forces (DND/CF) Flight Safety (FS) Program, as stated in A-GA-135-001/AA 001, "<em>Flight Safety for the Canadian Forces</em>".</li>
+<li value="2">The Contractor must implement the following before conducting work on <abbr title="Canadian Forces">CF</abbr> weapons systems including maintenance, modification and flying operations and before the beginning of flying operations:
+<ol type="a">
+<li value="1">a <abbr title="Flight Safety">FS</abbr> Program which mirrors the <abbr title="Canadian Forces">CF</abbr> program's goals and objectives and includes the appointment of a <abbr title="Flight Safety">FS</abbr> manager or representative who will administer the program, establish investigative process for <abbr title="Flight Safety">FS</abbr> occurrences and reporting mechanism in accordance with the guidelines established in the A-GA-135-001/AA-001, "<em>Flight Safety for the Canadian Forces</em>". The <abbr title="Flight Safety">FS</abbr> Program must be made available for review on request from Directorate of Flight Safety (DFS);</li>
+<li value="2">a process to report and investigate any <abbr title="Flight Safety">FS</abbr> occurrences, incident or accident, in accordance with the
+guidelines and timelines established in the <abbr title="Flight Safety">FS</abbr> manual above; and</li>
+<li value="3">an Emergency Response Plan that details the actions to be taken by the Contractor in response to accidents or incidents involving a <abbr title="Department of National Defence">DND</abbr>  aircraft under contract as well as the support provided to <abbr title="Directorate of Flight Safety">DFS</abbr> investigations into those accidents/incidents, as described in the <abbr title="Flight Safety">FS</abbr> manual above.</li>
+</ol>
+</li>
+<li value="3">The Contractor must, with a two-week notice, allow <abbr title="Department of National Defence">DND</abbr> /<abbr title="Canadian Forces">CF</abbr> designated personnel to have access to all relevant data, documentation and facilities, for the purpose of conducting a <abbr title="Flight Safety">FS</abbr> survey.</li>
+</ol>
+</div></pre>
+</div>

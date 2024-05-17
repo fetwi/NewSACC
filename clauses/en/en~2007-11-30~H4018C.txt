@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when a draft final report is required.
+
+Use this clause in conjunction with H4017C.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor must provide the final report in _____ copies to the <span class="wsStyleUnderline">                   </span> 
+(<strong><em>insert</em></strong><em> "</em><span class="wsInlineRemark">Technical</span><em>" or "</em><span class="wsInlineRemark">Project</span>") Authority within _____ days following 
+approval of the draft final report.  The final report must contain an 
+executive summary, prepared in both of Canada's official languages.
+
+The Contractor must forward a copy of the covering letter accompanying the 
+final report to the Contracting Authority.
+
+</pre>
+</div>

@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la sélection de l'entrepreneur est faite en 
+fonction de la soumission recevable la plus basse, à la suite d'une évaluation 
+fondée sur les exigences minimales obligatoires et la cotation numérique. Dans 
+le premier espace, les agents de négociation des contrats doivent indiquer le 
+nombre minimum de points, en pourcentage, et dans le second espace, l'échelle de 
+cotation utilisée.  Cette clause doit être utilisée de concert avec la clause 
+A0200T ou une clause semblable.  Cette clause peut être remplacée par la clause 
+A0265T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour être jugée recevable, une soumission doit :
+
+       a)     satisfaire à toutes les exigences obligatoires énoncées dans 
+              la présente invitation; et
+
+       b)     obtenir au moins _____ p. 100 des points pour les critères 
+              précisés dans la soumission et utilisés dans la cotation 
+              numérique.  L'échelle de cotation compte _____ points.
+
+2.     Les soumissions ne remplissant pas la condition a) ou b) précitées 
+   seront éliminées.  On recommandera la soumission recevable la plus basse 
+   aux fins de l'adjudication du contrat ou de l'établissement d'une offre 
+   à commandes, selon le cas.
+</pre>
+</div>

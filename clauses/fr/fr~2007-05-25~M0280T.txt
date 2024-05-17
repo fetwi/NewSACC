@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes lorsque les 
+offrants doivent fournir des documents particuliers avec leur offre.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'offrant doit fournir les documents suivants avec son offre :</p>
+<ol type="1">
+<li value="1"><var>______________</var></li>
+<li value="2"><var>______________</var></li>
+<li value="3"><var>______________</var> .</li>
+</ol>
+</div></pre>
+</div>

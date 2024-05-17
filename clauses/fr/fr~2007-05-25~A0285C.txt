@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats principalement pour les radoubs, réparations et nouvelles constructions navale lorsque l'inscription à la Commission des accidents du travail est requise sous la juridiction de la province ou du territoire concerné, et la clause
+  
+   A0285T
+  
+  a été utilisée dans la demande de soumissions.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit maintenir son compte en règle auprès de la Commission des accidents du travail de la province ou du territoire concerné pour la durée du contrat.</p>
+</div></pre>
+</div>

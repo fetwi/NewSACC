@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'arrangements en matière 
+d'approvisionnement portant sur des marchés réservés dans le cadre de la Stratégie 
+d'approvisionnement auprès des entreprises autochtones (SAEA), une initiative du 
+gouvernement fédéral.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   S3035T
+  
+  , et s'il y a lieu,
+  
+   A3002T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>À la demande du responsable de l'arrangement en
+matière d'approvisionnement, le fournisseur doit fournir
+l'attestation suivante pour chaque propriétaire et
+employé(e) autochtone :</p>
+<blockquote>
+<ol type="1">
+<li value="1">Je suis <span class="input-required"><var>______________</var> <kbd>(<em>inscrire « propriétaire » et(ou « employé(e) à temps plein »</em>)</kbd></span> de <span class="input-required"><var>______________</var> <kbd>(<em>insérer le nom de l'entreprise</em>)</kbd></span> et autochtone, au sens de la définition de l'Annexe 9.4 du <cite>Guide des approvisionnements</cite> intitulée « Exigences relatives au Programme de marchés réservés aux entreprises autochtones ».</li>
+<li value="2">Je certifie que l'énoncé précité est vrai et je consens à sa vérification sur demande du Canada.
+<br/><var>________________________________</var>
+<br/>Nom du propriétaire ou de l'employé(e)
+<br/><var>___________________________________</var>
+<br/>Signature du propriétaire ou de l'employé(e)
+<br/><var>___________________</var>
+<br/>Date
+</li>
+</ol>
+</blockquote>
+</div></pre>
+</div>

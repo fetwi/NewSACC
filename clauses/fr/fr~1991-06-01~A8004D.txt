@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le client acceptera une facture comprenant les renseignements suivants :
+
+- modèle et numéro de série de l'equipement
+- emplacement
+- date d'installation
+- date des relevés du compteur
+- relevé actuel du compteur (nombre total de copies uniquement)
+- nombre total de copies faites
+- crédits
+- nombre net de copies
+- frais relatifs au compteur
+- frais de location du photocopieur
+- coût des fournitures (le cas échéant)
+- coût des accessoires/nombre d'accessoires (le cas échéant)
+- coût total 
+</pre>
+</div>

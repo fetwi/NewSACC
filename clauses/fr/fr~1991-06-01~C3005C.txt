@@ -1,0 +1,53 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La clause suivante doit être incluse dans tous les contrats adjugés aux 
+entrepreneurs établis à l'étranger, lorsque ces contrats prévoient l'ajustement 
+du taux de change et le versement d'acomptes en dollars canadiens.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.  Le prix indiqué en dollars canadiens comprend le montant en monnaie 
+étrangère des produits et des services provenant de l'extérieur du Canada 
+conformément aux données de la formule DSS-MAS 9411, Réclamation 
+d'ajustement du taux de change, qui fait partie intégrante du présent 
+Contrat.
+
+2.  Le montant en monnaie étrangère est défini comme l'élément du prix qui 
+est touché par la fluctuation du taux de change.  Ce montant ne comprend ni 
+la taxe sur les produits et services et les taxes d'accise sur la valeur 
+des biens, ni les droits de douane, mais comprend les frais de transport 
+payables en monnaie étrangère.
+
+3.  Les montants en monnaie étrangère soumis à un ajustement concernant les 
+produits fabriqués et les services achetés à l'extérieur du Canada payés en 
+monnaie étrangère, ou par l'entremise d'agents canadiens autorisés mais 
+payés en monnaie étrangère, de même que les facteurs de conversions 
+appropriés sont énoncés en détail à la formule DSS-MAS 9411 qui fait partie 
+intégrante du présent Contrat.
+
+4.  Les prix seront ajustés en fonction des fluctuations du taux de change 
+après la date d'entrée en vigueur stipulée dans le Contrat. Les ajustements 
+de prix seront fondés sur le montant en monnaie étrangère indiquée à la 
+formule DSS-MAS 9411.  Ils seront calculés selon la hausse ou la baisse du 
+taux de change par rapport aux taux spécifiés à la formule. Le calcul de 
+ces hausses ou de ces baisses de taux est fondé sur le taux en vigueur au 
+moment du paiement, par le Canada, à l'Entrepreneur.
+
+5.  Le montant qui peut être ainsi rajusté correspond à la somme de : a) la 
+partie du montant en monnaie étrangère indiqué à la formule DSS-MAS 9411, 
+comprise dans la première demande d'acompte, multipliée par la différence 
+entre le taux de change en vigueur de la monnaie étrangère et le taux de 
+change de la monnaie indiqué dans le Contrat (voir la section B de la 
+formule DSS-MAS 9411); et  b)  tout autre  montant calculé de la même façon 
+pour chaque demande subséquente d'acompte, sous réserve qu'on cesse 
+d'ajuster les prix dès que le montant total en monnaie étrangère, indiqué à 
+la section C de la formule, est atteint.
+
+6.  Sur chaque demande d'acompte présentée, l'Entrepreneur doit indiquer la 
+   partie du montant en monnaie étrangère comprise dans la demande. Si la 
+   demande d'acompte  vise la totalité ou une partie des biens 
+   effectivement dédouanés au Canada et n'ayant pas déjà fait l'objet d'une 
+   demande d'acompte, l'Entrepreneur doit indiquer les dates auquelles les 
+   biens ont été dédouanés, et joindre à la demande un exemplaire du 
+   bordereau d'expédition approprié.
+</pre>
+</div>

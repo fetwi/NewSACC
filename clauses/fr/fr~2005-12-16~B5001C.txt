@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le Canada est responsable d'autoriser les 
+modifications ou les écarts par rapport au modèle.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les modifications/écarts par rapport au modèle spécifié dans le contrat 
+doivent être approuvés à l'avance de la façon décrite ci-après :
+
+a)     l'entrepreneur doit remplir la partie 1 du formulaire PWGSC-TPSGC 
+       9038, Modification/écart par rapport au modèle, (<strong>http://www.tpsgc.gc.ca
+       /approvisionnements/text/forms/forms-</strong><strong></strong>
+<strong>f.html</strong>) et en transmettre _____ copies à :
+
+       Nom du responsable du design : _____ 
+       Adresse : _____ .
+
+       et une copie à :
+
+       Nom de l'autorité contractante : _____ 
+       Adresse : _____.
+
+b)     lorsque le responsable du design aura donné son approbation, _____ 
+   copies du formulaire PWGSC-TPSGC 9038 doivent être transmises à 
+   l'autorité contractante pour qu'elle autorise officiellement la mesure 
+   et l'incorpore dans le contrat.
+</pre>
+</div>

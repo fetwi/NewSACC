@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+1.	contractual documentation is marked "PROTECTED" (Blocks #13 and 18);
+
+2.	ENHANCED RELIABILITY screening is required (Block #12);
+
+3.	level of DESIGNATED information or assets is identified in Block #13;
+
+4.	DESIGNATED information MAY NOT be processed/produced on ADP/EDP equipment at 
+the contractor's site(s) (Block #17).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     This document and all or part of the Work covered by this document 
+       are DESIGNATED and require safeguarding.
+
+2.     PRIOR TO THE RELEASE of sensitive documentation to the Contractor, 
+       and at all times during the performance of the Contract, the 
+       Contractor shall hold a valid Facility Security Clearance, at the 
+       level of ENHANCED RELIABILITY with approved Document Safeguarding at 
+       the level of PROTECTED ____, issued by the Industrial Security 
+       Division (ISD) of the Department of Supply and Services (DSS).
+
+3.     Contractor personnel who require access to PROTECTED information, 
+       assets or sensitive work sites shall EACH hold a valid ENHANCED 
+       RELIABILITY screening granted by ISD.
+
+4.     Processing of DESIGNATED materiel on Automatic/Electronic Data 
+       Processing (ADP/EDP) equipment at the Contractor's site is NOT 
+       permitted under this Contract.
+
+5.     The Contractor shall comply with the provisions of the:
+
+       a)     Security Requirements Check List (SRCL), attached at Annex ____;
+
+       b)     Industrial Security Manual (June 1992). 
+
+</pre>
+</div>

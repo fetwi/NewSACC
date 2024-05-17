@@ -1,0 +1,87 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause whenever a definition of Canadian goods and Canadian 
+services is required.  This clause must always be used whenever clauses K4001T, 
+K4002T, K4003T, K4004T, K4005T, K4006T, K4011T, K4013T and K4014T are used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     <strong>Canadian good</strong>: A good wholly manufactured or originating in Canada 
+       is considered a Canadian good.  A product containing imported 
+       components may also be considered Canadian for the purpose of this 
+       policy when it has undergone sufficient change in Canada, in a 
+       manner that satisfies the definition specified under the North 
+       American Free Trade Agreement (NAFTA) Rules of Origin (see <em>Supply 
+       Manual</em>, Annex 5.5: The Rules of Origin Determination).
+
+       For the purposes of this determination, the reference in the NAFTA 
+       Rules of Origin to "territory", is to be replaced with "Canada".  
+       For  photocopiers, computers and office equipment within Federal 
+       Supply Classification (FSC) groups 36, 70 and 74, only the products 
+       of MERIT/CIRCLE firms or companies in Priority Group 1 prior to 
+       April 1992 are considered Canadian (see paragraph 7.(a)).
+
+2.     <strong>Canadian service</strong>: A service provided by an individual based in 
+       Canada is considered a Canadian service.  Where a requirement 
+       consists of only one service, which is being provided by more than 
+       one individual, the service will be considered Canadian if a minimum 
+       of 80 percent of the total bid price for the service is provided by 
+       individuals based in Canada.
+
+3.     <strong>Variety of goods</strong>: When requirements consist of more than one good:
+
+       (a)    aggregate evaluation: no less than 80 percent of the total 
+              bid price must consist of Canadian goods; or,
+
+       (b)    item by item evaluation: in some cases, the bid evaluation 
+              may be conducted on an item-by-item basis and contracts may 
+              be awarded to more than one supplier. In these cases, 
+              suppliers will be asked to identify separately each item that 
+              meets the definition of Canadian goods.
+
+4.     <strong>Variety of services</strong>: For requirements consisting of more than one 
+       service, a minimum of 80 percent of the total bid price must be 
+       provided by personnel based in Canada.
+
+5.     <strong>Mix of goods and services</strong>: When requirements consist of a mix of 
+       goods and services, no less than 80 percent of the total bid price 
+       must consist of Canadian goods and services (as defined above).
+
+6.     Annex 7.8, Determination of Canadian Content for a mix of Goods and/
+       or Services, of the<em> Supply Manual</em> shows how Canadian content is 
+       determined for a mix of goods, a mix of services or a mix of goods 
+       and services.
+
+7.     Other Canadian goods and services:
+
+       (a)    <strong>MERIT and CIRCLE Partnership Programs</strong>: For photocopiers, 
+              computers and office equipment within FSC groups 36, 70 and 
+              74, only the products of the following firms are considered 
+              Canadian goods:
+
+              (i)    MERIT Partner under the MERIT Partnership Program 
+                     (administered by Industry Canada [IC] and Public Works 
+                     and Government Services Canada [PWGSC]);
+
+              (ii)   Companies which, on March 31, 1992, were allocated to 
+                     Priority Group 1 under the Priority Groups Policy in 
+                     effect at that time; or
+
+              (iii)  CIRCLE companies as agreed on by IC and PWGSC.
+
+       Further information regarding the CIRCLE and MERIT Partnership 
+       Programs can be obtained by visiting the IC Website:
+       <strong class="wsStyleUnderline">http://www.cbsc.org/english/search/display.cfm?code=1395&amp;coll=FE_
+       FEDSBIS_E</strong><span class="wsStyleUnderline"> and </span><strong class="wsStyleUnderline">http://strategis.ic.gc.ca/epic/internet/inict-tic.nsf/
+       vwGeneratedInterE/it04598e.html</strong>, respectively.
+
+       (b)    <strong>Textiles</strong>: Textiles are considered to be Canadian goods 
+              according to a modified rule of origin, copies of which are 
+              available from the Clothing and Textiles Division.
+
+8.     An electronic version of the <em>Supply Manual</em> is available at the 
+       following PWGSC Website:
+       <strong class="wsStyleUnderline">http://www.pwgsc.gc.ca/sos/corporate/sm/index-e.html</strong>.
+
+
+</pre>
+</div>

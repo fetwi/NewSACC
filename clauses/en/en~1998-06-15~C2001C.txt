@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause if C2901T was used. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is certified that this Contract was placed on the basis that the 
+Contractor had excluded from the Contract Price all customs duties and 
+taxes which were or might be required to be payed on imported goods used in 
+the manufacture of the stores the Contractor has agreed to supply. 
+Accordingly, all rights to drawback accruing in this connection under 
+regulations established by Revenue Canada - Customs and Excise are hereby 
+waived to the Contractor when the manufactured stores have been exported 
+(or supplied to the Minister's satisfaction in Canada).
+
+</pre>
+</div>

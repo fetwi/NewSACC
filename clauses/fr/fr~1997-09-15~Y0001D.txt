@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Inclure dans tous les contrats et toutes les demandes de soumissions passés au 
+nom de l'ACDI avec des fournisseurs commerciaux quand le MTPSG est chargé des 
+préparatifs de transport.  La Direction des produits commerciaux et de 
+consommation se chargera d'obtenir le permis d'exportation (ne s'applique pas 
+aux achats de denrées alimentaires).
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le ministère des Travaux publics et des Services gouvernementaux (MTPSG) 
+doit se procurer les permis d'exportation requis.  Toute question doit être 
+adressée à la :
+
+Section du transport outre-mer
+Direction des produits commerciaux et de consommation
+Ministère des Travaux publics et des Services gouvernementaux
+Place du Portage, Phase III
+Hull (Québec)  K1A 0S5.
+
+
+
+</pre>
+</div>

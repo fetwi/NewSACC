@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause must be used in conjunction with the basic "Intellectual Property 
+Rights" clauses, K3000D, K3001D, K3300D AND K3301D, TO CLEARLY STIPULATE which 
+sections of the general condition sets are being replaced.  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Clause _____ (NUMBER), _____(TITLE), referenced in this document, replaces 
+the following provisions of the General Conditions and Supplemental General 
+Conditions:    [DELETE THOSE ITEMS THAT DO NOT APPLY, AS WELL AS THIS 
+INSTRUCTION]   
+       DSS-MAS 1026 (S-100A): section 18 (Technical Information)   
+       DSS-MAS 1026A: section 18 (Patent Licenses and Use of Technical 
+       Information)   
+       DSS-MAS 1026B: section 17 (Patent Licenses and Use of Technical 
+       Information) 
+
+       DSS-MAS 1036: section 4 (Ownership of Inventions)  
+       DSS-MAS 1053: subsections 6(2) and 6(3) (Publication Rights) and 
+       section 7 (Ownership of Patents and Use of Technical Information) 
+
+       DSS-MAS 9072A: subsections 11(3) and 11(4) (Inventions, Copyrights 
+       and Designs)  
+       DSS-MAS 9076: section 11 (Copyright and Patents)   
+       DSS-MAS 9224: section 13 (Ownership of Technical Documentation and 
+       Prototypes) and section 14 (Ownership of Inventions and Technical 
+       Information)   
+       DSS-MAS 9329-1: section 22 (Technical Information and Inventions) 
+   and section 23 (Patent Licenses and Use of Technical Information)  
+</pre>
+</div>

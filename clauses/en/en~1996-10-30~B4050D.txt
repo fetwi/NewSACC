@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to define the requirement for an Interim Spares List (ISL) for 
+new equipment acquisitions. In variable &lt;&lt;1&gt;&gt; insert "bid" at the solicitation 
+stage and insert "Contract" at the contract stage.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, within ____ days of the effective date of the 
+       Contract, provide both to the Contracting Authority and to DND at 
+       the address cited below, an Interim Spares List (ISL) prepared in 
+       accordance with the current issue of Canadian Forces Specification 
+       D-01-100-214/SF000. The cost for preparing the ISL may be included 
+       in the &lt;&lt;1&gt;&gt; ____ price and the ISL shall include ____ the 
+       approximate number of line items appearing therein. The ISL shall 
+       specify those spares which must be delivered prior to or 
+       concurrently with the goods to which the spares relate, in order to 
+       support those goods from the first day of delivery until the receipt 
+       of spares from the Provisioning Parts Breakdown (PPB)/Recommended 
+       Spare Parts List (RSPL). Specific details of the data elements 
+       required are listed on the Provisioning Documentation Selection 
+       Sheet appended at Annex ____.
+
+2.     Supplementary Provisioning Technical Documentation (SPTD) for the 
+       codification and cataloguing of items listed in the ISL shall also 
+       be provided by the Contractor along with the ISL, in accordance with 
+       the current issue of Canadian Forces Specification 
+       D-01-100-214/SF-000.
+
+3.     Should the Contractor have any questions regarding the preparation, 
+       format or content of the provisioning documentation they shall be 
+       directed to:
+
+       National Defence Headquarters
+       MGen George R. Pearkes Building
+       101 Colonel By Drive
+       Ottawa ON  K1A 0K2
+
+       <strong>Attention: DCIP</strong> _____
+
+       Telephone: (613) ____-____
+
+
+</pre>
+</div>

@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour des biens, pour le ministère de la Défense nationale, lorsque des produits de remplacement seront considérés et que le Canada se réserve le droit de demander un échantillon afin d'évaluer si le produit est équivalent à l'article décrit dans la demande de soumissions.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B3000T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Si le soumissionnaire offre un produit de remplacement, le Canada se réserve le droit de demander un échantillon au soumissionnaire afin de déterminer si le produit est équivalent à l'article décrit dans la demande de soumissions sur le plan de la forme, de l'ajustage, de la fonction, de la qualité et du rendement.</p>
+<p>Le soumissionnaire doit, à la demande de l'autorité contractante, fournir un échantillon au responsable technique, frais de transport payés d'avance et sans frais pour le Canada, dans les <span class="input-required"><var>____</var> <kbd>(<em>insérer le nombre de jours</em>)</kbd></span> jours civils après la date de la demande. L'échantillon fourni par le soumissionnaire demeurera la propriété du Canada et ne sera pas considéré comme faisant partie des biens livrables dans tout contrat subséquent. Si l'échantillon ne satisfait pas aux exigences stipulées dans la demande de soumissions ou si le soumissionnaire ne respecte pas la demande de l'autorité contractante, la soumission sera jugée non recevable.</p>
+</div></pre>
+</div>

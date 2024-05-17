@@ -1,0 +1,156 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  This clause must only be used in contracts that are primarily for the provision 
+of satellite services, because special authority was granted by the Treasury 
+Board to allocate risk in accordance with this clause for contracts for 
+satellite services only.  Contracting officers must complete paragraph (3)(e) in 
+consultation with Risk Management Advisory Services (RMAS) or in accordance with 
+published commodity groupings approved by
+  <abbr title="Risk Management Advisory Services">
+   RMAS
+  </abbr>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">This section applies despite any other provision of
+the Contract and replaces the section of the general conditions
+entitled "Liability". Any reference in this section to damages
+caused by the Contractor also includes damages caused by its
+employees, as well as its subcontractors, agents, and
+representatives, and any of their employees. This section applies
+regardless of whether the claim is based in contract, tort, or
+another cause of action. The Contractor is not liable to Canada
+with respect to the performance of or failure to perform the
+Contract, except as described in this section and in any section of
+the Contract pre-establishing any liquidated damages. The
+Contractor is only liable for indirect, special or consequential
+damages to the extent described in this section, even if it has
+been made aware of the potential for those damages.</li>
+<li value="2"><strong>Interruptions to Satellite Services</strong>
+<ol type="a">
+<li value="1">Despite anything in the Contract to the contrary,
+Canada agrees to indemnify the Contractor against all liability,
+damages, or claims made against the Contractor by any third party
+that relate to the Contractor's satellite service being interrupted
+or unavailable, as long as the reason the Contractor's satellite
+service was interrupted or unavailable was either:
+<ol type="i">
+<li value="1">an event of force majeure, including, for example,
+acts of God, meteors, fire, flood, weather conditions, Sun Transit
+Period(s) (defined below), sun outages or other circumstances in
+the space environment over which the Contractor has no control,
+launch failure or other catastrophic failure of satellite, laws of
+any governmental entity, acts of terrorism, insurrections,
+embargoes, and wars; or</li>
+<li value="2">a malfunction that occurs for any reason after the
+satellite is launched, as long as the repairs cannot be made
+remotely before the damage occurs, or the cost of making the
+repairs is commercially unreasonable.</li></ol>
+<p>This applies whether or not the event of force majeure or the
+malfunction is foreseeable. Canada agrees that, in the event of
+force majeure and/or malfunction as described above, Canada will
+only be entitled to recover the service credits relating to
+satellite service availability, if any, that are described in the
+Contract.</p></li>
+<li value="2">"<dfn>Sun Transit Period</dfn>" means the period when
+the noise emissions from the sun degrade system performance at
+earth stations below the specifications for the satellite services
+to be provided by the Contractor under the Contract.</li>
+<li value="3">Canada agrees that, if the satellite services being
+provided by the Contractor under the Contract are interrupted or
+unavailable for any reason not described in paragraph (a)(i) or
+(ii), the amount that Canada can recover is subject to the limit
+described in (3)(e) below or the service credits relating to
+satellite service availability, if any, to which Canada is
+entitled, whichever is more.</li>
+</ol>
+</li>
+<li value="3"><strong>First Party Liability:</strong>
+<ol type="a">
+<li value="1">The Contractor is fully liable for all damages to
+Canada, including indirect, special or consequential damages,
+caused by the Contractor's performance or failure to perform the
+Contract that relate to:
+<ol type="i">
+<li value="1">any infringement of intellectual property rights to
+the extent the Contractor breaches the section of the general
+conditions entitled "Intellectual Property Infringement and
+Royalties";</li>
+<li value="2">physical injury, including death.</li></ol></li>
+<li value="2">The Contractor is liable for all direct damages
+affecting real or tangible personal property owned, possessed, or
+occupied by Canada.</li>
+<li value="3">Each of the Parties is liable for all direct damages
+resulting from its breach of confidentiality under the Contract.
+Each of the Parties is also liable for all indirect, special or
+consequential damages in respect of its unauthorized disclosure of
+the other Party's trade secrets (or trade secrets of a third party
+provided by one Party to another under the Contract) relating to
+information technology.</li>
+<li value="4">The Contractor is liable for all direct damages
+relating to any encumbrance or claim relating to any portion of the
+Work for which Canada has made any payment. This does not apply to
+encumbrances or claims relating to intellectual property rights,
+which are addressed under (a) (i) above.</li>
+<li value="5">The Contractor is also liable for any other direct
+damages to Canada caused by the Contractor in any way relating to
+the Contract, including:
+<ol type="i">
+<li value="1">any breach of the warranty obligations under the
+Contract, up to the total amount paid by Canada (including Applicable Taxes) for the goods and services affected by the breach
+of warranty; and</li>
+<li value="2"> any other direct damages, including all identifiable direct
+costs to Canada associated with re-procuring the Work from another
+party if the Contract is terminated either in whole or in part for
+default, up to a total per Contract year for this subparagraph (ii)
+of $ <var>____________</var>
+(where each Contract year begins on the anniversary of the
+Contract being issued). <span class="input-required"><kbd>(<em>Insert the amount from the appropriate commodity grouping.</em>)</kbd></span></li></ol></li>
+<li value="6">If Canada's records or data are harmed as a result of
+the Contractor's negligence or willful act, the Contractor's only
+liability is, at the Contractor's own expense, to restore Canada's
+records and data using the most recent back-up kept by Canada.
+Canada is responsible for maintaining an adequate back-up of its
+records and data.</li>
+</ol>
+</li>
+<li value="4"><strong>Third Party Claims</strong>:
+<ol type="a">
+<li value="1">Regardless of whether a third party makes its claim
+against Canada or the Contractor, each Party agrees that it is
+liable for any damages that it causes to any third party in
+connection with the Contract as set out in a settlement agreement
+or as finally determined by a court of competent jurisdiction,
+where the court determines that the Parties are jointly and
+severally liable or that one Party is solely and directly liable to
+the third party. The amount of the liability will be the amount set
+out in the settlement agreement or determined by the court to have
+been the Party's portion of the damages to the third party. No
+settlement agreement is binding on a Party unless its authorized
+representative has approved the agreement in writing.</li>
+<li value="2">If Canada is required, as a result of joint and
+several liability, to pay a third party in respect of damages
+caused by the Contractor, the Contractor must reimburse Canada by
+the amount finally determined by a court of competent jurisdiction
+to be the Contractor's portion of the damages to the third party.
+However, despite paragraph (a), with respect to special, indirect,
+and consequential damages of third parties covered by this section,
+the Contractor is only liable for reimbursing Canada for the
+Contractor's portion of those damages that Canada is required by a
+court to pay to a third party as a result of joint and several
+liability that relate to the infringement of a third party's
+intellectual property rights; physical injury of a third party,
+including death; damages affecting a third party's real or tangible
+personal property; liens or encumbrances on any portion of the
+Work; or breach of confidentiality.</li>
+<li value="3">The Parties are only liable to one another for
+damages to third parties to the extent described in this paragraph
+4.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

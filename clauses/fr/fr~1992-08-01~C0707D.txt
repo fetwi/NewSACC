@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Veuillez consulter l'annexe _____ ou l'on trouve une description détaillée 
+de besoin et le nombre estimatif d'heures par emplacement.
+
+La présente n'est qu'une ESTIMATION destinée à donner une idée générale de 
+l'ensemble des services requis pour permettre aux soumissionnaires de 
+préparer leur proposition de coûts.  La liste est fondée sur les besoins 
+connus en services pour la période de l'offre permanente et à la date de la 
+présente demande d'offre permanente.  Elle est susceptible d' être modifiée 
+de façon à tenir compte des besoins réels.  Les services réels requis 
+feront l'objet d'une commande présentée par le consignataire au moyen de la 
+formule MAS 942.
+
+Bien que l'estimation soit fondée sur l'utilisation courante et les plans 
+courants, il est entendu que les besoins en services de gardiennage sont 
+assujettis à une gamme importante d'activitiés opérationnelles, notamment 
+des horaires et des activités variables, des changements de lieu de travail, 
+des contraintes bugétaires et politiques.  Par conséquent, on peut 
+s'attendre à ce qu'il y ait des changements dans les besoins de gardiennage 
+en termes de qualité, de quanité et de lieu de travail. 
+
+
+</pre>
+</div>

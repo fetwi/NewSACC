@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the DND requisition specifies Government Quality 
+Assurance at source and Allied Quality Assurance Publication AQAP-9, (NATO Basic 
+Inspection Requirements for Industry) is required:
+
+Note:	This clause is to be used when the requisition contains only Quality 
+Assurance Code D (QAC-D).  For requisitions with more than one QAC use clause 
+D5538D. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the following requirements:
+
+a)     <strong>CANADIAN CONTRACTORS </strong>shall comply with the requirements of AQAP-9,NATO 
+       Basic Inspection Requirements for Industry.
+
+b)     <strong>U.K., EUROPEAN and NATO CONTRACTORS </strong>shall comply with the 
+       requirements of AQAP-9, NATO Basic Inspection Requirements for 
+       Industry.
+
+c)     <strong>U.S. CONTRACTORS </strong>shall comply with the requirements of FAR 52.246-2.
+
+In all cases, Quality Control, Inspection and Test records that 
+substantiate conformance to the specified requirements, including records 
+of corrective actions, shall be retained by the Contractor for three (3) 
+years from date of the completion or termination of the Contract and shall 
+be made available to the QAR upon request.
+
+</pre>
+</div>

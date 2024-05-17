@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la préparation en vue de
+  <br/>
+  la livraison doit être conforme à la commande d'emballage pour le transport -
+  <br/>
+  Forces canadiennes.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La préparation en vue de la livraison pour le ou les
+articles <span class="input-required"><var>____</var>
+<kbd>(<i>insérer le(s) numéro(s) de ou des
+articles</i>)</kbd></span> doit être conforme aux instructions
+de la commande d'emballage pour le transport - Forces canadiennes
+<var>____</var> , en date du <span class="input-required"><var>____</var> <kbd>(<i>insérer le numéro
+et la date</i>)</kbd></span>.</p>
+</div></pre>
+</div>

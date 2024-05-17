@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause must be used in conjunction with the basic "Intellectual Property 
+Rights" clauses: K3000D, K3001D, K3002D, K3300D, K3301D AND K3302D, TO CLEARLY 
+STIPULATE which sections of the general condition sets are being replaced.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Clause _____ (number), _____(title), referenced in this document, replaces 
+the following provisions of the General Conditions and Supplemental General 
+Conditions:
+
+[<strong><em>Delete those items that do not apply, as well as this instruction</em></strong>]
+
+       DSS-MAS 1026A: section 18 (Patent Licences and Use of Technical 
+Information)
+
+       DSS-MAS 1026B: section 17 (Patent Licences and Use of Technical 
+Information)
+
+       DSS-MAS 1036: section 04 (Ownership of Inventions).
+
+
+</pre>
+</div>

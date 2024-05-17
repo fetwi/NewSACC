@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive bid solicitations.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All enquiries regarding the bid solicitation must be submitted in writing 
+to the Contracting Authority named on page one (1) of this document as 
+early as possible within the bidding period. Enquiries must be received no 
+less than _____ calendar days prior to the bid closing date to allow 
+sufficient time to provide a response.  Enquiries received after that time 
+may not be able to be answered prior to the bid closing date.
+
+Issues concerning this procurement may be raised prior to bid closing date 
+with the Contracting Authority in order to obtain general guidance.  Canada 
+will examine the issues and will decide whether or not to amend the 
+solicitation document. 
+
+To ensure consistency and quality of information provided to bidders, the 
+Contracting Authority will provide, simultaneously to all companies to 
+which this solicitation has been sent, any information with respect to 
+significant enquiries received and the replies to such enquiries without 
+revealing the sources of the enquiries.
+
+All enquiries and other communications with government officials throughout 
+the solicitation period are to be directed ONLY to the Contracting 
+Authority named on page one of the bid solicitation.  Non-compliance with 
+this condition during the bid solicitation period can (for that reason 
+alone) result in disqualification of your bid.  Issues or deviations to 
+mandatory requirements raised in the supplier's bid will not be considered 
+or accepted, and will render the bid non responsive.
+
+</pre>
+</div>

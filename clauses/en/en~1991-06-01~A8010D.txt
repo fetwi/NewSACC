@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>THE LESSOR SHALL BE RESPONSIBLE FOR:
+
+       . Delivery to:_____.
+       . Pick up at time of expiry or termination of contract.
+       . Pick up and return of the vehicles for warranty service.
+       . Vehicle licensing.
+       . Full maintenance due to normal wear and tear.
+       . Replacement of tires and tire repairs.
+       . Provision of snow tires when requested.
+       . Supply of another licensed vehicle of the same type and size to 
+       replace a specific vehicle when a unit is taken out of service for 
+       repairs for a period greater than twenty-four (24) hours.  Down time 
+       will be considered when computing the monthly charges.
+       . All warranty servicing.  Warranty servicing shall mean the supply 
+       of parts normally provided by the manufacturer's warranty together 
+       with the labour necessary to install such parts.  The warranty 
+       period shall in no case cover a period of less than twelve (12) 
+       months. The warranty service as outlined above shall be made 
+       available at any dealer for the make of vehicle leased, within 
+       Canada.
+
+THE LESSEE SHALL BE RESPONSIBLE FOR:
+
+       . The supply of gasoline.
+       . Oil, between changes and washing.
+       . Return to the lessor, all vehicle parts replaced, including 
+       damaged or worn tires.
+
+GENERAL:
+
+Repair routing is to be given to the Lessee on acceptance of vehicle. 
+   Authorization to proceed with repairs is to be obtained from the Lessor.  
+   The cost of replacements which are made will be credited to the Lessee's 
+   account by the Lessor upon receipt by the Lessor of a paid invoice 
+   covering such replacement. 
+</pre>
+</div>

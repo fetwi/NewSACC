@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la demande indique qu'il s'agit des règlements 
+de la Federal Aviation Administration (FAA) des É.-U. ou du ministère des 
+Transports du Canada (MT) (CAQ J du MDN). Inclure la clause D5600D du document 
+de sortie.  Lorsque la demande comporte plusieurs codes de l'assurance de la 
+qualité, l'agent des achats doit identifier les numéros d'article qui sont 
+associés à chaque clause relative à l'assurance de la qualité.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux décrits dans le présent document doivent être inspectés 
+conformément aux exigences des règlements sur les avions civils de la 
+Federal Aviation Administration des É.-U. ou du ministère des Transports du 
+Canada, et ils sont sujets à vérification par le ministère de la Défense 
+nationale à destination. Une preuve d'inspection doit accompagner chaque 
+envoi.
+
+</pre>
+</div>

@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where the basis of payment for exchange 
+rate adjustment is based on "Actual Costs Incurred".  The method of payment may 
+be any one of:  payment on delivery, milestone  or progress claim and payment.  
+A key requirement of this clause is that the Contractor must show or present 
+evidence of payment when submitting its claim for exchange rate adjustment to 
+the Crown.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The price shall be adjusted either upwards or downwards to reflect 
+       the actual costs incurred associated with the actual rate obtained 
+       by you when remitting payment to the foreign subcontractor or 
+       supplier for the item in question.
+
+2.     On each invoice (or progress claim form) submitted against the 
+       Contract, the Contractor will show the cost of the foreign funds or 
+       exchange rate adjustment amount (either upward, downward or no 
+       change) as a separate item on the invoice (or progress claim form) 
+       and provide appropriate documentation showing evidence of payment 
+       for the items included in the invoiced amount. 
+
+3.     The Minister shall have the right to audit any revision to costs 
+       under this clause.
+
+</pre>
+</div>

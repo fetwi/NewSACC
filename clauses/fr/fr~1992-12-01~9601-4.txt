@@ -1,0 +1,538 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>
+-
+4
+00
+(
+01
+/
+12
+/
+94
+)
+LOGICIELS
+ 
+SOUS
+ 
+LICENCE
+</strong><strong></strong>
+
+
+
+Approvisionnements et Services Canada
+
+01     Interprétation
+02     Octroi d'une licence
+03     Licence d'ordinateur personnel
+04     Licence restreignant l'utilisation à un ordinateur désigné
+05     Licence spécifique à un emplacement ou à une entreprise
+06     Documentation sous licence
+07     Avis de droit d'auteur
+08     Support d'information
+09     Durée de la licence
+10     Essais d'acceptation
+11     Obligations de non-divulgation
+12     Droit d'accorder une licence
+13     Garantie
+14     Disponibilité du code source
+15     Droit de modification
+16     Risque de perte
+17     Destruction lors de la résiliation
+
+
+
+<strong>9601-4 01     (01/12/92)    Interprétation</strong><strong></strong>
+
+
+       (1)    À moins que le contexte ne s'y oppose, les définitions qui 
+              suivent s'appliquent au présent contrat :
+
+              «<strong>Conditions générales</strong>» : les Conditions générales - Formule 
+              détaillée, DSS-MAS 9601 ou les Conditions générales - Formule 
+              semi-détaillée, DSS-MAS 9601-10, selon la formule faisant 
+              partie du contrat;
+
+              «<strong>documentation sous licence</strong>» : l'ensemble des manuels, 
+              livrets, guides d'utilisation et autres documents écrits en 
+              langage courant que l'entrepreneur doit fournir au Canada 
+              conformément au contrat et qui sont destinés à être utilisés 
+              avec les programmes sous licence, que cette documentation 
+              soit fournie sous forme imprimée ou sur un support 
+              d'information;
+
+              «<strong>logiciels sous licence</strong>» : l'ensemble des programmes sous 
+              licence et de la documentation visée par la licence;
+
+              «<strong>programmes sous licence</strong>» : l'ensemble des programmes 
+              informatiques sous forme de code objet que l'entrepreneur 
+              doit fournir au Canada conformément au contrat, sauf les 
+              programmes informatiques que l'entrepreneur doit concevoir 
+              selon le contrat et qui sont régis par les Conditions 
+              générales supplémentaires, DSS-MAS 9601-2 (Services 
+              d'élaboration et de modification de logiciels);
+
+              «<strong>support d'information</strong>» : le matériel sur lequel les 
+              programmes sous licence sont stockés pour être remis au 
+              Canada, comme les bandes magnétiques ou autres, les disques 
+              magnétiques et les disques optiques;
+
+              «<strong>utilisateur</strong>» : le ministre responsable du ministère ou de 
+              l'organisme pour lequel les travaux sont exécutés ou, en cas 
+              de transfert prévu au paragraphe 2(2) (Octroi d'une licence), 
+              le ministre auquel le logiciel sous licence est transféré; 
+              aux fins de la présente définition, le mot «<strong>ministre</strong>» 
+              comprend tout employé, agent ou entrepreneur dûment autorisé 
+              à agir en son nom.
+
+       (2)    Les mots et expressions définis dans les Conditions générales 
+              et utilisés dans les présentes Conditions générales 
+              supplémentaires ont le sens qui leur est donné dans les 
+              Conditions générales.
+
+       (3)    En cas de contradiction entre les Conditions générales et les 
+              présentes Conditions générales supplémentaires, les 
+              dispositions pertinentes des présentes Conditions générales 
+              supplémentaires l'emportent.
+
+       (4)    Les articles intitulées «Droit de propriété» et «Garantie», 
+              qui figurent dans les Conditions générales, ne s'appliquent 
+              pas au logiciel sous licence et au support d'information.   
+              Les dispositions relatives au droit de propriété et à la 
+              garantie mentionnées aux présentes Conditions générales 
+              supplémentaires s'appliquent au lieu de ces articles.
+
+       (5)    Si les Conditions générales - Formule détaillée, DSS-MAS 9601, 
+              font partie du contrat, les paragraphes (5) à (8) 
+              inclusivement de l'article 23 (Redevances et violations) 
+              desdites conditions ne s'appliquent qu'aux redevances 
+              exigibles à l'égard des logiciels sous licence, dans le cas 
+              où le contrat constitue un contrat de défense au sens de la 
+              Loi sur la production de défense, L.R.C. 1985, ch. D-1.
+
+ 
+<strong>9601-4 02     (01/12/92)    Octroi d'une licence</strong><strong></strong>
+
+
+       (1)    L'entrepreneur accorde par les présentes au Canada une 
+              licence non exclusive l'autorisant à utiliser et à reproduire 
+              le logiciel sous licence conformément aux conditions du 
+              contrat.
+
+       (2)    L'utilisateur est la seule entité autorisée à utiliser et à 
+              reproduire le logiciel sous licence au nom du Canada.  Si le 
+              ministère ou l'organisme dont l'utilisateur est responsable 
+              est réorganisé, absorbé par un autre ministère ou organisme 
+              du gouvernement ou démantelé en entier, le Ministre pourra, 
+              par remise d'un avis à l'entrepreneur, désigner un autre 
+              ministre comme utilisateur aux fins du contrat.
+
+       (3)    Le Canada reconnait que du logiciel sous licence est la 
+              propriété de l'entrepreneur ou de son ayant-droit.
+
+
+<strong>9601-4 03     (01/12/92)    Licence d'ordinateur personnel</strong><strong></strong>
+
+
+       (1)    Dans le présent article, l'expression «logiciel d'OP» désigne 
+              un logiciel sous licence créé pour utilisation sur un 
+              ordinateur personnel.
+
+       (2)    Les paragraphes (3) et (4) s'appliquent à tout logiciel d'OP 
+              fourni en exécution du contrat sauf les logiciels d'OP 
+              assujettis à l'article 5 (Licence spécifique à un emplacement 
+              ou une entreprise).
+
+       (3)    L'utilisateur ne peut utiliser un exemplaire sous licence 
+              d'un logiciel d'OP que pour un seul ordinateur personnel, 
+              dont le type est précisé dans le contrat ou, si le contrat ne 
+              donne pas de précisions à cet égard, dans la documentation 
+              visée par la licence applicable au logiciel d'OP.  
+              L'utilisateur peut transférer cet exemplaire d'un ordinateur 
+              personnel à un autre, sans prévenir l'entrepreneur en 
+              conséquence, à condition que cet exemplaire ne soit utilisé 
+              que dans un ordinateur personnel à la fois.
+
+       (4)    L'utilisateur peut faire des copies du logiciel d'OP sous 
+              forme lisible à la machine ou sur support imprimé, mais à des 
+              fins de sauvegarde uniquement, dans le cadre de l'utilisation 
+              de chacun des exemplaires sous licence dans un seul 
+              ordinateur personnel.
+
+<strong>9601-4 04     (01/12/94)    Licence restreignant l'utilisation à un 
+                            ordinateur désigné</strong>
+
+       (1)    Le présent article s'applique aux logiciels sous licence 
+              conçus pour utilisation dans des ordinateurs autres que les 
+              ordinateurs personnels définis à l'article 3 (Licence 
+              d'ordinateur personnel) mais ne s'applique pas aux logiciels 
+              sous licence visés par l'article 5 (Licence spécifique à un 
+              emplacement ou à une entreprise).
+
+       (2)    Sous réserve des autres dispositions du présent article, et 
+              sauf stipulations contraires au contrat, le Canada n'est 
+              autorisé à utiliser les logiciels sous licence que dans le ou 
+              les systèmes informatiques où les programmes sous licence ont 
+              été installés au départ (chacun de ces systèmes est appelé 
+              ci-après «système informatique désigné»).
+
+       (3)    Si le système informatique désigné inclut des terminaux à 
+              distance, l'utilisateur a toute liberté d'accès et 
+              d'utilisation concomitants pour les programmes sous licence, 
+              à partir de ces terminaux, sous réserve des restrictions 
+              énoncées au contrat quant à l'utilisation.
+
+       (4)    L'utilisateur peut transférer temporairement les logiciels 
+              sous licence à du matériel de secours, si le système 
+              informatique désigné ne fonctionne pas ou que les 
+              installations du Canada sont inaccessibles.  Si la durée d'un 
+              transfert doit dépasser un total cumulatif de 60 jours civils 
+              au cours d'une période de 90 jours, le responsable technique 
+              donnera à l'entrepreneur un avis du transfert.
+
+       (5)    Le Canada peut, sur avis communiqué par l'autorité 
+              contractante à l'entrepreneur, désigner un autre système 
+              informatique en remplacement du système dans lequel le 
+              logiciel sous licence est utilisé.
+
+       (6)    Si le Canada désire transférer le logiciel sous licence à une 
+              nouvelle version ou mise à jour du système informatique 
+              désigné ou de son système d'exploitation et que ce transfert 
+              nécessite l'utilisation d'une version différente du logiciel 
+              sous licence pour que celui-ci continue de respecter les 
+              critères fonctionnels et les critères de rendement énoncés au 
+              devis, l'entrepreneur fournira la version appropriée au 
+              Canada, si elle est disponible, selon des conditions 
+              semblables à celles qui sont énoncées au contrat, moyennant 
+              un prix ne pouvant dépasser le plus bas prix que 
+              l'entrepreneur exige de tout autre client pour cette version, 
+              y compris ses clients de premier ordre.
+
+       (7)    L'utilisateur a le droit de reproduire les programmes sous 
+              licence sous forme imprimée ou sous forme lisible par la 
+              machine, à des fins de sauvegarde seulement, aux fins de 
+              l'utilisation du logiciel sous licence dans le système 
+              informatique désigné.
+
+
+<strong>9601-4 05     (01/12/92)    Licence spécifique à un emplacement ou à une 
+                            entreprise</strong><strong></strong>
+
+       (1)    Le présent article s'applique au logiciel sous licence qui, 
+              d'après le contrat, est assujetti à une licence spécifique à 
+              un emplacement ou à une entreprise.
+
+       (2)    Sous réserve du paragraphe (3), l'utilisateur peut utiliser 
+              le logiciel sous licence visé au paragraphe (1) sur tous les 
+              systèmes informatiques qui lui appartiennent, qu'il loue ou 
+              exploite à la date du contrat ou en tout temps par la suite à 
+              l'endroit ou aux endroits désignés dans le contrat.
+
+       (3)    L'utilisateur n'est autorisé à utiliser les programmes sous 
+              licence que pour le type de système informatique précisé dans 
+              le contrat ou, si le contrat ne donne pas de précisions à cet 
+              égard, dans la documentation visée par la licence applicable 
+              aux programmes sous licence.
+
+       (4)    Sauf restriction énoncée explicitement au contrat quant au 
+              nombre de copies autorisées des programmes sous licence, le 
+              Canada a le droit de reproduire les programmes sous licence, 
+              sans restriction, pour les utiliser dans les systèmes 
+              informatiques qui se trouvent à l'emplacement désigné au 
+              contrat.
+
+
+<strong>9601-4 06     (01/12/92)    Documentation sous licence</strong><strong></strong>
+
+
+       (1)    Sauf disposition à l'effet contraire dans les articles 3 
+              (Licence d'ordinateur personnel), 4 (Licence restreignant 
+              l'utilisation à un ordinateur désigné) et 5 (Licence 
+              spécifique à un emplacement ou à une entreprise), le Canada 
+              ne peut reproduire la documentation visée par la licence sans 
+              le consentement écrit préalable de l'entrepreneur.
+
+       (2)    L'entrepreneur déclare et garantit que la documentation visée 
+              par la licence est suffisamment détaillée pour permettre à un 
+              utilisateur expérimenté d'installer, d'utiliser et de tester 
+              toutes les caractéristiques des programmes sous licence.  Si 
+              le code source des programmes sous licence doit être fourni 
+              au Canada selon le contrat, l'entrepreneur déclare et 
+              garantit que le code ainsi fourni est suffisamment détaillé 
+              pour permettre à un programmeur qui connaît bien le langage 
+              de programmation dans lequel le code source est écrit de 
+              modifier les programmes sous licence. 
+
+<strong>9601-4 07     (01/12/92)    Avis de droit d'auteur</strong><strong></strong>
+
+
+       Si le logiciel sous licence comporte un avis de droit d'auteur ou 
+       d'autres avis du droit de propriété, le Canada reproduira ces avis 
+       sur toutes les copies du logiciel sous licence.
+
+
+<strong>9601-4 08     (01/12/92)    Support d'information</strong><strong></strong>
+
+
+       (1)    L'entrepreneur déclare et garanti que le support 
+              d'information est compatible avec le système informatique sur 
+              lequel les programmes sous licence doivent être installés.
+
+       (2)    L'entrepreneur déclare et garanti que le support 
+              d'information qu'il fournit est libre de tout virus 
+              informatique.
+
+       (3)    Le Canada devient propriétaire du support d'information dès 
+              la livraison et l'acceptation de celui-ci par le Canada ou 
+              pour son compte.  Aux fins du présent paragraphe, 
+              l'expression «support d'information» ne comprend pas le 
+              logiciel sous licence stocké sur le support d'information.
+
+
+<strong>9601-4 09     (01/12/92)    Durée de la licence</strong><strong></strong>
+
+
+       (1)    Sauf disposition à l'effet contraire du contrat, la licence 
+              du Canada à l'égard du logiciel sous licence est perpétuelle, 
+              sous réserve uniquement des dispositions du contrat 
+              concernant la résiliation.
+
+       (2)    Si le Canada viole ses obligations relatives aux logiciels 
+              sous licence, et que cette violation se poursuit pendant 30 
+              jours suivant l'acceptation par l'autorité contractante d'un 
+              avis écrit dans lequel l'entrepreneur précise la nature de la 
+              violation, celui-ci pourra résilier la licence du Canada à 
+              l'égard du logiciel sous licence en remettant à l'autorité 
+              contractante un avis écrit en ce sens.
+
+
+
+<strong>9601-4 10     (01/12/94)    Essais d'acceptation</strong><strong></strong>
+
+
+       (1)    Après l'installation des programmes sous licence conformément 
+              aux conditions du contrat, le responsable technique effectue 
+              les essais d'acceptation mentionnés ou décrits au contrat 
+              pour déterminer si le logiciel sous licence et le support 
+              d'information sont conformes aux exigences du contrat, y 
+              compris le devis.  Si aucun de ces tests n'est prévu au 
+              contrat, les parties pourront s'entendre sur les essais 
+              d'acceptation qui seront faits;  cependant, si les parties ne 
+              s'entendent pas ou ne peuvent s'entendre, l'autorité 
+              technique fera les essais d'acceptation qu'il jugera 
+              raisonnablement nécessaires pour vérifier si les exigences du 
+              contrat sont respectées.  Sauf disposition à l'effet 
+              contraire du contrat, les essais d'acceptation sont faits à 
+              l'établissement du Canada.
+
+       (2)    Sauf dispositions du contrat, les essais d'acceptation 
+              mentionnés au paragraphe (1), seront effectués sur une 
+              période de 40 jours de la date de l'installation du logiciel 
+              sous licence à l'emplacement désigné par le Canada.  Si le 
+              logiciel sous licence et le support d'information réussissent 
+              les essais, l'autorité technique avisera l'entrepreneur que 
+              le logiciel sous licence et le support d'information sont 
+              acceptés.
+ 
+       (3)    Nonobstant toutes autres dispositions du présent article, si 
+              le Canada est dans l'incapacité de commencer ou de continuer 
+              les essais d'acceptation du logiciel sous licence à cause 
+              d'un acte du Canada comme souverain ou d'un événement de 
+              force majeure, les essais d'acceptation peuvent être 
+              temporairement suspendu pour une période ne dépassant pas 60 
+              jours.  Le temps limite pour les essais décrits dans le 
+              présent article ou dans le contrat, selon le cas, peut être 
+              prolongé par le nombre de jours civils de la suspension.  Si 
+              le retard dépasse 60 jours, les parties feront par la suite 
+              leur possible pour négocier une modification mutuellement 
+              acceptable au contrat.
+
+
+<strong>9601-4 11     (01/12/94)    Obligations de non-divulgation</strong><strong></strong>
+
+
+       Le Canada reconnaît que le logiciel sous licence renferme des 
+       renseignements que l'entrepreneur juge exclusifs et confidentiels.  
+       Sous réserve de la Loi sur l'accès à l'information, L.R.C. 1985, ch. 
+       A-1, et du droit du Canada selon le contrat de communiquer ces 
+       renseignements à ses entrepreneurs et à ses mandataires qui 
+       exécutent les travaux de l'utilisateur, le Canada ne communiquera 
+       pas ces renseignements à une personne ou entité de l'extérieur du 
+       Gouvernement du Canada sans le consentement écrit préalable de 
+       l'entrepreneur.  L'obligation qui précède ne s'applique pas aux 
+       renseignements suivants :
+
+       a)     les renseignements pouvant être publiquement obtenus d'une 
+              source autre que le Canada;
+
+       b)     les renseignements que le Canada obtient ou a obtenus d'une 
+              source autre que l'entrepreneur, sauf s'il s'agit d'une 
+              source qui est tenue, d'après ce que sait le Canada, de ne 
+              pas divulguer les renseignements;
+
+       c)     les renseignements que le Canada conçoit sans utiliser les 
+              renseignements de l'entrepreneur ou du tiers de qui il a 
+              obtenu sa licence.
+
+
+<strong>9601-4 12     (01/12/92)    Droit d'accorder une licence</strong><strong></strong>
+
+
+       (1)    L'entrepreneur déclare et garantit qu'il a le droit 
+              d'accorder une licence à l'égard du logiciel sous licence et 
+              qu'il est pleinement autorisé à accorder au Canada les droits 
+              octroyés selon le contrat.  L'entrepreneur garantit également 
+              que tous les consentements nécessaires à cet octroi, le cas 
+              échéant, ont été obtenus.
+
+       (2)    À moins qu'elles ne soient déjà expressément intégrées au 
+              contrat, les conditions que comporte le logiciel sous licence 
+              ou qui y sont jointes, le cas échéant, ne font pas partie de 
+              la licence du Canada et ne touchent aucunement les droits des 
+              parties.  Ni le Canada ni aucun utilisateur final ne sont 
+              tenus de conclure une autre entente de licence à l'égard du 
+              logiciel sous licence ou d'une partie de celui-ci après la 
+              date d'entrée en vigueur du contrat.
+
+
+<strong>9601-4 13     (01/12/92)    Garantie</strong><strong></strong>
+
+
+       (1)    Dans le présent article, à moins d'indication contraire dans 
+              le contrat, les mots «période de garantie» désignent une 
+              période de 90 jours suivant la date à laquelle l'entrepreneur 
+              a terminé la totalité des travaux conformément aux conditions 
+              du contrat, sauf les travaux couverts par la garantie et les 
+              autres travaux qui, selon le contrat, doivent être exécutés 
+              après le début de la période de garantie.
+
+       (2)    L'entrepreneur garantit que, au cours de la période de 
+              garantie, les programmes sous licence fonctionneront 
+              conformément au devis sur le ou les systèmes informatiques 
+              sur lesquels ils sont installés.  Si les programmes sous 
+              licence ne respectent pas la garantie précitée au cours de la 
+              période de garantie, l'entrepreneur corrigera le plus tôt 
+              possible à ses frais, à la demande du Canada, les erreurs ou 
+              vices de programmation et apportera au logiciel sous licence 
+              les ajouts et modifications qui seront nécessaires pour 
+              maintenir les programmes sous licence en état de 
+              fonctionnement conformément au devis.  Bien que 
+              l'entrepreneur soit tenu de faire tout ce qui est 
+              raisonnablement possible pour apporter des corrections 
+              permanentes pour toutes les erreurs du logiciel, le Canada 
+              reconnaît que certaines erreurs ne pourront peut-être pas 
+              être corrigées de façon définitive par l'entrepreneur dans le 
+              cadre de la garantie stipulée dans le présent article.  Dans 
+              ce cas, l'entrepreneur fournira des retouches ou dérivations 
+              pour corriger provisoirement les erreurs dans tous les cas où 
+              celles-ci ne pourront être corrigées définitivement.  Au 
+              minimum, ces retouches ou dérivations feront en sorte que les 
+              logiciels personnalisés répondent aux critères de 
+              fonctionnement et de rendement établis dans le devis.
+
+       (3)    L'entrepreneur garantit que, au cours de la période de 
+              garantie, la documentation visée par la licence ne comportera 
+              aucun vice de matériaux et sera conforme aux exigences du 
+              contrat.  Si le Canada découvre une erreur ou un problème de 
+              non-conformité dans une partie de la documentation visée par 
+              la licence au cours de la période de garantie, l'entrepreneur 
+              corrigera à ses frais, le plus tôt possible suivant une 
+              demande du Canada en ce sens, la partie de la documentation 
+              visée par la licence jugée erronée ou non conforme aux 
+              exigences du contrat.
+
+       (4)    L'entrepreneur garantit que, au cours de la période de 
+              garantie, le support d'information ne comportera aucun vice 
+              de matériaux ou de fabrication et sera conforme aux exigences 
+              du contrat.  Le Canada pourra retourner à l'entrepreneur un 
+              support d'information non conforme ou défectueux pendant la 
+              période de garantie, en y joignant un avis concernant le 
+              problème ou le vice, et l'entrepreneur remplacera sans délai 
+              ce support par un support corrigé sans frais supplémentaires 
+              pour le Canada.
+
+       (5)    Si l'entrepreneur doit fournir des services de soutien à 
+              l'égard du logiciel sous licence pendant la période de 
+              garantie, les clauses concernant le soutien ne pourront être 
+              interprétées de façon à modifier les dispositions du présent 
+              article concernant la garantie.
+
+       (6)    Les garanties énoncées au présent article demeurent en 
+              vigueur après l'examen et l'acceptation des travaux au nom du 
+              Canada et ne restreignent pas la portée des autres clauses du 
+              contrat ou des conditions, dispositions ou garanties 
+              découlant implicitement ou explicitement de la loi.
+
+
+<strong>9601-4 14     (01/12/92)    Disponibilité du code source</strong><strong></strong>
+
+       (1)    Le présent article s'applique si le contrat n'exige pas par 
+              ailleurs de l'entrepreneur qu'il fournisse au Canada le code 
+              source à l'égard du logiciel sous licence.
+
+       (2)    Si l'entrepreneur et le Canada n'ont pas conclu d'entente de 
+              mise en main tierce distincte du code source avec un 
+              dépositaire légal au plus tard à la date d'entrée en vigueur 
+              du contrat, l'entrepreneur prendra pour le Canada, sans frais 
+              supplémentaires, les dispositions de mise en main tierce 
+              qu'il prend habituellement pour ses clients et remettra au 
+              Canada, dans les 30 jours suivant la date de signature du 
+              contrat, une copie de l'entente qu'il aura conclue avec son 
+              dépositaire légal et qui renferme un énoncé des conditions 
+              selon lesquelles ledit dépositaire est autorisé à divulguer 
+              le code source au Canada.
+
+
+<strong>9601-4 15     (01/12/92)    Droit de modification</strong><strong></strong>
+
+
+       Si le code source relatif aux programmes sous licence est fourni au 
+       Canada selon les conditions du contrat, ce code fait partie du «<strong>
+       logiciel sous licence</strong>» aux fins du contrat et le Canada a le droit, 
+       s'il le désire, de copier de façon indépendante et de modifier le 
+       logiciel sous licence pour son propre usage, par l'entremise de ses 
+       propres employés ou d'entrepreneurs indépendants, pourvu que ces 
+       entrepreneurs conviennent de ne pas divulguer ou distribuer une 
+       partie du logiciel sous licence à une autre personne ou entité ou de 
+       violer d'une autre façon les droits du propriétaire du logiciel sous 
+       licence.  Le Canada est le propriétaire de ces modifications, mais 
+       n'obtient aucun droit de propriété sur le logiciel sous licence, 
+       toute partie du logiciel sous licence qui comporte ces modifications 
+       demeurant assujettie aux modalités de la licence du Canada.  
+       L'entrepreneur ne peut intégrer ces modifications dans son logiciel 
+       pour les distribuer à des tiers, sauf si le Canada lui a accordé les 
+       droits de distribution nécessaires conformément à une entente de 
+       licence écrite.  Les dispositions du présent article ne sauraient 
+       empêcher l'entrepreneur ou le tiers dont il a obtenu une licence de 
+       concevoir des modifications de façon indépendante.
+
+
+<strong>9601-4 16     (01/12/92)    Risque de perte</strong>
+
+
+       (1)    Le risque de perte ou d'endommagement des logiciels sous 
+              licence ou des supports d'information, en totalité ou en 
+              partie, est assumé par le Canada à compter de la livraison au 
+              Canada de tout ou partie de ces logiciels sous licence ou 
+              supports d'information.
+
+       (2)    Par dérogation au paragraphe (1), l'entrepreneur demeure 
+              responsable, après la livraison au Canada, de toute perte ou 
+              de tout dommage causé aux logiciels sous licence par son 
+              propre fait ou celui de ses sous-traitants.
+
+
+<strong>9601-4        17     (01/12/92)    Destruction lors de la résiliation</strong><strong></strong>
+
+
+       En cas de résiliation ou d'expiration de la licence du Canada, 
+       celui-ci devra, à la demande écrite de l'entrepreneur, lui retourner 
+       toutes les copies du logiciel sous licence ou lui déclarer par écrit 
+       que toutes les copies du logiciel sous licence ont été détruites, 
+       sauf une copie, que le Canada pourra conserver à des fins 
+       d'archivage seulement.
+
+</pre>
+</div>

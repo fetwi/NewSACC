@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following text when preparing a Partial Termination for Default, only 
+after a supporting legal opinion or approval from a Legal Advisor has been 
+obtained, when the contractor indicates inability or unwillingness to perform 
+part of the contract. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This is further to your telex/facsimile/letter of _____ addressed to _____ .
+
+As you have indicated that you are unwilling or unable to deliver certain 
+items described in the above-referenced Contract in accordance with the 
+specifications, terms and conditions of the Contract, and pursuant to the 
+Default provisions of the General Conditions forming part of the Contract, 
+the Minister of Supply and Services hereby partially terminates the said 
+Contract in respect only to the following items(s):
+
+                           (Description of Items)
+
+You shall continue with the rest of the work in accordance with the terms, 
+conditions and specifications of the Contract. 
+
+The Minister reserves Her Majesty's right under the Contract to charge you 
+for all loss and damage which may be suffered by Her Majesty by reason of 
+your default, including any amount in excess of the Contract Price of the 
+terminated item(s) which Her Majesty may be obliged to pay in procuring the 
+items elsewhere. 
+
+
+</pre>
+</div>

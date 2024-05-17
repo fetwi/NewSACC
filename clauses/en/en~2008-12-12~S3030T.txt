@@ -1,0 +1,66 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in requests for supply arrangements valued at $200,000 
+or more (including all applicable taxes), except for requirements excluded under 
+paragraphs 5.129 (d), (e) and (f) of the Supply Manual. (Consult also procedure 
+7A.127.)</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Federal Contractors Program for Employment Equity (FCP-EE) 
+       requires that some suppliers  bidding for federal government 
+       contracts, valued at $200,000 or more (including all applicable 
+       taxes), make a formal commitment to implement employment equity.  
+       This is a condition precedent to the issuance of a supply 
+       arrangement.  If the Supplier is subject to the FCP-EE, evidence of 
+       its commitment must be provided before the issuance of a supply 
+       arrangement.
+
+       Suppliers who have been declared ineligible contractors by Human 
+       Resources and Social Development Canada (HRSDC) are no longer 
+       eligible to receive government contracts over the threshold for 
+       solicitation of bids as set out in the Government Contract 
+       Regulations.  Suppliers may be declared ineligible contractors 
+       either as a result of a finding of non-compliance by HRSDC, or 
+       following their voluntary withdrawal from the FCP-EE for a reason 
+       other than the reduction of their workforce to less than 100 
+       employees.  Any arrangements from ineligible contractors will be 
+       declared non-responsive.
+
+2.     If the Supplier does not fall within the exceptions enumerated in 3.(
+       a) or (b) below, or does not have a valid certificate number 
+       confirming its adherence to the FCP-EE, the Supplier must fax 
+       (819-953-8768) a copy of the signed form LAB 1168, Certificate of 
+       Commitment to Implement Employment Equity (http://www1.servicecanada.gc.ca
+       /cgi-bin/search/eforms/index.cgi?app=profile&amp;form=lab1168&amp;dept=sc?=e), 
+       to the Labour Branch of HRSDC.
+
+3.     The Supplier certifies its status with the FCP-EE, as follows:
+
+       The Supplier 
+
+       (a)    (    ) is not subject to the FCP-EE, having a workforce of 
+                     less than 100 permanent full time, part-time or 
+                     temporary employees in Canada,
+
+       (b)    (    ) is not subject to the FCP-EE, being a regulated 
+                     employer under the <em>Employment Equity Act</em>, S.C. 1995, c. 
+                     44;
+
+       (c)    (    ) is subject to the requirements of the FCP-EE, having a 
+                     workforce of 100 or more permanent full time, 
+                     part-time or temporary employees in Canada, but has 
+                     not previously obtained a certificate number from 
+                     HRSDC, (having not bid on requirements of $200,000 or 
+                     more), in which case a duly signed certificate of 
+                     commitment is attached;
+
+       (d)    (    ) is subject to the FCP-EE, and has a valid certificate 
+                     number as follows: _______ (e.g. has not been declared 
+                     ineligible contractor by HRSDC).
+
+Further information on the FCP-EE is available on the following HRSDC Web 
+site: http://www.hrsdc.gc.ca/en/labour/equality/fcp/index.shtml.
+
+
+
+</pre>
+</div>

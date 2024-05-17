@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante avec la clause H4005D lorsque le ministère client a 
+demandé une ébauche du rapport final.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Après l'approbation de l'ébauche du rapport final, l'entrepreneur devra 
+envoyer _____ copies du rapport final au responsable technique le ou avant 
+le ____.  Le rapport final devra contenir un résumé préparé dans les deux 
+langues officielles du Canada.
+
+Une copie de la lettre d'envoi accompagnant le rapport final devra être 
+transmise à l'autorité contractante.
+
+</pre>
+</div>

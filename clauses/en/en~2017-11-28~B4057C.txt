@@ -1,0 +1,42 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in contracts for the Department of National Defence (DND) when a system or equipment is newly introduced in the Canadian Forces Supply System and when the corresponding technical publications for manuals are provided in accordance with
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  specifications and standards.
+ </p>
+ Contracting officers must:
+ <ol type="1">
+<li value="1">
+   insert only the applicable option(s) for the publications selected and indicate the delivery date for each publication in accordance with the bid of the successful bidder;
+  </li>
+<li value="2">
+   indicate the prices in the basis of payment clause;
+  </li>
+<li value="3">
+   identify the technical authority in the contract.
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must provide and clearly label all technical publications required for description, operation, installation,
+maintenance and repair of the deliverable end items as follows:</p>
+<h2>Bilingual publications</h2>
+<h3>Option 1: Newly written manuals</h3>
+<p>The Contractor must provide the following publications in both English and French, in one of the following formats: side-by side, separate issues, separate joined, facing pages, or over and under. The selected format must be in full compliance with the latest issue of C-01-100-100/AG-006, Specification  Writing, Format and Production of Technical Publications. The Contractor must deliver the newly written manuals to the <span class="input-required"><var>__________</var> <kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong> "Procurement"</em>)</kbd></span> Authority on or before <span class="input-required"><var>_________</var> <kbd>(<em><strong>insert the delivery date</strong></em>)</kbd></span>.</p>
+<h3>Option 2: Existing manuals</h3>
+<p>The Contractor must provide the following publications as existing commercial or foreign government off-the-shelf manuals, in both English and French, in side-by-side format, in full compliance with the latest issue of C-01-100-100/AG-005, Specification Acceptance of Commercial and Foreign Government Publications as Adopted Publications. The Contractor must deliver the existing manuals to the <span class="input-required"><var>__________</var><kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong> "Procurement"</em>)</kbd></span> Authority on or before <span class="input-required"><var>_________</var> <kbd>(<em><strong>insert the delivery date</strong></em>)</kbd></span>.</p>
+<h3>Option 3: Alternate format</h3>
+<p>The Contractor must provide the following publications in the format approved in writing by the Technical Authority, in both English and French. The format must be in full compliance with the latest issue of C-01-100-100/AG-005, Specification Acceptance of Commercial and Foreign Government Publications as Adopted Publications. The Contractor must deliver the publications in the approved alternate format to the <span class="input-required"><var>__________</var> <kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong> "Procurement"</em>)</kbd></span> Authority on or before <span class="input-required"><var>_________</var> <kbd>(<em><strong>insert the delivery date</strong></em>)</kbd></span>.</p>
+<h2>Unilingual publications</h2>
+<h3>Option 1: Newly written manuals</h3>
+<p>The Contractor must provide the following publications in full compliance with the latest issue of C-01-100-100/AG-006, Specification  Writing, Format and Production of Technical Publications. The Contractor must deliver the newly written manuals to the <span class="input-required"><var>______</var> <kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong> Procurement"</em>)</kbd></span> Authority on or before <span class="input-required"><var>_________</var><kbd>(<em><strong>insert the delivery date</strong></em>)</kbd></span>.</p>
+<h3>Option 2: Existing manuals</h3>
+<p>The Contractor must provide the following publications as existing commercial or foreign government off-the-shelf manuals, in full compliance with the latest issue of C-01-100-100/AG-005, Specification Acceptance of Commercial and Foreign Government Publications as Adopted Publications. The Contractor must deliver the existing manuals to the <span class="input-required"><var>__________</var> <kbd>(<em><strong>insert</strong> "Technical" <strong>or</strong> "Procurement"</em>)</kbd></span> Authority on or before <span class="input-required"><var>_________</var> <kbd>(<em><strong>insert the
+delivery date</strong></em>)</kbd></span>.</p>
+<h3>Right to translate and reproduce</h3>
+<p>The Contractor gives Canada the right to translate and reproduce, for government purposes, any or part of any publication provided under the Contract as existing unilingual commercial manuals.</p>
+</div></pre>
+</div>

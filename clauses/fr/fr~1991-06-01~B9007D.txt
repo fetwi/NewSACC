@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le DSTFC, en collaboration avec l'Entrepreneur, établira une liste des 
+   travaux en cours à la fin du radoub.  Cette liste formera les annexes au 
+   document officiel d'acceptation, c'est-à-dire le Rapport d'inspection 
+   CF1148.
+</pre>
+</div>

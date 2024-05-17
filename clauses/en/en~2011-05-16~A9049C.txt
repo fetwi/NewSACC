@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts covering the procurement of vehicles.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Each vehicle supplied pursuant to the Contract must meet the
+applicable provisions of the <cite>Motor Vehicle Safety Act</cite>, <abbr title="Statutes of Canada">S.C.</abbr> 1993,
+<abbr title="chapter">c.</abbr> 16, and the applicable regulations that are in force on the date
+of its manufacture.</p>
+</div></pre>
+</div>

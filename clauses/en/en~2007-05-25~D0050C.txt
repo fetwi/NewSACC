@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts with United States suppliers when an end user certificate may be requested due to the nature of the goods.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada certifies that the goods, services or both ordered under
+the Contract are purchased by Canada for the exclusive use of the
+Canadian Armed Forces.</p>
+</div></pre>
+</div>

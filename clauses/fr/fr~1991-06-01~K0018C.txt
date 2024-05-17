@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats afférents aux sciences visant 
+des services disponibles sur le marché qui ne comportent aucun élément de 
+recherche ou qui résulteraient en une nouvelle technologie, invention ou 
+processus en voie de développement. Un exemple serait des services de 
+laboratoire analytiques.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les Conditions générales - Services, DSS-MAS 9076, avec les modifications 
+suivantes, s'appliqueront et feront partie du présent Contrat. 
+
+A l'article 1, intitulé Interprétations, ajouter l'alinéa suivant au 
+paragraphe (1) :
+
+       h) "le Canada", "la Couronne" et "Sa Majesté" signifient Sa Majesté 
+   la reine du chef du Canada. 
+</pre>
+</div>

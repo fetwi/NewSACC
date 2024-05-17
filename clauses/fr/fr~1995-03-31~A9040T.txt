@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une visite de l'emplacement est nécessaire 
+pour mieux saisir la nature de la demande.  Les agents de négociation des 
+contrats doivent inclure dans la clause l'adresse de l'emplacement ainsi que la 
+date et l'heure de la visite.  Dans le cas de demandes ayant trait au domaine de 
+la marine, le mot « navire » peut être ajouté dans le titre.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Il est obligatoire que le soumissionnaire ou un représentant de ce 
+       dernier visite les installations et examine l'étendue des travaux et 
+       l'état des lieux.
+
+2.     Des dispositions ont été prises pour la visite des installations.  
+       Cette dernière aura lieu le _____, à _____.  Les soumissionnaires 
+       doivent communiquer avec l'autorité contractante avant la visite 
+       pour faire savoir qu'ils y assisteront.  Aucune autre occasion de 
+       visiter le site ne sera offerte aux soumissionnaires qui, pour 
+       quelque raison que ce soit, ne pourront effectuer la visite à la 
+       date et à l'heure fixées, et leur proposition sera, par conséquent, 
+       jugée irrecevable.  AUCUNE EXCEPTION NE SERA FAITE.
+
+3.     Une preuve de la visite devra être fournie à l'autorité contractante.  
+       Cette preuve pourra revêtir l'une des formes suivantes :
+
+       a)     signature du représentant du Canada au bas de la présente 
+              clause ou sur un certificat de visite; ou
+
+       b)     formule de présence du gouvernement du Canada remise 
+              directement à l'autorité contractante par la personne 
+              responsable de la visite des installations.
+
+
+
+       _______________________     __________________   ______________
+       Représentant du Canada      Soumissionnaire      Date
+
+4.     Les soumissionnaires sont priés de noter que toute précision ou tout 
+       changement résultant de la visite des installations sera inclus dans 
+       l'invitation à soumissionner, sous forme de modification.
+
+</pre>
+</div>

@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les marchandises doivent être liées et emballées pour simplifier la 
+manutention. La livraison doit être faite sur patins de bois de type 
+standard (40-50" de large X 48" de profondeur). Les patins ne doivent pas 
+dépasser 60" de haut et ne pas peser plus de 2 500 lbs. Les cartons ne 
+doivent pas dépasser 35 lbs.
+
+
+</pre>
+</div>

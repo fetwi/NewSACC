@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats à frais remboursables qui ne 
+spécificient pas de prix plafond. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les engagements du Canada envers l'Entrepreneur, aux termes du présent 
+Contrat, ne dépasseront pas la somme de $_____, sauf autorisation écrite du 
+Ministre. L'Entrepreneur n'est pas obligé d'exécuter des travaux qui 
+provoqueraient une augmentation du coût global pour le Canada à moins que 
+l'augmentation n'en ait été autorisée. Si, à aucun moment, l'Entrepreneur 
+prévoit que le montant payable à l'égard du présent Contrat dépassera 75 p. 
+100 de ladite somme, l'Entrepreneur devra en informer le Ministre et, si 
+ladite somme n'est pas condidérée suffisante pour finir les Travaux.  La 
+notification de l'Entrepreneur et le nouveau devis ne doivent pas augmenter 
+les engagements du Canada au-délà de ladite somme.
+
+
+</pre>
+</div>

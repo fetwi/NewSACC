@@ -1,0 +1,66 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les marchés de
+  <strong>
+   services
+  </strong>
+  afin de confirmer avec le soumissionnaire retenu, qu’il a accepté que son statut en tant qu’ancien fonctionnaire touchant une pension, soit publié trimestriellement sur les sites Web des ministères, dans le cadre des rapports de divulgation proactive des marchés du
+  <abbr title="Secrétariat du Conseil du Trésor">
+   SCT
+  </abbr>
+  , et ce, conformément à l’
+  
+   Avis sur la Politique des marchés : 2012-2
+  
+  et les
+  
+   Lignes directrices sur la divulgation des marchés
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec la clause
+  
+   A3025T
+  
+  ,
+  
+   A3026T
+  
+  ,
+  
+   M3025T
+  
+  ,
+  
+   M3026T
+  
+  ou
+  
+   S3025T
+  
+  , selon le cas.
+ </p>
+<p>
+  Pour plus de renseignements, consulter l’article
+  
+   3.90
+  
+  et
+  
+   7.65
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>En fournissant de l’information sur son statut en tant qu’ancien fonctionnaire touchant une pension en vertu de la <cite>Loi sur la pension de la fonction publique</cite> (LPFP), l’ entrepreneur a accepté que cette information soit publiée sur les sites Web des ministères, dans le cadre des rapports de divulgation proactive des marchés, et ce, conformément à l’Avis sur la Politique des marchés : 2012-2 du Secrétariat du Conseil du Trésor du Canada.</p>
+</div></pre>
+</div>

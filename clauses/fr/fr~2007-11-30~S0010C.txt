@@ -1,0 +1,64 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les arrangements en matière d'approvisionnement 
+(AA), à moins d'une autorisation de l'équipe responsable de la gestion des biens 
+et des services.  La clause réfère au format du rapport sur le volume 
+d'activités fourni par la Direction de la gestion de la valeur (DGV).  Il est 
+possible de le consulter sur le site d'Accès entreprise Canada, sous l'entête « 
+Publications, Manuels et Formulaires », à l'adresse suivante : 
+http://contratscanada.gc.ca/fr/infoplus-f.htm.  Le responsable de l'AA doit 
+transmettre à la DGV, sur une base trimestrielle, les rapports complétés fournis 
+par les fournisseurs, à l'adresse de courriel suivante : ncr.acqbvmo@tpsgc.gc.ca.
+
+Certains chefs d'équipe de biens et de services (CEBS) ou réviseurs régionaux 
+(RR) peuvent souhaiter recevoir des renseignements plus complets ou précis sur 
+des AA pour assurer une gestion globale des biens et des services.  La 
+production de rapports personnalisés demeure la responsabilité de chaque CEBS ou 
+RR.  Si un format personnalisé est établi par un CEBS ou par un RR, ce rapport 
+doit contenir, au minimum, la liste des éléments de données requis par la DGV et 
+la clause ci-dessous doit être modifiée pour refléter les exigences 
+supplémentaires.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le fournisseur doit compiler et tenir à jour des données sur les biens, les 
+services ou les deux fournis au gouvernement fédéral dans le cadre de 
+contrats découlant de l'arrangement en matière d'approvisionnement (AA).  
+Ces données doivent comprendre les achats payés à l'aide d'une carte 
+d'achat du gouvernement du Canada.  Les données doivent être soumises ________ 
+(<strong><em>le responsable de l'AA doit insérer « à chaque trimestre » ou il doit 
+indiquer une autre période d'établissement de rapports</em></strong>) au responsable de 
+l'AA de Travaux publics et Services gouvernementaux Canada.
+
+(<em>Si une autre période d'établissement de rapports est requise, le 
+responsable de l'AA doit supprimer les périodes trimestrielles indiquées 
+ci-dessous et définir l'autre période d'établissement de rapports.)</em>
+Les trimestres se répartissent comme suit : 
+
+Premier trimestre : du 1er avril au 30 juin;
+Deuxième trimestre : du 1er juillet au 30 septembre;
+Troisième trimestre : du 1er octobre au 31 décembre;
+Quatrième trimestre : du 1er janvier au 31 mars.
+
+Les rapports doivent être complétés sous forme électronique et envoyés au 
+responsable de l'AA au plus tard 15 jours civils ________ (<strong><em>le responsable 
+de l'AA doit ajouter « suivant la fin du trimestre » ou indiquer l'autre 
+période d'établissement de rapports tel que précisé au premier paragraphe 
+ci-dessus</em></strong>).  Une version électronique du formulaire en format Excel et(ou) 
+Lotus _______ (<strong><em>le responsable de l'AA doit choisir « sera envoyée de façon 
+électronique au fournisseur par le responsable de l'AA » ou « est 
+disponible sur le site Web d'Accès entreprise Canada, sous l'entête « 
+Publications, Manuels et Formulaires », à l'adresse suivante : </em></strong>http://
+contratscanada.gc.ca/fr/infoplus-f.htm<strong><em> ».).</em></strong>
+
+Tous les champs de données du rapport doivent être remplis tel que demandé.  
+Si certaines données ne sont pas disponibles, la raison doit être indiquée 
+dans le rapport.  Si aucun bien ou service n'a été fourni pendant la 
+période visée, le fournisseur doit soumettre un rapport portant la mention 
+« NÉANT ».
+
+Le fait de ne pas fournir les rapports remplis au complet selon les 
+   directives mentionnées ci-dessus peut entraîner le retrait du Canada de 
+   l'AA, le retrait du fournisseur de la liste de fournisseurs qualifiés et 
+   l'application d'une mesure corrective du rendement du fournisseur.
+</pre>
+</div>

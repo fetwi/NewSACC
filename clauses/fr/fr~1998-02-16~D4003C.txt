@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats conclus avec des fournisseurs 
+situés en Californie.  Cette clause doit être utilisée conjointement avec la 
+clause C2002C.  Lorsque le contrat prévoit des paiements échelonnés ou des 
+paiements anticipés, ou lorsque les produits doivent rester en Californie pour 
+un certain temps, utiliser cette clause conjointement avec la clause K9010C.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les biens visés dans le présent contrat doivent être livrés FOB 
+transporteur commun, à l'usine de l'entrepreneur, _____, Californie ou, si 
+le Ministre le demande expressément, les biens seront livrés FOB par un 
+transporteur fourni par le gouvernement du Canada à _____, Californie.  Le 
+Canada deviendra propriétaire des biens au moment de la livraison.  Les 
+biens devront être expédiés aux destinataires et aux endroits à l'extérieur 
+des États-Unis d'Amérique indiqués dans le contrat.
+
+</pre>
+</div>

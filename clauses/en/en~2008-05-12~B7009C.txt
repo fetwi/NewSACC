@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when tooling is provided by the Department of National Defence (DND) to the contractor for the performance of the contract. Disposal, Sales, Artefacts, Loans (DSAL) will establish a loan agreement with terms and conditions to manage all
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  -owned loaned material.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The tooling listed in the supporting Department of National Defence (DND) loan agreement is required to perform the Work under the Contract and will be supplied <abbr title="Free on Board">FOB</abbr> Destination by <abbr title="Department of National Defence">DND</abbr>. The cutting tools will not be supplied. The provided tooling remains the property of Canada.</li>
+<li value="2">Upon completion of the Contract, the Contractor must inspect the tooling provided to the Contractor by <abbr title="Department of National Defence">DND</abbr> for condition and count and must repair, replace or reimburse any items found unserviceable. The Contractor must report non-repairable items and list any components that have been lost or are non-repairable and send the list to the Contracting Authority. Each item will also include a Materiel Condition Tag <abbr title="Canadian Forces">CF</abbr> 942. At the completion of the Contract, the Contractor must have in its possession a complete set of tooling in serviceable condition.</li>
+<li value="3">The Contractor must return the tooling prepaid immediately upon completion of the Contract to the point of issue for catalogued material. <abbr title="Number">Non</abbr> catalogued stock (without <abbr title="North Atlantic Treaty Organization">NATO</abbr> Stock Numbers), will be directed through consultation between the Life Cycle Material Managers (LCMMs), technical authorities and Disposal, Sales, Artefacts &amp; Loans (DSAL).</li>
+<li value="4">The items must be packaged in accordance with best commercial standards to ensure safe arrival at destination. Items must be tagged with a <abbr title="Canadian Forces">CF</abbr> 942 tag identifying: 
+<ol type="a">
+<li value="1">description;</li>
+<li value="2">kit number;</li>
+<li value="3">quantity;</li>
+<li value="4">condition; and</li>
+<li value="5">Technical Inspector (name, signature, telephone number).</li>
+</ol>
+</li>
+<li value="5">Items not identified or packaged as required above and that are found to be unserviceable will be returned to the Contractor. The Contractor will be responsible for return shipping costs and associated labour costs involved.</li>
+<li value="6">Hazmat items must be clearly marked and made safe for redistribution in accordance with the <cite>Transport of Dangerous Goods Act</cite> and its regulations.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when bid financial security was required in the bid solicitation and the successful bidder must provide a security deposit as contract financial security.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   E0003T
+  
+  ,
+  
+   E0004T
+  
+  ,
+  
+   E0008T
+  
+  and
+  
+   E0008C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide the Contracting Authority with financial security within <var>_____</var> calendar days after the date of contract award. The financial security must be in the form of a security deposit as defined in clause E0008C in the amount of $<var>______</var> for the entire contract period, including any extension.</li>
+<li value="2">If, for any reason, Canada does not receive the security deposit in the amount set out above within the specified period, the Contractor will be in default. Canada may, at its discretion, retain the bid financial security and accept another bid, reject all bids or issue a new bid solicitation.</li>
+<li value="3">If the security deposit is in the form of government guaranteed bonds with coupons, all coupons that are unmatured at the time the security deposit is provided must be attached to the bonds. The Contractor must provide written instructions concerning the action to be taken with respect to coupons that will mature
+while the bonds are pledged as security, when such coupons are in excess of the security deposit requirement.</li>
+<li value="4">If the security deposit is in the form of a bill of exchange, Canada will deposit the bill of exchange in an open account in the Consolidated Revenue Fund. Bills of exchange that are deposited to the credit of the Consolidated Revenue Fund will bear simple interest, calculated on the basis of the rates which are in effect during the period the deposit is held.
+ 
+<br/>These rates are published monthly by the Department of Finance and are set to be equal to the average yield on 90-day Treasury Bills, less 1/8 of 1 percent. Interest will be paid annually or, when the security deposit is returned to the Contractor, if earlier. The Contractor may, however, request Canada to hold and not cash the bill of exchange, in which case no interest will become payable.</li>
+<li value="5">Canada may convert the security deposit to the use of Canada if any circumstance exists which would entitle Canada to terminate the Contract for default, but any such conversion will not constitute termination of the Contract.</li>
+<li value="6">When Canada so converts the security deposit:
+<ol type="a">
+<li value="1">the proceeds will be used by Canada to complete the Work according to the conditions of the Contract, to the nearest extent that it is feasible to do so and any balance left will be returned to the Contractor on completion of the warranty period; and</li>
+<li value="2">if Canada enters into a contract to have the Work completed, the Contractor will:
+<ol type="i">
+<li value="1">be considered to have irrevocably abandoned the Work; and</li>
+<li value="2">remain liable for the excess cost of completing the Work if the amount of the security deposit is not sufficient for such purpose. <dfn>"Excess cost"</dfn> means any amount over and above the amount of the Contract Price remaining unpaid together with the amount of the security deposit.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="7">If Canada does not convert the security deposit to the use of Canada before completion of the contract period, Canada will return the security deposit to the Contractor within a reasonable time after such date.</li>
+<li value="8">If Canada converts the security deposit for reasons other than bankruptcy, the financial security must be reestablished to the level of the amount stated above so that this amount is continued and available until completion of the contract period.</li>
+</ol>
+</div></pre>
+</div>

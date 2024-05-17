@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Access to the following Canada facilities, equipment, documentation 
+       and personnel may be required during the Contract period in order to 
+       perform the Work:
+
+       (a)    client's premises;
+       (b)    client's computer systems (micro computer network);
+       (c)    documentation;
+       (d)    personnel for consultation;
+       (e)    office space, telephones, desk space, manuals and terminals.
+
+2.     Canada's facilities, equipment, documentation and personnel are not 
+       automatically at the disposal of the Contractor.  The Contractor is 
+       responsible for timely identification of the need for access to the 
+       referenced facilities, equipment, documentation and personnel.
+
+3.     Subject to the approval of the Project Authority, arrangements will 
+   be made for the Contractor to access the required facilities, equipment, 
+   documentation and personnel at the client's convenience.
+</pre>
+</div>

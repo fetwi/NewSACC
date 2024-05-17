@@ -1,0 +1,72 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used in all solicitation and contract documents in 
+conjunction with clauses A0000C, A0000T, M0000C or M0000T, as appropriate.  
+Specify the applicable Standard Instructions and Conditions, General, and 
+Supplemental Conditions by DELETING those which do not apply.  Note that DSS-MAS 
+9403 and DSS-MAS 9403-5 - B. Conditions should not be indicated at the bid 
+solicitation stage or for Standing Offers.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>[**DELETE THOSE ITEMS THAT DO NOT APPLY, AS WELL AS THIS INSTRUCTION**]</strong>
+
+<strong>Standard Instructions and Conditions</strong>
+
+DSS-MAS 9403 (12/92) Standard Instructions and Conditions - B. Conditions
+
+DSS-MAS 9403-5 (12/92) Request for Proposal and Contract for Professional 
+and Research and Development Services - B. Conditions
+
+<strong>General Conditions</strong>
+
+DSS-MAS 1011A (04/92) United States Purchases
+
+DSS-MAS 1026A (04/92) Supplies - Firm Price
+
+DSS-MAS 1026B (04/92) Supplies - Cost Reimbursement
+
+DSS-MAS 1031-2 (06/91) Contract Cost Principles
+
+DSS-MAS 1034 (04/92) Construction - Fixed Price and Unit Price
+
+DSS-MAS 1053 (04/92) Universities and Other Institutions
+
+DSS-MAS 9076 (12/92) Services
+
+DSS-MAS 9224 (12/92) Research and Development
+
+DSS-MAS 9329 (06/91) Purchase of Commercially Available Off-the-shelf Goods 
+and Services
+
+DSS-MAS 9601 (12/92) General Conditions - Long Form
+
+DSS-MAS 9601-10 (12/92) General Conditions - Medium Form
+
+CCC50 (04/92) Canadian Commercial Corporation
+
+<strong>Supplemental General Conditions</strong>
+
+DSS-MAS 1028 (05/93) Ship Construction - Firm Price
+
+DSS-MAS 1029 (06/91) Ship Repairs
+
+DSS-MAS 1033 (06/91) Shipbuilding - Cost Reimbursement
+
+DSS-MAS 1035 (06/91) Subletting
+
+DSS-MAS 1036 (06/91) Research and Development
+
+DSS-MAS 9601-1 (12/92) Hardware Purchase or Lease
+
+DSS-MAS 9601-3 (12/92) Systems Integration
+
+DSS-MAS 9601-4 (12/92) Licensed Software
+
+DSS-MAS 9601-5 (12/92) Support Services for Licensed Software
+
+LAB-180 (06/91) Labour Conditions 
+LAB-180B (06/91) Labour Conditions
+
+
+</pre>
+</div>

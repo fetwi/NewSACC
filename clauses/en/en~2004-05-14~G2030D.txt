@@ -1,0 +1,54 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause whenever the risk exposures include operation of an 
+aircraft, operation of airport premises, products or services that are provided 
+and/or intended for flight related activities.
+
+Refer to G2035D for important additional endorsements that may apply to specific 
+contracting areas.
+
+If either the contracting officer or the client believe that the suggested 
+MINIMUM LIMIT of liability of $5,000,000 per accident or occurrence is not 
+sufficient, alternate limits may be established in consultation with the client 
+and the Risk Management and Insurance Advisor, Public Works and Government 
+Services Canada (NCR RMIAS-SCGRA@pwgsc.gc.ca).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Aviation Liability insurance shall be effected by the Contractor and 
+       maintained in force throughout the duration of the Contract in an 
+       amount usual for a contract of this nature, but, in any case, for a 
+       limit of liability NOT LESS THAN $5,000,000 per accident or 
+       occurrence and in the annual aggregate.
+
+2.     The policy must include the following endorsements:
+
+       (a)    Additional Insured:  Canada is included as an additional 
+              insured, but only with respect to liabilities that may arise 
+              from the Contractor's own negligence in the performance of 
+              the Contract.
+
+       (b)    Notice of Cancellation:  The Insurer agrees to provide the 
+              Contracting Authority thirty (30) days written notice of 
+              policy cancellation.
+
+       (c)    Cross Liability:  Without increasing the limit of liability, 
+              the policy shall protect all insured parties to the full 
+              extent of coverage provided.  Further, the policy shall apply 
+              to each Insured in the same manner and to the same extent as 
+              if a separate policy had been issued to each.  
+
+       (d)    Joint and Several Liability:  The policy shall respond to 
+              liability arising from the insured Contractor, any Insured, 
+              or joint negligence of Insured parties.
+
+       (e)    Contractual Liability:  The policy shall, on a blanket basis 
+              or by specific reference to this Contract, extend to assumed 
+              liabilities with respect to contractual insurance provisions.
+
+       (f)    Employees and Volunteers as Additional Insured:  All 
+              employees and volunteers, on behalf of the Contractor, shall 
+              be included as additional insured.
+
+
+</pre>
+</div>

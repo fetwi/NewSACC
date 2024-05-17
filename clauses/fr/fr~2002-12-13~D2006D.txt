@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause conjointement avec la clause B4003T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     <strong>EMBALLAGE DE BASE</strong> - norme commerciale
+
+2.     <strong>EMBALLAGE EN VRAC</strong> :
+
+       a)     numéro de nomenclature (code de produit);
+       b)     description d'article;
+       c)     unité de distribution;
+       d)     quantité;
+       e)     numéro de lot ou numéro du contrat;
+       f)     nom et adresse du destinataire;
+       g)     nom et adresse du fournisseur.
+
+3.     En outre, le marquage et la préparation en vue d'une expédition 
+       doivent être conforme à la norme 43-GP-103P, Emballage du papier 
+       d'impression et de bureau, de l'Office des normes générales du 
+       Canada.
+
+4.     L'omission de se conformer à la règle ci-dessus entraînera le renvoi 
+       de la marchandise pour qu'elle soit remballée et (ou) remaniée aux 
+       frais de l'entrepreneur.
+
+</pre>
+</div>

@@ -1,0 +1,65 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La clause suivante doit être utilisée dans tous les contrats attribués aux 
+entrepreneurs établis au Canada, lorsque ces contrats prévoient l'ajustement du 
+taux de change et le versement de paiements partiels.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.  Les prix indiqués en dollars canadiens comprennent un ou plusieurs 
+montant en monnaie étrangère applicables à des produits et des services 
+provenant de l'extérieur du Canada conformément aux données de la formule 
+DSS-MAS 9411, Réclamation d'ajustement du taux de change, qui fait partie 
+intégrante du présent Contrat.
+
+2.  Le montant en monnaie étrangère est défini comme l'élément du prix qui 
+est touché par la fluctuation du taux de change et comprend la valeur à 
+l'acquité (valeur en dollars canadiens du montant en monnaie étrangère 
+comprenant les droits de douane), plus la taxe sur les produits et services 
+et les taxes d'accise sur la valeur des biens importés, ainsi que les frais 
+de transport payables en monnaie étrangère.
+
+3.  Les montants en monnaie étrangère soumis à un ajustement concernant les 
+produits et les services achetés à l'extérieur du Canada, ou par 
+l'entremise d'agents canadiens autorisés, de même que les facteurs de 
+conversion appropriés sont énoncés en détail à la formule DSS-MAS 9411 qui 
+fait partie intégrante du présent Contrat.
+
+4.  Les prix seront ajustés en fonction de la fluctuation du taux de change 
+après la date d'entrée en vigueur indiqué dans le Contrat et seront fondé 
+sur le montant en monnaie étrangère indiqué à la formule DSS-MAS 9411.  Ces 
+ajustements seront calculés en fonction de la hausse ou de la baisse du 
+taux de change par rapport aux taux spécifiés à la formule.  Le calcul de 
+ces hausses ou de ces baisses est fondé sur le taux en vigueur au moment du 
+paiement des biens au fournisseur de l'Entrepreneur, à condition que le 
+paiement soit effectué dans les trente (30) jours civils suivant la date de 
+l'importation des biens.  Si le paiement n'est pas versé au fournisseur de 
+l'Entrepreneur dans un délai de trente (30) jours civils suivant la date de 
+l'importation, le Canada se réserve le droit de choisir le taux le plus 
+avantageux pour lui durant la période de trente(30) jours.
+
+5.  Le montant qui peut être rajusté correspond à la somme de : a) la 
+partie du montant en monnaie étrangère indiqué à la formule DSS-MAS 9411, 
+comprise dans la première demande d'acompte, multipliée par la différence 
+entre le taux de change en vigueur de la monnaie étrangère et le taux de 
+change de la monnaie étrangère indiqué à la formule; et b) tout autre 
+montant calculé de la même façon pour chaque demande suséquente d'acompte, 
+sous réserve qu'on cesse d'ajuster les prix dès que le montant total en 
+monnaie étrangère indiqué à la section C de la formule, est atteint.
+
+6.  Sur chaque  demande d'acompte présentée, l'Entrepreneur doit indiquer 
+la partie du montant en monnaie étrangère comprise dans la demande.  Si la 
+demande d'acompte vise une partie ou la totalité des biens effectivement 
+dédouanés au Canada et n'ayant pas déjà fait l'objet d'une demande 
+d'acompte, l'Entrepreneur doit indiquer les dates auxquelles les biens ont 
+été dédouanés et joindre une copie de la formule de déclaration 
+d'importation appropriée.  La demande de paiement doit également être 
+accompagnée d'une pièce justificative attestant, selon les exigences du 
+Ministre, que le Fournisseur de l'Entrepreneur a été payé.  L'Entrepreneur 
+doit également indiquer les taux de la monnaie étrangère en vigueur au 
+Canada aux dates indiquées dans la formule DSS-MAS 9411 de même que les 
+ajustements de prix qui en découlent.
+
+7.  Le Ministre se réserve le droit de vérifier toute révision de prix en 
+   vertu de la présente clause.
+</pre>
+</div>

@@ -1,0 +1,60 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all competitive bid solicitations in which the 
+Canadian Content policy is applicable (see Supply Manual) and where competition 
+is being conditionally limited to bids offering Canadian goods and/or services.  
+This clause is to be used for multi-item requirements that are being certified 
+on an individual item basis and where the bidder is to list in the clause those 
+items in its bid that are to be considered Canadian goods and/or Canadian 
+services.  This clause must be used in conjunction with clause K4000D - Canadian 
+Content Definition.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder represents and warrants that, of the goods and services being 
+offered to Canada, the following items are Canadian goods or Canadian 
+services as defined in clause K4000D - Canadian Content Definition:
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+_______________________________ 
+
+
+Items that include this representation and warranty will be given 
+preference over other bids, if there are three (3) or more bids with a 
+valid certification. 
+
+The Bidder acknowledges that the Minister relies upon such representation 
+and warranty to evaluate bids and may rely upon such representation and 
+warranty to enter into any contract resulting from this bid.  Such 
+representation and warranty of Canadian Content may be verified in such 
+manner as the Minister may reasonably require.
+
+Should a verification by the Minister disclose a breach of such covenant, 
+the Minister shall have the right to treat any contract resulting from this 
+bid as being in default.
+
+Failure to execute this representation and warranty on the signature block 
+immediately following this paragraph or to include it with the bid may 
+render the bid non-responsive.
+
+
+___________________ 
+Signature      
+
+___________________ 
+Date 
+
+</pre>
+</div>

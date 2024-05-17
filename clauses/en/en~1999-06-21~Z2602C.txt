@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in conjunction with clause
+  
+   Z1800C
+  
+  in all contracts 
+which provide for progress payments.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">If any lien under section 427 of the <cite>Bank Act</cite> exists in respect of any materials, parts,
+work-in-process or finished work for which the Contractor claims or
+intends to claim payment, the Contractor hereby agrees to inform
+Canadian Commercial Corporation (CCC) without delay, and the
+Contractor further agrees, unless otherwise instructed by <abbr title="Canadian Commercial Corporation">CCC</abbr>,
+either:
+<ol type="a">
+<li value="1">to cause the bank to remove such lien forthwith and
+to furnish <abbr title="Canadian Commercial Corporation">CCC</abbr> with written confirmation thereof from the bank;
+or</li>
+<li value="2">to furnish or cause to be furnished forthwith to <abbr title="Canadian Commercial Corporation">CCC</abbr>
+an undertaking from the bank to <abbr title="Canadian Commercial Corporation">CCC</abbr> that the bank will not make any
+claim under section 427 of the <cite>Bank Act</cite> upon
+materials, parts, work-in-process or finished work in respect of
+which payment is made to the Contractor under this Contract.</li>
+</ol>
+</li>
+<li value="2">Failure by the Contractor to inform <abbr title="Canadian Commercial Corporation">CCC</abbr> of any such
+lien or failure by the Contractor to implement paragraphs (a) or
+(b) above shall constitute default under the clause entitled
+"Default by Contractor" in the General Conditions of the Contract,
+entitling <abbr title="Canadian Commercial Corporation">CCC</abbr> to terminate the Contract.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,42 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to terminate the entire contract for convenience when a 
+claim may be expected from the contractor.
+
+Use Option 1 when the contract is subject to general conditions only.
+Use Option 2 when the contract is subject to supplemental general conditions 
+4001 or 4005.
+
+Contracting officers must seek advice from Legal Services before issuing a 
+notice of termination for convenience.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This is further to the Stop Work Order dated _________ (<span class="wsInlineRemark"><strong>delete this 
+paragraph if no Stop Work Order was sent by the Contracting Authority</strong></span>).
+
+<strong>Option 1</strong>
+In accordance with the unrestricted right of Canada to terminate the 
+Contract for convenience, the Contracting Authority notifies the Contractor 
+that the Contract is terminated pursuant to section ____ Termination for 
+Convenience, of general conditions ____.
+
+<strong>Option 2</strong>
+In accordance with the unrestricted right of Canada to terminate the 
+Contract for convenience, the Contracting Authority notifies the Contractor 
+that the Contract is terminated pursuant to section ____ Termination for 
+Convenience, of supplemental general conditions ____.
+
+The Contractor is requested to submit to the Contracting Authority, for 
+consideration, any claim that the Contractor may have as a result of this 
+termination.  The claim must be submitted on the prescribed departmental 
+termination claim forms, which can be obtained by submitting a written 
+request to the Contracting Authority.   Termination claims should be 
+prepared and submitted at the earliest possible time.  Allowable costs are 
+set out in the clause mentioned above.  The procedure for the termination 
+is set out in the <em>Procedures Manual on Termination of Contracts</em> to be 
+provided by the Contracting Authority.  The claim and all related 
+correspondence must be addressed to the Contracting Authority.
+
+
+
+</pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in non-competitive bid solicitations, for requirements 
+valued at $50,000 or more, submitted to Canadian universities, affiliated 
+institutions and colleges.  (For more information, refer to Supply Manual 
+procedures 10.090 to 10.098.)
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder certifies that the price proposed is based on costs computed in 
+accordance with the Public Works and Government Services Canada Supply 
+Manual procedures 10.090 to 10.098 (<strong class="wsStyleUnderline">http://www.pwgsc.gc.ca/acquisitions/
+text/sm/chapter10-e.html#researchuniversity</strong>) on the pricing of research and 
+development contracts with universities and colleges.
+
+</pre>
+</div>

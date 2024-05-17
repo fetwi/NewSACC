@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour des achats non concurrentiels de produits 
+pétroliers, évalués à plus de 50 000 $.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le soumissionnaire certifie par les présentes que le prix indiqué n'est pas 
+   supérieur au plus bas prix demandé à tout autre client, y compris au 
+   meilleur client du soumissionnaire, pour une qualité et une quantité 
+   semblables de produits, livrés au même moment, au même lieu et par des 
+   méthodes de livraison semblables. Le soumissionnaire certifie également 
+   que son profit n'est pas supérieur à celui réalisé normalement sur la 
+   vente de produits de qualité et de quantité semblables, livrés au même 
+   moment, au même lieu et par des méthodes de livraison semblables et que 
+   ce profit ne comprend aucune disposition prévoyant des remises à des 
+   vendeurs.
+</pre>
+</div>

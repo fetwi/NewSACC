@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Exécuter le travail (réparation et carénage) relatif à et pour (<strong><em class="wsStyleUnderline">
+       Insérer le nom du navire</em></strong>), conformément aux éléments suivants :
+
+       a)     liste de spécifications d'entretien et de réparation, numéro _____, 
+              datée du_____;
+
+       b)     spécifications supplémentaires, modifications et précisions 
+              présentées à l'occasion de la réunion des soumissionnaires et 
+              consignées dans le compte rendu de cette dernière;
+
+       c)     réponses écrites aux questions formulées par les 
+              soumissionnaires pendant la durée de la période de soumission.
+
+
+
+</pre>
+</div>

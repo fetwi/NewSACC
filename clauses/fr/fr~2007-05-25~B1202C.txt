@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour l'achat d'élastomères aérospatiaux au nom du ministère de la Défense nationale pour éviter de recevoir des matériaux dont la durée de conservation est expirée, ainsi que des matériaux incorrectement emballés.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit appliquer une mesure de contrôle de la durée utile des élastomères se détériorant avec le temps, tel que spécifié dans la norme des Forces canadiennes <cite>ITFC D-05-001-001/SF-000</cite> (se rapporte aux pratiques aérospatiales recommandées de la <em>Society of Automotive Engineering</em> pour le contrôle de la durée utile des élastomères). Cette mesure doit s'appliquer à tous les aéronefs, aux composants et accessoires d'aéronefs, ainsi qu'aux produits élastomères lorsque ceux-ci sont en contact avec du carburant, du liquide hydraulique, de l'huile, de l'alcool ou de l'oxygène, ou lorsqu'ils font partie intégrante de systèmes pneumatiques, de systèmes de refroidissement ou de tout autre type de système utilisant du liquide ou du gaz.</p>
+<p>Le Canada n'acceptera pas de produits qui ne sont pas conformes aux spécifications mentionnées plus haut.</p>
+</div></pre>
+</div>

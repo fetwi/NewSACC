@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez la clause suivante dans les contrats ayant trait à des services de 
+réparation et de révision.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Sur demande de l'autorité contractante ou de l'organisme de 
+       vérification désigné par l'autorité contractante, l'entrepreneur 
+       préparera et présentera, à l'autorité contractante ou à l'organisme 
+       de vérification, selon le cas, un état des coûts, une fois le 
+       contrat exécuté, ou chaque année dans le cas des contrats s'étalant 
+       sur plus d'un exercise financier de l'entrepreneur.  L'état des 
+       coûts devra prendre la forme d'un énoncé des coûts engagés par 
+       l'entrepreneur, regroupés selon la base de paiement, pour le travail 
+       réalisé conformément aux conditions du contrat. 
+
+2.     L'état des coûts devra être signé et certifié par l'agent financier 
+       supérieur de l'entrepreneur et renfermer une ventilation de tous les 
+       éléments de coûts applicables, par exemple :
+
+       a)     matières directes
+       b)     main-d'oeuvre directe; 
+       c)     frais directs;
+       d)     frais généraux;
+       e)     contrats de sous-traitance;
+       f)     frais d'administration;
+       g)     taxe sur les produits et services;
+       h)     taxe de vente harmonisée;
+       i)     redevances;
+       j)     frais de transport;
+       k)     bénéfice.
+
+3.     Pour chaque élément de coût, des renseignements justificatifs 
+       devront être fournis avec suffisamment de détails pour permettre 
+       l'exécution d'une vérification en profondeur.
+
+
+</pre>
+</div>

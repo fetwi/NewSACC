@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque les instructions 
+uniformisées 2003 et les conditions générales 2010 ou 2029 s'appliquent à un 
+besoin et que ce besoin doit être conforme à la version la plus récente du 
+dessin, de la spécification et du numéro de pièce. 
+
+Ne pas utiliser cette clause en conjonction avec les instructions et conditions 
+uniformisées 9403 ou 9403-6.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le matériel fourni doit être neuf et conforme à la plus récente version du 
+   dessin, de la spécification et/ou du numéro de pièce applicable, en 
+   vigueur à la date de clôture de la demande de soumissions.
+</pre>
+</div>

@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats accordés par l'administration 
+centrale ou les directions générales régionales du MAS, à des fournisseurs des 
+États-Unis, quand l'assurance de la qualité à l'origine est spécifiée à la 
+réquisition du MDN.  Ajouter la clause de documents de sortie D5602C.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les Travaux doivent être sujets à l'assurance de la qualité 
+gouvernementale.  Le Directeur général, Assurance de la qualité, Quartier 
+général de la Défense nationale, Ottawa (Ontario) K1A OK2, communiquera 
+officiellement à l'Entrepreneur le nom de l'organisme gourvenemental avec 
+lequel l'Entrepreneur devra prendre les dispositions nécessaires pour 
+l'assurance de la qualité.  Cet organisme sera habituellement celui qui 
+remplit ce rôle dans la région ou auprès de l'usine de l'Entrepreneur.
+
+Une preuve de l'assurance de la qualité gouvernementale est exigée sous 
+   forme de formules DD 250 dûment remplies. Une telle preuve est exigée 
+   par le MDN avant le paiement des factures.
+</pre>
+</div>

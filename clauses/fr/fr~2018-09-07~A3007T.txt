@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  La clause suivante est utilisée dans les demandes de soumissions pour l’achat de vêtements énumérés à l’annexe A de l’
+  
+   Avis relatif aux politiques 132
+  
+  . Elle exige que le soumissionnaire fournisse le nom, l’adresse et le pays des fabricants, des sous traitants et des fournisseurs utilisés dans le cadre de l’exécution du contrat. La présente clause informe également le soumissionnaire de la nécessité de divulguer le ou les pays d’origine. Fournir cette information dans les documents de soumission constitue une exigence obligatoire à respecter dans tout document de soumission ainsi qu’une condition préalable à l’attribution d’un contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Les articles seront fabriqués à :<span class="input-required"><var>________</var> (veuillez indiquer l’adresse complète de l’usine).</span></p> <p>Les services des fournisseurs et des sous-traitants suivants seront utilisés dans le cadre de l’exécution du contrat :</p> <ol type="a">
+<li>Nom et adresse des fournisseurs et des sous-traitants : <span class="input-required"><var>________</var> </span></li>
+<li>Les travaux seront effectués à l’endroit suivant : <span class="input-required"><var>________</var> (veuillez indiquer l’adresse complète si elle diffère de l’adresse indiquée au point a))</span></li>
+<li>Nature des travaux de sous-traitance :  <span class="input-required"><var>________</var></span></li>
+<li>Valeur du contrat de sous-traitance : <span class="input-required"><var>________</var> $ </span></li>
+</ol> <p>(saisissez les renseignements sur chaque fournisseur et chaque sous-traitant.)</p> <p>L’entrepreneur ne pourra recourir à aucun sous-traitant autre que ceux nommés ci-dessus sans l’autorisation écrite du Canada.</p> <p>Le soumissionnaire consent à ce que le Canada divulgue publiquement les renseignements fournis en lien avec les pays d’origine. </p></pre>
+</div>

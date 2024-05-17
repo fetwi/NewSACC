@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is currently estimated that the total cost of services that would be 
+called up by Her Majesty against the proposed Standing Offers could amount 
+to $_____.  It is therefore the Crown's intention to accept a series of 
+Regional Master Standing Offers totalling the above aggregate amount to 
+qualified temporary help suppliers in the Ottawa/Hull region.
+
+Average monthly resource day utilization for the period _____ to _____ were 
+as follow:
+
+Resource Days:
+
+CR-1
+CR-2
+CR-3
+CR-4
+CR-5
+CR-6
+CR-7
+DA-CON-A
+DA-CON-B
+DA-CON-C
+DA-CON-D
+DA-PRO-A
+DA-PRO-B
+DA-PRO-C
+DA-PRO-D
+ST-OCE-1
+ST-OCE-2
+ST-OCE-3
+ST-SCY-1
+ST-SCY-2
+ST-SCY-3
+ST-SCY-4
+ST-STN-1
+ST-STN-2
+ST-TYP-1
+ST-TYP-2
+CM-A
+CM-B
+
+Monthly Utilization (Dollars):
+
+
+
+Similar requirements are forecasted for the twelve month period ending on _____.
+
+</pre>
+</div>

@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions, dans la section portant sur la préparation des soumissions financières.
+ </p>
+<p>
+  Utiliser la clause 1 lorsque le soumissionnaire doit proposer des taux fermes pour toutes les catégories de ressources; ou la clause 2 lorsque le soumissionnaire doit proposer des taux fermes pour un ou plusieurs groupes de catégories de ressources. Supprimer la clause non utilisée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Clause 1</h2>
+Les soumissionnaires doivent proposer des taux fermes pour toutes les catégories de ressources énumérées dans l'(es) annexe(s) « <var>_______</var> ».
+</li>
+<li><strong>OU</strong>
+<br/>
+<h2>Clause 2</h2>
+Les soumissionnaires doivent proposer des taux fermes pour un ou plusieurs groupes de catégories de ressources. Les soumissionnaires doivent toutefois proposer des taux fermes pour toutes les catégories de ressources faisant partie du ou des groupes pour lequel ou lesquels ils proposent des taux. Les groupes de catégories de ressources sont les suivants :
+<ol type="a">
+<li value="1">Groupe A : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="2">Groupe B : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="3">Groupe C : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> »</li>
+<li value="4">Groupe D : Toutes les catégories de ressources
+énumérées à l'annexe « <var>____</var> ».</li>
+</ol>
+</li>
+</ul>
+</div></pre>
+</div>

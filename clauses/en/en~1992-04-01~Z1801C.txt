@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts when the U.S. contract is on a cost 
+reimbursement basis.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor shall not be in default by reason of any failure
+in performance of this Contract in accordance with its terms
+(including any failure by the Contractor to make progress in the
+prosecution of the Work hereunder which endangers such performance)
+if such failure arises out of causes beyond the control and without
+the fault or negligence of the Contractor; such causes include, but
+are not restricted to: acts of God or of the public enemy; acts of
+the government; fires, floods; epidemics; quarantine restrictions;
+strikes; freight embargoes; unusually severe weather; and failure
+of subcontractors to perform or make progress due to such causes,
+unless <abbr title="Canadian Commercial Corporation">CCC</abbr> shall have determined that the supplies or services to
+be furnished under the subcontract were obtainable from other
+sources and shall have ordered the Contractor in writing to procure
+such services or supplies from such other sources, and the
+Contractor shall have failed reasonably to comply with such order.
+Upon the Contractor's request, <abbr title="Canadian Commercial Corporation">CCC</abbr> shall ascertain the facts and
+extent of such failure and, if it shall determine that such failure
+was occasioned by any one or more of the said causes, the delivery
+schedule shall be revised accordingly, subject to the rights of <abbr title="Canadian Commercial Corporation">CCC</abbr>
+under the clause hereof entitled "Termination".</p>
+<p>Any dispute that may arise under the provisions of this clause
+shall be determined as provided in the clause hereof entitled
+"Disputes".</p>
+</div></pre>
+</div>

@@ -1,0 +1,775 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9224   00     Research and Development</strong>
+<strong>04/92</strong>
+
+Supply and Services Canada   
+
+01  Interpretation
+02  Powers of Minister
+03  Status of the Contractor
+04  Entire Agreement
+05  Replacement of Personnel
+06  Access to Work
+07  Inspection
+08  Warranty by Contractor
+09  Security and Protection of Work
+10  Representations
+11  Subcontracts
+12  Title
+13  Ownership of Technical Documentation and Prototypes
+14  Ownership of Inventions and Technical Information
+15  Further Assurances
+16  Liens
+17  Crown Property
+18  Timeliness
+19  Patent, Industrial Design and Copyright Claims
+20  Indemnity against Third Party Claims
+21  Termination, Suspension, Change
+22  Default
+23  Amendments
+24  Assignment
+25  Authorities
+26  Accounts
+27  Audit
+28  Changes to Taxes and Duties
+29  Notices 
+
+
+
+
+<strong>9224   01     Interpretation</strong>
+<strong>06/91</strong>
+
+(1) In the Contract, unless the context otherwise requires,       
+
+       (a) "the Agreement" means the document, signed by the parties, that 
+       refers to these General Conditions;
+
+       (b) "the Contract" means the Agreement, these General Conditions and 
+       every other document referred to in the Agreement as forming part of 
+       the Contract;
+
+       (c) "Contractor" is the party to the Contract which undertakes, by 
+       entering into the Contract, to perform the Work;
+
+       (d) "Contract Price" means the amount expressed in the Contract to 
+       be payable to the Contractor for the Work;
+
+       (e) "Cost" means cost determined by the Minister in accordance with 
+       Contract Cost Principles DSS-MAS 1031-2 as revised to the date of 
+       the Contract, subject to any modification thereof in the Agreement;
+
+       (f) "Crown Property" means            
+
+              (i) everything furnished to the Contractor by or on behalf of 
+              Her Majesty for the purpose of performance of the Contract, 
+              including Technical Information; and            
+
+              (ii) everything produced or acquired by the Contractor in any 
+              manner in connection with the Work, the cost of which is paid 
+              by Her Majesty under the Contract;
+
+       (g) "Deliverables" means any Technical Documentation, Technical 
+       Information, Prototypes, things or services expressly required to be 
+       furnished or rendered by the Contractor in order to carry out its 
+       obligations under the Contract;
+
+       (h) "Her Majesty", "the Crown", "the Government" all mean Her 
+       Majesty the Queen in right of Canada;
+
+       (i) "herein", "hereby", "hereof", "hereunder" and similar 
+       expressions, when used in any section, shall be understood to relate 
+       to the Contract as a whole and not merely to the section in which 
+       they appear;
+
+       (j) "Invention" means any new and useful art, process, methodology, 
+       technique, machine, manufacture or composition of matter, or any new 
+       and useful improvement thereof, whether or not patentable;
+
+       (k) "Minister" means the Minister of Supply and Services and 
+       includes his Deputy Minister and any Assistant Deputy Minister and 
+       any duly authorized representative of the Minister;
+
+       (l) "Prototypes" means prototypes, models, patterns and samples;
+
+       (m) "Science Procurement Officer" means the representative of the 
+       Director of the Science Branch, Science and Professional Services 
+       Directorate, Department of Supply and Services, duly authorized by 
+       the Director to perform the functions and duties assigned by the 
+       Contract to the Science Procurement Officer, and includes "Science 
+       Contracting Officers" and "Senior Science Procurement Officers";
+
+       (n) "Scientific Authority" means the person designated as such in 
+       the Contract to act as the representative of the Minister or 
+       Ministers for whose Department or agency the Work is being performed, 
+       or his duly authorized representative;
+
+       (o) "Subcontractor" means an individual (other than an employee of 
+       the Contractor), firm or corporation having, as a result of the 
+       Contract, a contract with the Contractor for the Work or a part 
+       thereof, and includes a subcontractor of a subcontractor;
+
+       (p) "Technical Documentation" means any and all recorded information 
+       of a scientific or technical nature relating to the Work, and 
+       includes all designs, technical reports, photographs, drawings, 
+       plans, specifications, and computer software, whether susceptible to 
+       copyright or not;
+
+       (q) "Technical Information" means any and all information of a 
+       scientific or technical nature relating to the Work, including 
+       experimental and test data, techniques, methods, processes, know-how, 
+       inventions, magnetic tape, computer memory printouts or data 
+       retained in computer memory, and any other technical data in 
+       whatever form presented and whether or not susceptible to copyright;
+
+       (r) "Work" means any or all of the activities and services required 
+       to be provided or performed by the Contractor in order to carry out 
+       its obligations under the Contract, including the supply of 
+       Deliverables and the research and development and related scientific 
+       activities described in the Work Statement set out in the Agreement.  
+
+(2) In the event of any inconsistencies, the provisions of the Agreement 
+shall prevail over these General Conditions.  
+<strong>9224   02     Powers of the Minister</strong>
+<strong>06/91</strong>
+
+Every right or power of the Minister under the Contract or otherwise shall 
+be cumulative and non-exclusive.  
+
+<strong>9224   03     Status of the Contractor</strong>
+<strong>06/91</strong>
+
+This is a contract for research and development and related scientific 
+activities and for the performance of the Work. The Contractor is engaged 
+as an independent contractor for the sole purpose of performing the Work. 
+Neither the Contractor nor any of its personnel is engaged as an employee, 
+servant or agent of Her Majesty. The Contractor agrees to be solely 
+responsible for any and all deductions and remittances required to be made 
+including those required for Canada or Quebec Pension Plans, Unemployment 
+Insurance, Workmen's Compensation, or Income Tax. 
+
+<strong>9224   04     Entire Agreement</strong>
+<strong>06/91</strong>
+
+The Contract constitutes the entire Agreement between the parties with 
+respect to the subject matter of the Contract and supersedes all previous 
+negotiations, communications and other agreements, whether written or oral, 
+relating to it, unless they are incorporated by reference in the Contract. 
+There are no terms, obligations, covenants, representations, statements or 
+conditions other than those contained herein. 
+
+<strong>9224   05     Replacement of Personnel</strong>
+<strong>06/91</strong>
+
+(1) The Contractor shall provide the services of the personnel named in the 
+Contract to perform the Work, unless the Contractor is unable to do so for 
+reasons which are beyond its control.  
+
+(2) Should the Contractor at any time be unable to provide their services, 
+it shall be responsible for providing replacement persons who shall be of 
+similar ability and attainment and who shall be acceptable to both the 
+Scientific Authority and Science Procurement Officer. At least thirty (30) 
+days, where possible, in advance of the date upon which replacement persons 
+are to commence work, the Contractor shall notify in writing both the 
+Scientific Authority and the Science Procurement Officer of:       
+
+       (a) the reason for the removal of the named personnel from the Work;
+
+       (b) the names of the proposed replacement persons; and       
+ 
+       (c) the qualifications and experience of the proposed replacement 
+       persons.  
+
+(3) In no event shall the Contractor allow performance of the Work by 
+unauthorized replacement persons.  
+
+(4) Acceptance of a replacement person by the Scientific Authority and the 
+Science Procurement Officer shall not relieve the Contractor from 
+responsibility for failure to meet the requirements of the Contract. 
+
+<strong>9224   06     Access to Work</strong>
+<strong>06/91</strong>
+
+(1) The Minister and the Scientific Authority shall have access at all 
+reasonable times to the Work and to the premises where any part of the Work 
+is being performed, and may make such examinations and tests of the Work as 
+the Minister or Scientific Authority may think fit. The Contractor shall 
+provide all assistance which the Minister or the Scientific Authority may 
+reasonably require for the performance of such examinations or tests of the 
+Work.  
+
+(2) The Contractor shall notify the Science Procurement Officer and the 
+Scientific Authority prior to the occurrence of any critical test, trials 
+or examinations of the Work required under the Contract, as to the specific 
+time and location of such test, trial or examination. 
+
+<strong>9224   07     Inspection</strong>
+<strong>06/91</strong>
+
+(1) All the Deliverables furnished or rendered under the Contract shall be 
+subject to inspection by the Scientific Authority prior to acceptance.  
+
+(2) Should a Deliverable or any portion thereof not be in accordance with 
+the requirements of the Contract, the Scientific Authority shall have the 
+right to reject it or require its correction. 
+
+(3) The Contractor shall adhere to the Scientific Authority's reasonable 
+interpretation of the Work statement set out in the Contract.  
+
+(4) Inspection or acceptance shall not relieve the Contractor from 
+responsibility for failure to meet the requirements of the Contract. 
+
+<strong>9224   08     Warranty by Contractor</strong>
+<strong>06/91</strong>
+
+(1) The Contractor warrants that it is competent to perform the Work and 
+that it has the necessary qualifications including knowledge and skill with 
+the ability to use them effectively in performing the Work.
+
+(2) The Contractor undertakes to perform the Work in a conscientious, 
+diligent and efficient manner and to provide a quality of service at least 
+equal to that which contractors generally would expect of a like contractor 
+in a like situation.  
+
+(3) Notwithstanding acceptance of the Deliverables or any part thereof, the 
+Contractor further warrants that the Deliverables shall be of such quality 
+as to clearly demonstrate that the Contractor has performed the Work in 
+accordance with the above undertaking.  
+
+(4) Notwithstanding prior acceptance of any Prototypes, and without 
+restricting any other term of the Contract or any condition, warranty or 
+provision implied or imposed by law, the Contractor, if requested by the 
+Minister to do so at any time within twelve (12) months from the date of 
+delivery, shall redo, correct or make good, at its own expense, any 
+Prototype, excluding Crown Property furnished by Her Majesty incorporated 
+therein, which fails to conform to the requirements of the Contract and 
+deliver such Prototype which has been redone, corrected or made good to the 
+Scientific Authority provided that where, in the opinion of the Minister, 
+it is not expedient to remove a Prototype which does not conform to the 
+requirements of the Contract from its location, the Contractor shall make 
+good the Prototype at such location, and shall be paid the actual Costs 
+incurred in so doing (including reasonable travelling and living expenses) 
+with no allowance thereon by way of overhead or profit, less a sum 
+equivalent to the Cost of making good the Prototype had it been made good 
+at the Contractor's plant.  
+
+(5) In the event that a warranty of a supplier to the Contractor is for a 
+time period less than the time period stated in subsection (4) above, then, 
+unless the Contractor advised the Science Procurement Officer and the 
+Scientific Authority in writing prior to acceptance, the above warranty 
+period shall apply. 
+
+<strong>9224   09     Security and Protection of Work</strong>
+<strong>04/92</strong>
+
+(1) The Contractor shall keep confidential all information provided to the 
+Contractor by or on behalf of Her Majesty in connection with the Work, and 
+all information developed by the Contractor as part of the Work, and shall 
+not disclose any such information to any person without the written 
+permission of the Minister, except that the Contractor may disclose to a 
+Subcontractor, authorized in accordance with this Contract, information 
+necessary to the performance of the subcontract.  This section does not 
+apply to any information that:    
+       (a)  is publicly available from a source other than the Contractor; 
+       or  
+
+       (b)  is or becomes known to the Contractor from a source other than 
+       Her Majesty, except any source that is known to the Contractor to be 
+       under an obligation to Her Majesty not to disclose the information.        
+
+(2) When the Contract, the Work, or any information referred to in 
+subsection (1) is identified as TOP SECRET, SECRET, CONFIDENTIAL or 
+PROTECTED by Her Majesty, the Contractor shall, at all times, take all 
+measures reasonably necessary for the safeguarding of the material so 
+identified, including those set out in the DSS Industrial Security Manual 
+and its supplements and any other instructions issued by the Minister.    
+
+(3) Without limiting the generality of subsections (1) and (2), when the 
+Contract, the Work, or any information referred to in subsection (1) is 
+identified as TOP SECRET, SECRET, CONFIDENTIAL or PROTECTED by Her Majesty, 
+the Minister shall be entitled to inspect the Contractor's premises and the 
+premises of a Subcontractor at any tier for security purposes at any time 
+during the term of the Contract, and the Contractor shall comply with, and 
+ensure that any such Subcontractor complies with, all written instructions 
+issued by the Minister dealing with the material so identified, including 
+any requirement that employees of the Contractor or of any such 
+Subcontractor execute and deliver declarations relating to reliability 
+screenings, security clearances and other procedures.  
+
+<strong>9224   10     Representations</strong>
+<strong>06/91</strong>
+
+(1) The Contractor shall comply with all labour conditions, and with all 
+health conditions and requirements, from time to time applicable to the 
+Work.  
+
+(2) The Contractor declares that the Contractor has no pecuniary interest 
+in the business of any third party that would cause a conflict of interest 
+or seem to cause a conflict of interest in carrying out the Work. Should 
+such an interest be acquired during the life of the Contract, the 
+Contractor shall declare it immediately to the Science Procurement Officer.  
+
+(3) The Contractor represents and warrants that:       
+
+       (a) no bribe, gift or other inducement has been paid, given, 
+       promised or offered to any person for, or with a view to, the 
+       obtaining of the Contract by the Contractor; and       
+
+       (b) it has not employed any person to solicit or secure the Contract 
+       upon any agreement for a commission, percentage, brokerage or 
+       contingent fee.  
+ 
+(4) No member of the House of Commons shall be admitted to any share or 
+part of the Contract or to any benefit to arise therefrom. 
+
+<strong>9224   11     Subcontracts</strong>
+<strong>06/91</strong>
+
+(1) The Contractor may subcontract the supply of standard products or 
+services which are customarily subcontracted by the Contractor; in any 
+other instance, the Contractor shall not subcontract portions of the Work 
+without the prior consent in writing of the Minister, and the Minister may 
+require the Contractor to furnish such particulars of the proposed 
+subcontract as he deems necessary.  
+
+(2) No subcontract shall relieve the Contractor from any of its obligations 
+under the Contract or impose any liability upon Her Majesty or the Minister 
+to a Subcontractor.  
+
+(3) In any subcontract, the Contractor agrees to bind the Subcontractor by 
+the same terms and conditions by which the Contractor is bound under the 
+Contract, unless the Minister requires or agrees otherwise. 
+
+<strong>9224   12     Title</strong>
+<strong>06/91</strong>
+
+Except as specified in section 14 herein, upon any payment being made to 
+the Contractor for or on account of materials, work in process, or finished 
+Deliverables, either by way of progress payments or accountable advances or 
+otherwise, title in and to all materials, work in process and finished 
+Deliverables so paid for shall vest and remain in Her Majesty and the 
+Contractor shall be responsible therefor in accordance with the provisions 
+of section 17 hereof. It is agreed that the vesting of title in Her Majesty 
+shall not constitute acceptance by Her Majesty of the materials, work in 
+process and finished Deliverables and shall not relieve the Contractor of 
+its obligations to perform the Work in conformity with the requirements of 
+the Contract. 
+
+<strong>9224   13     Ownership of Technical Documentation</strong>
+<strong>06/91  and Prototypes</strong>
+
+(1) Ownership of all Technical Documentation and Prototypes produced by the 
+Contractor in the performance of the Work under the Contract shall, at the 
+time of such production, vest and remain in Her Majesty, and the Contractor 
+shall account fully to the Minister in respect of the foregoing in such 
+manner as the Minister shall direct.  
+
+(2) All Technical Documentation shall contain the copyright symbol and the 
+following notice:       
+ 
+       HER MAJESTY THE QUEEN IN RIGHT OF CANADA (YEAR) AS  REPRESENTED BY 
+       THE MINISTER OF (INSERT THE NAME OF THE GOVERNMENT DEPARTMENT<strong><strong><strong> OR </strong></strong></strong>
+       AGENCY FOR WHICH THE WORK IS BEING PERFORMED). 
+
+<strong>9224   14     Ownership of Inventions and Technical</strong>
+<strong>06/91  Information</strong>
+
+(1) Ownership of all Technical Information and Inventions conceived or 
+developed or first actually reduced to practice in the performance of the 
+Work under the Contract shall, when conceived, developed or reduced to 
+practice, vest and remain in Her Majesty. Unless otherwise specified in the 
+Contract, the Contractor shall not at any time divulge nor use such 
+Technical Information and Inventions, other than in performing the Work 
+under the Contract, and shall not sell, other than to Her Majesty, any 
+Technical Documentation, articles or things containing or embodying such 
+Technical Information and Inventions.  
+
+(2) The Contractor agrees to
+
+       (a) establish and maintain active and effective procedures, 
+       including the maintenance of records reasonably necessary to  
+       document the conception and the development of Inventions, to ensure 
+       that any and all Inventions arising during the course of the Work 
+       are properly identified and timely disclosed to Her Majesty; and     
+
+       (b) forward immediately and without delay, in writing, all 
+       disclosures of Inventions and Technical Information to the Science 
+       Procurement Officer in a form satisfactory to the Science 
+       Procurement Officer.  
+
+(3) Before or after final payment hereunder, the Minister shall have the 
+right to examine all books, records, documents and other supporting data of 
+the Contractor which the Minister reasonably deems pertinent to the 
+discovery or identification of Inventions and Technical Information arising 
+in the course of Work performed under the Contract or to the determination 
+of compliance with the requirements of the Contract.  
+
+(4) The Contractor shall, at Her Majesty's expense, afford the Minister and 
+the Scientific Authority all reasonable assistance in the prosecution of 
+any patent application or copyright registration which either of them may 
+undertake with respect to the Work, including access to the inventor in the 
+case of Inventions.  
+
+(5) The Contractor shall, upon the written request of the Minister, furnish 
+all related logistic support and life cycle support data relating to the 
+Work, including lists of suppliers, vendor part numbers, and related 
+drawings, and shall exercise its best efforts to do so at no extra cost to 
+Her Majesty.  
+<strong>9224   15     Further Assurances</strong>
+<strong>06/91</strong>
+
+Where copyright or title to an Invention or any other thing or information 
+vests in Her Majesty under the Contract, the Contractor shall execute such 
+conveyances and other documents relating to copyright or title as the 
+Minister may require.  
+
+<strong>9224   16     Liens</strong>
+<strong>06/91</strong>
+
+(1) If any lien under section 178 of the Bank Act or any other lien, charge 
+or encumbrance exists in respect of any materials, work in process or 
+finished Deliverables for which the Contractor claims or intends to claim 
+payment, the Contractor agrees to inform the Minister without delay and 
+agrees, unless otherwise instructed by the Minister, either:       
+
+       (a) to cause the bank to remove such lien forthwith and to furnish 
+       the Minister with written confirmation thereof from the bank; or      
+
+       (b) to furnish or cause to be furnished forthwith to the Minister an 
+       undertaking from the bank to the Minister that the bank will not 
+       make any claim under section 178 of the Bank Act upon the materials, 
+       work in process or finished Deliverables in respect of which payment 
+       is made to the Contractor under the Contract.  
+
+(2) Failure to inform the Minister of any such lien or failure to implement 
+paragraphs (a) and (b) above shall constitute default on the part of the 
+Contractor. 
+
+<strong>9224   17     Crown Property</strong>
+<strong>06/91</strong>
+
+(1) All Crown Property shall be used by the Contractor solely for the 
+purposes of the Contract, and title thereto shall be and always remain 
+vested in Her Majesty.  
+
+(2) As evidence of Her Majesty's title, the Contractor shall, upon 
+acquisition and where feasible, mark all items of Crown Property (other 
+than items furnished by Her Majesty or installed or incorporated in the 
+Deliverables) with the Contract serial number. 
+
+(3) Except for loss or damage resulting from ordinary wear and tear, the 
+Contractor shall return, upon demand, all Crown Property (other than items 
+installed or incorporated in the Deliverables) in the same condition as 
+when furnished to or produced or acquired by the Contractor.  
+
+(4) At the time of completion of the Contract, the Contractor shall provide 
+an inventory of all Crown Property relating to the Contract to both the 
+Science Procurement Officer and the Scientific Authority. 
+
+<strong>9224   18     Timeliness</strong>
+<strong>06/91</strong>
+
+(1) Time is of the essence of the Contract.  
+
+(2) Any delay by the Contractor in performing its obligations under the 
+Contract which is caused by an event beyond the control of the Contractor, 
+and which could not have been circumvented by the Contractor without 
+incurring unreasonable cost, through the use of alternative sources, 
+work-around plans, or other means, constitutes an excusable delay. Events 
+may include but are not restricted to acts of God, acts of Her Majesty, 
+acts of local or provincial governments, fires, floods, epidemics, 
+quarantine restrictions, strikes or labour unrest, freight embargoes and 
+unusually severe weather.  
+
+(3) The time for completing the Work which has been or is likely to be 
+delayed by reason of an excusable delay shall be extended by a period equal 
+to the length of the excusable delay, provided that the Contractor shall 
+give notice, in writing, of any excusable delay to the Minister within two 
+(2) weeks of the start of the excusable delay. The notice shall contain a 
+description of the delay and of the portion of the Work affected by the 
+delay.  
+
+(4) Within two (2) weeks from the date of the giving of notice of excusable 
+delay, the Contractor shall deliver a description, in writing, of its 
+work-around plans including alternative sources and any other means that it 
+will utilize to overcome the delay and endeavour to prevent any further 
+delay. The description shall be in form, substance and detail satisfactory 
+to the Minister.  
+
+(5) If the Contractor should not give the notice of excusable delay, or 
+should not deliver its work-around plans in accordance with the times 
+stipulated in this section, any delay shall not constitute an excusable 
+delay.  
+
+(6) The Contractor shall implement such work-around plans only where the 
+plans will not cause any additional Cost to Her Majesty. In the event the 
+implementation of such work-around plans will cause additional Cost to Her 
+Majesty, it may be authorized by a change to the Contract. 
+
+<strong>9224   19     Patent, Industrial Design and Copyright</strong>
+<strong>06/91  Claims</strong>
+
+(1) The Contractor shall indemnify Her Majesty against all costs, charges 
+and expenses whatsoever, including legal costs or fees, that Her Majesty 
+sustains or incurs in or about all claims, actions, suits and proceedings 
+for the infringement or alleged infringement of any patent, registered 
+industrial design or copyright based upon the use of any Invention in 
+connection with the performance of its obligations under the Contract or 
+for the use of or disposal by Her Majesty of anything furnished pursuant to 
+the Contract.  
+
+(2) Upon notice in writing from the Minister that any such claim, action, 
+suit or proceeding has been made, the Contractor shall, at its own expense, 
+provide the necessary assistance to Her Majesty to settle or litigate the 
+same.  
+
+(3) Her Majesty shall indemnify the Contractor against claims, actions or 
+proceedings for the payment of royalties in respect of any model, plan, 
+design or specification supplied by or on behalf of Her Majesty to the 
+Contractor, but this indemnity shall apply only to the Contract.  
+
+(4) The Contractor shall notify the Minister of all royalties which the 
+Contractor or any of its Subcontractors will or may be obligated to pay or 
+proposes to pay for or in respect of the carrying out of the Contract, and 
+the basis thereof, and the parties to whom the same are payable, and shall 
+promptly advise the Minister of any and all claims or arrangements made or 
+proposed which would or might result in further or different payments by 
+way of royalties being made by the Contractor or any of its Subcontractors.  
+
+(5) If and to the extent that the Minister so directs, the Contractor shall 
+not pay, and shall direct its Subcontractors not to pay any royalties in 
+respect of the carrying out of the Contract.  
+
+(6) From and after the giving of any such direction, and subject to 
+compliance by the Contractor with the foregoing provisions, Her Majesty 
+shall relieve and indemnify the Contractor from and against all claims, 
+actions or proceedings for payment of such royalties as are covered by such 
+direction.  
+
+(7) The Contract Price shall be reduced by the amount of the royalties 
+included therein to which the indemnity provided in paragraph (6) above 
+applies. 
+
+<strong>9224   20     Indemnity Against Third Party Claims</strong>
+<strong>06/91</strong>
+
+Except as otherwise provided in the Contract, the Contractor shall 
+indemnify and save harmless Her Majesty and the Minister from and against 
+any and all claims, damages, loss, costs and expenses which they or either 
+of them may at any time incur or suffer as a result of or arising out of,       
+
+       (a) any injury to persons (including injuries resulting in death) or 
+       loss of or damage to property of others which may be or be alleged 
+       to be caused by or suffered as a result of the performance of the 
+       Work or any part thereof, except to the extent caused by or due to 
+       Her Majesty; and        
+       (b) any liens, attachments, charges or other encumbrances or claims 
+       upon or in respect of any materials, work in process or finished 
+       Deliverables furnished to, or in respect of which any payment has 
+       been made by, Her Majesty. 
+
+<strong>9224   21     Termination, Suspension, Change</strong>
+<strong>06/91</strong>
+
+(1) The Minister may, by giving notice to the Contractor, terminate or 
+suspend the Contract as regards all or any part of the Work, or change the 
+scope of the Work or any portion of the Work. The Contractor shall 
+immediately comply with the requirements of any such notice and, in so 
+doing, take every reasonable action that will minimize the Cost of 
+performing the Contract and complying with the notice.  
+
+(2) When, as a result of a notice mentioned in subsection (1):      
+
+       (a) any suspension or change in the scope of the Work results in an 
+       increase or decrease in the Cost directly related to the performance 
+       of the Contract, the Price of the Contract shall be adjusted by the 
+       amount of such increase or decrease in Cost; or       
+
+       (b) the Work or any portion of the Work is terminated, the 
+       Contractor shall be paid for all finished Deliverables delivered and 
+       accepted, and for all materials or work in process delivered and 
+       acceptable to Her Majesty, such actual Costs to the Contractor which 
+       the Minister considers reasonable in terms of the Contract, plus the 
+       proportional part of any fee applicable thereto, and any other Cost 
+       directly and necessarily incurred as a result of the termination; 
+       but in no event shall the aggregate of the price paid to date and 
+       any amounts payable pursuant to this paragraph exceed the total 
+       Contract Price. 
+
+<strong>9224   22     Default</strong>
+<strong>06/91</strong>
+
+(1) The Minister may, by written notice of default given to the Contractor, 
+terminate the whole or any part of the Contract if, 
+
+       (a) the Contractor becomes bankrupt or insolvent, or has a receiving 
+       order made against it, or makes an assignment for the benefit of 
+       creditors, or if an order is made or resolution passed for the 
+       winding up of the Contractor, or if the Contractor takes the benefit 
+       of any statute for the time being in force relating to bankrupt or 
+       insolvent debtors; or       
+
+       (b) the Contractor fails, in the opinion of the Minister, to perform 
+       any of its obligations under the Contract, or so fails to make 
+       progress as to endanger performance of the Contract in accordance 
+       with its terms.  
+
+(2) Where the Minister terminates the Contract in whole or in part under 
+the provisions of this section, Her Majesty may obtain, upon such terms and 
+conditions and in such manner as Her Majesty deems appropriate, work 
+similar to that so terminated, and the Contractor shall be liable to Her 
+Majesty for all loss and damage sustained by Her Majesty as a result of 
+such termination, including any excess costs for procuring such similar 
+work at reasonable terms.  
+
+(3) Upon termination of the Contract under this section, the Minister may 
+require the Contractor to deliver and transfer title to Her Majesty, in the 
+manner and to the extent directed by the Minister, any finished 
+Deliverables which have not been delivered and accepted prior to such 
+termination and any materials or work in process which the Contractor has 
+specifically acquired or produced for the fulfilment of the Contract.  
+
+(4) Her Majesty shall pay the Contractor       
+
+       (a) for all Deliverables delivered pursuant to such direction and 
+       accepted by Her Majesty, the Cost to the Contractor in accordance 
+       with the terms of the Contract plus the proportionate part of any 
+       fee applicable thereto; and       
+
+       (b) for all materials or work in process delivered to Her Majesty 
+       pursuant to such direction, the actual Costs of the Contractor which 
+       the Minister considers reasonable.  
+
+(5) Her Majesty may withhold from the amounts due to the Contractor such 
+sums as the Minister determines to be necessary to protect Her Majesty 
+against excess costs for obtaining similar work. 
+
+(6) If, after notice of termination of the Contract under the provisions of 
+this section, it is determined or agreed by the Minister that the default 
+of the Contractor is due to causes beyond the control of the Contractor, 
+such notice of termination shall be deemed to have been issued pursuant to 
+section 21 and the rights and obligations of the parties hereto shall be 
+governed by that section. 
+
+<strong>9224   23     Amendments</strong>
+<strong>06/91</strong>
+
+No variation, modification, change or amendment of the Contract nor waiver 
+of any of the terms and provisions hereof shall be deemed valid, unless 
+effected by a written amendment to the Contract executed by both parties to 
+the Contract. 
+ 
+<strong>9224   24     Assignment</strong>
+<strong>06/91</strong>
+
+(1) The Contract shall not be assigned in whole or in part by the 
+Contractor without the prior consent, in writing, of the Minister, and any 
+assignment made without that consent is void and of no effect. 
+
+(2) No assignment of the Contract shall relieve the Contractor from any 
+obligation under the Contract or impose any liability upon Her Majesty or 
+to the Minister.  
+
+(3) In any assignment, the Contractor agrees to bind the assignee by the 
+same terms and conditions by which the Contractor is bound under the 
+Contract, unless the Minister requires otherwise.  
+
+(4) The Contract shall inure to the benefit of and be binding upon the 
+parties hereto and their executors, administrators and successors. 
+
+<strong>9224   25     Authorities</strong>
+<strong>06/91</strong>
+
+(1) The Scientific Authority or his duly authorized representative monitors 
+and inspects the technical performance of the Work and inspects the 
+Deliverables.  
+
+(2) The Science Procurement Officer is responsible for the management of 
+the Contract and any changes to the Contract must be authorized by a formal 
+contract amendment issued by the Science Procurement Officer. The 
+Contractor is not to perform work in excess of or outside the scope of the 
+Statement of Work and the requirements set out in the Agreement based on 
+verbal or written requests or instructions from any government personnel. 
+
+<strong>9224   26     Accounts</strong>
+<strong>06/91</strong>
+
+The Contractor shall,       
+
+       (a) keep accounts and records of the Cost of performing the Contract, 
+       and keep all documents relating to such Cost and, unless it obtains 
+       the prior written consent of the Minister to otherwise dispose of 
+       such accounts, records and documents, preserve them for a period of 
+       six (6) years after the end of the calendar year in which the 
+       Contract was completed or terminated; and   
+
+       (b) on demand, make available to the Minister every account, record 
+       or document mentioned in paragraph (a) that may be required by him 
+       and permit the Minister to examine, audit and take copies and 
+       extracts from such accounts, records or documents. 
+ 
+<strong>9224   27     Audit</strong>
+<strong>06/91</strong>
+
+(1) The amount claimed under the Contract shall be subject to audit by the 
+Minister before or after payment has been made to the Contractor under the 
+terms and conditions of the Contract.  
+
+(2) The Minister may make copies of accounts, records, invoices, receipts 
+and vouchers required to be kept under section 26 and take extracts 
+therefrom, and the Contractor shall afford all facilities for such audits 
+and inspections and shall furnish the Minister with all such information as 
+he may from time to time require. Any payments made pending completion of 
+the audit shall be regarded as interim payments only and shall be adjusted 
+to the extent necessary to reflect the results of the said audit. If there 
+has been any overpayment, it shall be promptly refunded to Her Majesty.  
+
+(3) Upon completion of all Work under the Contract, the Contractor shall, 
+if required by the Minister, prepare and forward a cost submission in 
+relation to the Contract. The cost submission shall be signed and certified 
+by a senior financial officer of the Contractor and shall contain a 
+breakdown of applicable cost elements such as materials, subcontracts, 
+direct charges, labour and overheads. 
+
+<strong>9224   28     Changes to Taxes and Duties</strong>
+<strong>06/91</strong>
+
+Where there is a change in a rate of tax or duty imposed under any federal 
+legislation, after the date of entry into the Contract, which affects the 
+cost to the Contractor of the Work, the Contract Price shall be adjusted by 
+the Minister to reflect the increase or decrease in the Cost.  
+
+<strong>9224   29     Notices</strong>
+<strong>06/91</strong>
+
+(1) Where in the Contract, any notice is required to be given, it may be 
+sent by registered mail, by telegram or other electronic message such as 
+telex, TWX or facsimile which provides a hard copy, postage or charges 
+prepaid, addressed to the party for whom it is intended at the address 
+mentioned in the Contract, and if no address is mentioned in the Contract,       
+
+       (a) in the case of the Contractor, addressed to his latest known 
+       address, as stated in the Agreement; or       
+
+       (b) in the case of the Minister, addressed to the Science 
+       Procurement Officer at: 
+
+                     Science Branch 
+                     Department of Supply and Services 
+                     Place du Portage  
+                     11 Laurier Street
+                     Hull, Quebec 
+                     K1A 0S5  
+
+and, any notice shall be deemed to have been given at the time when, in the 
+ordinary course, such letter, telegram or electronic message should have 
+reached its destination. 
+
+(2) The above names and addresses may be changed from time to time by 
+written notice of change of name and address to the other party. 
+
+</pre>
+</div>

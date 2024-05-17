@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>You shall provide the services of: _____ to perform  the work required 
+under the Contract.  Should you, at any time, be unable to provide their 
+services, you are to advise the Worksite Authority immediately, in writing, 
+and provide:
+
+       a) the reason for the removal of your employee(s) from the work;
+
+       b) the name(s) of the proposed replacement(s);
+
+       c) sufficient detail outlining the qualifications and experience of 
+       the proposed replacement to justify their competence.
+
+Such notice shall be given at least five (5) days in advance of the date 
+upon which the replacement is to commence work, except for reasons beyond 
+the control of the Contractor. 
+
+ The Crown may terminate the Contract for default as a result of the 
+Contractor's failure to comply with any of these provisions.
+
+The Contractor warrants that it has and shall maintain on staff, a 
+   sufficient number of individuals who possess the necessary capabilities 
+   to perform the work in accordance with the Contract. 
+</pre>
+</div>

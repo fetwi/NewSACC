@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tout document d'invitation à soumissionner dans 
+lequel il est question de produire des «marchandises contrôlées» ou d'y avoir 
+accès.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent marché exige la production de «marchandises contrôlées» ou 
+l'accès à des «marchandises contrôlées» en cours de production, qui sont 
+visées par le Programme d'inscription pour les marchandises contrôlées 
+(PIMC).  Le soumissionnaire est avisé par la présente que, en vertu de la <em>
+Loi sur la production de défense</em>, l'accès à ces «marchandises contrôlées» 
+sera accordé seulement aux entreprises inscrites au PIMC ou exclues de 
+celui-ci. Pour de l'information sur la façon de s'inscrire au Programme, 
+consulter l'adresse suivante :
+http://mmsd1.mms.nrcan.gc.ca/cgrp/text/toc-f.asp
+
+
+
+</pre>
+</div>

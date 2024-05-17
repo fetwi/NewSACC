@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in contracts for the Department of National Defence (DND) when a system or equipment is newly introduced in the Canadian Forces Supply System, and when publications must be provided in accordance with
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  specifications and standards.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must provide publications in accordance with the following specifications and standards:
+<ol type="a">
+<li value="1"><strong>Format:</strong> The latest issue of C-01-100-100/AG-005, Specification Acceptance of Commercial and Foreign Government Publications as Adopted Publications.<br/>
+The latest issue of C-01-100-100/AG-006, Specification Writing, Format and Production of Technical Publications.</li>
+<li value="2"><strong>Procurement:</strong> The latest issue of D-01-000-100/SF-000, Specification for Procurement of Publishing Services and Published Works.</li>
+<li value="3"><strong>Packaging:</strong> The latest issue of D-LM-008-022/SG-000, Standard of Packaging for Documentation.</li>
+<li value="4"><strong>Policy and procedures:</strong> The latest issue of A-AD-100-100/AG-000, National Defence Publishing Policy and Administration Procedures.</li>
+<li value="5"><strong>Technical content:</strong> The technical content must meet the requirements of the latest issue of the following specifications:
+<br/>D-01-100-200/SF-000 - Preparation of Equipment Data Summaries; <br/>
+      D-01-100-202/SF-000 - Preparation of Equipment Descriptions; <br/>
+      D-01-100-203/SF-000 - Preparation of Operating Instructions; <br/>
+      D-01-100-204/SF-000 - Preparation of Preventative Maintenance Instructions; <br/>
+      D-01-100-205/SF-000 - Preparation of Corrective Maintenance Instructions; <br/>
+      D-01-100-207/SF-000 - Preparation of Parts Identification Lists.</li>
+<li value="6"><strong>Quality assurance:</strong> The Contractor must conform to the Quality Assurance Program detailed in the latest issue of C-01-100-100/AG-006.</li></ol></li>
+<li value="2">Upon request from the Contractor, the specification will be provided by the Contracting Authority.</li>
+</ol>
+</div></pre>
+</div>

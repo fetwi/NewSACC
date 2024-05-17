@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Il est important de définir et d'évaluer les risques que comportent les travaux 
+exécutés en vertu d'un contrat afin de faire en sorte que l'entrepreneur soit 
+suffisamment assuré et que les intérêts du Canada soient protégés. On conseille 
+aux agents des achats de consulter la politique du Conseil du Trésor sur la 
+gestion des risques, chapitre 2-1, volume - Matériel, risques et services 
+communs, Manuel de la gestion de l'information et gestion administrative, afin 
+de déterminer, de concert avec leurs clients : 1) si l'option 
+d'auto-souscription du Canada s'applique, 2) si l'entrepreneur est responsable 
+des risques, et 3) si une assurance commerciale est nécessaire.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Il appartient à l'entrepreneur de déterminer s'il doit contracter 
+       une assurance autre que celle précisée dans la demande de 
+       soumissions et dans tout contrat en résultant, afin d'assurer sa 
+       propre protection ou pour s'acquitter de ses obligations en vertu du 
+       contrat. Toute assurance additionnelle de ce genre doit être 
+       contractée et maintenue par l'entrepreneur, aux frais de ce dernier.
+
+       Les dispositions qui suivent sur les assurances ne limitent en rien 
+       les assurances exigées par les administrations fédérales, 
+       provinciales ou municipales.
+
+2.     Pour satisfaire aux exigences du contrat en matière d'assurances, 
+       l'entrepreneur doit, au tout début du contrat, envoyer à l'autorité 
+       contractante une copie certifiée conforme de la police d'assurance 
+       ou de l'attestation d'assurance renfermant suffisamment de détails 
+       sur la protection, les exclusions, les franchises et les conditions 
+       applicables à de telles polices et confirmant que l'assurance est en 
+       vigueur conformément à ces exigences.
+ 
+</pre>
+</div>

@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Where the risks to third parties arising from work under the contract makes it 
+necessary to ensure that the contractor is adequately insured and to protect the 
+interests of Canada, the contractor must have Commercial General Liability (CGL) 
+insurance or any equivalent insurance coverage.  CGL insurance must cover the 
+risks to third parties (both on and off the contractor's premises) arising from 
+work under the contract or from the operation or use of government property 
+while in the care, custody or control of the contractor.
+
+Third party liability risks due to the maintenance, repair, operation or use of 
+government property while under the care, custody or control of the contractor 
+may be covered by deleting the care, custody or control exclusion normally 
+stipulated in the conditions of the contractor's CGL insurance policy.
+
+If either the procurement officer or the client believes that the suggested 
+MINIMUM LIMIT of liability of $1,000,000 per accident or occurrence is not 
+sufficient, the suggested limit may be established in consultation with the 
+client and the Department of Public Works and Government Services' Risk 
+Management and Insurance Advisor.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Commercial General Liability insurance shall be effected by the Contractor 
+and maintained in force throughout the duration of the Contract, in an 
+amount usual for a contract of this nature, but, in any case, for a limit 
+of liability NOT LESS THAN $1,000,000 per accident or occurrence.
+
+</pre>
+</div>

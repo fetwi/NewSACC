@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a bid may be received from a 
+foreign-based contractor.
+ </p>
+<p>
+  For bid solicitations, use this clause in conjunction with
+  
+   A0222T
+  
+  .  
+For requests for standing offers, use this clause in conjunction with
+  
+   M0222T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Unless specified otherwise in the Contract, the price includes
+no amount for any federal excise tax, state or local sales or use
+tax, or any other tax of a similar nature, or any Canadian tax
+whatsoever. The price, however, includes all other taxes. If the
+Work is normally subject to federal excise tax, Canada will, upon
+request, provide the Contractor a certificate of exemption from
+such federal excise tax in the form prescribed by the federal
+regulations.</p>
+<p>Canada will provide the Contractor evidence of export that may
+be requested by the tax authorities. If, as a result of Canada's
+failure to do so, the Contractor has to pay federal excise tax,
+Canada will reimburse the Contractor if the Contractor takes such
+steps as Canada may require to recover any payment made by the
+Contractor. The Contractor must refund to Canada any amount so
+recovered.</p>
+</div></pre>
+</div>

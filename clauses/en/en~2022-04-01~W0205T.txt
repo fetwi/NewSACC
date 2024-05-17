@@ -1,0 +1,102 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in solicitations that are subject to the Nunavut Directive and are limited to competition among firms on the Inuit Firm Registry (IFR).
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on how and when to implement limiting bidding among firms on the
+  <abbr title="Inuit Firm Registry">
+   IFR
+  </abbr>
+  in procurements subject to the
+  
+   Nunavut Directive
+  
+  , please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates, please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+  To be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions Manual">
+   SACC
+  </abbr>
+  Manual items
+  
+   W0206T
+  
+  ,
+  
+   W0215C
+  
+  , and, if applicable,
+  
+   W0027T1
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions Manual">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>This solicitation is limited for bidding among firms registered on the Inuit Firm Registry (IFR).</p></pre>
+</div>

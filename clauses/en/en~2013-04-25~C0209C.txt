@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts with task authorizations when the work is 
+subject to a firm lot price or firm unit price(s).
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>In consideration of the Contractor satisfactorily completing all
+of its obligations under the authorized Task Authorization (TA),
+the Contractor will be paid <span class="input-required"><var>__________</var> ,<kbd><em>
+(insert "the firm lot price of $
+<var>_______</var> " <strong>OR</strong> "the firm unit
+price(s)" (insert "in accordance with the
+basis of payment, in Annex <var>___</var> <strong>"
+OR</strong> "as detailed in the Basis of Payment below"</em>)</kbd></span>,
+as specified in the authorized <abbr title="Task Authorization">TA</abbr>. Customs duties
+are <span class="input-required"><var>_________</var> <kbd>(<em>insert
+"included", "excluded"<strong> OR </strong>"subject to exemption"</em>)</kbd></span> and Applicable Taxes are extra.</p>
+<p>Canada will not pay the Contractor for any design changes,
+modifications or interpretations of the Work, unless they have been
+authorized, in writing, by the Contracting Authority before their
+incorporation into the Work.</p>
+<p class="description">(<em>Insert details of the Basis of Payment for firm
+unit price(s) if not included in an
+annex</em>).</p>
+</div></pre>
+</div>

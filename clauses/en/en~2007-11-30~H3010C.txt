@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when progress payment against milestone 
+will be made in accordance with an established schedule of milestones using form 
+PWGSC-TPSGC 1111 and the amount claimed is not subject to holdback.  Use clause 
+H3009C when the amount claimed is subject to holdback.
+
+Use this clause in conjunction with H0004C, and if applicable use with H3022C or 
+H3024C and H4012C.
+
+Contracting officers should review the policy on progress payments (Supply 
+Manual, Section 6E).  Milestone payment is a form of progress payment which is 
+addressed under the policy related to progress payments.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada will make milestone payments in accordance with the Schedule of 
+Milestones detailed in the Contract and the payment provisions of the 
+Contract if:
+
+(a)    an accurate and complete claim for milestone payment using 
+       PWGSC-TPSGC 1111, and any other document required by the Contract 
+       have been submitted in accordance with the invoicing instructions 
+       provided in the Contract.  Form PWGSC-TPSGC 1111 is available at the 
+       following Website:  http://www.pwgsc.gc.ca/acquisitions/text/forms/
+       forms-e.html;
+       
+(b)    all the certificates appearing on form PWGSC-TPSGC 1111 have been 
+       signed by the respective authorized representatives; 
+       
+(c)    all work associated with the milestone and as applicable any 
+       deliverable required has been completed and accepted by Canada.
+
+
+
+</pre>
+</div>

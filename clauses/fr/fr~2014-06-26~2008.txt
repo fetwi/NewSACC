@@ -1,0 +1,518 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li>Renseignements généraux</li>
+<li>01 Dispositions relatives à l'intégrité - arrangement</li>
+<li>02 Numéro d'entreprise -
+approvisionnement</li>
+<li>03 Instructions, clauses et conditions
+uniformisées</li>
+<li>04 Définition de fournisseur</li>
+<li>05 Présentations des arrangements</li>
+<li>06 Arrangements déposés en
+retard</li>
+<li>07 Arrangements retardés</li>
+<li>08 Transmission par télécopieur</li>
+<li>09 Dédouanement</li>
+<li>10 Capacité juridique</li>
+<li>11 Droits du Canada</li>
+<li>12 Rejet d'un arrangement</li>
+<li>13 Communications en période de
+soumission</li>
+<li>14 Coûts relatifs aux arrangements</li>
+<li>15 Déroulement de l'évaluation</li>
+<li>16 Coentreprise</li>
+<li>17 Conflit d'intérêts / Avantage
+indu</li>
+<li>18 Intégralité de l'ensemble du
+besoin</li>
+<li>19 Autres renseignements</li>
+</ul>
+</div>
+<h2>Renseignements généraux</h2>
+<p>Un arrangement en matière d'approvisionnement est une méthode d'approvisionnement utilisée par Travaux publics et Services gouvernementaux Canada (TPSGC) pour acquérir des biens et des services. Un arrangement en matière d'approvisionnement est un arrangement entre le Canada et des fournisseurs préqualifiés qui permet aux utilisateurs désignés d'émettre des demandes de soumissions à un groupe de fournisseurs préqualifiés pour des besoins spécifiques dans le cadre d'un arrangement en matière d'approvisionnement. Un arrangement en matière d'approvisionnement n'est pas un contrat pour la fourniture des biens et services décrits dans l'arrangement et aucune des parties n'est légalement liée suite à la signature d'un arrangement en matière d'approvisionnement uniquement. L'intention d'un arrangement en matière d'approvisionnement est d'établir un cadre pour permettre le traitement expéditif de demandes de soumissions individuelles qui résultent en contrats qui lient légalement les parties. Ces contrats sont pour l'acquisitions de biens et services décrits dans ces demandes de soumissions.</p>
+<p>Sauf pour les achats qui ne nécessitent pas ou n'utilisent pas d'annonce publique, les demandes d'arrangements en matière d'approvisionnement (DAMA) sont publiées par le Service électronique d'appel d'offres du gouvernement (SEAOG) et les fournisseurs qui sont intéressés à répondre aux demandes de soumissions individuelles émises en vertu d'un arrangement en matière d'approvisionnement sont invités à soumettre un arrangement pour devenir des fournisseurs préqualifiés. La liste de fournisseurs préqualifiés sera utilisée comme liste de fournisseurs pour des besoins dans le cadre d'un arrangement en matière d'approvisionnement et seulement les fournisseurs qui sont des fournisseurs préqualifiés au moment où les demandes de soumissions individuelles sont émises seront éligibles à déposer une soumission. Les arrangements en matière d'approvisionnement comprennent un ensemble de conditions prédéterminées qui s'appliqueront aux demandes de soumissions et aux contrats subséquents. Les arrangements en matière d'approvisionnement peuvent comprendre des prix plafonds qui peuvent être réduits dépendant du besoin réel ou de l'énoncé des travaux décrit dans une demande de soumissions.</p>
+<h2>01 (2014-03-01) Dispositions relatives à l'intégrité - arrangement</h2>
+<ol type="1">
+<li>	Les fournisseurs doivent se conformer au <cite>Code de conduite pour l'approvisionnement</cite>. De plus, les fournisseurs doivent répondre aux demandes d'arrangements en matière d'approvisionnement (DAMA) de façon honnête, juste et exhaustive, rendre compte avec précision de leur capacité à satisfaire aux exigences énoncées dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>,  l'arrangement en matière d'approvisionnement (AMA) et tous contrats subséquents, et présenter des arrangements ainsi que conclure des contrats uniquement s'ils sont en mesure de satisfaire à toutes les obligations du contrat.</li>
+<li value="2">	En présentant un arrangement, les fournisseurs confirment qu'ils comprennent que, pour assurer l'équité, l'ouverture et la transparence du processus d'approvisionnement, la commission de certaines actions ou infractions les rendra inadmissibles à l'émission d'un arrangement en matière d'approvisionnement et à l'attribution d'un contrat. Le Canada déclarera un arrangement non recevable s'il constate que les renseignements exigés sont manquants ou inexacts, ou s'il détermine que les renseignements contenus dans les attestations sont faux, à quelque égard que ce soit, au moment de l'émission de l'arrangement en matière d'approvisionnement (AMA). S'il est déterminé, après l'émission de l' <abbr title="l'arrangement en matière d'approvisionnement">AMA</abbr>, que le fournisseur a fait une fausse déclaration, le Canada aura le droit, suite à une période de préavis, d'annuler l'<abbr title="l'arrangement en matière d'approvisionnement">AMA</abbr> et de résilier pour manquement tous contrats subséquents. Le fournisseur devra agir avec diligence et maintenir à jour l'information exigée par les présentes. Le fournisseur et tout affilié du fournisseur devront également demeurer libres et quittes des actions ou condamnations précisées aux présentes dispositions relatives à l'intégrité pendant la durée de l'<abbr title="l'arrangement en matière d'approvisionnement">AMA</abbr> découlant de cette <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> ainsi que de tous contrats subséquents.</li>
+<li value="3"><dfn>Affiliés</dfn><br/>
+Aux fins des présentes dispositions relatives à l'intégrité quiconque, incluant mais sans s'y limiter les organisations, personnes morales, sociétés, compagnies, sociétés de personnes, entreprises, associations de personnes, sociétés mères, filiales qu'elles soient en propriété exclusive ou non, individus et administrateurs, sont des affiliés au fournisseur si :  
+<ol type="a">
+<li value="1">	le fournisseur ou l'affilié contrôle directement ou indirectement l'autre ou a le pouvoir de le faire, ou</li>
+<li value="2">	un tiers a le pouvoir de contrôler le soumissionnaire et l'affilié.</li>
+</ol>
+
+Les indices de contrôle comprennent, sans s'y limiter, une gestion ou une propriété interdépendante, l'identité d'intérêts des membres d'une famille, le partage d'installations et d'équipement, l'utilisation conjointe d'employés ou une entité créée suite aux actions ou aux condamnations précisées dans les présentes dispositions relatives à l'intégrité dont la gestion, la propriété ou les employés principaux sont les mêmes ou similaires, selon le cas.</li>
+<li value="4">	Les fournisseurs qui sont incorporés, incluant ceux présentant un arrangement à titre de coentreprise, doivent fournir la liste complète des noms de tous les individus qui sont actuellement administrateurs du fournisseur. Les fournisseurs présentant un arrangement à titre d'entreprise à propriétaire unique, incluant ceux présentant un arrangement dans le cadre de coentreprise, doivent fournir le nom du propriétaire. Les fournisseurs présentant un arrangement à titre de sociétés, de sociétés de personnes, d'entreprises ou d'associations de personnes ou d'entreprises n'ont pas à fournir de liste de noms.<br/>
+
+Si les noms requis n'ont pas été fournis par le temps où l'évaluation des arrangements est complétée, le Canada informera le fournisseur du délai à l'intérieur duquel les renseignements doivent être fournis. À défaut de fournir ces noms dans le délai prévu, l'arrangement sera déclaré non recevable. Fournir les noms requis est une exigence obligatoire pour l'émission d'un arrangement en matière d'approvisionnement.<br/>
+
+Le Canada peut, à tout moment, demander au fournisseur de fournir des formulaires de consentement dûment remplis et signés (Consentement à la vérification de l'existence d'un casier judiciaire - PWGSC-TPSGC 229) pour toute personne ou toutes les personnes mentionnées ci-dessus, et ce dans un délai précis. À défaut de fournir les formulaires de consentement et les renseignements connexes dans le délai prévu, ou à défaut de coopérer dans le cadre du processus de vérification, l'arrangement sera déclaré non recevable.</li>
+<li value="5">	Le fournisseur doit diligemment informer le Canada par écrit de tout changement touchant la liste des noms des administrateurs pendant ce processus d'achat ainsi que pendant la période de l'arrangement en matière d'approvisionnement découlant de la présente <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> et de tous contrats subséquents. Il doit également fournir au Canada les formulaires de consentement dûment remplis et signés lorsque la demande lui en est faite.</li>
+<li value="6">	En présentant un arrangement, le fournisseur atteste qu'il est informé, de même que ses affiliés, du fait que le Canada pourra demander d'autres informations, attestations, formulaires de consentement et éléments prouvant son identité ou son éligibilité. Le Canada pourra aussi vérifier tous les renseignements fournis par le fournisseur, incluant les renseignements relatifs aux actions ou condamnations précisées aux présentes dispositions relatives à l'intégrité en faisant des recherches indépendantes, en utilisant des ressources du gouvernement ou en communiquant avec des tiers.</li>
+<li value="7">	En présentant une arrangement, le fournisseur atteste que ni le fournisseur, ni aucun des affiliés du fournisseur n'ont versé ni accepté de verser, directement ou indirectement, et qu'ils ne verseront pas, directement ou indirectement, des honoraires conditionnels à un particulier pour la sollicitation, la négociation ou l'obtention de l' arrangement en matière d'approvisionnement ainsi que de tous contrat subséquents, si le paiement de ces honoraires obligerait cette personne à faire une déclaration en application de l'article 5 de la <cite>Loi sur le lobbying</cite>.</li>
+<li value="8"><dfn>Période de temps</dfn><br/>
+La période de temps est de 10 ans et se mesure à partir de la date de la condamnation ou de la date de l'absolution sous-conditions ou inconditionnelle.<br/>
+
+De plus, pour une condamnation en vertu des alinéas a. ou b. du paragraphe 9, suivant la période de 10 ans, un pardon ou une suspension du casier judiciaire devra avoir été obtenu, ou les droits devront avoir été rétablis par le gouverneur en conseil.  Le fournisseur doit donc fournir avec son arrangement ou le plus tôt possible après le dépôt de celui-ci, une copie des documents le confirmant et provenant d'une source officielle afin que le Canada juge l'attestation véridique aux fins des présentes dispositions relatives à l'intégrité.  Si aucun document n'a été fourni par le temps où l'évaluation des arrangements est complétée, le Canada informera le fournisseur du délai à l'intérieur duquel les renseignements doivent être fournis. À défaut de fournir les renseignements dans le délai prévu, l'arrangement sera déclaré non recevable.</li>
+<li value="9">	En présentant un arrangement, le fournisseur atteste que ni le fournisseur, ni aucun des affiliés du fournisseur n'ont été reconnus coupables d'une infraction ou n'ont reçu une absolution sous-conditions ou inconditionnelle en vertu des dispositions ci-après précisées, sauf si la période de temps, et ce conformément au paragraphe Période de temps, est écoulée :        
+
+<ol type="a">
+<li value="1">l'alinéa 80(1)d) (<em>Fausse inscription, faux certificat ou faux rapport</em>), le paragraphe 80(2) (<em>Fraude commise au détriment de Sa Majesté</em>) ou l'article 154.01 (<em>Fraude commise au détriment de Sa Majesté</em>) de la <cite>Loi sur la gestion des finances publiques</cite>, ou</li>
+<li value="2">l'article 121 (<em>Fraudes envers le gouvernement et Entrepreneur qui souscrit à une caisse électorale</em>), l'article 124 (<em>Achat ou vente d'une charge</em>), l'article 380 (<em>Fraude</em>) pour fraude commise au détriment de Sa Majesté ou l'article 418 (<em>Vente d'approvisionnements défectueux à Sa Majesté</em>), du <cite>Code criminel</cite> , ou</li>
+<li value="3">l'article 119 (<em>Corruption de fonctionnaires judiciaires, etc.</em>), l'article 120 (<em>Corruption de fonctionnaires</em>), l'article 346 (Extorsion), les articles 366 à 368 (<em>Faux et infractions similaires</em>), l'article 382 (<em>Manipulations frauduleuses d'opérations boursières</em>), l'article 382.1 (<em>Délit d'initié</em>), l'article 397 (<em>Falsification de livres et documents</em>), l'article 422 (<em>Violation criminelle de contrat</em>), l'article 426 (<em>Commissions secrètes</em>), l'article 462.31 (<em>Recyclage des produits de la criminalité</em>) ou les articles 467.11 à 467.13 (<em>Participation aux activités d'une organisation criminelle</em>) du <cite>Code criminel</cite>, ou</li>
+<li value="4">l'article 45 (<em>Complot, accord ou arrangement entre concurrents</em>), l'article 46 (<em>Directives étrangères</em>), l'article 47 (<em>Truquage des offres</em>), l'article 49 (<em>Accords bancaires fixant les intérêts, etc.</em>), l'article 52 (<em>Indications fausses ou trompeuses</em>), l'article 53 (<em>Documentation trompeuse</em>) de la <cite>Loi sur la concurrence</cite>, ou</li>
+<li value="5">l'article 239 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi de l'impôt sur le revenu</cite>, ou</li>
+<li value="6">l'article 327 (<em>Déclarations fausses ou trompeuses</em>) de la <cite>Loi sur la taxe d'accise</cite>, ou</li>
+<li value="7">l'article 3 (<em>Corruption d'un agent public étranger</em>), l'article 4 (<em>Comptabilité</em>), ou l'article 5 (<em>Infraction commise à l'étranger</em>) de la <cite>Loi sur la corruption d'agents publics étrangers</cite>, ou</li>
+<li value="8">l'article 5 (<em>Trafic de substances</em>), l'article 6 (<em>Importation et exportation</em>), ou l'article 7 (<em>Production de substances</em>) de la <cite>Loi réglementant certaines drogues et autres substances</cite>.</li>
+</ol>
+
+Le fournisseur atteste en outre qu'aucune personne déclarée coupable de l'une des infractions énoncées en a. ou en b. ne recevra un avantage en vertu d'un arrangement en matière d'approvisionnement émis de cette demande d'arrangements en matière d'approvisionnement ainsi que de tous contrats subséquents, sauf si un pardon ou une suspension de casier a été obtenu ou les droits rétablis par le gouverneur en conseil et ce, conformément au paragraphe Période de temps.</li>
+<li value="10"><dfn>	Infractions commises à l'étranger</dfn><br/>
+Le fournisseur atteste également, qu'au cours d'une période, et ce conformément au paragraphe Période de temps, ni le fournisseur ni aucun de ses affiliés n'ont été reconnus coupables ou n'ont reçu une absolution sous-conditions ou inconditionnelle en vertu d'une infraction commise à l'étranger pour laquelle le Canada juge que les éléments constitutifs sont semblables aux infractions énumérées dans les présentes dispositions relatives à l'intégrité. De plus, le Canada envisagera tenir compte des mesures étrangères qu'il juge être de nature semblable au pardon canadien, à la suspension du casier judiciaire et au rétablissement des droits par le gouverneur en conseil en vigueur au Canada.</li>
+<li value="11"><dfn>Sous-traitants</dfn><br/>
+Le fournisseur doit s'assurer que les contrats de sous-traitance comprennent des dispositions relatives à l'intégrité qui ne sont pas moins favorables pour le Canada que celles imposées dans le contrat subséquent.</li>
+<li value="12"><dfn>Mesures de prévention associées à la période de temps</dfn><br/>
+Dans les cas où la période (conformément au paragraphe Période de temps), pour une condamnation ou une absolution sous-conditions ou inconditionnelle du fournisseur ou de tout affilié du fournisseur est écoulée, le fournisseur doit également attester pour lui-même et ses affiliés, que des mesures ont été diligemment mises en place afin d'éviter que de tels condamnations ou actes répréhensibles ne se reproduisent.</li>
+<li value="13"><dfn>Exception à l'égard de l'intérêt public</dfn><br/>
+Les fournisseurs reconnaissent que le Canada pourrait émettre un arrangement en matière d'approvisionnement avec un fournisseur même si ce fournisseur ou un affilié de celui-ci a été reconnu coupable ou a reçu une absolution sous-conditions ou inconditionnelle pour une infraction précisée dans les présentes dispositions relatives à l'intégrité, lorsqu'ainsi requis de le faire en vertu d'une obligation légale ou judiciaire ou lorsque le Canada, à sa seule discrétion, l'estime nécessaire dans l'intérêt public pour des raisons incluant, mais sans s'y limiter :     
+<ul>
+<li>aucune autre personne ne peut exécuter le contrat;</li>
+<li>urgence;</li>
+<li>sécurité nationale;</li>
+<li>santé ou sécurité;</li>
+<li>préjudice économique.</li>
+</ul>
+
+Si tous les arrangements sont déclarés non recevables en raison d'une condamnation ou d'une action pertinente énumérée aux présentes dispositions, le Canada peut invoquer l'exception visant à protéger l'intérêt public, tel que décrit ci-dessus.  Dans de tels cas, seuls les arrangements contenant une déclaration concernant une infraction ou une action pertinente, seront pris en compte.  Le Canada peut également choisir de s'approvisionner à l'extérieur du présent processus.  Dans tous les cas, le Canada se réserve le droit d'imposer des conditions ou des mesures supplémentaires afin d'assurer l'intégrité du processus d'approvisionnement.</li>
+<li value="14"><dfn>Non application</dfn><br/>
+Pour les gouvernements, de même que pour les entités contrôlées par un gouvernement, y compris les sociétés d'État, les présentes dispositions relatives à l'intégrité se limitent à respecter l'article 750 du <cite>Code criminel</cite>, le <cite>Règlement sur les marchés de l'État</cite> et le <cite>Code de conduite pour l'approvisionnement</cite></li>
+</ol>
+<h2>02 (2012-03-02) Numéro d'entreprise - approvisionnement</h2>
+<p>Les fournisseurs doivent détenir un numéro
+d'entreprise - approvisionnement (NEA) avant l'attribution d'un
+arrangement en matière d'approvisionnement. Les fournisseurs
+peuvent demander un <abbr title="numéro d'entreprise - approvisionnement">NEA</abbr> en direct à Données d'inscription des fournisseurs. Il est également possible
+de communiquer avec la LigneInfo au 1 800-811-1148 pour obtenir le
+numéro de téléphone de l'agent d'inscription des
+fournisseurs le plus près.</p>
+<h2>03 (2008-05-12) Instructions, clauses et conditions uniformisées</h2>
+<p>Conformément à la <cite>Loi sur le
+ministère des Travaux publics et des Services
+gouvernementaux</cite> (<abbr title="Lois du Canada">L.C.</abbr>, 1996, <abbr title="chapitre">ch.</abbr> 16), les instructions,
+les clauses et les conditions identifiées dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> et
+l'arrangement en matière d'approvisionnement subséquent
+par un numéro, une date et un titre sont incorporées par
+renvoi et font partie intégrante de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> et de
+l'arrangement en matière d'approvisionnement subséquent
+comme si elles y étaient formellement reproduites.</p>
+<h2>04 (2008-12-12) Définition de fournisseur</h2>
+<p>Le terme « <dfn>fournisseur</dfn> » désigne la personne ou
+l'entité (ou dans le cas d'une coentreprise, les personnes ou
+les entités) qui dépose un arrangement. Le terme ne
+comprend pas la société mère, les filiales ou autres
+affiliées du fournisseur, ni ses sous-traitants.</p>
+<h2>05 (2014-03-01) Présentation des arrangements</h2>
+<ol type="1">
+<li value="1">Le Canada exige que chaque arrangement, à la
+date et à l'heure de clôture ou sur demande du
+responsable de l'arrangement en matière d'approvisionnement,
+soit signé par le fournisseur ou par son représentant
+autorisé. Si un arrangement est déposé par une
+coentreprise, il doit être conforme à l'article 16.</li>
+<li value="2">Il appartient au fournisseur :
+<ol type="a">
+<li value="1">de demander des précisions sur les exigences
+contenues dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, au besoin, avant de présenter un
+arrangement;</li>
+<li value="2">de préparer l'arrangement conformément aux
+instructions contenues dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>;</li>
+<li value="3">de déposer un arrangement complet au plus tard
+à la date et à l'heure de clôture;</li>
+<li value="4">de faire parvenir l'arrangement uniquement au Module
+de réception des soumissions de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> tel qu'indiqué
+à la page 1 de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> ou à l'adresse indiquée dans
+la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Le numéro de télécopieur ainsi que les
+instructions pour la transmission d'arrangements par
+télécopieur sont fournies à l'article 08;</li>
+<li value="5">de veiller à ce que le nom du fournisseur,
+l'adresse de l'expéditeur, le numéro de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> ainsi que la date et
+l'heure de clôture de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> soient clairement indiqués
+sur l'enveloppe ou le colis renfermant l'arrangement; et</li>
+<li value="6">de fournir un arrangement clair et suffisamment
+détaillé, contenant tous les renseignements demandés
+concernant les prix, afin de permettre une évaluation
+complète conformément aux critères établis dans
+la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+</ol>
+</li>
+<li value="3">Le Canada diffusera les avis de projet de marché (APM), les demandes d'arrangements en matière d'approvisionnement et les documents connexes, aux fins de téléchargement, par l'entremise du Service électronique d'appels d'offres du gouvernement (SEAOG). Le Canada n'est pas responsable de l'information figurant sur les sites Web de tiers, et n'assumera aucune responsabilité, quelle qu'elle soit, à cet égard. Le Canada n'enverra aucun avis si un <abbr title="Avis de projet de marchés">APM</abbr>, une demande d'arrangements en matière d'approvisionnement ou des documents connexes sont modifiés. Le Canada affichera toutes les modifications, incluant les demandes de renseignements importantes reçues ainsi que les réponses, au moyen du <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr>. Il appartient entièrement au fournisseur de consulter de façon régulière le <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr> pour obtenir l'information la plus à jour. Le Canada ne sera pas responsable et n'assumera aucune responsabilité quant au manquement de la part du fournisseur à consulter les mises-à-jour sur le <abbr title="Service électronique d'appel d'offres du gouvernement">SEAOG</abbr>, ni de l'utilisation des services d'avis offerts par un tiers.</li>
+<li value="4">Les arrangements seront valables pendant au moins
+soixante (60) jours à compter de la date de clôture de la
+<abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, à moins d'avis contraire dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Le Canada se
+réserve le droit de demander par écrit une prolongation
+de cette période à tous les fournisseurs qui
+déposent des arrangements recevables, dans un délai d'au
+moins trois (3) jours avant la fin de la période de
+validité des arrangements. Si tous les fournisseurs qui ont
+déposé des arrangements recevables acceptent de prolonger
+cette période, le Canada continuera d'évaluer les
+arrangements. Si cette prolongation n'est pas acceptée par
+tous les fournisseurs qui ont déposé des arrangements
+recevables, le Canada, à sa seule et entière
+discrétion, continuera d'évaluer les arrangements des
+fournisseurs qui auront accepté la prolongation ou annulera la
+<abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+<li value="5">Les arrangements et les renseignements à l'appui
+peuvent être présentés en français ou en
+anglais.</li>
+<li value="6">Les arrangements reçus à la date et à
+l'heure de clôture stipulées ou avant deviendront la
+propriété du Canada et ne seront pas retournés
+à leur expéditeur. Tous les arrangements seront
+traités comme des documents confidentiels, sous réserve
+des dispositions de la <cite>
+Loi sur l'accès à l'information</cite> (<abbr title="Lois révisées">L.R.</abbr>, 1985,
+<abbr title="chapitre">ch.</abbr> A-1) et de la <cite>
+Loi sur la protection des renseignements personnels</cite>
+(<abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> P-21).</li>
+<li value="7">Sauf indication contraire dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, le Canada
+évaluera uniquement la documentation qui accompagnera
+l'arrangement du fournisseur. Le Canada n'évaluera pas
+l'information telle les renvois à des adresses de sites Web
+où l'on peut trouver de l'information supplémentaire, ou
+les manuels ou les brochures techniques qui n'accompagnent pas
+l'arrangement.</li>
+<li value="8">Un arrangement ne peut pas être cédé
+ou transféré, que ce soit en tout ou en partie.</li>
+</ol>
+<h2>06 (2008-05-12) Arrangements déposés en retard</h2>
+<p><abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> renverra les arrangements livrés après la date
+et l'heure de clôture stipulées dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, à
+moins que ces arrangements ne soient considérés comme des
+arrangements retardés selon les circonstances
+énoncées ci-dessous.</p>
+<h2>07 (2012-03-02) Arrangements retardés</h2>
+<ol type="1">
+<li value="1">Un arrangement livré au module de réception
+des soumissions désigné après la date et l'heure de
+clôture, mais avant l'émission de l'arrangement en
+matière d'approvisionnement, peut être pris en
+considération, à condition que le fournisseur puisse
+prouver que le retard est dû uniquement à un délai
+de livraison dont la Société canadienne des postes (SCP)
+(ou l'équivalent national d'un pays étranger) est
+responsable. On ne considère pas que Purolator Inc. fait
+partie de la <abbr title="Société canadienne des postes">SCP</abbr> pour l'application de cet article sur les
+arrangements retardés. Les seules preuves acceptées par
+<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> pour justifier un retard dû au service de la <abbr title="Société canadienne des postes">SCP</abbr> sont
+les suivantes :
+<ol type="a">
+<li value="1">un timbre à date d'oblitération de la <abbr title="Société canadienne des postes">SCP</abbr>;
+ou</li>
+<li value="2">un connaissement de Messageries prioritaires de la
+<abbr title="Société canadienne des postes">SCP</abbr>; ou</li>
+<li value="3">une étiquette Xpresspost de la <abbr title="Société canadienne des postes">SCP</abbr>;</li>
+</ol>
+<p>qui indique clairement que l'arrangement a été
+posté avant la date de clôture.</p>
+</li>
+<li value="2"><abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> n'acceptera pas les arrangements qui sont
+reçus en retard en raison d'une erreur d'acheminement, du
+volume de trafic, de perturbations atmosphériques, de conflits
+du travail ou d'autres motifs.</li>
+<li value="3">Le timbre de machine à affranchir, qu'il soit
+apposé par le fournisseur, la <abbr title="Société canadienne des postes">SCP</abbr> ou le service postal d'un
+pays étranger, ne constitue pas une preuve que l'arrangement a
+été expédié à temps.</li>
+</ol>
+<h2>08 (2012-03-02) Transmission par télécopieur</h2>
+<ol type="1">
+<li value="1">Sauf indication contraire dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>, les
+arrangements peuvent être transmis par télécopieur.
+Le seul numéro de télécopieur valide pour la
+réception des réponses aux <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> émises par
+l'administration centrale de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> est le 819-997-9776. Le
+numéro de télécopieur pour répondre aux <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>
+émises par les bureaux régionaux de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> est
+indiqué dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+<li value="2">Pour les arrangements transmis par
+télécopieur, le Canada ne sera responsable d'aucune
+défaillance attribuable à l'utilisation de ce mode de
+transmission ou de réception. Entre autres, il n'assumera
+aucune responsabilité pour ce qui suit :
+<ol type="a">
+<li value="1">réception d'un arrangement brouillé ou
+incomplet;</li>
+<li value="2">disponibilité ou condition du
+télécopieur utilisé pour la réception;</li>
+<li value="3">incompatibilité entre le matériel
+utilisé pour l'envoi et celui utilisé pour la
+réception;</li>
+<li value="4">retard dans la transmission ou la réception de
+l'arrangement;</li>
+<li value="5">défaut de la part du fournisseur de bien
+identifier l'arrangement;</li>
+<li value="6">illisibilité de l'arrangement; ou</li>
+<li value="7">sécurité des données incluses dans
+l'arrangement.</li>
+</ol>
+</li>
+<li value="3">L'arrangement transmis par télécopieur
+constitue l'arrangement officiel du fournisseur et doit être
+conforme à l'article 05.</li>
+</ol>
+<h2>09 (2010-10-07) Dédouanement</h2>
+<p>Le fournisseur a la responsabilité de prévoir un
+délai suffisant pour obtenir un dédouanement, lorsqu'il y
+a lieu, avant la date et l'heure de clôture de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Les
+retards dus à l'obtention d'un dédouanement ne peuvent
+être considérés comme des « retards
+imprévus dus au service postal » et ne seront pas
+admissibles selon l'article 07.</p>
+<h2>10 (2008-05-12) Capacité juridique</h2>
+<p>Le fournisseur doit avoir la capacité juridique de
+contracter. Si le fournisseur est une entreprise à
+propriétaire unique, une société de personnes ou une
+personne morale, il doit fournir, à la demande du responsable
+de l'arrangement en matière d'approvisionnement, une
+déclaration et toutes les pièces justificatives
+demandées indiquant les lois en vertu desquelles son
+entreprise est incorporée ou enregistrée, ainsi que sa
+dénomination sociale et son lieu d'affaires. Ce qui
+précède s'applique également si le fournisseur est
+une coentreprise.</p>
+<h2>11 (2008-12-12) Droits du Canada</h2>
+<p>Le Canada se réserve le droit :</p>
+<ol type="a">
+<li value="1">de rejeter l'un quelconque ou la totalité des
+arrangements reçus en réponse à la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>;</li>
+<li value="2">d'annuler la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> à n'importe quel moment;</li>
+<li value="3">d'émettre de nouveau la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>;</li>
+<li value="4">si aucun arrangement recevable n'est reçu et que
+le besoin n'est pas modifié substantiellement, d'émettre
+de nouveau la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> en invitant uniquement les fournisseurs qui ont
+déposé des arrangements, à déposer de nouveau
+un arrangement dans un délai indiqué par le Canada;
+et</li>
+<li value="5">d'émettre des <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> et des arrangements en
+matière d'approvisionnement à des fournisseurs qui se
+qualifient tout au cours de la période de l'arrangement en
+matière d'approvisionnement.</li>
+</ol>
+<h2>12 (2012-03-02) Rejet d'un arrangement</h2>
+<ol type="1">
+<li value="1">Le Canada peut rejeter un arrangement dans l'un des
+cas suivants :
+<ol type="a">
+<li value="1">le fournisseur est assujetti à une mesure
+corrective du rendement du fournisseur, en vertu de la Politique
+sur les mesures correctives du rendement des fournisseurs, ce qui le rend inadmissible pour
+déposer un arrangement pour répondre au besoin;</li>
+<li value="2">un employé ou un sous-traitant proposé dans
+l'arrangement est soumis à une mesure corrective du rendement
+du fournisseur, en vertu de la Politique sur les mesures correctives du rendement des fournisseurs, ce qui rendrait l'employé ou un sous-traitant
+inadmissible pour déposer un arrangement pour le besoin ou
+à la partie du besoin que l'employé ou le sous-traitant
+exécuterait;</li>
+<li value="3">le fournisseur déclare faillite ou ne peut, pour quelque motif que ce soit, exercer ses activités pour une période prolongée;</li>
+<li value="4">des preuves de fraude, de corruption ou de fausse déclaration ou des preuves confirmant l'incapacité de respecter des lois protégeant les personnes contre toute forme de discrimination ont été déposées, à la satisfaction du Canada, à l'égard du fournisseur, de l'un quelconque de ses employés ou d'un sous-traitant proposé dans l'arrangement;</li>
+<li value="5">des preuves à la satisfaction du Canada que, compte tenu de son comportement antérieur, le fournisseur, un sous-traitant ou une personne désignée pour exécuter les travaux ne convient pas ou s'est comporté de façon inappropriée;</li>
+<li value="6">dans le cadre de transactions actuelles ou
+antérieures avec le gouvernement du Canada :
+<ol type="i">
+<li value="1">le Canada a exercé ses recours contractuels de
+suspension ou de résiliation pour inexécution à
+l'égard d'un contrat attribué au fournisseur ou à
+l'un quelconque de ses employés ou sous-traitants
+proposés dans l'arrangement;</li>
+<li value="2">le Canada détermine que le rendement du fournisseur en
+vertu d'autres contrats, notamment l'efficacité et la
+qualité dans l'exécution des travaux, ainsi que la mesure
+dans laquelle le fournisseur a respecté les clauses et les
+conditions contractuelles dans l'exécution des travaux, est
+suffisamment médiocre pour qu'on le considère incapable
+de répondre au besoin faisant l'objet de l'arrangement.</li>
+</ol>
+</li>
+</ol></li>
+<li value="2">Dans le cas où le Canada a l'intention de
+rejeter un arrangement pour des motifs tels que ceux exposés
+à l'alinéa 1.(f), le responsable de l'arrangement en
+matière d'approvisionnement le fera savoir au fournisseur et
+lui donnera un délai de dix (10) jours pour faire valoir son
+point de vue, avant de rendre une décision définitive sur
+le rejet de l'arrangement.</li>
+<li value="3">Le Canada se réserve le droit de procéder à un examen plus approfondi, en particulier lorsque plusieurs arrangements en matière d'approvisionnement provenant d'un seul fournisseur ou d'une coentreprise sont reçus en réponse à une demande d'arrangement en matière d'approvisionnement. Le Canada se réserve le droit : 
+<ol type="i">
+<li value="1">de rejeter n'importe lequel ou la totalité des arrangements présentés par un seul  fournisseur ou par une coentreprise si l'inclusion de ces arrangements dans le processus d'évaluation risque de compromettre l'intégrité et l'impartialité du processus; </li>
+<li value="2">de rejeter n'importe lequel ou la totalité des arrangements présentés par un seul  fournisseur ou une coentreprise si l'inclusion de ces arrangements dans le processus d'approvisionnement risque de fausser les résultats de l'évaluation, menant à des résultats qui n'auraient pas raisonnablement été attendus dans les conditions existantes du marché ou qui n'offrent pas un bon rapport qualité-prix pour le Canada.</li>
+</ol>
+</li>
+</ol>
+<h2>13 (2014-03-01) Communications en période de soumission</h2>
+<p>Afin d'assurer l'intégrité du processus d'appel à
+la concurrence, toutes les demandes de renseignements et autres
+communications ayant trait à la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> doivent être
+adressées uniquement au responsable de l'arrangement en
+matière d'approvisionnement dont le nom est indiqué dans
+la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Le défaut de se conformer à cette exigence
+pourrait avoir pour conséquence que l'arrangement soit
+déclaré non recevable.</p>
+<p>Afin d'assurer l'uniformité et la qualité de l'information fournie aux fournisseurs, les demandes de renseignements importantes reçues ainsi que les réponses, seront affichées au moyen du Service électronique d'appels d'offres du gouvernement (SEAOG).  Pour de plus amples renseignements, consulter le paragraphe 3 de l'article Présentation des soumissions.</p>
+<h2>14 (2008-05-12) Coûts relatifs aux arrangements</h2>
+<p>Aucun paiement ne sera versé pour des coûts encourus
+pour la préparation et la présentation d'un arrangement
+en réponse à la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Le fournisseur sera seul
+responsable des frais engagés dans la préparation et la
+présentation d'un arrangement, ainsi que des frais
+engagés par lui pour l'évaluation de l'arrangement.</p>
+<h2>15 (2008-12-12) Déroulement de l'évaluation</h2>
+<ol type="1">
+<li value="1">Lorsque le Canada évalue les arrangements, il
+peut, sans toutefois y être obligé, effectuer ce qui suit :
+<ol type="a">
+<li value="1">demander des précisions ou vérifier
+l'exactitude de certains renseignements ou de tous les
+renseignements fournis par les fournisseurs relatifs à la
+<abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>;</li>
+<li value="2">communiquer avec l'une ou toutes les personnes
+citées en référence pour vérifier et attester
+l'exactitude des renseignements fournis par les fournisseurs;</li>
+<li value="3">demander, avant l'émission d'un arrangement en
+matière d'approvisionnement, des renseignements précis
+sur la situation juridique des fournisseurs;</li>
+<li value="4">examiner les installations, les capacités
+techniques, administratives et financières des fournisseurs
+pour déterminer s'ils sont en mesure de répondre aux
+exigences énoncées dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>;</li>
+<li value="5">vérifier tous les renseignements fournis par les
+fournisseurs en faisant des recherches indépendantes, en
+utilisant des ressources du gouvernement ou en communiquant avec
+des tiers;</li>
+<li value="6">interviewer, aux propres frais des fournisseurs, tout
+fournisseur et(ou) une des personnes qu'ils proposent pour
+répondre aux exigences de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+</ol>
+</li>
+<li value="2">Les fournisseurs disposeront du nombre de jours
+établi par le responsable de l'arrangement en matière
+d'approvisionnement dans la demande pour se conformer à la
+demande concernant tout item ci-haut mentionné. Le défaut
+de répondre à la demande pourrait avoir pour
+conséquence que l'arrangement soit déclaré non
+recevable.</li>
+</ol>
+<h2>16 (2012-03-02) Coentreprise</h2>
+<ol type="1">
+<li value="1">Une coentreprise est une association d'au moins deux
+parties qui regroupent leurs fonds, leurs biens, leurs
+connaissances, leur expertise ou d'autres ressources dans une
+entreprise commerciale conjointe, parfois appelé consortium,
+pour déposer ensemble une offre pour un besoin. Les
+fournisseurs qui déposent un arrangement à titre de
+coentreprise doivent indiquer clairement qu'ils forment une
+coentreprise et fournir les renseignements suivants :
+<ol type="a">
+<li value="1">le nom de chaque membre de la coentreprise;</li>
+<li value="2">le numéro d'entreprise - approvisionnement de
+chaque membre de la coentreprise;</li>
+<li value="3">le nom du représentant de la coentreprise,
+c'est-à-dire le membre choisi par les autres membres pour les
+représenter, s'il y a lieu;</li>
+<li value="4">le nom de la coentreprise, s'il y a lieu.</li>
+</ol>
+</li>
+<li value="2">Si les renseignements contenus dans l'arrangement ne
+sont pas clairs, le fournisseur devra fournir les renseignements
+à la demande du responsable de l'arrangement en matière
+d'approvisionnement.</li>
+<li value="3">L'arrangement doit être signé par tous les
+membres de la coentreprise à moins qu'un membre ait
+été nommé pour représenter tous les membres de
+la coentreprise. Le responsable de l'arrangement en matière
+d'approvisionnement peut, en tout temps, demander à chaque
+membre de la coentreprise de confirmer que le représentant a
+reçu les pleins pouvoirs pour agir à titre de
+représentant pour les fins de l'arrangement.</li>
+</ol>
+<h2>17 (2012-03-02) Conflit d'intérêts / Avantage indu</h2>
+<ol type="1">
+<li value="1">Afin de protéger l'intégrité du
+processus d'approvisionnement, les fournisseurs sont avisés
+que le Canada peut rejeter un arrangement dans les circonstances
+suivantes :
+<ol type="a">
+<li value="1">le fournisseur, un de ses sous-traitants, un de leurs
+employés respectifs, actuels ou anciens, a participé
+d'une manière ou d'une autre à la préparation de la
+<abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> ou est en situation de conflit d'intérêts ou
+d'apparence de conflit d'intérêts.</li>
+<li value="2">le Canada juge que le fournisseur, un de ses
+sous-traitants, un de leurs employés respectifs, actuels ou
+anciens, a eu accès à des renseignements relatifs à
+la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> qui n'étaient pas à la disposition des autres
+fournisseurs et que cela donne ou semble donner au fournisseur un
+avantage indu.</li>
+</ol>
+</li>
+<li value="2">Le Canada ne considère pas, qu'en soi,
+l'expérience acquise par un fournisseur qui fournit ou a
+fourni les biens et services décrits dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> (ou des
+biens et services semblables) représente un avantage indu en
+faveur du fournisseur ou crée un conflit d'intérêts.
+Ce fournisseur demeure cependant assujetti aux critères
+énoncés plus haut.</li>
+<li value="3">Dans le cas où le Canada a l'intention de
+rejeter un arrangement conformément au présent article,
+le responsable de l'arrangement en matière d'approvisionnement
+préviendra le fournisseur et lui donnera la possibilité
+de faire valoir son point de vue, avant de prendre une
+décision définitive. Les fournisseurs ayant un doute par
+rapport à une situation particulière devraient contacter
+le responsable de l'arrangement en matière d'approvisionnement
+avant la date de clôture de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. En déposant un
+arrangement, le fournisseur déclare qu'il n'est pas en conflit
+d'intérêts et qu'il ne bénéficie d'aucun
+avantage indu. Le fournisseur reconnaît que le Canada est seul
+habilité à établir s'il existe un conflit
+d'intérêts, un avantage indu ou une apparence de conflit
+d'intérêts ou d'avantage indu.</li>
+</ol>
+<h2>18 (2008-12-12) Intégralité de l'ensemble du besoin</h2>
+<p>La <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> comprend l'ensemble des exigences se rapportant à
+la demande d'arrangements. Toute autre information ou tout autre
+document fourni au fournisseur ou obtenu par lui auprès de qui
+que ce soit n'est pas pertinent. Les fournisseurs ne devraient pas
+présumer que des pratiques utilisées dans des contrats
+antérieurs vont continuer, à moins qu'elles soient
+décrites dans la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>. Les fournisseurs ne devraient pas non
+plus présumer que leurs capacités actuelles rencontrent
+les exigences de la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> simplement parce qu'elles rencontraient
+des exigences antérieures.</p>
+<h2>19 (2008-12-12) Autres renseignements</h2>
+<ol type="1">
+<li value="1">Pour obtenir d'autres renseignements, les
+fournisseurs peuvent s'adresser au responsable de l'arrangement en
+matière d'approvisionnement dont le nom est indiqué dans
+la <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+<li value="2">Les demandes de renseignements concernant la
+réception des arrangements présentés en réponse
+aux <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr> émises par l'administration centrale de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> peuvent
+être adressées au Module de réception des
+soumissions, Division de soutien opérationnel des
+approvisionnements, au 819-956-3370. Dans le cas des <abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>
+émises par des bureaux régionaux de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr>, les demandes
+de renseignements concernant la réception des arrangements
+peuvent être adressées au responsable de l'arrangement en
+matière d'approvisionnement dont le nom figure dans la
+<abbr title="demandes d'arrangements en matière d'approvisionnement">DAMA</abbr>.</li>
+</ol>
+</div></pre>
+</div>

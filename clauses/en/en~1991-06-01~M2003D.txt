@@ -1,0 +1,54 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>To supply all labour, parts and equipment necessary to repair or service 
+ground fire fighting equipment for _____ in the _____ area(s) on an "as and 
+when" required basis. 
+
+BASIS OF PAYMENT: 
+
+       1. Hydrostatic Testing (including packaging) or winterizing and 
+       recharging for each item as listed herein, firm unit prices. 
+
+       2. Recharging to include inspection, materials, drying, cleaning, 
+       painting, tumbling and sand blasting and carrying out leakage tests 
+       performed in accordance with Specification number ED-125-5-3. 
+       Quinquennial hydrostatic testing to be carried out by the Contractor 
+       when required. 
+
+       3. Repairs to extinguishers not listed to be priced in accordance 
+       with suppliers' current service price list less _____ percent 
+       discount. 
+
+       4. Miscellaneous labour, direct or productive, for work not 
+       specifically covered herein to be charged at $_____ per hour. 
+
+       5. Materials and replacement parts (except free issue) will be 
+       charged in accordance with your published list price in effect at 
+       date of purchase, less a discount of _____ percent. 
+
+       6. Inspection, including maintenance for extinguishers not requiring 
+       recharging or hydrostatic testing will be charged at a flat rate of $_____ 
+       per unit. 
+
+       7. Shipping caps to be charged at $_____ per cap for cylinders and $_____ 
+       per cap for cartridges. Credit in full is to be allowed for each cap 
+       returned to the Contractor in good condition. 
+
+       8. TURN AROUND TIME: Extinguishers, cartridges and cylinders sent in 
+       for repairs, service or testing will be returned, serviced to the 
+       customer in five (5) working days. 
+
+       9. N.F.P.A. STD 6 yr. Maintenance Service including recharging will 
+       be charged at: (+ or - the recharging price, specify) $_____. 
+
+COMPLY WITH ABOVE? 
+
+       YES _____ NO _____ 
+
+       _____ 
+       _____ 
+       _____  
+</pre>
+</div>

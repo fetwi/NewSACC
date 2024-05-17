@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque la sélection de l'entrepreneur est fondée 
+sur la soumission recevable la plus basse répondant aux exigences obligatoires 
+seulement.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour être jugée recevable, une soumission doit satisfaire à toutes les 
+exigences obligatoires de la demande de soumissions.  Les soumissions ne 
+répondant pas à toutes les exigences obligatoires seront éliminées.  La 
+soumission recevable la plus basse sera recommandée pour attribution d'un 
+contrat..
+
+
+</pre>
+</div>

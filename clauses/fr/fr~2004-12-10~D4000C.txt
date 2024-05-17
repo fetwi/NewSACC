@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Ne pas utiliser la clause suivante dans les contrats du ministère de la Défense 
+nationale.  Utiliser cette clause dans tous les contrats des autres ministères, 
+lorsqu'il a été décidé que la livraison sera FOB point d'origine.  (Utiliser la 
+clause C5200T dans la demande de soumissions et C5200C ou C5201C dans le 
+contrat.)
+
+Utiliser la clause suivante dans les contrats, les offres à commandes et les 
+commandes subséquentes pour lesquels le Canada sera responsable de tous les 
+frais de livraison et d'administration, de tous les coûts et risques liés au 
+transport, ainsi que du dédouanement et des droits de douane (s'il y a lieu).
+
+Dans le premier espace en blanc, préciser le type de document (à savoir le 
+contrat, l'offre à commandes ou la commande subséquente); et dans a) et entre 
+les parenthèses dans b), préciser les coordonnées de l'usine de l'entrepreneur.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les marchandises seront expédiées au point de destination précisé 
+       dans _______ et seront livrées :
+
+       a)     franco bord (origine) transporteur _________ pour les 
+              expéditions en provenance du gouvernement des États-Unis;
+
+       b)     FCA franco transporteur (... lieu convenu, à savoir 
+              l'installation de l'entrepreneur) des Incoterms 2000 pour les 
+              expéditions en provenance d'un fournisseur commercial.
+
+2.     Le Canada sera responsable de tous les frais de transport et 
+       d'administration, de tous les  coûts et risques reliés au transport, 
+       ainsi que du dédouanement et des droits de douane (s'il y a lieu).
+
+
+</pre>
+</div>

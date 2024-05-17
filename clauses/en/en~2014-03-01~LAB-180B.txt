@@ -1,0 +1,6 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ SACC Supplemental General Conditions LAB-180B are cancelled as a result of the Jobs, Growth and Long-Term Prosperity Act that received Royal Assent and included provisions that the Fair Wages and Hours of Labour Act be repealed on January 1, 2014. Consequently, the Fair Wages and Hours of Labour Regulations and the Fair Wages Policy Order are also repealed.  As a result, Government of Canada construction contracts entered to after January 1, 2014 no longer require provisions relating to fair wages.  However, contracts entered to before January 1, 2014 that contained fair wage provisions will continue to be enforced by the Labour Program.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>See revision history.</pre>
+</div>

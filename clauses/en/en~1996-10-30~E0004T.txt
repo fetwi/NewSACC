@@ -1,0 +1,76 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations where bid financial security is 
+required.  Contracting officers should insert percentages and amounts in section 
+4. If choice of security is to be restricted, delete section 1, subsection (a) 
+or (b) as applicable. Refer to procedure 6.279, Bid/Contract Security 
+(Financial), in the Supply Manual. Copies of the annexes referred to in this 
+clause can be found in the Supply Manual under "Annexes".
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Bid financial security is required and shall consist of:
+
+       (a)    a security deposit as defined hereunder, or
+
+       (b)    a bid bond issued by a surety listed in Annex 7.2 Acceptable 
+              Bonding Companies on the format shown as Annex 7.1 Bid Bond 
+              attached hereto.
+
+2.     Definitions
+
+       (a)    "<strong>security deposit</strong>" means
+
+              (1)    a bill of exchange that is
+
+                     (i)    payable to the Receiver General for Canada, and
+
+                     (ii)   certified by an approved financial institution 
+                            or drawn by an approved financial institution 
+                            on itself; or
+
+              (2)    a bond of the Government of Canada or a bond 
+                     unconditionally guaranteed as to principal and 
+                     interest by the Government of Canada that is
+
+                     (i)    payable to bearer; or 
+
+                     (ii)   accompanied by a duly executed instrument of 
+                            transfer of the bond to the Receiver General 
+                            for Canada in accordance with the Domestic 
+                            Bonds of Canada Regulations; or
+
+                     (iii)  registered in the name of the Receiver General 
+                                   for Canada.
+
+       (b)    "<strong>Approved financial institution</strong>" means
+
+              (1)    any corporation or institution that is a member of the 
+                     Canadian Payments Association;
+
+              (2)    a corporation that accepts deposits that are insured 
+                     by the Canada Deposit Insurance Corporation or the "
+                     Régie de l'assurance-dépôts du Québec" to the maximum 
+                     permitted by law;
+
+              (3)    a credit union as defined in the <em>Income Tax Act</em>; or
+
+              (4)    a corporation that accepts deposits from the public, 
+                     if repayment of the deposits is guaranteed by Canada 
+                     in right of a province.
+ 
+3.     Security deposits in the form of coupon bonds must have attached 
+       thereto all coupons that are unmatured at the time such bonds are 
+       delivered to Canada.  Canada may, from time to time detach matured 
+       coupons and send them to the bidder at the address noted on the bid, 
+       unless advised otherwise by the Contractor.
+
+4.     Where the bid price is $250,000 or less, the security deposit shall 
+       be _____ percent thereof. Where the bid price exceeds $250,000, the 
+       security deposit shall be $ _____ plus _____ percent of the amount 
+       by which the bid price exceeds $250,000, to a maximum of $ _____. 
+
+5.     Bidders who supply a security deposit as bid security are required 
+       to submit their bids under seal (does not apply in Quebec).
+
+</pre>
+</div>

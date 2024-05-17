@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when AQAP-150 is the requirement.This clause may only 
+be used in conjunction with D5540D, Quality Assurance - ISO 9001 (QAC X) and 
+where supplementary requirements for software development are appropriate.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the following:
+
+       AQAP-150 -- NATO Quality Assurance Requirements for Software 
+       Development,
+
+       published by NATO, current edition at date of submission of 
+       Contractor's bid.
+
+
+</pre>
+</div>

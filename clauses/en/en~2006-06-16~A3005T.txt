@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations for service requirements, where 
+specific individuals will be proposed for the work.  Use in conjunction with 
+A3015C.
+
+When using the Medium Complexity template 2T-MED1, insert this clause, if 
+applicable, in Annex X - Certifications Precedent to Contract Award, and delete 
+the last sentence of the third paragraph "Failure to comply with such request 
+may result in the rejection of the bid without further consideration."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder certifies that, should it be awarded a contract as a result of 
+this bid solicitation, the persons proposed in its bid will be available to 
+commence performance of the Work as required by Canada's representatives 
+and at the time specified in this bid solicitation or agreed to with 
+Canada's representatives.
+
+If the Bidder has proposed any person in fulfillment of this requirement 
+who is not an employee of the Bidder, the Bidder certifies that it has 
+written permission from such person to propose his/her services in relation 
+to the Work to be performed and to submit his/her résumé to Canada.
+
+During the bid evaluation, the Bidder must, upon request from the 
+   Contracting Authority, provide a copy of the written permission given by 
+   the person proposed and confirmation of his/her availability.  Failure 
+   to comply with such request may result in the rejection of the bid 
+   without further consideration.
+</pre>
+</div>

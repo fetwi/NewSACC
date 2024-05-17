@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where the GST may apply.  No GST clause is 
+necessary where the contract is for imported services or imported intangible 
+personal property.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Goods and Services Tax (GST) is extra to the price herein.  All prices 
+   and amounts of money in the Contract are exclusive of GST unless 
+   otherwise indicated. The estimated GST is included in the total 
+   estimated cost. GST, to the extent applicable, will be incorporated into 
+   all invoices and progress claims and will be paid by Canada.  GST will 
+   be shown as a separate item on invoices and progress claims.  All items 
+   that are zero-rated, exempt or to which the GST does not apply are to be 
+   identified as such on all invoices.  The Contractor agrees to remit to 
+   Revenue Canada any GST paid or due.
+</pre>
+</div>

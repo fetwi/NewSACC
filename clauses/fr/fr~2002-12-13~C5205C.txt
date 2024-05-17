@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les documents contractuels lorsque les travaux 
+comprennent des services de transport.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur accepte de payer à ses sous-traitants, pour tous les 
+       services de transport requis dans le cadre de ce contrat, les taux 
+       minimums ou maximums de transport établis par le gouvernement 
+       provincial ou territorial compétent dans le secteur géographique où 
+       se dérouleront les travaux, la majorité des travaux ou l'élément le 
+       plus considérable des travaux.  L'entrepreneur accepte de faire 
+       l'objet d'une vérification par l'autorité provinciale ou 
+       territoriale compétente.
+
+2.     Si une telle vérification révèle que l'entrepreneur ne respecte pas 
+       cette exigence, il est convenu que le gouvernement pourra imposer 
+       des sanctions à l'entrepreneur.
+
+
+</pre>
+</div>

@@ -1,0 +1,61 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le sous-traitant n'a pas été indentifié de 
+façon précise au moment de l'adjudication du contrat.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>(1)  A moins d'indication contraire dans la Contrat, l'Entrepreneur devra 
+obtenir le consentement écrit du Ministre avant de confier en 
+sous-traitance toute partie du Travail.  Lorsque le consentement est requis 
+et que l'Entrepreneur se propose de solliciter des soumissions auprès de 
+sources autres que canadiennes, l'Entrepreneur devra obtenir un 
+consentement écrit avant de faire cette sollicitation. Tout consentement 
+afférent au recours à la sous-traitance ne dégage pas l'Entrepreneur de ses 
+obligations en vertu du Contrat et ne doit pas être interprété comme 
+autorisant la création d'un engagement quelconque du Canada ou du Ministre 
+à l'égard du sous-traitant.
+
+(2)  Dans tout contrat de sous-traitance autre qu'un contrat de 
+sous-traitance mentionné à l'alinéa (3) b), l'Entrepreneur convient de lier 
+le sous-traitant par des conditions semblables à celles du Contrat et, de 
+l'opinion du Ministre, non moins favorables au Canada, dans la mesure ou 
+elles s'appliquent au Travail confié en sous-traitance, sauf exception 
+consentie par le Ministre.
+
+(3)  Nonobstant l'alinéa (1), l'Entrepreneur peut, sans consentement 
+préalable du Ministre :
+
+       a) acheter des articles que l'on trouve dans le commerce et des 
+       articles et matériaux standard habituellement fabriqués ou produits 
+       par les usines dans le cours normal des affaires;
+
+       b) confier en sous-traitance toute partie du Travail à un ou 
+       plusieurs sous-traitants, jusqu'à concurrence d'une valeur totale de:
+
+              (i) dans le cas des contrats d'une valeur allant jusqu'à 100,000$ 
+              - 50 p.100 de la valeur du Contrat,
+
+              (ii) dans le cas des contrats dont la valeur dépasse 100,000$ 
+              - 50,000$ plus 10 p.100 de la valeur du Contrat en sus de 100,000$ 
+              jusqu'à concurrence d'une valeur totale de 100,000$.
+
+       c)  autoriser ses sous-traitants de premier niveau et de niveau 
+       subalterne à faire des achats ou à recourir à la sous-traitance tel 
+       que permis aux sous-alinéas (a) et (b).
+
+(4)  A moins de stipulation contraire dans la convention, l'Entrepreneur 
+n'est pas obligé de demander de consentement pour accorder des contrats de 
+sous-traitance mentionnés au Contrat.
+
+(5)  Lorsque le consentement est requis, l'Entrepreneur devra soumettre à 
+l'Agent de négociation des contrats scientifiques une Demande 
+d'autorisation de sous-traiter une partie de contrat, formule DSS-MAS 1137, 
+remplie, une copie du contrat de sous-traitance proposé, et tout 
+renseignement supplémentaire requis par l'Agent de négociation des contrats 
+scientifiques. 
+LA FORMULE DSS-MAS 1137 - DEMANDE D'AUTORISATION DE SOUS-TRAITER UNE PARTIE 
+   DE CONTRAT, jointe à titre d'annexe ____ , est modifiée de la façon 
+   suivante : dans le bloc APPROBATION, après les mots Conditions générales 
+   du MAS, ajouter (Recherche et Développement) DSS-MAS 9224.
+</pre>
+</div>

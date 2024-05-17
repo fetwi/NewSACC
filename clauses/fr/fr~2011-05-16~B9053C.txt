@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats avec des autorisations de tâches lorsque deux contrats ou plus sont attribués.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B9054C
+  
+  .
+ </p>
+<p>
+  Pour de plus amples renseignements, consulter l'article
+  
+   3.35.1.20
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p><span class="input-required"><var>___</var> <kbd>(<em>insérer le nombre</em>)</kbd></span> contrats ont été attribués suite à la demande de soumissions de Travaux publics et Services gouvernementaux Canada (TPSGC) portant le numéro <span class="input-required"><var>________________</var> <kbd>(<em>insérer le numéro</em>)</kbd></span>. Voici l'ordre de classement des entrepreneurs :</p>
+<p>Premier rang : <var>____________</var></p>
+<p>Deuxième rang : <var>___________</var></p>
+<p>(<em>Insérer autant de lignes qu'il y a d'entrepreneurs</em>)</p>
+</div></pre>
+</div>

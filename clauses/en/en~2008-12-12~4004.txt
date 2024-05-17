@@ -1,0 +1,241 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following supplemental general conditions in contracts for maintenance 
+and support services for licensed software.
+
+Use in conjunction with one of the following general conditions 1026A, 1026B, 
+2010A, 2030, 2035 or 2040, and with other supplemental general conditions, as 
+applicable.  Do not use with 2029, 2010B and 2010C.
+
+When more than one supplemental general conditions apply to the requirement, 
+contracting officers must list the supplemental general conditions in the 
+priority of documents clause in ascending order based on the identification 
+number.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Software Error Correction Services
+03     Maintenance Releases
+04     Media
+05     Support Services
+06     Support Charges and On-site Services
+07     Canada's Responsibilities
+08     Excluded Services
+
+<strong>4004   01     (2008-05-12)  Interpretation</strong>
+
+1.     In the Contract, unless the context requires otherwise,
+
+       "General Conditions" means the general conditions that form part of 
+       the Contract;
+
+       "Maintenance Releases" means all commercially available enhancements, 
+       extensions, improvements, upgrades, updates, releases, versions, 
+       renames, rewrites, cross-grades, components and back grades or other 
+       modifications to the Licensed Software developed or published by the 
+       Contractor or its licensor; 
+
+       "Software Error" means any software instruction or statement 
+       contained in or absent from the Licensed Programs, which, by its 
+       presence or absence, prevents the Licensed Programs from operating 
+       in accordance with the Specifications;
+
+       "Software Support Period" means the period specified in the Contract 
+       during which the Contractor must support the Licensed Software, in 
+       accordance with the conditions of the Contract.
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these supplemental general conditions have the meanings given to 
+       them in the General Conditions. 
+
+3.     In the event of any inconsistency between the General Conditions and 
+       these supplemental general conditions, the applicable provisions of 
+       these supplemental general conditions will prevail.
+
+4.     If Supplemental General Conditions 4003 form part of the Contract, 
+       words and expressions defined in those supplemental general 
+       conditions and used in these supplemental general conditions will 
+       have the meanings given to them in those supplemental general 
+       conditions.
+
+5.     If Supplemental General Conditions 4003 do not form part of the 
+Contract, then,
+
+       "Software Documentation" means all of the manuals, handbooks, user 
+       guides and other human-readable material which have been provided by 
+       the Contractor to Canada for use with the Licensed Programs, whether 
+       provided in printed form or on magnetic tape, disk or on other Media;
+
+       "Licensed Programs" means all of the computer programs, in 
+       object-code form, that must be supported by the Contractor under the 
+       Contract;
+
+       Licensed Software" means the Licensed Programs and the Software 
+       Documentation collectively;
+
+       "Media" means the material or medium on which the Licensed Programs 
+       are stored for delivery to Canada, including electronic media such 
+       as magnetic disks or electronic downloads.  Media does not include 
+       the Licensed Software stored on the Media.
+
+6.     The sections of the General Conditions entitled "Ownership" and "
+       Warranty" do not apply to the Licensed Software and the Media.  The 
+       ownership, warranty and support provisions contained in these 
+       supplemental general conditions and in Supplemental General 
+       Conditions 4003, if that set forms part of the Contract, apply in 
+       place of those sections.
+
+<strong>4004   02     (2008-05-12)  Software Error Correction Services</strong>
+
+1.     Canada may report to the Contractor any failure of the Licensed 
+       Programs to operate in accordance with the Software Documentation or, 
+       if applicable, the Specifications during the Software Support Period.  
+       Canada may report failures either in writing or by telephone or 
+       other remote communication.  Upon receipt of a report of a failure 
+       from Canada, unless provided otherwise in the Contract, the 
+       Contractor must use all reasonable efforts to provide Canada within 
+       the time frames established in subsections 2 and 3, with a 
+       correction of the Software Error which caused the failure.  Any such 
+       software correction must cause the Licensed Programs to meet the 
+       Software Documentation or, if applicable, the Specifications during 
+       the Software Support Period.  The Contractor must use all reasonable 
+       efforts to provide permanent corrections for all Software Errors and 
+       the Contractor warrants that the Licensed Software will meet the 
+       functional and performance criteria set out in the Specifications.  
+       All Software Error corrections will become part of the Licensed 
+       Software and will be subject to the conditions of Canada's license 
+       with respect to the Licensed Software.
+
+2.     Unless provided otherwise in the Contract, the Contractor must 
+       respond to a report of a Software Error in accordance with the 
+       severity of the Software Error, as detailed in subsection 3.  The 
+       severity will be reasonably determined by Canada, and communicated 
+       to the Contractor, based on the following definitions:
+
+       Severity 1:   indicates total inability to use a Licensed Program, 
+                     resulting in a critical impact on user objectives;
+
+       Severity 2:   indicates ability to use a Licensed Program but user 
+                     operation is severely restricted;
+
+       Severity 3:   indicates ability to use a Licensed Program with 
+                     limited functions which are not critical to overall 
+                     user operations;
+
+       Severity  4:  indicates that the problem has been by-passed or 
+                     temporarily corrected and is not affecting user 
+                     operations.
+
+3.     Unless provided otherwise in the Contract, the Contractor must use 
+       reasonable efforts to correct Software Errors as follows:
+
+       Severity 1:   within twenty-four (24) hours of notification by 
+       Canada;
+
+       Severity 2:   within seventy-two (72) hours of notification by 
+       Canada;
+
+       Severity 3:   within fourteen (14) days of notification by Canada;
+
+       Severity 4:   within ninety (90) days of notification by Canada.
+
+4.     If Canada reports a Software Error to the Contractor, Canada must 
+       give the Contractor reasonable access to the computer system on 
+       which the Licensed Program resides, and must provide such 
+       information as the Contractor may reasonably request, including 
+       sample output and other diagnostic information, in order to permit 
+       the Contractor to expeditiously correct the Software Error.
+
+<strong>4004   03     (2008-05-12)  Maintenance Releases</strong>
+
+During the Software Support Period, the Contractor must provide to Canada 
+all Maintenance Releases, in object-code form, at no additional cost.  All 
+Maintenance Releases will become part of the Licensed Software and will be 
+subject to the conditions of Canada's license with respect to the Licensed 
+Software. Unless provided otherwise in the Contract, Canada will receive at 
+least one Maintenance Release during any twelve (12) month maintenance 
+period.
+
+<strong>4004   04     (2008-05-12)  Media</strong>
+
+1.     The Contractor must provide to Canada all Software Error corrections, 
+       Maintenance Releases and updates on Media that are free of defects 
+       and of computer viruses, and which are compatible with the computer 
+       systems on which the Licensed Programs are installed.
+
+2.     Canada will own the Media provided to Canada in the performance of 
+       the software support services upon delivery to and acceptance of the 
+       Media by or on behalf of Canada.  For the purposes of this 
+       subsection, "Media" does not include the Licensed Software stored on 
+       the Media.
+
+<strong>4004   05     (2008-05-12)  Support Services</strong> 
+
+If the Contract provides for support services, the Contractor must provide 
+to Canada access to the Contractor's personnel, to help Canada in answering 
+questions with respect to the Licensed Software, during the hours specified 
+in the Contract.  If the hours are not specified in the Contract, this 
+access to the Contractor's personnel must be between the hours of  8:00 a.m. 
+to 5:00 p.m., local time, at the site where the Licensed Programs are 
+installed, Monday through Friday, exclusive of statutory holidays observed 
+by Canada at such site.  Canada's access to the Contractor's personnel must 
+include telephone, fax, e-mail and Internet access and, if expressly 
+provided in the Contract, on-site and Swift Action Tactical (SWAT) services.  
+If applicable and if specified in the Contract, Canada will, by notice in 
+writing to the Contractor, appoint a user representative or representatives 
+who will be the only individual(s) entitled to access the support services 
+on behalf of Canada.  Canada may change any such appointment by subsequent 
+notice to the Contractor.
+
+<strong>4004   06     (2008-05-12)  Support Charges and On-site Services</strong>
+
+Unless provided otherwise in the Contract, the monthly or yearly support 
+charge specified in the Contract is inclusive of all software support 
+services described in the Contract, except for On-site and SWAT response 
+and Software Error correction services.  The Contractor must provide 
+on-site services, when requested by Canada, at the hourly or daily labour 
+rates specified in the Contract.  Reasonable travel and living costs 
+incurred by the Contractor in connection with on-site services, if approved 
+in advance by Canada, will be reimbursed to the Contractor in accordance 
+with the guidelines specified in the Contract, or, if no guidelines are 
+specified, in accordance with applicable Treasury Board guidelines.   All 
+such pre-approved costs must be invoiced to Canada as a separate charge.
+
+<strong>4004   07     (2008-05-12)  Canada's Responsibilities</strong>
+
+1.     Unless provided otherwise in the Contract, Canada will maintain, for 
+       the Software Support Period, a telephone line and Internet access 
+       for use in connection with the software support services.  Canada 
+       will be responsible for the installation, maintenance and use of 
+       such equipment and associated telephone charges.  The Contractor may 
+       use the telephone line and electronic mail in connection with the 
+       provision of the software support services.
+
+2.     Unless provided otherwise in the Contract, Canada will be 
+       responsible for the installation of all Software Error corrections 
+       and Maintenance Releases and upgrades.
+
+3.     Canada will protect data from loss by implementing back-up 
+procedures.
+
+<strong>4004   08     (2008-05-12)  Excluded Services</strong>
+
+The Contractor is not obligated to correct a failure of the Licensed 
+Programs to operate in accordance with the Specifications if the failure 
+results from:
+
+(a)    use of the Licensed Software by Canada that is not  in accordance 
+       with Canada's license;
+
+(b)    the use of hardware or software that is supplied by a person other 
+       than the Contractor or a subcontractor and that is not in accordance 
+       with the Specifications; or
+
+(c)    modifications to the Licensed Software that are not approved by the 
+       Contractor or a subcontractor.
+
+
+
+</pre>
+</div>

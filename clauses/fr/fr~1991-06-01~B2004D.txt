@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tout le bois d'oeuvre fourni doit être estampillé de façon à indiquer la 
+   catégorie, l'essence et l'agence de classement autorisée par le Conseil 
+   d'administration canadien des normalisations de scieries (CACNS) de 
+   l'ACNOR à faire le marquage du bois d'oeuvre au Canada quant à la 
+   catégorie. 
+</pre>
+</div>

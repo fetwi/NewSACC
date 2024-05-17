@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque les frais de transport doivent être soumis à 
+la Direction de la gestion des transports pour analyse.  Pour savoir quand ces 
+frais doivent être soumis à DGT, incluant la liste des exceptions, consulter la 
+procédure 6E.621 du Guide des approvisionnements, et pour obtenir des 
+renseignements supplémentaires sur les exigences obligatoires relatives à 
+l'information sur les frais de transport, consulter la procédure 7D.409 du Guide 
+des approvisionnements.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le soumissionnaire fournira l'information suivante sur les frais de 
+       transport qui pourraient être encourus soit par le Canada ou 
+       l'entrepreneur lors de la livraison des unités à destination :
+
+       a)     poids à l'expédition, par unité;
+       b)     nombre d'articles par unité;
+       c)     cubage par unité;
+       d)     catégorie de marchandise;
+       e)     lieu d'expédition;
+       f)     nom du transporteur ferroviaire, si l'expédition est par 
+              chemin de fer; et
+       g)     mode d'expédition recommandé et coût afférent.
+
+
+</pre>
+</div>

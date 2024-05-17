@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Her Majesty may, upon written notice to that effect to the Contractor, 
+purchase any or all of the leased products at any time during the rental 
+period.  In this event, ___ percent of the rental paid up to a maximum of ___ 
+percent of the offered unit purchase price will be credited at the time of 
+purchase.
+
+Unit Purchase Price:  $_____ Item _____
+
+</pre>
+</div>

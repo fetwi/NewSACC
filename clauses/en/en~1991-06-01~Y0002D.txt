@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Include in all bid solicitations and contracts placed on behalf of
+ <abbr title="Canadian International Development Agency">
+  CIDA
+ </abbr>
+ with 
+commercial suppliers, when the supplier is responsible for transportation 
+arrangements.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The commercial supplier shall obtain any required export
+permits.</p>
+</div></pre>
+</div>

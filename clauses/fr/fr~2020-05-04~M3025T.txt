@@ -1,0 +1,124 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans toutes les demandes d'offres à commandes concurrentielles pour des
+  <strong>
+   services
+  </strong>
+  . Pour les besoins non-concurrentiels, utiliser la clause
+  
+   M3026T
+  
+  .  Cette clause sert à identifier tout offrant qui pourrait être un ancien fonctionnaire :
+ </p>
+<ol start="1" type="a">
+<li>
+   à des fins d'approbation lorsque l'offrant retenu est un ancien fonctionnaire qui touche une pension versée en vertu de la
+   <cite>
+
+     Loi sur la pension de la fonction publique
+    
+</cite>
+   ; et
+  </li>
+<li>
+   informer l’offrant retenu que les rapports de divulgation proactive des marchés publiés comprendront des renseignements indiquant si l’offrant retenu est un ancien fonctionnaire touchant une pension en vertu de la
+   <cite>
+
+     Loi sur la pension de la fonction publique
+    
+</cite>
+   (LPFP).
+  </li>
+</ol>
+<p>
+  Fournir cette information constitue une condition préalable à l'émission d'une offre à commandes, par opposition aux exigences obligatoires, pour les besoins de l'évaluation.
+ </p>
+<p>
+  Pour plus de renseignements, consulter les articles
+  
+   3.90 Anciens fonctionnaires
+  
+  et
+  
+   7.65 Divulgation proactive
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les contrats attribués à des anciens fonctionnaires qui touchent une pension ou qui ont reçu un paiement forfaitaire doivent résister à l'examen scrupuleux du public et constituer une dépense équitable des fonds publics. Afin de respecter les politiques et les directives du Conseil du Trésor sur les contrats attribués à des anciens fonctionnaires, les offrants doivent fournir l'information exigée ci-dessous avant l’émission d’une offre à commandes.  Si la réponse aux questions et, s’il y a lieu les renseignements requis, n’ont pas été fournis par le temps où l’évaluation des offres est complétée, le Canada informera l’offrant du délai à l’intérieur duquel l’information doit être fournie.  Le défaut de se conformer à la demande du Canada et satisfaire à l’exigence dans le délai prescrit rendra l’offre non recevable.</p>
+<h2>Définitions</h2>
+<p>Pour les fins de cette clause,</p>
+<p><dfn>« <q>ancien fonctionnaire</q> »</dfn> signifie tout ancien employé d'un ministère au sens de la <cite>Loi sur la gestion des finances publiques</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> F-11, un
+ancien membre des Forces armées canadiennes ou de la
+Gendarmerie royale du Canada. Un ancien fonctionnaire peut
+être :</p>
+<ol type="a">
+<li value="1">un individu;</li>
+<li value="2">un individu qui s'est incorporé;</li>
+<li value="3">une société de personnes constituée
+d'anciens fonctionnaires; ou</li>
+<li value="4">une entreprise à propriétaire unique ou une
+entité dans laquelle la personne visée détient un
+intérêt important ou majoritaire.</li>
+</ol>
+<p><dfn>« <q>période du paiement forfaitaire</q> »</dfn> signifie la
+période mesurée en semaines de salaire à
+l'égard de laquelle un paiement a été fait pour
+faciliter la transition vers la retraite ou vers un autre emploi
+par suite de la mise en place des divers programmes visant à
+réduire la taille de la fonction publique. La période du
+paiement forfaitaire ne comprend pas la période visée par
+l'allocation de fin de services, qui se mesure de façon
+similaire.</p>
+<p><dfn>« <q>pension</q> »</dfn> signifie une pension ou une allocation
+annuelle versée en vertu de la <cite>Loi sur la pension de la fonction publique</cite> (LPFP), <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> P-36, et toute
+augmentation versée en vertu de la <cite>Loi sur les prestations de retraite supplémentaires</cite> <abbr title="Lois révisées">L.R.</abbr>, 1985 <abbr title="chapitre">ch.</abbr>
+S-24, dans la mesure où elle touche la <abbr title="Loi sur la pension de la fonction publique">LPFP</abbr>. La pension ne
+comprend pas les pensions payables conformément à la
+<cite>Loi sur la pension de retraite des Forces canadiennes</cite>,
+<abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> C-17, à la <cite>Loi sur la continuation de la pension des services de défense</cite>, 1970, <abbr title="chapitre">ch.</abbr> D-3, à
+la <cite>Loi sur la continuation des pensions de la Gendarmerie royale du Canada</cite>, 1970, <abbr title="chapitre">ch.</abbr> R-10, et à la <cite>Loi sur la pension de retraite de la Gendarmerie royale du Canada</cite>,
+<abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> R-11, à la <cite>Loi sur les allocations de retraite des parlementaires</cite>, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> M-5, et à
+la partie de la pension versée conformément à la
+<cite>Loi sur le Régime de pensions du Canada</cite>, <abbr title="Lois révisées">L.R.</abbr>,
+1985, <abbr title="chapitre">ch.</abbr> C-8.</p>
+<h2>Ancien fonctionnaire touchant une pension</h2>
+<p>Selon les définitions ci-dessus, est-ce que l'offrant est un ancien fonctionnaire touchant une
+pension?</p>
+<p> <strong>Oui</strong><var title="checkbox">( )</var> <strong>Non</strong> <var title="checkbox">( )</var></p>
+<p>Si oui, l'offrant doit fournir l'information suivante pour tous les anciens fonctionnaires touchant une pension, le cas échéant :</p>
+<ol type="a">
+<li value="1">le nom de l'ancien fonctionnaire;</li>
+<li value="2">la date de cessation d'emploi dans la fonction
+publique ou de la retraite.</li>
+</ol>
+<p>En fournissant cette information, les offrants acceptent que le statut de l’offrant retenu, en tant qu’ancien fonctionnaire touchant une pension en vertu de la <abbr title="Loi sur la pension de la fonction publique">LPFP</abbr>, soit publié dans les rapports de divulgation proactive des marchés, sur les sites Web des ministères, et ce conformément à l’Avis sur la Politique des marchés : 2019-01 et les Lignes directrices sur la divulgation des marchés.</p>
+<h2>Directive sur le réaménagement des effectifs</h2>
+<p>Est-ce que l'offrant est un ancien fonctionnaire qui a reçu un paiement forfaitaire en vertu de la Directive sur le réaménagement des effectifs? </p>
+<p><strong>Oui</strong> <var title="checkbox">( )</var> <strong>Non</strong> <var title="checkbox">( )</var></p>
+<p>Si oui, l'offrant doit fournir l'information suivante :</p>
+<ol type="a">
+<li value="1">le nom de l'ancien fonctionnaire;</li>
+<li value="2">les conditions de l'incitatif versé sous forme
+de paiement forfaitaire;</li>
+<li value="3">la date de la cessation d'emploi;</li>
+<li value="4">le montant du paiement forfaitaire;</li>
+<li value="5">le taux de rémunération qui a servi au
+calcul du paiement forfaitaire;</li>
+<li value="6">la période correspondant au paiement
+forfaitaire, incluant la date du début, d'achèvement et
+le nombre de semaines;</li>
+<li value="7">nombre et montant (honoraires professionnels) des
+autres contrats assujettis aux conditions d'un programme de
+réaménagement des effectifs.</li>
+</ol>
+</div></pre>
+</div>

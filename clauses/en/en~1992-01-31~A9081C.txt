@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in services contracts when the work is to be performed on 
+government premises.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Where the performance of work requires the presence of the Contractor's 
+   personnel on government premises, the Contractor shall ensure that its 
+   personnel shall comply with the policy of the Government of Canada which 
+   prohibits smoking on any government premises.  
+</pre>
+</div>

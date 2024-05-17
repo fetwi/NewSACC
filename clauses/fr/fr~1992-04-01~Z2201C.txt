@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans tous les contrats prévoyant l'exportation de 
+marchandises.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>La formule B13 (Déclaration douanière d'exportation)
+doit accompagner les envois effectués dans les circonstances
+suivantes, et ce pour toutes les marchandises :</p>
+<ol type="a">
+<li value="1">exportées en transit du Canada aux
+États-Unis (contrats de ventes de matériel militaire
+à l'étranger);</li>
+<li value="2">exportées vers un pays autre que les
+États-Unis; ou</li>
+<li value="3">qui relèvent de la classification tarifaire
+suivante :
+<ol type="i">
+<li value="1">avions (8802.30.00; 8802.40.00);</li>
+<li value="2">satellites et équipement de
+télécommunications (8802.50.10; 8802.50.90);</li>
+<li value="3">simulateurs (8805.20.00);</li>
+<li value="4">navires et bateaux (8901.10.00; 8901.20.00; 8901.30.00;
+8901.90.10; 8901.90.90; 8902.00.10; 8902.00.20);</li>
+<li value="5">uranium (2612.10.00; 2844.10.00);</li>
+<li value="6">or (2616.90.00; 7108.11.00; 7108.12.00; 7108.13.10;
+7108.13.20; 7108.20.00; 7109.00.00; 7112.10.00; 7115.90.90;
+7118.90.00).</li>
+</ol>
+</li>
+</ol>
+<p>En remplissant la formule B13 :</p>
+<ol type="a">
+<li value="1">indiquer que la Corporation commerciale canadienne,
+Ottawa, Canada est l'exportatrice;</li>
+<li value="2">le numéro d'exportateur de la <abbr title="Corporation commerciale canadienne ">CCC</abbr> MAQ616025 doit
+figurer dans la case prévue à cet effet, juste au-dessus
+du nom de la <abbr title="Corporation commerciale canadienne ">CCC</abbr>;</li>
+<li value="3">les formules doivent être signées par
+l'Entrepreneur à titre d'agent autorisé de la Corporation
+commerciale canadienne, et doivent indiquer le nom de
+l'Entrepreneur au complet.</li>
+</ol>
+<p class="desription">Note : tous les autres envois de marchandises non inclus dans les catégories ci-dessus n'exigent pas que l'on remplisse la 
+formule B13.</p>
+</div></pre>
+</div>

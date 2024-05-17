@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>A.  Autorité contractante :
+
+       Ministère des Approvisionnements et Services
+       Centre d'approvisionnement, Région de la Capitale
+       Groupe des achats
+       1010, rue Somerset Ouest
+       Ottawa (Ontario)
+       K1A 0T4
+
+       A l'attention de :
+
+       Nâ de téléphone : (613)_____ poste ____
+
+B.  Responsable de l'inspection :
+
+       (1)  Commission de la Fonction publique
+
+       Direction générale de la dotation
+       300, rue Laurier Ouest
+       L'Esplanade Laurier
+       Ottawa (Ontario)
+       K0A 3M0
+
+       (2)  Des Services effectivement rendus :
+
+       La personne autorisée du gouvernement fédéral qui fait la demande ou 
+   l'usager désigné sur place dont le nom figure sur la formule DSS-MAS 
+   8251, Commande subséquente à une offre permanente pour services de 
+   travail temporaire. 
+</pre>
+</div>

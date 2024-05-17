@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La présente clause doit être utilisée lorsqu'il faut nommer un responsable des 
+lieux dans les documents d'invitations à soumissionner et documents 
+contractuels. Les agents des achats doivent fournir les renseignements 
+appropriés tel qu'indiqué dans la demande. Les responsabilités de cette personne 
+doivent être décrites dans l'énoncé des travaux.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le responsable des lieux est la personne suivante :
+
+Nom : _____
+Titre de l'agent : _____
+Organisme : _____
+Adresse : _____
+
+Téléphone :   _____
+Télécopieur : _____
+
+</pre>
+</div>

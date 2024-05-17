@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'assurance officielle de la qualité à la 
+source et/ou à la destination est requise et que l'ébauche de Demande de biens 
+et de services comporte plusieurs codes de l'assurance de la qualité (CAQ).  Si 
+l'ébauche de la Demande de biens et de services inclus un seul CAQ, employer 
+plutôt une des clauses suivantes : D5530D, D5531D, D5532D, D5533D, D5534D, 
+D5535D, D5536D, D5537D, D5539D, D5540D, D5541D, D5542D, ou D5580D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences du système de la qualité 
+indiquées dans le contrat lesquelles correspondent aux codes de l'assurance 
+de la qualité énumérés sur les feuilles de continuation.
+
+D5530D - Vérification à destination (CAQ B)
+
+D5531D - Inspection à destination (CAQ A)
+
+D5532D - AQAP-110  Conception, développement et production (CAQ H)
+
+D5533D - AQAP-130 Contrôle (CAQ G)
+
+D5534D - AQAP-131 Contrôle final (CAQ D)
+
+D5535D - AQAP-150 Développement de logiciels (CAQ F)
+
+D5536D - D-QA-001-015/SF-001 (CAQ E)
+
+D5537D - D-QA-001-015/SF-002 (CAQ P)
+
+D5539D - AQAP-120 Production (CAQ W)
+
+D5540D - ISO 9001 Conception, développement et production (CAQ X)
+
+D5541D - ISO 9002 Production et installation (CAQ Y)
+
+D5542D - ISO 9003 Contrôle final (CAQ Z)
+
+D5580D - FAA - É.-U./MT (CAQ J)
+
+
+</pre>
+</div>

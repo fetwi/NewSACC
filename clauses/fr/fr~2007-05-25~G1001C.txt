@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le contrat contient des exigences 
+particulières en matière d'assurance.
+
+Il est important de définir et d'évaluer les risques que comportent les travaux 
+exécutés en vertu du contrat afin de faire en sorte que l'entrepreneur soit 
+suffisamment assuré et que les intérêts du Canada soient protégés.
+
+On conseille aux agents de négociation des contrats de consulter la Politique 
+sur la gestion des risques du Conseil du Trésor, afin de déterminer, de concert 
+avec leurs clients : 1) si l'option d'auto-souscription du Canada s'applique, 2) 
+si l'entrepreneur est responsable des risques, et 3) si une assurance 
+commerciale est applicable.
+
+Voir les clauses 6C.225 à 6C.227 du Guide des approvisionnements.
+
+Voir la clause G1005C lorsqu'il n'y a pas d'exigences particulières en matière 
+d'assurance.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit respecter les exigences en matière d'assurance prévues 
+à l'annexe ______, et il doit maintenir la protection requise en vigueur 
+pendant toute la durée du contrat.  Le respect des exigences en matière 
+d'assurance ne dégagera pas l'entrepreneur de sa responsabilité en vertu du 
+contrat, ni ne la diminue.
+
+L'entrepreneur est responsable de décider si une assurance supplémentaire 
+est nécessaire pour remplir ses obligations en vertu du contrat et pour se 
+conformer aux lois applicables.  Toute assurance supplémentaire souscrite 
+est à la charge de l'entrepreneur ainsi que pour son bénéfice et sa 
+protection.
+
+L'entrepreneur doit transmettre à l'autorité contractante, dans les dix (10) 
+jours suivant la date d'attribution du contrat, un certificat d'assurance 
+qui décrit en détail la protection, les exclusions, les franchises et les 
+conditions applicables et confirme que la police d'assurance se conformant 
+aux exigences est en vigueur. L'entrepreneur doit, à la demande de 
+l'autorité contractante, transmettre au Canada une copie certifiée de 
+toutes les polices d'assurance applicables.
+
+
+</pre>
+</div>

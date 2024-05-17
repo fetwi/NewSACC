@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats de biens avec des 
+fournisseurs établis au Canada lorsque des paiements anticipés ou progressifs 
+seront faits.
+ </p>
+<p>
+  Pour plus de renseignements, consulter l'article
+  
+   4.70.30.15
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Si un droit de rétention quelconque, en vertu de
+l'article 427 de la <cite>Loi sur les banques</cite>, <abbr title="Lois du Canada">L.C.</abbr> 1991,
+<abbr title="chapitre">ch.</abbr> 46, existe relativement à des matériaux, pièces,
+travaux en cours ou travaux complétés pour lesquels
+l'entrepreneur a l'intention de réclamer des paiements,
+l'entrepreneur s'engage à en informer l'autorité
+contractante immédiatement et s'engage, sauf instructions
+contraires de l'autorité contractante, soit :
+<ol type="a">
+<li value="1">à faire lever ce droit par la banque et à
+fournir à l'autorité contractante une confirmation
+écrite de la banque à ce sujet; ou</li>
+<li value="2">à fournir à l'autorité contractante un
+engagement de la banque par lequel la banque ne fera aucune
+réclamation, en vertu de l'article 427 de la <cite>Loi sur les banques</cite>, sur les matériaux, pièces, travaux en
+cours ou travaux complétés pour lesquels des paiements
+à l'entrepreneur sont faits en vertu du contrat.</li>
+</ol>
+</li>
+<li value="2">Le défaut d'informer l'autorité
+contractante d'un tel droit de rétention ou de se conformer
+à l'alinéa 1.a) ou b) ci-dessus constituera un manquement
+selon l'article sur le manquement des conditions
+générales et permettra au Canada de résilier le
+contrat.</li>
+</ol>
+</div></pre>
+</div>

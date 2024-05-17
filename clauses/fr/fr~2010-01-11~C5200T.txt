@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour des biens 
+lorsque les frais de transport doivent être soumis à la Direction de la gestion 
+des transports du Secteur de la gestion des services et des approvisionnements 
+spéciaux, pour analyse.
+ </p>
+<p>
+  Ne pas utiliser cette clause dans les demandes de soumissions du ministère de la 
+Défense nationale lorsqu'il est responsable de l'expédition.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   C5200C
+  
+  , et
+  
+   D4000C
+  
+  ou
+  
+   D4001C
+  
+  , s'il y a 
+lieu.
+ </p>
+<p>
+  Pour plus de renseignements, consulter les articles
+  
+   4.70.100
+  
+  et
+  
+   5.45.10
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le soumissionnaire doit fournir l'information suivante sur les
+frais de transport pour la livraison des unités à
+destination :</p>
+<ol type="a">
+<li value="1">poids à l'expédition par unité;</li>
+<li value="2">nombre d'articles par unité;</li>
+<li value="3">cubage par unité;</li>
+<li value="4">catégorie de marchandise;</li>
+<li value="5">lieu d'expédition;</li>
+<li value="6">nom du transporteur ferroviaire, si l'expédition
+est par chemin de fer; et</li>
+<li value="7">mode d'expédition recommandé et ses
+coûts.</li>
+</ol>
+</div></pre>
+</div>

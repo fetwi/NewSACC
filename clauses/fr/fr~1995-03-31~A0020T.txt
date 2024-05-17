@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La présente clause doit être utilisée chaque fois que le statut légal et les 
+capacités des soumissionnaires sont retenus comme critères d'évaluation.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Au cours de l'étape d'évaluation et à la demande du Canada, le 
+soumissionnaire autorisera le Canada à effectuer une évaluation qui pourra 
+porter, entre autres, sur son statut légal, ses installations et sur ses 
+capacités techniques, financières et de gestion à remplir les exigences 
+définies dans l'invitation à soumissionner. Ces renseignements doivent être 
+fournis dans un délai de dix (10) jours civils suivant la date de la 
+demande.
+
+
+</pre>
+</div>

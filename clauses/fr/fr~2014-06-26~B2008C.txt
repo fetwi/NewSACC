@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans tous les contrats d’achat de biens ou services électroniques liés à des sites Web publics, à des applications Web publiques du gouvernement du Canada, pour un ministère ou un organisme énuméré aux annexes I, I.1 et II de la
+  <cite>
+
+    Loi sur la gestion des finances publiques
+   
+</cite>
+  . Les travaux doivent se conformer aux normes Web pour le gouvernement du Canada, développées par le Conseil du Trésor, lesquelles comprennent les normes suivantes : la
+  
+   Norme sur l’accessibilité des sites Web
+  
+  , la
+  
+   Norme sur la facilité d’emploi de sites Web
+  
+  , la
+  
+   Norme sur l’interopérabilité du Web
+  
+  , et la
+  
+   Norme sur l’optimisation des sites Web et des applications pour appareils mobiles
+  
+  .
+ </p>
+<p>
+  Les Normes
+  
+   Web pour le gouvernement du Canada
+  
+  sont révisées de façon périodique par le Conseil du Trésor. Les agents de négociation des contrats devraient consulter le site Web du Conseil du Trésor pour la plus récente version des normes.
+ </p>
+<p>
+  Les normes
+  
+   Web pour le gouvernement du Canada
+  
+  peuvent aussi être complétées par des normes et directives développées par chaque ministère ou organisme pour lequel le travail doit être effectué. Il est nécessaire de référer à l’obligation de se conformer à ces normes et directives également.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les travaux doivent se conformer aux normes pour le gouvernement du Canada établies par le Conseil du Trésor, lesquelles comprennent la Norme sur l’accessibilité des sites Web, la Norme sur la facilité d’emploi de sites Web, la Norme sur l’interopérabilité du Web, et la Norme sur l’optimisation des sites Web et des applications pour appareils mobiles. </p>
+<p>De plus, les travaux doivent se conformer aux normes et directives développées par le ministère ou l'organisme pour lequel les travaux sont exécutés. Ces normes et directives sont disponibles au centre d'expertise des Normes sur le Web du ministère ou de l’organisme concerné. </p>
+</div></pre>
+</div>

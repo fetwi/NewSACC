@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to define the packaging specifications for the procurement of 
+items covered by a commodity packaging specifications.   In the first blank, 
+specify the item number(s).  In the second blank, insert the specified Commodity 
+Packaging Specification and description.  For assistance, contact the Director, 
+Supply Resources and Operations (DSRO) 3-2-4-2-2, at (613) 994-9083.
+
+(a)	D-LM-008-005/SF-000, Dry and Thermal Batteries;
+
+(b)	D-LM-008-015/SF-000, Piezoelectric Crystals;
+
+(c)	D-LM-008-021/SF-001, Lead Acid and Dry Charged Batteries;
+
+(d)	D-LM-008-026/SF-001, Preformed Packing, Gaskets or Seals (Rubber, Cork, 
+Asbestos or Leather);
+
+(e)	D-LM-008-027/SF-001, Small Arms Weapons;
+
+(f)	D-LM-008-030/SF-001, Hose, Rubber, Plastic, Fabric or Metal and Fittings;
+
+(g)	D-LM-008-032/SF-000, Non-rechargeable Lithium Batteries;
+
+(h)	D-LM-008-033/SF-000, Bearings, Maritime Matched Sets;
+
+(i)	D-LM-008-034/SF-000, Circuit Cards/Boards and Assemblies;
+
+(j)	D-LM-008-035/SF-001, ESD Sensitive Electronic Parts, Assemblies and 
+Equipment;
+
+(k)	D-LM-008-036/SF-000, DND minimum required for standard pack;
+
+(l)	D-LM-008-037/SF-000, Antifriction Bearings (other than instrument precision 
+bearings).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Preparation for delivery for item (s) _____ shall be in accordance with the 
+latest issue of the Canadian Forces packaging specifications _____.
+
+</pre>
+</div>

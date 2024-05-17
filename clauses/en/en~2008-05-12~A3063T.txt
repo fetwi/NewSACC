@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive bid solicitations for multiple items 
+(line item) when competition is conditionally limited to Canadian goods and the 
+certification must be done on an aggregate basis as defined in paragraph 3(a) of 
+clause A3050T.
+
+Use clause A3062T for multiple items when the certification must be done on an 
+item by item basis.
+
+Use this clause in conjunction with A3050T and A3060C.
+
+Use this clause in conjunction with A3015T and A3070T only if the medium 
+complexity (2T-MED1) or higher complexity (2T-HIGH1) template is not used.  
+Contracting officers must consult the procedures 2T-PROC1 to confirm they cannot 
+use the template for the requirement.
+
+Contracting officers must review the Canadian Content Policy (Supply Manual, 
+Chapter 5 and Annex 5.1) to establish if the requirement is subject to the 
+policy.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is conditionally limited to Canadian goods.
+
+Subject to the evaluation procedures contained in the bid solicitation, 
+bidders acknowledge that only bids with a certification that the good(s) 
+offered are Canadian goods, as defined in clause A3050T, may be considered.
+
+Failure to provide this certification completed with the bid will result in 
+the good(s) offered being treated as non-Canadian goods.
+
+The Bidder certifies that:
+
+              (     )       a minimum of 80 percent of the total bid price 
+              consist of Canadian goods as defined in paragraph 1 of clause 
+              A3050T.
+
+Annex 7.8 of the <em>Supply Manual</em> (http://www.pwgsc.gc.ca/acquisitions/text/sm
+/chapter07-e.html#annex 7.8) shows how Canadian content is determined for a 
+mix of goods, a mix of services or a mix of goods and services.
+
+
+</pre>
+</div>

@@ -1,0 +1,85 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when Government Quality Assurance at source is 
+required.  Use in conjunction with the following clauses as appropriate: D5535D, 
+D5540D, D5541D, D5542D, D5601D and D5620C.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All work shall be subject to Government Quality Assurance (GQA) at the 
+Contractor's facility or that of the subcontractor(s) and at the 
+installation site by the:
+
+       Director General Equipment Program Services
+       Department of National Defence
+       MGen George R. Pearkes Building
+       101 Colonel By Drive
+       Ottawa, ON,   K1A 0K2,
+
+or his designated Quality Assurance Representative, hereafter referred to 
+as the QAR.
+
+<strong>FOR CANADIAN CONTRACTORS</strong>
+
+Within forty-eight (48) hours of receipt of this Contract, the Contractor 
+shall contact the QAR. The name, location and phone number of the QAR can 
+be obtained from the nearest Canadian Forces Quality Assurance Region 
+listed below:
+
+Atlantic - Halifax
+Telephone:    (902) 427-7153
+
+Quebec - Montreal
+Telephone:    (514) 846-4610 or 846-4714
+
+National Capital - Ottawa
+Telephone:    (613) 991-4104 or 991-4112
+
+Ontario - Toronto
+Telephone:    (416) 952-2079 or 952-2077
+
+Ontario - Hamilton
+Telephone:    (905) 572-2756
+
+Ontario - London
+Telephone:    (519) 452-5757
+ 
+Manitoba/Saskatchewan - Winnipeg
+Telephone:    (204) 833-2500, ext. 6574
+
+Alberta - Calgary
+Telephone:    (403) 974-2942
+
+Alberta - Edmonton
+Telephone:    (403) 890-6348
+
+British Columbia - Vancouver
+Telephone: (604) 666-4136
+
+<strong>FOR NON-CANADIAN CONTRACTORS</strong>
+
+If the Contractor has not been contacted by the Agency/QAR performing GQA 
+in the Contractor's facility or area within forty-five (45) working days of 
+receipt of the Contract, the Contractor shall notify the Contracting 
+Authority.
+
+<strong>FOR ALL CONTRACTORS</strong>
+
+The Contractor is responsible for performing, or having performed, all 
+inspections and tests necessary to substantiate that the materiel or 
+services provided conform to contract requirements.
+
+The Contractor shall provide, at no additional cost to the price of the 
+Contract, all applicable test data, all Contractor technical data, test 
+pieces and samples as may reasonably be required by the QAR to verify 
+conformance to contract requirements.  The Contractor shall forward at his 
+expense such technical data, test data, test pieces and samples to such 
+location as the QAR may direct.
+
+Quality Control, Inspection and Test records that substantiate conformance 
+to the specified requirements, including records of corrective actions, 
+shall be retained by the Contractor for three (3) years from the date of 
+completion or termination of the Contract and shall be made available to 
+the QAR upon request.
+
+</pre>
+</div>

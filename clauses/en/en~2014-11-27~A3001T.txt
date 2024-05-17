@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for procurements that have been 
+set aside under the federal government Procurement Strategy for Aboriginal 
+Business (PSAB).
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A3000T
+  
+  ,
+  
+   A3000C
+  
+  , and if applicable,
+  
+   A3002T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>If requested by the Contracting Authority, the Bidder must
+provide the following certification for each owner and employee who
+is Aboriginal:</p>
+<ol type="1">
+<li value="1">I am <span class="input-required"><var>__________________</var> <kbd>(<em>insert "an
+owner" and/or "a full-time employee"</em>)</kbd></span> of <span class="input-required"><var>____________________</var> <kbd>(<em>insert name
+of business</em>)</kbd></span>, and an Aboriginal person, as defined in
+
+Annex 9.4 of the <cite>Supply Manual</cite> entitled "Requirements
+for the Set-aside Program for Aboriginal Business".</li>
+<li value="2">I certify that the above statement is true and
+consent to its verification upon request by Canada.</li>
+</ol>
+<p><var>________________________________</var></p>
+<p>Printed name of owner and/or employee</p>
+<p><var>_____________________________</var></p>
+<p>Signature of owner and/or employee</p>
+<p><var>___________________</var></p>
+<p>Date</p>
+</div></pre>
+</div>

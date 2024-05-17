@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats lorsque le client a confirmé que 
+le contrat sera un contrat de défense au sens de la Loi sur la production de 
+défense.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le contrat est un contrat de défense au sens de la
+<cite>Loi sur la production de défense</cite>, <abbr title="Lois révisées du Canada">L.R.C.</abbr> 1985,
+<abbr title="chapitre">ch.</abbr> D-1, et est régi par cette loi.</p>
+<p>Le droit de propriété sur les travaux ou les
+matériaux, pièces, travaux en cours ou achevés,
+appartient au Canada, libre et quitte de tout privilège,
+réclamation, charge, sûreté ou servitude. Le Canada
+peut, à tout moment, retirer, vendre ou aliéner les
+travaux en tout ou en partie conformément à l'article 20
+de la <cite>Loi sur la production de défense</cite>.</p>
+</div></pre>
+</div>

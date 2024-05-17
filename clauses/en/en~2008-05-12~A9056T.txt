@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in marine bid solicitations when fueling and disembarking fuel from Canadian government vessels must be conducted under the supervision of a responsible supervisor and the successful bidder must provide details of its safety measures before contract award.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A9056C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Fueling and disembarking fuel from Canadian government vessels must be conducted under the supervision of a responsible supervisor trained and experienced in these operations.</p>
+<p>Before contract award and within <span class="input required"><var>______</var> calendar days <kbd>(<strong><em>insert the number of days</em></strong>)</kbd></span> of written request by the Contracting Authority, the successful Bidder must provide details of its safety measures for fueling and disembarking fuel together with the name and qualifications of the person in charge of this activity.</p>
+</div></pre>
+</div>

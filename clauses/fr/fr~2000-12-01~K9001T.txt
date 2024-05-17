@@ -1,0 +1,60 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les invitations à soumissionner relatives à une 
+acquisition pour laquelle les offres provenant des sociétés en participation 
+(consortiums) ont été prévues admissibles.  (Voir la procédure 7A.133 du Guide 
+des approvisionnements.)
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le soumissionnaire déclare que l'entité qui soumissionne est/n'est 
+       pas <strong>(rayer la mention inutile)</strong> un consortium conformément à la 
+       définition du paragraphe 3.
+
+2.     Dans l'affirmative, le soumissionnaire donne les renseignements 
+       supplémentaires suivants :
+
+       a)     Type de consortium (cocher la mention applicable) :
+
+              _____ société par actions
+              _____ société en commandite
+              _____ société en nom collectif 
+              _____ consortium contractuel
+              _____ autre
+
+       b)     Composition :  (noms et adresses de tous les membres du 
+consortium.)
+
+3.     Définition d'un consortium
+
+       Un consortium est une association d'au moins deux parties qui 
+       combinent leurs fonds, leurs biens, leurs connaissances, leur 
+       compétence, leur expérience, leur temps ou d'autres ressources dans 
+       une entreprise commerciale conjointe, dont elles conviennent de 
+       partager les profits et les pertes et sur laquelle elles exercent 
+       chacune un certain contrôle.  Les consortiums peuvent prendre 
+       diverses formes juridiques qui se répartissent en trois grandes 
+       catégories :
+
+       a)     la société par actions;
+       b)     la société en nom collectif;
+       c)     tout autre accord contractuel où les parties combinent leurs 
+              ressources pour favoriser une seule entreprise commerciale 
+              sans association ni raison sociale proprement dite.
+
+4.     L'accord de formation d'un consortium se distingue d'autres types 
+       d'accords avec des entrepreneurs, comme :
+
+       a)     l'accord avec l'entrepreneur principal où, par exemple, 
+              l'organisme d'achat passe un contrat directement avec un 
+              entrepreneur (principal) chargé d'assembler et d'intégrer le 
+              système; les principaux éléments, assemblages et 
+              sous-systèmes sont normalement confiés à des sous-traitants;
+
+       b)     l'accord avec l'entrepreneur associé où, par exemple, 
+              l'organisme d'achat passe un contrat directement avec chacun 
+              des fournisseurs d'éléments principaux et assume lui-même 
+              l'intégration ou attribue un contrat distinct à cette fin.
+
+
+</pre>
+</div>

@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer will edit the clause by specifying the applicable 
+standard - W47.1 or W47.2.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Welding shall be undertaken only by a Contractor approved by the Canadian 
+Welding Bureau (CWB) to meet the requirements of Canadian Standards 
+Association (CSA) Standard: W47.1, Certification of Companies for Fusion 
+Welding of Steel Structures, or W47.2, Certification of Companies for 
+Fusion Welding of Aluminum.  Approved welding procedures by the CWB shall 
+be supplied on demand to the Inspection Authority.
+
+</pre>
+</div>

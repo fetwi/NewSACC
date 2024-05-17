@@ -1,0 +1,42 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez cette clause dans les « Clauses du contrat subséquent » de toute demande de soumissions qui inclut la clause
+  
+   4013 du Guide des
+   
+    CCUA
+   
+   : Respect des  mesures, des ordres permanents, des politiques et des règles sur place
+  
+  et qui
+  <strong>
+   n’inclut pas
+  </strong>
+  déjà une clause de « Suspension des travaux » dans les conditions générales.
+ </p>
+<p>
+  Au paragraphe 1, l’autorité contractante doit :
+ </p>
+<ol>
+<li>
+   Remplir la(les) section(s) des conditions générales qui réfèrent au manquement de la part de l’entrepreneur et résiliation pour des raisons de commodité ou d’annulation d’un ordre; et
+  </li>
+<li>
+   Indiquer quelles conditions générales sont utilisées.
+  </li>
+</ol>
+<p>
+  Utilisez cette clause de concert avec
+  
+   4013 – Respect des mesures, des ordres permanentes, des politiques et des règles sur place
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><ol>
+<li>L’autorité contractante peut, à tout moment, par avis écrit, ordonner à l’entrepreneur de suspendre ou d’arrêter les travaux ou une partie des travaux du contrat pour une période allant jusqu’à 180 jours. L’entrepreneur doit immédiatement se conformer à un tel ordre de manière à minimiser les frais liés à la suspension. Durant la période pendant laquelle cet ordre est en vigueur, l’entrepreneur ne doit pas retirer aucune partie des travaux des lieux des travaux avant d’en avoir obtenu au préalable le consentement écrit de la part de l’autorité contractante. Durant la période de 180 jours, l’autorité contractante doit soit annuler l’ordre ou résilier le contrat, en tout ou en partie, selon la(les) section(s) <span class="input-required"><kbd>[<em>insérer la section intitulée « Manquement de la part de l’entrepreneur »</em>]</kbd> <var>____________________________</var></span> ou <span class="input-required"><kbd>[<em>insérer la section intitulée « Résiliation pour raisons de commodité »</em>]</kbd> <var>____________________________</var></span> dans les conditions générales <span class="input-required"><var>____________________________</var></span>.</li>
+<li>Lorsqu’un ordre est donné selon le paragraphe 1, à moins que l’autorité contractante résilie le contrat pour raisons de manquement de la part de l’entrepreneur ou que l’entrepreneur abandonne le contrat, l’entrepreneur aura droit au paiement de frais additionnels qui auront été encourus suite à la suspension en plus d’un profit équitable et raisonnable.</li>
+<li>Lorsqu’un ordre donné selon le paragraphe 1 est annulé, l’entrepreneur doit reprendre les travaux selon les conditions du contrat dès que pratiquement faisable. Si la suspension a affecté la capacité de l’entrepreneur à respecter la date de délivrance selon les conditions du contrat, la date pour l’exécution des travaux qui ont été affectés par la suspension sera prolongée pour une période équivalente à la période de suspension en plus d’une période, le cas échéant, qui, de l’avis de l’autorité contractante, et après consultation avec l’entrepreneur, est nécessaire pour que l’entrepreneur puisse reprendre les travaux. Tout ajustement équitable sera effectué au besoin à toute condition du contrat qui aura ainsi été affectée.</li>
+</ol></pre>
+</div>

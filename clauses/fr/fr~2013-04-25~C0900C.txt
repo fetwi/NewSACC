@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de location et d'entretien.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur sera payé les taux mensuels fermes pour la
+location et les taux fermes par le nombre spécifié de
+copies pour l'entretien (incluant toutes les pièces, la
+main-d'oeuvre, l'entretien préventif et l'entretien
+correctif), payables chaque mois en souffrance. Les droits de
+douane <span class="input-required"><var>_________</var>
+<kbd>(<em>insérer « sont inclus », « sont exclus »
+ou « font l'objet d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
+</div></pre>
+</div>

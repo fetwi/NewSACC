@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
+nationale lorsque les biens sont fournis par un entrepreneur établi aux 
+États-Unis.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   D5515C
+  
+  et
+  
+   D5620C
+  
+  dans la partie « clauses du contrat subséquent » de la demande de soumissions.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le matériel doit être libéré aux fins
+d'expédition au moyen du formulaire <cite>«  DD 250, Material
+Inspection and Receiving Report  »</cite> ou un document de sortie
+contenant les mêmes données et accepté par le
+représentant de l'assurance de la qualité L'entrepreneur
+doit préparer le(s) document(s) de sortie.</p>
+</div></pre>
+</div>

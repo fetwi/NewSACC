@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all competitive bid solicitations requiring a 
+Statement of Canadian Content. Refer to DM Directive 637. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder represents and warrants that the Statement of Canadian Content 
+attached to this bid is accurate and complete using the Definition of 
+Canadian Content set out in that Statement.  The Bidder acknowledges that 
+the Minister relies upon such representation and warranty to enter into any 
+contract resulting from this bid.  Such representation and warranty of 
+Canadian content may be verified in such manner as the Minister may 
+reasonably require.
+
+Should a verification by the Minister disclose that the Work does not 
+   contain the amount of Canadian content that is set out in the Statement 
+   of Canadian Content, Canada shall be paid upon written request the 
+   amount of $0.10 for each dollar of shortfall. 
+</pre>
+</div>

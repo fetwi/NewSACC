@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsqu'une liste des éléments à long délai de livraison est exigée.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent inclure le nom du responsable technique et du responsable des achats dans le contrat.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B4060C
+  
+  et
+  
+   B4061C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit, dans un délai de
+<var>_____</var> jours après la date d'attribution du contrat,
+fournir au responsable des achats une liste des éléments
+à long délai de livraison (LELDL) préparée
+conformément au numéro le plus récent de la
+spécification D-01-100-214/SF-000 des Forces canadiennes. La
+<abbr title="liste des éléments à long délai de livraison">LELDL</abbr> doit comprendre tout article assujetti à un délai
+d'approvisionnement (à compter de la passation de la commande
+jusqu'à la livraison) supérieur à <var>_____</var>
+mois. La spécification sera fournie par l'autorité
+contractante à la demande de l'entrepreneur.</li>
+<li value="2">La documentation technique supplémentaire sur
+l'approvisionnement (DTSA), préparée par le fabricant
+réel de l'article, doit être fournie en vue de la
+codification et du catalogage de tous les éléments
+figurant dans la <abbr title="liste des éléments à long délai de livraison">LELDL</abbr>. La <abbr title="documentation technique supplémentaire sur l'approvisionnement">DTSA</abbr> mentionnée dans la
+spécification ci-dessus doit accompagner la <abbr title="liste des éléments à long délai de livraison">LELDL</abbr> tel que
+précisé dans la spécification. Les détails
+particuliers des données requises doivent être
+énumérés dans la fiche de sélection des
+documents d'approvisionnement, préparée conformément
+à la spécification ci-dessus, et être soumis en
+caractères <abbr title="code américain normalisé pour l'échange d'information">ASCII</abbr> par voie électronique.</li>
+<li value="3">Les questions portant sur la préparation, la
+présentation ou le contenu de la documentation
+d'approvisionnement mentionnée ci-dessus doivent être
+adressées au responsable des achats.</li>
+</ol>
+</div></pre>
+</div>

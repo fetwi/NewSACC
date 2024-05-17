@@ -1,0 +1,9 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La durée d'utilisation permise indiquée dans l'ITFC C-05-005-011/AM-000 ne 
+   doit pas être entamée de plus de 25 p.100 à la date de la livraison au 
+   ministère de la Défense nationale.   
+</pre>
+</div>

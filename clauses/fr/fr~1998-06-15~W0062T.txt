@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de 
+politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada » 
+pour savoir dans quels cas on doit appliquer cette clause.  Elle doit figurer 
+intégralement à la fin de l'invitation à soumissionner, avant les annexes ou les 
+appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les avantages qui s'appliquent à ce marché sont
+exprimés dans la section 5.1 des clauses de <cite>l'Entente
+définitive de la Première Nation des Nacho Nyak Dun</cite>
+(EDPNNND) :</p>
+<ul class="hierarchy">
+<li><span class="number">15.7.1.1</span> Le gouvernement tient
+compte, dans l'évaluation des offres, des propositions et des
+soumissions relatives à l'arpentage des terres visées par
+le règlement de la première nation des Nacho Nyak Dun, de
+facteurs tels l'embauchage de Nacho Nyak Dun ainsi que leur
+participation ou de leur avoir dans l'entreprise qui soumet
+l'offre, la proposition ou la soumission ou dans toute entreprise
+de sous-traitance de cette dernière.</li>
+<li><span class="number">15.7.1.2</span> Le plan mentionné
+à l'article 22.3.1 et visant à permettre aux Nacho Nyak
+Dun de profiter des possibilités de développement
+économique doit préciser les compétences et
+l'expérience appropriées à l'arpentage des terres
+visées par le règlement de la première nation des
+Nacho Nyak Dun.
+<ol type="a">
+<li value="1">En attendant que soit élaboré le plan des
+possibilités de développement économique visé
+à l'article 22.3.1, le gouvernement et la première nation
+des Nacho Nyak Dun peuvent s'entendre sur la définition des
+compétences et de l'expérience appropriées à
+l'arpentage de ces terres.</li>
+</ol>
+</li>
+</ul>
+</div></pre>
+</div>

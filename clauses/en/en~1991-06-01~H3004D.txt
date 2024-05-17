@@ -1,0 +1,65 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all bid solicitations and contractual documents with 
+progress payments which use the General Conditions noted below. Enter fill-in 
+data as applicable.
+
+					Section
+	DSS-MAS 1026A		10
+	DSS-MAS 1026 (S100A)	10
+	DSS-MAS 1026B		19
+	DSS-MAS 9076			8
+	CCC-5O			17
+
+Use of this clause is not required when General Conditions - Long Form, DSS-MAS 
+9329-1, is used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Section _____ of General Conditions _____ that forms part of this 
+       Contract is hereby deleted and the following is substituted.
+
+       (a)    No payment shall be made to the Contractor unless or until 
+              invoices, inspection notes, and all other documents 
+              prescribed by the Minister or by the inspector are submitted 
+              in accordance with either the terms of the Contract or the 
+              instructions of the Minister.
+
+       (b)    In cases where costs have been paid by the Contractor and 
+              where payment is being made by the Minister:
+
+                     Canada shall make no payment to the Contractor unless 
+                     or until the Contractor, if required to do so, 
+                     establishes to the satisfaction of the Minister that 
+                     the materials, parts, work in process, or finished 
+                     work are free from all claims, liens, attachments, 
+                     charges, or encumbrances.
+
+       (c)    In cases where costs have accrued in the accounts of the 
+              Contractor as liabilities to be discharged in the normal 
+              course of business and where the Minister is making payment:
+
+                     No payment shall be made to the Contractor unless or 
+                     until the Contractor, if required to do so, 
+                     establishes to the satisfaction of the Minister that:
+
+                     (1)    the Contractor is not, in the ordinary course 
+                            of business, delinquent in discharging any 
+                            accrued liabilities that have arisen under this 
+                            Contract,
+
+                     (2)    the Minister's payment shall be used only to 
+                            discharge such liabilities, and
+
+                     (3)    upon such discharge, the materials, parts, work 
+                            in process, and finished work shall be free 
+                            from all claims, liens, charges, or 
+                            encumbrances.
+
+       (d)    In case of finished work:
+
+                     Canada shall make no payment to the Contractor unless 
+                     or until such finished work has been inspected and 
+                     accepted in accordance with the terms of this Contract.
+
+</pre>
+</div>

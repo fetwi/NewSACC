@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in fixed time/unit rate contracts with one of the following:
+ </p>
+<ul>
+<li>
+   option 1 ceiling price; or
+  </li>
+<li>
+   option 2 limitation of expenditure, in accordance with Supply Manual section
+   
+    4.70.20.10
+   
+   and the
+   
+    Practitioner’s Guide for Procurement Pricing
+   
+   , section 4.1.2.
+  </li>
+</ul>
+<p>
+  The actual amount of hours worked or units procured in the performance of the work can be made subject to government audit and adjustment through incorporation of a General Condition audit clause and
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C1004C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p><kbd>Insert one of the following options:</kbd></p>
+<p><kbd>Option 1</kbd> – Ceiling Price</p>
+<p>The Contractor will be paid a fixed unit rate(s) as follows, for work performed in accordance with the <span class="input-required"><var>_______</var> <kbd>(<em>insert “Contract” OR “Statement of Work in Annex<var>_______</var>” OR “Statement of Requirement in Annex<var>_______</var>”</em>)</kbd></span>. Canada’s total payment to the Contractor under the Contract, including any design changes, modifications or interpretations of the Work approved, in writing, by the Contracting Authority, must not exceed the ceiling price of $<span class="input-required"><var>_______</var> <kbd>(<em>insert the amount at Contract award</em>)</kbd></span>. Customs duties are <span class="input-required"><var>_______</var> <kbd>(<em>insert "included", “excluded” or "subject to exemption"</em>)</kbd></span> and applicable taxes are extra.</p>
+<p>Category #1: <span class="input-required"><var>_______</var><br/>
+            Fixed Unit Rate: $<var>_______</var> per <var>_______</var> <kbd>(<em>insert applicable unit of measurement</em>)</kbd></span>.<br/>
+        Category #2: <span class="input-required"><var>_______</var><br/>
+            Fixed Unit Rate: $<var>_______</var> per <var>_______</var> <kbd>(<em>insert applicable unit of measurement</em>)</kbd>.<br/>
+<kbd>(Adjust as required)</kbd></span></p>
+<p><kbd>Option 2</kbd> – Limitation of Expenditure</p>
+<p>The Contractor will be paid a fixed unit rate(s) as follows, for work performed in accordance with the <span class="input-required"><var>_______</var> <kbd>(<em>insert “Contract” OR “Statement of Work in Annex<var>_______</var>” OR “Statement of Requirement” in Annex<var>_______</var>”</em>)</kbd></span>.</p>
+<p>Canada’s total liability to the Contractor under the Contract must not exceed $ <span class="input-required"><var>_______</var> <kbd>(<em>insert the amount at Contract award</em>)</kbd></span>. Customs duties are <span class="input-required"><var>_______</var> <kbd>(<em>insert “included”, “excluded” or “subject to exemption”</em>)</kbd></span> and applicable taxes are extra.</p>
+<p>Category #1: <span class="input-required"><var>_______</var><br/>
+            Fixed Unit Rate: $<var>_______</var> per <var>_______</var> <kbd>(<em>insert applicable unit of measurement</em>)</kbd></span>.<br/>
+        Category #2: <span class="input-required"><var>_______</var><br/>
+            Fixed Unit Rate: $<var>_______</var> per <var>_______</var> <kbd>(<em>insert applicable unit of measurement</em>)</kbd>.<br/>
+<kbd>(Adjust as required)</kbd></span></p>
+<p>No increase in the total liability of Canada or in the price of the Work resulting from any design changes, modifications or interpretations of the Work, will be authorized or paid to the Contractor unless these design changes, modifications or interpretations have been approved, in writing, by the Contracting Authority before their incorporation into the Work. The Contractor must not perform any work or provide any service that would result in Canada’s total liability being exceeded before obtaining the written approval of the Contracting Authority. The Contractor must notify the Contracting Authority in writing as to the adequacy of this sum:</p>
+<ol type="a">
+<li>when it is 75% committed; or</li>
+<li>four months before the Contract expiry date; or</li>
+<li>as soon as the Contractor considers that the Contract funds provided are inadequate for the completion of the Work, whichever comes first.</li>
+</ol>
+<p>If the notification is for inadequate Contract funds, the Contractor must provide to the Contracting Authority a written estimate for the additional funds required. Provision of such information by the Contractor does not increase Canada’s liability.</p>
+</div></pre>
+</div>

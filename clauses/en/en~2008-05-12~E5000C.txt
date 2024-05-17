@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when financial security in the form of a 
+performance bond is required.
+
+Contracting officers must complete the first paragraph.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In order to ensure that funds will be available to complete the Work in 
+accordance with the conditions of the Contract, the Contractor must, within _____ 
+calendar days after the date of contract award, provide to the Contracting 
+Authority a duly executed performance bond (form PWGSC-TPSGC 505 available 
+at: http://www.tpsgc-pwgsc.gc.ca/acquisitions/text/forms/forms-e.html).  
+The performance bond must be ______ percent of the Contract Price and must 
+be accepted as security by one of the bonding companies listed in Treasury 
+Board Contracting Policy, Appendix L, Acceptable Bonding Companies (http://
+www.tbs-sct.gc.ca/pubs_pol/dcgpubs/Contracting/contractingpol_l_e.asp).
+
+If Canada does not receive the performance bond within the specified period, 
+Canada may terminate the Contract for default pursuant to the default 
+provision of the Contract.
+
+
+</pre>
+</div>

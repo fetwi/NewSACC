@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Les avis de résiliations seront émis aprés avoir obtenu un avis légal en ce sens 
+ou suivant l'approbation du conseiller légal compétent.  Les mots "fournitures" 
+et "livré" qui figurent dans les clauses devraient être remplacés respectivement 
+par "services" et "exécution", le cas échéant.
+
+Les avis de résiliation seront préparés par l'Agent de négociation des contrats 
+selon l'avis légal et les dispositions de la directive 6501 du GPA, et ils 
+seront envoyés au conseiller légal aux fins de révision.  Les avis de 
+résiliation ne seront pas envoyés à l'entrepreneur avant que le conseiller légal 
+n'ait apposé et signé le timbre "Revisé par les services juridiques" sur le 
+document de résiliation.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>
+</pre>
+</div>

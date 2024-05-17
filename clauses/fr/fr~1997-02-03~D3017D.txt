@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause pour définir l'emballage et les spécifications à appliquer 
+pour l'achat de biens appartenant aux catégories 1300 et 1410 de l'OTAN 
+(munitions et missiles).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit préparer pour la livraison tous les éléments 
+appartenant aux catégories 1300 et 1400 de l'OTAN (Munitions et missiles) 
+conformément au numéro le plus récent de la spécification 
+D-09-002-005/SG-000 relative à l'emballage dans les Forces canadiennes.
+
+</pre>
+</div>

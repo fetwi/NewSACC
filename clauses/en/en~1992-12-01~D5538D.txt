@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the DND requisition specifies Government Quality 
+Assurance and more than one Quality Assurance Code (QAC) is identified. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the quality control/inspection requirements identified in the 
+tender/contract or for each Quality Assurance Code (QAC) listed on the 
+attached forms or continuation sheets.  The appropriate requirements to be 
+complied with for each QAC are outlined in the clauses listed below:
+
+QAC A - Inspection at destination         -      D5531D
+
+QAC B - Verification at destination              -      D5530D
+
+QAC D - AQAP-9 (not applicable to U.S.)   -      D5534D
+QAC D - FAR 52.246-2 (U.S. only)          -      D5534D
+
+QAC E - D-QA-001-015/SF-001               -      D5536D
+
+QAC F - AQAP-13 (not applicable to U.S.)  -      D5535D
+QAC F - Non-tailored DOD-STD-2168 with    -      D5535D 
+       additional requirements            
+         (U.S.only)
+
+QAC G - AQAP-4 (not applicable to U.S.)   -      D5533D
+QAC G - MIL-I-45208A (U.S. only)          -      D5533D
+
+QAC H - AQAP-1 (not applicable to U.S.)          -      D5532D
+QAC H - MIL-Q-9858A (U.S. only)           -      D5532D
+
+QAC J - U.S.  FAA/DOT                            -      D5580D
+
+QAC P - D-QA-001-015/SF-002               -      D5537D
+
+Quality Control, Inspection and Test records that substantiate conformance 
+to the specified requirements, including records of corrective actions, 
+shall be retained by the Contractor for three (3) years from the date of 
+completion or termination of the Contract and shall be made available to 
+the Quality Assurance Representative upon request.
+
+</pre>
+</div>

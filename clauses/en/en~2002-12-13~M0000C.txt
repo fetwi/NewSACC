@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all standing offers in conjunction with clause 
+K0000D "Conditions."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Terms and Conditions - Standing Offer</strong>
+
+1.     Pursuant to the <em>Department of Public Works and Government Services 
+       Act</em>, S.C. 1996, c.16,
+
+       (a)    the general terms, conditions and clauses identified herein 
+              by title, number and date, and
+
+       (b)    the Particulars of the Standing Offer set out in Part B and, 
+              for the purchase of goods, the Conditions set out in Part C 
+              of Standard Instructions and Conditions - Standing Offers, 
+              DSS-MAS 9403-6 (_____) {<strong><em>Insert date and delete this 
+              instruction</em></strong>}, of the <em>Standard Acquisition Clauses and 
+              Conditions Manual</em>, are hereby incorporated by reference into 
+              this Standing Offer and form part of any contract resulting 
+              from any call-up made pursuant to this Standing Offer as 
+              though expressly set out herein, subject to any other express 
+              terms and conditions herein contained.
+
+<strong>Standard Acquisition Clauses and Conditions Manual</strong>
+
+All instructions, general terms, conditions and clauses identified herein 
+by title, number and date are set out in the <em>Standard Acquisition Clauses 
+and Conditions </em>(SACC) Manual, issued by Public Works and Government 
+Services Canada (PWGSC).
+
+A hard copy of the SACC Manual (Catalogue No. P60-4/1) is available through 
+your local book seller or by mail from:
+
+Canadian Government Publishing
+Communication Canada
+Ottawa, Ontario   K1A 0S9
+
+Telephone:    (819) 956-4800
+Fax:   (819) 994-1498
+Orders only:  1-800-635-7943
+
+An electronic version is also available at the following PWGSC Website:  <strong class="wsStyleUnderline">
+http://www.pwgsc.gc.ca/sacc</strong>.
+
+
+</pre>
+</div>

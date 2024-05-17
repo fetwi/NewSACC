@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>LIVRAISON : _____
+
+PLAN : _____
+
+PÉRIODE DE LOCATION : _____
+
+FRAIS DE LOCATION MENSUELS :       $_____
+
+Coût par copie (compteur) :               $_____
+
+FOURNITURES :
+
+Vireur      (coût par copie) :            $_____
+
+Développeur (coût par copie) :            $_____
+
+Papier      (coût par copie):             $_____
+
+FRAIS DE LIVRAISON :                      $_____
+
+FRAIS D'ENLEVEMENT :               $_____
+
+Vie économique de l'équipement : _____
+
+FRAIS D'ENTRETIEN ET DE RÉPARATION EN DEHORS DES HEURES NORMALES DE TRAVAIL : $_____ 
+par heure.
+
+LES HEURES/JOURS NORMAUX DE TRAVAIL SONT LES SUIVANTS :
+
+ DESCRIPTION : TOUS LES MODELES DE PHOTOCOPIEURS OFFERTS DOIVENT RÉPONDRE 
+AUX EXIGENCES DÉCRITES A L'ANNEXE "C".
+
+MODELE : _____
+
+OPTION D'ACHAT : La Couronne peut se prévaloir de l'option d'achat en tout 
+temps avant l'expiration du présent contrat.
+
+REMISE CONSENTIE POUR L'ACHAT DU MATÉRIEL LOUÉ : Les remises consenties 
+lors de l'achat du matériel loué doivent être exprimées en pourcentages du 
+prix de vente du matériel, ou en pourcentages des frais de location mensuel 
+(coûts de location de base et taux du compteur) versée à la date de l'achat 
+du matériel loué. Ces remises doivent être déduites du prix de vente 
+indiqué ci-dessous, à n'importe quel moment de la durée du contrat de 
+location.
+
+_____ p. 100 par mois de _____ jusqu'à un maximum de _____ p. 100, OU une 
+valeur marchande équitable, OU _____, le montant le plus bas étant retenu.
+
+Les conditions suivantes s'appliquent à tout achat consécutif de 
+l'équipement :
+
+(___) DSS-MAS 1026A, Approvisionnements - Prix ferme, pour tous les autres 
+besoins; ou (___) DSS-MAS 1026-S100A, Approvisionnements - Prix ferme, pour 
+tous les autres besoins.
+
+DOMMAGES-INTÉRETS : Ces frais s'appliquent dans le cas de la résiliation du 
+contrat pour des raisons de commodité de la Couronne, avant la date 
+d'expiration. _____
+
+NOTA : Les dommages-intérêts ne doivent en aucun cas dépasser le montant 
+   qui aurait été versé si le contrat n'avait pas été résilié. 
+</pre>
+</div>

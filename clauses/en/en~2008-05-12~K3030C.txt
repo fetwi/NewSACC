@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts if the client department has decided that 
+the copyright in the work will belong to the contractor but the client wishes to 
+obtain a license to exercise all rights comprised in the copyright in the work 
+arising in the contractor's performance of the contract. 
+
+Use this clause in conjunction with general conditions 2035, 2010B and clause 
+K3002T to delete the existing copyright clause.  Do not use this clause in 
+conjunction with general conditions 2040.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In this section, "Material" means anything that is created or 
+       developed by the Contractor as part of the Work under the Contract, 
+       and in which copyright subsists.
+
+2.     The Contractor grants to Canada a non-exclusive, perpetual, 
+       irrevocable, world-wide, fully-paid and royalty-free license to 
+       exercise all rights comprised in the copyright in the Material, for 
+       any government purposes.  Canada may use independent contractors in 
+       the exercise of Canada's license pursuant to this clause.
+
+3.     Copyright in any translation of the Material made by or for Canada 
+       belongs to  Canada. Canada agrees to reproduce the Contractor's 
+       copyright notice, if any, on all copies of the Material, and to 
+       acknowledge the Contractor's title to the copyright in the original 
+       Work on all copies of translations of the Material effected by or 
+       for Canada.
+
+4.     No restrictions other than those set out in this section must apply 
+       to Canada's use of copies of the Material or of translated versions 
+       of the Material.
+
+5.     At the request of Canada, the Contractor must provide to Canada, at 
+       the completion of the Work or at such other time as Canada may 
+       require, a written permanent waiver of moral rights, in a form 
+       acceptable to Canada, from every author that contributed to the 
+       Material.  If the Contractor is an author of the Material, the 
+       Contractor permanently waives its moral rights in respect of the 
+       Material.
+
+
+</pre>
+</div>

@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous vous avisons que l'autorisation de passer des commandes subséquentes à 
+l'offre permanente nâ _____ du MAS, reçue de _____, est retirée à compter 
+du _____.
+
+Les commandes passées avant cette date demeurent valides.  Vous serez 
+informé des nouveaux arrangements dès que ceux-ci auront été pris.
+
+NOTA :
+
+Vous êtes tenu de voir à ce qu'aucune autre commande ne soit passée dans 
+votre secteur.
+
+Toute demande de renseignements concernant ce qui précède doit être 
+adressée à l'agent nommé ci-dessous.
+
+ Nom _____ Nâ de téléphone _____ 
+</pre>
+</div>

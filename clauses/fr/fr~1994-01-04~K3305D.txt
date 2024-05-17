@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante uniquement lorsque les renseignements originaux 
+appartiennent au Canada et que soit les Conditions générales supplémentaires 
+DSS-MAS 9601-7, Canada obtient la propriété des renseignements originaux, soit 
+la clause K3410D, Canada obtient les renseignements originaux, font partie du 
+contrat.
+
+Ajouter la clause suivante lorsqu'il est prévu d'accorder à l'entrepreneur, 
+libre de toute redevance, une licence d'utilisation des renseignements originaux 
+détenus par le Canada.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Canada accorde par les présentes à l'entrepreneur une licence non 
+exclusive aux fins d'exploiter commercialement les renseignements originaux 
+et d'élaborer davantage ces renseignements à cette fin.  Cette licence est 
+entièrement payée et libre de toute redevance.  La vente d'un produit ou la 
+prestation d'un service incorporant des renseignements originaux ou dérivé 
+de ceux-ci ne constitue pas une violation des dispositions relatives au 
+caractère confidentiel du contrat.
+
+</pre>
+</div>

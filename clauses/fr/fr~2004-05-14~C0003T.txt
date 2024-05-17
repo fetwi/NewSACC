@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser l'attestation suivante dans tous les contrats à prix ferme non 
+concurrentiels, pour des produits et services non commerciaux d'une valeur de 50 
+000 $ ou plus, accordés à des fournisseurs canadiens.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le soumissionnaire atteste que le prix indiqué est établi d'après le prix 
+de revient calculé conformément aux Principes des coûts contractuels 1031-2, 
+et que le prix en question comporte un profit estimatif de _____ $.
+
+
+</pre>
+</div>

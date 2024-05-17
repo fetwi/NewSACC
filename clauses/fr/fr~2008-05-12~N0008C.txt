@@ -1,0 +1,125 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante uniquement dans les contrats qui sont principalement 
+pour des services de satellite puisque le Conseil du Trésor a accordé une 
+autorisation spéciale de répartition du risque conformément à cette clause 
+uniquement dans le cas des contrats de services de satellite.  Les agents de 
+négociation des contrats doivent compléter le paragraphe 3.d) en consultation 
+avec les Services consultatifs de gestion des risques (SCGR) ou conformément aux 
+groupes de biens et services publiés approuvés par le SCGR.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Cet article s'applique malgré toute autre disposition du contrat et 
+       remplace l'article des conditions générales intitulée « 
+       Responsabilité ».  Toute mention dans cet article de dommages causés 
+       par l'entrepreneur comprennent les dommages causés par ses employés, 
+       ainsi que ses sous-traitants, ses mandataires, et ses représentants, 
+       et leurs employés.
+
+2.     <strong>Responsabilité liée à la non-disponibilité des services par 
+satellite :</strong><strong></strong>
+
+              a)     Malgré toute disposition contraire dans le contrat, le 
+              Canada s'engage à indemniser l'entrepreneur relativement à 
+              toute responsabilité, tous dommages ou toutes réclamations 
+              faites contre l'entrepreneur par un tiers qui se rapportent à 
+              l'interruption ou à la non-disponibilité des services par 
+              satellite, lorsque le service est interrompu à cause :
+
+                     (i)    d'une situation de force majeure, y compris, 
+                     par exemple, des catastrophes naturelles, des météores, 
+                     des incendies, des inondations, des conditions 
+                     atmosphériques, des périodes de conjonction 
+                     soleil-satellite (définies ci-dessous), des pannes 
+                     causées par l'activité solaire ou d'autres 
+                     circonstances dans l'environnement spatial sur 
+                     lesquelles l'entrepreneur n'a aucun contrôle, des 
+                     défectuosités de lancement ou d'autres défectuosités 
+                     catastrophiques du satellite, des lois des 
+                     administrations gouvernementales, des actes 
+                     terroristes, des insurrections, des embargos et des 
+                     guerres; ou
+                     
+                     (ii)   d'une défectuosité de fonctionnement qui 
+                     survient après le lancement du satellite, seulement si 
+                     les réparations ne peuvent pas être faites à distance 
+                     avant l'apparition du dommage, ou si les coûts de 
+                     réparation sont injustifiables sur le plan commercial.
+                     
+              Ceci s'applique peu importe si la force majeure ou la 
+              défectuosité est prévisible.  Le Canada accepte que, dans le 
+              cas d'une force majeure et/ou d'une défectuosité mentionnées 
+              ci-dessus, il ne pourra réclamer que les crédits de services 
+              liés à la disponibilité des services par satellite, le cas 
+              échéant, décrits dans ce contrat.
+
+              b)     La « conjonction soleil-satellite » désigne la période 
+              où l'émission de bruit par le soleil dégrade la qualité du 
+              signal reçu par les stations terrestres, de sorte que 
+              l'entrepreneur n'est pas en mesure de fournir les services 
+              par satellite précisés dans les spécifications de ce contrat.
+              
+              c)     Le Canada accepte que, si les services par satellites 
+              fournis par l'entrepreneur en vertu du contrat sont 
+              interrompus ou non-disponibles pour n'importe quelle raison 
+              qui n'est pas décrite dans le paragraphe a)(i) ou (ii), le 
+              montant que le Canada pourra récupérer est assujetti à la 
+              limite décrite au paragraphe 3.d)) ci-dessous, ou les crédits 
+              de services liés à la disponibilité des services par 
+              satellite, le cas échéant, selon le montant le plus élevé.
+              <strong></strong>
+3.     <strong>Responsabilité de première partie de l'entrepreneur envers le Canada :</strong>
+
+       a)     Que la réclamation soit fondée contractuellement, sur un 
+              délit civil ou un autre motif de poursuite, l'entrepreneur 
+              est entièrement responsable de tous les dommages, y compris 
+              les dommages indirects, particuliers et consécutifs, causés 
+              par l'exécution ou la non-exécution du contrat par 
+              l'entrepreneur et qui se rapportent à :
+
+              (i)    toute violation aux droits de propriété intellectuelle;
+               
+              (ii)   tout manquement à l'obligation de confidentialité; 
+
+              (iii)  tout manquement aux obligations de garantie; et
+
+              (iv)   toute blessure, y compris la mort. 
+
+       b)     L'entrepreneur est responsable de tous les dommages directs 
+              qui touchent des biens personnels ou des biens immobiliers 
+              qui sont la propriété du Canada, en sa possession, ou qui 
+              sont occupés par le Canada.
+
+       c)     L'entrepreneur est responsable de tous les dommages directs 
+              qui se rapportent à une charge ou à une réclamation liée à 
+              une partie des travaux pour lesquels le Canada a effectué un 
+              paiement.
+
+       d)     L'entrepreneur est responsable de tout autre dommage direct 
+             causé au Canada qui a un lien quelconque avec le contrat, 
+             jusqu'à concurrence ________, y compris l'ensemble des frais 
+             encourus par le Canada pour trouver une autre partie qui 
+             exécutera les travaux si le contrat est résilié pour défaut.  
+             Ces frais comprennent toute augmentation du prix qui doit être 
+             payé pour les travaux. 
+
+       e)     Si les dossiers ou les données du Canada sont endommagés à la 
+             suite de l'exécution des travaux ou du défaut d'exécuter les 
+             travaux, la seule responsabilité de l'entrepreneur consiste à 
+             rétablir, à ses frais, les dossiers et les données du Canada 
+             en utilisant la copie de sauvegarde la plus récente conservée 
+             par le Canada.
+
+4.     <strong>Réclamations de tiers :</strong> Chaque partie convient qu'elle est 
+       pleinement responsable des dommages qui sont causés à tout tiers par 
+       et qui sont liés aux travaux, que la réclamation soit faite au 
+       Canada ou à l'entrepreneur.  Si le Canada doit, en raison d'une 
+       responsabilité conjointe et individuelle, payer un tiers pour des 
+       dommages causés par l'entrepreneur, l'entrepreneur doit rembourser 
+       ce montant au Canada.  L'entrepreneur n'est cependant pas tenu de 
+       rembourser le Canada pour tout dommage indirect, particulier ou 
+       consécutif que le Canada doit payer à un tiers, sur ordre d'un 
+       tribunal, en raison d'une responsabilité conjointe et individuelle.
+
+
+</pre>
+</div>

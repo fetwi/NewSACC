@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Pricing is to be provided as outlined on Appendix "__".  In addition, the 
+following shall apply:
+
+       1. Lot prices are for product/equipment delivered including all 
+       applicable taxes.
+
+       2. Tank rental pricing shall remain firm during the proposed period.
+
+       3. The unit prices for liquified petroleum gas stated in the bid 
+       shall not reflect any change or levy effective on or after including 
+       the repeal of any tax or levy or the imposition of a new tax or levy.  
+       Where public notice of a repeal, change or the imposition of a new 
+       tax or levy has been given before _____ but the effective date of 
+       the change, repeal, or new tax or levy is on or after _____, the 
+       proposal shall be deemed to have excluded such change, repeal or new 
+       tax or levy.  No proposal shall be submitted before _____. 
+
+       4. No purchase option will be applicable to this requirement. 
+</pre>
+</div>

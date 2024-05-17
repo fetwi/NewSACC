@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in marine contracts when the contractor will be paid 
+for unscheduled work.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     <strong>Price Breakdown</strong>:
+
+       The Contractor must, upon request, provide a price breakdown for all 
+       unscheduled work, by specific activities with trades, person-hours, 
+       material, subcontracts and services.
+
+2.     <strong>Pro-rated Prices</strong>:
+
+       Hours and prices for unscheduled work will be based on comparable 
+       historical data applicable to similar work at the same facility, or 
+       will be determined by pro-rating the quoted work costs in the 
+       Contract when in similar areas of the vessel.
+
+3.     <strong>Payment for Unscheduled Work</strong>:
+
+              The Contractor will be paid for unscheduled work arising, as 
+       authorized by Canada.  The authorized unscheduled work will be 
+       calculated as follows:
+
+              Number of hours (to be negotiated) X $_____, being the 
+       Contractor's firm hourly charge-out labour rate which includes 
+       overhead and profit, plus net laid-down cost of materials to which 
+       will be added a mark-up of 10 percent, plus Goods and Services Tax 
+       or Harmonized Sales Tax, if applicable, calculated at ____ percent 
+       of the total cost of material and labour. The firm hourly charge-out 
+       labour rate and the material mark-up will remain firm for the 
+       duration of the Contract and any subsequent amendments.
+
+
+</pre>
+</div>

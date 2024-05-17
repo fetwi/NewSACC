@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Si le fourisseur ne peut pas fournir l'article commandé et qu'il veuille 
+   offrir à la place un produit de remplacement, il doit présenter au MAS 
+   une demande de remplacement.  L'article de remplacement ne doit par être 
+   expédié avant que le MAS ne l'ait officiellement autorisé, une fois que 
+   la responsable technique du MDN en certifié l'acceptabilité.
+</pre>
+</div>

@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>While the Government property is under the care, custody or control of the 
+contractor, "All Risks" property insurance is required to cover any loss or 
+damage to Government property.  The nature of the property involved would 
+determine the type of property insurance policy (e.g., "All Risks" 
+premises/plant, equipment floater, or construction/installation insurance) that 
+should be purchased by the contractor.
+
+The value and basis of valuation of government property must be filled in the 
+clause.  The basis of valuation of this property (replacement, market or book 
+value) should be established with the client and mentioned in the contractor's 
+insurance policy. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><span class="wsStyleUnderline">Insurance Coverage</span>:  Property insurance coverage shall be effected by the 
+Contractor and maintained in force on Government property while under the 
+care, custody or control of the Contractor in an amount of NOT LESS THAN $_____.  
+Government property shall be insured on _____ value basis.
+
+<span class="wsStyleUnderline">Administration of Claims</span>:  The Contractor agrees to monitor, investigate 
+and document losses of or damage to government property to ensure that 
+claims are properly made and paid to Canada.
+
+The following clauses must be incorporated into the "All Risks" property 
+policy:
+
+(A)    "<strong><em>Notice of Cancellation</em></strong>:  The insurer agrees to give the Contracting 
+       Authority at least thirty (30) days written notice of any policy 
+       cancellation or any changes in the policy coverage."
+
+(B)    "<strong><em>Settlement of Claims</em></strong>:  The insurance proceeds regarding any loss of 
+       or damage to government property shall be payable to the appropriate 
+       party as directed by the Contracting Authority."
+
+
+
+</pre>
+</div>

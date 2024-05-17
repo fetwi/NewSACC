@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'Entrepreneur s'engage à assurer les opérations de
+protection, de conditionnement et de marquage des articles et
+marchandises précisés dans le présent Contrat, les
+frais correspondant à ces opérations étant inclus
+dans le prix unitaire et dans le prix global desdits articles et
+marchandises, conformément aux formules annexées aux
+présentes par renvoi.</p>
+</div></pre>
+</div>

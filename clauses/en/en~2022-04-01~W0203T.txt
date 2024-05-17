@@ -1,0 +1,84 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in solicitations subject to the Nunavut Directive and will evaluate Inuit Benefits Plans (IBP) – Adjust appropriately.
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on the implementation of Inuit and Nunavut benefits in procurements subject to the
+  
+   Nunavut Directive
+  
+  , please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates , please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Bids will also be evaluated according to weighted-and-rated Inuit Benefits Criteria and Nunavut Benefits Criteria. Bidder submissions for both of these criteria are to be combined in an Inuit Benefits Plan (IBP), as described in Annex “___” (Inuit Benefits Plan), in which Bidders should detail how they will integrate the following elements in carrying out work under this requirement: <span class="input-required"><kbd><em>(Insert applicable options from the list below)</em></kbd></span></p> <ol>
+<li>Inuit employment (either directly or through subcontractors);</li>
+<li>Inuit training and skills development (either directly or through subcontractors);</li>
+<li>Inuit ownership (Contractor and subcontractors); and</li>
+<li>Location in the Nunavut Settlement Area.</li>
+</ol> <p>The commitments contained in an <abbr title="Inuit Benefits Plan">IBP</abbr> will form part of the resulting contract. </p> <p></p></pre>
+</div>

@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Si l'augmentation ou la diminution est acceptée par le Ministre, le prix à 
+verser pourra augmenter ou diminuer selon le même pourcentage que celui de 
+la différence entre la liste de prix publiée par l'Entrepreneur, en vigueur 
+le _____, et celle qui sera en vigueur à la date prévue pour l'expédition. 
+
+Un avis écrit sera envoyé au ministère des Approvisionnements et Services, 
+Direction des achats, à l'attention de la Section EV, au moins vingt (20) 
+jours civils avant la date d'entrée en vigueur de tout changement proposé 
+au prix.  Une copie de la liste révisée des prix publiés par l'Entrepreneur 
+sera envoyée à ou avant la date d'entrée en vigueur. 
+
+Si le prix est augmenté et si une diminution s'impose, le Ministre, sans 
+limiter tous les autres droits qu'il pourra avoir en vertu du présent 
+accord, se réserve le droit de résilier le Contrat sans responsabilité pour 
+la Couronne ou l'Entrepreneur.  Ce dernier sera informé de cette 
+résiliation avant l'entrée en vigueur des changements de prix.  
+
+L'Entrepreneur ne devra pas facturer d'autres prix que ceux stipulés, à 
+   moins et avant qu'une révision proposée des prix ne soit approuvée et 
+   que le Contrat n'ait été modifié en conséquence. 
+</pre>
+</div>

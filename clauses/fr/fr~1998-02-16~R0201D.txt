@@ -1,0 +1,323 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Travaux publics et Services gouvernementaux Canada
+
+MP1    Montant à payer - Généralités
+MP2    Montants payables à l'entrepreneur
+MP3    Montants payables à Sa Majesté
+MP4    Date de paiement
+MP5    Le rapport sur le progrès des travaux et le paiement y afférent ne 
+       lient pas Sa Majesté
+MP6    Retard du paiement
+MP7    Droit de compensation
+MP8    Paiement en cas de résiliation
+MP9    Intérêts sur les réclamations réglées
+
+<strong>MP1    01/10/94      Montant à payer - Généralités</strong>
+
+1.1    Sujet à toutes autres dispositions du contrat, Sa Majesté paie à 
+       l'entrepreneur, aux dates et de la manière énoncées ci-après, le 
+       montant par lequel
+
+       1.1.1  l'ensemble des montants prévus à l'article MP2 excède
+
+       1.1.2  l'ensemble des montants prévus à l'article MP3
+
+       et l'entrepreneur accepte le paiement comme paiement final de tout 
+       ce qu'il a fourni et fait relativement aux travaux auxquels le 
+       paiement se rapporte.
+
+
+<strong>MP2    01/10/94      Montants payables à l'entrepreneur</strong>
+
+2.1    Les montants mentionnés à l'alinéa MP1.1.1 sont l'ensemble : 
+
+       2.1.1  des montants prévus dans les Articles de convention, et
+
+       2.1.2  le montant, s'il en est, payable à l'entrepreneur 
+              conformément aux Conditions générales.
+
+
+<strong>MP3    01/10/94      Montants payables à Sa Majesté</strong>
+
+3.1    Les montants mentionnés à l'alinéa MP1.1.2 sont l'ensemble des 
+       montants, s'il en est, que l'entrepreneur est tenu de payer à Sa 
+       Majesté en vertu du contrat.
+
+3.2    Dans tout paiement fait à l'entrepreneur, le fait pour Sa Majesté 
+       d'omettre de déduire d'un montant mentionné à l'article MP2 un 
+       montant mentionné au paragraphe MP3.1 ne peut constituer un abandon 
+       de son droit de faire une telle déduction, ni une reconnaissance de 
+       l'absence d'un tel droit lors de tout paiement ultérieur à 
+       l'entrepreneur.
+
+
+<strong>MP4    01/01/96      Date de paiement</strong>
+
+4.1    Dans les présentes modalités de paiement
+
+       4.1.1  «période de paiement» signifie un intervalle de 30 jours 
+              consécutifs ou tout autre intervalle plus long convenu entre 
+              l'entrepreneur et l'ingénieur. 
+
+       4.1.2  un montant est «dû et payable» lorsqu'il doit être versé à 
+              l'entrepreneur par Sa Majesté selon les paragraphes MP4.5, 
+              MP4.8 ou MP4.11.
+
+       4.1.3  un montant est en souffrance lorsqu'il demeure impayé le 
+              premier jour suivant le jour où il est dû et payable.
+
+       4.1.4  «date de paiement» signifie la date du titre négociable d'un 
+              montant dû et payable par le Receveur général du Canada et 
+              émis aux fins de paiement.
+
+       4.1.5  «taux d'escompte» signifie le taux d'intérêt, fixé de temps à 
+              autre par la Banque du Canada, qui représente le taux minimum 
+              auquel elle consent des avances à court terme au membres de 
+              l'Association canadienne des paiements.
+
+       4.1.6  «taux d'escompte moyen» signifie la moyenne arithmétique 
+              simple du taux d'escompte en vigueur chaque jour, à 16 h, 
+              heure normal de l'est, pour le mois de calendrier 
+              immédiatement antérieur à la date de paiement.
+
+4.2    À l'expiration d'une période de paiement, l'entrepreneur doit 
+       remettre à l'ingénieur une demande d'acompte, par écrit, et y 
+       décrire toute partie achevée des travaux et tous les matériaux 
+       livrés aux lieux des travaux, mais non incorporés aux travaux, 
+       durant la période de paiement faisant l'objet de la demande 
+       d'acompte.
+
+4.3    L'ingénieur, dans les dix (10) jours suivant réception d'une demande 
+       d'acompte mentionnée au paragraphe MP4.2,
+
+       4.3.1  fait l'inspection de la partie des travaux et des matériaux 
+              qui y sont décrits, et
+
+       4.3.2  présente un rapport sur le progrès des travaux, dont 
+              l'ingénieur envoie une copie à l'entrepreneur, indiquant la 
+              valeur de la partie des travaux et des matériaux décrits dans 
+              la demande d'acompte qui, selon l'ingénieur,
+
+              4.3.2.1       sont conformes aux dispositions du contrat, et
+
+              4.3.2.2       n'étaient visés par aucun autre rapport 
+                     concernant des travaux du contrat.
+
+4.4    Sous réserve de l'article MP1 et du paragraphe MP4.5, Sa Majesté 
+       paie à l'entrepreneur
+
+       4.4.1  une somme égale à 95 p. 100 de la valeur indiquées dans le 
+              rapport sur le progrès des travaux mentionné à l'alinéa 4.3.2, 
+              si l'entrepreneur a fourni un cautionnement pour le paiement 
+              de la main-d'oeuvre et des matériaux, ou
+
+       4.4.2  un montant égal à 90 p. 100 de la valeur indiquées dans le 
+              rapport sur le progrès des travaux mentionné à l'alinéa 4.3.2, 
+              si l'entrepreneur n'a pas fourni un cautionnement pour le 
+              paiement de la main-d'oeuvre et des matériaux.
+
+4.5    Sa Majesté paie la somme dont il est question au paragraphe MP4.4 au 
+       plus tard 
+
+       4.5.1  30 jours après la réception par l'ingénieur de la demande 
+              d'acompte mentionnée au paragraphe MP4.2, ou
+
+       4.5.2  15 jours après que l'entrepreneur ait fait et remis à 
+              l'ingénieur
+
+              4.5.2.1       une déclaration conforme à celle décrite au 
+                     paragraphe MP4.6, pour les travaux et matériaux visés 
+                     dans la demande d'acompte prévue au paragraphe MP4.2. 
+              4.5.2.2       dans le cas de la première demande d'acompte de 
+                     l'entrepreneur, un calendrier d'exécution conformément 
+                     aux parties pertinentes des devis, et
+
+              4.5.2.3       si un calendrier est exigé, sa mise à jour au 
+                     moments précisés dans les parties pertinentes des 
+                     devis
+
+       selon le délai le plus long.
+
+4.6    Dans l'attestation mentionnée au paragraphe MP4.5, l'entrepreneur 
+       certifie qu'au jour de sa demande d'acompte, l'Entrepreneur s'est 
+       acquitté de toutes ses obligations légales aux termes des Conditions 
+       de travail, et de toutes ses obligations légales envers ses 
+       sous-entrepreneurs et ses fournisseurs de matériaux en ce qui 
+       concerne les travaux visés par le contrat.
+
+4.7    Sous réserve de l'article MP1 et du paragraphe MP4.8, Sa Majesté 
+       verse à l'entrepreneur la somme mentionnée à l'article MP1, moins 
+       l'ensemble
+
+       4.7.1  de tous les paiements effectués conformément au paragraphe 
+              MP4.4;
+
+       4.7.2  du montant égal au coût pour Sa Majesté, estimé par 
+              l'ingénieur de la correction de toutes défectuosités dans les 
+              travaux et décrites dans le Certificat provisoire 
+              d'achèvement; et
+
+       4.7.3  du montant égal au coût pour Sa Majesté, estimé par 
+              l'ingénieur de l'achèvement de toute partie des travaux 
+              décrite dans le Certificat provisoire d'achèvement ne 
+              comportant pas la correction des défectuosités visées par 
+              l'alinéa MP4.7.2.
+
+4.8    Sa Majesté paie la somme dont il est question au paragraphe MP4.7 au 
+       plus tard
+
+       4.8.1  30 jours après la date de délivrance du Certificat provisoire 
+              d'achèvement mentionné au paragraphe CG44.2, ou
+
+       4.8.2  15 jours après que l'entrepreneur ait fait et ait remis à 
+              l'ingenieur
+
+              4.8.2.1       une déclaration conforme à celle décrite au 
+                     paragraphe MP4.9 relativement au Certificat provisoire 
+                     d'achèvement mentionné au paragraphe CG44.2, et
+
+              4.8.2.2       s'il est précisé dans les parties pertinentes 
+                     des devis, une mise à jour du calendrier d'exécution 
+                     mentionné à l'alinéa MP4.5.2 qui, en plus des 
+                     exigences énoncées, soit suffisamment détaillé 
+                     concernant l'achèvement des travaux non terminés et la 
+                     correction de tous les défauts énumérés, le tout à la 
+                     satisfaction de l'ingénieur, 
+
+       selon le délai le plus long.
+
+4.9    Dans la déclaration mentionnée au paragraphe MP4.8, l'entrepreneur 
+       atteste qu'au jour de l'émission du Certificat provisoire 
+       d'achèvement,
+
+       4.9.1  l'entrepreneur s'est acquitté de toutes ses obligations 
+              légales aux termes des Conditions de travail;
+
+       4.9.2  l'entrepreneur s'est acquitté de toutes ses obligations 
+              légales envers ses sous-entrepreneurs et ses fournisseurs de 
+              matériaux en ce qui concerne les travaux visés par le contrat; 
+              et
+
+       4.9.3  l'entrepreneur s'est acquitté de toutes ses obligations 
+              mentionnées au paragraphe CG14.6. 
+4.10   Sous réserve de l'article MP1 et du paragraphe MP4.11, Sa Majesté 
+       verse à l'entrepreneur la somme mentionnée à l'article MP1, moins 
+       l'ensemble
+
+       4.10.1 de tous les paiements effectués conformément au paragraphe 
+              MP4.4; et
+
+       4.10.2 de tous les paiements effectués conformément au paragraphe 
+              MP4.7.
+
+4.11   Sa Majesté paie la somme dont il est question au paragraphe MP4.10 
+       au plus tard
+
+       4.11.1 60 jours après l'emission du Certificat définitif 
+              d'achèvement mentionné au paragraphe CG44.1, ou
+
+       4.11.2 15 jours après que l'entrepreneur ait fait et ait remis à 
+              l'ingénieur la déclaration mentionnée au paragraphe MP4.12,
+
+       selon le délai le plus long.
+
+4.12   Dans la déclaration mentionnée au paragraphe MP4.11, l'entrepreneur 
+       atteste, outre les mentions requises en vertu du paragraphe MP4.9, 
+       que l'entrepreneur s'est acquitté de toutes ses obligations légales 
+       et qu'il a satisfait à toutes les réclamations légales formulées 
+       contre lui par suite de l'exécution des travaux.
+
+
+<strong>MP5    01/10/94      Le rapport sur le progrès des travaux et le paiement y 
+                     afférent ne lient pas Sa Majesté</strong>
+
+5.1    Ni le rapport sur le progrès des travaux mentionné au paragraphe MP4.3, 
+       ni les paiements effectués par Sa Majesté en conformité des Modalité 
+       ne doivent être interprétés comme une admission que les travaux et 
+       les matériaux sont, en totalité ou en partie, complets, 
+       satisfaisants ou conformes au contrat.
+
+
+<strong>MP6    01/01/96      Retard du paiement</strong>
+
+6.1    Nonobstant l'article CG7, le retard apporté par Sa Majesté à faire 
+       un paiement à sa date d'exigibilité en vertu des présentes Modalité 
+       de paiement, ne constitue pas un bris du contrat.
+
+6.2    Sous réserve du paragraphe MP6.3 ci-dessous, Sa Majesté verse à 
+       l'entrepreneur des intérêts simples au taux d'escompte moyen plus 3 
+       pour cent par année sur les montants en souffrance en vertu de 
+       l'alinéa MP4.1.3.  Les intérêts s'appliquent à compter du premier 
+       jour de retard jusqu'au jour précédant la date de paiement.
+
+6.3    Les intérêts versés en vertu du paragraphe MP6.2 le seront sans que 
+       l'entrepreneur le demand sauf que
+
+       6.3.1  pour ce qui est des montants en souffrance depuis moins de 15 
+              jours, aucun intérêt ne sera versé en vertu de paiements 
+              effectués à l'intérieur de cette période, à moins que 
+              l'entrepreneur en fasse la demande après que lesdits montants 
+              soient dûs, et
+
+       6.3.2  les intérêts ne seront ni exigibles ni versés sur les 
+              paiements anticipés en souffrance, le cas échéant.
+
+ 
+<strong>MP7    01/10/94      Droit de compensation</strong>
+
+7.1    Sans restreindre tout droit de compensation ou de retenue découlant 
+       explicitement ou implicitement de la loi ou d'une disposition 
+       quelconque du contrat, Sa Majesté peut opérer compensation de toute 
+       somme due par l'entrepreneur à Sa Majesté en vertu du contrat ou de 
+       tout contrat en cours, à l'encontre des sommes dues par Sa Majesté à 
+       l'entrepreneur en vertu du contrat.
+
+7.2    Pour les fins du paragraphe MP7.1, l'expression «contrat en cours» 
+       signifie un contrat entre Sa Majesté et l'entrepreneur
+
+       7.2.1  en vertu duquel l'entrepreneur est légalement obligé 
+              d'exécuter ou de fournir du travail, de la main-d'oeuvre ou 
+              des matériaux, ou
+
+       7.2.2  à l'égard duquel Sa Majesté a, depuis la date à laquelle les 
+              présents Articles de convention sont intervenus, exercé le 
+              droit de retirer à l'entrepreneur les travaux faisant l'objet 
+              du contrat.
+
+
+<strong>MP8    01/10/94      Paiement en cas de résiliation</strong>
+
+8.1    En cas de résiliation du contrat conformément à l'article CG41, Sa 
+       Majesté paie à l'entrepreneur le plus tôt possible eu égard aux 
+       circonstances, tout montant qui lui est légalement dû et payable.
+
+
+<strong>MP9    01/01/96      Intérêts sur les réclamations réglées</strong>
+
+9.1    Sa Majesté versera à l'entrepreneur des intérêts simples sur le 
+       montant d'une réclamation réglée, au taux d'escompte moyen plus 3 
+       pour cent par année à compter du premier jour de retard jusqu'au 
+       jour précédant la date de paiement.
+
+9.2    Aux fins du paragraphe MP9.1,
+
+       9.2.1  une réclamation est réputée être réglée lorsqu'une entente 
+              par écrit est signée par l'ingénieur et l'entrepreneur et 
+              fait état du montant de la réclamation à verser par Sa 
+              Majesté et des travaux pour lesquels ledit montant doit être 
+              versé.
+
+       9.2.2  une réclamation réglée est réputée être impayée à compter de 
+              la journée qui suit immédiatement la date à laquelle la 
+              réclamation était due et payable conformément au contrat, 
+              s'il n'y avait pas eu contestation.
+
+9.3    Aux fins de l'article MP9, une réclamation signifie tout montant 
+       faisant l'objet d'un litige et assujetti à des négociations entre Sa 
+       Majesté et l'entrepreneur en vertu du contrat.
+
+</pre>
+</div>

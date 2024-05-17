@@ -1,0 +1,124 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">The term "<dfn><abbr title="Free on Board">FOB</abbr> origin, freight allowed</dfn>", as used in
+this clause, means:
+<ol type="1">
+<li value="1">free of expense to the <abbr title="United States">U.S.</abbr> Government, delivered:
+<ol type="i">
+<li value="1">on board the indicated type of conveyance of the
+carrier (or of the <abbr title="United States">U.S.</abbr> Government, if specified) at a designated
+point in the city, county, and province or state from which the
+shipment will be made and from which line-haul transportation
+service (as distinguished from switching, local drayage, or other
+terminal service) will begin;</li>
+<li value="2">to, and placed on, the carrier's wharf (at shipside within
+reach of the ship's loading tackle when the shipping point is
+within a port area having water transportation service) or the
+carrier's freight station;</li>
+<li value="3">to a <abbr title="United States">U.S.</abbr>/Canadian postal service facility; or</li>
+<li value="4">if stated in the solicitation, to any Government-designated
+point located within the same city or commercial zone as the <abbr title="Free on Board">FOB</abbr>
+origin point specified in the Contract (commercial zones are
+prescribed by the <abbr title="United States">U.S.</abbr> Interstate Commerce Commission at <cite>49 <abbr title="Code of Federal Regulations">CFR</abbr>
+1048</cite>); and</li>
+</ol>
+</li>
+<li value="2">an allowance for freight based on applicable
+published tariff rates (or Government rate tenders) between the
+points specified in the Contract, is deducted from the Contract
+Price.</li>
+</ol>
+</li>
+<li value="2">The Contractor shall:
+<ol type="1">
+<li value="1">
+<ol type="i">
+<li value="1">pack and mark the shipment to comply with
+Contract specifications; or</li>
+<li value="2">in the absence of specifications, prepare the shipment in
+conformance with carrier requirements to protect the goods and to
+ensure assessment of the lowest applicable transportation
+charge;</li>
+</ol>
+</li>
+<li value="2">
+<ol type="i">
+<li value="1">order specified carrier equipment when requested
+by the <abbr title="United States">U.S.</abbr> Government; or</li>
+<li value="2">if not specified, order appropriate carrier equipment not
+in excess of capacity to accommodate shipment;</li>
+</ol>
+</li>
+<li value="3">deliver the shipment in good order and condition to
+the carrier, and load, stow, trim, block, and/or brace carload or
+truckload shipment (when loaded by the Contractor) on or in the
+carrier's conveyance as required by carrier rules and
+regulations;</li>
+<li value="4">be responsible for any loss of and/or damage to the
+goods
+<ol type="i">
+<li value="1">occurring before delivery to the carrier;</li>
+<li value="2">resulting from improper packing and marking; or</li>
+<li value="3">resulting from improper loading, stowing, trimming,
+blocking, and/or bracing of the shipment if loaded by the
+Contractor on or in the carrier's conveyance;</li>
+</ol>
+</li>
+<li value="5">complete the <abbr title="United States">U.S.</abbr> Government Bill of Lading supplied
+by the ordering agency, or when a <abbr title="United States">U.S.</abbr> Government Bill of Lading is
+not supplied, prepare a commercial Bill of Lading or other
+transportation receipt. The Bill of Lading shall show:
+<ol type="i">
+<li value="1">a description of the shipment in terms of governing
+freight classification or tariff (or <abbr title="United States">U.S.</abbr> Government rate tender)
+under which lowest freight rates are applicable;</li>
+<li value="2">the seals affixed to the conveyance with their serial
+numbers or other identification;</li>
+<li value="3">lengths and capacities of cars or trucks ordered and
+furnished;</li>
+<li value="4">other pertinent information required to effect prompt
+delivery to the consignee, including name, delivery address, postal
+address and code or ZIP code of consignee, routing, etc.;</li>
+<li value="5">special instructions or annotations requested by the
+ordering agency for commercial Bills of Lading, e.g. (A) "to be
+converted to a <abbr title="United States">U.S.</abbr> Government Bill of Lading", or (B) "this
+shipment is the property of, and the freight charges paid to the
+carrier(s) will be reimbursed by, <abbr title="Canadian Commercial Corporation">CCC</abbr>"; and</li>
+<li value="6">the signature of the carrier's agent and the date the
+shipment is received by the carrier; and</li>
+</ol>
+</li>
+<li value="6">distribute the copies of the Bill of Lading, or other
+transportation receipts, as directed by the ordering agency.</li>
+</ol>
+</li>
+<li value="3">These Contractor responsibilities are specified for
+performance at the plant or plants at which the supplies are to be
+finally inspected and accepted, unless the facilities for shipment
+by carrier's equipment are not available at the Contractor's plant,
+in which case the responsibilities shall be performed <abbr title="Free on Board">FOB</abbr> the point
+or points in the same or nearest city where the specified carrier's
+facilities are available subject, however, to the following
+qualifications:
+<ol type="1">
+<li value="1">If the Contractor's shipping plant is located in the
+State of Alaska or Hawaii, the Contractor shall deliver the
+supplies listed for shipment outside Alaska or Hawaii to the port
+of loading in Alaska or Hawaii, respectively, as specified in the
+Contract, at Contractor's expense, and to that extent the Contract
+shall be "FOB destination."</li>
+<li value="2">Notwithstanding subparagraph (c) 1. of this clause,
+if the Contractor's shipping plant is located in the State of
+Hawaii, and the Contract requires delivery to be made by container
+service, the Contractor shall deliver the supplies, at Contractor's
+expense, to the container yard in the same or nearest city where
+seavan container service is available.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

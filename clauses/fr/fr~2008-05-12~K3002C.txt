@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour supprimer la clause de droit 
+d'auteur dans les conditions générales
+  
+   2010B
+  
+  et
+  
+   2035
+  
+  , lorsque le ministère 
+client a précisé que le droit d'auteur résultant des travaux exécutés 
+appartiendra à l'entrepreneur, et que le Canada ne souhaite pas obtenir une 
+licence pour utiliser les travaux.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec les conditions générales
+  
+   2010B
+  
+  et
+  
+   2035
+  
+  . La clause
+  
+   K0030C
+  
+  peut être utilisée en conjonction avec cette clause 
+lorsque le matériel créé en vertu de l'exécution des travaux est protégé par le 
+droit d'auteur et que le ministère client souhaite obtenir une license afin 
+d'exercer tous les droits couverts par le droit d'auteur.
+ </p>
+<p>
+  Ne pas utiliser cette clause en conjonction avec les conditions générales
+  
+   2040
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les conditions générales sont modifiées par la
+suppression en entier de l'article intitulé « Droits
+d'auteur », qui est remplacé par ce qui suit :</p>
+<blockquote>« Sans préjudice des droits existants de
+propriété intellectuelle ou relatifs à l'information
+ou les données fournies par le Canada aux fins du contrat, le
+droit d'auteur sur tout ce qui est conçu, développé,
+ou produit en vertu des travaux prévus par le contrat,
+appartiendront à l'entrepreneur. »</blockquote>
+</div></pre>
+</div>

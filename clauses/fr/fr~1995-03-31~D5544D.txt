@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'ISO 10012-1 est exigé.  Cette clause peut 
+être utilisée de concert avec l'ISO 9001 et(ou) 9002.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les mesures et le système d'étalonnage de l'entrepreneur seront conformes à 
+l'ISO 10012-1, publié par l'Organisation internationale de normalisation 
+(ISO), édition courante à la date de présentation de la soumission de 
+l'entrepreneur.
+
+</pre>
+</div>

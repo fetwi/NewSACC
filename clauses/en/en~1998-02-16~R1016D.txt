@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in the Architectural and Engineering Consultant 
+Agreement - General.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Bilingual Construction Documents          Yes:_____            No:_____</strong>
+
+1.     The <em>Consultant</em> shall:
+
+       (a)    provide construction documents in Canada's two Official 
+              Languages;
+
+       (b)    affix a professional seal to both language versions of the 
+              construction documents.
+
+2.     The total amount payable for the production of bilingual 
+       construction documents shall not exceed the amount entered in clause 
+       R2007D, Agreement Particulars, without the prior authorization of 
+       the <em>Departmental Representative</em>.
+
+<strong>Resident </strong><strong><em>Services</em></strong><strong> During Construction     Yes: _____           No: _____</strong>
+
+1.     The <em>Consultant</em> shall:
+
+       (a)    provide continuous resident site inspection, compile and 
+              maintain up-to-date records of execution of the work;
+
+       (b)    co-ordinate the provision of services for the inspection, 
+              testing and evaluation of suitability of materials and 
+              equipment in compliance with the <em>Construction Contract</em>;
+
+       (c)    maintain and keep available for examination by the<em> 
+              Departmental Representative</em> an up-to-date record showing the 
+              number of persons and items of equipment employed from time 
+              to time on the Project by the <em>Contractor</em> and provide 
+              information necessary to assess the progress, determine the 
+              cause of any delays and verify any claims;
+
+2.     The total amount payable for the resident services during 
+   construction shall not exceed the amount entered in clause R2007D, 
+   without prior authorization of the <em>Departmental Representative</em>.
+</pre>
+</div>

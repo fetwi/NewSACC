@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsque le Ministre ou l'Inspecteur exige des échantillons des produits, 
+matériaux ou éléments finis, lesdits échantillons seront fournis par 
+l'Entrepreneur sans frais pour le Canada dans les _____ jours de la 
+réception de la demande.  Les échantillons doivent être conformes à tous 
+les égards aux exigences contractuelles et seront, au besoin, soumis à des 
+essais pouvant aller jusqu'à leur destruction.
+
+Si les premiers échantillons sont rejetés, le Ministre ou l'Inspecteur 
+   pourra demander à l'Entrepreneur de fournir des échantillons rectifiés 
+   dans les _____ jours de la signification du rejet à l'Entrepreneur.  Si 
+   une deuxième série d'échantillons lui est demandée, l'Entrepreneur devra, 
+   si on lui en fait la demande, envoyer la somme de $25 en signe 
+   d'acquittement des frais d'inspection.  Ce montant devra être versé soit 
+   par mandat bancaire ou postal, soit par chèque visé à l'ordre du 
+   Receveur général du Canada et accompagner la deuxième série 
+   d'échantillons. 
+</pre>
+</div>

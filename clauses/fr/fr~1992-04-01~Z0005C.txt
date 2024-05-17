@@ -1,0 +1,120 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">Dans la présente clause, l'expression « <dfn><abbr title="franco à bord">FAB</abbr>
+origine</dfn> » signifie que les biens sont livrés sans frais
+pour le Gouvernement américain
+<ol type="1">
+<li value="1">à bord du véhicule correspondant au moyen
+de transport indiqué du transporteur (ou du Gouvernement
+américain, si cela est stipulé) à un point
+désigné de la ville, d'où les envois seront
+effectués et d'où commencera le service de transport
+routier (par opposition à l'évitement, au factage local
+ou à un autre service de terminal);</li>
+<li value="2">jusqu'à l'installation sur le quai du
+transporteur (le long du navire, à portée du palan de
+chargement du navire, lorsque le point d'expédition est
+situé dans un port doté d'un service de transport
+maritime) ou le poste de fret du transporteur;</li>
+<li value="3">jusqu'à une installation du service postal
+américain ou canadien; ou</li>
+<li value="4">si cela est indiqué dans l'invitation à
+soumissionner, à tout point désigné par le
+Gouvernement américain, situé dans la même ville ou
+zone commerciale que le point <abbr title="franco à bord">FAB</abbr> origine stipulé dans le
+Contrat.</li>
+</ol>
+</li>
+<li value="2">L'Entrepreneur doit :
+<ol type="1">
+<li value="1">
+<ol type="i">
+<li value="1">emballer et marquer l'envoi conformément aux
+spécifications contractuelles; ou</li>
+<li value="2">en l'absence de spécifications, préparer l'envoi
+conformément aux exigences du transporteur pour protéger
+les biens et assurer l'évaluation des frais applicables les
+plus économiques;</li>
+</ol>
+</li>
+<li value="2">
+<ol type="i">
+<li value="1">commander l'équipement particulier du
+transporteur lorsque le Gouvernement américain en fait la
+demande; ou</li>
+<li value="2">si cela n'est pas indiqué, commander l'équipement
+approprié du transporteur de manière à ne pas
+dépasser la capacité nécessaire à l'envoi;</li>
+</ol>
+</li>
+<li value="3">livrer l'envoi en bon état au transporteur, et
+charger, arrimer, assujettir et (ou) consolider l'envoi
+effectué par wagon ou camion (lorsqu'il est chargé par
+l'Entrepreneur) sur ou dans le véhicule du transporteur,
+conformément aux règles et aux règlements de ce
+dernier;</li>
+<li value="4">assumer la responsabilité de toute perte et (ou)
+de tout dommage aux marchandises
+<ol type="i">
+<li value="1">se produisant avant la livraison au
+transporteur;</li>
+<li value="2">résultant d'un emballage ou d'un marquage insuffisant;
+ou</li>
+<li value="3">résultant d'un chargement, d'un arrimage, d'une
+consolidation et (ou) d'un assujettissement insuffisants de
+l'envoi, s'il est chargé par l'Entrepreneur sur ou dans le
+véhicule du transporteur;</li>
+</ol>
+</li>
+<li value="5">remplir le Connaissement du Gouvernement
+américain fourni par la <span lang="en-CA">Defence Contract Managements Area
+Operations</span>, Ottawa ou, si aucun Connaissement du Gouvernement
+américain n'est fourni, préparer un Connaissement
+commercial ou un autre reçu de transport, indiquant :
+<ol type="i">
+<li value="1">une description de l'envoi selon la classification
+des marchandises ou les tarifs en vertu desquels les tarifs les
+plus économiques de transport sont applicables;</li>
+<li value="2">les sceaux apposés au véhicule avec leurs
+numéros de série ou autres inscriptions
+d'identification;</li>
+<li value="3">les longueurs et capacités des wagons ou des camions
+commandés et fournis;</li>
+<li value="4">d'autres renseignements pertinents requis pour effectuer
+une prompte livraison au destinataire, y compris le nom, l'adresse
+de livraison, le code postal ou le <span lang="en-CA">ZIP</span> code du destinataire,
+l'acheminement, etc.;</li>
+<li value="5">des instructions ou annotations spéciales
+requises par l'organisme de commande pour les Connaissements
+commerciaux, p. ex. : (A) « à convertir en un
+Connaissement du Gouvernement américain », ou (B)
+« cet envoi est la propriété de la <abbr title="Corporation commerciale canadienne">CCC</abbr> et les
+montants versés au transporteur au titre du fret seront
+remboursés par la <abbr title="Corporation commerciale canadienne">CCC</abbr> » et</li>
+<li value="6">la signature du représentant du transporteur et la
+date à laquelle l'envoi a été reçu par le
+transporteur; et</li>
+</ol>
+</li>
+<li value="6">distribuer les copies du Connaissement ou d'autres
+reçus de transport, conformément aux directives de
+l'organisme de commande.</li>
+</ol>
+</li>
+<li value="3">Ces responsabilités d'entrepreneur sont
+stipulées en vue d'une exécution à l'usine ou aux
+usines où les fournitures doivent être finalement
+inspectées et acceptées, à moins que les
+installations d'envoi utilisant l'équipement du transporteur
+ne soient pas disponibles à l'usine de l'Entrepreneur, auquel
+cas les responsabilités doivent être exécutées
+FAB le(s) point(s) dans la même ville ou la ville la plus
+rapprochée où les installations du transporteur
+déterminé sont disponibles.</li>
+</ol>
+</div></pre>
+</div>

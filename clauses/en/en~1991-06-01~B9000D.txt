@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The following conditions shall form part of any (document) issued as a 
+result of this request:
+
+1.   All tank removal and pump out charges at the termination of the 
+requirement period are the responsibility of the supplier.  If these 
+charges are applicable, they must be included in the freight, installation 
+and removal charges at the time of the proposal submission.
+
+2.   This agreement cancels and supersedes any other previous agreement 
+covering the equipment and requirements listed herein and reflects all 
+charges which are applicable.
+
+3.   Notice to Customer Department:
+
+This document covers all aspects of product and equipment charges.  No 
+   other supplier contracts/agreements dealing with this equipment or 
+   product are to be signed or authorized. 
+</pre>
+</div>

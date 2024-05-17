@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les excédents ou déficits de tirage doivent figurer à part sur les factures.
+
+A moins d'indication contraire dans le présent document, les excédents ou 
+déficits de tirage ne doivent pas dépasser les pourcentages suivants :
+
+-      10 p. 100 pour les quantités inférieures à 5 000 exemplaires
+
+-      5 p. 100 pour les quantités se situant entre 5 001 et 100 000 
+       exemplaires
+
+-      2 p. 100 pour les quantités supérieures à 100 001 exemplaires
+
+-      les déficits ne doivent pas dépasser 2 p. 100 sans égard à la 
+   quantité commandée.
+</pre>
+</div>

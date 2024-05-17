@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause will appear automatically at the beginning of clause 
+sequences on all procurement documents. Insert the appropriate information 
+(Instruction or General/Supplemental Condition Number, Title (optional) and 
+Effective Date) where indicated and then delete the line of text "**REMOVE THIS 
+LINE...**".  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>**REMOVE THIS LINE WHEN ALL EDITS (**) ARE COMPLETE**
+
+The Standard Instructions and Conditions DSS-MAS (**SPECIFY NUMBER AND 
+EFFECTIVE DATE**) set out in the Standard Acquisition Clauses and 
+Conditions (SACC) manual, issued on 1 June 1991, Section 1, are hereby 
+incorporated by reference and form part of this (**SPECIFY TYPE OF DOCUMENT
+**). Submission of a bid constitutes acknowledgement that the (**BIDDER/
+CONTRACTOR**) has read and agrees to be bound by such instructions.  
+
+GENERAL CONDITIONS   The general conditions set out in DSS-MAS (**SPECIFY 
+NUMBER AND EFFECTIVE DATE**), as well as those conditions and clauses 
+otherwise identified herein by number, date and title, all of which are set 
+out in the SACC manual, are hereby incorporated by reference, pursuant to 
+the Department of Supply and Services Act and to the Ministerial Order 
+dated 22 May 1991 published in the Canada Gazette. 
+
+These general conditions and clauses form part of this (**SPECIFY TYPE OF 
+DOCUMENT**) as though expressly set out herein, and are subject to any 
+other express terms and conditions contained herein.  
+
+The SACC manual may be obtained from the Canada Communication Group - 
+   Publishing, telephone (XXX) XXX-XXXX.   Clauses and conditions 
+   referenced may also be viewed on the Procurement Opportunities Board 
+   (POB).                                    
+</pre>
+</div>

@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the end item being produced will 
+remain in Canada as property of the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  Government.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Goods purchased in or imported into Canada for use
+solely and exclusively in the performance of this Contract, which
+will not be altered so as to lose their identity and are or will
+become the property of the United States Government, will, provided
+the Contractor receives specific authorization from the Commercial
+Canadian Corporation, be entitled to:
+<ol type="a">
+<li value="1">remission of customs duties, and exemption from
+payment of sales and excise taxes, ordinarily payable on
+importation of the goods into Canada; and</li>
+<li value="2">exemption from payment of the sales and excise taxes
+ordinarily payable on purchase of the goods in Canada.</li>
+</ol>
+</li>
+<li value="2">The details and procedures are set out in Canada
+Customs and Revenue Agency <cite>Memorandum D7-3-11, Joint Canada -
+United States Projects Drawback Regulations</cite>, which is available
+from local Customs and Excise offices.</li>
+</ol>
+</div></pre>
+</div>

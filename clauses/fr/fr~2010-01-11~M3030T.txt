@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes d'offres à commandes portant sur 
+des marchés réservés en vertu de la Stratégie d'approvisionnement auprès des 
+entreprises autochtones (SAEA), une initiative du gouvernement fédéral.
+
+Utiliser cette clause en conjonction avec M9030T et A3000C, et s'il y a lieu, 
+A3002T.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>À la demande du responsable de l'offre à commandes, l'offrant doit fournir 
+l'attestation suivante pour chaque propriétaire et  employé(e) autochtone :
+
+       « 1.   Je suis ______________ (<span class="wsInlineRemark"><strong>insérer</strong></span> «  propriétaire » <span class="wsInlineRemark"><strong>et(ou)</strong></span><strong><em> </em></strong>«  
+              employé(e) à temps plein ») de ______________ (<span class="wsInlineRemark"><strong>insérer le nom 
+              de l'entreprise</strong></span>) et autochtone, au sens de la définition de 
+              l'Annexe 9.4 du <em>Guide des approvisionnements</em> intitulée « 
+              Exigences relatives au Programme de marchés réservés aux 
+              entreprises autochtones ».
+
+       2.     Je certifie que l'énoncé précité est vrai et je consens à sa 
+              vérification sur demande du Canada.
+
+
+              ________________________________
+              Nom du propriétaire ou de l'employé(e)
+
+
+              _____________________________
+              Signature du propriétaire ou de l'employé(e)
+
+
+              ___________________
+              Date »
+
+
+
+</pre>
+</div>

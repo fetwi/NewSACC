@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Fish shall have been processed and packed in an establishment 
+       approved by the Department of Fisheries and Oceans in accordance 
+       with the<em> Fish Inspection Act</em> and Regulations, and shall be 
+       identified as follows:
+
+       (a)    Fresh fish shall be identified by the words "Processed under 
+              Government Supervision" or "Canada Inspected" within a line 
+              drawing of a maple leaf marked on wrappers, inserts 
+              containers or master containers.
+
+       (b)    Frozen fish shall be identified by the words "Canada 
+   Inspected" within a line drawing of a maple leaf marked on the wrappers, 
+   or containers, or where practicable on the whole fish.
+</pre>
+</div>

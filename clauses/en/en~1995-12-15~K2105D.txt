@@ -1,0 +1,58 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contractual documents.  At the bid solicitation 
+stage, the list of sanctions is provided to bidders for information purposes 
+only.  At the contract stage, procurement officers are to ensure that this 
+clause includes ALL those sanctions which are applicable at time of contract 
+award.  Countries for which sanctions have been lifted are to be edited out of 
+the clause and new countries inserted as and when new sanctions are announced. 
+The contractor must also comply with sanctions imposed during the life of the 
+contract, as required by the Special Economic Measures Act.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>[** PROCUREMENT OFFICERS ARE TO EDIT THE LIST IN PARAGRAPH 3 TO ENSURE THAT 
+IT IS CORRECT AT TIME OF CONTRACT AWARD. DELETE THIS INSTRUCTION PRIOR TO 
+FINALIZING DOCUMENT. **]</strong>
+
+1.     From time to time, in compliance with United Nations obligations or 
+       other international agreements, Canada imposes restrictions on trade, 
+       financial transactions or other dealings with a foreign country or 
+       its nationals.  These sanctions may be implemented by regulation 
+       under the <em>United Nations Act</em> (UNA), R.S.C. 1985, c. U-2, the <em>Special 
+       Economic Measures Act</em> (SEMA), S.C. 1992, c. 17, or the <em>Export and 
+       Import Permits Act</em> (EIPA), R.S.C. 1985, c. E-19.  The Contractor 
+       agrees that it will, in the performance of the Contract, comply with 
+       any such regulations in effect during the life of the Contract, and 
+       will inform its subcontractors of the existence of the SEMA and of 
+       its regulations in force at the time of contract award. In the event 
+       of such regulation preventing the Contractor from performing all or 
+       part of its obligations, the Contractor shall treat the situation as 
+       a force majeure, and forthwith inform Canada of the situation and 
+       follow the procedures applicable to force majeure.
+
+2.     The Contractor agrees that Canada relies on the Contractor's 
+       undertaking in subsection 1. to enter into the Contract, and that 
+       any breach of the undertaking shall entitle Canada to terminate the 
+       Contract under the provisions of the Contract relating to default by 
+       the Contractor, and therefore to recover damages from the Contractor, 
+       including reprocurement costs arising out of such a termination.
+
+3.     As of this date, sanctions are in place against the following 
+       countries:
+       
+       a)     Yugoslavia (Serbia and Montenegro) - UNA, United Nations 
+              Federal Republic of Yugoslavia (Serbia and Montenegro) 
+              Regulations, SOR 92-342 as amended by SOR 93-211;
+
+       b)     Iraq - UNA, United Nations Iraq Regulations, SOR 90-531 as 
+              amended by SOR 90-694, 91-185, and 93-343;
+
+       c)     Libya - UNA, United Nations Libya Regulations, SOR 92-222 as 
+              amended by SOR 93-521;
+
+       d)     Republic of Bosnia and Herzegovina - UNA, United Nations 
+              Republic of Bosnia and Herzegovina Regulation, SOR 95-145.
+
+
+</pre>
+</div>

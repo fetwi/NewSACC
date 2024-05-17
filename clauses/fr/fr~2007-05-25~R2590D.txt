@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+1)     Toute garantie d'assurance que l'entrepreneur estime nécessaire afin 
+       d'assurer sa propre protection ou pour couvrir ses obligations est à 
+       la discrétion et aux frais de l'entrepreneur.
+
+2)     Toute assurance souscrite constitue un avantage et une protection 
+       pour l'entrepreneur, mais elle ne permet pas à ce dernier de se 
+       dégager de ses responsabilités ou de les réduire de quelque façon 
+       que ce soit.
+
+</pre>
+</div>

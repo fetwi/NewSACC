@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in conjunction with clause A9094C.  This clause should show the 
+amount for the precontractual period and for the period from the contract date 
+to contract completion and should be included in the Basis of Payment.  The 
+"Limitation of Expenditure" clause should reflect the total of items 1. and 2. 
+below. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In consideration of the services provided for the period from 
+       _____(start date) up to _____ (date prior to the effective date of 
+       the Contract), the Contractor shall be paid the sum of $_____ (Goods 
+       and Services Tax extra or Harmonized Sales Tax  extra, as 
+       appropriate).
+
+2.     For the period from _____ (effective date of the Contract) to 
+       Contract completion, the Contractor shall be paid in accordance with 
+       the Basis of Payment.
+
+
+</pre>
+</div>

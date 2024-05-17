@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes concurrentielles pour un seul article (selon la description du besoin) lorsque 
+la concurrence est limitée exclusivement aux services canadiens tel qu'il est défini au paragraphe 2 de la clause
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3050T
+  
+  et
+  
+   M3060C
+  
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter la Politique sur le contenu canadien (
+  
+   Section 3.130
+  
+  du Guide des approvisionnements) afin d'établir si le besoin est assujetti à la politique.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Cet achat est limité aux services canadiens.</p>
+<p>L'offrant atteste que :</p>
+<p><var title="checkbox">( )</var> le service offert est un service
+canadien tel qu'il est défini au paragraphe 2 de la clause
+A3050T.</p>
+</div></pre>
+</div>

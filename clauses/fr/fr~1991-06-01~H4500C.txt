@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats domestiques de marchandises qui 
+prévoient le versement d'acomptes (voir la directive 4203 du GPA). 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Si un droit de rétention quelconque, aux termes de l'article 427 de la Loi 
+sur les banques, existe relativement à des matériaux, pièces, travaux en 
+cours ou ouvrages terminés pour lesquels l'Entrepreneur a l'intention de 
+réclamer des paiements, l'Entrepreneur s'engage à en informer le Ministre 
+sans retard et s'engage d'autre part, sauf instructions contraires du 
+Ministre,
+
+       1.  à faire lever ce droit immédiatement par la banque et à fournir 
+       au Ministre une confirmation écrite de la banque à ce sujet; ou
+
+       2.  à fournir ou à obtenir que l'on fournisse immédiatement au 
+       Ministre un engagement de la banque envers le Ministre par lequel la 
+       banque ne fera aucune réclamation, aux termes de l'article 178 de la 
+       Loi sur les banques, sur les matériaux, pièces, travaux en cours ou 
+       ouvrages terminés pour lesquels des paiements à l'Entrepreneur sont 
+       faits aux termes du présent contrat.
+
+La défaut d'informer le Ministre de l'un quelconque de ces droits de 
+   rétention ou de se conformer à l'alinéa 1. ou 2. susmentionné constitue 
+   un manquement en vertu de la clause intitulée «Inexécution du contrat» 
+   figurant aux conditions générales du présent contrat et autorise le 
+   Ministre à résilier le contrat.
+</pre>
+</div>

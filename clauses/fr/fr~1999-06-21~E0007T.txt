@@ -1,0 +1,54 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une garantie de contrat est exigée.  Le texte 
+des annexes mentionnées dans cette clause figure dans la section «Annexes» du 
+Guide des approvisionnements.
+
+Cette clause doit être utilisée de concert avec la clause E0008T, Définitions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Si la présente soumission est acceptée, le soumissionnaire est tenu 
+       de fournir, dans les _____ jours civils suivant l'attribution du 
+       contrat, l'une des garanties financières contractuelles suivante :
+
+       a)     un cautionnement d'exécution représentant _____ p. 100 du 
+              prix du contrat, émis par une des sociétés de cautionnement 
+              énumérées à l'annexe 7.2, Compagnies de cautionnement 
+              reconnues, sous la forme prescrite à l'annexe 7.4, 
+              Cautionnement d'exécution, ci-jointe;
+
+       b)     un cautionnement d'exécution de même qu'un cautionnement pour 
+              le paiement de la main-d'oeuvre et des matériaux, 
+              représentant chacun _____ p. 100 du prix du contrat, émis par 
+              une des compagnies énumérées à l'annexe 7.2, Compagnies de 
+              cautionnement reconnues, sous la forme prescrite à l'annexe 7.4, 
+              Cautionnement d'exécution, et à l'annexe 7.3, Cautionnement 
+              pour le paiement de la main-d'oeuvre et des matériaux, 
+              ci-jointes;
+
+       c)     un cautionnement pour le paiement de la main-d'oeuvre et des 
+              matériaux représentant _____ p. 100 du prix du contrat, émis 
+              par une des sociétés de cautionnement énumérées à l'annexe 7.2, 
+              Compagnies de cautionnement reconnues, sous la forme 
+              prescrite à l'annexe 7.3, Cautionnement pour le paiement de 
+              la main-d'oeuvre et des matériaux, ci-jointe;
+
+       d)     un dépôt de garantie (obligation garantie par le gouvernement, 
+              lettre de change, lettre de crédit de soutien irrévocable) 
+              s'élevant à _____ p. 100 du prix du contrat.
+
+2.     Si, pour une raison quelconque, le Canada ne reçoit pas, dans les 
+       délais indiqués, le contrat signé par le soumissionnaire et la 
+       garantie financière de contrat demandée, le Canada pourra accepter 
+       une autre offre, lancer une nouvelle invitation à soumissionner, 
+       négocier un contrat ou n'accepter aucune offre, comme il le jugera 
+       approprié.
+
+3.     Les obligations à coupons constituant un dépôt de garantie doivent 
+       comprendre tous les coupons non échus à la date du dépôt au Canada.  
+       De temps à autre, le Canada peut détacher les coupons échus et les 
+       envoyer au soumissionnaire à l'adresse indiquée sur la soumission, à 
+       moins d'indication contraire par l'entrepreneur.
+
+</pre>
+</div>

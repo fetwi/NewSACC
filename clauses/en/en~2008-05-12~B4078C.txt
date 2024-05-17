@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all contracts for translation services.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Collection and delivery of the Work may be by hand, courier, mail, electronic mail or internet (or intranet), as specified in the Contract. If the Contractor is required to collect the Work at a government site and/or deliver the Work to a government site, the Contractor must collect and deliver the Work during normal working hours, unless provided otherwise in the Contract.</li>
+<li value="2">The Contractor must submit the Work on the prescribed electronic medium and software, following the layout and format of the original text. Any work submitted by the Contractor on the prescribed electronic medium and software must be formatted in such a way that it can be used without modification. The Contractor must follow the layout of the original in every respect. The Contractor must supply the prescribed electronic medium and software.</li>
+<li value="3">The Work must contain no heading, advertising or information whatsoever that could identify the Contractor. No handwritten corrections will be accepted. All French translations must include all the French accents on the prescribed electronic medium and software. The Contractor must reproduce any charts (including figures), unless otherwise indicated. The word count includes figures, and figures must be reproduced.</li>
+<li value="4">The Contractor must not remove any classified documents from the authorized work premises unless it receives authorization in writing from the Project Authority. The Contractor must ensure that its employees are aware of and comply with this requirement.</li>
+<li value="5">The Contractor must stamp the appropriate security classification on the Work produced by the Contractor under the Contract. The Contractor must not keep or reproduce classified documents or translations of these, nor reveal their contents. Upon completion of the Work, the Contractor must return to the Project Authority all classified documents provided by Canada or produced by the Contractor under the Contract, as well as all the rough drafts, draft notes, working documents and research notes. All such documents must be submitted in person or sent by courier, enclosed in two envelopes, the inside envelope being marked at the required security level, and the outer one bearing only the addresses of the
+addressee and sender.</li>
+</ol>
+</div></pre>
+</div>

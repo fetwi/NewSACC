@@ -1,0 +1,369 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+<strong>
+   March 11, 2016:
+  </strong>
+  This version of the clause replaces the 2007,
+  
+   Standard Instructions - Goods or Services – Non-competitive Requirements
+  
+  , issued and dated 2015-07-03.
+ </p>
+<p>
+  As part of the
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  release 2015-3 dated July 3, 2015, the Standard Instructions 2007 were updated to reflect changes to Section 01 Integrity Provisions – Bid. It has since been discovered that the content of the clause was mistakenly replaced with the content of the 2006 Standard Instructions – Request for Standing Offers – Goods or Services – Competitive Requirements clause. Therefore, clause 2007 is updated to correct its content to include the appropriate sections for non-competitive requirements.
+ </p>
+<p>
+  The effective date of the clause remains 2015-07-03 for consistency with the French version of the clause which does not require any corrections.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2015-07-032007general-information">General Information</a></li>
+<li><a href="#2015-07-032007integrity-provisions">01 Integrity Provisions - Offer</a></li>
+<li><a href="#2015-07-032007procurement-business-number">02 Procurement Business Number</a></li>
+<li><a href="#2015-07-032007standard-instructions">03 Standard Instructions, Clauses and Conditions</a></li>
+<li><a href="#2015-07-032007definition-of-offeror">04 Definition of Offeror</a></li>
+<li><a href="#2015-07-032007submission-of-offers">05 Submission of an Offer</a></li>
+<li><a href="#2015-07-032007legal-capacity">06 Legal Capacity</a></li>
+<li><a href="#2015-07-032007rejection-of-offer">07 Rejection of Offer</a></li>
+<li><a href="#2015-07-032007price-justification">08 Price Justification</a></li>
+<li><a href="#2015-07-032007offer-costs">09 Offer Costs</a></li>
+<li><a href="#2015-07-032007joint-venture">10 Joint Venture</a></li>
+<li><a href="#2015-07-032007further-information">11 Further Information</a></li>
+</ul>
+</div>
+<h2 id="2015-07-032007general-information">General Information</h2>
+<p>One method of supply used by Public Works and Government
+Services Canada (PWGSC) to satisfy the requirements of departments
+and agencies is to arrange with suppliers to submit a standing
+offer to provide goods, services or both during a specified period.
+Specific departments and agencies are then authorized by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to
+make call-ups against the standing offer detailing the exact
+quantities of goods or level of services they wish to order at a
+particular time, during the effective period of the standing offer
+in accordance with the predetermined conditions.</p>
+<p>
+The quantity of goods, level of services and estimated expenditure specified in a Request for Standing Offer (RFSO) are only an approximation of requirements given in good faith. A <abbr title="Request for Standing Offer">RFSO</abbr> does not commit PWGSC to authorize the utilization of a standing offer or to procure or contract for any goods, services or both. A standing offer is not a contract. The issuance by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> of a Standing Offer and Call-up Authority to successful suppliers and to departments and agencies authorized to make call-ups does not constitute an agreement by Canada to order any or all of the goods, services or both offered. Departments and agencies may make one or several call-ups against a standing offer.
+</p>
+<h2 id="2015-07-032007integrity-provisions">01 (2015-07-03) Integrity Provisions - Offer</h2>
+<ol start="1" type="1">
+<li>Interpretation<br/>
+
+For the purposes of these Integrity Provisions, the following definitions apply:
+<dl>
+<dt>"Administrative Agreement"</dt>
+<dd>is a negotiated agreement between a supplier/potential supplier and the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> as provided for in the <cite>Ineligibility and Suspension Policy</cite>. </dd>
+<dt>"Affiliate"</dt>
+<dd>is a person, including, but not limited to, organizations, bodies corporate, societies, companies, firms, partnerships, associations of persons, parent companies or subsidiaries, whether partly or wholly-owned, as well as individuals, directors, officers and key employees if: 
+
+<ol start="1" type="i">
+<li>one controls or has the power to control the other, or </li>
+<li>a third party has the power to control both.</li>
+</ol>
+</dd>
+<dt>"Control"</dt>
+<dd>means
+<ol start="1" type="a">
+<li>direct control, such as where:
+
+<ol start="1" type="i">
+<li>a person controls a body corporate if securities of the body corporate to which are attached more than 50 percent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;</li>
+<li>a person controls a corporation that is organized on a cooperative basis if the person and all of the entities controlled by the person have the right to exercise more than 50 percent of the votes that may be cast at an annual meeting or to elect the majority of the directors of the corporation;</li>
+<li>a person controls an unincorporated entity, other than a limited partnership, if more than 50 percent of the ownership interests, however designated, into which the entity is divided are beneficially owned by that person and the person is able to direct the business and affairs of the entity;</li>
+<li>the general partner of a limited partnership controls the limited partnership; and</li>
+<li>a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.</li>
+</ol>
+</li>
+<li>deemed control, such as where: 
+<br/> a person who controls an entity is deemed to control any entity that is controlled, or deemed to be controlled, by the entity</li>
+<li>indirect control, such as where:
+<br/>a person is deemed to control, within the meaning of paragraph (a) or (b), an entity where the aggregate of
+<ol start="1" type="i">
+<li>any securities of the entity that are beneficially owned by that person, and</li>
+<li>any securities of the entity that are beneficially owned by any entity controlled by that person</li>
+</ol>
+is such that, if that person and all of the entities referred to in paragraph (c)(ii) that beneficially own securities of the entity were one person, that person would control the entity.</li>
+</ol>
+</dd>
+<dt>"Ineligibility"</dt>
+<dd>means not eligible for the issuance of a standing offer nor for contract award.</dd>
+<dt>"Suspension"</dt>
+<dd>means a determination of temporary ineligibility by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</dd>
+</dl>
+</li>
+<li>Statement
+
+<ol start="1" type="a">
+<li>Offerors must comply with the <cite>Code of Conduct for Procurement</cite>  and be eligible for the issuance of a standing offer or contract award  under the <cite>Ineligibility and Suspension Policy</cite>. In addition, Offerors must respond to Requests for Standing Offers (RFSO) in an honest, fair and comprehensive manner, and that accurately reflect their capacity to satisfy the requirements stipulated in the RFSO, Standing Offer (SO) and any resulting contracts, and submit offers as well as enter into contracts only if they will fulfill all obligations of the Contract.</li>
+<li>By submitting an offer, Offerors confirm that they understand that being convicted of certain offences will render them ineligible to be issued a standing offer or to be awarded a contract. Canada will declare non-responsive any offer in respect of which the information requested is incomplete or inaccurate, or in respect of which the information contained in the certifications is found by Canada to be untrue in any respect, at the time of issuance of the Standing Offer (SO). If it is determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, after issuance of the SO, that the Offeror made a false declaration, Canada will, following a notice period, have the right to set aside the SO and to terminate for default any resulting contracts.</li>
+</ol>
+</li>
+<li>List of Names
+<ol start="1" type="a">
+<li>Offerors who are incorporated, including those submitting offers as a joint venture, must provide a complete list of names of all individuals who are currently directors of the Offeror. Offerors submitting offers as sole proprietorship, as well as those submitting offers as a joint venture, must provide the name of the owner(s). Offerors submitting offers as societies, firms, or partnerships do not need to provide lists of names.</li>
+<li>If the required list of names has not been received by the time the evaluation of offers is completed, Canada will inform the Offeror of a time frame within which to provide the information. Failure to provide the names within the time frame specified will render the offer non-responsive. Providing the required names is a mandatory requirement for a Standing Offer to be issued.</li>
+<li>The Offeror must immediately inform Canada in writing of any changes affecting the list of names of directors during this procurement process.</li>
+</ol>
+</li>
+<li>Request for Additional Information<br/>
+By submitting an offer, the Offeror certifies that it is aware, and that its Affiliates are aware, that Canada may request additional information, certifications, validations from a third party qualified by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, and other evidentiary elements proving identity or eligibility to contract with Canada. Canada may also verify the information provided by the Offeror, including the information relating to convictions for certain offences and any conditional or absolute discharges specified in these Integrity Provisions. 
+</li>
+<li>Lobbying Act<br/>
+By submitting an offer, the Offeror certifies that neither it nor any of its Affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Standing Offer and any resulting call-ups if the payment of the fee would require the individual to file a return under section 5 of the <cite>Lobbying Act</cite>.</li>
+<li>
+Canadian Offences Resulting in Legal Incapacity<br/>
+By submitting an offer, the Offeror certifies that:
+<ol start="1" type="a">
+<li>it and the Affiliates of the Offeror have not been convicted of or pleaded guilty to an offence under any of the following provisions which would result in a legal incapacity under section 750(3) of the <cite>Criminal Code</cite>  and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+
+<ol start="1" type="i">
+<li>paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (<em>Fraud against Her Majesty</em>) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite>Financial Administration Act</cite>, or </li>
+<li>section 121 (<em>Frauds on the government and Contractor subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>) of the <cite>Criminal Code</cite>, or</li>
+</ol>
+</li>
+<li>the Offeror has not been convicted of or pleaded guilty to the offences described in paragraph (a) and certifies that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be issued a standing offer or to be awarded a contract as described in (a).</li>
+</ol>
+</li>
+<li>Canadian Offences<br/>
+By submitting an offer, the Offeror certifies that:
+<ol start="1" type="a">
+<li>the Offeror and the Affiliates of the Offeror have not, in the last three years, from the offer submission date, been convicted of or pleaded guilty to an offence under any of the following provisions for which they would be ineligible to be issued a standing offer or to be awarded a contract under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+<ol start="1" type="i">
+<li>section 119 (<em>Bribery of judicial officers, etc</em>), section 120 (<em>Bribery of officers</em>), section 346 (<em>Extortion</em>), sections 366 to 368 (<em>Forgery and other offences resembling forgery</em>), section 382 (<em>Fraudulent manipulation of stock exchange transactions</em>), section 382.1 (<em>Prohibited insider trading</em>), section 397 (<em>Falsification of books and documents</em>), section 422 (<em>Criminal breach of contract</em>), section 426 (<em>Secret commissions</em>), section 462.31 (<em>Laundering proceeds of crime</em>) or sections 467.11 to 467.13 (<em>Participation in activities of criminal organization</em>) of the <cite>Criminal Code</cite>, or</li>
+<li>section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), section 46 (<em>Foreign directives</em>), section 47 (<em>Bid rigging</em>), section 49 (<em>Agreements or arrangements of federal financial institutions</em>), section 52 (<em>False or misleading representation</em>), section 53 (<em>Deceptive notice of winning a prize</em>) of the <cite>Competition Act</cite>, or</li>
+<li>section 239 (<em>False or deceptive statements</em>) of the <cite>Income Tax Act</cite>, or</li>
+<li>section 327 (<em>False or deceptive statements</em>) of the <cite>Excise Tax Act</cite>,or</li>
+<li>section 3 (<em>Bribing a foreign public official</em>), section 4 (<em>Accounting</em>), or section 5 (<em>Offence committed outside Canada</em>) of the <cite>Corruption of Foreign Public Officials Act</cite>, or </li>
+<li>section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite>Controlled Drugs and Substance Act</cite>; or</li>
+</ol>
+</li>
+<li>the Offeror has not been convicted of or pleaded guilty to the offences described in paragraph (a) and it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible be issued a standing offer or to be awarded a contract as described in (a).</li>
+</ol>
+</li>
+<li>Foreign Offences<br/>
+
+By submitting an offer, the Offeror certifies that:
+<ol start="1" type="a">
+<li>the Offeror and its Affiliates have not, in the last three years, from the offer submission date, been convicted of or pleaded guilty to an offence in a jurisdiction other than Canada that would, in Canada's opinion, be similar to an offence referenced in the Canadian Offences Resulting in Legal Incapacity and the Canadian Offences subsections, and for which it would be ineligible be issued a standing offer or to be awarded a contract under these Integrity Provisions and for which they have not been pardoned under the Foreign Pardons subsection and:
+<ol start="1" type="i">
+<li>the court, before which the Offeror or its Affiliate appeared, acted within the court's jurisdiction;</li>
+<li>the Offeror or its Affiliate appeared during the court's proceedings or submitted to the court's jurisdiction;</li>
+<li>the court's decision was not obtained by fraud, and</li>
+<li>the Offeror or its Affiliate was entitled to present to the court every defence that the Offeror or its Affiliate would have been entitled to present had the proceeding been tried in Canada; or</li>
+</ol>
+</li>
+<li>it has not been convicted of or pleaded guilty to the offences described in paragraph (a) and certifies that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be issued a standing offer or to be awarded a contract as described in (a).</li>
+</ol>
+</li>
+<li>
+Ineligibility for Issuance of a Standing Offer <br/>
+<ol start="1" type="a">
+<li>The Offeror confirms that it understands that where it or any of its Affiliates have been convicted of certain offences or have been held responsible of certain acts, as described under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences, the Foreign Offences and the Lobbying Act subsections, the Offeror or its Affiliate is ineligible to be issued a standing offer, subject to a Public Interest Exception.</li>
+<li>The Offeror confirms that it understands that it is ineligible for the issuance of a standing offer where it has been so determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under the <cite>Ineligibility and Suspension Policy</cite> and that the period of ineligibility or suspension has not expired.</li>
+</ol>
+</li>
+<li>
+Declaration of Convicted Offences<br/>
+Where an Offeror or its Affiliate is unable to certify that it has not been convicted of any of the offences referenced under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, the Offeror must provide with its offer the completed Declaration Form, to be given further consideration in the procurement process.
+ </li>
+<li>
+Period of Ineligibility<br/>
+The following rules determine the period for which an Offeror or its Affiliate that has been convicted of certain offences is, ineligible to be issued a standing offer or to be awarded a contract:
+<ol start="1" type="a">
+<li>for all offences referenced under the Canadian Offences Resulting in Legal Incapacity subsection for which an Offeror or an Affiliate of the Offeror has pleaded guilty to or has been convicted of, the period of ineligibility for the issuance of a standing offer or for contract award  is indefinite, subject to the Canadian Pardons subsection.</li>
+<li>subject to an Administrative Agreement, for all offences referenced under the Canadian Offences and Foreign Offences subsections for which an Offeror or an Affiliate of the Offeror has pleaded guilty to or been convicted of, as the case may be, in the last three years, from the offer submission date, the period of ineligibility for  the issuance of a standing offer or for contract award is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections.</li>
+<li>subject to an Administrative Agreement, for violations of matters referenced in the Lobbying Act subsection for which an Offeror or an Affiliate of the Offeror has been found responsible, as the case may be, in the last three years, from the offer submission date, the period of ineligibility for the issuance of a standing offer or for contract award is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections.</li>
+</ol></li>
+<li>
+Canadian Pardons<br/>
+A determination of ineligibility for the issuance of a standing offer or for contract award will not be made or maintained by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under these Integrity Provisions, in respect of an offence or act that gave rise or that could give rise to a determination of ineligibility, if the Offeror or its Affiliate has:
+<ol start="1" type="a">
+<li>been granted an absolute discharge in respect of the offence, or has been granted a conditional discharge in respect of the offence and those conditions have been satisfied;</li>
+<li>been granted a pardon under Her Majesty's royal prerogative of mercy;</li>
+<li>been granted a pardon under section 748 of the <cite>Criminal Code</cite>;</li>
+<li>received a record of suspension ordered under the <cite>Criminal Records Act</cite>; and</li>
+<li>been granted a pardon under the <cite>Criminal Records Act</cite>, as that Act read immediately before the day section 165 of the <cite>Safe Streets and Communities Act</cite> comes into force.</li>
+</ol></li>
+<li>
+Foreign Pardons<br/>
+A determination of ineligibility for the issuance of a standing offer or for award of government contracts will not be made or maintained, as the case may be, by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> in respect of matters referenced in the Foreign Offences subsection and with respect to an offence or act that gave rise or will give rise to a determination of ineligibility, if the Offeror or its Affiliate, has at any time, benefited from foreign measures that are similar to Canadian pardons, conditional discharges, absolute discharges, record of suspensions, or restoration of legal capacities by the Governor in Council.</li>
+<li>
+Suspension of Period of Ineligibility<br/>
+The Offeror confirms that it understands that a determination of ineligibility for the issuance of a standing offer or for award of government contracts made under these Integrity Provisions may be suspended by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> through an Administrative Agreement, to the extent that it is permissible in law. The period of ineligibility applicable to that Offeror or its Affiliate and the right to participate in a given procurement process are guided by the terms and conditions of the Administrative Agreement. Subject to the Public Interest Exception, an Administrative Agreement may only abridge or suspend a period of ineligibility on solicitations issued after it has been concluded.</li>
+<li>
+Period of Ineligibility for Providing False or Misleading Information<br/>
+The Offeror confirms that it understands that where it has made a false declaration or provided false or misleading information under these Integrity Provisions, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will declare an Offeror to be ineligible to be issued a standing offer or be awarded a contract for a period of ten years. The period of ineligibility is effective from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Period of Ineligibility for Breaching Administrative Agreements<br/>
+The Offeror confirms that it understands that where it has concluded an Administrative Agreement and that it has breached any of its terms and conditions, the Minister of PWGS will lengthen the period of ineligibility for a period to be determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Suspension of an Offeror<br/>
+The Offeror confirms that it understands that the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> may suspend an Offeror from being issued a standing offer or from being awarded a contract for a period of up to 18 months, subject to renewal, pending completion of the criminal proceeding, if the Offeror has been charged with any of the offences listed in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections or if the Offeror has admitted to being guilty of any of these offences. The period of suspension is effective from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. A period of suspension does suspend all other periods of ineligibility that may be imposed on an Offeror by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Third Party Validation<br/>
+The Offeror confirms that it understands that where it or any of the Offeror's Affiliates has been subject to a period of ineligibility to be issued a standing offer or to be awarded a contract, for which the Canadian Pardons and the Foreign Pardons subsections do not apply, the Offeror must provide by the Request for Standing Offers (RFSO) closing date, a confirmation from an independent third party, recognized in advance by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, confirming that measures have been put in place in order to avoid the reoccurrence of such wrongdoings that led to the convictions. Failure to provide the said confirmation from an independent third party renders this offer non-responsive.</li>
+<li>
+Subcontractors<br/>
+The Offeror must ensure that contracts with first tier subcontractors include Integrity Provisions similar to those imposed in the contract(s) resulting from the Standing Offer.</li>
+<li>
+Public Interest Exception<br/>
+The Offeror confirms that it understands:
+<ol start="1" type="a">
+<li>that, with the exception of a legal incapacity to contract resulting from section 750(3) of the <cite>Criminal Code</cite>, Canada may issue a standing offer with an Offeror, or any of its Affiliates, which have been convicted of or have pleaded guilty to any of the offences referenced in the Canadian Offences and Foreign Offences subsections, where Canada considers it necessary to the public interest for reasons which include, but are not limited to:
+<ol start="1" type="i">
+<li>the need is one of pressing emergency in which delay would be injurious to the public interest;</li>
+<li>the Offeror is the only person capable of performing the contract(s) resulting from the Standing Offer;</li>
+<li>the contract(s) resulting from the Standing Offer are essential to maintain sufficient emergency stocks in order to safeguard against possible shortages; and</li>
+<li>not issuing the Contract resulting from the Standing Offer would have a significant adverse impact on the health, national security, safety, security or economic or financial well-being of the people of Canada or the functioning of any portion of the federal public administration;</li>
+</ol>
+</li>
+<li>Canada may only issue a standing offer with an Offeror under this subsection where the ineligible Offeror has concluded an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, on such terms and conditions that are necessary to safeguard the integrity of the procurement process and can apply to any procurement. The Administrative Agreement need not be concluded in advance of the solicitation.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2015-07-032007procurement-business-number">02 (2012-03-02) Procurement Business Number</h2>
+<p>Suppliers are required to have a Procurement Business
+Number (PBN) before issuance of a standing offer. Suppliers may
+register for a <abbr title="Procurement Business Number">PBN</abbr> on line at Supplier Registration
+Information. For non-Internet registration, suppliers may
+contact the InfoLine at 1-800-811-1148 to obtain the telephone
+number of the nearest Supplier Registration Agent.</p>
+<h2 id="2015-07-032007standard-instructions">03 (2013-01-28) Standard Instructions, Clauses and Conditions</h2>
+<p>Pursuant to the <cite>Department of Public
+Works and Government Services Act</cite> (<abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr>
+16), the
+instructions, clauses and conditions identified in the <abbr title="Request for Standing Offer">RFSO</abbr>
+,
+standing offer and resulting contract(s) by number, date and title
+are incorporated by reference into and form part of the <abbr title="Request for Standing Offer">RFSO</abbr>
+,
+standing offer and resulting contract(s) as though expressly set
+out in the <abbr title="Request for Standing Offer">RFSO</abbr>
+, the standing offer and the resulting
+contract(s).</p>
+<h2 id="2015-07-032007definition-of-offeror">04 (2007-11-30) Definition of Offeror</h2>
+<p>"<dfn>Offeror</dfn>" means the person or entity (or, in the case
+of a joint venture, the persons or entities) submitting an offer to
+provide goods, services or both under a call-up resulting from a
+standing offer. It does not include the parent, subsidiaries or
+other affiliates of the Offeror, or its subcontractors.</p>
+<h2 id="2015-07-032007submission-of-offers">05 (2010-10-07) Submission of an Offer</h2>
+<ol type="1">
+<li value="1">Canada requires that each offer, at closing date and
+time or upon request from the Standing Offer Authority, be signed
+by the Offeror or by an authorized representative of the Offeror.
+If an offer is submitted by a joint venture, it must be in
+accordance with section 10.</li>
+<li value="2">
+The offer will be treated as confidential, subject to the provisions of the Access to Information Act (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c</abbr>. A-1), and the Privacy Act (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c</abbr>. P-21). 
+</li>
+</ol>
+<h2 id="2015-07-032007legal-capacity">06 (2007-11-30) Legal Capacity</h2>
+<p>The Offeror must have the legal capacity to contract. If the
+Offeror is a sole proprietorship, a partnership or a corporate
+body, the Offeror must provide, if requested by the Standing Offer
+Authority, a statement and any requested supporting documentation
+indicating the laws under which it is registered or incorporated
+together with the registered or corporate name and place of
+business. This also applies to offerors submitting an offer as a
+joint venture.</p>
+<h2 id="2015-07-032007rejection-of-offer">07 (2014-09-25) Rejection of Offer</h2>
+<ol type="1">
+<li value="1">Canada may reject an offer where any of the following
+circumstances is present:
+<ol type="a">
+<li value="1">the Offeror is subject to a Vendor Performance
+Corrective Measure, under the Vendor Performance Corrective Measure Policy, which
+renders the Offeror ineligible to submit an offer for the
+requirement;</li>
+<li value="2">an employee, or subcontractor included as part of the
+offer, is subject to a Vendor Performance Corrective Measure, under
+the Vendor Performance Corrective Measure Policy, which would render that employee or
+subcontractor ineligible to submit an offer for the requirement, or
+the portion of the requirement the employee or subcontractor is to
+perform;</li>
+<li value="3">the Offeror is bankrupt or where, for whatever reason, its activities are rendered inoperable for an extended period;</li>
+<li value="4">evidence, satisfactory to Canada, of fraud, bribery, fraudulent misrepresentation or failure to comply with any law protecting individuals against any manner of discrimination, has been received with respect to the Offeror, any of its employees or any subcontractor included as part of the offer;</li>
+<li value="5">evidence satisfactory to Canada that based on past conduct or behavior, the Offeror, a subcontractor or a person who is to perform the Work is unsuitable or has conducted himself/herself improperly;</li>
+<li value="6">with respect to current or prior transactions with
+the Government of Canada:
+<ol type="i">
+<li value="1">Canada has exercised its contractual remedies of
+suspension or termination for default with respect to a contract
+with the Offeror, any of its employees or any subcontractor
+included as part of the offer;</li>
+<li value="2">Canada determines that the Offeror's performance on other
+contracts, including the efficiency and workmanship as well as the
+extent to which the Offeror performed the Work in accordance with
+contractual clauses and conditions, is sufficiently poor to
+jeopardize the successful completion of the requirement being bid
+on.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Where Canada intends to reject an offer pursuant to a
+provision of subsection 1. (f), the Standing Offer Authority will
+so inform the Offeror and provide the Offeror 10 days within
+which to make representations, before making a final decision on
+the offer rejection.</li>
+</ol>
+<h2 id="2015-07-032007price-justification">08 (2007-11-30) Price Justification</h2>
+<p>The Offeror must provide, on Canada's request, one
+or more of the following price justifications:</p>
+<ol type="a">
+<li value="1">a current published price list indicating the
+percentage discount available to Canada; or</li>
+<li value="2">a copy of paid invoices for the like quality and
+quantity of the goods, services or both sold to other customers;
+or</li>
+<li value="3">a price breakdown showing the cost of direct labour,
+direct materials, purchased items, engineering and plant overheads,
+general and administrative overhead, transportation, etc., and
+profit; or</li>
+<li value="4">price or rate certifications; or</li>
+<li value="5">any other supporting documentation as requested by
+Canada.</li>
+</ol>
+<h2 id="2015-07-032007offer-costs">09 (2007-11-30) Offer Costs</h2>
+<p>No payment will be made for costs incurred in the preparation
+and submission of an offer in response to the <abbr title="Request for Standing Offer">RFSO</abbr>. Costs
+associated with preparing and submitting an offer are the sole responsibility of the Offeror.</p>
+<h2 id="2015-07-032007joint-venture">10 (2007-11-30) Joint Venture</h2>
+<ol type="1">
+<li value="1">A joint venture is an association of two or more parties who combine their money, property, knowledge, expertise or other resources in a single joint business enterprise, sometimes referred as a consortium, to submit an offer together on a requirement. Offerors who submit an offer as a joint venture must indicate clearly that it is a joint venture and provide the following information: 
+<ol type="a">
+<li value="1">the name of each member of the joint venture;</li>
+<li value="2">the Procurement Business Number of each member of the
+joint venture;</li>
+<li value="3">the name of the representative of the joint venture,
+i.e. the member chosen by the other members to act on their behalf,
+if applicable;</li>
+<li value="4">the name of the joint venture, if applicable.</li>
+</ol>
+</li>
+<li value="2">If the information is not clearly provided in the
+offer, the Offeror must provide the information on request from the
+Standing Offer Authority.</li>
+<li value="3">The offer and any resulting standing offer must be
+signed by all the members of the joint venture unless one member
+has been appointed to act on behalf of all members of the joint
+venture. The Standing Offer Authority may, at any time, require
+each member of the joint venture to confirm that the representative
+has been appointed with full authority to act as its representative
+for the purposes of the <abbr title="Request for Standing Offer">RFSO</abbr> and any resulting standing offer. If a
+standing offer is issued to a joint venture, all members of the
+joint venture will be jointly and severally or solidarily liable
+for the performance of any contract resulting from a call-up
+against the standing offer.</li>
+</ol>
+<h2 id="2015-07-032007further-information">11 (2007-11-30) Further Information</h2>
+<p>For further information, the Offeror may contact the Standing Offer Authority identified in the <abbr title="Request for Standing Offer">RFSO</abbr>.</p>
+</div></pre>
+</div>

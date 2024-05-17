@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Further to DSS-MAS 9403-5 "Standard Instructions and Conditions", it is 
+understood by the parties submitting offers that, to be considered valid, 
+an offer must meet all the mandatory criteria of this Request for Standing 
+Offer.
+
+Offers not meeting all of the mandatory criteria will be given no further 
+consideration. The lowest priced valid offer will be recommended for the 
+authorization of a standing offer.
+
+</pre>
+</div>

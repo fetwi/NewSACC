@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Normally, the work shall be performed at the selected Contractor's own 
+place of business. However, provision will be made for the selected 
+Contractor's personnel to have access to classified and sensitive material 
+as required. Facilities will be provided as necessary by the Project 
+Authority. Technical and clerical support, supplies and equipment necessary 
+to accomplish the tasks are to be provided by the selected Contractor.
+
+</pre>
+</div>

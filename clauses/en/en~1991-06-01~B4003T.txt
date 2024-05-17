@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>If the following clause is used, enter fill-in data.
+
+  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A copy of the _____ referred to herein is available from: 
+
+Canadian General Standards Board Sales Unit,  
+Place du Portage,  
+Phase III, 9C1,  
+Hull, Quebec 
+
+Postal address:   Ottawa, Canada K1A 1G6 
+
+Telephone :  (819) 956-0425  (819) 956-0426
+
+Facsimile :  (819) 956-5644
+
+ 
+</pre>
+</div>

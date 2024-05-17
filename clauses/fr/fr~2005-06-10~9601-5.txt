@@ -1,0 +1,323 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>9601-5 00     (2005-06-10)  Services de soutien des logiciels sous licence</strong>
+
+
+<strong>Travaux publics et Services gouvernementaux Canada</strong>
+
+01     Interprétation
+02     Services de correction d'erreurs
+03     Mises à jour
+04     Support d'information
+05     Nouvelles versions
+06     Service de ligne directe
+07     Frais de soutien et services sur place
+08     Responsabilités du Canada
+09     Services exclus
+10     Résiliation au gré du Ministre
+
+
+<strong>9601-5 01     (2005-06-10)  Interprétation</strong>
+
+1.     A moins que le contexte n'indique un sens différent, les définitions 
+       qui suivent s'appliquent au présent contrat :
+
+       « conditions générales » désigne les conditions générales 9601 qui 
+       font partie du contrat;
+
+       « Canada », « Couronne », « Sa Majesté », « l'État » : signifie sa 
+       Majesté la Reine du chef du Canada;
+
+       « erreur de logiciel » désigne instructions ou énoncés dont 
+       l'intégration ou la non-intégration dans les programmes sous licence 
+       empêche ceux-ci de fonctionner conformément au devis;
+
+       « mises à jour » s'entend selon le sens qui est attribué à cette 
+       expression à l'article 03 (Mises à jour).
+
+       « période de soutien du logiciel » désigne la période prévue au 
+       contrat au cours de laquelle l'entrepreneur est tenu de fournir le 
+       soutien à l'égard du logiciel sous licence conformément aux 
+       dispositions du contrat;
+
+2.     Les mots et expressions définis dans les conditions générales et 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales.
+
+3.     Dans l'éventualité d'incompatibilité entre les conditions générales 
+       et les présentes conditions générales supplémentaires, les 
+       dispositions pertinentes des présentes conditions générales 
+       supplémentaires prévalent.
+
+4.     Si les conditions générales supplémentaires 9601-4 font partie du 
+       contrat, les mots et expressions qui y sont définis et qui sont 
+       utilisés dans les présentes conditions générales supplémentaires ont 
+       le sens qui leur est donné dans les conditions générales 
+       supplémentaires en question.
+
+5.     Si les conditions générales supplémentaires 9601-4 ne font pas 
+       partie du contrat, les définitions suivantes s'appliquent au présent 
+       contrat : 
+
+       « documentation sous licence » désigne l'ensemble des manuels, 
+       livrets, guides d'utilisation et autres documents écrits en langage 
+       courant que l'entrepreneur a fournis au Canada et qui sont destinés 
+       à être utilisés avec les programmes sous licence, que cette 
+       documentation soit fournie sous forme imprimée, sur bande magnétique, 
+       sur disque ou sur un autre support d'information;
+
+       « logiciels sous licence » désignent l'ensemble des programmes sous 
+       licence et de la documentation visée par la licence.
+
+       « programmes sous licence » désignent l'ensemble des programmes 
+       informatiques sous forme de code objet à l'égard desquels 
+       l'entrepreneur doit fournir des services de soutien conformément au 
+       contrat, sauf les programmes informatiques, le cas échéant, que 
+       l'entrepreneur a conçus pour le Canada et qui sont régis par les 
+       conditions générales supplémentaires 9601-2;
+ 
+6.     Les articles intitulés « Droit de propriété » et « Garantie » qui 
+       figurent dans les conditions générales ne s'appliquent pas au 
+       logiciel sous licence et au support d'information.  Les dispositions 
+       relatives au droit de propriété, à la garantie et au support 
+       d'information mentionnées aux présentes Conditions générales 
+       supplémentaires, et aux conditions générales supplémentaires 9601-4 
+       si celles-ci font partie du contrat, s'appliquent au lieu de ces 
+       sections.
+
+<strong>9601-5 02     (1992-12-01)  Services de correction d'erreurs</strong>
+
+1.     Le Canada peut signaler à l'entrepreneur, pendant la période de 
+       soutien du logiciel, toute défaillance qui empêche les programmes 
+       sous licence de fonctionner conformément au devis, que ce soit par 
+       écrit, par téléphone ou par un autre moyen de télécommunications.  
+       Sur réception d'un avis de défaillance du Canada, l'entrepreneur 
+       emploi les moyens raisonnables pour remettre au Canada, dans les 
+       délais prescrits aux paragraphes 2 et 3, une correction permanente 
+       de l'erreur de logiciel qui a causé la défaillance ou, au gré de 
+       l'entrepreneur, une retouche ou une dérivation autour de l'erreur de 
+       logiciel à titre de correction temporaire.  Cette retouche ou 
+       dérivation permettra à tout le moins aux programmes sous licence de 
+       respecter les critères fonctionnels et les critères de rendement 
+       énoncés au devis.  Même si l'entrepreneur est tenu d'employer des 
+       moyens raisonnables pour fournir des corrections permanentes à 
+       l'égard de toutes les erreurs de logiciel, le Canada reconnaît que 
+       l'entrepreneur ne peut corriger en permanence certaines erreurs de 
+       logiciel selon le contrat.  Toutes les corrections apportées aux 
+       erreurs de logiciel, qu'elles soient temporaires ou permanentes, 
+       font partie du logiciel sous licence et sont assujetties aux 
+       modalités de la licence du Canada se rapportant au logiciel sous 
+       licence.
+
+2.     L'entrepreneur répond à un avis d'erreur de logiciel en fonction du 
+       degré d'importance de l'erreur selon les indications du paragraphe 3.  
+       Le Canada détermine le degré d'importance de l'erreur de façon 
+       raisonnable et communique à l'entrepreneur son évaluation à ce sujet 
+       d'après les définitions suivantes :
+
+       Degré 1 :     défaillance d'un programme sous licence qui empêche 
+                     l'utilisateur d'employer ledit programme, ce qui a des 
+                     répercussions importantes pour ses objectifs;
+
+       Degré 2 :     défaillance d'un programme sous licence qui en 
+                     restreint considérablement l'exploitation par 
+                     l'utilisateur;
+
+       Degré 3 :     défaillance touchant certaines fonctions d'un 
+                     programme sous licence qui ne sont pas critiques pour 
+                     l'ensemble des opérations de l'utilisateur;
+
+       Degré 4 :     défaillance qui a été contournée ou corrigée 
+                     temporairement et ne touche pas les opérations de 
+                     l'utilisateur.
+
+3.     L'entrepreneur fait de son mieux pour corriger les erreurs de 
+       logiciel dans les délais suivants :
+
+       Degré 1 :     dans les 24 heures de l'avis donné par le Canada;
+
+       Degré 2 :     dans les 72 heures de l'avis donné par le Canada;
+
+       Degré 3 :     dans les 14 jours de l'avis donné par le Canada;
+
+       Degré 4 :     dans les 120 jours de l'avis donné par le Canada.
+
+4.     Si le Canada signale une erreur de logiciel à l'entrepreneur, le 
+       Canada fournira à l'entrepreneur l'accès raisonnable au système 
+       informatique sur lequel se trouve le programme sous licence ainsi 
+       que les données raisonnables que l'entrepreneur demande, dont des 
+       exemples de résultats et d'autres renseignements de diagnostic, afin 
+       de permettre à l'entrepreneur de corriger rapidement l'erreur de 
+       logiciel.
+
+<strong>9601-5 03     (1992-12-01)  Mises à jour</strong>
+
+Pendant la période de soutien du logiciel, l'entrepreneur fournit au Canada, 
+sans frais supplémentaires, tous les ajouts, améliorations et autres 
+modifications relatifs au logiciel sous licence (ci-après appelés 
+collectivement les « mises à jour ») que l'entrepreneur ou le tiers dont il 
+a obtenu sa licence a décidé de fournir à ses autres clients faisant 
+l'objet de services de soutien, y compris ses clients de premier ordre, 
+sans frais supplémentaires.  Toutes les mises à jour font partie du 
+logiciel sous licence et sont assujetties aux modalités de la licence du 
+Canada se rapportant au logiciel sous licence.
+ 
+<strong>9601-5 04     (1992-12-01)  Support d'information</strong>
+
+1.     L'entrepreneur fournit au Canada toutes les corrections d'erreurs de 
+       logiciel et mises à jour sur un support d'information qui est exempt 
+       de vices et de virus informatique et qui est compatible avec le 
+       système informatique sur lequel les programmes sous licence sont 
+       installés.
+
+2.     Le Canada devient propriétaire du support d'information qui lui est 
+       fourni dans le cadre de l'exécution des services de soutien du 
+       logiciel dès la livraison et la réception dudit support par le 
+       Canada ou pour son compte.  Aux fins du présent paragraphe, 
+       l'expression « support d'information » ne comprend pas les logiciel 
+       sous licence stocké sur le support d'information.
+
+<strong>9601-5 05     (1992-12-01)  Nouvelles versions</strong>
+
+Pendant la période de soutien du logiciel, l'entrepreneur informe le Canada 
+de toutes les nouvelles versions du logiciel sous licence et les met à la 
+disposition du Canada au moyen d'ententes de licence distinctes.  Aux fins 
+du présent article, le mot « versions » désigne les modifications ou 
+améliorations apportées au logiciel sous licence ou les modules nouveaux ou 
+supplémentaires qui fonctionnent avec le logiciel sous licence, lesquels 
+modules, améliorations ou modifications constituent la génération suivante 
+du logiciel sous licence que l'entrepreneur ou le tiers dont il a obtenu sa 
+licence a décidé de mettre à la disposition de ses clients uniquement en 
+contrepartie de frais supplémentaires.  L'entrepreneur met à la disposition 
+du Canada les nouvelles versions au même moment qu'il le fait pour ses 
+autres clients et selon des modalités semblables à celles qui sont énoncées 
+dans la licence du Canada se rapportant au logiciel sous licence.
+
+<strong>9601-5 06     (1992-12-01)  Service de ligne directe</strong>
+
+Lorsque des services de ligne directe sont prévus au contrat, 
+l'entrepreneur fournit au Canada l'accès à distance à son personnel pour 
+aider le Canada à répondre aux questions concernant le logiciel sous 
+licence pendant les heures précisées au contrat, le cas échéant, ou de 8 h 
+à 17 h, heure locale de l'emplacement où sont installés les programmes sous 
+licence, du lundi au vendredi, sauf les jours fériés que le Canada observe 
+à cet emplacement.  L'accès du Canada au personnel de l'entrepreneur 
+comprend l'accès par téléphone et l'accès au moyen du service de courrier 
+électronique de l'entrepreneur, lorsque celui-ci le met à la disposition du 
+Canada; cependant, le Canada est redevable de tous les frais qu'il engage 
+lors de l'utilisation du téléphone et des appareils terminaux.  Dans un 
+avis écrit envoyé à l'entrepreneur, le Canada indique le nom du ou des 
+représentants de l'utilisateur qui sont les seules personnes autorisées à 
+avoir accès à la ligne directe au nom du Canada.  Le Canada peut modifier 
+cette nomination en envoyant un autre avis à ce sujet à l'entrepreneur.
+
+<strong>9601-5 07     (1992-12-01)  Frais de soutien et services sur place</strong>
+
+Sauf disposition explicite à l'effet contraire du contrat, les frais de 
+soutien mensuels ou annuels indiqués au contrat comprennent tous les frais 
+liés aux services de soutien du logiciel qui sont décrits au contrat, sauf 
+les services de correction sur place des erreurs de logiciel.  
+L'entrepreneur fournit les services sur place, à la demande du responsable 
+technique, selon les taux de main-d'oeuvre horaires ou quotidiens précisés 
+au contrat.  Les frais raisonnables de déplacement et de subsistance que 
+l'entrepreneur engage pour fournir des services sur place et que du 
+responsable technique approuve à l'avance sont remboursés à l'entrepreneur 
+conformément aux normes énoncées au contrat, le cas échéant, ou aux normes 
+applicables du Conseil du Trésor.  Tous ces frais préapprouvés sont 
+facturés au Canada comme frais distincts et peuvent inclure un montant 
+raisonnable à titre de frais généraux, mais ne doivent comporter aucun 
+montant à titre de profit.
+
+<strong>9601-5 08     (1992-12-01)  Responsabilités du Canada</strong>
+
+1.     Sauf disposition contraire du contrat, le Canada maintient, pendant 
+       la période de soutien du logiciel, un modem et une ligne 
+       téléphonique commutée connexe destinés à être utilisés dans le cadre 
+       de la prestation des services de soutien du logiciel.  Le Canada est 
+       responsable de l'installation, de l'entretien et de l'utilisation de 
+       ce matériel et est redevable des frais de téléphone s'y rapportant.  
+       L'entrepreneur peut utiliser le modem et la ligne téléphonique lors 
+       de la prestation des services de soutien du logiciel.
+
+2.     Sauf disposition contraire du contrat, le Canada est tenu 
+       d'installer toutes les corrections des erreurs de logiciel et les 
+       mises à jour.
+
+3.     Le Canada ne peut modifier le logiciel sous licence pendant la 
+       période de soutien du logiciel sans avoir préalablement obtenu le 
+       consentement de l'entrepreneur, qui ne peut le refuser sans motif 
+       valable.
+
+4.     Le Canada doit protéger les données contre les pertes par l'adoption 
+       de mesures de sauvegarde.
+
+<strong>9601-5 09     (2004-12-10)  Services exclus</strong>
+
+L'entrepreneur n'est pas tenu de corriger une défaillance des programmes 
+sous licence, par rapport au devis, si cette défaillance est causé par les 
+facteurs suivants :
+
+a)     le Canada utilise le logiciel sous licence d'une façon qui n'est pas 
+       conforme à la licence qu'il a obtenue;
+
+b)     la demande de services se rapporte à une utilisation du matériel et 
+       des logiciels par une personne autre que l'entrepreneur ou un 
+       sous-traitant et cette utilisation n'est pas conforme au devis;
+
+c)     des modifications non approuvées par l'entrepreneur ou le 
+       sous-traitant ont été apportées aux logiciels sous licence.
+
+<strong>9601-5 10     (1992-12-01)  Résiliation au gré du Ministre</strong>
+
+1.     L'article des conditions générales intitulé « Résiliation au gré du 
+       Ministre » ne s'applique pas aux services de soutien des logiciels 
+       sous licence et est remplacé par le présent article.
+
+2.     Malgré toute disposition du contrat, le Ministre peut, en tout temps 
+       pendant la période de soutien des logiciels, résilier le contrat en 
+       ce qui a trait à tout ou partie des services de soutien des 
+       logiciels en donnant à l'entrepreneur un préavis de trente (30) 
+       jours (parfois appelé ci-après « avis de résiliation »).  Sur 
+       réception d'un avis de résiliation, l'entrepreneur met fin aux 
+       travaux visés par l'avis, selon les dispositions précisées, mais 
+       continue à assurer la prestation de la ou des parties des services 
+       de soutien des logiciels qui ne sont pas touchées par l'avis de 
+       résiliation.  Le Ministre peut, quand et aussi souvent qu'il le juge 
+       opportun, communiquer un ou plusieurs avis de résiliation 
+       supplémentaires concernant la totalité ou une partie des services de 
+       soutien des logiciels non résiliés par un avis de résiliation 
+       antérieur.
+
+3.     Si un avis de résiliation est donné conformément au paragraphe 2, 
+       l'entrepreneur aura le droit de recevoir, en fonction du prix 
+       contractuel, des frais à l'égard de tous les services de soutien des 
+       logiciels visés par l'avis et fournis jusqu'à la date de résiliation, 
+       mais seulement dans la mesure où les frais auront été dûment et 
+       raisonnablement engagés pour fournir les services en question et 
+       pourvu que l'entrepreneur n'ait pas déjà reçu le paiement de ces 
+       frais du Canada.  Si la date de résiliation ne coïncide pas avec le 
+       dernier jour d'un mois civil (dans le cas des frais de soutien 
+       mensuels) ou avec le dernier jour de l'année de soutien (dans le cas 
+       des frais de soutien annuels), les frais relatifs au mois ou à 
+       l'année au cours duquel la résiliation survient correspondront à une 
+       partie des frais mensuels ou annuels prescrits qui sera  calculée en 
+       multipliant le nombre de jours écoulés pendant le mois ou l'année 
+       jusqu'à la date de résiliation par 1/30 ou 1/365 des frais mensuels 
+       ou annuels prescrits, selon le cas.  Si l'entrepreneur a été payé à 
+       l'avance, il remboursera au Canada la partie non liquidée des frais 
+       de soutien mensuels ou annuels prescrits sur demande écrite en ce 
+       sens de l'autorité contractante.  La partie non liquidée des frais 
+       de soutien est calculée à l'aide de la formule mentionnée au présent 
+       paragraphe.
+
+4.     Sauf disposition explicite à l'effet contraire du présent article, 
+       l'entrepreneur ne peut réclamer aucun montant à titre de 
+       dommages-intérêts, d'indemnité, de perte de profits, d'allocation ou 
+       autrement à la suite d'une mesure prise ou d'un avis de résiliation 
+       donné par le Ministre conformément au présent article.
+
+
+</pre>
+</div>

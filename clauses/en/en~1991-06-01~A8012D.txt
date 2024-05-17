@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the event that the Department may be interested in purchasing a vehicle, 
+the following shall apply:
+
+The Supplier shall provide the following:
+
+After _____ months' rental, a discount of _____ percent against rentals 
+already paid shall be applied to the basic purchase price of $_____.
+
+Acceptable models: (from GMV Spec):
+
+1.  
+2.  
+3.  
+4. 
+
+ 
+</pre>
+</div>

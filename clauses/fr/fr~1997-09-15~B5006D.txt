@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     En cas de modifications techniques ou de travaux additionnels, les 
+       coûts en seront négociés en vertu de la procédure de modification 
+       technique.  Même s'il n'y a aucun changement dans les coûts, il 
+       faudra remplir la formule de modification technique pour fournir une 
+       référence officielle relative au changement dans les spécifications.
+
+2.     Si le propriétaire juge souhaitable d'apporter des changements 
+       raisonnables quelconques à l'accord ou aux détails pendant la durée 
+       des travaux, pourvu que ces changements soient commandés avant le 
+       début de la partie déterminée des travaux à laquelle ils 
+       s'appliqueraient et qu'ils n'entraînent aucuns frais supplémentaires 
+       pour l'entrepreneur, ils seront mis en oeuvre sans invalider le 
+       contrat.
+
+3.     Les coûts des modifications techniques seront négociés comme suit : 
+
+       a)     main-d'oeuvre à un tarif d'imputation horaire ferme de _____  $ 
+              par heure-personne;
+       b)     matériel au prix de revient réel, plus une marge bénéficiaire 
+              de ____ p. 100;
+       c)     taxe sur les produits et services ou la taxe de vente 
+              harmonisée devant figurer à titre d'élément séparé.  
+
+
+</pre>
+</div>

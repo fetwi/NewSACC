@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause if the Contractor is to be liable for liquidated 
+damages in the event that the Foreground Information is exploited outside of 
+Canada. If there will be more than one item of foreground information with 
+separate commercial potential, separate damages should be specified for each.  
+See Lega Services regarding the evaluation of the amount of damages to be 
+inserted.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor agrees that Canada would suffer actual damages as a result 
+of a breach, described in paragraph 5(a), (b) or (c) of clause K3415D, of 
+the obligation set out in subsection 1. of clause K3415D, and that such 
+damages are likely to be extremely difficult to quantify. In the event that 
+such a breach occurs, the Contractor agrees to pay to Canada liquidated 
+damages in the amount of $_____. Canada and the Contractor agree that the 
+foregoing amount is their best estimate of the amount of damages that 
+Canada would suffer, and that it is not intended to be, nor is it to be 
+construed as, a penalty.
+
+</pre>
+</div>

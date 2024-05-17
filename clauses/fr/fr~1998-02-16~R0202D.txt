@@ -1,0 +1,1870 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Travaux publics et Services gouvernementaux Canada
+
+CG1    Interprétation
+CG2    Successeurs et ayants droit
+CG3    Cession du contrat
+CG4    Sous-traitance par l'entrepreneur
+CG5    Modifications
+CG6    Nulle obligation implicite
+CG7    Rigueur des délais
+CG8    Indemnisation par l'entrepreneur
+CG9    Indemnisation par Sa Majesté
+CG10   Interdiction aux députés de la Chambre des communes de tirer profit 
+       d'un contrat
+CG11   Avis
+CG12   Matériaux, outillage et biens immobiliers fournis par Sa Majesté
+CG13   Matériaux, outillage et biens immobiliers devenus propriété de Sa 
+Majesté
+CG14   Permis et taxes payables
+CG15   Exécution des travaux sous la direction de l'ingénieur
+CG16   Coopération avec d'autres entrepreneurs
+CG17   Vérification des travaux
+CG18   Déblaiement de l'emplacement
+CG19   Surintendant de l'entrepreneur
+CG20   Sécurité nationale
+CG21   Ouvriers inaptes
+CG22   Augmentation ou diminution des coûts
+CG23   Main-d'oeuvre et matériaux canadiens
+CG24   Protection des travaux et des documents
+CG25   Cérémonies publiques et enseignes
+CG26   Précautions contre les dommages, contrefaçons, incendies et autres
+CG27   Assurances
+CG28   Indemnité d'assurance
+CG29   Garantie du contrat
+CG30   Modifications aux travaux
+CG31   Interprétation du contrat par l'ingénieur
+CG32   Garantie et rectification des défectuosités des travaux
+CG33   Défaut de l'entrepreneur
+CG34   Protestations des décisions de l'ingénieur
+CG35   Changement des Conditions du sol - Négligence ou retard de la part 
+       de Sa Majesté
+CG36   Prolongation de délai
+CG37   Dédommagement pour retard d'exécution
+CG38   Travaux retirés à l'entrepreneur
+CG39   Effet du retrait des travaux à l'entrepreneur
+CG40   Suspension des travaux par le Ministre
+CG41   Résiliation du contrat
+CG42   Réclamations contre et obligations de la part de l'entrepreneur ou 
+       d'un sous-traitant
+CG43   Dépôt de garantie - Confiscation ou remis
+CG44   Certificats de l'ingénieur
+CG45   Remise du dépôt de garantie
+CG46   Précision du sens des expressions figurant aux articles CG47 à CG50
+CG47   Additions ou modifications au Tableau des prix unitaires
+CG48   Établissement du coût - Tableau des prix unitaires
+CG49   Établissement du coût avant la réalisation des travaux - somme 
+globale
+CG50   Établissement du coût après la réalisation des travaux
+CG51   Registres à tenir par l'entrepreneur
+CG52   Conflits d'intérêts 
+CG53   Situation de l'entrepreneur
+CG54   Restes humains, vestiges archéologiques et objets présentant un 
+       intérêt historique ou scientifique
+CG55   État de site contaminé
+CG56   Attestation - Honoraires conditionnels
+
+
+<strong>CG1    01/10/94      Interprétation</strong>
+
+1.1    Dans le <em>contrat</em>
+
+       1.1.1  tout renvoi à une autre partie du <em>contrat</em> désignée par des 
+              numéros précédés de lettres est censé renvoyer à la partie du <em>
+              contrat</em> qui est désignée par cette combinaison de lettres et 
+              de chiffres, de même qu'à toute autre partie du <em>contrat</em> qui y 
+              est mentionnée;
+
+       1.1.2  «<strong><em>contrat</em></strong>» signifie les documents mentionnés dans les Articles 
+              de convention;
+
+       1.1.3  «<strong><em>garantie du contrat</em></strong>» signifie toute garantie fournie à Sa 
+              Majesté par l'entrepreneur conformément au <em>contrat</em>;
+
+       1.1.4  «<strong><em>ingénieur</em></strong>» signifie l'officier ou l'employé de Sa Majesté 
+              désigné aux Articles de convention et toute <em>personne</em> 
+              autorisée spécialement par l'<em>ingénieur</em> à accomplir, en son 
+              nom, n'importe laquelle des fonctions qui lui sont confiées 
+              en vertu du <em>contrat</em>, et signalée comme tel par écrit à 
+              l'entrepreneur;
+
+       1.1.5  «<strong><em>matériaux</em></strong>» comprend toutes les marchandises, articles et 
+              choses à être fournis par ou pour l'entrepreneur en vertu du <em>
+              contrat</em>, pour être incorporés dans les <em>travaux</em>;
+
+       1.1.6  «<strong><em>Ministre</em></strong>» comprend une <em>personne</em> agissant pour ou, si la 
+              charge est sans titulaire, à la place du <em>Ministre</em> ou des 
+              personnes lui succédant, de même que son ou leurs adjoints ou 
+              représentants dûment nommés aux fins du <em>contrat</em>;
+
+       1.1.7  «<strong><em>personne</em></strong>» comprend, sauf lorsque le contexte exige une 
+              interprétation différente, une société, une entreprise, une 
+              firme, une co-entreprise, un consortium et une corporation;
+
+       1.1.8  «<strong><em>outillage</em></strong>» comprend les animaux, outils, instruments, 
+              machines, véhicules, bâtiments, ouvrages, équipements et 
+              marchandises, articles et choses autres que les <em>matériaux</em>, 
+              qui sont nécessaires à l'exécution des <em>travaux</em>;
+
+       1.1.9  «<strong><em>sous-traitant</em></strong>» signifie une <em>personne</em> à qui l'entrepreneur a, 
+              conformément à l'article CG4, confié l'exécution des <em>travaux</em> 
+              en tout ou en partie;
+
+       1.1.10 «<strong><em>surintendant</em></strong>» signifie l'employé de l'entrepreneur désigné 
+              par ce dernier pour remplir les fonctions décrites à 
+              l'article CG19;
+
+       1.1.11 «<strong><em>travaux</em></strong>» comprend, sous réserve de toute stipulation 
+              expressément contraire dans le <em>contrat</em>, tout ce que 
+              l'entrepreneur doit faire, fournir, livrer ou accomplir pour 
+              l'exécution du <em>contrat</em>.
+
+1.2    Sauf quant à ceux apparaissant aux plans et devis, les en-têtes 
+       apparaissant dans le <em>contrat</em>, ne font pas partie du <em>contrat</em>, mais y 
+       sont uniquement pour fin d'utilité pratique.
+
+1.3    Aux fins de l'interprétation du <em>contrat</em>, en cas de contradiction ou 
+       de divergence entre les plans et devis et les Conditions générales, 
+       les Conditions générales prévalent. 
+1.4    Dans l'interprétation des plans et devis, en cas de contradiction ou 
+       de divergence entre
+
+       1.4.1  les plans et les devis, les devis prévalent;
+
+       1.4.2  les plans, les plans tracés à l'échelle la plus grande 
+              prévalent; et
+
+       1.4.3  les dimensions exprimées en chiffres et les dimensions à 
+              l'échelle, les dimensions exprimées en chiffres prévalent.
+
+<strong>CG2    01/10/94      Successeurs et ayants droit</strong>
+
+2.1    Le <em>contrat</em> est au bénéfice des parties au <em>contrat</em>, de même que de 
+       leurs héritiers légaux, exécuteurs, administrateurs, successeurs et 
+       ayants droit, qui sont tous par ailleurs liés par ses dispositions.
+
+<strong>CG3    01/10/94      Cession du contrat</strong>
+
+3.1    L'entrepreneur ne peut céder le <em>contrat</em>, en tout ou en partie, sans 
+       le consentement écrit du <em>Ministre</em>.
+
+<strong>CG4    01/10/94      Sous-traitance par l'entrepreneur</strong>
+
+4.1    Sous réserve de la présente condition générale, l'entrepreneur peut 
+       sous-traiter une partie quelconque des <em>travaux</em>.
+
+4.2    L'entrepreneur doit aviser l'<em>ingénieur</em> par écrit de son intention de 
+       sous-traiter.
+
+4.3    L'avis mentionné au paragraphe CG4.2 doit identifier le 
+       <em>sous-traitant</em> de même que la partie des <em>travaux</em> qu'il entend lui 
+       confier.
+
+4.4    L'<em>ingénieur</em> peut s'objecter à la sous-traitance projetée en avisant 
+       par écrit l'entrepreneur dans les six (6) jours suivant la réception 
+       par l'<em>ingénieur</em> de l'avis mentionné au paragraphe CG4.2.
+
+4.5    Si l'<em>ingénieur</em> s'oppose à une sous-traitance en vertu du paragraphe 
+       CG4.4, l'entrepreneur ne peut procéder à la sous-traitance envisagée.
+
+4.6    L'entrepreneur ne peut, sans la permission écrite de l'<em>ingénieur</em>, 
+       remplacer un <em>sous-traitant</em> dont il a retenu les services 
+       conformément à la présente Condition générale.
+
+4.7    Tout <em>contrat</em> entre l'entrepreneur et un <em>sous-traitant</em> doit comporter 
+       tous les termes et conditions du présent <em>contrat</em> qui sont 
+       d'application générale.
+
+4.8    Nul <em>contrat</em> entre l'entrepreneur et un <em>sous-traitant</em> ou nul 
+       consentement de l'<em>ingénieur</em> à tel <em>contrat</em> sera interprété comme 
+       relevant l'entrepreneur de quelqu'obligation en vertu du <em>contrat</em> ou 
+       comme imposant quelque responsabilité à Sa Majesté.
+
+<strong>CG5           01/10/94      Modifications</strong>
+
+5.1    Nulle modification ou changement à quelque disposition du <em>contrat</em> 
+       aura d'effet avant que d'avoir été consignée par écrit.
+
+<strong>CG6    01/10/94      Nulle obligation implicite</strong>
+
+6.1    Il ne découlera du <em>contrat</em> aucune disposition ou obligation 
+       implicite de la part de Sa Majesté; seules les dispositions 
+       expresses du <em>contrat</em>, stipulées par Sa Majesté, doivent servir de 
+       fondement à tout droit contre Sa Majesté.
+
+6.2    Le présent <em>contrat</em> remplace toutes communications, négociations et 
+       ententes, écrites ou verbales, concernant les <em>travaux</em> et qui 
+       auraient eu lieu avant la date du <em>contrat</em>.
+
+<strong>CG7    01/10/94      Rigueur des délais</strong>
+
+7.1    Le temps est de l'essence même du <em>contrat</em>.
+
+<strong>CG8    01/10/94      Indemnisation par l'entrepreneur</strong>
+
+8.1    L'entrepreneur doit tenir Sa Majesté indemne et à couvert de toutes 
+       réclamations, demandes, pertes, frais, dommages, actions, poursuites 
+       ou procédures de la part de quiconque, fondées, découlant, reliés, 
+       occasionnés ou attribuables aux activités de l'entrepreneur, de ses 
+       employés, agents, sous-traitants et <em>sous-traitants</em> de ces derniers 
+       dans l'exécution des <em>travaux</em> faisant l'objet du <em>contrat</em>, incluant 
+       toute contrefaçon ou prétendue contrefaçon d'un brevet d'invention 
+       ou de toute autre forme de propriété intellectuelle.
+
+8.2    Aux fins du paragraphe CG8.1, le terme «activités» comprend tout 
+       acte ou omission, de même que tout retard à accomplir un acte.
+
+<strong>CG9    01/10/94      Indemnisation par Sa Majesté</strong>
+
+9.1    Sa Majesté, sous réserve des dispositions de la<em> Loi sur la 
+       responsabilité de la Couronne</em>, de la <em>Loi sur les brevets</em> et de toute 
+       autre loi affectant les droits, pouvoirs, privilèges ou obligations 
+       de Sa Majesté, doit tenir l'entrepreneur indemne et à couvert de 
+       toutes réclamations, demandes, pertes, frais, dommages, actions, 
+       poursuites ou procédures découlant de ses activités en vertu du <em>
+       contrat</em> et directement attribuables à
+
+       9.1.1  une absence ou un vice, actuel ou allégué, dans le titre de 
+              Sa Majesté concernant l'emplacement des <em>travaux</em>; ou
+
+       9.1.2  une contrefaçon ou prétendue contrefaçon par l'entrepreneur 
+              de tout brevet d'invention ou de toute autre forme de 
+              propriété intellectuelle, dans l'exécution de tout acte aux 
+              fins du <em>contrat</em>, comportant l'utilisation d'un modèle, d'un 
+              plan, d'un dessin ou de toute autre chose fournis par Sa 
+              Majesté à l'entrepreneur aux fins des <em>travaux</em>. 
+
+<strong>CG10   01/10/94      Interdiction aux députés de la Chambre des communes de 
+                     tirer profit d'un contrat</strong>
+
+10.1   Conformément à la <em>Loi sur le Parlement du Canada</em>, il est 
+       expressément interdit à tout membre de la Chambre des communes de 
+       posséder quelque part ou intérêt dans le <em>contrat</em>, ou d'en tirer 
+       quelque bénéfice ou profit.
+
+<strong>CG11   01/10/94      Avis</strong>
+
+11.1   Tout avis, consentement, ordre, décision, directive ou communication 
+       autre qu'un avis suivant le paragraphe CG11.4, qui peut être donné à 
+       l'entrepreneur conformément au <em>contrat</em>, peut être donné de quelque 
+       manière que ce soit.
+
+11.2   Tout avis, consentement, ordre, décision, directive ou autre 
+       communication devant être donné par écrit à une partie ou une autre 
+       conformément au <em>contrat</em>, sera, sous réserve du paragraphe CG11.4, 
+       réputée avoir été effectivement donné 
+       11.2.1 à l'entrepreneur, s'il a été livré personnellement à 
+              l'entrepreneur ou au <em>surintendant</em> de l'entrepreneur, ou s'il 
+              a été envoyé par la poste, par télex ou par télécopieur à 
+              l'entrepreneur, à l'adresse indiquée au paragraphe A4.1; ou
+
+       11.2.2 à Sa Majesté, s'il a été livré personnellement à l'<em>ingénieur</em>, 
+              ou s'il a été envoyé par la poste, par télex ou par 
+              télécopieur à l'<em>ingénieur</em>, à l'adresse indiquée à l'alinéa A1.2.1.
+
+11.3   Tout avis, consentement, ordre, décision, directive ou autre 
+       communication donné conformément au paragraphe CG11.2 sera réputé 
+       avoir été reçu par l'une ou l'autre des parties
+
+       11.3.1 le jour où il a été livré, s'il lui a été livré 
+              personnellement; ou
+
+       11.3.2 le jour de sa réception ou le sixième jour après son envoi 
+              par la poste, selon la première de ces deux dates, s'il lui a 
+              été envoyé par la poste; et
+
+       11.3.3 dans les 24 heures suivant sa transmission, s'il lui a été 
+              envoyé par télex ou par télécopieur.
+
+11.4   S'il est livré personnellement, un avis donné en vertu de l'alinéa 
+       CG38.1.1 et des articles CG40 et CG41 sera remis à l'entrepreneur ou, 
+       si l'entrepreneur est une société, une firme, une co-entreprise ou 
+       une corporation, à un agent de l'administration ou à un cadre 
+       supérieur.
+
+<strong>CG12   01/10/94      Matériaux, outillage et biens immobiliers fournis par 
+                     Sa Majesté</strong>
+
+12.1   Sous réserve du paragraphe CG12.2, l'entrepreneur est responsable 
+       envers Sa Majesté de toute perte ou dommage, aux <em>matériaux</em>, à l'<em>
+       outillage</em> ou aux biens immobiliers que Sa Majesté a fournis ou 
+       placés sous la garde et le contrôle de l'entrepreneur aux fins du <em>
+       contrat</em>, que la perte ou le dommage soit attribuable ou non à des 
+       causes indépendantes de la volonté de l'entrepreneur.
+
+12.2   L'entrepreneur n'est pas responsable envers Sa Majesté de toute 
+       perte ou dommage aux <em>matériaux</em>, à l'<em>outillage</em> ou aux biens 
+       immobiliers dont il est question au paragraphe CG12.1, si cette 
+       perte ou ce dommage est imputable et directement attribuable à 
+       l'usure causée par un usage raisonnable.
+
+12.3   L'entrepreneur doit utiliser les <em>matériaux</em>, l'<em>outillage</em> ou les biens 
+       immobiliers dont il est question au paragraphe CG12.1, uniquement 
+       pour l'exécution du <em>contrat</em> et pour aucune autre fin. 
+
+12.4   Lorsqu'après avoir été requis de le faire par l'<em>ingénieur</em>, 
+       l'entrepreneur n'a pas, dans un délai raisonnable, indemnisé Sa 
+       Majesté pour une perte ou un dommage dont il est responsable en 
+       vertu du paragraphe CG12.1, l'<em>ingénieur</em> peut y pourvoir aux frais de 
+       l'entrepreneur, et ce dernier est dès lors responsable envers Sa 
+       Majesté des frais en l'occurrence qu'il devra sur demande payer à Sa 
+       Majesté.
+
+12.5   L'entrepreneur doit tenir des registres que l'<em>ingénieur</em> peut de 
+       temps à autre exiger des <em>matériaux</em>, de l'<em>outillage</em> et des biens 
+       immobiliers visés par le paragraphe CG12.1 et doit, lorsque l'<em>
+       ingénieur</em> l'exige, établir à la satisfaction de ce dernier que les <em>
+       matériaux</em>, l'<em>outillage</em> et les biens immobiliers sont à l'endroit et 
+       dans l'état dans lequel ils devraient être.
+
+<strong>CG13   01/10/94      Matériaux, outillage et biens immobiliers devenus 
+                     propriété de Sa Majesté</strong>
+
+13.1   Sous réserve du paragraphe CG14.7, tous les <em>matériaux</em> et <em>outillage</em>, 
+       de même que tout droit de l'entrepreneur sur tous les biens 
+       immobiliers, permis, pouvoirs et privilèges achetés, ou utilisés par 
+       l'entrepreneur pour le <em>contrat</em> deviennent, à compter de l'époque où 
+       ils ont été achetés ou utilisés, la propriété de Sa Majesté aux fins 
+       des <em>travaux</em> et continuent de l'être 
+       13.1.1 dans le cas des <em>matériaux</em>, jusqu'à ce que l'<em>ingénieur</em> déclare 
+              qu'ils ne sont plus requis pour les <em>travaux</em>; et
+
+       13.1.2 dans le cas de l'<em>outillage</em>, des biens immobiliers, des permis, 
+              des pouvoirs et des privilèges, jusqu'à ce que l'<em>ingénieur</em> 
+              déclare que le droit dévolu à Sa Majesté en l'espèce n'est 
+              plus requis pour les <em>travaux</em>.
+
+13.2   Les <em>matériaux</em> ou l'<em>outillage</em> appartenant à Sa Majesté en vertu du 
+       paragraphe CG13.1 ne doivent pas être enlevés des lieux des <em>travaux</em>, 
+       utilisés ou aliénés, sauf pour les <em>travaux</em>, sans le consentement 
+       écrit de l'<em>ingénieur</em>.
+
+13.3   Sa Majesté n'est pas responsable de toute perte ou de tout dommage 
+       aux <em>matériaux</em> ou à l'<em>outillage</em> visés par le paragraphe CG13.1 quel 
+       qu'en soit la cause et l'entrepreneur est responsable de toute perte 
+       ou de tout dommage bien que ces <em>matériaux</em> ou <em>outillage</em> appartiennent 
+       à Sa Majesté.
+
+<strong>CG14   01/01/96      Permis et taxes payables</strong>
+
+14.1   L'entrepreneur doit, dans les trente (30) jours de la date du <em>
+       contrat</em>, offrir à l'administration municipale, un montant égal à 
+       tous les droits et frais qui seraient payables à l'administration 
+       municipale pour les permis de construction, comme si les <em>travaux</em> 
+       étaient exécutés pour une <em>personne</em> autre que Sa Majesté.
+
+14.2   Dans les dix (10) jours qui suivent l'offre mentionnée au paragraphe 
+       CG14.1, l'entrepreneur avise l'<em>ingénieur</em> de sa démarche et du 
+       montant de cette offre et lui fait savoir si elle a été acceptée ou 
+       non par l'administration municipale. 
+
+14.3   Si l'administration municipale n'a pas accepté la somme offerte aux 
+       termes du paragraphe CG14.1, l'entrepreneur remet ce montant à Sa 
+       Majesté des les six (6) jours suivant l'expiration du délai fixé au 
+       paragraphe CG14.2.
+
+14.4   Aux fins des paragraphe CG14.1 à CG.14.3, l'expression 
+       «administration municipale» signifie une administration qui aurait 
+       compétence pour autoriser la construction de l'ouvrage si le 
+       propriétaire n'en était pas Sa Majesté.
+
+14.5   Nonobstant le lieu de résidence de l'entrepreneur, l'entrepreneur 
+       versera toute taxe applicable découlant de l'exécution des <em>travaux</em> 
+       visés par le <em>contrat</em>.
+
+14.6   Conformément à la déclaration mentionnée au paragraphe MP4.9, 
+       l'entrepreneur dont ni le lieu de résidence ni la place d'affaires 
+       n'est dans la province où sont effectués les <em>travaux</em> visés par le <em>
+       contrat</em>, fournira à Sa Majesté une preuve d'enregistrement auprès 
+       des autorités provinciales responsables de la taxe de vente dans 
+       ladite province.
+
+14.7   Aux fins du paiement de la taxe applicable ou de la fourniture d'une 
+       garantie de paiement de la taxe applicable découlant de l'exécution 
+       des <em>travaux</em> visés par le <em>contrat</em>, l'entrepreneur doit, malgré le 
+       fait que  tous les <em>matériaux</em> et <em>outillage</em>, de même que des droits de 
+       l'entrepreneur sur tous les biens immobiliers, permis, pouvoirs et 
+       privilèges, sont devenue la propriété de Sa Majesté après la date 
+       d'achat, payer, en tant qu'utilisateur ou consommateur, toute taxe 
+       applicable payable au moment de l'utilisation desdits <em>matériaux</em>, <em>
+       outillage</em> ou droits de l'entrepreneur à titre d'utilisateur, 
+       conformément aux lois pertinentes, ou fournir une garantie de 
+       paiement à cet égard.
+
+<strong>CG15   01/10/94      Exécution des travaux sous la direction de l'ingénieur</strong>
+
+15.1   L'entrepreneur doit 
+       15.1.1 permettre à l'<em>ingénieur</em> d'avoir accès aux <em>travaux</em> et au 
+              chantier en tout temps au cours de l'exécution du <em>contrat</em>;
+
+       15.1.2 communiquer à l'<em>ingénieur</em> tous renseignements qu'il demande 
+              concernant l'exécution du <em>contrat</em>; et
+
+       15.1.3 fournir à l'<em>ingénieur</em> toute l'assistance possible dans 
+              l'accomplissement de son devoir de veiller à ce que les <em>
+              travaux</em> soient exécutés conformément au <em>contrat</em>, de même que 
+              dans l'accomplissement de tout autre devoir et dans 
+              l'exercice de tout pouvoir qui lui incombe ou qui lui est 
+              conféré par le <em>contrat</em>.
+
+<strong>CG16   01/10/94      Coopération avec d'autres entrepreneurs</strong>
+
+16.1   Lorsque, de l'avis de l'<em>ingénieur</em>, il est nécessaire d'affecter aux <em>
+       travaux</em> ou au chantier d'autres entrepreneurs ou ouvriers, avec ou 
+       sans <em>outillage</em> et <em>matériaux</em>, l'entrepreneur doit, à la satisfaction 
+       de l'<em>ingénieur</em>, leur donner accès aux <em>travaux</em> et coopérer avec eux 
+       dans l'accomplissement de leurs fonctions et obligations.
+
+16.2   Si
+
+       16.2.1 l'affectation aux <em>travaux</em> d'autres entrepreneurs ou ouvriers 
+              en vertu du paragraphe CG16.1 ne pouvait être raisonnablement 
+              prévue par l'entrepreneur au moment de la conclusion du <em>
+              contrat</em>; et
+
+       16.2.2 de l'avis de l'<em>ingénieur</em>, l'entrepreneur a encouru des 
+              dépenses additionnelles afin de se conformer au paragraphe 
+              CG16.1, et
+
+       16.2.3 l'entrepreneur a donné à l'<em>ingénieur</em> un avis écrit de sa 
+              réclamation avant l'expiration d'un délai de trente (30) 
+              jours à compter de l'affectation d'autres entrepreneurs ou 
+              ouvriers aux <em>travaux</em> ou au chantier,
+
+       Sa Majesté rembourse à l'entrepreneur les frais encourus, calculés 
+       conformément aux articles CG48 à CG50, pour le travail, de l'<em>
+       outillage</em> et des <em>matériaux</em> additionnels requis. 
+
+<strong>CG17   01/10/94      Vérification des travaux</strong>
+
+17.1   Si, à un moment quelconque après le début des <em>travaux</em> mais avant 
+       l'expiration de la période de garantie, l'<em>ingénieur</em> a des motifs de 
+       croire que les <em>travaux</em> ou partie de ceux-ci n'ont pas été exécutés 
+       conformément au <em>contrat</em>, il peut demander qu'une vérification de ces <em>
+       travaux</em> soit effectuée par un expert qu'il désigne.
+
+17.2   Si, par suite d'une vérification conformément au paragraphe CG17.1, 
+       il est établi que les <em>travaux</em> n'ont pas été exécutés suivant le <em>
+       contrat</em>, l'entrepreneur doit, sur demande, payer à Sa Majesté tous 
+       les coûts et toutes les dépenses raisonnables que cette vérification 
+       lui aura occasionnés, en plus et sans préjudice aux droits et 
+       recours de Sa Majesté sous le <em>contrat</em>, en droit ou en équité.
+
+<strong>CG18   01/10/94      Déblaiement de l'emplacement</strong>
+
+18.1   L'entrepreneur garde les <em>travaux</em> et leur emplacement propres, sans 
+       rebuts, ni débris, et respecte à cet égard toute directive de l'<em>
+       ingénieur</em>.
+
+18.2   Avant l'émission du Certificat provisoire mentionné au paragraphe 
+       CG44.2, l'entrepreneur enlève tout l'outillage et tous les <em>matériaux</em> 
+       non requis à l'exécution du reste des <em>travaux</em>.  Il enlève également 
+       tout rebuts et débris et fait en sorte que les <em>travaux</em> et leur 
+       emplacement soient propres et convenables pour leur occupation par 
+       les employés de Sa Majesté, sauf indication contraire dans le <em>
+       contrat</em>.
+
+18.3   Avant l'émission du Certificat définitif d'achèvement mentionné au 
+       paragraphe CG44.1, l'entrepreneur retire des <em>travaux</em> et leur 
+       emplacement, l'excédant de l'outillage et des <em>matériaux</em>, de même que 
+       tous les rebuts et débris.
+
+18.4   Les obligations qu'imposent à l'entrepreneur les paragraphes CG18.1 
+       à CG18.3 ne s'appliquent pas aux rebuts et aux débris laissés par 
+       les employés de Sa Majesté, ou par les autres entrepreneurs et leurs 
+       employés visés au paragraphe CG16.1.
+
+<strong>CG19   01/10/94      Surintendant de l'entrepreneur</strong>
+
+19.1   L'entrepreneur désigne sans délai un <em>surintendant</em> après 
+       l'adjudication du <em>contrat</em>.
+
+19.2   L'entrepreneur communique sans délai à l'<em>ingénieur</em> le nom, l'adresse 
+       et le numéro de téléphone du <em>surintendant</em> désigné en vertu du 
+       paragraphe CG19.1.
+
+19.3   Le <em>surintendant</em> désigné en vertu du paragraphe CG19.1 a l'entière 
+       responsabilité des opérations de l'entrepreneur dans l'exécution des <em>
+       travaux</em> et il est en outre autorisé à recevoir au nom de 
+       l'entrepreneur, tout avis, consentement, ordre, directive, décision 
+       ou toute autre communication qui peut lui être donné en vertu du <em>
+       contrat</em>.
+
+19.4   Pendant les heures de travail et jusqu'à l'achèvement des <em>travaux</em>, 
+       l'entrepreneur doit garder sur les lieux des <em>travaux</em> un <em>surintendant</em> 
+       compétent.
+
+19.5   À la demande de l'<em>ingénieur</em>, l'entrepreneur retire tout <em>surintendant</em> 
+       qui, de l'avis de l'<em>ingénieur</em>, est incompétent ou s'est conduit de 
+       façon malséante, et il remplace sans délai le <em>surintendant</em> ainsi 
+       retiré par un autre <em>surintendant</em> que l'<em>ingénieur</em> estime acceptable.
+
+19.6   Sous réserve du paragraphe CG19.5, l'entrepreneur ne peut remplacer 
+       le <em>surintendant</em> sans le consentement écrit de l'<em>ingénieur</em>.
+
+19.7   En cas de contravention par l'entrepreneur au paragraphe CG19.6, l'<em>
+       ingénieur</em> peut refuser l'émission de tout Certificat mentionné à 
+       l'article CG44 jusqu'à ce que le <em>surintendant</em> ait été réintégré dans 
+       ses fonctions ou qu'un autre <em>surintendant</em> acceptable à l'<em>ingénieur</em> 
+       l'ait remplacé. 
+
+<strong>CG20   01/10/94      Sécurité nationale</strong>
+
+20.1   Si le <em>Ministre</em> estime que la sécurité nationale le requiert, il peut 
+       ordonner à l'entrepreneur
+
+       20.1.1 de lui fournir tout renseignement sur des personnes engagées 
+              ou devant l'être aux fins du <em>contrat</em>; et
+
+       20.1.2 de retirer des <em>travaux</em> et de leur emplacement toute <em>personne</em> 
+              dont l'emploi peut en l'occurrence, de l'avis du <em>Ministre</em>, 
+              comporter un risque pour la sécurité nationale.
+
+20.2   Les contrats que l'entrepreneur pourra conclure avec les personnes 
+       qui seront affectées à l'exécution des <em>travaux</em>, doivent contenir des 
+       dispositions qui lui permettront de s'acquitter de toute obligation 
+       qui lui incombent en vertu des articles CG19 à CG21.
+
+20.3   L'entrepreneur doit obéir à tout ordre donné par le <em>Ministre</em> suivant 
+       le paragraphe CG20.1.
+
+<strong>CG21   01/10/94      Ouvriers inaptes</strong> 
+21.1   À la demande de l'<em>ingénieur</em>, l'entrepreneur retire des <em>travaux</em> toute <em>
+       personne</em> engagée par l'entrepreneur aux fins des <em>travaux</em> qui, de 
+       l'avis de l'<em>ingénieur</em>, est incompétente ou s'est conduite de façon 
+       malséante et l'entrepreneur refuse l'accès à l'emplacement des <em>
+       travaux</em> à une <em>personne</em> ainsi retirée.
+
+<strong>CG22   01/10/94      Augmentation ou diminution des coûts</strong>
+
+22.1   Le montant établi dans les Articles de convention doit être ni 
+       augmenté, ni diminué en raison d'une augmentation ou d'une 
+       diminution du coût des <em>travaux</em> résultant d'une augmentation ou d'une 
+       diminution du coût du travail, de l'<em>outillage</em>, des <em>matériaux</em> ou des 
+       rajustements salariaux énoncés ou prescrits dans les Conditions de 
+       travail.
+
+22.2   Nonobstant le paragraphe CG22.1 et l'article CG35, le montant énoncé 
+       dans les Articles de convention doit faire l'objet d'un redressement 
+       de la manière prévue au paragraphe CG22.3, en cas de modification à 
+       une taxe imposée en vertu de la <em>Loi sur l'accise</em>, de la <em>Loi sur la 
+       taxe d'accise</em>, de la<em> Loi sur la sécurité de la vieillesse</em>, de la <em>Loi 
+       sur les douanes</em>, du <em>Tarif des douanes</em> ou de toute loi provinciale 
+       sur la taxe de vente imposant une taxe de vente au détail sur 
+       l'achat de biens personnels corporels incorporés dans les biens 
+       immobiliers,
+
+       22.2.1 survenant après la date à laquelle l'entrepreneur a présenté 
+              une soumission pour le <em>contrat</em>;
+
+       22.2.2 s'appliquant aux <em>matériaux</em>; et
+
+       22.2.3 influant sur le coût de ces <em>matériaux</em> pour l'entrepreneur.
+
+22.3   En cas de changement fiscal suivant le paragraphe CG22.2, tout 
+       montant pertinent indiqué dans les Articles de convention sera 
+       augmenté ou diminué d'un montant égal qui, sur examen des registres 
+       mentionnés à l'article CG51, représente l'augmentation ou la 
+       diminution, selon le cas, des coûts directement attribuables à ce 
+       changement.
+
+22.4   Aux fins du paragraphe CG22.2, lorsqu'une taxe fait l'objet d'un 
+       changement après la date à laquelle l'entrepreneur a présenté une 
+       soumission mais alors que le ministre des Finances en avait donné 
+       avis public avant la date de présentation de la soumission, le 
+       changement fiscal est censé être survenu avant la date à laquelle la 
+       soumission a été présentée.
+
+<strong>CG23   01/10/94      Main-d'oeuvre et matériaux canadiens</strong>
+
+23.1   L'entrepreneur emploie pour l'exécution des <em>travaux</em>, de la 
+       main-d'oeuvre et des <em>matériaux</em> canadiens dans toute la mesure où ils 
+       sont disponibles, compte tenu des exigences économiques et de la 
+       nécessité de poursuivre une exécution diligente des <em>travaux</em>.
+
+23.2   Sous réserve du paragraphe CG23.1, l'entrepreneur emploie, dans la 
+       mesure où elle est disponible, la main-d'oeuvre de la localité où 
+       les <em>travaux</em> sont exécutés, et il recourt aux bureaux des Centres 
+       d'emploi du Canada pour recruter les ouvriers, là où la chose est 
+       réalisable.
+
+23.3   Sous réserve des paragraphes CG23.1 et CG23.2, l'entrepreneur 
+       emploie une proportion raisonnable d'ouvriers qui ont été en service 
+       actif dans les Forces armées canadiennes et qui en ont reçu une 
+       libération honorable.
+
+<strong>CG24   01/10/94      Protection des travaux et des documents</strong>
+
+24.1   L'entrepreneur garde et protège les <em>travaux</em>, l'emplacement des <em>
+       travaux</em>, le <em>contrat</em>, les devis, les plans, les dessins, les 
+       renseignements, les <em>matériaux</em>, l'<em>outillage</em> et les biens immobiliers, 
+       fournis ou non par Sa Majesté à l'entrepreneur, contre toute perte 
+       ou dommage de quelque nature et ne peut les utiliser, donner, 
+       démolir ou en disposer sans le consentement écrit du <em>Ministre</em>, sauf 
+       si cela est indispensable à l'exécution des <em>travaux</em>.
+
+24.2   Si une cote de sécurité est attribué aux documents ou renseignements 
+       donnés ou dévoilés à l'entrepreneur, l'entrepreneur prend toutes les 
+       mesures que lui enjoint l'<em>ingénieur</em> pour assurer le degré de 
+       sécurité consistant avec cette cote.
+
+24.3   L'entrepreneur fournit tous dispositifs de sécurité et aide toute <em>
+       personne</em> à laquelle le <em>Ministre</em> a donné l'autorisation d'inspecter 
+       ou de prendre les mesures de sécurité qui s'imposent à l'égard des <em>
+       travaux</em> et de l'emplacement des <em>travaux</em>.
+
+24.4   L'<em>ingénieur</em> peut ordonner à l'entrepreneur de faire telles choses et 
+       d'effectuer tels <em>travaux</em> additionnels qui, de l'avis de l'<em>ingénieur</em>, 
+       sont raisonnables et nécessaires pour assurer l'observation des 
+       paragraphes CG24.1 à CG24.3, ou pour rectifier une violation de ces 
+       paragraphes.
+
+<strong>CG25   01/10/94      Cérémonies publiques et enseignes</strong>
+
+25.1   L'entrepreneur ne permet pas de cérémonie publique relativement aux <em>
+       travaux</em>, sans la permission du <em>Ministre</em>.
+
+25.2   L'entrepreneur n'érige ou ne permit l'érection d'enseignes ou de 
+       panneaux publicitaires sur les <em>travaux</em> ou l'emplacement des <em>travaux</em> 
+       sans l'approbation de l'<em>ingénieur</em>.
+
+<strong>CG26   01/10/94      Précautions contre les dommages, contrefaçons, 
+                     incendies et autres</strong>
+
+26.1   L'entrepreneur doit, à ses propres frais, faire le nécessaire pour 
+       s'assurer
+
+       26.1.1 que nulle <em>personne</em> n'est blessée, nul bien endommagé et nul 
+              droit, servitude ou privilège enfreint en raison de 
+              l'activité de l'entrepreneur en vertu du <em>contrat</em>;
+
+       26.1.2 que la circulation à pied ou autrement sur les chemins ou 
+              cours d'eau publics ou privés n'est pas indûment entravée, 
+              interrompue ou rendue dangereuse par les <em>travaux</em> ou 
+              l'outillage;
+
+       26.1.3 que les dangers d'incendie sur le chantier ou l'emplacement 
+              des <em>travaux</em> sont éliminés et que, sujet à tout ordre qui peut 
+              être donné par l'<em>ingénieur</em>, tout incendie est promptement 
+              maîtrisé;
+
+       26.1.4 que la santé et sécurité des personnes occupées aux <em>travaux</em> 
+              ne sont pas menacées par les méthodes ou les moyens mis en 
+              oeuvre;
+
+       26.1.5 que des services médicaux suffisant sont offerts en tout 
+              temps pendant les heures de travail, à toutes personnes 
+              occupées aux <em>travaux</em>;
+
+       26.1.6 que des mesures sanitaires suffisantes sont prises à l'égard 
+              des <em>travaux</em> et l'emplacement des <em>travaux</em>; et
+
+       26.1.7 que tous les jalons, bouées et repères placés sur les <em>travaux</em> 
+              ou l'emplacement des <em>travaux</em> par l'<em>ingénieur</em> ou sur son ordre 
+              sont protégés et ne sont pas enlevés, abîmés, changés ou 
+              détruits.
+
+26.2   L'<em>ingénieur</em> peut ordonner à l'entrepreneur de faire toute chose et 
+       de construire tout ouvrage additionnel qui, de l'avis de l'<em>ingénieur</em>, 
+       est raisonnable ou nécessaire pour assurer l'observation du 
+       paragraphe CG26.1 ou pour rectifier une infraction audit paragraphe.
+
+26.3   L'entrepreneur se conforme, à ses propres frais, à tout ordre que l'<em>
+       ingénieur</em> émet conformément au paragraphe CG26.2.
+
+<strong>CG27   01/10/94      Assurances</strong>
+
+27.1   L'entrepreneur souscrit et maintient, à ses propres frais, des 
+       polices d'assurance relativement aux <em>travaux</em> et en fournit la preuve 
+       à l'<em>ingénieur</em> conformément aux exigences des Conditions d'assurance 
+       «E».
+
+27.2   Les polices d'assurance mentionnées au paragraphe CG27.1 doivent 
+       être
+
+       27.2.1 en la forme et nature, au montant, pour la durée et suivant 
+              les termes et conditions prévus aux Conditions d'assurance «E»; 
+              et
+
+       27.2.2 prévoir le remboursement des demandes de règlement, 
+              conformément à l'article CG28.
+
+<strong>CG28   01/10/94      Indemnité d'assurance</strong>
+
+28.1   Dans le cas d'une demande de règlement en vertu d'une police 
+       d'assurance tous risques chantier (y compris les installations) que 
+       maintient l'entrepreneur conformément à l'article CG27, les sommes 
+       dues à l'égard d'un sinistre seront remboursées directement à Sa 
+       Majesté, et
+
+       28.1.1 les sommes ainsi versées seront retenues par Sa Majesté aux 
+              fins du <em>contrat</em>; ou
+
+       28.1.2 si Sa Majesté en décide ainsi, seront conservées par Sa 
+              Majesté, et le cas échéant, deviendront sa propriété de façon 
+              absolue.
+
+28.2   Dans le cas d'une demande de règlement en vertu d'une police 
+       responsabilité civile générale que maintient l'entrepreneur 
+       conformément à l'article CG27, l'assureur remboursera directement au 
+       demandeur les sommes dues à l'égard d'un sinistre.
+
+28.3   Si le <em>Ministre</em> choisit conformément au paragraphe CG28.1 de 
+       conserver l'indemnité d'assurance, il peut faire effectuer une 
+       vérification de la comptabilité de l'entrepreneur et de Sa Majesté 
+       relativement à la partie des <em>travaux</em> perdue ou endommagée, afin 
+       d'établir la différence, s'il en est, entre
+
+       28.3.1 l'ensemble du montant des pertes ou dommages subis par Sa 
+              Majesté, incluant tous frais encourus pour le déblaiement et 
+              le nettoyage des <em>travaux</em> et l'emplacement des <em>travaux</em> et de 
+              toute autre somme payable par l'entrepreneur à Sa Majesté en 
+              vertu du <em>contrat</em>, moins toute somme retenue conformément à 
+              l'alinéa CG28.1.2,
+
+       28.3.2 l'ensemble des sommes payables par Sa Majesté à 
+              l'entrepreneur en vertu du <em>contrat</em> à la date où la perte ou 
+              les dommages ont été subis.
+
+28.4   Toute différence établie conformément au paragraphe CG28.3 doit être 
+       payée sans délai par la partie débitrice à la partie créancière.
+
+28.5   Suite au paiement prévu au paragraphe CG28.4, Sa Majesté et 
+       l'entrepreneur sont réputés libérés de tous droits et obligations en 
+       vertu du <em>contrat</em>, à l'égard seulement de la partie des <em>travaux</em> qui a 
+       fait l'objet d'une vérification mentionnée au paragraphe CG28.3.
+ 
+28.6   S'il n'est pas exercé de choix en vertu du paragraphe CG28.1.2, 
+       l'entrepreneur, sous réserve du paragraphe CG28.7, déblaie et 
+       nettoie les <em>travaux</em> et l'emplacement des <em>travaux</em> et il restaure et 
+       remplace à ses frais la partie des <em>travaux</em> qui a été perdue ou 
+       endommagée, comme si ces <em>travaux</em> n'avaient pas encore été exécutés.
+
+28.7   Lorsque l'entrepreneur exécute les obligations prévues au paragraphe 
+       CG28.6, Sa Majesté lui rembourse, jusqu'à concurrence des sommes 
+       mentionnées au paragraphe CG28.1, les frais de déblaiement, 
+       nettoyage, restauration et remplacement en question.
+
+28.8   Sous réserve du paragraphe CG28.7, tout paiement par Sa Majesté en 
+       exécution des obligations prévue au paragraphe CG28.7 est effectué 
+       conformément aux dispositions du <em>contrat</em>, mais chaque paiement doit 
+       représenter 100% du montant réclamé, nonobstant les alinéas MP4.4.1 
+       et MP4.4.2. 
+
+<strong>CG29   01/10/94      Garantie du contrat</strong>
+
+29.1   L'entrepreneur obtient et dépose auprès de l'<em>ingénieur</em> une ou des 
+       garanties conformément aux conditions de <em>garantie du contrat</em>.
+
+29.2   S'il est déposé une garantie auprès de l'<em>ingénieur</em> en vertu du 
+       paragraphe CG29.1 constituant en tout ou en partie en un dépôt de 
+       garantie, ce dépôt sera traité conformément aux articles CG43 et 
+       CG45.
+
+29.3   Si la garantie en vertu du paragraphe CG29.1 consiste, en partie, en 
+       un cautionnement pour le paiement de la main-d'oeuvre et des <em>
+       matériaux</em>, l'entrepreneur affiche une copie de ce cautionnement sur 
+       l'emplacement des <em>travaux</em>.
+
+<strong>CG30   01/10/94      Modifications aux travaux</strong>
+
+30.1   Sous réserve de l'article CG5, l'<em>ingénieur</em>, à tout moment avant de 
+       délivrer son Certificat définitif d'achèvement,
+
+       30.1.1 exiger des <em>travaux</em> ou des <em>matériaux</em> en sus de ceux qui ont 
+              été prévus dans les plans et devis; et
+
+       30.1.2 supprimer ou modifier les dimensions, le caractère, la 
+              quantité, la qualité, la description, la situation ou la 
+              position de la totalité ou d'une partie des <em>travaux</em> ou <em>
+              matériaux</em> prévus dans les plans et devis ou exigés en 
+              conformité de l'alinéa CG30.1.1,
+
+       à condition que ces <em>travaux</em> ou <em>matériaux</em> supplémentaires, ou que ces 
+       suppressions ou modifications soient, selon lui, compatibles avec 
+       l'intention du <em>contrat</em>.
+
+30.2   L'entrepreneur exécute les <em>travaux</em> conformément aux ordres, 
+       suppressions et modifications émis de temps à autre par l'<em>ingénieur</em> 
+       en vertu du paragraphe CG30.1, comme s'ils faisaient partie des 
+       plans et devis.
+
+30.3   L'<em>ingénieur</em> décide si ce que l'entrepreneur a fait ou omis de faire 
+       conformément à un ordre, une suppression ou une modification en 
+       vertu du paragraphe CG30.1, a augmenté ou diminué le coût des <em>
+       travaux</em> pour l'entrepreneur.
+
+30.4   Si l'<em>ingénieur</em> décide, conformément au paragraphe CG30.3, qu'il y a 
+       eu augmentation du coût pour l'entrepreneur, Sa Majesté paie à 
+       l'entrepreneur le coût accru que l'entrepreneur a nécessairement 
+       encouru pour les <em>travaux</em> supplémentaires, calculé conformément aux 
+       articles CG49 ou CG50.
+
+30.5   Si l'<em>ingénieur</em> décide, conformément au paragraphe CG30.3, qu'il y a 
+       eu réduction du coût pour l'entrepreneur, Sa Majesté réduit le 
+       montant payable à l'entrepreneur en vertu du <em>contrat</em> d'un montant 
+       égal à la réduction du coût occasionné par toute suppression ou 
+       modification ordonnée conformément au paragraphe CG30.1.2, calculé 
+       conformément à l'article CG49. 
+
+30.6   Les paragraphes CG30.3 à CG30.5 s'appliquent seulement à un <em>contrat</em> 
+       ou partie d'un <em>contrat</em> comportant, suivant le <em>contrat</em>, une Entente à 
+       prix fixe.
+
+30.7   Tout ordre, suppression ou modification mentionné au paragraphe CG30.1 
+       doit être par écrit, porter la signature de l'<em>ingénieur</em> et être 
+       communiqué à l'entrepreneur conformément au paragraphe CG11.
+
+<strong>CG31   01/10/94      Interprétation du contrat par l'ingénieur</strong>
+
+31.1   Avant la délivrance par l'<em>ingénieur</em> du Certificat définitif 
+       d'achèvement mentionné au paragraphe CG44.1, l'<em>ingénieur</em> tranche 
+       toute question concernant l'exécution des <em>travaux</em> ou les obligations 
+       de l'entrepreneur en vertu du <em>contrat</em> et en particulier, mais sans 
+       limiter la portée générale de ce qui précède, concernant
+
+       31.1.1 la signification de quoi que ce soit dans les plans et devis;
+
+       31.1.2 l'interprétation des plans et devis au cas d'erreur, omission, 
+              obscurité ou divergence dans leur texte ou intention;
+
+       31.1.3 le respect des exigences du <em>contrat</em> quant à la quantité ou la 
+              qualité des <em>matériaux</em> ou du travail que l'entrepreneur 
+              fournit ou se propose de fournir;
+
+       31.1.4 la suffisance de la main-d'oeuvre, de l'outillage ou des <em>
+              matériaux</em> que l'entrepreneur fournit pour la réalisation des <em>
+              travaux</em> et du <em>contrat</em>, pour assurer l'exécution des <em>travaux</em> 
+              suivant le <em>contrat</em> et à l'exécution du <em>contrat</em> conformément à 
+              ses dispositions;
+
+       31.1.5 la quantité de tout genre de travail effectué par 
+              l'entrepreneur; ou
+
+       31.1.6 l'échéancier et la programmation des diverses phases de 
+              l'exécution des <em>travaux</em>;
+
+       et la décision de l'<em>ingénieur</em> est sans appel, pour ce qui est des <em>
+       travaux</em>.
+
+31.2   L'entrepreneur exécute les <em>travaux</em> conformément aux décisions et 
+       directives de l'<em>ingénieur</em> en vertu du paragraphe CG31.1 et 
+       conformément à toute décision et directive de l'<em>ingénieur</em> qui en 
+       découlent.
+
+<strong>CG32   01/10/94      Garantie et rectification des défectuosités des 
+                     travaux</strong>
+
+32.1   Sans restreindre les garanties implicites ou explicites de la loi ou 
+       du <em>contrat</em>, l'entrepreneur doit, à ses propres frais,
+
+       32.1.1 rectifier toute défectuosité et corriger tout vice qui se 
+              manifeste dans les <em>travaux</em> ou qui est signalé au <em>Ministre</em> 
+              quant aux parties du travail acceptées relativement au 
+              Certificat provisoire d'achèvement mentionné au paragraphe 
+              CG44.2 dans les 12 mois qui suivront la date d'émission du 
+              Certificat provisoire d'achèvement;
+
+       32.1.2 rectifier toute défectuosité et corriger tout vice qui se 
+              manifeste dans les <em>travaux</em> ou qui est signalé au <em>Ministre</em> 
+              relativement aux parties des <em>travaux</em> décrites dans le 
+              Certificat provisoire d'achèvement mentionné au paragraphe 
+              CG44.2 dans les 12 mois qui suivent la date d'émission du 
+              Certificat définitif d'achèvement mentionné au paragraphe 
+              CG44.1. 
+32.2   L'<em>ingénieur</em> peut ordonner à l'entrepreneur de rectifier ou de 
+       corriger toute défectuosité ou tout vice mentionné au paragraphe 
+       CG32.1 ou couvert par toute autre garantie implicite ou explicite.
+
+32.3   L'ordre mentionné au paragraphe CG32.2 doit être par écrit; il peut 
+       préciser le délai dans lequel l'entrepreneur doit rectifier ou 
+       corriger la défectuosité ou le vice et il doit être donné à 
+       l'entrepreneur conformément à l'article CG11.
+
+32.4   L'entrepreneur doit rectifier la défectuosité ou corriger le vice 
+       mentionné dans l'ordre donné en conformité du paragraphe CG32.2 dans 
+       le délai qui y est stipulé.
+
+<strong>CG33   01/10/94      Défaut de l'entrepreneur</strong>
+
+33.1   Si l'entrepreneur est en défaut de se conformer à une décision ou 
+       directive rendu ou émise par l'<em>ingénieur</em> en vertu des articles CG18, 
+       CG24, CG26, CG31 ou CG32, l'<em>ingénieur</em> peut recourir aux méthodes qui 
+       lui semblent opportunes pour exécuter ce que l'entrepreneur fait 
+       part d'exécuter.
+
+33.2   L'entrepreneur paie à Sa Majesté, sur demande, la totalité de tous 
+       les frais, dépenses et dommages encourus par Sa Majesté en raison du 
+       défaut de l'entrepreneur de se conformer à toute décision ou 
+       directive stipulée au paragraphe CG33.1 et en raison de toute 
+       méthode utilisée en l'occurrence par l'<em>ingénieur</em> conformément au 
+       paragraphe CG33.1.
+
+<strong>CG34   01/10/94      Protestations des décisions de l'ingénieur</strong>
+
+34.1   L'entrepreneur peut contester, dans les dix jours de sa réception, 
+       une décision ou directive mentionnée aux paragraphes CG30.3 ou CG33.1.
+
+34.2   Toute contestation mentionnée au paragraphe CG34.1 doit être par 
+       écrit, indiquer tous les motifs de la contestation, être signée par 
+       l'entrepreneur et communiquée à Sa Majesté par l'entremise de l'<em>
+       ingénieur</em>.
+
+34.3   Si l'entrepreneur proteste conformément au paragraphe CG34.2, le 
+       fait pour lui de se conformer à la décision ou à la directive qu'il 
+       conteste ne sera pas interprété comme une reconnaissance du 
+       bien-fondé de cette décision ou de cette directive et ne pourra 
+       constituer une fin de non recevoir quant à toute poursuite qu'il 
+       estimera appropriée dans les circonstances.
+
+34.4   Tout protêt de l'entrepreneur en vertu du paragraphe CG34.2 ne le 
+       dispense de se conformer à la décision ou directive en question.
+
+34.5   Sous réserve du paragraphe CG34.6, l'entrepreneur doit, sous peine 
+       de déchéance, intenter toute poursuite judiciaire mentionnée au 
+       paragraphe CG34.3 dans les trois mois suivant la date d'émission du 
+       Certificat définitif d'achèvement mentionné au paragraphe CG44.1.
+
+34.6   L'entrepreneur doit, sous peine de déchéance, intenter dans les 
+       trois mois suivant la fin d'une période de garantie, toute poursuite 
+       judiciaire mentionnée au paragraphe CG34.3 et découlant d'un ordre 
+       donné en vertu de l'article CG32.
+
+34.7   Sous réserve du paragraphe CG34.8, si Sa Majesté tient la 
+       contestation de l'entrepreneur comme bien fondée, elle doit lui 
+       rembourser le coût des <em>travaux</em>, de l'outillage et des <em>matériaux</em> 
+       additionnels nécessaire à l'exécution de l'ordre ou de la directive 
+       ayant fait l'objet du protêt.
+
+34.8   Les coûts mentionnés au paragraphe CG34.7 doivent être calculés 
+       conformément aux dispositions des articles CG48 à CG50.
+
+<strong>CG35   01/10/94      Changement des conditions du sol - Négligence ou 
+                     retard de la part de Sa Majesté</strong>
+
+35.1   Sous réserve du paragraphe CG35.2, nul paiement autre qu'un paiement 
+       expressément stipulé au <em>contrat</em> n'est fait par Sa Majesté à 
+       l'entrepreneur en raison de quelque dépense supplémentaire encourue 
+       ou pour quelque perte ou dommage subi par l'entrepreneur.
+
+35.2   Si l'entrepreneur encourt des frais supplémentaires ou subit des 
+       pertes ou dommages directement attribuables
+
+       35.2.1 à un écart substantiel entre les renseignements sur les 
+              conditions du sol à l'emplacement des <em>travaux</em>, dans les plans 
+              et devis ou d'autres documents fournis à l'entrepreneur pour 
+              l'établissement de sa soumission, ou à un écart substantiel 
+              entre une présomption raisonnable de l'entrepreneur fondée 
+              sur lesdits renseignements et les conditions réelles 
+              rencontrées par l'entrepreneur à l'emplacement des <em>travaux</em> 
+              lors de leur exécution, ou
+
+       35.2.2 à la négligence ou à un retard de la part de Sa Majesté après 
+              la date du <em>contrat</em>, à fournir tout renseignement ou à tout 
+              acte auquel Sa Majesté est expressément obligée par le <em>
+              contrat</em> ou que les usages de l'industrie dicteraient 
+              ordinairement à tout propriétaire,
+
+       il doit, dans les dix jours qui suivent la date de la constatation 
+       des conditions du sol décrites à l'alinéa CG35.2.1 ou la date de la 
+       négligence ou du retard décrit au paragraphe CG35.2.2, en donner 
+       avis par écrit à l'<em>ingénieur</em> et lui signifier son intention d'exiger 
+       le remboursement des frais supplémentaires encourus ou le coût de 
+       toutes pertes ou dommages subis.
+
+35.3   Lorsque l'entrepreneur a donné à l'<em>ingénieur</em> l'avis mentionné au 
+       paragraphe CG35.2, il doit sous peine de déchéance dans les 30 jours 
+       suivant la date de l'émission du Certificat définitif mentionné au 
+       paragraphe CG44.1, remettre à l'<em>ingénieur</em> une demande écrite de 
+       remboursement des frais supplémentaires ou du coût de toutes pertes 
+       ou dommages subis.
+
+35.4   La demande de remboursement mentionnée au paragraphe CG35.3 devra 
+       contenir une description suffisante des faits et circonstances qui 
+       motivent la demande afin que l'<em>ingénieur</em> puisse déterminer si cette 
+       demande est justifiée ou non, et l'entrepreneur doit, à cette fin, 
+       fournir tout autre renseignement que l'<em>ingénieur</em> peut exiger.
+
+35.5   Si, de l'avis de l'<em>ingénieur</em>, la demande de remboursement mentionnée 
+       au paragraphe CG35.3 est bien fondée, Sa Majesté doit verser à 
+       l'entrepreneur un supplément calculé en conformité des articles CG47 
+       à CG50.
+
+35.6   Si, de l'avis de l'<em>ingénieur</em>, le cas décrit à l'alinéa CG35.2.1 se 
+       traduit pour l'entrepreneur par une économie dans l'exécution du <em>
+       contrat</em>, le montant établi dans les Articles de convention est, sous 
+       réserve du paragraphe CG35.7, réduit d'un montant égal à l'économie 
+       réalisée.
+
+35.7   Le montant à être déduit en vertu du paragraphe CG35.6 doit être 
+       déterminé selon les dispositions des articles CG47 à CG50.
+
+35.8   Si l'entrepreneur néglige de donner l'avis mentionné au paragraphe 
+       CG35.2 et de présenter la demande de remboursement mentionnée au 
+       paragraphe CG35.3 dans le délai prescrit, aucun supplément ne doit 
+       lui être versé en l'occurrence.
+
+<strong>CG36   01/10/94      Prolongation de délai</strong>
+
+36.1   Sous réserve du paragraphe CG36.2, l'<em>ingénieur</em> peut, s'il estime que 
+       l'achèvement en retard des <em>travaux</em> est attribuable à des causes 
+       indépendantes de la volonté de l'entrepreneur et sur demande 
+       présentée par l'entrepreneur avant le jour fixé par les Articles de 
+       convention pour l'achèvement des <em>travaux</em> ou avant toute autre date 
+       fixée auparavant conformément au présent article, prolonger le délai 
+       d'achèvement des <em>travaux</em>. 
+
+36.2   Toute demande mentionnée au paragraphe CG36.1 doit être accompagnée 
+       du consentement écrit de la compagnie dont le cautionnement 
+       constitue une partie de la <em>garantie du contrat</em>. 
+
+<strong>CG37   01/10/94      Dédommagement pour retard d'exécution</strong>
+
+37.1   Aux fins du présent article,
+
+       37.1.1 les <em>travaux</em> sont censés être achevés le jour où l'<em>ingénieur</em> 
+              délivre le Certificat provisoire d'achèvement mentionné au 
+              paragraphe CG44.2, et
+
+       37.1.2 «période de retard» signifie la période commençant le jour 
+              fixé par les Articles de convention pour l'achèvement des <em>
+              travaux</em> et se terminant le jour précédant immédiatement le 
+              jour de l'achèvement, à l'exclusion cependant de tout jour 
+              faisant partie d'une période de prolongation accordée en 
+              vertu du paragraphe CG36.1 et de tout autre jour où, de 
+              l'avis de l'<em>ingénieur</em>, l'achèvement des <em>travaux</em> a été retardé 
+              par des causes indépendantes de la volonté de l'entrepreneur.
+
+37.2   Si l'entrepreneur n'achève pas les <em>travaux</em> au jour fixé par les 
+       Articles de convention mais achève ces <em>travaux</em> par la suite, 
+       l'entrepreneur paie à Sa Majesté un montant égal à l'ensemble
+
+       37.2.1 de tous les salaires, gages et frais de déplacement versés 
+              par Sa Majesté aux personnes surveillant les <em>travaux</em> pendant 
+              la période de retard,
+
+       37.2.2 des coûts encourus par Sa Majesté en conséquence de 
+              l'impossibilité pour Sa Majesté de faire usage des <em>travaux</em> 
+              achevés pendant la période de retard, et
+
+       37.2.3 de tous les autres frais et dommages encourus ou subis par Sa 
+              Majesté pendant la période de retard par suite de 
+              l'inachèvement des <em>travaux</em> à la date prévue.
+
+37.3   S'il estime que l'intérêt public le commande, le <em>Ministre</em> peut 
+       renoncer au droit de Sa Majesté à la totalité ou partie d'un 
+       paiement exigible en conformité du paragraphe CG37.2.
+
+<strong>CG38   01/01/96      Travaux retirés à l'entrepreneur</strong>
+
+38.1   Le <em>Ministre</em> peut dans les cas suivants et à son entière discrétion, 
+       en donnant un avis par écrit à l'entrepreneur conformément à 
+       l'article CG11, retirer à l'entrepreneur la totalité ou une partie 
+       des <em>travaux</em> et recourir aux moyens qui lui semblent appropriés pour 
+       achever les <em>travaux</em> si l'entrepreneur
+
+       38.1.1 fait défaut ou retarde à commencer les <em>travaux</em> ou à exécuter 
+              les <em>travaux</em> avec diligence et à la satisfaction de l'<em>
+              ingénieur</em>, dans les six jours suivant la réception par 
+              l'entrepreneur d'un avis par écrit du <em>Ministre</em> ou de l'<em>
+              ingénieur</em>, conformément à l'article CG11;
+
+       38.1.2 a négligé d'achever quelque partie des <em>travaux</em> dans le délai 
+              imparti par le <em>contrat</em>;
+
+       38.1.3 est devenu insolvable, ou a commis un acte de faillite, et n'
+              a pas fait une proposition à ses créanciers, ni déposé un 
+              avis d'intention de faire une telle proposition en vertu de 
+              la<em> Loi sur la faillite et l'insolvabilité</em>;
+
+       38.1.4 a abandonné les <em>travaux</em>;
+ 
+       38.1.5 a fait cession du <em>contrat</em> sans le consentement requis au 
+              paragraphe CG3.1; ou
+
+       38.1.6 a de quelque autre façon fait défaut d'observer ou 
+              d'accomplir l'une quelconque des dispositions du <em>contrat</em>.
+
+38.2   Si l'entrepreneur qui est devenu insolvable ou qui a commis un acte 
+       de faillite, a soit fait une proposition à ses créanciers ou soit 
+       déposé un avis d'intention d'en faire une conformément à la <em>Loi sur 
+       la faillite et l'insolvabilité</em>, il doit immédiatement donner copie 
+       de la proposition ou de l'avis d'intention à Sa Majesté.
+
+38.3   Si la totalité ou une partie quelconque des <em>travaux</em> a été retirée à 
+       l'entrepreneur en vertu du paragraphe CG38.1,
+
+       38.3.1 l'entrepreneur n'a droit, sauf dispositions du paragraphe 
+              CG38.5, à aucun autre paiement dû et exigible;
+
+       38.3.2 l'entrepreneur est tenu de payer à Sa Majesté, sur demande, 
+              un montant égal à la totalité des pertes et dommages que Sa 
+              Majesté aura subis en raison du défaut de l'entrepreneur 
+              d'achever les <em>travaux</em>.
+
+38.4   Si la totalité ou partie des <em>travaux</em> retirés à l'entrepreneur en 
+       vertu du paragraphe CG38.1 est achevée par Sa Majesté, l'<em>ingénieur</em> 
+       établit le montant, s'il y en a, de toute retenue ou demande 
+       d'acompte de l'entrepreneur existant au moment où les <em>travaux</em> lui 
+       ont été retirés et dont, selon l'<em>ingénieur</em>, on n'a pas besoin pour 
+       assurer l'exécution des <em>travaux</em> ou pour rembourser à Sa Majesté les 
+       pertes ou dommages subis en raison du défaut de l'entrepreneur.
+
+38.5   Sa Majesté peut verser à l'entrepreneur le montant qu'on jugera non 
+       requis suivant le paragraphe CG38.4.
+
+<strong>CG39   01/10/94      Effet du retrait des travaux à l'entrepreneur</strong>
+
+39.1   Le retrait de la totalité ou d'une partie des <em>travaux</em> à 
+       l'entrepreneur en conformité de l'article CG38, n'a pas pour effet 
+       de libérer l'entrepreneur d'une obligation quelconque découlant pour 
+       lui du <em>contrat</em> ou de la loi, sauf quant à l'obligation pour lui de 
+       continuer l'exécution de la partie des <em>travaux</em> qui lui fut ainsi 
+       retirée.
+
+39.2   Si la totalité ou partie des <em>travaux</em> est retirée à l'entrepreneur en 
+       conformité de l'article CG38, tous les <em>matériaux</em> et <em>outillage</em>, ainsi 
+       que l'intérêt de l'entrepreneur dans tous les biens immobiliers, 
+       permis, pouvoirs et privilèges acquis, utilisés ou fournis par 
+       l'entrepreneur pour les <em>travaux</em>, continuent d'être la propriété de 
+       Sa Majesté sans indemnisation de l'entrepreneur.
+
+39.3   Si l'<em>ingénieur</em> certifie que tout <em>matériaux</em>, <em>outillage</em> ou un intérêt 
+       quelconque mentionné au paragraphe CG39.2 n'est plus requis pour les <em>
+       travaux</em> et qu'il n'est plus dans l'intérêt de Sa Majesté de retenir 
+       lesdits <em>matériaux</em>, <em>outillage</em> ou intérêt, ils sont remis à 
+       l'entrepreneur.
+
+<strong>CG40   01/10/94      Suspension des travaux par le Ministre</strong>
+
+40.1   Le <em>Ministre</em> peut, lorsqu'il estime que l'intérêt public le commande, 
+       sommer l'entrepreneur de suspendre l'exécution des <em>travaux</em> pour une 
+       durée déterminée ou indéterminée, en lui communiquant par écrit un 
+       avis à cet effet, conformément à l'article CG11.
+
+40.2   Sur réception suivant l'article CG11 de la sommation mentionnée au 
+       paragraphe CG40.1, l'entrepreneur suspend toutes les opérations sauf 
+       celles qui, de l'avis de l'<em>ingénieur</em>, sont nécessaires à la garde et 
+       à la préservation des <em>travaux</em>, de l'<em>outillage</em> et des <em>matériaux</em>. 
+40.3   Pendant la période de suspension, l'entrepreneur ne peut enlever de 
+       l'emplacement, sans le consentement de l'<em>ingénieur</em>, quelque partie 
+       des <em>travaux</em>, de l'<em>outillage</em> et des <em>matériaux</em>. 
+
+40.4   Si la période de suspension est de 30 jours ou moins, l'entrepreneur 
+       reprend l'exécution des <em>travaux</em> dès l'expiration de la période de 
+       suspension et il a droit au paiement des frais, calculés en 
+       conformité des articles CG48 à CG50, du travail, de l'<em>outillage</em> et 
+       des <em>matériaux</em> nécessairement encourus en conséquence de la 
+       suspension des <em>travaux</em>.
+
+40.5   Si, à l'expiration d'une période de suspension de plus de 30 jours, 
+       le <em>Ministre</em> et l'entrepreneur conviennent que l'exécution des <em>
+       travaux</em> sera continuée par l'entrepreneur, ce dernier reprend les 
+       opérations sujet aux termes et conditions convenues entre lui et le <em>
+       Ministre</em>.
+
+40.6   Si, à l'expiration d'une période de suspension de plus de 30 jours, 
+       le <em>Ministre</em> et l'entrepreneur ne conviennent pas que les <em>travaux</em> 
+       seront continués par l'entrepreneur ou ne s'entendent pas sur les 
+       termes et conditions suivant lesquels l'entrepreneur poursuivra 
+       l'exécution des <em>travaux</em>, l'avis de suspension est censé être un avis 
+       de résiliation en conformité de l'article CG41.
+
+<strong>CG41   01/10/94      Résiliation du contrat</strong>
+
+41.1   Le <em>Ministre</em> peut, à n'importe quel moment, résilier le <em>contrat</em> en 
+       donnant avis par écrit à cet effet à l'entrepreneur conformément à 
+       l'article CG11.
+
+41.2   Lorsque l'entrepreneur reçoit, conformément à l'article CG11, l'avis 
+       mentionné au paragraphe CG41.1, il doit cesser toutes opérations 
+       dans l'exécution du <em>contrat</em>, sous réserve de toutes conditions 
+       énoncées dans l'avis.
+
+41.3   Si le <em>contrat</em> est résilié conformément au paragraphe CG41.1, Sa 
+       Majesté paie à l'entrepreneur, sous réserve du paragraphe CG41.4, un 
+       montant égal
+
+       41.3.1 au coût de tout le travail, l'outillage et les <em>matériaux</em> 
+              qu'aura fournis l'entrepreneur en vertu du <em>contrat</em> à la date 
+              de résiliation, en exécution d'un <em>contrat</em> ou d'une partie de <em>
+              contrat</em> relativement auquel une Entente à prix unitaire est 
+              précisée dans le <em>contrat</em>, ou
+
+       41.3.2 au moindre
+
+              41.3.2.1      du montant, calculé conformément aux Modalités 
+                            de paiement, qui aurait été payable à 
+                            l'entrepreneur s'il avait achevé les <em>travaux</em>, 
+                            et
+
+              41.3.2.2      du montant que l'on reconnaît devoir à 
+                            l'entrepreneur en vertu de l'article CG49, 
+                            concernant un <em>contrat</em> ou une partie de <em>contrat</em> 
+                            pour lequel le <em>contrat</em> prévoit une Entente à 
+                            prix fixe,
+
+       moins l'ensemble de tous les montants qui furent payés à 
+       l'entrepreneur par Sa Majesté et de tous les montants dont 
+       l'entrepreneur est redevable envers Sa Majesté en vertu du <em>contrat</em>.
+
+41.4   Si Sa Majesté et l'entrepreneur ne peuvent convenir du montant 
+       mentionné au paragraphe CG41.3, ce montant sera déterminé suivant la 
+       méthode indiquée à l'article CG50.
+
+<strong>CG42   01/10/94      Réclamations contre et obligations de la part de 
+                     l'entrepreneur ou d'un sous-traitant</strong>
+
+42.1   Afin d'acquitter toutes obligations légales de l'entrepreneur ou 
+       d'un <em>sous-traitant</em> ou de satisfaire à toutes réclamations légales 
+       contre eux résultant de l'exécution du <em>contrat</em>, Sa Majesté peut 
+       payer tout montant qui est dû et payable à l'entrepreneur en vertu 
+       du <em>contrat</em>, directement aux créanciers de l'entrepreneur ou du 
+       <em>sous-traitant</em>, ou aux réclamants en l'occurrence.  Toutefois, ce 
+       montant que paie Sa Majesté, le cas échéant, ne doit pas excéder le 
+       montant que l'entrepreneur aurait été tenu de verser au réclamant si 
+       les dispositions des lois relatives aux privilèges dans les 
+       provinces et territoires ou, dans le cas de la province de Québec, 
+       de la loi à cet effet dans le Code civil, avaient été applicables 
+       aux <em>travaux</em>.  Le réclamant n'a pas à respecter les dispositions des 
+       lois relatives aux privilèges qui établissent les démarches à suivre 
+       au moyen d'avis, d'enregistrements ou d'autre façon, comme il aurait 
+       pu être nécessaire de le faire pour conserver ou valider toute 
+       réclamation à l'égard de liens émanant du réclamant.
+
+42.2   Sa Majesté n'effectue pas de paiement tel qu'il est décrit au 
+       paragraphe CG42.1 à moins que le réclamant lui remette:
+
+       42.2.1 un jugement ou une ordonnance exécutoire d'un tribunal 
+              compétent établissant le montant qu'aurait eu à verser 
+              l'entrepreneur au réclamant en vertu des dispositions de la 
+              loi provinciale ou territoriale relative aux privilèges 
+              pertinente ou, dans le cas de la province de Québec, de la 
+              loi à cet effet dans le Code civil, si ces lois 
+              s'appliquaient aux <em>travaux</em>; ou
+
+       42.2.2 une sentence arbitrale définitive et exécutoire établissant 
+              le montant qu'aurait eu à verser l'entrepreneur au réclamant 
+              en vertu des dispositions de la loi provinciale ou 
+              territoriale relative aux privilèges pertinente ou, dans le 
+              cas de la province de Québec, de la loi à cet effet dans le 
+              Code civil, si ces lois s'appliquaient aux <em>travaux</em>; ou
+
+       42.2.3 le consentement de l'entrepreneur autorisant le paiement.
+
+       Pour déterminer les droits du réclamant en vertu des alinéas CG42.2.1 
+       et CG42.2.2, l'avis exigé au paragraphe CG42.8 sera réputé remplacer 
+       l'enregistrement ou la prestation d'un avis après l'achèvement des <em>
+       travaux</em> exigé par les lois applicables, et aucune réclamation ne 
+       sera réputée être expirée, annulée ou non exécutoire parce que le 
+       réclamant n'a pas intenté de poursuites dans les délais prescrits 
+       par la loi applicable.
+
+42.3   Lorsqu'il accepte d'exécuter un <em>contrat</em>, l'entrepreneur est réputée 
+       avoir consenti de soumettre à l'arbitrage obligatoire, à la demande 
+       d'un réclamant, toutes les questions auxquelles il faut répondre 
+       pour déterminer si le réclamant a droit au paiement conformément aux 
+       dispositions du paragraphe CG42.1.  Les parties à l'arbitrage seront, 
+       entre autres, le <em>sous-traitant</em> à qui le réclamant a fourni des <em>
+       matériaux</em> ou de l'équipement ou pour qui il a effectué du travail, 
+       si le <em>sous-traitant</em> le désire.  L'État ne constitue pas une partie à 
+       l'arbitrage et, à moins d'une entente contraire entre l'entrepreneur 
+       et le réclamant, l'arbitrage se déroulera conformément à la loi 
+       provinciale ou territoriale régissant l'arbitrage applicable dans la 
+       province ou le territoire où les <em>travaux</em> sont exécutés.
+
+42.4   Une paiement effectué en conformité du paragraphe CG42.1 comporte 
+       quittance de l'obligation de Sa Majesté envers l'entrepreneur sous 
+       le <em>contrat</em>, jusqu'à concurrence du montant payé et peut être déduit 
+       d'un montant dû à l'entrepreneur en vertu du <em>contrat</em>.
+
+42.5   Dans la mesure où les circonstances entourant l'exécution des <em>
+       travaux</em> pour le compte de Sa Majesté le permettent, l'entrepreneur 
+       se conforme à toutes les lois en vigueur dans la province ou le 
+       territoire où les <em>travaux</em> sont exécutés quant aux périodes de 
+       paiement, aux retenus obligatoires, à la création et à la mise en 
+       vigueur de lois concernant les privilèges des fournisseurs ou des 
+       constructeurs ou de lois semblables ou, s'il s'agit de la province 
+       de Québec, aux dispositions de la loi qui concerne les privilèges.
+
+42.6   L'entrepreneur acquitte toutes ses obligations légales et fait droit 
+       à toutes les réclamations légales qui lui sont adressées en 
+       conséquence de l'exécution des <em>travaux</em>, au moins aussi souvent que 
+       le <em>contrat</em> oblige Sa Majesté à acquitter ses obligations envers 
+       l'entrepreneur.
+
+42.7   Sur demande de l'<em>ingénieur</em>, l'entrepreneur fait une déclaration 
+       attestant de l'existence et de l'état de toutes les obligations et 
+       réclamations mentionnées au paragraphe CG42.6.
+
+42.8   Le paragraphe CG42.1 ne s'applique qu'aux réclamations
+
+       42.8.1 pour lesquelles l'<em>ingénieur</em> a reçu un avis par écrit avant 
+              qu'un paiement n'ait été effectué à l'entrepreneur 
+              conformément au paragraphe MP4.10 et dans les 120 jours 
+              suivant la date à laquelle le réclamant
+
+              42.8.1.1      aurait dû être payé en totalité conformément au <em>
+                            contrat</em> qui le lie à l'entrepreneur ou à un <em>
+                            sous-traitant</em>, s'il s'agit d'une réclamation 
+                            pour des deniers dont il est légalement requis 
+                            qu'ils soient retenus du réclamant; ou
+
+              42.8.1.2      s'est acquitté des derniers services ou <em>travaux</em> 
+                            ou a fourni les derniers <em>matériaux</em> exigés par 
+                            le <em>contrat</em> qui le lie à l'entrepreneur ou à un 
+                            sous-traitant, s'il ne s'agit pas d'une 
+                            réclamation mentionnée au sous-alinéa CG42.8.1.1;
+
+       42.8.2 pour lesquelles les procédures visant à établir les droits à 
+              un paiement, conformément au paragraphe CG42.2, ont commencé 
+              dans l'année suivant la date à laquelle l'avis mentionné à 
+              l'alinéa CG42.8.1 a été reçu par l'<em>ingénieur</em>, et
+
+       l'avis exigé à l'alinéa CG42.8.1 doit faire état du montant réclamé 
+       et du principal responsable selon le <em>contrat</em>.
+
+42.9   Sur réception d'un avis de réclamation en vertu de l'alinéa CG42.8.1, 
+       Sa Majesté peut retenir de tout montant dû et payable à 
+       l'entrepreneur en vertu du <em>contrat</em> une partie ou la totalité du 
+       montant de la réclamation.
+
+42.10  L'<em>ingénieur</em> doit aviser l'entrepreneur par écrit de la réception de 
+       toute réclamation mentionnée à l'alinéa CG42.8.1 et de l'intention 
+       de Sa Majesté de retenir des fonds conformément au paragraphe CG42.9, 
+       et l'entrepreneur peut, à tout moment par la suite et jusqu'à ce que 
+       le paiement soit effectué au réclamant, déposer, auprès de Sa 
+       Majesté, une garantie acceptable par Sa Majesté dont le montant est 
+       équivalent à la valeur de la réclamation.  L'avis d'un tel dépôt 
+       doit être reçu par l'<em>ingénieur</em> et, sur réception d'une telle 
+       garantie, Sa Majesté doit dégager à l'intention de l'entrepreneur 
+       tous les fonds qui auraient été payables autrement à l'entrepreneur 
+       et qui ont été retenus conformément aux dispositions du paragraphe 
+       CG42.9 à l'égard de la réclamation d'un réclamant pour laquelle la 
+       garantie a été déposée.
+
+<strong>CG43   01/10/94      Dépôt de garantie - confiscation ou remise</strong>
+
+43.1   Si
+
+       43.1.1 les <em>travaux</em> sont retirés à l'entrepreneur conformément à 
+              l'article CG38,
+
+       43.1.2 le <em>contrat</em> est résiliée en vertu de l'article CG41, ou
+
+       43.1.3 l'entrepreneur a violé ou n'a pas rempli ses engagements en 
+              vertu du <em>contrat</em>,
+
+       Sa Majesté peut s'approprier le dépôt de garantie, s'il en est.
+ 
+43.2   Si Sa Majesté s'approprie le dépôt de garantie conformément au 
+       paragraphe CG43.1, le montant obtenu en l'occurrence est censé être 
+       une dette payable à l'entrepreneur par Sa Majesté en vertu du <em>
+       contrat</em>.
+
+43.3   Tout solde du montant mentionné au paragraphe CG43.2, s'il en est, 
+       après paiement de toutes pertes, dommages ou réclamations de Sa 
+       Majesté ou quelqu'un autre, sera payé par Sa Majesté à 
+       l'entrepreneur si, dans l'opinion de l'<em>ingénieur</em>, il n'est pas 
+       requis pour les fins du <em>contrat</em>.
+
+<strong>CG44   01/01/96      Certificats de l'ingénieur</strong>
+
+44.1   Le jour
+
+       44.1.1 où les <em>travaux</em> sont achevés, et
+
+       44.1.2 où l'entrepreneur s'est conformé au <em>contrat</em> et à tous les 
+              ordres et directives donnés conformément au <em>contrat</em>,
+
+       à la satisfaction de l'<em>ingénieur</em>, l'<em>ingénieur</em> délivre à 
+       l'entrepreneur un Certificat définitif d'achèvement.
+
+44.2   Si l'<em>ingénieur</em> est convaincu que les <em>travaux</em> sont suffisamment 
+       achevés, il doit, à tout moment avant la délivrance d'un Certificat 
+       définitif d'achèvement mentionné au paragraphe CG44.1, délivrer à 
+       l'entrepreneur un Certificat provisoire d'achèvement, et
+
+       44.2.1 aux fins du paragraphe CG44.2, les <em>travaux</em> seront jugés 
+              suffisamment achevés
+
+              44.2.1.1      lorsqu'une partie considérable ou la totalité 
+                            des <em>travaux</em> visés par le <em>contrat</em> sont, de 
+                            l'avis de l'<em>ingénieur</em>, prêts à être utilisés 
+                            par Sa Majesté ou sont utilisés aux fins 
+                            prévues; et
+
+              44.2.1.2      lorsque les <em>travaux</em> qui restent à effectuer en 
+                            vertu du <em>contrat</em> peuvent, de l'avis de l'<em>
+                            ingénieur</em>, être achevés ou rectifiés à un coût 
+                            n'excédant pas
+
+                            44.2.1.2.1    3 p. 100 des premiers 500 000 $, 
+                                          et
+
+                            44.2.1.2.2    2 p. 100 des prochains 500 000 $, 
+                                          et
+
+                            44.2.1.2.3    1 p. 100 du reste
+
+              de la valeur du <em>contrat</em> au moment du calcul de ce coût.
+
+44.3   Aux fins uniquement du sous-alinéa 44.2.1.2, lorsque les <em>travaux</em> ou 
+       une partie considérable des <em>travaux</em> sont prêts à être utilisés ou 
+       sont utilisés aux fins prévues et que le reste ou une partie des <em>
+       travaux</em> ne peut être achevé dans les délais précisés au paragraphe 
+       A2.1 ou modifiés en vertu de l'article CG36 pour des raisons 
+       indépendantes de la volonté de l'entrepreneur ou, lorsque l'<em>
+       ingénieur</em> et l'entrepreneur conviennent de ne pas achever les <em>
+       travaux</em> dans les délais prescrits, le coût de la partie des <em>travaux</em> 
+       que l'entrepreneur n'à pu terminé pour des raisons indépendantes de 
+       sa volonté ou que l'<em>ingénieur</em> et l'entrepreneur ont convenu de ne 
+       pas terminer dans les délais précisés sera déduit de la valeur du <em>
+       contrat</em> mentionnée au sous-alinéa CG44.2.1.2 et ledit coût ne fera 
+       pas partie du coût des <em>travaux</em> qui restent à effectuer aux fins de 
+       la détermination de l'achèvement réel.
+
+44.4   Le Certificat provisoire d'achèvement mentionné au paragraphe CG44.2 
+       doit décrire les parties des <em>travaux</em> qui n'ont pas été achevées à la 
+       satisfaction de l'<em>ingénieur</em> et préciser tout ce que l'entrepreneur 
+       doit faire
+
+       44.4.1 avant que le Certificat définitif d'achèvement mentionné au 
+              paragraphe CG44.1 puisse être délivré, et
+
+       44.4.2 avant le début de la période de 12 mois mentionnée au 
+              paragraphe CG32.1 pour lesdites parties et toute autres 
+              choses.
+
+44.5   L'<em>ingénieur</em> peut, en plus des point indiqués dans le Certificat 
+       provisoire d'achèvement mentionné au paragraphe CG44.2, obliger 
+       l'entrepreneur à rectifier toutes autres parties des <em>travaux</em> qui 
+       n'ont pas été achevées à sa satisfaction et faire effectuer toutes 
+       autres choses nécessaires pour l'achèvement satisfaisant des <em>travaux</em>.
+
+44.6   Si le <em>contrat</em> ou l'une de ses parties a fait l'objet d'une Entente à 
+       prix unitaire, l'<em>ingénieur</em> mesure et consigne dans un registre les 
+       quantités de travail exécuté, d'<em>outillage</em> fourni par l'entrepreneur 
+       et de <em>matériaux</em> utilisés pour l'exécution des <em>travaux</em>, et informe, 
+       sur demande, l'entrepreneur au sujet de ces mesurages.
+
+44.7   L'entrepreneur aide l'<em>ingénieur</em> et coopère avec lui dans l'exécution 
+       des tâches précisées au paragraphe CG44.6 et a le droit de prendre 
+       connaissance de tout registre tenu par l'<em>ingénieur</em> suivant le 
+       paragraphe CG44.6.
+
+44.8   Une fois que l'<em>ingénieur</em> a délivré le Certificat définitif 
+       d'achèvement mentionné au paragraphe CG44.1, il doit, si le 
+       paragraphe CG44.6 s'applique, délivrer un Certificat définitif de 
+       mesurage.
+
+44.9   Le Certificat définitif de mesurage mentionné au paragraphe CG44.8
+
+       44.9.1 indique le total des mesurages mentionnées au paragraphe CG44.6, 
+              et
+
+       44.9.2 lie de façon péremptoire Sa Majesté et l'entrepreneur quant 
+              aux mesurages qui y sont consignés.
+
+<strong>CG45   01/10/94      Remise du dépôt de garantie</strong>
+
+45.1   Après la délivrance du Certificat provisoire d'achèvement mentionné 
+       au paragraphe CG44.2 et à condition que l'entrepreneur n'ait pas 
+       violé ses engagements en vertu du <em>contrat</em> ou omis de les remplir, Sa 
+       Majesté retourne à l'entrepreneur la totalité ou partie du dépôt de 
+       garantie, s'il en est, qui, de l'avis de l'<em>ingénieur</em>, n'est pas 
+       requise aux fins du <em>contrat</em>.
+
+45.2   Au moment de la délivrance du Certificat définitif d'achèvement 
+       mentionné au paragraphe CG44.1, Sa Majesté retourne à l'entrepreneur 
+       tout le solde du dépôt de sécurité, sauf stipulation contraire du <em>
+       contrat</em>.
+
+45.3   Si le dépôt de garantie a été versé au Fonds du revenu consolidé du 
+       Canada, Sa Majesté doit payer à l'entrepreneur l'intérêt sur ledit 
+       dépôt à un taux établi de temps à autre en vertu du paragraphe 21(2) 
+       de la<em> Loi sur la gestion des finances publiques.</em>
+
+<strong>CG46   01/10/94      Précision du sens des expressions figurant aux 
+                     articles CG47 à CG50</strong>
+
+46.1   Dans les articles CG47 à CG50
+
+       46.1.1 l'expression «Tableau des prix unitaires» signifie le tableau 
+              figurant dans les Articles de convention; et
+ 
+       46.1.2 l'expression «outillage» ne comprend pas les outils 
+              habituellement fournis par les hommes de métier dans 
+              l'exercice de leurs fonctions. 
+
+<strong>CG47   01/10/94      Additions ou modifications au Tableau des prix 
+                     unitaires</strong>
+
+47.1   L'<em>ingénieur</em> et l'entrepreneur peuvent convenir par écrit, lorsqu'une 
+       entente à prix unitaire s'applique au <em>contrat</em> ou à l'une de ses 
+       parties,
+
+       47.1.1 d'ajouter au Tableau des prix unitaires des catégories de 
+              travail, d'<em>outillage</em> ou de <em>matériaux</em>, des unités de mesurage, 
+              des prix par unité et des estimations de quantités lorsque 
+              certains <em>travaux</em>, <em>outillage</em> et <em>matériaux</em> devant apparaître 
+              dans le Certificat définitif de mesurage mentionné au 
+              paragraphe CG44.8 ne figurent dans aucune des catégories de 
+              travail, d'<em>outillage</em> ou de <em>matériaux</em> établies au Tableau des 
+              prix unitaires, ou
+
+       47.1.2 sous réserve des paragraphes CG47.2 et CG47.3, de modifier le 
+              prix par unité établi au Tableau des prix unitaires à l'égard 
+              d'une quelconque catégorie de travail, d'<em>outillage</em> ou de <em>
+              matériaux</em> y figurant, lorsqu'une quantité a été estimée à 
+              l'égard de cette catégorie de travail, d'<em>outillage</em> ou de <em>
+              matériaux</em>, et que le Certificat définitif de mesurage 
+              mentionné au paragraphe CG44.8 indique ou est susceptible 
+              d'indiquer que la quantité totale de cette catégorie de 
+              travail exécuté, d'<em>outillage</em> fourni ou de <em>matériaux</em> utilisés 
+              par l'entrepreneur, pour l'exécution des <em>travaux</em>, est
+
+              47.1.2.1      inférieur à 85 p.100 de la quantité estimée, ou
+
+              47.1.2.2      supérieure à 115 p.100 de la quantité estimée. 
+
+47.2   Le coût total d'un article figurant au Tableau des prix unitaires 
+       qui a été modifié conformément au sous-alinéa 47.1.2.1 ne doit, en 
+       aucun cas, excéder le montant qui aurait été payable à 
+       l'entrepreneur si la quantité totale estimative de travail avait été 
+       exécutée, la quantité totale estimative d'<em>outillage</em> avait été fourni 
+       ou la quantité totale estimative de <em>matériaux</em>, utilisés.
+
+47.3   Toute modification rendue nécessaire par le sous-alinéa CG47.1.2.2 
+       ne s'appliquera qu'aux quantités supérieures à 115 p.100.
+
+47.4   Si l'<em>ingénieur</em> et l'entrepreneur ne s'entendent pas suivant le 
+       paragraphe CG47.1, l'<em>ingénieur</em> détermine la catégorie et l'unité de 
+       mesurage du travail, de l'<em>outillage</em> et des <em>matériaux</em> et, sous 
+       réserve des paragraphes CG47.2 et CG47.3, le prix par unité est 
+       déterminé conformément à l'article CG50. 
+
+<strong>CG48   01/10/94      Établissement du coût - Tableau des prix unitaires</strong>
+
+48.1   Chaque fois qu'il est nécessaire, aux fins du <em>contrat</em>, d'établir le 
+       coût du travail, de l'<em>outillage</em> et des <em>matériaux</em>, on multiplie la 
+       quantité de ce travail de cet <em>outillage</em> ou de ces <em>matériaux</em>, 
+       exprimée par l'unité énoncée à la colonne 3 du Tableau des prix 
+       unitaires, par le prix énoncé en regard de cette unité à la colonne 
+       5 du Tableau des prix unitaires.
+
+<strong>CG49   01/01/96      Établissement du coût avant la réalisation des travaux 
+                     - Somme globale</strong>
+
+49.1   Si le mode d'établissement du coût prévu à l'article CG48 ne peut 
+       être utilisé parce que le genre ou la catégorie de travail, d'<em>
+       outillage</em> et de <em>matériaux</em> en cause ne figurent pas au Tableau des 
+       prix unitaires, le coût du travail, de l'<em>outillage</em> ou des <em>matériaux</em>, 
+       aux fins du <em>contrat</em> est le montant convenu de temps à autre entre 
+       l'entrepreneur et l'<em>ingénieur</em>.
+
+49.2   Aux fins du paragraphe CG49.1, l'entrepreneur remet à l'<em>ingénieur</em> 
+       lorsque ce dernier le requiert, tout renseignement nécessaire sur ce 
+       qu'il lui en coûte en travail, <em>outillage</em> et <em>matériaux</em> mentionnés au 
+       paragraphe CG49.1.
+
+<strong>CG50   01/01/96      Établissement du coût après la réalisation des travaux</strong>
+
+50.1   S'il est impossible d'établir au préalable le coût lié à une 
+       modification, y compris celui des éléments non indiqués dans le 
+       Tableau des prix unitaires, le coût réel de la modification sera 
+       égal à l'ensemble des montants suivants :
+
+       50.1.1 tous les montants justes et raisonnables effectivement 
+              dépensés ou légalement payables par l'entrepreneur pour le 
+              travail, l'<em>outillage</em> et les <em>matériaux</em> couverts par une des 
+              catégories de dépenses prévues au paragraphe CG50.2, qui sont 
+              directement attribuables à l'exécution du <em>contrat</em>,
+
+       50.1.2 une somme égale à 10 p.100 du total des dépenses de 
+              l'entrepreneur mentionnées à l'alinéa CG50.1.1, correspondant 
+              a la partie des <em>travaux</em> réalisés par l'entrepreneur, et une 
+              somme égale à 10 p.100 pour la partie des <em>travaux</em> réalisés 
+              par les<em> sous-traitants</em>, représentant une indemnité pour 
+              profit et pour tous les autres coûts et dépenses, incluant 
+              les frais généraux, les frais d'administration, les frais de 
+              financement et les intérêts et tous les autres frais ou 
+              dépenses, mais non les coûts et dépenses mentionnés à 
+              l'alinéa CG50.1.1 ou CG50.1.3 ou pour une catégorie 
+              mentionnée au paragraphe CG50.2, et
+
+       50.1.3 l'intérêt sur les coûts déterminés en vertu des alinéas CG50.1.1 
+              et CG50.1.2, intérêt qui sera calculé conformément à 
+              l'article MP9,
+
+       pourvu que le coût total d'un article figurant au tableau des prix 
+       unitaires, auquel s'appliquent les dispositions de l'alinéa CG47.1.2.1, 
+       n'est pas supérieur au montant qui aurait été payable à 
+       l'entrepreneur si la quantité total dudit article aurait été 
+       effectivement produite, utilisée ou fournie.
+
+50.2   Aux fins de l'alinéa CG50.1.1, les catégories de dépenses 
+       admissibles dans l'établissement du coût du travail, de l'outillage 
+       et des <em>matériaux</em>, sont:
+
+       50.2.1 les paiements faits aux <em>sous-traitant</em>s;
+
+       50.2.2 les traitements, salaires et frais de voyage versés aux 
+              employés de l'entrepreneur affectés à l'emplacement des <em>
+              travaux</em>, ainsi que la portion des traitements, salaires, 
+              gratifications, frais de subsistance et de voyage des 
+              employés de l'entrepreneur occupés généralement au siège 
+              social ou à un bureau général de l'entrepreneur, à la 
+              condition qu'ils soient affectés, proprement dit, à 
+              l'exécution des <em>travaux</em> prévus dans le <em>contrat</em>;
+
+       50.2.3 les cotisations exigibles en vertu d'un texte statutaire, ce 
+              qui comprend mais n'exclut pas les indemnisations des 
+              accidents du travail, l'assurance-chômage, le régime de 
+              retraite, les congés rémunérés et les régimes de soins de 
+              santé ou d'assurance des provinces;
+
+       50.2.4 les frais de location d'<em>outillage</em> ou un montant équivalent 
+              aux frais de location si l'<em>outillage</em> appartient à 
+              l'entrepreneur qui était nécessaire et qui a été utilisé pour 
+              l'exécution des <em>travaux</em>, à condition que lesdits frais ou la 
+              somme équivalente soient raisonnables et que l'utilisation 
+              dudit <em>outillage</em> ait été approuvée par l'<em>ingénieur</em>;
+
+       50.2.5 les frais d'entretien et de fonctionnement de l'<em>outillage</em> 
+              nécessaire à l'exécution des <em>travaux</em> et des frais de 
+              réparation à tel <em>outillage</em> qui, de l'avis de l'<em>ingénieur</em>, 
+              sont nécessaires à la bonne exécution du <em>contrat</em>, à 
+              l'exclusion de toutes réparations provenant de défauts 
+              existant avant l'affectation de l'<em>outillage</em> aux <em>travaux</em>;
+ 
+       50.2.6 les paiements relatifs aux <em>matériaux</em> nécessaires et 
+              incorporés aux <em>travaux</em>, ou nécessaires à l'exécution du <em>
+              contrat</em> et utilisés à cette fin;
+
+       50.2.7 les paiements relatifs à la présentation, à la livraison, à 
+              l'utilisation, à l'érection, à l'installation, à l'inspection, 
+              à la protection et à l'enlèvement de l'<em>outillage</em> et des <em>
+              matériaux</em> nécessaires à l'exécution du <em>contrat</em> et utilisés à 
+              cette fin;
+
+       50.2.8 tout autre paiement fait par l'entrepreneur avec 
+              l'approbation de l'<em>ingénieur</em> et nécessaire à l'exécution du <em>
+              contrat</em>.
+
+<strong>CG51   01/10/94      Registres à tenir par l'entrepreneur</strong>
+
+51.1   L'entrepreneur
+
+       51.1.1 tient des registres complets du coût estimatif et réel des <em>
+              travaux</em>, des appels d'offres, des prix cotés, des <em>contrat</em>s, 
+              de la correspondance, des factures, des reçus et des pièces 
+              justificative s'y rapportant;
+
+       51.1.2 met à la disposition du <em>Ministre</em> et du Sous-receveur général 
+              du Canada ou des personnes qu'ils délèguent pour vérification 
+              et inspection tous les documents mentionnés à l'alinéa CG51.1.1;
+
+       51.1.3 permet à toutes personnes mentionnées à l'alinéa 51.1.2 de 
+              faire des copies ou extraits de tous registres et documents 
+              mentionnés à l'alinéa CG51.1.1; et
+
+       51.1.4 fournit aux personnes mentionnées à l'alinéa CG51.1.2 tous 
+              les renseignements qu'elles peuvent exiger de temps à autre 
+              au sujet de ces registres et documents.
+
+51.2   Les registres tenus par l'entrepreneur conformément à l'alinéa CG51.1.1, 
+       sont conservés intact pendant deux ans à compter de la date de la 
+       délivrance du Certificat définitif d'achèvement mentionné au 
+       paragraphe CG44.1, ou jusqu'à l'expiration de toute autre période 
+       que le <em>Ministre</em> peut fixer.
+
+51.3   L'entrepreneur oblige tous sous-traitants, et toutes autres 
+       personnes qu'il contrôle directement ou indirectement ou qui lui 
+       sont affiliés, de même que toutes personnes qui contrôlent 
+       l'entrepreneur directement ou indirectement, à se conformer aux 
+       paragraphes CG51.1 et CG51.2 comme s'ils étaient l'entrepreneur.
+
+<strong>CG52   01/01/96      Conflits d'intérêts</strong>
+
+52.1   Il est entendu qu'une personne assujettie aux dispositions relatives 
+       à l'après-mandat du Code régissant la conduite des titulaires de 
+       charge publique en ce qui concerne les conflits d'intérêts et 
+       l'après-mandat (1994) ou du Code régissant les conflits d'intérêts 
+       et l'après-mandat s'appliquant à la fonction publique (1985) ne peut 
+       bénéficier directement du présent <em>contrat</em>, à moins que cette 
+       personne ne se conforme aux dispositions applicables concernant 
+       l'après-mandat.
+
+<strong>CG53   01/10/94      Situation de l'entrepreneur</strong>
+
+53.1   L'entrepreneur sera retenu en vertu du <em>contrat</em> à titre 
+       d'entrepreneur indépendant.
+
+53.2   L'entrepreneur et tout employé dudit entrepreneur n'est pas retenu 
+       en vertu du <em>contrat</em> à titre d'employé, d'agent ou de mandataire de 
+       Sa Majesté.
+
+53.3   Aux fins des paragraphes CG53.1 et CG53.2, l'entrepreneur sera à lui 
+       seul responsable de tous les paiements et de toutes les retenues 
+       exigées par la loi, y compris ceux exigés par le Régime de pensions 
+       du Canada, le Régime des rentes du Québec, l'assurance-chômage, les 
+       accidents du travail ou l'impôt sur le revenu.
+
+<strong>CG54   01/01/96      Restes humains, vestiges archéologiques et objets 
+                     présentant un intérêt historique ou scientifique</strong>
+
+54.1   Les définitions qui suivent s'appliquent à la présente clause.
+
+       54.1.1 «restes humains» : La totalité ou une partie d'un cadavre 
+              humain, peu importe le temps écoulé depuis le décès.
+
+       54.1.2 «vestiges archéologiques» : Pièces, artefacts ou objets 
+              façonnés, modifiés ou utilisés par des êtres humains dans le 
+              passé, pouvant notamment comprendre des structures ou des 
+              monuments en pierre, en bois ou en fer, des objets jetés aux 
+              ordures, des ossements façonnés, des armes, des outils, des 
+              pièces de monnaie et des poteries.
+
+       54.1.3 «objets présentant un intérêt historique ou scientifique» : 
+              Objets ou choses d'origine naturelle ou artificielle de toute 
+              époque qui ne sont pas des vestiges archéologiques mais qui 
+              peuvent présenter un certain intérêt pour la société en 
+              raison de leur importance historique ou scientifique, de leur 
+              valeur, de leur rareté, de leur beauté naturelle ou de 
+              quelque autre qualité.
+
+54.2   Si, au cours des <em>travaux</em>, l'entrepreneur découvre quelque objet, 
+       pièce ou chose que décrit la clause CG54.1 ou qui ressemble à tout 
+       objet, pièce ou chose décrit par la clause CG54.1, il doit 
+
+       54.2.1 prendre toutes les mesures raisonnables nécessaires, y 
+              compris ordonner l'arrêt des <em>travaux</em> dans la zone visée, pour 
+              les protéger et les préserver;
+
+       54.2.2 aviser immédiatement l'<em>ingénieur</em> de la situation, par écrit;
+
+       54.2.3 prendre toutes les mesures raisonnables nécessaires pour 
+              réduire les coûts supplémentaires que pourrait entraîner tout 
+              arrêt des <em>travaux</em>.
+
+54.3   Dès la réception d'un avis transmis conformément à la clause CG54.2.2, 
+       l'<em>ingénieur</em> doit, en temps utile, déterminer si l'objet, la pièce ou 
+       la chose correspond à la description donnée à la clause CG54.1 ou 
+       s'il est visé par elle, et indiquer par écrit à l'entrepreneur les 
+       actions ou les <em>travaux</em> à entreprendre par suite de sa décision. 
+
+54.4   L'<em>ingénieur</em> peut en tout temps retenir les services d'experts, en 
+       particulier d'archéologues ou d'historiens lorsque cela est utile, 
+       pour l'aider à mener à bien la recherche, l'examen, la prise de 
+       mesures ou l'enregistrement d'autres données, la mise en place de 
+       dispositifs permanents de protection ou le déplacement de l'objet, 
+       de la pièce ou de la chose découvert par l'entrepreneur, de même que 
+       la surveillance à assurer quant à la possibilité de découvertes 
+       subséquentes; l'entrepreneur doit, à la satisfaction de l'<em>ingénieur</em>, 
+       leur permettre l'accès au lieu et collaborer avec eux à 
+       l'accomplissement de leurs tâches et de leurs obligations.
+
+54.5   Les restes humains, les vestiges archéologiques et les objets 
+       présentant un intérêt historique ou scientifique demeurent la 
+       propriété de Sa Majesté.
+
+54.6   Sauf stipulation contraire du <em>contrat</em>, les dispositions de la clause 
+       CG30 s'appliquent.
+
+<strong>CG55   01/01/96      État de site contaminé</strong>
+ 
+55.1   Pour les fins de la présente clause, il y a état de site contaminé 
+       lorsque des substances ou des <em>matériaux</em> toxiques, radioactifs ou 
+       dangereux, ou d'autres polluants se trouvent sur les lieux des <em>
+       travaux</em> en quantité ou en concentration assez élevée pour constituer 
+       un danger, réel ou potentiel, pour l'environnement, les biens ou la 
+       santé et la sécurité de toute <em>personne</em>.
+
+55.2   Si l'entrepreneur constate un état de site contaminé ou a des motifs 
+       raisonnables de croire à l'existence d'un état de site contaminé sur 
+       les lieux des <em>travaux</em>, il doit
+
+       55.2.1 prendre toutes les mesures raisonnables, y compris ordonner 
+              l'arrêt des <em>travaux</em>, afin d'éviter que cet état de site 
+              contaminé n'entraîne quelque blessure, maladie ou décès, ou 
+              dégradation des biens ou de l'environnement;
+
+       55.2.2 aviser immédiatement l'<em>ingénieur</em> de la situation, par écrit;
+
+       55.2.3 prendre toutes les mesures raisonnables nécessaires pour 
+              réduire les coûts supplémentaires que pourrait entraîner tout 
+              arrêt des <em>travaux</em>.
+
+55.3   Dès la réception d'un avis transmis conformément à la clause CG55.2.2, 
+       l'<em>ingénieur</em> doit, en temps utile, déterminer s'il existe un état de 
+       site contaminé qui correspond à la description donnée à la clause 
+       CG55.1 ou qui est visé par elle, et indiquer par écrit à 
+       l'entrepreneur les actions ou <em>travaux</em> à entreprendre par suite de sa 
+       décision.
+
+55.4   Si l'<em>ingénieur</em> juge nécessaire de retenir ses services, 
+       l'entrepreneur doit suivre les directives que lui donnera l'<em>
+       ingénieur</em> quant à l'excavation, au traitement et à la façon de 
+       disposer des substances ou <em>matériaux</em> contaminés.
+
+55.5   L'<em>ingénieur</em> peut, en tout temps et à son entière discrétion, retenir 
+       les services d'experts et d'entrepreneurs spécialisés pour l'aider à 
+       déterminer l'existence et l'ampleur de la contamination de même que 
+       le traitement approprié à donner; l'entrepreneur doit, à la 
+       satisfaction de l'<em>ingénieur</em>, leur permettre l'accès au lieu et 
+       collaborer avec eux à l'accomplissement de leurs tâches et de leurs 
+       obligations.
+
+55.6   Sauf stipulation contraire du <em>contrat</em>, les dispositions de la clause 
+       CG30 s'appliquent.
+
+<strong>CG56   01/01/96      Attestation - honoraires conditionnels</strong>
+
+56.1   L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, 
+       directement ou indirectement, et s'engage à ne pas verser, 
+       directement ni indirectement, des honoraires conditionnels en 
+       rapport à la négociation ou à l'obtention du présent <em>contrat</em> ou en 
+       rapport à toute demande ou démarche reliée au présent <em>contrat</em>, à 
+       aucune <em>personne</em> autre qu'un employé remplissant les fonctions 
+       habituelles liées à son poste.
+
+56.2   Tous les comptes et dossiers concernant le versement d'honoraires ou 
+       de toute autre rémunération en rapport à l'obtention ou à la 
+       négociation du <em>contrat</em>, ou en rapport à toute demande ou démarche 
+       reliée au <em>contrat</em>, seront assujettis aux dispositions du <em>contrat</em> 
+       portant sur les comptes et la vérification.
+
+56.3   Si l'entrepreneur fait une fausse déclaration aux termes de la 
+       présente section ou ne respecte pas les obligations précisées dans 
+       le présent document, le <em>Ministre</em> pourra soit retirer à 
+       l'entrepreneur les <em>travaux</em> qui lui avaient été confiés conformément 
+       aux dispositions du <em>contrat</em>, soit recouvrer, de l'entrepreneur, par 
+       une réduction du prix du <em>contrat</em> ou autrement, le montant total des 
+       honoraires conditionnels.
+
+56.4   Les définitions suivantes s'appliquent à la présente section : 
+       56.4.1 «<strong>honoraires conditionnels</strong>» : Tout paiement, ou autre forme de 
+              rémunération, qui est subordonné au degré de succès ou 
+              calculé en fonction du degré de succès obtenu en rapport à 
+              l'obtention d'un <em>contrat</em> gouvernemental, à la négociation 
+              d'une partie ou de la totalité des conditions de ce marché ou 
+              à toute demande ou démarche reliée à ce marché.
+
+       56.4.2 «<strong>employé(e)</strong>» : Toute <em>personne</em> avec qui l'entrepreneur a une 
+              relation d'employeur à employé;
+
+       56.4.3 «<strong>personne</strong>» : Comprend un particulier ou un groupe, une 
+              corporation, une société, une organisation et une association 
+              et, sans limiter la portée générale de ce qui précède, tout 
+              particulier qui est tenu de fournir au directeur une 
+              déclaration en vertu de l'article 5 de la <em>Loi concernant 
+              l'enregistrement des lobbyistes</em>, L.R.C. (1985), ch. 44 (4e 
+              suppl.), et de toute modification qui pourrait lui être 
+              apportée de temps à autre.
+
+</pre>
+</div>

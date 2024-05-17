@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause when the bid solicitation will include certifications.
+
+Use the following clause only if the medium complexity (2T-MED1) and higher 
+complexity (2T-HIGH1) templates are not used.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Compliance with the certifications bidders provide to Canada is
+subject to verification by Canada during the bid evaluation period
+(before award of a contract) and after contract award. The
+Contracting Authority will have the right to ask for additional
+information to verify bidders' compliance with the certifications
+before award of a contract. The bid will be declared non-responsive
+if any certification made by the Bidder is untrue, whether made
+knowingly or unknowingly. Failure to comply with the certifications
+or to comply with the request of the Contracting Authority for
+additional information will also render the bid non-responsive.</p>
+</div></pre>
+</div>

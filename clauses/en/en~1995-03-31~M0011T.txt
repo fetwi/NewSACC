@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause to determine the capabilities of the offeror for evaluation 
+purposes.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Offeror agrees that, for the purpose of evaluating their offer, 
+representatives of Canada may conduct, as deemed necessary, a survey of 
+their facilities, their technical capabilities, and their financial status, 
+to determine if they are adequate to ensure the proper performance of any 
+work described herein. The Offeror hereby agrees to make their facilities 
+available for this purpose.
+
+</pre>
+</div>

@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts if the contractor is required to keep the 
+foreground information confidential for a specific period of time following the 
+performance of the contract. This clause would be suitable where the client 
+department wishes to give the intellectual property rights to the contractor but 
+wishes to prevent publishing and to restrict disclosure of that information for 
+a period of time for security or other reasons.
+ </p>
+<p>
+  Use this clause in conjunction with supplemental general conditions
+  
+   4006
+  
+  or 
+general conditions
+  
+   2040
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor, during the performance of the Contract and for a
+period of <var>_____</var> months after the Contract, must keep
+confidential and must not publish or otherwise disclose to any
+person any Foreground Information, except as may be necessary to
+perform the Work under the Contract. The Contractor must impose the
+same obligation of confidentiality on any person to whom the
+information is disclosed to perform the Work.</p>
+</div></pre>
+</div>

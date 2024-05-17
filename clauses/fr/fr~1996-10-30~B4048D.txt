@@ -1,0 +1,88 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les essais sur les premiers articles et leur 
+approbation, afin de s'assurer que l'entrepreneur pourra livrer des produits 
+satisfaisants et conformes à toutes les exigences contractuelles.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit effectuer l'ensemble des travaux d'inspection et 
+       d'essai des premiers articles pour vérifier qu'ils sont conformes 
+       aux exigences précisées, avant d'en entreprendre la production.
+
+2.     L'entrepreneur doit fournir une copie de la méthode proposée pour 
+       les essais des premiers articles à l'autorité contractante qui, en 
+       collaboration avec le responsable de la conception ou le responsable 
+       technique (RC/RT), doit l'approuver avant le début des essais.  La 
+       méthode d'essai doit parvenir à l'autorité contractante dans le 
+       délai de ____ jours à partir de la date d'entrée en vigueur du 
+       contrat.  L'autorité contractante doit signifier à l'entrepreneur 
+       par écrit, dans le délai de ____ jours de la réception de cette 
+       méthode, l'approbation ou le rejet de la méthode à appliquer pour 
+       les essais portant sur les premiers articles.  Ces essais ne devront 
+       pas être effectués tant que le responsable technique n'aura pas 
+       signifié l'approbation de la méthode relative à l'essai des premiers 
+       articles.
+
+3.     L'entrepreneur doit soumettre à des essais les premiers articles de ____ 
+       (nom de l'article livrable complet).  Les données d'essai soumises 
+       pour approbation doivent être vérifiées à la satisfaction du 
+       représentant de l'assurance de la qualité (RAQ).
+
+4.     Les données portant sur les premiers articles ou les essais de ces 
+       premiers articles, selon les modalités des présentes, ainsi que la 
+       justification pertinente de la vérification effectuée par le RAQ, 
+       doivent être adressées à l'autorité contractante, pour approbation, 
+       dans le délai de ____ jours à partir de la date d'entrée en vigueur 
+       du contrat.  L'autorité contractante doit signifier par écrit à 
+       l'entrepreneur, dans un délai de ____ jours de la réception de la 
+       méthode, l'approbation ou le rejet des premiers articles.  S'il 
+       reçoit un avis d'approbation, l'entrepreneur n'est pas pour autant 
+       dispensé de son obligation de respecter toutes les exigences du 
+       contrat.  L'avis d'approbation peut être accompagné de conditions 
+       portant sur les nouvelles mesures à prendre par l'entrepreneur.  
+       L'avis de rejet doit préciser les motifs du rejet.
+
+5.     L'entrepreneur qui commence à produire les articles avant 
+       l'acceptation des premiers articles par le Canada le fait à ses 
+       risques.
+
+6.     Sauf indication contraire dans le contrat, l'entrepreneur peut 
+       livrer un premier article approuvé dans le cadre des articles 
+       livrables complets s'il respecte toutes les exigences du contrat 
+       pour ce qui est de son acceptation.
+
+7.     Si le premier article ou le rapport d'essai afférent est rejeté, 
+       l'entrepreneur doit, sur demande, reprendre tous les essais sur les 
+       premiers articles.  Après chaque demande d'essai supplémentaire, 
+       l'entrepreneur doit soit apporter aux premiers articles les 
+       changements, modifications ou réparations nécessaires, soit choisir 
+       un autre premier article à soumettre à des essais.  L'entrepreneur 
+       doit ensuite livrer d'autres premiers articles ou un autre rapport 
+       d'essai des premiers articles au Canada dans le délai de ____ jours 
+       de cette demande.  Tous les frais relatifs à ces essais doivent être 
+       à la charge de l'entrepreneur.
+
+8.     Si l'entrepreneur ne livre pas les premiers articles ou ne dépose le 
+       rapport d'essai afférent au plus tard à la date d'échéance fixée, ou 
+       que les premiers articles ou le rapport d'essai afférent sont 
+       rejetés, on considérera qu'il n'a pas respecté la date d'échéance de 
+       livraison et qu'il est en défaut en vertu du contrat.
+
+9.     Dans cette clause sur l'essai des premiers articles, on entend par :
+
+       «<strong>approbation</strong>» : l'avis écrit adressé à l'entrepreneur pour lui faire 
+       savoir qu'on accepte les premiers articles ou les données d'essai 
+       afférentes parce qu'ils sont conformes aux exigences contractuelles 
+       précisées.
+
+       «<strong>premier article</strong>» : un modèle ou un échantillon d'avant-production, 
+       un premier échantillon de production, un échantillon d'essai, un 
+       premier lot, un lot témoin ou un modèle témoin.
+
+       «<strong>essai des premiers articles</strong>» : l'essai et l'évaluation des premiers 
+       articles pour s'assurer qu'ils sont conformes aux exigences 
+       contractuelles, avant la production ou au cours de la première étape 
+       de la production.
+
+</pre>
+</div>

@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence 
+when the work under the contract is for the calibration or testing of equipment.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>In the performance of the Work described in the Contract, the
+Contractor must conform to the requirements of:</p>
+<p><cite>ISO/IEC 17025:2017 General requirements for the competence of
+testing and calibration laboratories.</cite></p>
+<p>The Contractor's quality management system must address each
+requirement contained in the standard, however, the Contractor is
+not required to be registered to the applicable standard.</p>
+<h3>Assistance for Government Quality Assurance (GQA)</h3>
+<p>The Contractor must provide the Quality Assurance Representative
+(QAR) with the accommodation and facilities required for the proper
+accomplishment of <abbr title="Government Quality Assurance">GQA</abbr> and must provide any assistance required by
+the <abbr title="Quality Assurance Representative">QAR</abbr> for evaluation, verification, validation, documentation or
+release of product.</p>
+<p>The <abbr title="Quality Assurance Representative">QAR</abbr> must have the right of access to any area of the
+Contractor's or subcontractor's facilities where any part of the
+Work is being performed. The <abbr title="Quality Assurance Representative">QAR</abbr> must be afforded unrestricted
+opportunity to evaluate and verify Contractor conformity with
+Quality System procedures and to validate product conformity with
+the requirements of the Contract. The Contractor must make
+available for reasonable use by the <abbr title="Quality Assurance Representative">QAR</abbr> the equipment necessary for
+all validation purposes. Contractor personnel must be made
+available for operation of such equipment as required.</p>
+<p>When the <abbr title="Quality Assurance Representative">QAR</abbr> determines that <abbr title="Government Quality Assurance">GQA</abbr> is required at a
+subcontractor's facilities, the Contractor must provide for this in
+the purchasing document and forward copies to the <abbr title="Quality Assurance Representative">QAR</abbr>, together
+with relevant technical data as the <abbr title="Quality Assurance Representative">QAR</abbr> may request.</p>
+<p>The Contractor must notify the <abbr title="Quality Assurance Representative">QAR</abbr> of non-conforming product
+received from a Subcontractor when the product has been subject to
+<abbr title="Government Quality Assurance">GQA</abbr>.</p>
+</div></pre>
+</div>

@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le pilote en chef doit avoir dirigé un aéronef à voilure tournante durant 
+au moins 1000 heures, y compris 500 heures en tant que pilote en chef du 
+type spécifié, et 250 heures dans des régions semblables à celles où auront 
+lieu les opérations précisées dans le contrat.
+
+Lorsque l'Affréteur le demande, le Transporteur fournira des documents à 
+l'appui d'une telle expérience sous la forme d'une déclaration écrite.
+
+Si, à quelque moment que ce soit au cours des opérations, l'affréteur croit 
+que l'un ou l'autre des membres de l'équipage de l'aéronef ou de l'équipe 
+d'entretien ne donne pas satisfaction pour des raisons de sécurité ou 
+autres, l'affréteur doit en informer le transporteur par écrit et celui-ci 
+retirera le personnel concerné. L'aéronef en cause sera considéré comme 
+hors de service jusqu'à ce qu'un personnel satisfaisant soit affecté aux 
+opérations.  L'affréteur doit informer ASC du problème relatif à l'équipage 
+et le transporteur doit informer ASC des mesures correctives apportées.
+
+L'incompétence et/ou l'inexpérience du personnel, quant à l'exploitation et 
+l'entretien de l'aéronef dans le cadre des services ordinaires, seront 
+cause qu'on le considérera comme non-satisfaisant, sans toutefois limiter 
+la cause aux deux critères précités.
+
+</pre>
+</div>

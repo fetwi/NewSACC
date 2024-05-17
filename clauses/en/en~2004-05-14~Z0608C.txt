@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the incoming Foreign (US) Requisition/Contract 
+specifies government inspection at plant (identified as FAR 52.246, MIL-I-45208, 
+MIL-Q-9859, AQAP 110, AQAP 120, AQAP 130, AQAP 131, AQAP 150, ISO 9001, ISO 
+9002, and/or ISO 9003.
+
+Insert the appropriate quality standard as stated in the foreign (US) 
+Requisition/Contract number into the CCC contract.  Insert the name of the city 
+and the National Defence Quality Assurance Region telephone number nearest to 
+the contractor's address:
+
+Atlantic - Halifax		(902) 427-7224 or (902) 427-7150
+Quebec - Montreal		(514) 732-4410 or (514) 732-4477
+Quebec - Quebec City	(418) 694-5998, ext. 5996
+National Capital - Ottawa	(819) 994-1879
+Ontario - Toronto		 (416) 635-4404, ext. 6081 or 6075
+Ontario - London		(519) 964-5757
+Manitoba/Saskatchewan - Winnipeg	(204) 833-2500, ext. 6574
+Alberta - Calgary		(403) 410-2320, ext. 3830
+Alberta - Edmonton		(780) 890-6348
+Vancouver			(604) 225-2520, ext. 2460
+Victoria			(250) 363-5409
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     All work shall be subject to Government Quality Assurance (GQA) at 
+       the Contractor's facility or that of the subcontractor (s) by the 
+       Department of National Defence (DND), Director General - Equipment 
+       Program Services designated Quality Assurance Representative (QAR).  
+       Within forty-eight (48) hours of receipt of this Contract, the 
+       Contractor shall make arrangements with the DND Quality Assurance 
+       Representative who normally services its plant.  The name, location 
+       and telephone number of the QAR may be obtained from the National 
+       Defence Quality Assurance Region, ________ (<strong>Insert name of city</strong>); at ________, 
+       (<strong>Insert telephone number</strong>).
+
+2.     The Contractor shall comply with the requirements of quality 
+       standard: _____.
+
+
+
+</pre>
+</div>

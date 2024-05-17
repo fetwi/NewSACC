@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations when bidders are to indicate where the substantial information for specific sections of the bid solicitation can be found to assist the evaluation team in its evaluation of the technical bid.
+ </p>
+<p>
+  Contracting officers must clearly identify in this clause which requirements must be substantiated by the bidders.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Bidders must demonstrate their compliance with the following
+sections of the bid solicitation by providing substantial
+information describing completely and in detail how the requirement
+is met or addressed. Bidders must provide with their technical bid,
+a document indicating clearly where the substantial information for
+each of the sections identified below can be found.</p>
+<p><var>_____________________</var></p>
+<p><var>____________________</var></p>
+<p><var>_____________________</var></p>
+</div></pre>
+</div>

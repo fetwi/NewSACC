@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for the purchase of milk or cream when 
+prices are subject to adjustment to reflect the actual minimum wholesale prices 
+for milk established by the provincial Milk Marketing Board.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The prices detailed in the Contract are subject to adjustment to reflect 
+the actual minimum wholesale prices for milk established by the provincial 
+Milk Marketing Board.  A copy of the Contractor's notification of price 
+adjustment from the provincial Milk Marketing Board must be provided to the 
+Contracting Authority.
+
+The Contract will be amended to reflect the actual price of the adjustment 
+at time of delivery.  The Contractor must not invoice at prices other than 
+those specified in the Contract.
+
+
+</pre>
+</div>

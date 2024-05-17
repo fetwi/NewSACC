@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante lorsque le contrat éventuel qui fait partie de la 
+demande de soumissions contient une des clauses
+ 
+  B4007C
+ 
+ pour incorporer un énoncé 
+des travaux dans le contrat.  Par ailleurs, utiliser la clause
+ 
+  B4008T
+ 
+ lorsque le 
+contrat éventuel fait référence à un besoin.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les travaux à exécuter sont décrits en
+détail à l'article <var>______</var> des clauses du
+contrat éventuel. <span class="description">(<strong><em>L'agent de négociation des
+contrats doit insérer le numéro de l'article qui fait
+référence à la clause <span class="clauseRef">B4007C</span></em></strong>.)</span></p>
+</div></pre>
+</div>

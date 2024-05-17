@@ -1,0 +1,58 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque le formulaire PWGSC-TPSGC 
+1111 est exigé pour verser des paiements progressifs ou par étapes et aucun 
+document à l'appui n'est exigé avec la réclamation.
+
+Voir la clause H3022C lorsque des documents à l'appui doivent être présentés 
+avec la réclamation.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit soumettre une réclamation de paiement progressif 
+       en utilisant le formulaire PWGSC-TPGSC 1111 qui est disponible à 
+       l'adresse suivante : http://www.pwgsc.gc.ca/acquisitions/text/forms/
+       pdf/1111.pdf
+
+       Chaque réclamation doit présenter :
+
+       a)     toute l'information exigée sur le formulaire PWGSC-TPSGC 1111;
+       b)     toute information pertinente détaillée à l'article intitulé «
+               Présentation des factures » des conditions générales;
+
+<span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats </strong></span><span class="wsInlineRemark">: Insérer toute 
+information additionnelle qui doit être présentée et qui n'est pas couverte 
+sous a) ou b) ci-dessus pour refléter le besoin.  Ce qui suit est à titre 
+d'exemples seulement</span>.
+
+       a)     une liste de toutes les dépenses;
+       b)     les dépenses plus le bénéfice ou les honoraires calculés au 
+              prorata;
+       c)     la description et la valeur de l'étape réclamée selon la 
+              description au contrat.
+
+2.     La taxe sur les produits et les services (TPS) ou la taxe de vente 
+       harmonisée (TVH), selon le cas, doit être calculée pour le montant 
+       total de la réclamation, avant l'application de la retenue.  Au 
+       moment de la réclamation de la retenue, il n'y aura pas de TPS/TVH à 
+       payer car celle-ci a été réclamée et est payable sous les 
+       réclamations de paiement progressifs précédentes.
+
+3.     L'entrepreneur doit préparer et certifier un original et deux (2) 
+       copies de la réclamation sur le formulaire PWGSC-TPSGC 1111, et les 
+       envoyer au <span class="wsStyleUnderline">                  </span> (<strong><em>insérer</em></strong><span class="wsInlineRemark"> « chargé de projet » </span><strong><em>ou</em></strong><span class="wsInlineRemark"> « 
+       responsable de l'inspection » </span><strong><em>ou</em></strong><span class="wsInlineRemark"> « responsable technique </span>») 
+       identifié sous l'article intitulé « Responsables » du contrat pour 
+       fin d'attestation après l'inspection et l'acceptation des travaux.
+
+       Le <span class="wsStyleUnderline">                  </span> (<strong><em>insérer</em></strong><span class="wsInlineRemark"> « chargé de projet » </span><strong><em>ou</em></strong><span class="wsInlineRemark"> « responsable 
+       de l'inspection » </span><strong><em>ou</em></strong><span class="wsInlineRemark"> « responsable technique </span>») fera parvenir 
+       l'original et les deux (2) copies de la réclamation à l'autorité 
+       contractante pour attestation et présentation au Bureau du 
+       traitement des paiements pour toutes autres attestations et 
+       opérations de paiement.
+
+4.     L'entrepreneur ne doit pas soumettre de réclamations avant que les 
+       travaux identifiés sur la réclamation sont complétés.
+
+
+</pre>
+</div>

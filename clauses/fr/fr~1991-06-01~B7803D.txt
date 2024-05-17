@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Voir la directive 3002 du GPA pour l'emploi de la clause suivante. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La quantité spécifiée n'est qu'une approximation des besoins avancés de 
+   bonne foi.  Le Canada ne sera pas obligé d'accepter la marchandise aux 
+   quantités maximums spécifiées, mais aura le droit de n'accepter que les 
+   quantités qui seront effectivement requises. 
+</pre>
+</div>

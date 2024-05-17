@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le document et le travail, etc. sont 
+classés.  Remplir la classification qui s'applique conformément à la Liste de 
+contrôle des exigences en matière de sécurité, tel que RÉSERVÉ, CONFIDENTIEL, 
+SECRET ou ULTRA-SECRET.  La Direction de la sécurité demande que cette clause 
+soit le premier article dans le contrat.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent document est classé _____.  Le présent contrat, le travail, les 
+services, l'équipement et (ou) le matériel visés par le présent contrat 
+sont classés conformément à la Liste de contrôle des exigences en matière 
+de sécurité.  Nous attirons donc votre attention sur les dispositions 
+intitulées "Secret et protection de l'ouvrage" des Conditions générales qui 
+font partie du présent Contrat et sur les "Instructions à l'intention des 
+entrepreneurs pour la protection des documents et travaux" (formule DSS-MAS 
+1055), dont vous possédez un exemplaire.
+
+</pre>
+</div>

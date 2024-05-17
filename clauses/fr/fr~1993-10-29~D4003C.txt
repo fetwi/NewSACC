@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans des contrats conclus avec des fournisseurs 
+situés en Californie lorsque le Canada ne devient propriétaire du produit qu'à 
+la livraison. Cette clause doit être utilisée conjointement avec les clauses 
+C2002C et K9010C.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les biens visés dans le présent contrat doivent être livrés au transporteur 
+public, FAB usine de l'entrepreneur, __________, Californie; toutefois, si 
+le Ministre le demande expressément, les biens seront livrés au transport 
+du gouvernement canadien FAB _______, Californie.
+
+Les biens devront être expédiés aux destinataires et aux endroits à 
+l'extérieur des États-Unis d'Amérique indiqués au point _____ précité. Le 
+Canada deviendra propriétaire des biens au moment de la livraison.
+
+</pre>
+</div>

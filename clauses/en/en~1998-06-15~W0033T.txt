@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 3, Gwich'in Comprehensive Land Claim Agreement (GCLCA),
+clause:</p>
+<ul class="hierarchy">
+<li><span class="number">25.1.10</span> The Gwich'in shall have
+preference in being hired at public sites, museums, heritage
+resource projects, archaeological works and similar public
+facilities and projects in the settlement area related to Gwich'in
+heritage resources, in a manner to be set out in the protected area
+agreement or, where there is no protected area agreement, in the
+management or work plans for the public sites, museums, projects,
+facilities and works referred to in this chapter. The Gwich'in
+Tribal Council shall be consulted in the development of such
+plans.</li>
+</ul>
+</div></pre>
+</div>

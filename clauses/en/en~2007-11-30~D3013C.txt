@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts with Canadian-based contractors to define 
+Department of National Defence's military packaging requirements for militarized 
+items which are covered by the following categories:
+ </p>
+<ol type="a">
+<li>
+   items not covered by a Canadian Forces commodity packaging specification 
+(see
+   
+    D3016C
+   
+   ) or commercial packaging (see
+   
+    D3018C
+   
+   );
+  </li>
+<li>
+   repairable material for national stock;
+  </li>
+<li>
+   repair and overhaul of repairable material.
+  </li>
+</ol>
+<p>
+  Use this clause in conjunction with
+  
+   D3019C
+  
+  in the part "resulting contract 
+clauses" of the bid solicitation.  At contract award, use either this clause or
+  
+   D3019C
+  
+  depending on whether the contractor is Canadian-based or from the United 
+States.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Preservation and packaging for items
+<var>______</var> must be in accordance with the Canadian Forces
+packaging specification <cite>D-LM-008-001/SF-001</cite>, and must be marked to
+<cite>D-LM-008-002/SF-001</cite>. Form Level B <strong>Pkg Data Form Reqd</strong> must be in
+accordance with <cite>D-LM-008-011/SF-001</cite>.</li>
+<li value="2">Packaging data forms previously approved by Canadian
+authorities are acceptable.</li>
+<li value="3">Approved coded packaging data is shown immediately
+below the description of the item to which it applies. Where no
+data is shown, the Contractor must submit a packaging data form for
+approval.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when a proposed contractor will be paid 
+for work performed before the effective date of the contract.
+
+Use this clause in conjunction with A9120C or A9094C or A9088C, as applicable.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In consideration of the work performed during the period from _____ (<span class="wsInlineRemark"><strong>insert 
+start date</strong></span>) up to _____ (<span class="wsInlineRemark"><strong>insert date before the effective date of the 
+Contract</strong></span>), the Contractor will be paid a firm price of $_____.  Customs 
+duties are ________ (<span class="wsInlineRemark"><strong>insert</strong></span><strong><em> </em></strong>"included", "excluded"<strong><em> </em></strong><span class="wsInlineRemark"><strong>or</strong></span><strong><em> </em></strong>"subject to exemption
+"<em>) and </em>Goods and Services Tax or Harmonized Sales Tax is extra, if 
+applicable.
+
+
+</pre>
+</div>

@@ -1,0 +1,62 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for
+  <strong>
+   services
+  </strong>
+  , to confirm with the winning bidder, that they agreed that their status as a former public servant in receipt of a pension will be reported on the quarterly published departmental websites as part of the Proactive Disclosure of Contracts Reports as per
+  <abbr title="Treasury Board Secretariat">
+   TBS
+  </abbr>
+  , in accordance with
+  
+   Contracting Policy Notice: 2019-01
+  
+  and
+  
+   Guidelines on the Proactive Disclosure of Contracts
+  
+  .
+ </p>
+<p>
+  Use this clause in conjunction with clause
+  
+   A3025T
+  
+  ,
+  
+   A3026T
+  
+  ,
+  
+   M3025T
+  
+  or
+  
+   M3026T
+  
+  , as applicable.
+ </p>
+<p>
+  For more information, refer to sections
+  
+   3.90
+  
+  and
+  
+   7.65
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>By providing information on its status, with respect to being a former public servant in receipt of a Public Service Superannuation Act (PSSA) pension, the Contractor has agreed that this information will be reported on departmental websites as part of the published proactive disclosure reports, in accordance with Contracting Policy Notice: 2019-01 of the Treasury Board Secretariat of Canada.</p>
+</div></pre>
+</div>

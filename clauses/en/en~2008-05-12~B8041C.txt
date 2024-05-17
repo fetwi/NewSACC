@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence (DND) when
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  is willing to provide a copy of the Canadian Government Catalogue of Material (CGCM) on
+  <abbr title="Compact Disc Read-only Memory">
+   CD-ROM
+  </abbr>
+  as part of the information provided to the contractor while ensuring the protection of the data included in the
+  <abbr title="Canadian Government Catalogue of Material">
+   CGCM
+  </abbr>
+  .
+ </p>
+<p>
+  Contracting officers must ensure that the address of the quality assurance representative is specified in the contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Department of National Defence will provide a copy of the Canadian Government Catalogue of Material (CGCM) on <abbr title="Compact Disc Read-only Memory">CD-ROM</abbr>, Publication A-LM-137-COM/LX-001 to the Contractor, upon written request to the National Defence Quality Assurance Representative (NDQAR) specified in the Contract. The <abbr title="Canadian Government Catalogue of Material">CGCM</abbr> includes limited rights data of certain <abbr title="North Atlantic Treaty Organization">NATO</abbr> countries or manufacturers that are proprietary. Therefore, as required by <abbr title="North Atlantic Treaty Organization">NATO</abbr> Standardization Agreement (STANAG) 4438, to have access to the <abbr title="Canadian Government Catalogue of Material">CGCM</abbr>, the Contractor must sign a non-disclosure agreement and protect the data in accordance with the conditions of the agreement.</li>
+<li value="2">The provision of the <abbr title="Canadian Government Catalogue of Material">CGCM</abbr> will be coordinated through the <abbr title="National Defence Quality Assurance Representative">NDQAR</abbr>.</li>
+</ol>
+</div></pre>
+</div>

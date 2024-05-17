@@ -1,9 +1,0 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
-<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
- No remarks.
-</section>
-<h3 class="clause-heading">Legal text for SACC item</h3><pre>Transportation costs between the temporary employee's residence and the 
-   work site and/or the Supplier's premises are the responsibility of the 
-   Supplier and shall not be included in the quoted rates. 
-</pre>
-</div>

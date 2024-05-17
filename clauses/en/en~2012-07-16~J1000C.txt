@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause to terminate the entire contract for default.
+  <br/>
+  Contracting officers must state on what grounds the contract is terminated (i.e.
+  <br/>
+  goods that have not been delivered, services not performed in accordance with
+  <br/>
+  the contract).
+ </p>
+<p>
+  Contracting officers must seek advice from Legal Services before issuing a
+  <br/>
+  notice of termination for default.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This is further to the Stop Work Order dated <span class="input-required"><var>_____</var> <kbd>(<em>delete this paragraph if no
+Stop Work Order was sent by the Contracting
+Authority</em>)</kbd></span>.</p>
+<p>In accordance with the unrestricted right of Canada to terminate
+the Contract for default if the Contractor is in default in
+carrying out any of its obligations under the Contract, the
+Contracting Authority notifies the Contractor that the Contract is
+terminated for default pursuant to section <var>_____</var>,
+Default by the Contractor, of general conditions
+<var>________</var> on the following grounds:</p>
+<p class="description">(<em>Insert the grounds for terminating the contract for
+default</em>).</p>
+<p>Canada reserves its right under the Contract to charge the
+Contractor for all losses and damages which Canada may suffer by
+reason of the default, including any amount in excess of the
+Contract Price that Canada may be obliged to pay in procuring the
+goods, services or both elsewhere.</p>
+<p class="description">(<em>Insert the following paragraph when the termination relates to performance issues within the scope of the Vendor Performance Corrective Measures Policy</em>)</p>
+<p>In accordance with the Vendor Performance Corrective Measure Policy, this termination for default will trigger a Vendor Performance Corrective Measure assessment. In addition, a note indicating that there was a termination for default for this contract will be registered in the Vendor Information Management system.</p>
+</div></pre>
+</div>

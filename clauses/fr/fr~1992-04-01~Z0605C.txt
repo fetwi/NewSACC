@@ -1,0 +1,69 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le contrat américain 
+renferme la clause relative à un certificat de conformité (
+  <span lang="en-CA">
+<abbr title="Federal Acquisition Regulation">
+    FAR
+   </abbr>
+</span>
+  52.246-15).
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">Au choix de l'inspecteur de l'assurance de la
+qualité du <abbr title="Ministère de la Défense nationale">MDN</abbr>, l'Entrepreneur pourra être appelé
+à livrer des biens pour lesquels le Contrat exigerait
+normalement une inspection avec un certificat de conformité.
+Ce certificat pourra être employé par le Gouvernement
+américain pour sanctionner l'acceptation de ces biens sans
+exécuter des évaluations préalables d'assurance de
+la qualité. Le certificat devra être annexé ou
+intégré à toutes les copies de la formule DD 250,<span lang="en-CA">
+Material Inspection and Receiving Report</span>. Le certificat devra
+être préparé par l'Entrepreneur et se lire comme
+suit :
+<blockquote>« J'atteste que le <span class="input-required"><var>_____</var> <kbd>(<em>inscrire la
+date</em>)</kbd></span>, l'entreprise <span class="input-required"><var>_____</var> <kbd>(<em>inscrire le nom de
+l'Entrepreneur</em>)</kbd></span> a fourni les marchandises et
+dispensé les services demandés dans le Contrat no
+<var>_____</var> <kbd>(<em>inscrire le numèro du Contrat</em>)</kbd>par l'intermédiaire de <span class="input-required"><var>_____</var> <kbd>(<em>inscrire le nom du
+transporteur</em>)</kbd></span> sur <span class="input-required"><var>_____</var> <kbd>(<em>indiquer le Connaissement ou
+le document d'expédition</em>)</kbd></span> conformément à
+l'ensemble des conditions exigibles.
+<br/>Je certifie en outre que les marchandises ou les services sont
+conformes à la qualité demandée et qu'ils
+correspondent à tous les égards aux conditions du
+Contrat, y compris les spécifications, les dessins, la
+conservation, le conditionnement l'étiquetage et
+l'identification du matériel (numéro de l'article) de
+même qu'aux quantités mentionnées ici ou sur le
+document d'acceptance ci joint.
+<br/>Date <var>_____</var>&lt;
+<br/>Signature <var>_____</var>
+<br/>Fonction <var>_____</var> »</blockquote>
+</li>
+<li value="2">Nonobstant l'acceptation préalable par le
+Gouvernement américain en vertu des dispositions du paragraphe
+a) ci-dessus, et nonobstant les dispositions de toutes les autres
+clauses du Contrat, le Gouvernement américain aura le droit
+d'inspecter les biens dès leur réception par le
+destinataire. Si les quantités sont insuffisantes ou si les
+biens ne sont pas conformes aux exigences du présent Contrat,
+l'Entrepreneur devra, à ses frais, corriger ou remplacer
+promptement les articles défectueux ou manquants, pourvu que
+le Gouvernement américain lui en donne l'instruction, dans les
+90 jours à partir de la date à laquelle ces biens auront
+été acceptés. Cependant, si le présent Contrat
+contient une clause de garantie d'approvisionnement, celle-ci
+prévaudra dans le cas de toute irrégularité ou
+ambiguïté entre elle et le présent paragraphe
+b).</li>
+<li value="3">Une copie signée de la formule DD 250 et le
+Certificat de conformité doivent être envoyés à
+la Corporation commerciale canadienne, avec la facture.</li>
+</ol>
+</div></pre>
+</div>

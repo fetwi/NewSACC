@@ -1,0 +1,79 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall provide and clearly label all technical 
+       publications required for description, operation, installation, 
+       maintenance and repair of the deliverable end items.
+
+2.     The Contractor shall provide as part of is proposal:
+
+       (a)    a recommended list of publications for approval by the 
+              Technical Authority, and
+
+       (b)    a price quotation for all such publications based on options 
+              1 through 4 following.  The price structure shall be itemized 
+              in such a way as to clearly reflect the price differential 
+              between the different options and to clearly indicate what 
+              costs are directly attributable to the second official 
+              language requirement.  Bidders shall also specify lead times 
+              required for delivery for each of the following options.
+
+<strong>Option 1: Newly Written Manuals</strong>
+
+All publications produced in both English and French, in side-by side 
+format, in full conformance with <strong>the current issues of </strong>C-01-100-100/AG-002 
+and C-01-100-100/AG-003.
+
+<strong>Option 2: Existing Manuals</strong>
+
+All publications provided as existing commercial or foreign government 
+off-the-shelf manuals in both English and French, in side-by-side format, 
+meeting the requirements of the current issue of C-01-100-100/AG-005, 
+provided that where existing commercial publications are not available, 
+Option 1 shall apply.
+
+<strong>Option 3: Alternate Format</strong>
+
+All publications provided in any cost effective format in both English and 
+French, provided they meet the requirements of the current issue of 
+C-01-100-100/AG-005. This option requires the written approval of the 
+Technical Authority prior to awarding of Contract.
+
+<strong>Option 4: Right to Translate and Reproduce</strong>
+
+All publications provided as existing unilingual commercial format, 
+provided they meet the requirements of the current issue of 
+C-01-100-100/AG-005, and provided that Canada is given the right to 
+translate and reproduce, for Government use, any or all part of any 
+publications supplied under the Contract.
+
+<strong>       Unilingual Publications</strong>
+
+       1.     The Contactor shall provide and clearly label all technical 
+              publications required for description, operation, 
+              installation, maintenance and repair of the deliverable end 
+              items.
+
+       2.     The Contractor shall provide as part of its proposal
+
+              (a)    a recommended list of publications for approval by the 
+                     Technical Authority;
+              (b)    a price quotation for publications based on Options 5 
+                     and 6 following;
+              (c)    lead times required for delivery for each of the 
+                     options.
+
+<strong>Option 5: Newly Written Manuals</strong>
+
+All publications produced in full conformance with the current issue of 
+C-01-100-100/AG-002 and C-01-100-100/AG-003.
+
+<strong>Option 6: Existing Manuals</strong> 
+All publications provided as existing commercial or foreign government 
+off-the-shelf manuals in accordance with the current issue of C-01-100-100/
+AG-005, provided that where existing commercial publications are not 
+available, Option 5 shall apply.
+
+</pre>
+</div>

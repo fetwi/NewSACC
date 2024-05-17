@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause dans les contrats scientifiques lorsque les fournitures 
+n'ont pas été identifiées de façon spécifique dans l'Enoncé de travail et qu'il 
+y aura des articles autres que des rapports. Enumérer chaque article en 
+précisant la date de livraison applicable. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur devra liver les articles suivants au Délégué scientifique, à 
+l'endroit et au moment indiqués ci-dessous :
+
+Article                                   Date de livraison
+
+1. 
+
+2. 
+
+3.
+
+L'Entrepreneur devra aviser, par écrit, l'Agent de négociation des contrats 
+   scientifiques lorsque ces articles auront été livrés. 
+</pre>
+</div>

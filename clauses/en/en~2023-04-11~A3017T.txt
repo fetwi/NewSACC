@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following certification clause in competitive solicitations or requests for standing offers or supply arrangements for procurements valued above $25 million
+  <abbr title="Canadian dollars">
+   CAD
+  </abbr>
+  including taxes, fees and options which cannot apply a conditionally limited solicitation strategy, or include evaluation criteria related to setting of greenhouse gas (GHG) emissions disclosure and reduction targets or participation in the Net-Zero Challenge or equivalent. Certification may be provided at solicitation closing or precedent to contract award.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A9076T
+  
+  and
+  
+   A3021C
+  
+  if applicable. Use this clause in conjunction with
+  
+   A3015T
+  
+  and
+  
+   A3015C
+  
+  if the high complexity or medium complexity templates are not used.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p><kbd>Instruction to contracting officers: Select “bidder”, “offeror” or “supplier” accordingly.</kbd></p> <p>The <kbd>bidder/offeror/supplier</kbd> must provide the following certification:</p> <ol>
+<li>I am the authorized representative of <var>__________________</var>. </li>
+<li>I, the <kbd>bidder/offeror/supplier</kbd>, by submitting the present information to the Contracting Authority, certify that <var>________</var> <kbd>(<em>insert name of business</em>)</kbd> is participating in the Net-Zero Challenge or equivalent greenhouse gas (GHG) emissions disclosure and reduction target initiative, and that the information provided with the <kbd>bid/offer/arrangement</kbd> related to our participation in this initiative is true and consent to its verification upon request by Canada.</li>
+<li>I, the <kbd>bidder/offeror/supplier</kbd> must, upon request from the Contracting Authority, provide a signed participant letter from Environment and Climate Change Canada (ECCC) or other supporting documentation confirming participation in the Net-Zero Challenge or equivalent. Failure to comply with the request may result in the <kbd>bid/offer/arrangement</kbd> being declared non-responsive.</li>
+</ol> <p><var>________________________________</var><br/>
+    Name of initiative</p> <p><var>________________________________</var><br/>
+    Printed name of Authorized Representative </p> <p><var>________________________________</var><br/>
+    Signature of Authorized Representative</p> <p><var>________________________________</var><br/>
+    Date</p></pre>
+</div>

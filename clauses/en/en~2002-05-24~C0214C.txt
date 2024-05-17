@@ -1,0 +1,68 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for service contracts when firm per diem rates are 
+proposed - cost reimbursable.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall be paid the following firm per diem rates for work and 
+services performed pursuant to this Contract.
+
+       <strong>CATEGORY             FIRM PER DIEM RATE</strong>
+
+       _______              $______
+       _______              $______
+
+       Total Estimated Price: $______
+
+Subject to the exercise of the Contract option to extend the Contract 
+period, the Contractor shall be paid the following firm per diem rates to 
+complete all work and services required to be performed in relation to the 
+Contract extension.
+
+       <strong>CATEGORY             FIRM PER DIEM RATE</strong>
+
+       _______              $______
+       _______              $______
+                            UNFUNDED
+
+Goods and Services Tax or Harmonized Sales Tax, estimated at $____, is 
+extra to the "Total Estimated Price" shown herein and shall be paid in 
+accordance with the provisions of clause "_____."
+
+All deliverables are FOB Destination, and Canadian Customs Duty included, 
+where applicable.
+
+<strong>DEFINITION OF A DAY/PRORATION</strong>
+
+A day is defined as 7.5 hours exclusive of meal breaks.  Payment shall be 
+for days actually worked with no provision for annual leave, statutory 
+holidays and sick leave.  Time worked which is more or less than a day 
+shall be prorated to reflect actual time worked in accordance with the 
+following formula:
+
+       <span class="wsStyleUnderline">Hours worked</span>
+       7.5  x  per diem rate
+
+<strong>NOTE TO PAYING OFFICE</strong>
+
+The amount of Canadian dollars has been calculated on the basis of exchange 
+of C$_____ being equal to US$1.  Payment shall be made in American funds 
+and the amount required in Canadian funds shall be adjusted to correspond 
+to the rate of exchange in effect when the necessary foreign funds are 
+purchased.
+
+<strong>TRAVEL EXPENSES</strong>
+
+The Contractor shall be paid for pre-authorized reasonable and proper 
+travel expenses, supported by appropriate receipts, incurred by personnel 
+directly engaged in the performance of the Work, calculated in accordance 
+with the current Treasury Board Travel Directive (<strong class="wsStyleUnderline">http://www.tbs-sct.gc.ca/
+travel/travel_e.html</strong>), without any allowance thereon for overhead or profit.  
+Charges for air travel shall not exceed that for economy class.  All 
+payments are subject to government audit.
+
+Total Estimated Price: $______.
+
+
+</pre>
+</div>

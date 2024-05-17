@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in consultation with the Canadian and International Industrial 
+Security Directorate.
+
+Completion of the Security Requirement Check List, form TBS/SCT 350-103, is 
+mandatory and is available on line at http://www.ciisd.gc.ca.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor/Offeror must, at all times during the performance of 
+       the Contract/Standing Offer, hold a valid Facility Security 
+       Clearance at the level of _____, with approved: <strong><em>(Choose only one of 
+       the following options and delete the others.)</em></strong>
+
+              Document Safeguarding at the level of 
+              Communications-Electronic Security (COMSEC) ______, and a 
+              COMSEC account.
+
+              Document Safeguarding and Production Capabilities at the 
+              level of Communications-Electronic Security (COMSEC) _____, 
+              and a COMSEC account.
+
+              Document Safeguarding at the level of 
+              Communications-Electronic Security (COMSEC) ______, and a 
+              COMSEC account, level and Production Capabilities at the 
+              level of _______, issued by the Canadian and International 
+              Industrial Security Directorate, Public Works and Government 
+              Services Canada.
+
+2.     The Contractor/Offeror personnel requiring access to CLASSIFIED 
+       information, assets or sensitive work site(s) must EACH hold a valid 
+       personnel security screening at the level of _____, granted or 
+       approved by the Canadian and International Industrial Security 
+       Directorate (CIISD), Public Works and Government Services Canada 
+       (PWGSC).
+
+3.     The Contractor/Offeror personnel requiring access to COMSEC 
+       information/assets must have undergone a COMSEC briefing.
+
+4.     The Contractor/Offeror MUST NOT perform any sensitive CLASSIFIED 
+       Automatic/Electronic Data Processing and/or production until CIISD/
+       PWGSC has issued written approval.  After approval has been granted, 
+       these tasks may be performed at the level of _____.
+
+5.     Subcontracts which contain security requirements are NOT to be 
+       awarded without the prior written permission of CIISD/PWGSC.
+
+6.     The Contractor/Offeror must comply with the provisions of the:
+
+       (a)    Security Requirements Check List, attached at Annex ______;
+       (b)    <em>Industrial Security Manual</em> (latest edition) and the<em> 
+              Industrial COMSEC Material Control Manual</em> (ICMCM), issued 
+              through CIISD/PWGSC.
+
+<strong>NOTE</strong>:  Keying material and associated devices bearing (or intended to bear) 
+              the caveat, "CRYPTO", are subject to special safeguards at 
+              all times, whether: in bulk storage; in custody at user 
+              locations; in current use; or awaiting destruction.  Keying 
+              Material must be stored in a locked, approved security 
+              container, in an area protected by security guards or by an 
+              intrusion-detection system when left unattended by COMSEC 
+              account personnel or authorized users.
+
+
+
+</pre>
+</div>

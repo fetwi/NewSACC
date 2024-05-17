@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les cas où l'on veut obtenir des services de 
+gardiennage (sécurité).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les ordres de poste seront transmis au proposant par le destinataire. Ils 
+seront suffisamment détaillés pour permettre au personnel de sécurité 
+d'effectuer ses tâches de façon efficace.
+
+Le proposant doit s'assurer que le personnel de sécurité se conforme aux 
+ordres de poste communiqués ainsi qu'aux directives orales ou écrites du 
+représentant autorisé du destinataire.
+
+</pre>
+</div>

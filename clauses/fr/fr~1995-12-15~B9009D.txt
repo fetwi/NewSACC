@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour permettre au ministère de la Défense nationale (MDN) d'établir des 
+données relatives à la disponibilité et à l'emplacement des pièces de 
+rechange requises pour le radoub des navires auxiliaires, l'entrepreneur 
+devra fournir au représentant de l'assurance de la qualité du MDN une copie 
+de toutes les commandes d'achat relatives aux pièces de rechange employées 
+pour les travaux et stipulées dans la liste des spécifications des travaux 
+de radoub, ainsi que pour les travaux imprévus.  Les renseignements sur le 
+coût des pièces de rechange ne sont pas requis en pareil cas.
+
+</pre>
+</div>

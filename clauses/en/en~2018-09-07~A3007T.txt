@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in requests for proposals (RFPs) for the procurement of the apparel goods that are listed in Annex A of
+  
+   Policy Notification (PN) 132
+  
+  . It requires the bidder to provide the name, address and country of manufacturers, subcontractors and suppliers to be utilized in the performance of the contract. This clause also informs the bidder of the requirement to publicly disclose the country or countries of origin. Providing this information in the bid documents is a mandatory requirement of any bid document and is also a condition precedent to the award of any contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>Items will be manufactured at:<span class="input-required"><var>________</var> (please indicate the complete address of the plant).</span></p> <p>The following suppliers/subcontractor(s) will be utilized in the performance of the contract:</p> <ol type="a">
+<li>Name and address of supplier/subcontractor:<span class="input-required"><var>________</var> </span></li>
+<li>Location where work will be performed:<span class="input-required"><var>________</var> (please indicate the complete address if different from the address provided in a))</span></li>
+<li>Nature of subcontracting work performed: <span class="input-required"><var>________</var></span></li>
+<li>Value of subcontract: $<span class="input-required"><var>________</var> </span></li>
+</ol> <p>(Enter the information for each supplier/subcontractor)</p> <p>Subcontractors, other than those listed above, may not be utilized without the written permission of Canada. </p> <p>The Bidder agrees that Canada may publicly disclose the information provided with respect to the countries of origin. </p></pre>
+</div>

@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>To be charged at the manufacturer's list price as last amended/published 
+less a discount of _____ percent, except for the following items, where 
+further discounts will apply:
+
+
+       1.  Batteries                      _____ percent
+       2.  Spark Plugs                    _____ percent
+       3.  Rebuilt Alternators            _____ percent
+       4.  U Joints                       _____ percent
+       5.  Carburettor Kits               _____ percent
+       6.  Filters (AC Only)              _____ percent
+       7.  Wire Sets                      _____ percent
+       8.  Shock Absorbers                _____ percent
+       9.  Brake Shoes                    _____ percent
+       10. Hose Clamps                    _____ percent
+
+The discount(s) specified above applies/apply to all items ordered against 
+   this Standing Offer unless otherwise indicated herein. 
+</pre>
+</div>

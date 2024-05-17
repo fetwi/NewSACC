@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lors de la réémission d'une demande d'arrangements 
+en matière d'approvisionnement (DAMA).  Le responsable de l'arrangement en 
+matière d'approvisionnement doit inscrire le numéro, la date ainsi que la date 
+et l'heure de clôture de la
+  <abbr title="demande d'arrangements 
+en matière d'approvisionnement">
+   DAMA
+  </abbr>
+  qui est remplacée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Cette demande d'arrangements en matière d'approvisionnement
+(DAMA) annule et remplace la <abbr title="demande d'arrangements 
+en matière d'approvisionnement">DAMA</abbr> numéro <var>_______</var>,
+datée du <var>______</var>, dont la date de clôture
+était le <span class="input-required"><var>______</var>
+<kbd>(<em>insérer la date de clôture</em>)</kbd></span>, à
+<span class="input-required"><var>_______</var> <kbd>(<em>inscrire
+l'heure de clôture</em>)</kbd></span>.</p>
+</div></pre>
+</div>

@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Si votre soumission est la seule reçue, vous devez, en vertu des 
+       Règlements sur les marchés de l'État, présenter avec votre 
+       proposition un document de soutien des prix contenant au moins l'un 
+       des renseignements suivants :
+
+       a)     la liste de prix la plus récente, indiquant l'escompte, en 
+              pourcentage, offert au ministère des Travaux publics et des 
+              Services gouvernementaux;
+
+       b)     les factures payées pour des articles semblables (même 
+              qualité et quantité) vendus à d'autres clients;
+
+       c)     une ventilation des prix indiquant, s'il y a lieu, le coût de 
+              la main-d'oeuvre directe, des matières directes, des articles 
+              achetés, les frais généraux des services techniques et des 
+              installations, les frais généraux globaux et administratifs, 
+              les coûts de transport, les bénéfices, etc.
+
+
+
+</pre>
+</div>

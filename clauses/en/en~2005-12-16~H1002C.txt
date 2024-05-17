@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when one lump sum payment is to be made to 
+the contractor after all deliverables have been received and accepted.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     One payment shall be made following delivery and acceptance of all 
+       deliverables.
+
+2.     The Contractor shall prepare and certify an original and two (2) 
+       copies of its claim on form PWGSC-TPSGC 1111, Claim for Progress 
+       Payment  (<strong>http://www.pwgsc.gc.ca/acquisitions/text/forms/forms-e.html</strong><strong></strong>
+).  The claim will be forwarded to the Contracting Authority who will 
+certify the claim and forward it to the Technical Authority for 
+certification and payment.
+
+</pre>
+</div>

@@ -1,0 +1,218 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque des paiements partiels 
+sont prévus en vertu d'un contrat à prix fixe.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Les paiements partiels ne doivent pas être
+effectués plus d'une fois par mois, selon les modalités
+ci-après :
+<ol type="a">
+<li value="1">Les Demandes de paiement partiel doivent être
+remplies intégralement, comprendre un bref rapport sur
+l'état d'avancement du travail à la date de la demande et
+être présentées à la Corporation commerciale
+canadienne (CCC) sur le formulaire PWGSC-TPSGC 1111, Demande de
+paiement partiel.</li>
+<li value="2">Toutes les attestations figurant sur le formulaire
+précité doivent être signées par ou pour
+chacune des personnes indiquées dans le document.</li>
+<li value="3">Les paiements seront effectués jusqu'à
+concurrence de <var>_____</var> p. 100 des montants
+réclamés et approuvés par la <abbr title="Corporation commerciale canadienne">CCC</abbr>, mais le montant
+cumulatif ne doit en aucun cas dépasser <var>_____</var> p. 100
+de la valeur du contrat.</li>
+<li value="4">Les renseignements suivants doivent figurer sur
+chaque demande :
+<ol type="1">
+<li value="1">les dépenses engagées pendant la période
+faisant l'objet de la demande, ventilées conformément aux
+conditions relatives à la base et ou les modalités de
+paiement du contrat;<br/>
+<span class="description"><strong>Nota</strong> : Le profit au prorata n'est pas
+permis.</span></li>
+<li value="2">les taxes de vente (s'il y a lieu);</li>
+<li value="3">la taxe sur les produits et les services ou la taxe de vente
+harmonisée (s'il y a lieu);</li>
+<li value="4">retenue de garantie de <var>_____</var> p. 100.<br/>
+<span class="description"><strong>Nota</strong> : Les pourcentages sont indiqués sur
+le formulaire <abbr title="Corporation commerciale canadienne">CCC</abbr> 747A.</span></li>
+</ol>
+</li>
+</ol>
+</li>
+</ol>
+<h2>Conditions préalables au paiement</h2>
+<ol type="1">
+<li value="1">Aucun paiement ne doit être fait à
+l'entrepreneur à moins ou jusqu'à ce que :
+<ol type="a">
+<li value="1">les factures, notes d'inspection et autres documents
+requis par la <abbr title="Corporation commerciale canadienne">CCC</abbr> soient présentés conformément aux
+dispositions du contrat ou aux instructions de la <abbr title="Corporation commerciale canadienne">CCC</abbr>;</li>
+<li value="2">en ce qui concerne tous les matériaux,
+pièces, travaux en cours ou terminés qui ont
+été payés par l'entrepreneur et que la <abbr title="Corporation commerciale canadienne">CCC</abbr> paie,
+l'entrepreneur, si on le lui demande, établisse à la
+satisfaction de la <abbr title="Corporation commerciale canadienne">CCC</abbr> que les matériaux, pièces, travaux
+en cours ou terminés ne sont l'objet d'aucune
+réclamation, droit de rétention, saisie, charge ou
+engagement;</li>
+<li value="3">en ce qui concerne tous les matériaux
+pièces, travaux en cours ou terminés dont le coût,
+accumulé au passif de l'entrepreneur, doit être
+absorbé dans le cours normal des affaires et pour lesquels
+matériaux, pièces, travaux en cours ou terminés la
+<abbr title="Corporation commerciale canadienne">CCC</abbr> paie, l'entrepreneur, si on le lui demande, établisse
+à la satisfaction de la <abbr title="Corporation commerciale canadienne">CCC</abbr> que ledit paiement ne servira
+qu'à acquitter ledit passif et qu'une fois la décharge
+effectuée, les matériaux, pièces, travaux en cours
+ou terminés seront dégagés de toute
+réclamation, droit de retention, charge ou engagement;</li>
+<li value="4">en cas de paiement pour des travaux terminés,
+lesdits travaux aient été inspectés et acceptés
+conformément aux dispositions du présent contrat.</li>
+</ol>
+</li>
+</ol>
+<h2>Modalités de paiement</h2>
+<ol type="1">
+<li value="1">Le paiement que la <abbr title="Corporation commerciale canadienne">CCC</abbr> fera à l'entrepreneur
+pour les travaux, devra être effectué :
+<ol type="a">
+<li value="1">dans le cas d'un paiement partiel autre que le
+paiement final, dans les trente (30) jours suivant la date de
+réception d'une Demande de paiement partiel, formulaire
+PWGSC-TPSGC 1111, dûment rempli;</li>
+<li value="2">dans le cas d'un paiement final, dans les trente (30)
+jours suivant la date de réception d'une Demande de paiement
+partiel, formulaire PWGSC-TPSGC 1111, dûment rempli ou dans
+les trente (30) jours suivant la date d'acceptation des travaux, le
+délai le plus long étant retenu;</li>
+<li value="3">dans le cas d'un paiement final en vertu d'un contrat
+à prix fixe, dans les trente (30) jours suivant la
+réception de la facture finale accompagnée des documents
+à l'appui.</li>
+</ol>
+Si la <abbr title="Corporation commerciale canadienne">CCC</abbr> a des objections quant au contenu de la facture, elle
+doit, dans les quinze (15) jours qui suivent la réception de
+celle-ci, aviser l'entrepreneur de la nature de ces objections, et
+le paiement ne sera effectué que trente (30) jours après
+que l'objection est résolue à la satisfaction de la
+<abbr title="Corporation commerciale canadienne">CCC</abbr>.</li>
+</ol>
+<h2>Règlement</h2>
+<p>Sauf stipulations de la clause « Résiliation pour des
+raisons de commodité », tous les paiements partiels
+doivent être remboursés en soustrayant de tout paiement
+aux termes du présent contrat, exception faite des accomptes
+ou des avances, les paiements partiels non remboursés ou
+<var>_____</var> p. 100 du montant facturé, selon le montant
+dont la valeur est la plus faible. L'entrepreneur doit rembourser
+à la <abbr title="Corporation commerciale canadienne">CCC</abbr> tout montant requis au moyen d'une réduction de
+prix rétroactive après calcul, aux prix réduits, des
+remboursements et paiements figurant sur les factures
+antérieures et en rajustant en conséquence les paiements
+partiels non remboursés.</p>
+<h2>Titre</h2>
+<ol type="1">
+<li value="1">Le titre de propriété des biens
+décrits dans la présente clause doit être
+dévolu à la <abbr title="Corporation commerciale canadienne">CCC</abbr>. L'attribution des biens acquis ou
+produits avant la date de conclusion du présent contrat doit
+se faire le jour même de l'entrée en vigueur dudit
+contrat; autrement, l'attribution entre en vigueur à la date
+où les biens sont ou auraient dû être attribuable ou
+imputables au présent contrat.</li>
+<li value="2">Aux fins de la présente clause, le terme
+« <dfn>biens</dfn> » englobe tous les articles énumérés
+par l'entrepreneur aux paragraphes a) à d) ci-après et
+qui sont ou auraient dû être attribuables ou imputables
+au présent contrat en vertu de pratiques et principes
+comptables judicieux et généralement acceptés.
+<ol type="a">
+<li value="1">Pièces, matériaux, stocks, et travaux en
+cours;</li>
+<li value="2">Outillage et matériel d'essai spéciaux dont
+le gouvernement des États-Unis doit acquérir le titre de
+propriété aux termes d'une autre clause du présent
+contrat;</li>
+<li value="3">Articles non durables, tels outils, bâtis,
+matrices, installations, moules, gabarits, tarauds, calibres,
+matériel d'essai et autres instruments semblables de
+fabrication dont le titre de propriété ne serait pas
+acquis à titre d'outillage spécial aux termes du
+paragraphe (b) précité;</li>
+<li value="4">Les plans et données techniques, dans la mesure
+où l'entrepreneur ou ses sous-traitants sont tenus de les
+transmettre à la <abbr title="Corporation commerciale canadienne">CCC</abbr> aux termes d'autres clauses du
+présent contrat.</li>
+</ol>
+</li>
+<li value="3">L'entrepreneur peut vendre sans autorisation de la
+<abbr title="Corporation commerciale canadienne">CCC</abbr> tout rebut produit lors de la fabrication des biens visés
+par le présent contrat, mais le produit de la vente doit
+être retranché du Prix contractuel.</li>
+<li value="4">Avant d'acquérir pour son usage propre ou
+d'aliéner des biens appartenant à la <abbr title="Corporation commerciale canadienne">CCC</abbr> aux termes de la
+présente clause, l'entrepreneur doit obtenir au préalable
+de la <abbr title="Corporation commerciale canadienne">CCC</abbr> l'autorisation de la mesure projetée et des
+modalités d'exécution. L'entrepreneur doit alors
+<ol type="a">
+<li value="1">soustraire les coûts applicables des biens de
+ceux de l'exécution du contrat; et</li>
+<li value="2">rembourser à la <abbr title="Corporation commerciale canadienne">CCC</abbr> le montant des paiements
+partiels applicable aux biens et non remboursés. Le
+remboursement peut être fait en espèces ou par note de
+crédit.</li>
+</ol>
+</li>
+<li value="5">Une fois que l'entrepreneur s'est acquitté de
+toutes les obligations aux termes du présent contrat, y
+compris le remboursement de tous les paiements partiels, le titre
+de propriété de tous les biens (ou du produit qui en
+découle) lui est attribué, à condition que lesdits
+biens ne soient pas:
+<ol type="a">
+<li value="1">livrés à la <abbr title="Corporation commerciale canadienne">CCC</abbr> et acceptés par
+celle-ci aux termes du présent contrat; ou</li>
+<li value="2">incorporés à des fournitures livrées
+au gouvernement des États-Unis et acceptées par celui-ci
+aux termes du présent contrat et dont le gouvernement des
+États-Unis est propriétaire en vertu du présent
+contrat.</li>
+</ol>
+</li>
+<li value="6">Les dispositions du présent contrat concernant
+la responsabilité pour les biens fournis par le gouvernement
+ne s'appliquent pas aux biens dont l'entrepreneur a acquis le titre
+de propriété au seul titre de la présente
+clause.</li>
+</ol>
+<h2>Risques de perte</h2>
+<p>Avant la livraison des biens à la <abbr title="Corporation commerciale canadienne">CCC</abbr> et leur acceptation
+par celle-ci, l'entrepreneur assume les risques de perte des biens
+dont le titre de propriété est dévolu à la <abbr title="Corporation commerciale canadienne">CCC</abbr>
+en vertu du présent contrat, à moins qu'il n'en soit
+prévu autrement dans le contrat. L'entrepreneur doit
+rembourser à la <abbr title="Corporation commerciale canadienne">CCC</abbr>, un montant égal aux paiements
+partiels non remboursés, établis sur les coûts
+applicables aux biens endommagés, perdus, volés ou
+détruits.</p>
+<h2>Contrôle des coûts et des biens</h2>
+<p>L'entrepreneur doit assurer un système comptable et des
+contrôles convenant à la bonne administration des
+biens.</p>
+<h2>Rapports et acces aux dossiers</h2>
+<p>L'entrepreneur doit promptement fournir à la <abbr title="Corporation commerciale canadienne">CCC</abbr> les
+rapports, attestations, états financiers et autres
+renseignements pertinents dont il est normal pour la <abbr title="Corporation commerciale canadienne">CCC</abbr> de faire
+la demande aux fins d'administration de la présente clause. La
+<abbr title="Corporation commerciale canadienne">CCC</abbr> aura également le droit d'examiner, en tout temps
+raisonnable, les dossiers et comptes de l'entrepreneur relatifs aux
+biens.</p>
+</div></pre>
+</div>

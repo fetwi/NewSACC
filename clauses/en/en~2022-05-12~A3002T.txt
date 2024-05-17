@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for procurements that have been set aside under the federal government Procurement Strategy for Indigenous Business, when the procurement would have been otherwise subject to one or more trade agreements.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This procurement is set aside under the federal government Procurement Strategy for Indigenous Business. For more information on Indigenous business requirements of the Set-aside Program for Indigenous Business see Annex 9.4 of the <cite>Supply Manual</cite>.</p>
+<p><span class="description"><em><strong>Instruction to contracting officers:</strong> insert the following sentence, if applicable.</em></span>
+<br/>This procurement is set aside from the international trade agreements under the provision each has for measures with respect to Aboriginal peoples or for set-asides for small and minority businesses.</p>
+<p><span class="description"><em><strong>Instruction to contracting officers:</strong> Insert the following sentence, if applicable.</em></span>
+<br/>Further to Article 800 of the Canadian Free Trade Agreement (CFTA), <abbr title="Canadian Free Trade Agreement">CFTA</abbr> does not apply to this procurement.</p>
+</div></pre>
+</div>

@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La présente clause d'évaluation doit être utilisée lorsqu'on estime qu'il est 
+préférable de demander au soumissionnaire de fournir le montant estimatif des 
+paiements mensuels que devra verser le Canada pendant la durée du contrat, et ce 
+pour permettre une comparaison plus juste du PRIX selon la méthode de la valeur 
+actualisée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Au besoin, le Canada effectuera une analyse de la valeur actualisée afin de 
+déterminer le prix aux fins d'évaluation. Cette analyse sera fondée sur les 
+versements anticipés par le Canada, à un taux d'intérêt annuel établi par 
+l'autorité contractante. À cette fin, la soumission doit comprendre un 
+tableau des paiements mensuels anticipés que devra verser le Canada pour 
+l'exécution des travaux proposés.
+
+</pre>
+</div>

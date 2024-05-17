@@ -1,0 +1,92 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions uniquement lorsque 
+les soumissionnaires doivent avoir accès à des renseignements qui sont 
+confidentiels ou qui sont la propriété exclusive du Canada ou d'un tiers pour 
+préparer leur soumission.  Dans le cas de renseignements appartenant à un tiers, 
+les agents de négociation des contrats doivent s'assurer que le Canada a le 
+droit de divulguer ces renseignements aux soumissionnaires.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Afin de préparer une soumission en réponse à la demande de soumissions, les 
+soumissionnaires doivent avoir accès à des renseignements qui sont 
+confidentiels ou qui sont la propriété exclusive du Canada ou d'un tiers.  
+La demande de soumissions a pour condition que les soumissionnaires signent 
+une entente de confidentialité dont les termes sont en grande partie 
+identiques à ceux figurant à l'annexe _____ avant d'avoir accès aux 
+renseignements en question à un endroit indiqué dans la demande de 
+soumissions ou  avant que ces renseignements qui font partie de la demande 
+de soumissions ne leur soient fournis.
+
+<span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats</strong></span><span class="wsInlineRemark"> : Insérer l'entente de 
+confidentialité suivante à titre d'annexe.</span><em></em>
+
+                               <strong>ANNEXE _____</strong><strong></strong>
+
+                        <strong>ENTENTE DE CONFIDENTIALITÉ</strong><strong></strong>
+
+À :    SA MAJESTÉ LA REINE DU CHEF DU CANADA (LE « CANADA»), REPRÉSENTÉE 
+       PAR LE MINISTRE DES TRAVAUX PUBLICS ET DES SERVICES GOUVERNEMENTAUX
+
+La description du besoin dans la demande de soumissions no ______ renferme 
+des renseignements qui sont confidentiels ou qui sont la propriété 
+exclusive du Canada ou d'un tiers (des renseignements confidentiels) et ces 
+renseignements ne doivent pas être divulgués ou utilisés autrement que de 
+la façon prévue ci-dessous.
+
+Le soumissionnaire convient :
+
+a)     que, sans la permission préalable par écrit de l'autorité 
+       contractante, il ne doit pas divulguer, à personne d'autre qu'à un 
+       de ses employés ou à un sous-traitant proposé ayant besoin de 
+       connaître les renseignements confidentiels;
+
+b)     qu'il ne fera aucune copie des renseignements confidentiels et qu'il 
+       n'utilisera pas ces renseignements à une fin autre que la 
+       préparation d'une soumission en réponse à la demande de soumissions 
+       indiquée ci-dessus;
+
+c)     qu'à la date de clôture, il doit remettre immédiatement les 
+       renseignements confidentiels à l'autorité contractante ainsi que 
+       chaque ébauche, document de travail et note contenant de 
+       l'information relative aux renseignements confidentiels.
+
+Le soumissionnaire doit exiger que tout sous-traitant proposé dont il est 
+question en a) ci-dessus signe une entente de non-divulgation selon les 
+mêmes conditions de cette entente.
+
+Le soumissionnaire reconnaît et convient qu'il sera responsable de toute 
+réclamation, perte ou dommage subi, et de tout coût ou frais encouru par le 
+Canada résultant du fait que le soumissionnaire, ou toute personne à qui il 
+aura divulgué les renseignements confidentiels, ne se soit pas conformé aux 
+conditions de cette entente.
+Aucune partie de cette entente de confidentialité ne devrait être 
+interprétée comme limitant le droit du soumissionnaire de divulguer tout 
+renseignement dans la mesure où ce renseignement :
+
+a)     appartient au domaine public ou vient à en faire partie 
+       indépendamment d'une faute de la part du soumissionnaire ou d'un 
+       sous-traitant proposé;
+
+b)     est ou devient connu du soumissionnaire d'une source autre que le 
+       Canada, sauf d'une source dont le soumissionnaire sait qu'elle est 
+       tenue envers le Canada de ne pas divulguer ce renseignement;
+
+c)     est développé indépendamment par le soumissionnaire; ou
+
+d)     est divulgué en raison d'une exigence législative ou d'une 
+       ordonnance rendue par une cour de justice ou un autre tribunal 
+       compétent.
+
+
+
+_________________________________
+Nom du soumissionnaire
+
+
+
+_______________________________           ____________________
+Signature de son représentant autorisé           Date
+
+
+</pre>
+</div>

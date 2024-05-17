@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour être examinées, les propositions doivent contenir les renseignements 
+   demandés dans la présente. L'omission de fournir ces données ou la 
+   non-conformité à l'une ou l'autre des dispositions et clauses du présent 
+   document, peut entraîner le rejet de la proposition.  
+</pre>
+</div>

@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les offres à commandes pour de l'aide 
+temporaire lorsque le personnel faisant partie de la classification du soutien 
+administratif et informatique doit satisfaire aux normes indiquées dans la 
+clause ci-dessous.
+ </p>
+<p>
+  Les agents de négociation des contrats peuvent supprimer la norme qui ne 
+s'applique pas au besoin.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent choisir une des options au 
+paragraphe 2) et ajouter l'information permettant aux offrants d'obtenir une 
+copie de la norme.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'offrant doit fournir les services de personnel d'aide
+temporaire qui satisfait aux normes minimums applicables dans :</p>
+<ol type="a">
+<li value="1">la Classification et description des postes de
+travail temporaire dans la catégorie du soutien administratif,
+document publié par l'Office des normes générales du
+Canada (ONGC), numéro de catalogue <span lang="en-CA"><abbr title="Canada/Canadian General Standards Board">CAN/CGSB</abbr></span> -168.1-991, à
+l'exception du niveau minimum de dactylographie pour les
+secrétaires, qui est modifié pour se lire « 40 mots
+à la minute avec un taux d'erreur maximum de 5 pour
+100 ».<br/>
+On peut acheter la norme auprès de l'<abbr title="Office des normes générales du Canada">ONGC</abbr>, Ottawa
+(Ontario). Les renseignements nécessaires pour passer des commandes sont disponibles sur le site :<cite>Office des normes générales du Canada</cite>.</li>
+<li value="2">le « Catalogue des descriptions de
+classifications pour les services d'aide temporaire professionnels,
+administratifs, techniques et opérationnels » de Travaux
+publics et Services gouvernementaux Canada, daté de mars
+1992.<br/>
+<span class="description"><strong>Instruction aux agents de négociation des
+contrats :</strong> Choisir une des options suivantes.</span>
+<ul class="no-markers">
+<li>Des copies de ce catalogue sont disponibles sur demande
+auprès de : <var>_________</var> .<br/>
+<strong>OU</strong></li>
+<li>Ces descriptions sont disponibles sur le site Web suivant :
+<var>_____________</var> .</li>
+</ul>
+</li>
+</ol>
+</div></pre>
+</div>

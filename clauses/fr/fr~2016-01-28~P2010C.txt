@@ -1,0 +1,65 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le coût de transaction de 
+base du papier est assujetti à un rajustement et que la clause
+  
+   P2010T
+  
+  était 
+incluse dans la demande de soumissions.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent revoir le paragraphe 3 de la 
+clause pour identifier le ou les types de papier précisés dans la demande de 
+soumissions.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">La portion du prix directement lié au coût
+de transaction de base du papier est assujettie à un
+rajustement de prix (augmentation ou réduction) en tout temps
+durant la période du contrat mais pas avant le <span class="input-required"><var>________</var> <kbd>(<em>insérer la date qui
+correspond à la fin de la période de 30 jours après
+l'attribution du contrat</em>)</kbd></span>. Le prix sera rajusté en
+utilisant le pourcentage de l'augmentation ou de la réduction
+annoncée qui est entrée en vigueur en l'appliquant au
+coût de transaction de base.</li>
+<li value="2">Pour demander un rajustement de prix, l'entrepreneur
+doit fournir à l'autorité contractante un avis indiquant
+l'augmentation ou la réduction du coût de transaction de
+base du papier nécessaire pour répondre aux exigences du
+contrat, s'il y a lieu. Un tel avis doit contenir le prix
+annoncé publiquement par au moins trois (3) fournisseurs de
+papier qui fournissent la catégorie de papier
+spécifiée dans le contrat et la date à laquelle le
+prix est entré en vigueur.</li>
+<li value="3">Le coût de transaction de base du papier qui est
+assujetti à un rajustement de prix est comme suit:
+<ol type="a">
+<li value="1">papier de couverture (s'il y a lieu) :
+<var>______</var> lb à un coût de transaction de base de
+<var>_____</var> $ aux cent livres, et qui représente
+<var>______</var> p. cent du ou des prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>____________________</var>.</li>
+<li value="2">papier pour le texte (s'il y a lieu) :
+<var>_______</var> lb à un coût de transaction de base de
+<var>_____</var> $ aux cent livres, et qui représente
+<var>______</var> p. cent du ou des prix unitaires.<br/>
+Nom de la marque de fabrique et du fournisseur de papier :
+<var>____________________</var>.</li>
+</ol>
+</li>
+<li value="4">L'entrepreneur doit fournir une copie du prix
+quoté du ou des fournisseurs de papier afin d'appuyer le
+coût de transaction de base ci-dessus et une copie de la
+facture ou des factures du ou des fournisseurs de papier afin
+d'appuyer le rajustement du coût de transaction de base.</li>
+<li value="5">Tout rajustement de prix doit être approuvé
+par l'autorité contractante et sera confirmée par une
+modification au contrat.</li>
+</ol>
+</div></pre>
+</div>

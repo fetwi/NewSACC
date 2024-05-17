@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause whenever bidders' status and capabilities form part of the 
+evaluation criteria.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>During the bid evaluation phase and upon Canada's request, the bidder will 
+allow Canada to conduct an evaluation, which may include but not be limited 
+to, bidder's legal status, facilities and technical, financial and 
+managerial capabilities to fulfill the requirements stated in this bid 
+solicitation.
+
+The Bidder shall provide any information requested by Canada and permit a 
+site survey within ten (10) calendar days of the request.
+
+</pre>
+</div>

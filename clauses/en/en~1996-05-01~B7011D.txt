@@ -1,0 +1,65 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>SELECT PARAGRAPH AS APPLICABLE:</strong>
+
+<strong>Government Available Material</strong>:
+
+The Contractor shall be required to purchase within seven (7) calendar days 
+following the date of award sufficient materials from the Royal Canadian 
+Mounted Police (RCMP) to make up pre-production sample(s) and submit same 
+for approval prior to commencing production.
+
+<strong>Pre-Production Samples</strong>:
+
+ ***One or two*** pre-production samples, accompanied by the sealed sample 
+where applicable, shall be forwarded to the Technical Authority for 
+acceptance within _____ calendar days from notification of award of 
+Contract ***and receipt of Government Supplied Material*** ***and receipt 
+of Tooling***.
+
+<strong>Production Samples</strong>:
+
+A production sample two (2) metres in length, full width, shall be taken 
+from the first production run and shall be forwarded to the Technical 
+Authority, accompanied by the sealed sample(s), for acceptance within _____ 
+calendar days from notification of award of Contract.
+
+If the first sample(s) is/are rejected, second sample(s) shall be submitted 
+within _____ calendar days of notification of requirement.
+
+The Contractor shall carry out all required inspection and tests to verify 
+conformance to the technical requirements of the Contract.
+
+The sample(s), and a copy of the inspection and test report(s), shall be 
+forwarded to the Technical Authority, transportation charges prepaid, and 
+without charge to Canada.
+
+The Technical Authority shall notify the Contractor, in writing, of the 
+conditional acceptance, acceptance or rejection of the sample(s). The 
+notice of conditional acceptance or acceptance shall not relieve the 
+Contractor from complying with all requirements of the specification(s) and 
+all other terms of the Contract.
+
+The Contractor shall not commence or continue with production of the items 
+under this contract and, if applicable, shall not make any deliveries in 
+response to any call-ups (DSS-MAS 942), until the Contractor has received 
+notification from the Technical Authority that the sample(s) are acceptable. 
+The production of the Contract balance prior to sample acceptance is at the 
+sole risk of the Contractor. 
+Where the second sample(s) submitted by the Contractor is/are rejected by 
+the Technical Authority for failing to meet the contract requirements, the 
+Contract may be terminated by the Minister for the default of the 
+Contractor. Any such termination shall be pursuant to and governed by 
+Section 26, Default by the Contractor, of General Conditions DSS-MAS 9601.
+
+The Contractor shall contact the Technical Authority for direction prior to 
+proceeding with this requirement. Sample(s) may not be required if the 
+Contractor is currently in production. The request for waiver of samples 
+must be made by the Contractor in writing. The waiving of this requirement 
+will be at the discretion of the Technical Authority and shall be in 
+writing.
+
+</pre>
+</div>

@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+<abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual Subsection 5 "Z" clauses (67 clauses) are cancelled as they are no longer in use by the Canadian Commercial Corporation.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>See revision history.</pre>
+</div>

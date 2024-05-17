@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'outillage requis pour compléter le travail du contrat (énuméré 
+       ci-dessous) sera fourni FOB destination par le ministère de la 
+       Défense Nationale (MDN).  Les emporte-pièces ne seront pas fournis.
+
+2.     On prévoit que l'outillage sera disponible quinze (15) jours suivant 
+       l'adjudication du contrat.  L'entrepreneur ne pourra toutefois pas 
+       soumettre de réclamation pour tout retard éventuel de livraison du 
+       matériel.  Le droit à l'outillage appartient au Canada, incluant 
+       tout remplacement.
+
+3.     Nonobstant les stipulations de l'article 21 des Conditions générales 
+       DSS-MAS 9601, l'entrepreneur est responsable du soin, de l'entretien 
+       et/ou du remplacement de l'outillage en sa possession, à ses frais, 
+       si l'outillage est endommagé par négligence ou par mauvais usage.  
+       L'outillage détenu par l'entrepreneur sera dans une condition 
+       utilisable dès l'achèvement du contrat.  L'entrepreneur ne sera pas 
+       tenu responsable pour la perte ou le dommage causé par le feu.
+
+4.     À la fin du travail contractuel, l'entrepreneur devra procéder à une 
+       inspection complète de l'outillage du MDN appartenant au Canada, 
+       pour s'assurer qu'il est en bon état et qu'il n'en manque aucune 
+       pièce.  Les pièces défectueuses devront être remises en état, avant 
+       d'être retournées.  Celles qui ne sont pas réparables devront être 
+       rapportées à l'autorité contractante du ministère des 
+       Approvisionnements et Services. Une formule CF 1280 sera préparée 
+       par l'entrepreneur pour confirmer l'outillage étant retourné et 
+       énumérant les pièces non-réparables ou perdues.  Le représentant 
+       d'assurance de qualité du MDN devra vérifier l'action prise par 
+       l'entrepreneur et autoriser l'envoi de l'outillage au Centre 
+       d'essais techniques de la qualité (CETQ) de la ville de Québec, pour 
+       l'inspection et l'entreposage.
+
+5.     À la fin du travail contractuel, l'outillage devra immédiatement 
+       être retourné (port payé) au :
+
+              Centre d'essais techniques de la qualité (CETQ)
+              Laboratoire de métrologie mécanique
+              57A, rue St-Louis
+              Québec (Québec)
+              G1R 3Z2
+
+       L'extérieur de chaque boîte retournée au CETQ devra indiquer :
+
+              a)     la description;
+              b)     le no de trousse; et
+              c)     la quantité.
+
+       Les articles qui ne sont pas emballés tel que requis et/ou sont par 
+   la suite déterminés non-utilisables, seront retournés à l'entrepreneur.  
+   Celui-ci sera responsable des frais de transport pour le retour ainsi 
+   que pour le coût de remettre l'outillage en bon état.
+</pre>
+</div>

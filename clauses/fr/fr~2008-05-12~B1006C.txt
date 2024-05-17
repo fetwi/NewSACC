@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats pour l'achat de pièces de rechange 
+pour le ministère de la Défense nationale lorsque l'entrepreneur fournira du 
+matériel neuf, faisant partie de la production courante, ou non.
+
+Les agents de négociation des contrats doivent utiliser l'option 1 ou l'option 2 
+selon l'option indiquée par l'entrepreneur dans sa soumission.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ul class="no-markers">
+<li><h2>Option 1</h2>
+<p>L'entrepreneur doit fournir du matériel neuf, qui fait
+partie de la production courante et est fourni par le fabricant
+principal ou son agent accrédité. Le matériel doit
+être conforme à la dernière version du plan
+applicable, de la spécification et de la description du
+numéro de pièce, selon le cas, qui était en vigueur
+à la date de clôture de la soumission.</p></li>
+<li><p><strong>OU</strong></p>
+<h2>Option 2</h2>
+<p>S'il ne s'agit pas de matériel neuf faisant partie de la
+production courante, ou provient d'une source autre que le
+fabricant principal ou son agent accrédité, il ne doit
+jamais avoir servi et être à l'état neuf, fourni par
+un entrepreneur approuvé avec les dernières modifications
+incorporées selon le cas, et accompagné des bordereaux
+d'envoi.</p></li>
+</ul>
+<p class="description"><strong>Instruction aux agents de
+négociation des contrats</strong> : Ajouter les renseignements
+fournis par l'entrepreneur dans sa soumission.</p>
+<p>Nom du fabricant : <var>___________________</var></p>
+<p>Date de fabrication : <var>__________________</var></p>
+<p>Date de vulcanisation, si l'article contient des
+élastomères : <var>________________</var> .</p>
+</div></pre>
+</div>

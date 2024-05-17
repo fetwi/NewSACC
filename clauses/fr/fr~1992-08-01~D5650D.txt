@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand il s'agit d'une demande de réparation des 
+navire (CAQ L du MDN). Inclure les clauses D5510D et D5651D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les travaux décrits dans le présent document doivent être contrôlés et 
+inspectés conformément aux exigences des Conditions générales DSS-MAS 1026A, 
+Approvisionnements - prix ferme, et des Conditions générales 
+supplémentaires DSS-MAS 1029, Réparation des navires.
+
+</pre>
+</div>

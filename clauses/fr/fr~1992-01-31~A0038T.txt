@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Transporteur doit se conformer, au cours de l'exécution du service 
+décrit dans la présente, aux dispositions de la Loi nationale de 1987 sur 
+les transports, de la Loi sur l'aéronautique, et aux directives, ordres, 
+règles et règlements émis en vertu de ces lois et applicables au dit 
+service.
+
+Le pilote en chef de l'appareil recevra et respectera les instructions du 
+mandataire de l'Affréteur en ce qui a trait à l'établissement de l'horaire 
+et à l'usage de l'appareil du Transporteur, compte tenu toutefois de l'état 
+de vol de l'appareil et des conditions atmosphériques.
+
+Quand, pour des raisons de sécurité ou autres, le Transporteur ou le pilote 
+en chef suspend temporairement un vol ou une partie du dit service, 
+l'Affréteur aura le droit de demander un rapport écrit concernant les 
+raisons.
+
+L'appareil qui assurera le service requis dans le cadre du présent contrat, 
+   devra être muni d'équipement radio en état de marche et pouvant émettre 
+   et capter des signaux radio-électriques aux fréquences usitées au point 
+   de départ, en route et à destination ainsi que d'un dispositif de 
+   radio-repérage d'urgence.  
+</pre>
+</div>

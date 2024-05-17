@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for non-commercial, off-the-shelf or 
+special production run batteries, to define delivery tolerances.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>When the Contractor is required to supply other than commercial
+off-the-shelf batteries or must make a special production run of
+batteries, the following over/under run allowances are
+acceptable:</p>
+<ol type="a">
+<li value="1">for quantities 1 to 500, plus or minus 5
+percent;</li>
+<li value="2">for quantities 501 to 5,000, plus or minus 2.5
+percent; and</li>
+<li value="3">for quantities in excess of 5,000, plus or minus 1
+percent.</li>
+</ol>
+</div></pre>
+</div>

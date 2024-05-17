@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les invitations à soumissionner portant sur des 
+marchés assujettis au Programme des marchés réservés aux entreprises 
+autochtones.  Lorsque les Conditions générales citées dans l'invitation à 
+soumissionner et le contrat ne contiennent pas de disposition sur l'exhaustivité 
+de la convention, la clause K9026D, Exhaustivité de la convention, doit 
+également être utilisée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Ce marché est réservé aux entreprises autochtones en vertu du 
+       Programme des marchés réservés aux entreprises autochtones du 
+       gouvernement fédéral.  Les soumissionnaires doivent remplir et 
+       signer le document intitulé « Attestation aux fins du Programme des 
+       marchés réservés aux entreprises autochtones », qui se trouve à 
+       l'annexe « _____ », <em>Exigences relatives au Programme des marchés 
+       réservés aux entreprises autochtones</em>, et le joindre à leur 
+       proposition.  <strong>La présentation de cette attestation dûment remplie 
+       est une condition de validité des soumissions.  La proposition des 
+       soumissionnaires qui n'y joindront pas cette attestation sera jugée 
+       irrecevable.</strong>
+
+2.     Par son attestation, le soumissionnaire atteste que son entreprise 
+       jouit du statut d'entreprise autochtone en vertu du Programme des 
+       marchés réservés aux entreprises autochtones.
+
+3.     Le soumissionnaire reconnaît que le Ministre se fie à cette 
+       attestation pour évaluer les soumissions et retiendra cette 
+       attestation pour la passation de tout contrat découlant de cet appel 
+       d'offres.  Cette attestation peut faire l'objet d'une vérification 
+       que le Ministre jugera nécessaire.
+
+4.     Si une vérification du Ministre révèle un manquement à cette 
+       attestation, le Ministre a le droit de rejeter la soumission ou peut 
+       considérer que tout contrat découlant de la soumission est en défaut 
+       et imposer les mesures de redressement établies dans l'attestation 
+       et dans les Conditions générales.
+
+</pre>
+</div>

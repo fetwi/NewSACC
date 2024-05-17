@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The proposed Basis of Payment is to be submitted as a separate section 
+within the proposal and should include the following elements:    Fees:    
+Firm, all inclusive _____ (daily/hourly) rates, GST extra, FOB destination 
+as follows:    Category of Personnel Firm Rate    $_____    Total Estimated 
+Cost $_____ or Total Ceiling Price $_____    Fees:    Firm, all-inclusive _____ 
+(daily/hourly) rate(s), GST extra, FOB destination, for services as follows:    
+Description Firm Rate    $_____    Total Estimated Cost $_____ or Total 
+Ceiling Price $_____    Firm, all inclusive unit price, GST extra 
+applicable, FOB destination, of $_____.    Total Estimated Cost $_____    
+Firm, all-inclusive lot price for _____, GST extra, FOB destination, of $_____.    
+Total Estimated Cost $_____ or Total Ceiling Price $_____ or Total Firm 
+Price $_____    The daily rates specified above are based on _____ hours. 
+For work performed for a duration of more or less than one day, the daily 
+rate specified will be prorated to cover the actual time worked. 
+
+
+</pre>
+</div>

@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Overruns or underruns are to be shown as a separate item on the invoice.
+
+Unless otherwise stated herein, overruns or underruns must not exceed the 
+following:
+
+-      10 percent overrun on quantities of less than 5,000
+
+-      5 percent overrun for quantities between 5,001 and 100,000
+
+-      2 percent overrun for quantities in excess of 100,001
+
+-      underruns must not exceed 2 percent irrespective of ordered 
+       quantities.
+
+</pre>
+</div>

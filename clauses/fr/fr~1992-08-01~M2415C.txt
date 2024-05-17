@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause doit être utilisée de concert avec la clause M2400D, Modification - 
+Généralités, dans l'Autorisation de passer une offre à commande et des commandes 
+subséquentes (APOCCS), s'il y a lieu.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La période de validité de la présente offre à commandes a été modifiée; 
+vous pouvez maintenant passer des commandes à compter du _____ et jusqu'au 
+et y compris le _____.
+
+</pre>
+</div>

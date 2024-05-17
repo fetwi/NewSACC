@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used in all standing offers in conjunction with 
+clause K0000D "Conditions."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL
+
+All instructions, general terms, conditions and clauses identified herein 
+by title, number and date are set out in the Standard Acquisition Clauses 
+and Conditions (SACC) Manual, issued by the Department of Supply and 
+Services (DSS), bearing Catalogue No. P60-4/1-1991E and revised as of May 1, 
+1996.
+
+The SACC Manual may be obtained from the Canada Communication Group - 
+Publishing, telephone (XXX) XXX-XXXX, and may also be viewed on the Open 
+Bidding Service, telephone (XXX) XXX-XXXX and 1-800-XXX-XXXX, and at all 
+DSS procurement offices.
+
+TERMS AND CONDITIONS - STANDING OFFER
+
+Pursuant to the <em>Department of Supply and Services Act</em>, R.S.C. 1985, c. S-25,
+
+(a)    the general terms, conditions and clauses identified herein by 
+       number, date and title, and
+
+(b)    the Particulars of the Standing Offer set out in Part B and, for the 
+       purchase of goods, the Conditions set out in Part C of Standard 
+       Instructions and Conditions - Standing Offers, DSS-MAS 9403-6, in 
+       force on the bid closing date,
+
+are hereby incorporated by reference into this Standing Offer and form part 
+of any contract resulting from any call-up made pursuant to this Standing 
+Offer as though expressly set out herein, subject to any other express 
+terms and conditions herein contained.
+
+
+</pre>
+</div>

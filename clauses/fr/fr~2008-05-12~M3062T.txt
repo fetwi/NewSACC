@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes d'offres à commandes pour 
+plusieurs articles (selon la description du besoin) lorsque la concurrence est 
+conditionnellement limitée aux produits canadiens et que chaque article doit 
+faire l'objet d'une attestation tel qu'il est défini au paragraphe 3 (b) de la 
+clause A3050T.
+
+Les agents de négociation des contrats doivent choisir une des options fournies 
+dans la clause.
+
+Utiliser la clause M3063T pour plusieurs articles lorsque l'ensemble des 
+articles doit faire l'objet d'une attestation globale.
+
+Utiliser cette clause en conjonction avec A3050T et M3060C.
+
+Les agents de négociation des contrats doivent examiner la Politique sur le 
+contenu canadien (chapitre 5 et l'annexe 5.1 du Guide des approvisionnements) 
+afin d'établir si le besoin est assujetti à la politique.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Cet achat est conditionnellement limité aux produits canadiens.
+
+Sous réserve des procédures d'évaluation contenues dans la demande d'offres 
+à commandes, les offrants reconnaissent que seulement les offres pour les 
+articles accompagnées d'une attestation à l'effet que le ou les articles 
+offerts sont des produits canadiens, tel qu'il est défini dans la clause 
+A3050T, peuvent être considérées.
+
+Le défaut de fournir cette attestation remplie avec l'offre aura pour 
+conséquence que l'article ou les articles offerts seront traités comme des 
+produits non-canadiens.
+
+<span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats : </strong></span><span class="wsInlineRemark">Choisir une des 
+options suivantes :</span>
+
+       « Les offrants doivent clairement indiquer à côté de chaque article 
+       énuméré dans la demande d'offres à commandes quels articles 
+       répondent à la définition d'un produit canadien et remplir 
+       l'attestation suivante. »
+
+       <strong><em>OU</em></strong>
+
+       « Les offrants doivent clairement indiquer ci-bas quels articles 
+       répondent à la définition d'un produit canadien et remplir 
+       l'attestation ci-dessous. »
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+L'offrant atteste que :
+
+       (     )       l'article ou les articles offerts et identifiés comme 
+              produits canadiens sont des produits canadiens tel qu'il est 
+              défini au paragraphe 1 de la clause A3050T.
+
+
+</pre>
+</div>

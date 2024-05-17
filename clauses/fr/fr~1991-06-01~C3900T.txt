@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1. Le Fournisseur enverra à Approvisionnements et Services Canada un 
+préavis écrit de trente (30) jours avant l'entrée en vigueur d'un tel 
+changement de prix.  Le télex et (ou) le préavis écrit indiqueront le 
+numéro du dossier d'Approvisionnements et Services, le numéro de série, le 
+numéro d'article, l'importance du changement sur le prix net et la date 
+d'entrée en vigueur de cette modification.
+
+2. Les prix des offres permanentes proposées seront ajustés en fonction de 
+tous les changements acceptables. Tous ces ajustements pourront faire 
+l'objet d'une vérification gouvernementale.  Tous les paiements versés au 
+fournisseur avant la vérification devront être considérés uniquement comme  
+provisoires, et être ajustés dans la mesure nécessaire,  conformément aux 
+résultats de la vérification. S'il y a eu un trop payé, celui-ci devra être 
+promptement remboursé à Sa Majesté.
+
+3. Si le Fournisseur omet d'informer le Ministère conformément à la 
+disposition ci-dessus, la date d'entrée en vigueur du nouveau prix sera 
+celle de la réception du préavis écrit du Fournisseur par le   Ministère.  
+
+LES AVIS DE CHANGEMENT DE PRIX DEVRONT ETRE ENVOYES A L'ADRESSE SUIVANTE:  
+
+              Approvisionnements et Services Canada          
+              Bureau régional des approvisionnements   
+              Région de l'Ile de Vancouver    
+              816, rue Government, pièce 318    
+              Victoria (C.-B.)   V8W 1X2    
+              A L'ATTENTION DE :
+
+4. REFUS DU CHANGEMENT DE PRIX :  
+
+Si le changement de prix n'est pas acceptable pour le Ministre, celui-ci 
+   pourra cesser de passer des commandes subséquentes à l'offre permanente, 
+   en donnant au fournisseur un préavis écrit de refus dans les quinze 
+   jours civils après la réception de l'avis de changement envoyé par 
+   l'Entrepreneur, auquel cas le prix payé pendant la période susmentionnée 
+   sera le prix net courant du Fournisseur, non majoré du changement de 
+   prix demandé.   
+</pre>
+</div>

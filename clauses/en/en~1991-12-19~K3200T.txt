@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used in all bid solicitation documents when the client 
+department has determined that Canada will own any intellectual property arising 
+from research and development carried out as part of the work under the 
+contract.  This clause must appear in any bid solicitation which uses clause 
+K3300D or K3301D.  The contracting officer will insert the name of the client 
+department or agency and one of the following grounds for Canada ownership, as 
+supplied by the client department or agency:
+
+	a) Title to background technology vests with Canada and the contractor is 
+simply adding to the technology package by providing a service;
+
+	b) Prior obligations to a third party or parties (such as a research partner of 
+research consortium) would preclude title vesting with the contractor;
+
+	c) The contractor has no intention or capability of pursuing commercialization 
+in a timely manner in Canada;
+
+	d) National security;
+
+	e) The main purpose of the work is to generate knowledge and regulatory 
+information for public dissemination;
+
+	f) Mutual agreement; and  
+
+	g) Other (give details)  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The _____ has determined that any intellectual property arising from 
+Research and Development (R&amp;D) carried out in the course of Work under the 
+Contract will vest in Canada, on the following grounds: _____ .         
+
+
+</pre>
+</div>

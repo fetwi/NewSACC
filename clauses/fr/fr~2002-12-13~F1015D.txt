@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante après avoir consulté la Direction de la sécurité 
+industrielle canadienne et internationale.
+
+Il est obligatoire de remplir le formulaire TBS/SCT 350-103, Liste de 
+vérification des exigences relatives à la sécurité, qui est disponible en ligne 
+à www.ciisd.gc.ca, ou en version papier dans le Guide des approvisionnements, à 
+l'annexe 6.13.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur ou l'offrant doit détenir en permanence, pendant 
+       l'exécution du contrat ou de l'offre à commandes, une attestation de 
+       vérification d'organisation désignée (VOD) en vigueur, ainsi que 
+       l'une des cotes approuvées ci-après : <strong><em>(Choisir une seule des options 
+       suivantes et supprimer les autres.) </em></strong>
+
+              cote de protection des documents au niveau PROTÉGÉ ______.
+
+              cote de protection et de production des documents au niveau 
+              PROTÉGÉ _______.
+
+              cote de protection des documents au niveau ________ et cote 
+              de production au niveau _________, délivrées par la Direction 
+              de la sécurité industrielle canadienne et internationale de 
+              Travaux publics et Services gouvernementaux Canada.
+
+2.     Les membres du personnel de l'entrepreneur ou de l'offrant devant 
+       avoir accès à des renseignements ou à des biens PROTÉGÉS, ou à des 
+       établissements de travail dont l'accès est réglementé, doivent TOUS 
+       détenir une cote de FIABILITÉ en vigueur, délivrée ou approuvée par 
+       la Direction de la sécurité industrielle canadienne et 
+       internationale (DSICI) de Travaux publics et Services 
+       gouvernementaux Canada (TPSGC).
+
+3.     L'entrepreneur ou l'offrant NE DOIT PAS effectuer de travaux de 
+       traitement automatique ou électronique de données et(ou) de 
+       production au niveau PROTÉGÉ tant que la DSICI de TPSGC ne lui en 
+       aura pas donné l'autorisation par écrit.  Lorsque cette autorisation 
+       aura été délivrée, ces tâches pourront être exécutées au niveau 
+       PROTÉGÉ ______.
+
+4.     Les contrats de sous-traitance comportant des exigences relatives à 
+       la sécurité NE doivent PAS être attribués sans l'autorisation écrite 
+       préalable de la DSICI de TPSGC.
+
+5.     L'entrepreneur ou l'offrant doit se conformer aux dispositions des 
+       documents suivants :
+
+       a)     la Liste de vérification relative à la sécurité, ci-jointe à 
+              l'annexe ____;
+       b)     le <em>Manuel de la sécurité industrielle</em> (dernière édition).
+ 
+
+
+</pre>
+</div>

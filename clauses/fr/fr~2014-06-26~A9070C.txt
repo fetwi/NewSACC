@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats. L'agent de négociation des 
+contrats doit s'assurer que la loi applicable choisie par le soumissionnaire ou, 
+si ce dernier n'a pas choisi de loi, que la loi mentionnée dans la demande de 
+soumissions soit indiquée dans l'espace réservé à cette fin. Le 
+soumissionnaire, suivant les instructions, pourra proposer un changement aux 
+lois applicables dans sa soumission.
+ </p>
+<p>
+  Utiliser la clause suivante seulement lorsque les modèles pour les besoins de 
+faible valeur (2T-LDV1), complexité moyenne (2T-MED1) et plus complexes 
+(2T-HIGH1) ne sont pas utilisés.
+ </p>
+<p>
+  Nota : En ce qui concerne la version française de la clause, le mot
+  <span lang="en-CA">
+   « in »
+  </span>
+  n'a 
+pas été traduit puisqu'il n'y a pas de terme commun à toutes les provinces et 
+territoire.  Il faudra donc ajouter le mot « en » devant Alberta, 
+Colombie-Britannique, Saskatchewan, Ontario et Nouvelle-Écosse, le mot « au » 
+devant Manitoba, Québec, Nouveau-Brunswick, Yukon et Nunavut, le mot « à » 
+devant Terre-Neuve-et-Labrador et l'Ile-du-Prince-Édouard et les mots « dans les » devant Territoires du Nord-Ouest.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le contrat doit être interprété et régi
+selon les lois en vigueur <var>_______</var> et les relations entre
+les parties seront déterminées par ces lois.</p>
+</div></pre>
+</div>

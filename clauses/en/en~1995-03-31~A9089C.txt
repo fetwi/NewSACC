@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when form DSS-MAS 1137, Application for Permission to 
+Subcontract, is required.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>When consent is required to subcontract a portion of the work, the 
+Contractor shall submit to the Contracting Authority a completed "
+Application for Permission to Subcontract", form DSS-MAS 1137 (English 
+version).  (A French version, "Demande d'autorisation de sous-traiter", 
+form DSS-MAS 1137-1 is also available.)
+
+</pre>
+</div>

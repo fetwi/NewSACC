@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Évaluation fondée sur des exigences minimums impérieuses et sur la cotation 
+numérique - Sélection de l'Entrepreneur selon la proposition valide la plus 
+basse.
+
+MÉTHODE DE SÉLECTION:
+
+En plus du DSS-MAS 9403-5 «Instructions et conditions uniformisées», les 
+proposants conviennent que, pour que leur offre soit considérée comme 
+valide, ils devront obtenir a) satisfaire à toutes les exigences 
+impérieuses énoncées dans cette demande de proposition et b) obtenir au 
+moins 70 p. 100 des points (sur une échelle de 100) pour les critères 
+soumis à la cotation numérique.
+
+Les propositions ne remplissant pas les conditions a) et b) seront 
+   éliminées. C'est la proposition valide la plus basse qui sera 
+   recommandée aux fins de l'adjudication du contrat  
+</pre>
+</div>

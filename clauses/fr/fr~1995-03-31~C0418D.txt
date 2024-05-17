@@ -1,0 +1,48 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'évaluation est faite d'après le prix le 
+plus bas pour les quantités totales prévues.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les prix comprennent l'enlèvement et la réinstallation de rideaux. 
+
+<strong>1.     Nettoyage à sec de rideaux doublés</strong> :
+
+       prix : _____$ le pied carré
+       quantité prévue : _____ pieds carrés
+
+<strong>2.     Nettoyage à sec de rideaux non doublés </strong>:
+
+       prix : _____$ le pied carré
+       quantité prévue : _____ pieds carrés
+
+<strong>3.     Nettoyage à sec et ignifugation de rideaux doublés</strong> :
+
+       prix :  _____$ le pied carré
+       quantité prévue : _____ pieds carrés
+
+<strong>4.     Nettoyage à sec et ignifugation de rideaux non doublés</strong> :
+
+       prix :  _____$ le pied carré
+       quantité prévue : _____ pieds carrés
+
+       Le traitement des rideaux doit être effectué avec soin de façon à ne 
+       pas abîmer la couleur ni les accessoires.  Le rétrécissement ne doit 
+       pas dépasser deux (2) p. 100.
+
+       Les rideaux doivent être placés sur des cintres.
+
+<strong>Pour les réparations mineures</strong> : (brûlures de cigarettes, coutures défaites, 
+etc.) 
+<strong>Prix</strong> : 
+
+1.     Main-d'oeuvre directe ou productive affectée exclusivement au 
+       travail :  _____$ l'heure.
+
+2.     Matériel et pièces de remplacement (sauf celles qui viennent avec 
+   les rideaux) au prix de revient réel (comprenant les frais de 
+   facturation, de transport, de douane et de courtage), plus une 
+   majoration de _____ p. 100, taxe de vente non comprise.  La taxe de 
+   vente doit être indiquée séparément.
+</pre>
+</div>

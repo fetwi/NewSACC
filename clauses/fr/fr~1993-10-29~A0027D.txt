@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Veuillez présenter trois (3) copies de votre proposition. Celle-ci 
+       doit être présentée en trois parties conformimément à ce qui suit :
+
+       a)     Demande de proposition (DDP) :
+
+              Celle-ci dûment remplie et signée.
+
+       b)     Proposition technique :
+
+              Votre proposition technique portant sur chacun des critères 
+              précisés dans la présente.
+
+       c)     Proposition des coûts :
+
+              Votre proposition des coûts portant sur chacun des éléments 
+   de coûts précisés dans la présente.  
+</pre>
+</div>

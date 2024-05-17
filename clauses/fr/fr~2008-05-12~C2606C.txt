@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque les biens font partie 
+d'une catégorie exemptée des droits de douane et des taxes d'accise en vertu du 
+Tarif des douanes.
+ </p>
+<p>
+  L'agent de négociation des contrats doit inscrire le numéro tarifaire indiqué 
+par le ministère client.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les droits de douane et les taxes d'accise du Canada ne
+s'appliquent pas. Les biens décrits dans le contrat font
+partie d'une catégorie qui est exemptée des droits de
+douane et des taxes d'accise en vertu du numéro tarifaire
+<var>_____</var> .</p>
+</div></pre>
+</div>

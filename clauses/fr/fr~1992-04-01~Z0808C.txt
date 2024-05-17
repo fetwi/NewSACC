@@ -1,0 +1,121 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Conformément au
+  <span lang="en-CA">
+<abbr title="Federal Acquisition Regulation">
+    FAR
+   </abbr>
+</span>
+  45.106(f)(2), remplacer le paragraphe (c) de la clause
+  
+   Z0801C
+  
+  par le paragraphe (c) suivant dans les demandes de soumissions et les 
+contrats lorsque l'on prévoit un contrat du type à frais remboursables, du type 
+à tarifs horaires et matériaux (time-and-material) ou du type à tarifs horaires 
+et main-d'oeuvre (labour-hour), sauf dans les cas prévus par la clause
+  
+   Z0803C
+  
+  .
+ </p>
+<p>
+  Nota : Cette clause ne peut être utilisée que si les clauses
+  
+   Z0806C
+  
+  et
+  
+   Z0807C
+  
+  sont également utilisées.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le texte suivant remplace le paragraphe (c) de la clause
+<span class="clauseRef">Z0806C</span>.</p>
+<ol type="a">
+<li value="3">Titre de propriété.
+<ol type="1">
+<li value="1">Le Gouvernement américain conservera le titre de
+propriété de tous les biens qu'il fournira.</li>
+<li value="2">Tous les biens fournis par le Gouvernement et tous
+les biens acquis par l'Entrepreneur, dont le titre de
+propriété est détenu par le Gouvernement
+américain en vertu du présent paragraphe (collectivement
+appelés « biens du Gouvernement »), sont régis
+par les dispositions de la présente clause. Le titre de
+propriété des biens du Gouvernement ne sera pas
+modifié par leur intégration ou leur rattachement à
+des biens n'appartenant pas au Gouvernement, pas plus que les biens
+du Gouvernement ne deviendront des accessoires permanents ni ne
+perdront leur identité à titre de biens personnels en
+étant rattachés à des biens immobiliers
+quelconques.</li>
+<li value="3">Le titre de propriété relatif à tous
+les biens achetés par l'Entrepreneur et pour lesquels il a
+droit à un remboursement à titre de poste de coût
+direct en vertu du présent Contrat, et qui, en vertu des
+dispositions du présent Contrat, doit être détenu
+par le Gouvernement américain, sera transféré à
+ce dernier dès que le fournisseur aura livré les biens en
+question. Le titre de propriété relatif à tous les
+autres biens, dont le coût doit être remboursé
+à l'Entrepreneur en vertu du présent Contrat, et qui, en
+vertu des dispositions du présent Contrat, doit être
+détenu par le Gouvernement américain, sera
+transféré à celui-ci dès :
+<ol type="i">
+<li value="1">l'émission des biens en vue de l'exécution
+du Contrat;</li>
+<li value="2">le début du traitement des biens ou leur utilisation
+pour l'exécution du Contrat; ou</li>
+<li value="3">le remboursement du coût des biens par le
+Gouvernement américain,</li>
+</ol>
+selon la première de ces éventualités.
+</li>
+<li value="4">Le titre de propriété de l'équipement
+(et des autres biens personnels tangibles) achetés avec des
+fonds disponibles pour la recherche et ayant un coût
+d'acquisition inférieur à 5 000 $ sera confié à
+l'Entrepreneur dès l'acquisition ou le plus tôt possible
+par la suite, et ce pourvu que l'Entrepreneur ait obtenu
+l'approbation de l'Agent de négociation des contrats avant
+chaque acquisition. Le titre de propriété relatif à
+l'équipement acheté avec des fonds disponibles pour la
+recherche et ayant un coût d'acquisition de 5 000 $ ou plus
+sera transféré conformément aux dispositions du
+Contrat. Si le titre de propriété de l'équipement
+est détenu par l'Entrepreneur en vertu du présent
+alinéa (c)(4), l'Entrepreneur convient qu'aucuns frais ne
+seront facturés à la <abbr title="Corporation commerciale canadienne ">CCC</abbr> ou au Gouvernement
+américain pour toute dépréciation, tout
+amortissement ou toute utilisation en vertu de tout contrat actuel
+ou futur du Gouvernement ou du marché de sous-traitance
+pertinent. L'Entrepreneur devra fournir à l'Agent de
+négociation des contrats une liste de tout l'équipement
+dont il détiendra le titre de propriété en vertu du
+présent alinéa (c)(4), et ce dans les dix (10) jours
+suivant la fin du trimestre civil au cours duquel l'équipement
+a été reçu.</li>
+<li value="5">Le transfert du titre de propriété en vertu
+du présent paragraphe (c) est assujetti aux lois sur les
+droits civils (42 <span lang="en-CA"><abbr title="United States Code">U.S.C.</abbr></span> 2000d). Avant que le titre de
+propriété ne soit confié et en signant le
+présent Contrat, l'Entrepreneur accepte et convient de ce qui
+suit :
+<blockquote>« Aucune personne aux États-Unis ne devra, pour des
+motifs de race, de couleur ou d'origine nationale, être exclue
+d'une participation ni des avantages relatifs à l'aide
+financière prévue par la présente (titre de
+propriété relatif à l'équipement), ou faire
+l'objet d'une discrimination quelconque à cet
+égard. »</blockquote>
+</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

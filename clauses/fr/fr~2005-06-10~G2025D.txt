@@ -1,0 +1,60 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Chaque contrat peut comprendre des exigences individuelles.  La clause suivante 
+fait ressortir certains avenants communs et importants qui s'appliquent de façon 
+particulière aux contrats individuels.  L'agent de négociation des contrats et 
+ses clients doivent les examiner avec soin afin de déterminer si l'un ou 
+plusieurs des avenants indiqués doivent être inclus.
+
+Ces avenants peuvent être sélectionnés en groupe ou un par un, au besoin, et 
+pourront être ajoutés dans la section des avenants de la clause G2020D.
+
+Pour toute aide complémentaire, veuillez communiquer avec les Services 
+consultatifs de gestion des risques et d'assurance de Travaux publics et 
+Services gouvernementaux Canada, à : NCR RMIAS-SCGRA@tpsgc.gc.ca.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>a)     Assuré additionnel : Le Canada est désigné comme assuré additionnel, 
+       mais seulement en ce qui concerne les responsabilités qui peuvent 
+       découler de la propre négligence de l'entrepreneur dans l'exécution 
+       du contrat.
+
+       L'intérêt du Canada en tant qu'assuré additionnel devrait se lire 
+       comme suit : Le Canada, représenté par ________ (<strong class="wsStyleUnderline">insérer le nom du 
+       ministère client</strong>) et/ou Travaux publics et Services gouvernementaux 
+       Canada.
+
+b)     Pollution subite et accidentelle (minimum 72 heures) : Pour protéger 
+       l'entrepreneur contre les responsabilités découlant de dommages 
+       causés par la pollution accidentelle.
+
+c)     Véhicule n'appartenant pas à l'assuré : Pour protéger l'entrepreneur 
+       contre les responsabilités découlant de l'utilisation de véhicules 
+       appartenant à d'autre parties, y compris le Canada.
+
+d)     Autorisation de transporter des matières dangereuses : Le cas 
+       échéant, l'assuré doit obtenir l'autorisation provinciale ou 
+       fédérale nécessaire au transport de matières dangereuses dans le 
+       cadre de cet avenant.
+
+e)     Autorisation de transporter des passagers contre rémunération ou en 
+       vertu d'un contrat de location : L'avenant permet à l'entrepreneur 
+       de transporter des passagers contre rémunération ou en vertu d'un 
+       contrat de location, de fournir une couverture particulière et des 
+       limites distinctes liées au risque du passager.  La limite minimale 
+       de responsabilité doit s'élever à 250 000 $ par passager et à 2 000 
+       000 $ au total.
+
+f)     Véhicules appartenant au gouvernement : L'avenant ajoute à 
+       l'assurance automobile de l'entrepreneur une assurance de 
+       responsabilité civile imposée par la loi ou assumée dans le cadre du 
+       contrat en cas de perte de véhicules appartenant au gouvernement ou 
+       de dommages à ces derniers.
+
+g)     Responsabilité à l'égard des dommages causés à des véhicules 
+       n'appartenant pas à l'assuré :  L'avenant prévoit une 
+       assurance-responsabilité pour l'entrepreneur à l'égard des dommages 
+       causés à des véhicules n'appartenant pas à l'assuré.
+
+</pre>
+</div>

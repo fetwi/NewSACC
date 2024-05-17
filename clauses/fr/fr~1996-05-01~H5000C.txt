@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les instructions détaillées dans les Instructions et conditions 
+       uniformisées ainsi que ceux à la page 1 font parti de ce document.
+
+2.     En plus, veuillez envoyer une (1) copie de chaque facture et une (1) 
+       copie du document de sortie, si applicable, au bureau du suivi de 
+       l'exécution des marchés (SEM) indiqué dans la présente; <strong>ET</strong>
+
+       *** une (1) copie au :
+
+       Quartier général de la Défense nationale
+       Ottawa (Ontario)
+       K1A 0K2
+       À l'attention de :    ______***
+                     Direction - Obtention et approvisionnement (Matériel 
+                     terrestre) (DOAMT)
+
+
+</pre>
+</div>

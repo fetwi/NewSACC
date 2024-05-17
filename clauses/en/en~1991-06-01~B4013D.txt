@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The carpet mentioned herein must conform to the flame resistance 
+   requirements contained in CGSB standard 4-GP-129. As proof of this, a 
+   certificate from a qualified independent public test laboratory must be 
+   submitted with tender. 
+</pre>
+</div>

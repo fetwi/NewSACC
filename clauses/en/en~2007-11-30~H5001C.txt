@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for goods and services when all 
+information required are covered under the general conditions.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor must submit invoices in accordance with the section 
+       entitled "Invoice Submission" of the general conditions.  Invoices 
+       cannot be submitted until all work identified on the invoice is 
+       completed.
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers</strong></span><span class="wsInlineRemark">:  Use the following paragraph when 
+invoices must be accompanied of supporting documents.  The documents listed 
+are examples only and must be revised to reflect the requirement.  Delete 
+this paragraph if no supporting documents are required</span>.
+
+       Each invoice must be supported by:
+
+       (a)    a copy of time sheets to support the time claimed;
+       (b)    a copy of the release document and any other documents as 
+              specified in the Contract;
+       (c)    a copy of the invoices, receipts, vouchers for all direct 
+              expenses, travel and living expenses;
+       (d)    a copy of the monthly progress report.
+         
+2.     Invoices must be distributed as follows:
+
+       (a)    The original and one (1) copy must be forwarded to the 
+              address shown on page 1 of the Contract for certification and 
+              payment.
+              
+       <strong>OR</strong><strong></strong>
+              
+       (a)    The original and one (1) copy must be forwarded to the 
+              following address for certification and payment _______. (<span class="wsInlineRemark"><strong>
+              Contracting officers must insert the name and address of the 
+              organization</strong></span>)
+              
+       (b)    One (1) copy must be forwarded to the Contracting Authority 
+              identified under the section entitled "Authorities" of the 
+              Contract.
+       
+<span class="wsInlineRemark"><strong>Instruction to contracting officers</strong></span><span class="wsInlineRemark">: Insert additional distribution as 
+applicable.  The following is an example.</span><span class="wsInlineRemark"><strong></strong></span>
+       
+       (c)    one (1) copy must be forwarded to the consignee.
+
+
+
+</pre>
+</div>

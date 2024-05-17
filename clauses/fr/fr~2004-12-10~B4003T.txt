@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Si la clause suivante est utilisée, veuillez fournir les données manquantes.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Un exemplaire de la ___________, dont il est question aux présentes, peut 
+être acheté auprès du :
+
+Centre des ventes de l'Office des normes générales du Canada
+Place du Portage III, 6B1
+11, rue Laurier
+Gatineau (Québec)
+
+Téléphone :   (819) 956-0425 <strong>ou</strong> 1-800-665-CGSB (Canada seulement)
+Télécopieur : (819) 956-5644
+Courriel :    <span class="wsStyleUnderline">ncr.cgsb-ongc@tpsgc.gc.ca</span>
+
+Site Web de l'ONGC: <strong class="wsStyleUnderline">http://www.tpsgc.gc.ca/ongc</strong>.
+
+
+</pre>
+</div>

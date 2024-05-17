@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clauses where the price of the contract is based on target cost, and a target profit along with a maximum and minimum profit for the contractor, in accordance with Supply Manual section
+  
+   4.70.20.15
+  
+  , the
+  
+   Practitioner’s Guide for Procurement Pricing
+  
+  , section 4.1.3.3.b and in accordance with Contract Cost Principles
+  
+   1031-2
+  
+  . Target cost must be based on Contract Cost Principles
+  
+   1031-2
+  
+  and Annex 2 of the
+  
+   Practitioner’s Guide for Procurement Pricing
+  
+  .
+ </p>
+<p>
+  Use this clause in conjunction
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C6001C
+  
+  to establish a limitation of expenditure.
+ </p>
+<p>
+  Use this clause in conjunction with a General Condition audit clause and
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual clause
+  
+   C1004C
+  
+  to validate and make any necessary adjustments to amounts payable to the contractor during the performance of the contract (for example, annually in the case of multi-year contracts) or upon completion of the contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol>
+<li>The Contractor will be paid for its costs reasonably and properly incurred in the performance of the Work, in accordance with a formula to share in cost savings or in costs exceeding the target cost.</li>
+<li>The target cost is $<span class="input-required"><var>_______</var></span>. </li>
+<li>The target profit is $<span class="input-required"><var>_______</var></span> (amount of profit if actual cost equals target cost).</li>
+<li>The maximum profit that can be received by the Contractor is $<span class="input-required"><var>_______</var></span>.</li>
+<li>The Contractor receives a minimum profit of $_______.</li>
+<li>A is equal to $<span class="input-required"><var>_______</var></span>, which is the difference between target cost and the lower limit.</li>
+<li>B is equal to $<span class="input-required"><var>_______</var></span>, which is difference between target cost and the upper limit.</li>
+<li>If actual cost for performance of the Work is between target cost and (target cost + B), then the Contractor will receive actual cost + target profit + [<span class="input-required"><var> _______</var></span> % x (target cost – actual cost)]. </li>
+<li>If actual cost for performance of the Work is greater than (target cost + B), then the Contractor will receive actual cost + minimum profit.</li>
+</ol>
+<p>Customs duties are <span class="input-required"><var>_______</var></span> <kbd>(<em>insert "included", "excluded" or "subject to exemption"</em>)</kbd> and applicable taxes are extra.</p>
+</div></pre>
+</div>

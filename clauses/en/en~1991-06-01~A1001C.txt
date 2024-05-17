@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all Science contracts issued by contracting 
+personnel in the Science Branch.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>(name) 
+(title of officer) 
+Science and Professional Services Directorate 
+Supply and Services Canada 
+Place du Portage, 
+Phase III,__ (floor) C1 
+11 Laurier Street 
+Hull, Quebec 
+K1A 0S5
+
+TELEPHONE: (819) 956-_____ 
+FACSIMILE: (819) 956-_____
+
+The Science Contracting Officer named above is responsible for the 
+   management of this Contract and any changes to the Contract must be 
+   authorized by a formal contract amendment issued by that Officer.  The 
+   Contractor is not to perform work in excess of or outside the scope of 
+   this Contract based on verbal or written requests or instructions from 
+   any government personnel other than the aforementioned Officer.
+</pre>
+</div>

@@ -1,0 +1,147 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     <strong>Interpretation</strong>
+
+       1.1    "<em>day</em>" means any period 24 consecutive hours;
+       1.2    "<em>month</em>" means any period of 30 consecutive days; and
+       1.3    "<em>flight</em>" means the movement of an aircraft from the point of 
+              take-off to the first point of landing.
+
+2.     <strong>Operation, Interruption or Cancellation of Charter Flights</strong>
+
+       2.1    The Carrier shall have exclusive operational control over 
+              chartered aircraft and the contents and crew thereof.
+
+       2.2    Every person who is provided with transportation on a 
+              chartered aircraft shall comply with all the terms and 
+              conditions of the contract, and all persons and property 
+              aboard a chartered aircraft shall be subject to the authority 
+              of the pilot-in-charge.
+
+       2.3    The Carrier may:
+
+              (a)    cancel or terminate a charter or any flight of a 
+                     charter at any time,
+              (b)    return to base or to the last point of landing, or
+              (c)    divert or land at an intermediate point,
+
+              when such action is deemed by the Carrier to be necessary 
+              owing to the unserviceability of the aircraft, weather 
+              conditions or other conditions beyond the control of the 
+              Carrier.
+
+3.     <strong>Dangerous Goods</strong>
+
+       The Charterer and the Carrier shall comply with the applicable 
+       governmental regulations governing the carriage of dangerous goods.
+
+4.     <strong>Space for the Carrier's Use</strong>
+
+       Any capacity in the chartered aircraft not being utilized by the 
+       Charterer may, unless the Charterer objects, be used by the Carrier 
+       for the carriage of its own personnel, baggage or goods.
+
+5.     <strong>Cancellations, Non-Completions or Deviations</strong>
+
+       5.1    When a charter is cancelled by the Carrier after commencement, 
+              charges shall be charged for the completed portion only.
+
+       5.2    No charges shall be charged to the Charterer:
+
+              (a)    where flights are not completed due to mechanical 
+                     failure or crew casualties and the Carrier fails to 
+                     arrange satisfactory alternative transportation; or
+
+              (b)    in respect of any flying in an unsuccessful attempt to 
+                     complete a flight required under the charter, unless 
+                     the Charterer, his servant or agent agreed to such 
+                     flying being done.
+
+6.     <strong>Substitution of Aircraft</strong>
+
+       6.1    When, owing to causes beyond the control of the Carrier, the 
+              chartered aircraft is unavailable at the time the charter 
+              commences or becomes unavailable while carrying out the 
+              charter, the Carrier may furnish another aircraft of the same 
+              type or, with the consent of the Charterer, substitute any 
+              other type of aircraft at the rates and charges applicable to 
+              the aircraft originally chartered except as provided in 
+              subsections 6.2 and 6.3.
+
+       6.2    When a substituted aircraft is capable of a larger payload 
+              than the aircraft originally chartered, the payload carried 
+              in the substituted aircraft shall not be greater than the 
+              payload that would have been available in the aircraft 
+              originally chartered, unless the Charterer agrees to pay the 
+              rates and charges applicable to the substituted aircraft.
+
+       6.3    When the maximum payload of a substituted aircraft is smaller 
+              than the maximum payload of the aircraft originally chartered, 
+              charges shall be based on the rates and charges applicable to 
+              the type of substituted aircraft, except that where such 
+              rates and charges are higher than those for the aircraft 
+              originally chartered, the rates and charges for the original 
+              aircraft chartered shall apply.
+
+7.     <strong>Determination of Firm Rate Per Hour</strong>
+
+       7.1    Except as provided in subsection 7.2, the hours and minutes 
+              for which a charge is made shall be computed from the time 
+              the aircraft leaves the surface of the earth and terminating 
+              when the aircraft touches the surface of the earth at the 
+              next point of landing. The term "<em>Firm Rate Per Hour</em>" is an 
+              hourly charge or portion thereof of "<em>Air Time</em>" as defined in 
+              the Canadian Aviation Regulations, Part VIII, Air Navigation 
+              Services, and will be the basis of calculating charges for 
+              air services.
+
+       7.2    When operations involve a continuous succession of flights, 
+              each of less than ten (10) minutes duration, and the engine 
+              is not shut down between such flights, air time shall be 
+              computed from the time the aircraft leaves the surface of the 
+              earth for the first flight and ceases when the aircraft 
+              touches the surface of the earth at the final point of 
+              landing.
+
+       7.3    In determining the duration of a flight:
+
+              (a)    each fraction of an hour shall be stated as a decimal, 
+                     established on the basis of a six minute period,
+              (b)    each period of less than three minutes shall be 
+                     rounded to zero, and
+              (c)    each period of between three and six minutes shall be 
+                     rounded to six minutes,
+
+              except that no flight shall be considered to have a duration 
+              of less than 0.1 hour.
+
+8.     <strong>Application of Rates and Charges Fixed Wing Only</strong>
+
+       8.1    On charters rates per mile shall apply for all point-to-point 
+              flights where flight distances are measurable.
+
+       8.2    Rates per hour shall apply when the Carrier is providing air 
+              service for a Charterer engaged in operations involving 
+              flights or parts thereof where flight distances are not 
+              measurable, or when requested by Charterer and such request 
+              is noted by the Carrier on the invoice.
+
+9.     <strong>Methods of Measuring Distance Fixed Wing Only</strong>
+
+       9.1    When a flight is required to be flown over airways routes or 
+              routes prescribed by the Department of Transport, the 
+              distances shall be measured in straight lines along such 
+              routes.
+
+       9.2    The distances of flights, other than a flight referred to in 
+              subsection 9.1, shall be measured in a straight line between 
+              the places of commencement and termination of the work 
+              provided for in the charter, using standard 8 miles to 1 inch 
+              aeronautical charts of the National Topographic Series, as 
+              issued by the Department of Natural Resources, Ottawa.
+
+
+</pre>
+</div>

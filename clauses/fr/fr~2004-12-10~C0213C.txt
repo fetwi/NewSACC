@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les services à prix ferme.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur sera payé au prix de lot ferme de _______ $ pour les travaux 
+et les services effectués conformément au présent contrat.
+
+<strong>Frais de déplacement et de subsistance</strong>
+
+On paiera à l'entrepreneur les frais autorisés de déplacement et de 
+subsistance, raisonnables et convenables, engagés dans l'exécution des 
+travaux, au prix coûtant, sans aucune indemnité supplémentaire pour les 
+frais généraux ou la marge bénéficiaire, conformément aux indemnités 
+relatives à l'utilisation d'un véhicule privé, aux repas et aux faux frais 
+qui sont précisées aux appendices B, C et D de la Directive du Conseil du 
+Trésor sur les voyages <span class="wsStyleUnderline">(</span><strong class="wsStyleUnderline">http://www.tbs-sct.gc.ca/hr-rh/gtla-vgcl/</strong>), et 
+selon les autres dispositions de la Directive qui se rapportent aux « 
+voyageurs » plutôt que celles qui se rapportent aux « employés ».
+
+Coût estimatif : _____.
+
+Tous les paiements sont assujettis à une vérification par le gouvernement.
+
+Tout déplacement doit être approuvé au préalable par le ____________ (<strong><em>
+Insérer le nom de l'autorité applicable</em></strong>).
+
+La taxe sur les produits et services ou la taxe de vente harmonisée, selon 
+le cas, estimée à ______ $ s'ajoute au coût estimatif indiqué dans le 
+présent document et elle doit être payée conformément aux dispositions de 
+la clause « _____ ».
+
+Sous réserve de l'option relative aux services additionnels exercée 
+conformément à la clause « _____ » du présent document, l'entrepreneur sera 
+payé au prix de lot ferme de ______ $ pour effectuer tous les travaux et 
+services requis en raison de la prolongation du contrat.
+
+<strong>Non-financé</strong>
+
+Tous les produits livrables sont FOB destination et les droits de douane 
+canadiens sont inclus, s'il y a lieu.
+
+</pre>
+</div>

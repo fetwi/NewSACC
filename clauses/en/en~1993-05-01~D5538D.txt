@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when Government Quality Assurance at source and/or 
+destination is a requirement and the draft Requisition for Goods and Services 
+has multiple Quality Assurance Codes (QACs).  If the draft Requisition for Goods 
+and Services has only a single QAC, use one of the following clauses instead: 
+D5530D, D5531D, D5532D, D5533D, D5534D, D5535D, D5536D, D5537D, D5539D, D5540D, 
+D5541D, D5542D, or D5580D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the quality system requirements identified in the Contract 
+which correspond to the Quality Assurance Codes (QACs) listed on the 
+continuation sheets.
+
+D5530D - Verification at destination (QAC B)
+
+D5531D - Inspection at destination (QAC A)
+
+D5532D - AQAP-110 Design/Development/Production (QAC H)
+
+D5533D - AQAP-130 Inspection (QAC G)
+
+D5534D - AQAP-131 Final Inspection (QAC D)
+
+D5535D - AQAP-150 Software Development (QAC F)
+
+D5536D - D-QA-001-015/SF-001 (QAC E)
+
+D5537D - D-QA-001-015/SF-002 (QAC P)
+
+D5539D - AQAP-120 Production (QAC W)
+
+D5540D - ISO 9001 Design/Development/Production (QAC X)
+
+D5541D - ISO 9002 Production and Installation (QAC Y)
+
+D5542D - ISO 9003 Final Inspection (QAC Z)
+
+D5580D - U.S. FAA/DOT (QAC J)
+
+
+</pre>
+</div>

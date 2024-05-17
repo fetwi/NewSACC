@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le choix du fournisseur repose sur le 
+principe de la soumission/l'offre offrant la meilleure valeur globale, soit le 
+plus bas prix par point.  Elle doit accompagner la clause A0200T ou une clause 
+similaire.  Cette clause peut être remplacée par la clause A0035T.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour qu'elle soit considérée comme recevable, une soumission/offre 
+       doit :
+
+       a)     respecter tous les critères obligatoires; et
+
+       b)     avoir obtenu le minimum de points requis pour les critères 
+              soumis à la cotation numérique, tel qu'indiqué dans 
+              l'invitation à soumissionner.
+
+2.     Les soumissions/offres qui ne satisfont pas aux exigences a) ou b) 
+       mentionnées ci-dessus seront éliminées.  La soumission/l'offre 
+       recevable qui a obtenu le plus grand nombre de points ou la 
+       soumission/l'offre offrant le prix le plus bas ne sera pas 
+       nécessairement acceptée.  C'est la soumission/l'offre recevable 
+       offrant le plus bas prix par point qui sera recommandée aux fins de 
+       l'adjudication d'un contrat ou de l'établissement d'une offre à 
+       commandes, selon le cas.
+
+</pre>
+</div>

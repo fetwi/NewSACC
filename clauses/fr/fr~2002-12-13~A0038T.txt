@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les invitations à soumissionner portant sur le 
+transport aérien nolisé de biens et de passagers.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le transporteur doit se conformer, dans l'exécution du service 
+       décrit dans la présente, aux dispositions de la <em>Loi sur les 
+       transports au Canada, 1996,</em> et de la <em>Loi sur l'aéronautique</em> ainsi 
+       qu'aux directives, aux arrêtés, aux règles et aux règlements émis en 
+       vertu de ces lois et applicables audit service.
+
+2.     Le pilote commandant de bord de l'appareil recevra et exécutera les 
+       instructions du mandataire de l'affréteur en ce qui a trait à 
+       l'établissement de l'horaire et à l'usage de l'appareil du 
+       transporteur, compte tenu toutefois de l'état de vol de l'appareil 
+       et des conditions atmosphériques.
+
+3.     Quand, pour des raisons de sécurité ou autres, le transporteur ou le 
+       pilote commandant de bord suspend temporairement un vol ou une 
+       partie dudit service, l'affréteur aura le droit de demander un 
+       rapport écrit justifiant ces mesures.
+
+4.     L'appareil, qui assurera le service requis dans le cadre du présent 
+       contrat, devra être muni d'un équipement radio en état de marche 
+       pouvant émettre et capter des signaux radio-électriques sur les 
+       fréquences utilisées au point de départ, en vol et à destination 
+       ainsi que d'un émetteur de localisation d'urgence.
+
+</pre>
+</div>

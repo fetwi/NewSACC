@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the event that the Contractor is unable to provide the specific item 
+ordered and wishes to offer a substitute, the Contractor must submit 
+drawings and/or specifications of the substitute item to Public Works and 
+Government Services Canada (PWGSC).  The substitute item shall not be 
+shipped until formally authorized by PWGSC subsequent to certification of 
+acceptability by the Department of National Defence Technical Authority.
+
+</pre>
+</div>

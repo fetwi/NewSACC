@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations relating to acquisition for which 
+joint venture proposals have been anticipated as eligible. (Refer to the Supply 
+Manual, procedure 7A.133.)
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Bidder represents that the bidding entity is/is not <strong>(delete as 
+       applicable)</strong> a joint venture in accordance with the definition in 
+       paragraph 3.
+
+2.     A Bidder that is a joint venture represents the following additional 
+       information:
+
+       (a)    Type of joint venture (mark applicable choice):
+
+              _____ incorporated joint venture
+              _____ limited partnership joint venture
+              _____ partnership joint venture
+              _____ contractual joint venture
+              _____ other
+
+       (b)    Composition: (names and addresses of all members of the joint 
+              venture.)
+
+3.     Definition of joint venture
+
+       A joint venture is an association of two or more parties who combine 
+       their money, property, knowledge, skills, time or other resources in 
+       a joint business enterprise agreeing to share the profits and the 
+       losses and each having some degree of control over the enterprise. 
+       Joint ventures may be carried on in a variety of legal forms divided 
+       into three categories:
+
+       (a)    the incorporated joint venture;
+       (b)    the partnership venture;
+       (c)    the contractual joint venture where the parties combine their 
+              resources in the furtherance of a single business enterprise 
+              without actual partnership or corporate designation.
+
+4.     The joint venture team arrangement is to be distinguished from other 
+       types of contractor arrangements, such as:
+
+       (a)    prime contractor, in which, for example, the purchasing 
+              agency contracts directly with a contractor (prime) who acts 
+              as the system assembler and integrator, with major components, 
+              assemblies and subsystems normally subcontracted; 
+       (b)    associated contractor, in which for example, the purchasing 
+              agency contracts directly with each of the major component 
+              suppliers and performs the integration tasks or awards a 
+              separate contract for this purpose.
+
+
+</pre>
+</div>

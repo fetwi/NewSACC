@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats dont le prix est à négocier, si 
+elle s'applique. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les prix unitaires spécifiés pour les articles _____ sont des prix plafonds.  
+   Un prix unitaire définitif pour les biens, fondé sur des coûts calculés 
+   conformément aux Principes des coûts contractuels, DSS-MAS 1031-2, 
+   additionnés d'un bénéfice ne devant pas dépasser _____ p.100 desdits 
+   coûts, sera établi dès que possible, et, dans tous les cas avant le _____. 
+   Les prix définitifs ne pourront dépasser, en aucun cas, les prix 
+   plafonds spécifiés.
+</pre>
+</div>

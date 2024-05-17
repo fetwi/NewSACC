@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause where the contractor has care, custody or control of government property for maintenance or repair such as dry cleaners and repair 
+facilities.  For storage facilities, use clause
+  
+   G2052C
+  
+  .
+ </p>
+<p>
+  The value and basis of valuation of government property must be filled in the clause.  The basis of valuation of this property should be established with the 
+client and mentioned in the contractor's insurance policy.  Contracting officers must insert one of the options provided in the second blank of paragraph 1.
+ </p>
+<p>
+  The limits are to be evaluated on a case-by-case basis. For further assistance, contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must obtain Bailee's Customer's Goods insurance while Government Property is under its care, custody or control for repair or servicing, and maintain it in force throughout the duration of the Contract, in an amount of not less than $ <var>_____</var> . Government Property must be insured on a <span class="input-required"><var>_________</var> basis.
+<kbd>(<em><strong>Contracting officers must insert one of the following basis of valuation</strong>: "Replacement Cost (new)"; "Actual Cash Value (depreciated cost)" <strong>or</strong> "Agreed Value (appraisal)"</em>)</kbd></span></p>
+<ol type="1">
+<li value="1">Administration of Claims: The Contractor must notify Canada promptly about any losses or damages to Government Property and monitor, investigate and document losses of or damage to ensure that claims are properly made and paid.</li>
+<li value="2">The Bailee's Customer's Goods must include the following:
+            <ol type="a">
+<li value="1">Notice of Cancellation: The Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="2">Settlement of Claims: The insurance proceeds regarding any loss of or damage to Government Property must be payable to the appropriate party as directed by the Contracting Authority.
+                </li>
+<li value="3">Waiver of Subrogation Rights: Contractor's Insurer to waive all rights of subrogation against Canada as represented by
+                    <span class="input-required"><var>____________</var> <kbd>(<em>insert
+department</em>)</kbd></span> and Public Works and Government Services Canada for any and all loss of or damage to the property however caused.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Sa Majesté paiera l'entrepreneur pour les travaux accomplis en 
+       conformité avec le Principe de paiement contenu dans les présentes:
+
+       a)     dans les trente (30) jours suivant la date où les travaux ont 
+              été exécutés; ou
+
+       b)     dans les trente (30) jours suivant la date à laquelle une 
+              demande de paiement et les documents à l'appui ont été reçus 
+              conformément aux conditions du contrat;
+
+              le délai le plus long étant retenu.
+
+2.     Si Sa Majesté s'oppose au contenu de la facture ou des documents à 
+   l'appui, Elle devra, dans les quinze (15) jours suivant leur réception, 
+   aviser l'entrepreneur de la nature de l'objection. On entend par "
+   contenu de la facture" une facture qui contient ou à laquelle s'ajoute 
+   de la documentation à l'appui telle qu'exigée par Sa Majesté. Si Sa 
+   Majesté ne donne pas suite dans les quinze (15) jours, la date stipulée 
+   au paragraphe 1 de la clause servira dans l'unique but de calculer 
+   l'intérêt sur les comptes en souffrance.  
+</pre>
+</div>

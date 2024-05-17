@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les excédents supérieurs à 2 p. 100 ou plus élevés que ceux prévus dans le 
+   présent document ne seront pas acceptés.  Tout excédent doit être un 
+   multiple de l'unité de base stipulée dans le présent document. Les 
+   excédents doivent être répartis conformément au calendrier de livraison. 
+</pre>
+</div>

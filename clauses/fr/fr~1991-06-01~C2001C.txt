@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante si C2901T fut utilisée. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous certifions que le présent Contrat a été passé puisque l'Entrepreneur a 
+   exclu du Prix contractuel tous les droits de douane et taxes qui ont été 
+   payées ou devraient être payées sur les biens importés utilisés pour 
+   fabriquer les marchandises que l'Entrepreneur a accepté de fournir.  En 
+   conséquence, nous autorisons, par la présente, l'Entrepreneur à demander 
+   un drawback de droits de douane applicables aux termes du règlement 
+   établi par le ministère du Revenu national, Douanes et Accise, lorsque 
+   les produits fabriqués auront été exportés (ou fournis au Canada à la 
+   satisfaction du Ministre).
+</pre>
+</div>

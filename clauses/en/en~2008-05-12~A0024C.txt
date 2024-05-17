@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all marine refit and repair contracts when the 
+vessel being repaired will be unmanned and in the care or custody of the 
+contractor and under its control.
+
+Use this clause in conjunction with G3002C and/or G5001C when the ship is in the 
+care or custody  of the contractor and under its control, if applicable.
+
+Contracting officers must ensure general conditions 1026A and supplemental 
+general conditions 1029 are incorporated by reference in the contract.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The vessel will be unmanned during the work period and will be considered 
+to be out-of commission.  The vessel during that period will be in the care 
+or custody of the Contractor and under its control.
+
+
+</pre>
+</div>

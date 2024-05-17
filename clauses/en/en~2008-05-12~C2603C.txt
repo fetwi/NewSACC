@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when a client department, other than 
+National Research Council Canada, claims exemption of customs duties for goods 
+imported under Customs Tariff, Schedule II, Annex Code 1760. The goods must be 
+used in teaching, research or other specified use.
+ </p>
+<p>
+  Contracting officers must insert the end-use and the authority number specified 
+by the client department.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The goods described in the Contract are of a class or kind
+enumerated in <cite>Customs Tariff, Schedule II, Annex Code 1760</cite>, and are
+exempt from customs duties. The goods are for use directly in
+<var>_____</var> by <span class="input-required"><var>_____</var>
+<kbd>(<em>Authority <abbr title="Number">No.</abbr> <var>_____</var></em>)</kbd></span> .</p>
+</div></pre>
+</div>

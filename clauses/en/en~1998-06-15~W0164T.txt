@@ -1,0 +1,72 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices. 
+
+Text:
+
+The benefits that apply to this procurement are contained in: Section 10, 
+Co-operation Agreement between the Inuvialuit Regional Corporation (IRC) and the 
+Department of National Defence (DND) concerning the restoration and clean-up of 
+DEW sites within the Inuvialuit Settlement Region, clause:
+
+6.2	DND will include as a term in all contracts between DND and a Contractor for 
+Work that the following specific business opportunities for the provision of 
+goods and services associated with the Work shall be provided through the 
+Contractor or Subcontractors as set out in the subclause hereunder. The 
+Contractor will provide the companies, listed below, a length of time to prepare 
+a bid which take into consideration the size and complexity of the work being 
+solicited. In any event, not less than fifteen (15) calendar days shall be 
+provided for a bid response from the date the solicitation documents are 
+delivered. Where, following a solicitation for one of the services set out in 
+this clause, the corresponding Inuvialuit Business has submitted a bid that is 
+technically compliant, competitive and based on the lower of published tariffs 
+(where applicable) or most favoured customer rates (where applicable), and the 
+Contractor decides to execute a contract for that Work, the contract shall be 
+offered to that Inuvialuit Business. If it has been determined that a bid 
+response contains minor variances which cause it to be considered not 
+technically compliant or not competitive, the company which submitted the bid 
+will be provided an opportunity to clarify the scope of work and revise its bid 
+accordingly (if required).
+
+	(b)	The Inuvialuit Projects Inc./Canadian Helicopters Ltd. Joint Venture will 
+have the first opportunity to bid on all contracts for the transportation of 
+personnel and freight by rotary wing aircraft for flights originating and 
+terminating within the IRC or Inuvik.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The benefits that apply to this procurement are contained in: Section 10, 
+Co-operation Agreement between the Inuvialuit Regional Corporation (IRC) 
+and the Department of National Defence (DND) concerning the restoration and 
+clean-up of DEW sites within the Inuvialuit Settlement Region, clause:
+
+6.2    DND will include as a term in all contracts between DND and a 
+       Contractor for Work that the following specific business 
+       opportunities for the provision of goods and services associated 
+       with the Work shall be provided through the Contractor or 
+       Subcontractors as set out in the subclause hereunder. The Contractor 
+       will provide the companies, listed below, a length of time to 
+       prepare a bid which take into consideration the size and complexity 
+       of the work being solicited. In any event, not less than fifteen (15) 
+       calendar days shall be provided for a bid response from the date the 
+       solicitation documents are delivered. Where, following a 
+       solicitation for one of the services set out in this clause, the 
+       corresponding Inuvialuit Business has submitted a bid that is 
+       technically compliant, competitive and based on the lower of 
+       published tariffs (where applicable) or most favoured customer rates 
+       (where applicable), and the Contractor decides to execute a contract 
+       for that Work, the contract shall be offered to that Inuvialuit 
+       Business. If it has been determined that a bid response contains 
+       minor variances which cause it to be considered not technically 
+       compliant or not competitive, the company which submitted the bid 
+       will be provided an opportunity to clarify the scope of work and 
+       revise its bid accordingly (if required).
+
+       (b)    The Inuvialuit Projects Inc./Canadian Helicopters Ltd. Joint 
+   Venture will have the first opportunity to bid on all contracts for the 
+   transportation of personnel and freight by rotary wing aircraft for 
+   flights originating and terminating within the IRC or Inuvik.
+</pre>
+</div>

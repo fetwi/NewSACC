@@ -1,0 +1,53 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>INSPECTION AND STAMPING PROCEDURES FOR MEAT PRODUCTS CONSIGNED TO THE 
+DEPARTMENT OF NATIONAL DEFENCE:
+
+1.     All shipments of meat products consigned to the Department of 
+       National Defence (DND) must be inspected and stamped as complying 
+       with all individual contract specifications by an inspector of the 
+       Food Products and Inspection Branch, Agriculture Canada, prior to 
+       shipment.
+
+       IT IS THE RESPONSIBILITY OF THE REGISTERED ESTABLISHMENT AWARDED A 
+       CONTRACT TO ENSURE THAT:
+
+       (a)    the inspector is notified and is given a copy of the contract; 
+              and
+
+       (b)    there is in the possession of the management, the latest 
+              issue of the Canadian General Standards Board standards 
+              respecting the contract; and these are available to the 
+              inspector-in-charge. This is to be confirmed by a letter 
+              issued by Department of Public Works and Government Services 
+              (DPWGS), signed by plant management and the 
+              inspector-in-charge and returned to the area office of DPWGS.
+
+2.     It is a contractual obligation that meat products for the Department 
+       of National Defence be inspected, stamped with the official stamp, 
+       and date marked at the PLANT OF PRODUCTION. In the case of processed 
+       products with a label approval number specified on the contract, the 
+       stamping and date marking may be done at the shipping establishment. 
+       Plant management must ensure that any product leaving their plant 
+       for shipment to DND has been properly stamped by the inspector. A 
+       rubber or brass stamp marked "Agriculture Canada Insp. (number)" for 
+       G.C. is available on request. The stamp must remain under the 
+       control of the inspector-in-charge. A log of each occasion when the 
+       stamp is used shall be kept indicating date, stamp number, type and 
+       quantity of product, destination and contract number.
+
+3.     After the inspector has verified that the shipment meets all 
+       contract requirements and that each container has been date stamped, 
+       each container must be legibly stamped using the "Agriculture Canada 
+       Insp. (number)" for G.C. stamp prior to shipment. In the case of 
+       beef carcasses, each quarter must have two stamp impressions or 
+       eight per carcass. Hog, veal, lamb and mutton carcasses must have 
+       three stamp impressions per side or six per carcass.
+
+4.     Inspectors are to document all in-plant rejections of meat products 
+   destined for DND by cause and notify their regional office which, in 
+   turn, will notify DPWGS. 
+</pre>
+</div>

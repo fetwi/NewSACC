@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Vous devez envoyer votre soumission à l'adresse suivante avant la date de 
+clôture de la présente DP, indiquée à la page 1.
+
+Sous-section de réception des soumissions, Pièce 0A1, Foyer principal 
+Ministère des Approvisionnements et Services, 11, rue Laurier Hull (Québec) 
+K1A 1C9
+
+Fax:    (819) 997-9776   ou    (819) 994-0080 
+</pre>
+</div>

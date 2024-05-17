@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale lorsque des plaques signalétiques sont requises.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A1030C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Lorsque des plaques signalétiques sont requises, l'entrepreneur doit prendre les dispositions relatives à leur conception et à leur fabrication conformément au numéro le plus récent de la spécification D-02-002-001/SG-001 des Forces canadiennes. Les plaques doivent être apposées sur les articles finaux à livrer, avant leur livraison. La spécification sera fournie par l'autorité contractante à la demande de l'entrepreneur.</li>
+<li value="2">Les plaques signalétiques concernant le programme F-18 de la marine des États-Unis doivent être fabriquées conformément au numéro le plus récent de la norme MIL-STD-130; toutefois, la mention « <em>U.S.</em> » doit être effacée et le numéro du contrat, précédé de la mention « CANADA », doit être précisé dans le bloc
+réservé à ce numéro.</li>
+<li value="3">L'entrepreneur doit soumettre au responsable technique du ministère de la Défense nationale les dessins des plaques signalétiques, pour approbation, au moins soixante (60) jours avant le début de la production.</li>
+</ol>
+</div></pre>
+</div>

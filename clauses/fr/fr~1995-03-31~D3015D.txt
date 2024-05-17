@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le fournisseur doit assurer l'étiquetage et l'emballage appropriés en vue 
+de la fourniture et de l'expédition de produits dangereux au gouvernement 
+du Canada.
+
+Le Canada ne sera pas tenu responsable des dommages causés par l'emballage 
+incorrect et le mauvais étiquetage de ces produits ou par des erreurs 
+relatives à leur transport.
+
+Toutes les étiquettes de marchandise doivent clairement indiquer le 
+pourcentage de matières dangereuses en volume. À défaut de le faire, le 
+fournisseur sera tenu responsable des dommages causés au cours du 
+déplacement des produits par des véhicules ou des employés du gouvernement. 
+
+Les fournisseurs doivent s'assurer qu'ils respectent tous les règlements 
+relatifs aux produits dangereux qui sont prévus par les lois fédérales et 
+provinciales ainsi que par les règlements municipaux.
+
+</pre>
+</div>

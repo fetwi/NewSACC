@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Évaluation fondée sur la cote numérique - Sélection de l'Entrepreneur selon 
+la meilleure valeur globale.
+
+MÉTHODE DE SÉLECTION:
+
+En plus du DSS-MAS 9403-5 «Instructions et conditions uniformisées», les 
+proposants conviennent que, pour que leur offre soit considérée comme 
+valide, ils devront obtenir au moins 70 p. 100 des points (sur une échelle 
+de 100) pour les critères utilisés dans la cotation numérique.
+
+Les propositions qui n'auront pas obtenu ce minimum requis seront éliminées. 
+   On n'acceptera pas nécessairement la proposition valide ayant obtenu le 
+   plus de points ou la proposition valide la plus basse. La sélection de 
+   l'Entrepreneur se fera en fonction de la meilleure valeur globale 
+   qu'obtiendra la Couronne tant en fonction du mérite que du point de vue 
+   des coûts.  
+</pre>
+</div>

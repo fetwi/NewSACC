@@ -1,0 +1,71 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause where the Contractor is engaged to, essentially, produce a new 
+product and where the Responsible Department has determined that it wishes to 
+have a broader license to the Contractor's Background Information to allow for 
+further development of that product, including, possibly, production of it for 
+Canada's use.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Section 04, "License to Intellectual Property Rights in Background 
+       Information", of Supplemental General Conditions DSS-MAS 9601-7 is 
+       deleted and replaced by the following:
+
+       "<strong>04    License to Intellectual Property Rights in Background 
+              Information</strong>
+
+       1.     Without restricting the scope of any license or other right 
+              in the Background Information that Canada may otherwise hold, 
+              the Contractor hereby grants to Canada a non-exclusive, 
+              perpetual, irrevocable, worldwide, fully-paid and 
+              royalty-free license to exercise such of the Intellectual 
+              Property Rights in any Background Information incorporated 
+              into the Work or necessary for the performance of the Work as 
+              may be required in order for Canada to exercise its 
+              Intellectual Property Rights in the Foreground Information.  
+              The Contractor agrees, subject to subsection 4, to make any 
+              such Background Information (including, in the case of 
+              Software, source code) promptly available to Canada for any 
+              such purpose.
+
+       2.     The Contractor acknowledges that Canada may wish to award 
+              contracts for a purpose contemplated in subsection 1 and that 
+              such contract awards may follow a competitive process. The 
+              Contractor agrees that Canada's license in relation to the 
+              Intellectual Property  Rights in the Background Information 
+              includes the right to disclose the Background Information to 
+              bidders for such contracts and to sublicense or otherwise 
+              authorize the use of that information by any contractor 
+              engaged by Canada solely for the purpose of carrying out such 
+              a contract. Canada shall require bidders and the contractor 
+              not to use or disclose any Background Information except as 
+              may be necessary to bid for or to carry out that contract.
+
+       3.     Where the Intellectual Property Rights in any Background 
+              Information are owned by a Subcontractor at any tier, the 
+              Contractor shall either obtain a license from that 
+              Subcontractor that permits compliance with subsections 1 and 
+              2 or arrange for the Subcontractor to convey directly to 
+              Canada the same rights by execution of the form provided for 
+              that purpose by the Minister, in which case the Contractor 
+              shall deliver that form to the Minister, duly completed and 
+              executed by the Subcontractor, no later than the time of 
+              disclosure to Canada of that Background Information.
+
+       4.     Notwithstanding subsection 1, the license set out therein 
+              shall not apply to any Software that is subject to detailed 
+              license conditions that are set out elsewhere in the Contract.  
+              Furthermore, in the case of commercial off-the-shelf software, 
+              the Contractor's obligation to make the source code promptly 
+              available to Canada for a purpose set out in subsection 1 
+              shall apply only to source code that is within the control of 
+              or can be obtained by the Contractor or any Subcontractor, 
+              and in that event the Contractor shall, if requested by 
+              Canada, make the source code available to Canada within 
+              reasonable delivery times and on reasonable other commercial 
+              terms."
+
+
+
+</pre>
+</div>

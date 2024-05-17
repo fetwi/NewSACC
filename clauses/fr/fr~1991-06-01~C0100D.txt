@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les achats non concurrentiels de produits et 
+services commerciaux, dont la valeur est de plus de 50 000 $, lorsque la clause 
+d'attestation de prix C0002T, C0004T ou C0006T est utilisée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'attestation de l'entrepreneur à l'effet que le prix/taux indiqué n'est 
+   pas supérieur au plus bas prix/taux demandé, y compris au meilleur 
+   client de l'entrepreneur, pour des produits ou services de qualité et de 
+   quantité semblables, peut être vérifiée par le service de vérification 
+   du gouvernement, à la discrétion du Ministre, avant ou après que 
+   l'entrepreneur n'ait été payé conformément aux conditions du présent 
+   contrat. Si ladite vérification prouve que l'attestation est erronée, il 
+   est entendu que l'entrepreneur doit rembourser au Canada le trop-payé 
+   par rapport au plus bas prix.
+</pre>
+</div>

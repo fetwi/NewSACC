@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations and contracts for defence supplies 
+issued directly to U.S. or Canadian suppliers.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The contract price to be paid shall not include any charges for recoupment 
+for non-recurring costs payable to the U.S. Department of Defense.
+
+
+</pre>
+</div>

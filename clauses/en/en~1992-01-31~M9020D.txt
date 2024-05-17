@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The period for placing call-ups against the Standing Offer shall be from 
+date of authorization of a Standing Offer to _____. The Supplier may, 
+however, offer to provide the services for an additional one year period. 
+Should SSC foresee during the period _____ to _____ , a potential need for 
+services, it may consider arranging for the authority to use the Standing 
+Offer for that additional one year period. 
+
+
+</pre>
+</div>

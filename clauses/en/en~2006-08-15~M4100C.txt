@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all standing offers where the winning offeror's 
+eligibility for consideration required the completion and submission of a signed 
+Canadian Content certification.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Offeror represents and warrants that the certification of 
+       Canadian Content submitted with its offer is accurate and complete, 
+       and that the goods and services to be provided to Canada pursuant to 
+       this Standing Offer will be in accordance with the said 
+       certification.  The Offeror acknowledges that Canada has relied upon 
+       such representation and warranty to issue the Standing Offer.  Such 
+       representation and warranty may be verified in such manner as Canada 
+       may reasonably require.
+
+2.     The Contractor acknowledges that in the event of a breach of such 
+       covenant, Canada will have the right to treat any contract resulting 
+       from the Standing Offer as being in default in accordance with the 
+       default provisions of the Contract.
+
+3.     The Offeror must keep proper records and documentation relating to 
+       the origin of the goods and services provided to Canada.  The 
+       Offeror must not, without obtaining before the written consent of 
+       Canada, dispose of any such records or documentation until the 
+       expiration of six (6) years after final payment under any contract 
+       resulting from the Standing Offer, or until settlement of all 
+       outstanding claims and disputes, whichever is later.  All such 
+       records and documentation must at all times during the 
+       aforementioned retention period be open to audit, inspection and 
+       examination by the authorized representatives of Canada, who may 
+       make copies and take extracts thereof.  The Offeror must provide all 
+       facilities for such audits, inspections and examinations, and must 
+       furnish all such information as the representatives of Canada may 
+       from time to time require with respect to such records and 
+       documentation.
+
+4.     Nothing in this clause must be interpreted as limiting the rights 
+       and remedies which Canada may otherwise have in relation to or 
+       pursuant to any contract resulting from the Standing Offer.
+
+</pre>
+</div>

@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all contracts when the Canadian contractor has 
+engaged or may engage representatives.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor agrees that if sales agents or representatives
+are to be employed or sales fees or commissions are to be paid as
+part of the Contract Price:</p>
+<ol type="i">
+<li value="1">the agreement made between the Contractor and the
+sales agents or representative shall be formally written and be in
+accordance with sound business practices;</li>
+<li value="2">any remuneration will be justifiable and reasonable in
+relation to the size and nature of the Contract; and</li>
+<li value="3">no action will be taken by the Contractor that would
+violate the laws of Canada or the laws of the United States of
+America.</li>
+</ol>
+</div></pre>
+</div>

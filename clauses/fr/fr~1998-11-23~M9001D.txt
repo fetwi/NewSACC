@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous vous avisons que les conditions régissant l'utilisation de l'offre à 
+commandes no _____ du ministère des Travaux publics et des Services 
+gouvernementaux (MTPSG), reçue de _____, ont été modifiées comme suit :
+
+(__)   L'offre originale a été retirée dans son ensemble et remplacée par 
+       la nouvelle offre ci-jointe, qui demeurera en vigueur jusqu'au _____ 
+       inclusivement.
+
+(__)   L'offre originale a été révisée comme il est indiqué dans la 
+       présente.  Toutes les commandes passées après le _____ doivent être 
+       conformes aux dispositions révisées.
+
+(__)   La limite financière applicable à chaque commande passée en vertu de 
+       la présente offre à commandes a été portée de _____$ à _____$.  Vous 
+       êtes donc autorisé à passer des commandes dont la valeur ne doit pas 
+       dépasser la nouvelle limite établie et ce, entre le _____ et le _____ 
+       inclusivement.
+
+(__)   La période durant laquelle vous pouvez passer des commandes 
+       subséquentes à la présente offre à commandes a été modifiée et 
+       s'étend maintenant du _____ au _____ inclusivement.
+
+(__)   En raison d'une plus grande utilisation que prévue de la présente 
+       offre à commandes, le MTPSG a autorisé la passation continue de 
+       commandes pouvant atteindre la nouvelle limite établie de ____ $.
+
+<strong>NOTA</strong> : Cette limite correspond à la meilleure évaluation possible de la 
+              valeur totale des commandes devant être passées par tous les 
+              clients utilisant l'offre à commandes, pour toute la durée de 
+              l'offre à commandes allant du _____ au _____ inclusivement. 
+              Toute demande de renseignements concernant ce qui précède 
+              doit être adressée à l'agent de négociation des contrats 
+              nommé ci-dessous.
+
+Nom :_____
+
+No de téléphone :_____
+
+
+</pre>
+</div>

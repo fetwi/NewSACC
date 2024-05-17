@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La présente clause doit être utilisée chaque fois que les fonds budgétisés sont 
+limités. En général, on l'utilise avec la clause A0005T, A0200T ou une version 
+abrégée de cette dernière.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le financement en vue de la réalisation du présent projet est limité à _____ $ 
+   (TPS en sus). Toute soumission dont la valeur est supérieure à ce 
+   montant sera jugée non recevable. Le fait de divulguer le montant prévu 
+   pour le projet n'engage aucunement le Canada au paiement de ce montant.
+</pre>
+</div>

@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour aviser l'entrepreneur qu'il doit conserver les registres du fabricant constituant la preuve d'origine des pièces, les mettre à jour et les rendre disponibles à des fins d'examen.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit conserver les registres du fabricant
+constituant la preuve d'origine des pièces, les mettre à
+jour et les rendre disponibles à des fins d'examen pendant
+trois (3) ans suivant la livraison des dernières pièces
+en vertu du contrat. Ces registres doivent comprendre :</p>
+<ol type="a">
+<li value="1">des renseignements suffisants pour permettre
+d'identifier les pièces selon le type, la classe, le style, la
+catégorie (dont le numéro de série ou de lot), le
+numéro de modèle, l'origine, ainsi que la date et le lieu
+de fabrication, selon le cas;</li>
+<li value="2">le nom et la description (ou une autre
+désignation claire), ainsi que le numéro de la
+spécification, du dessin, du processus et des exigences
+relatives à l'inspection, selon le cas;</li>
+<li value="3">des registres pour l'ensemble des inspections et des
+essais effectués, y compris ceux qui ont été
+exécutés au nom du fabricant ou de l'entrepreneur;</li>
+<li value="4">des copies de tous les certificats de conformité
+ou d'application émis par le fabricant;</li>
+<li value="5">toutes les autres données techniques
+pertinentes.</li>
+</ol>
+</div></pre>
+</div>

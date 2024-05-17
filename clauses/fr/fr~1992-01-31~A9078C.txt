@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le contrat qui sera adjugé suite à la présente Demande de proposition sera 
+   pour une durée d'un an, à compter du _____. Le contrat stipulera que 
+   l'Entrepreneur accorde à Sa Majesté l'option irrévocable de renouveler 
+   le contrat aux mêmes conditions, pour une période additionnelle d'un an, 
+   du _____ au _____. Les taux pour la période d'option seront conformes au 
+   Principe de paiement énoncé dans la présente.    Les proposants doivent 
+   indiquer la date avant laquelle l'option doit être exercée.  
+</pre>
+</div>

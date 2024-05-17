@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Each contract may have individual requirements.  The following clause highlights 
+some common important endorsements for particular application to individual 
+contracts.  Careful consideration must be given by the contracting officer and 
+its client for inclusion of one or more of the endorsements listed.
+
+These endorsements may be selected in groupings or one at a time as needed and 
+they can be added to the endorsement section of G2020D.
+
+For further assistance, contact Public Works and Government Services Canada's 
+Risk Management and Insurance Advisory Services, at NCR RMIAS-SCGRA@pwgsc.gc.ca.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>(a)    Additional Insured:  Canada is included as an additional insured, 
+       but only with respect to liabilities that may arise from the 
+       Contractor's own negligence in the performance of the Contract.
+
+       The interest of Canada as additional insured should read as follows:  
+       Canada, represented by ________ (<strong class="wsStyleUnderline">insert client department's name</strong>) 
+       and/or Public Works and Government Services Canada.
+
+(b)    Sudden and Accidental Pollution Liability (minimum 72 hours):  To 
+       protect the Contractor for liabilities arising from damages caused 
+       by accidental pollution incidents.
+
+(c)    Non-owned Automobile Liability:  To protect the Contractor for 
+       liabilities arising by its use of vehicles owned by other parties.
+
+(d)    Permission to Transport Hazardous Goods:  If relevant, the Insured 
+       must obtain the applicable provincial or federal permission to 
+       transport hazardous material in conjunction with this endorsement.
+
+(e)    Permission to Carry Passengers for Compensation or Hire:  The 
+       endorsement allows the Contractor to carry passengers for 
+       compensation or hire, provides specific coverage and separate limits 
+       for passenger hazard.  The minimum limit of liability per passenger 
+       is $250,000 and $2,000,000 in the aggregate.
+
+(f)    Government-owned Automobiles:  The endorsement extends the 
+       Contractor's automobile policy to provide coverage against third 
+       party liability imposed by law or assumed under contract or 
+       agreement for loss or damage of government-owned vehicles.
+
+(g)    Liability for Physical Damage to Non-owned Automobiles:  The 
+       endorsement provides the Contractor with liability protection for 
+       physical damage to non-owned vehicles.
+
+</pre>
+</div>

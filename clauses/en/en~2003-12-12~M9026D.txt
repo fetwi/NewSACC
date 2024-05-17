@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Payment by Canada for the Work shall be made in accordance with the 
+       Basis of Payment specified herein:
+
+       (a)    within thirty (30) days following the date on which the Work 
+              has been performed; or
+
+       (b)    within thirty (30) days following the date on which an 
+              invoice and substantiating documentation are received 
+              according to the terms of the Standing Offer;
+
+       whichever date is the later.
+
+2.     If Canada has any objection to the form of the invoice or the 
+       substantiating documentation, within fifteen (15) days of its 
+       receipt Canada shall notify the Offeror of the nature of the 
+       objection.  "Form of the invoice" means an invoice which contains or 
+       is accompanied by such substantiating documentation as Canada 
+       requires.  Failure by Canada to act within fifteen (15) days will 
+       only result in the date specified in paragraph 1 of the clause to 
+       apply for the sole purpose of calculating interest on overdue 
+       accounts.
+
+</pre>
+</div>

@@ -1,0 +1,82 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'un prix ferme est établi pour les honoraires 
+professionnels et que les frais de déplacement et de subsistance ainsi que les 
+coûts directs doivent être remboursés au coût réel, sans majoration.
+
+Utiliser l'option 1 lorsque tous les travaux sont assujettis à un prix ferme.
+Utiliser l'option 2 lorsque seulement une partie des travaux est assujettie à un 
+prix ferme.
+Utiliser l'option 3 lorsque le contrat comprend une option de prolongation.
+
+Ajouter ou supprimer des paragraphes au besoin pour satisfaire des exigences 
+précises. Ajouter le paragraphe relatif à l'option de prolongation du contrat 
+s'il y a lieu.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Honoraires professionnels</strong>
+
+<strong>Option 1</strong>
+À condition de remplir de façon satisfaisante toutes ses obligations dans 
+le cadre du contrat, l'entrepreneur sera payé un prix ferme de _____ $ (<strong><em>
+insérer le montant au moment de l'attribution du contrat</em></strong>).  Les droits de 
+douane sont _______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">exclus</span><em> » </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">exonérés</span> ») et la 
+taxe sur les produits et services (TPS) ou la taxe de vente harmonisée (TVH) 
+est en sus, s'il y a lieu.
+
+<strong>Option 2</strong>
+À condition de remplir de façon satisfaisante toutes ses obligations dans 
+le cadre du contrat, ______ (<strong><em>si la présente base de paiement s'applique 
+seulement à une partie des travaux, ajouter</em></strong><strong> :</strong> « pour les travaux décrits 
+dans les sections _______ » (<strong><em>insérer les sections pertinentes de l'« </em></strong><span class="wsInlineRemark">Énoncé 
+des travaux</span><strong><em> » ou des « </em></strong><span class="wsInlineRemark">Besoins</span><strong><em> » auxquelles s'applique cette base de 
+paiement</em></strong>), de ______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">l'énoncé des travaux </span><em>» </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">des besoins</span> ») 
+fourni à l'annexe _____, l'entrepreneur sera payé un prix ferme de _____ $ 
+<strong>(</strong><strong><em>insérer le montant au moment de l'attribution du contrat</em></strong><strong>)</strong>. Les 
+droits de douane sont _______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">exclus</span><em> » ou « </em><span class="wsInlineRemark">exonérés</span> ») 
+et la taxe sur les produits et services (TPS) ou la taxe de vente 
+harmonisée (TVH) est en sus, s'il y a lieu.
+
+<strong>Frais de déplacement et de subsistance</strong>
+
+L'entrepreneur sera payé ses frais autorisés de déplacement et de 
+subsistance qu'il a raisonnablement et convenablement engagés dans 
+l'exécution des travaux, au prix coûtant, sans aucune indemnité 
+supplémentaire pour les frais généraux ou la marge bénéficiaire, 
+conformément aux indemnités relatives à l'utilisation d'un véhicule privé, 
+aux repas et aux faux frais qui sont précisées aux appendices B, C et D de 
+la Directive du Conseil du Trésor sur les voyages (http://www.tbs-sct.gc.ca
+/hr-rh/gtla-vgcl/), et selon les autres dispositions de la Directive qui se 
+rapportent aux « voyageurs » plutôt que celles qui se rapportent aux « 
+employés ».
+
+Tout déplacement doit être approuvé au préalable par le ____________ (<strong><em>
+insérer le nom de l'autorité applicable</em></strong>). Tous les paiements sont 
+assujettis à une vérification par le gouvernement.
+
+Coût estimatif : _____ $
+
+<strong>Autres coûts directs</strong>
+
+L'entrepreneur sera remboursé ses coûts directs qu'il a raisonnablement et 
+convenablement engagés dans l'exécution des travaux, par exemple, pour la 
+location de salles de réunion, les télécommunications et la traduction. Ces 
+coûts seront remboursés au coût réel, sans majoration, sur présetation d'un 
+état détaillé des coûts accompagné des reçus appropriés.
+
+Coût estimatif : _______ $ 
+
+<strong>Coût estimatif total selon la limitation des dépenses : ________ $ (TPS/TVH 
+en sus).</strong>
+
+<strong>Option 3</strong>
+<strong>Option de prolongation du contrat</strong>
+
+Durant la période de prolongation du contrat, l'entrepreneur sera payé au 
+prix ferme de ______ $ (<strong><em>insérer le montant au moment de l'attribution du 
+contrat</em></strong>) pour effectuer tous les travaux relatifs à la période de 
+prolongation du contrat.
+
+
+
+</pre>
+</div>

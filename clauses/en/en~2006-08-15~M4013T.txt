@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all competitive requests for standing offers in 
+which the Canadian Content Policy is applicable (see Supply Manual), where 
+competition is being solely limited to offers offering Canadian goods and/or 
+services and where it is NOT mandatory that offerors submit a certification with 
+their offer.  This clause is to be used for multi-item requirements that are 
+being certified on an individual item basis and where the offeror will be 
+required to indicate beside each item, listed in the offer, whether the item is 
+Canadian.
+
+This clause must be used in conjunction with clause K4000D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     This procurement is limited to Canadian goods and/or services as 
+       defined in clause K4000D.
+
+2.     The Offeror represents and warrants that, of the goods and/or 
+       services being offered, items individually identified as such in the 
+       offer are Canadian goods and/or services as defined in clause K4000D, 
+       and acknowledges that only those items will receive consideration.
+
+3.     Offers may be accepted in whole or in part.
+
+4.     The Offeror acknowledges that Canada relies upon such representation 
+       and warranty to evaluate offers and issue a standing offer as a 
+       result of this request for standing offers .  Such representation 
+       and warranty of Canadian content may be verified in such manner as 
+       Canada may reasonably require.
+
+5.     Should a verification by Canada disclose a breach of such covenant, 
+       Canada will have the right to treat any contract resulting from the 
+       Standing Offer as being in default.
+
+6.     The execution of this representation and warranty on the signature 
+       block immediately following this paragraph is a condition to render 
+       the offer responsive.  Failure to provide the signed certification 
+       upon request within ______ calendar days, if it is not submitted 
+       with the offer, will render the offer non-responsive.
+
+
+
+       ___________________         ___________________
+              Signature                   Date
+
+</pre>
+</div>

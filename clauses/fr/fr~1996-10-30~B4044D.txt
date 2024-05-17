@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause pour définir les conditions d'emballage et de marquage des 
+provisions alimentaires.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les emballages de produits alimentaires ne doivent comprendre que la 
+récolte de la saison en cours du pays d'origine.  Le mois et l'année de 
+l'emballage doivent figurer à une extrémité de chaque caisse, en lettres de 
+un demi-pouce à un pouce de hauteur.
+
+
+</pre>
+</div>

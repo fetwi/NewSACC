@@ -1,0 +1,111 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
+nationale (MDN) lorsque les travaux seront exécutés par des entrepreneurs 
+établis au Canada et que l'assurance de la qualité à la source du
+  <abbr title="Ministère de la Défense nationale">
+   MDN
+  </abbr>
+  est 
+requise.
+ </p>
+<p>
+  Utiliser cette clause conjointement avec
+  
+   D5515C
+  
+  ,
+  
+   D5604C
+  
+  ,
+  
+   D5605C
+  
+  et
+  
+   D5606C
+  
+  dans 
+la partie « clauses du contrat » de la demande de soumissions.  Au moment de 
+l'attribution du contrat, utiliser cette clause en conjonction avec les clauses 
+suivantes, selon le cas :
+  
+   D5402C
+  
+  ,
+  
+   D5606C
+  
+  ,
+  
+   D5509C
+  
+  ,
+  
+   D5540C
+  
+  , et
+  
+   D5620C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Tous les travaux sont assujettis à l'assurance de la
+qualité du gouvernement qui sera effectuée aux
+installations de l'entrepreneur ou à celles du sous-traitant,
+ainsi que sur les lieux d'installation, par le Directeur de
+l'assurance de la qualité, ou son représentant de
+l'assurance de la qualité (RAQ) désigné.
+<br/>Directeur de l'assurance de la qualité
+<br/>Quartier général de la Défense nationale
+<br/>Édifice Mgén George R. Pearkes
+<br/>101, promenade Colonel By
+<br/>Ottawa (ON) K1A 0K2
+<br/>Courriel : ContractAdmin.DQA@forces.gc.ca</p>
+<p>Dans les 48 heures suivant l'attribution du
+contrat, l'entrepreneur doit communiquer avec le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>. Le nom,
+l'adresse et le numéro de téléphone du <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> peuvent
+être obtenus de la Région de l'assurance de la
+qualité de la Défense nationale (RAQDN) la plus
+rapprochée énumérée ci-dessous :</p>
+<ul class="no-markers">
+<li>Atlantique - Halifax 902-427-7150</li>
+<li>Atlantique - Enfield 902-427-7224 / rdimshfxndqarenfield@forces.gc.ca</li>
+<li>Atlantique - Est Marin 902-427-2354</li>
+<li>Québec - Lévis 819-939-8615 / RAQDNQcLevisHCWPC@forces.gc.ca </li>
+<li>Québec - Montréal 514-732-4401 ou 514-732-4477</li>
+<li>Québec - Ville de Québec 418-844-5000, poste 1518 / RAQDNQcQuebec@forces.gc.ca</li>
+<li>Région de la capitale nationale - Ottawa 343-549-3073 ou 819-939-8608 / ncr.dqa-rcn.daq@forces.gc.ca</li>
+<li>Ontario - Toronto 416-633-6200 poste 5080</li>
+<li>Ontario - London 226-678-0704 / +NDQAR@forces.gc.ca</li>
+<li>Manitoba/Saskatchewan - Winnipeg 204-833-2500, poste 6574</li>
+<li>Alberta - 403-410-2320, poste 3830 / Diane.Tupper@forces.gc.ca</li>
+<li>Colombie - Britannique - Vancouver 604-225-2520, poste 2461 / CRNDQA.VAN@forces.gc.ca</li>
+<li>Colombie - Britannique - Victoria 250-363-1900 poste 60236 / tapati.datta2@forces.gc.ca</li>
+<li>Colombie - Britannique - Esquimalt 250-363-1900 poste 60241 / tapati.datta2@forces.gc.ca</li>
+</ul>
+<p>L'entrepreneur doit effectuer ou faire effectuer tous les essais
+et les inspections nécessaires pour confirmer que le
+matériel ou les services fournis sont conformes aux exigences
+du contrat.</p>
+<p>L'entrepreneur doit fournir, sans frais additionnels, toutes les
+données d'essai pertinentes, toutes les données
+techniques, les pièces d'essai et les échantillons
+pouvant raisonnablement être demandés par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> pour
+vérifier s'ils sont conformes aux exigences du contrat.
+L'entrepreneur doit expédier, à ses frais, ces
+données et pièces d'essai de même que ces
+échantillons à l'endroit indiqué par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
+<p>Les registres de contrôle de la qualité, d'inspection
+et d'essai faisant état de la conformité aux exigences
+spécifiées, ainsi que les registres des mesures
+correctives, doivent être conservés par l'entrepreneur
+pendant trois ans après la date d'exécution ou de
+résiliation du contrat, et présentés sur demande au
+<abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
+</div></pre>
+</div>

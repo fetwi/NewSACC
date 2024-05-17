@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in competitive requests for standing offers for single 
+item (line item) when competition is solely limited to Canadian goods as defined 
+in
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   A3050T
+  
+  and
+  
+   M3060C
+  
+  .
+ </p>
+<p>
+  Contracting officers must consult the Canadian Content Policy (
+  
+   Annex 3.6
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  to establish if the requirement is subject to the policy.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This procurement is limited to Canadian goods.</p>
+<p>The Offeror certifies that:</p>
+<p><var title="checkbox">( )</var> the good(s) offered are Canadian
+goods as defined in paragraph 1 of clause A3050T.</p>
+</div></pre>
+</div>

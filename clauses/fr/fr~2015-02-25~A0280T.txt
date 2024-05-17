@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions lorsque les soumissionnaires doivent fournir des documents particuliers avec leur soumission. Ajouter un titre représentatif à chacun des documents que doivent fournir les soumissionnaires avec leur soumission en utilisant une liste numérotée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<kbd><em>Instruction aux agents de négociation de contrats : Ajouter le titre de chacun des documents que doit fournir le soumissionnaire avec sa soumission.</em></kbd>
+<p>Le soumissionnaire doit fournir les documents suivants avec sa soumission :</p>
+<ol type="1">
+<li value="1"><var>______________</var></li>
+<li value="2"><var>______________</var></li>
+<li value="3"><var>______________</var> .</li>
+</ol>
+</div></pre>
+</div>

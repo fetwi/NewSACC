@@ -1,0 +1,72 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use this clause in contracts whenever the risk exposures include operation of watercraft.  This includes contracts involving marine operations such as tugs, barges, fishing vessels, excursion boats and marine contractors.
+ </p>
+<p>
+  Note that the protection and indemnity limits will be determined by the
+  
+   Marine Liability Act
+  
+  , S.C. 2001, c. 6.
+ </p>
+<p>
+  Whenever the liabilities of Canada and the contractor with respect to the contract are difficult to separate, contracting officers must replace paragraph 3. (a) by the following option:
+ </p>
+<p>
+  "Additional named insured: Canada is added as an additional named insured, but only with respect to liability arising out of the performance of the Contract."
+ </p>
+<p>
+  Contracting officers must include option (e) in paragraph 3 below when applicable to their contract.
+ </p>
+<p>
+  For further assistance, contact
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management and Insurance Advisory Services, at:
+  
+   rcnscgra.ncrrmias@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain protection and indemnity insurance that must include excess collision liability and pollution liability. The insurance must be placed with a member of the International Group of Protection and Indemnity Associations or with a fixed market in an amount of not less than the limits determined by the Marine Liability Act,
+            <abbr title="Statutes of Canada">S.C.</abbr> 2001,
+            <abbr title="chapter">c.</abbr> 6. Coverage must include crew liability, if it is not covered by Worker's Compensation as detailed in paragraph (2.) below.</li>
+<li value="2">The Contractor must obtain worker's compensation insurance covering all employees engaged in the Work in accordance with the statutory requirements of the territory or province or state of nationality, domicile, employment, having jurisdiction over such employees. If the Contractor is subject to an additional contravention, as a result of an accident causing injury or death to an employee of the Contractor or subcontractor, or due to unsafe working conditions, then such levy or assessment must be paid by the Contractor at its sole cost.</li>
+<li value="3">The protection and indemnity insurance policy must include the following:
+            <ol type="a">
+<li value="1">Additional insured: Canada is added as an additional insured, but only with respect to liability arising out of the Contractor's performance of the Contract. The interest of Canada as additional insured should read as follows: Canada, represented by Public Works and Government Services Canada.</li>
+<li value="2">Waiver of subrogation rights: Contractor's Insurer to waive all rights of subrogation against Canada as represented by <span class="input-required"><var>____________</var> <kbd>(<em>insert department</em>)</kbd></span> and Public Works and Government Services Canada for any and all loss of or damage to the watercraft however caused.
+                </li>
+<li value="3">Notice of cancellation: The Contractor will provide the Contracting Authority thirty (30) days prior written notice of policy cancellation or any changes to the insurance policy.</li>
+<li value="4">Cross liability and separation of insureds: Without increasing the limit of liability, the policy must protect all insured parties to the full extent of coverage provided. Further, the policy must apply to each Insured in the same manner and to the same extent as if a separate policy had been issued to each.
+                    <br/><span class="description">(<strong><em>Contracting officers must insert the following option, if applicable</em></strong>.)</span>
+</li>
+<li value="5">Litigation rights: Pursuant to subsection 5(d) of the Department of Justice Act,
+                    <abbr title="Revised Statutes of Canada">R.S.C.</abbr> 1985,
+                    <abbr title="chapter">c.</abbr> J-2, s.1, if a suit is instituted for or against Canada which the Insurer would, but for this clause, have the right to pursue or defend on behalf of Canada as an Additional Named Insured under the insurance policy, the Insurer must promptly contact the Attorney General of Canada to agree on the legal strategies by sending a letter, by registered mail or by courier, with an acknowledgement of receipt.
+                    <br/><strong>For the province of Quebec, send to:</strong>
+<br/>
+<address>Director Business Law Directorate,
+                        <br/>Quebec Regional Office (Ottawa),
+                        <br/>Department of Justice,
+                        <br/>284 Wellington Street, Room SAT-6042,
+                        <br/>Ottawa, Ontario, K1A 0H8</address>
+<br/><strong>For other provinces and territories, send to:</strong>
+<br/>
+<address>Senior General Counsel,
+                        <br/>Civil Litigation Section,
+                        <br/>Department of Justice
+                        <br/>234 Wellington Street, East Tower
+                        <br/>Ottawa, Ontario K1A 0H8</address>
+<br/>A copy of the letter must be sent to the Contracting Authority. Canada reserves the right to co-defend any action brought against Canada. All expenses incurred by Canada to co-defend such actions will be at Canada's expense. If Canada decides to co-defend any action brought against it, and Canada does not agree to a proposed settlement agreed to by the Contractor's insurer and the plaintiff(s) that would result in the settlement or dismissal of the action against Canada, then Canada will be responsible to the Contractor's insurer for any difference between the proposed settlement amount and the amount finally awarded or paid to the plaintiffs (inclusive of costs and interest) on behalf of Canada.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

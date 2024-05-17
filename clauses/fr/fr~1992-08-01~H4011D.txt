@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Les paiements seront effectués pour les services fournis, pourvu que:
+
+(i) les factures soient présentées conformément aux instructions de facturation 
+contenues dans les présentes;
+
+(ii) tous les frais directs, frais de déplacement et subsistance, etc. soient 
+appuyés par des factures, reçus, pièces justificatives;
+
+(iii) les feuilles de temps soient présentées pour corroborer le temps de 
+travail facturé.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les paiements seront effectués pour les services fournis, pourvu que :
+
+       a)     les factures soient présentées conformément aux instructions 
+              de facturation contenues dans les présentes;
+
+       b)     tous les frais directs, frais de déplacement et de 
+              subsistance, etc. soient appuyés par des factures, reçus, 
+              pièces justificatives;
+
+       c)     les feuilles de temps soient présentées pour corroborer le 
+              temps de travail facturé.
+
+
+</pre>
+</div>

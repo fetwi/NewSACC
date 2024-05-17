@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The price of paper, as indicated in this Contract, is subject to 
+       fluctuation, as provided by the following, in the event the 
+       Contractor's Published Price List varies between the date of this 
+       Contract and the date of first shipment. 
+
+2.     In the event such a fluctuation is envisaged by the Contractor, the 
+       latter shall provide to the Contracting Authority written notice 
+       thereof, along with a copy of its proposed Published Price List, at 
+       least twenty (20) days prior to the date of first delivery. 
+
+3.     Canada has the sole right to either accept the proposed price change, 
+       or to refuse the change. Refusal implies that the Contract is ipso 
+       facto annulled "ab initio" (retroactively, as if it never had 
+       existed), with no costs or liabilities to any party. The right of 
+       Canada shall be exercised in writing, be sent to the Contractor 
+       within ten (10) days of receipt of the Contractor's notice of price 
+       fluctuation, regardless if some or all paper has then been delivered. 
+       In the case of refusal, and if some paper has been delivered, all 
+       unused paper shall be returned to the Contractor, at Canada's cost, 
+       and used paper shall be paid for at the new published price. 
+
+4.     Acceptance of the price fluctuation will be evidenced by a contract 
+       amendment. Until such an amendment is issued, prices are not to be 
+       invoiced at a different rate than the rate stated in this Contract.
+
+
+</pre>
+</div>

@@ -1,0 +1,53 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les documents d'invitation à soumissionner 
+et documents contractuels de concert avec les clauses A0000C, A0000T, M0000C ou 
+M0000T, selon le cas.  Préciser la date des conditions générales et conditions 
+générales supplémentaires et SUPPRIMER le titre de celles qui ne s'appliquent 
+pas.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>[**<strong><em>SUPPRIMER LES ARTICLES QUI NE S'APPLIQUENT PAS, DE MÊME QUE LA PRÉSENTE 
+INSTRUCTION</em></strong>**]
+
+<strong>Conditions générales</strong> 
+
+DSS-MAS 1011A (_____), Achats aux États-Unis
+DSS-MAS 1026A (_____), Approvisionnements - prix ferme
+DSS-MAS 1026B (_____), Approvisionnements - Remboursements des frais
+DSS-MAS 1031-2 (_____), Principes des coûts contractuels
+DSS-MAS 1034 (_____), Construction - prix fixé et prix unitaires
+DSS-MAS 1053 (_____), Universités et autres institutions
+DSS-MAS 9329 (_____), Achat de produits et de services offerts dans le 
+commerce
+DSS-MAS 9601 (_____), Conditions générales - Formule détaillée
+DSS-MAS 9601-10 (_____), Conditions générales - Formule semi-détaillée
+DSS-MAS 9624 (_____), Conditions générales - Recherche et développement
+DSS-MAS 9628 (_____), Achat (inférieur à 25 000$) de produits et de 
+services offerts dans le commerce
+DSS-MAS 9676 (_____), Conditions générales - Services
+CCC-50 (_____), Corporation commerciale canadienne
+TRA-95 (_____), Traduction
+
+<strong>Conditions générales supplémentaires</strong>
+
+DSS-MAS 1028 (_____), Construction de navires - prix ferme
+DSS-MAS 1029 (_____), Réparation des navires
+DSS-MAS 1033 (_____), Construction de navires - remboursement des coûts
+DSS-MAS 1036 (_____), Recherche et développement
+DSS-MAS 9601-1 (_____), Achat ou location de matériel
+DSS-MAS 9601-2 (_____), Services d'élaboration ou de modification de 
+logiciels
+DSS-MAS 9601-3 (_____), Intégration du système
+DSS-MAS 9601-4 (_____), Logiciels sous licence
+DSS-MAS 9601-5 (_____), Services de soutien des logiciels sous licence
+DSS-MAS 9601-6 (_____), L'entrepreneur obtient la propriété des 
+renseignements originaux
+DSS-MAS 9601-7 (_____), Le Canada obtient la propriété des renseignements 
+originaux
+LAB-180 (_____), Conditions de travail
+LAB-180B (_____), Conditions de travail
+
+
+</pre>
+</div>

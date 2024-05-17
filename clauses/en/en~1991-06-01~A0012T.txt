@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>a) Any enquiries with respect to this _____ should be submitted to the 
+Department of Supply and Services Officer named on page one of this 
+document.    
+
+b) The Department of Supply and Services will circulate to all companies to 
+which this _____ has been sent, any information with respect to significant 
+enquiries received and the replies to such enquiries.    
+
+c) All enquiries and other communications with government officials 
+throughout the bid period (as defined in the bid document) are to be 
+directed ONLY to the DSS Officer named on page one of the document.   
+
+Non-compliance with this condition during the bid period may (for that 
+   reason alone) result in disqualification of your offer. 
+</pre>
+</div>

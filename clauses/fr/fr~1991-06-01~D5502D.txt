@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Lorsqu'une publication interalliée pour l'assurance de la qualité (AQAP) est 
+requise, insérer la spécification appropriée et la prolongation de période 
+appropriée comme suit :
+
+AQAP-1 - Exigences OTAN pour un système de contrôle de la              qualité 
+dans l'industrie; prolongation de 3 ans.
+
+AQAP-4 - Exigences OTAN pour les organisations industrielles           
+d'inspection; prolongation de 3 ans.
+
+AQAP-6 - Exigences OTAN pour le mesurage et l'étallonnage dans         
+l'industrie; prolongation de 1 à 3 ans.
+
+AQAP-9 - Exigences OTAN minimales pour l'inspection dans               
+l'industrie; prolongation d'un ans.
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des Travaux décrits dans le présent document, 
+l'Entrepreneur doit se conformer aux exigences de : _____
+
+Les registres de contrôle de la qualité et d'inspection devront être 
+   conservés par l'Entrepreneur pour une période de _____ ans suivant la 
+   date d'excution ou de résiliation du Contrat.
+</pre>
+</div>

@@ -1,0 +1,48 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for all competitive bid solicitations where the 
+potential contractor may be a Former Public Servant in receipt of a Lump Sum 
+Payment (see Supply Manual 6.482).  This clause is to used in conjunction with 
+clause A9105C and A9106T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     As a result of the recent implementation of various programs to 
+       reduce the public service, bidders must provide information 
+       regarding their status as former public servants in receipt of 
+       either a lump sum payment or a pension, or both, pursuant to the 
+       terms of the Early Departure Incentive (EDI) Program, the Early 
+       Retirement Incentive (ERI) Program, the Forces Reduction Program, 
+       the Executive Employment Transition Program and any other current 
+       and future similar programs implemented by Treasury Board. Therefore, 
+       bidders must make available the following details:
+
+       (a)    date and amount of lump sum payment incentive;
+       (b)    terms and conditions of the lump sum payment incentive 
+              (including termination date);
+       (c)    rate of pay on which the lump sum payment was based;
+       (d)    whether or not the $5,000 exemption has been reached.
+
+2.     In the event that a Contract is awarded to a former public servant 
+       during the period covered by the lump sum payment, the contract fee 
+       must be abated (reduced) by an amount corresponding to the number of 
+       weeks remaining in the Contractor's lump sum payment period after 
+       the beginning of the Contract.
+
+3.     This reduction is subject to an exemption of a maximum of $5,000 
+       (including GST) applicable to one or more contracts during the 
+       period covered by the lump sum payment.
+
+4.     For the purposes of this solicitation, former public servants is 
+       defined as:
+
+       (a)    an individual;
+       (b)    an individual who has incorporated;
+       (c)    a partnership made up of former public servants; or
+       (d)    a sole proprietorship or entity where the affected individual 
+              has a major interest in the entity.
+
+5.     The information specified must be provided with, and be attached to 
+   the bid, and must be provided on, or before, bid closing. Failure to 
+   meet this condition of bidding will render the bid non-responsive.
+</pre>
+</div>

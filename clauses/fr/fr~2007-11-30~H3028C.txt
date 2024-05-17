@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque des paiements anticipés 
+seront faits.
+
+Utiliser cette clause en conjonction avec H0004C, et K9010C, s'il y a lieu.
+
+Les agents de négociation des contrats doivent consulter les procédures 6E.585, 
+6E.586, 6E.587, 6E.601, 6E.605, 7E.594, 7E.595, 7E.596 du Guide des 
+approvisionnements.  Cette liste de procédures n'est pas exhaustive.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Canada paiera à l'avance l'entrepreneur pour les travaux si :
+
+       a)     une facture exacte et complète ainsi que tout autre document 
+       exigé par le contrat ont été soumis conformément aux instructions de 
+       facturation prévues au contrat;
+       
+       b)     tous ces documents ont été vérifiés par le Canada.
+
+
+</pre>
+</div>

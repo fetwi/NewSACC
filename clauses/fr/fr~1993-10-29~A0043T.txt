@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le transporteur consent, pour les fins de l'évaluation de sa proposition, à 
+   ce que des représentants de la Couronne puissent mener une étude, si 
+   jugée nécessaire, sur ses installations, ses capacités techniques et sa 
+   situation financière afin de déterminer si ces dernières sont adéquates 
+   pour assurer une exécution convenable du travail décrit aux présentes. 
+   Le transporteur, par la présente, consent à mettre à la disposition de 
+   la Couronne ses installations pour les fins énoncées ci-dessus.  
+</pre>
+</div>

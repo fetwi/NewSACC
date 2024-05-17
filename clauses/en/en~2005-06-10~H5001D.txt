@@ -1,0 +1,41 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall submit invoices on its own form, and shall 
+       include the following information: the date, name and address of the 
+       consignee(s), item number, quantity, part number, reference number 
+       and description, contract file, serial numbers, Client Reference 
+       Number, and Procurement Business Number.  Invoices will be 
+       distributed as follows:
+
+       (a)    The original and one copy to (<strong><em>Choose one or the other</em></strong>):
+              (i)    Consignee            (    );
+              (ii)   Originator           (    ).
+
+       (b)    One (1) copy to:
+
+              Department of Public Works and Government Services 
+              (Division) ____________________
+              (Address) ____________________
+              (City/Prov.) ___________________
+              (Postal/Code) _________________
+
+              Attention: _____________________
+
+       (c)    One (1) copy to (<strong><em>Choose one or the other</em></strong>):
+              (i)    Consignee            (    );
+              (ii)   Originator           (    ).
+
+2.     Canada will only make payment upon receipt of a satisfactory invoice 
+       duly supported by specified release documents and any other 
+       documents called for under the Contract.
+
+3.     The Contractor shall not submit an invoice prior to either:
+
+       (a)    shipment of the items to which it relates, or
+(b)    submission of the shipping application to Canada.
+
+
+</pre>
+</div>

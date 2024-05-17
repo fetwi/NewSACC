@@ -1,0 +1,640 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>9601-10       00     (01/12/00)    General Conditions - Medium Form</strong>
+
+
+<strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Status of the Contractor
+03     Amendments and Waivers
+04     Conduct of the Work
+05     Compliance with Applicable Laws
+06     Assignment
+07     Time of the Essence
+08     Excusable Delay
+09     Payment
+10     Interest on Overdue Accounts
+11     Changes in Taxes and Duties
+12     Title
+13     Warranty
+14     Indemnity Against Third-Party Claims
+15     Copyright
+16     Default by the Contractor
+17     Termination for Convenience
+18     Members of the House of Commons
+19     Conflict of Interest
+20     No Bribe
+21     Severability
+22     Entire Agreement
+23     Certification - Contingency Fees
+
+
+
+
+<strong>9601-10       01     (16/02/98)    Interpretation</strong>
+
+1.     In the <em>Contract</em>, unless the context otherwise requires,
+
+       "<em>Canada", "Crown", "Her Majesty" or "the Government</em>" means Her 
+       Majesty the Queen in right of Canada; 
+
+       "<em>Contract</em>" means the written agreement between the Parties, these 
+       General conditions, any Supplemental General Conditions specified in 
+       the written agreement, and every other document specified or 
+       referred to in any of them as forming part of the <em>Contract</em>, all as 
+       amended by agreement of the Parties from time to time;
+
+       "<em>Contractor</em>" means the person or entity whose name appears on the 
+       signature page of the written agreement and who is to supply goods 
+       or services to <em>Canada</em> under the <em>Contract</em>;
+
+       "<em>Contract Price</em>" means the amount expressed in the <em>Contract</em> to be 
+       payable to the <em>Contractor</em> for the <em>Work</em>;
+
+       "Cost" means cost determined in accordance with <em>Contract</em> Cost 
+       Principles, DSS-MAS 1031-2 as revised to the date of the bid 
+       solicitation;
+
+       "<em>Minister</em>" means the Minister of Public Works and Government 
+       Services and any other person duly authorized to act on behalf of 
+       that <em>Minister</em>;
+
+       "<em>Party</em>" means <em>Canada</em> or the <em>Contractor</em> or any other signatory to the <em>
+       Contract</em> and "<strong>Parties</strong>" means all of them;
+
+       "<em>Specifications</em>" means the functional or technical description of 
+       the <em>Work</em> set out or referred to in the <em>Contract</em>, including drawings, 
+       samples and models, and further includes, except to the extent 
+       inconsistent with anything set out or referred to in the <em>Contract</em>, 
+       any such description set out or referred to in any brochure, product 
+       literature or other documentation furnished by the <em>Contractor</em> in 
+       relation to the <em>Work</em> or any part thereof;
+
+       "<em>Subcontract</em>" includes a <em>Contract</em> let by any subcontractor at any 
+       tier for the performance or supply of a part of the <em>Work</em>, and the 
+       derivatives of the <em>Work</em> shall be construed accordingly;
+
+       "<em>Work</em>" means the whole of the activities, services, materials, 
+       equipment, software, matters and things required to be done, 
+       furnished or performed by the <em>Contractor</em> in accordance with the 
+       terms of the <em>Contract</em>.
+
+2.     The headings used in these general conditions are inserted for 
+       convenience of reference only and shall not affect their 
+       interpretation.
+
+3.     If the <em>Contract</em> is a defence <em>Contract</em> within the meaning of the<em> 
+       Defence Production Act</em>, R.S.C. 1985, c. D-1, it is subject to that 
+       Act and shall be governed accordingly.
+
+4.     In the <em>Contract</em>, words importing the singular number include the 
+       plural and vice versa, and words importing the masculine gender 
+       include the feminine gender and the neuter. 
+
+
+<strong>9601-10       02     (01/12/92)    Status of the Contractor</strong>
+
+The <em>Contractor</em> is engaged as an independent <em>Contractor</em> for the sole purpose 
+of performing the <em>Work</em>. Neither the <em>Contractor</em> nor any of its personnel is 
+engaged as an employee, servant or agent of <em>Canada</em>.
+
+
+<strong>9601-10       03     (01/12/92)    Amendments and Waivers</strong>
+
+No amendment to the <em>Contract</em> shall be effective unless it is incorporated 
+into the <em>Contract</em> by written amendment executed by the authorized 
+representatives of the <em>Minister</em> and of the <em>Contractor</em>.  No waiver shall be 
+valid, binding or affect the rights of the Parties unless it is made in 
+writing by, in the case of a waiver by <em>Canada</em>, the authorized 
+representative of <em>Canada</em> and, in the case of a waiver by the <em>Contractor</em>, 
+the authorized representative of the <em>Contractor</em>.  The waiver by a <em>Party</em> of 
+a breach of any term or condition of the <em>Contract</em> shall not prevent the 
+enforcement of that term or condition by that <em>Party</em> in the case of a 
+subsequent breach, and shall not be deemed or construed a waiver of any 
+subsequent breach.
+
+
+<strong>9601-10       04     (01/12/92)    Conduct of the Work</strong>
+
+1.     The <em>Contractor</em> represents and warrants that:
+
+       (a)    it is competent to perform the <em>Work</em>; and
+
+       (b)    it has the necessary qualifications, including knowledge and 
+              skill, to perform the <em>Work</em>, together with the ability to use 
+              those qualifications effectively for that purpose.
+
+2.     The <em>Contractor</em> shall supply everything necessary for the performance 
+       of the <em>Work</em>.
+
+3.     The <em>Contractor</em> shall:
+
+       (a)    carry out the <em>Work</em> in a diligent and efficient manner;
+
+       (b)    ensure that the <em>Work</em>:
+
+              (1)    is of proper quality, material and workmanship;
+
+              (2)    is in full conformity with the <em>Specifications</em>; and
+
+              (3)    meets all other requirements of the <em>Contract</em>.
+
+
+<strong>9601-10       05     (01/12/92)    Compliance with Applicable Laws</strong>
+
+The <em>Contractor</em> shall comply with all laws applicable to the performance of 
+the <em>Work</em>.
+
+
+<strong>9601-10       06     (01/12/92)    Assignment</strong>
+
+1.     The <em>Contract</em> shall not be assigned, in whole or in part, by the <em>
+       Contractor</em> without the prior consent in writing of the <em>Minister</em> and 
+       any purported assignment made without that consent is void and of no 
+       effect.
+
+2.     No assignment of the <em>Contract</em> shall relieve the <em>Contractor</em> from any 
+       obligation under the <em>Contract</em> or impose any liability upon <em>Canada</em> or 
+       the <em>Minister</em>, unless otherwise agreed to in writing by the <em>Minister</em>.
+
+
+<strong>9601-10       07     (01/12/92)    Time of the Essence</strong>
+
+Time is of the essence of the <em>Contract</em>.
+
+
+<strong>9601-10       08     (01/12/92)    Excusable Delay</strong>
+
+In the event of any delay in performance of the <em>Work</em> due to force majeure, 
+the time for performance shall be extended for a period equivalent to the 
+time lost by reason of the force majeure, provided, however, that the <em>
+Contractor</em> has advised the <em>Minister</em> of the event of force majeure as soon 
+as the <em>Contractor</em> has become aware of it, and provided further that, in the 
+event that the period of force majeure exceeds 30 days, the <em>Minister</em> may, 
+by giving written notice to the <em>Contractor</em>, terminate the <em>Contract</em>, at no 
+cost to <em>Canada</em>, as regards all or any part of the <em>Work</em> not completed. If a 
+termination notice is given pursuant to this section, and if <em>Canada</em> has 
+paid in advance for all or any part of the terminated work, such advance 
+shall be refunded to the <em>Minister</em> upon written demand therefor. In this 
+section, "force majeure" means fire, flood, riots, acts of the enemy, acts 
+of God, government action or any other cause reasonably beyond the control 
+of the <em>Contractor</em>.
+
+
+<strong>9601-10       09     (01/12/92)    Payment</strong>
+
+1.     Notwithstanding any other provision of the <em>Contract</em>, no payment 
+       shall be made to the <em>Contractor</em> unless and until:
+
+       (a)    an invoice, inspection notes, certificates and any other 
+              documents required by the <em>Contract</em> have been submitted in 
+              accordance with the terms of the <em>Contract</em> and the 
+              instructions of the <em>Minister</em>;
+
+       (b)    all such documents have been verified by the <em>Minister</em>;
+
+       (c)    with respect to all parts of the <em>Work</em> in respect of which 
+              payment is claimed, the <em>Contractor</em>, where required to do so, 
+              establishes to the satisfaction of the <em>Minister</em> that such 
+              parts of the <em>Work</em> will be free from all claims, liens, 
+              attachments, charges or encumbrances; and 
+
+       (d)    in the case of payment in respect of finished work, the 
+              finished work has been inspected by <em>Canada</em> and accepted as 
+              being in accordance with the <em>Contract</em>, including the <em>
+              Specifications</em>.
+
+2.     The <em>Minister</em> shall notify the <em>Contractor</em>, within 15 days of receipt 
+       of an invoice, of any inadequacy of the invoice or of the supporting 
+       documentation, and where any such notice is given within that period 
+       the date for payment of the amount invoiced shall be postponed until 
+       the <em>Contractor</em> remedies the inadequacy to the satisfaction of the <em>
+       Minister</em>.
+
+
+<strong>9601-10       10     (01/12/00)    Interest on Overdue Accounts</strong>
+
+1.     For the purposes of this section:
+
+       "<em>Average Rate</em>" means the simple arithmetic mean of the Bank Rates in 
+       effect at 4:00 p.m. Eastern Standard Time each day during the 
+       calendar month which immediately precedes the calendar month in 
+       which payment is made, where the "<em>Bank Rate</em>" means the rate of 
+       interest established from time to time by the Bank of Canada as the 
+       minimum rate at which the Bank of Canada makes short term advances 
+       to members of the Canadian Payments Association.
+
+       "<em>date of payment</em>" means the date of the negotiable instrument drawn 
+       by the Receiver General for Canada and given for payment of an 
+       amount <em>due and payable</em>;
+
+       an amount is "<em>due and payable</em>" when it is due and payable by <em>Canada</em> 
+       to the <em>Contractor</em> in accordance with the terms of the <em>Contract</em>; and
+
+       an amount becomes "<em>overdue</em>" when it is unpaid on the first day 
+       following the day upon which it is <em>due and payable</em>.
+
+2.     Subject to the <em>Contract</em>, <em>Canada</em> shall be liable to pay to the <em>
+       Contractor</em> simple interest at the <em>Average Rate</em> plus 3 percent per 
+       annum on any amount that is <em>overdue</em>, from the date such amount 
+       becomes <em>overdue</em> until the day prior to the <em>date of payment</em>, 
+       inclusive. Interest shall be paid without notice from the <em>Contractor</em>.
+
+3.     <em>Canada</em> shall not be liable to pay interest in accordance with this 
+       section if <em>Canada</em> is not responsible for the delay in paying the <em>
+       Contractor</em>.
+
+4.     <em>Canada</em> shall not be liable to pay interest on <em>overdue</em> advance 
+       payments.
+
+
+<strong>9601-10       11     (01/12/92)    Changes in Taxes and Duties</strong>
+
+1.     In this section "<em>bid</em>" includes a proposal, tender or offer submitted 
+       by the <em>Contractor</em> in response to an invitation from the <em>Minister</em>.
+
+2.     Subject to subsection 3, in the event of any change (including a new 
+       imposition or repeal), on or after the date of submission of the <em>bid</em>, 
+       of any tax, customs or other duty, charge, or any similar imposition 
+       that is imposed under sales or excise tax legislation of the 
+       Government of Canada and which affects the <em>Cost</em> to the <em>Contractor</em> of 
+       the <em>Work</em>, the <em>Contract Price</em> shall be adjusted to reflect the 
+       increase or decrease in the <em>Cost</em> to the <em>Contractor</em>.
+
+3.     There shall be no adjustment under subsection 2 in respect of any 
+       change that would increase the <em>Cost</em> to the <em>Contractor</em> of the Work if 
+       public notice of the change was given before the <em>bid</em> submission date 
+       in sufficient detail to permit the <em>Contractor</em> to have calculated the 
+       effect on its <em>Cost</em> before that date.
+
+4.     The <em>Contractor</em> shall forward to the <em>Minister</em> a certified statement 
+       showing the increase or decrease in <em>Cost</em> to the <em>Contractor</em> that is 
+       directly attributable to the change in the imposition. The <em>Minister</em> 
+       may verify the increase or decrease in <em>Cost</em> by audit before or after 
+       the <em>Contract Price</em> is adjusted.
+
+5.     Notwithstanding subsections 2 to 4, no adjustment to the <em>Contract 
+       Price</em> in respect of the <em>Work</em> or a part thereof shall be made for a 
+       change in any imposition referred to in this section that occurs 
+       after the date required by the <em>Contract</em> for delivery of the <em>Work</em> or 
+       that part of the <em>Work</em>.
+
+
+<strong>9601-10       12     (31/03/95)    Title</strong>
+
+1.     Except as otherwise provided in the <em>Contract</em>, and except as provided 
+       in subsection 2, title to the <em>Work</em> or any part thereof shall vest in <em>
+       Canada</em> upon delivery and acceptance thereof by or on behalf of <em>
+       Canada</em>.
+
+       (2)    Upon any payment being made to the <em>Contractor</em> for or on 
+              account of materials, parts, work-in-process or finished work, 
+              either by way of progress payments or accountable advances or 
+              otherwise, title in and to all materials, parts, 
+              work-in-process and finished work so paid for shall vest in 
+              and remain in <em>Canada</em> unless already so vested under any other 
+              provision of the <em>Contract</em>.
+
+3.     Notwithstanding any vesting of title referred to in this section and 
+       except as otherwise provided in the <em>Contract</em>, the risk of loss or 
+       damage to the materials, parts, work-in-process or finished work or 
+       part thereof so vested shall remain with the <em>Contractor</em> until their 
+       delivery to <em>Canada</em> in accordance with the <em>Contract</em>.  The <em>Contractor</em> 
+       shall be liable for any loss or damage to any part of the <em>Work</em> 
+       caused by the <em>Contractor</em> or any Subcontractor after such delivery.
+
+4.     Any vesting of title referred to in subsection 2 shall not 
+       constitute acceptance by <em>Canada</em> of the materials, parts, 
+       work-in-process or finished work, and shall not relieve the <em>
+       Contractor</em> of its obligation to perform the <em>Work</em> in accordance with 
+       the <em>Contract</em>.
+
+5.     Where title to any materials, parts, work-in-process or finished 
+       work becomes vested in <em>Canada</em>, the <em>Contractor</em> shall, upon the <em>
+       Minister</em>'s request, establish to the <em>Minister</em>'s satisfaction that 
+       the title is free and clear of all claims, liens, attachments, 
+       charges or encumbrances and shall execute such conveyances thereof 
+       and other instruments necessary to perfect that title as the <em>
+       Minister</em> may request.
+
+6.     If the <em>Contract</em> is a defence <em>Contract</em> within the meaning of the<em> 
+       Defence Production Act</em>, R.S.C. 1985, c. D-1, title to the <em>Work</em> or to 
+       any materials, parts, work-in-process or finished work shall vest in <em>
+       Canada</em> free and clear of all claims, liens, attachments, charges or 
+       encumbrances, and the <em>Minister</em> shall be entitled at any time to 
+       remove, sell or dispose of it or any part of it in accordance with 
+       section 20 of that Act.
+
+
+<strong>9601-10       13     (01/12/92)    Warranty</strong>
+
+1.     Notwithstanding inspection and acceptance of the <em>Work</em> by or on 
+       behalf of <em>Canada</em> and without restricting any other provision of the <em>
+       Contract</em> or any condition, warranty or provision implied or imposed 
+       by law, the <em>Contractor</em> warrants that, for a period of 12 months from 
+       the date of delivery, or if acceptance takes place on a later date, 
+       the date of acceptance, or for such other period as may be specified 
+       in the written agreement between the Parties, the <em>Work</em> shall be free 
+       from all defects in design, materials or workmanship, and shall 
+       conform with the requirements of the <em>Contract</em>.
+
+2.     In the event of a defect or nonconformance in any part of the <em>Work</em> 
+       during the warranty period defined in subsection 1, the <em>Contractor</em>, 
+       at the request of the <em>Minister</em> to do so, shall as soon as possible 
+       repair, replace or otherwise make good at its own option and expense 
+       the part of the <em>Work</em> found to be defective or not in conformance 
+       with the requirements of the <em>Contract</em>.
+
+3.     The <em>Work</em> or any part thereof found to be defective or non-conforming 
+       shall be returned to the <em>Contractor</em>'s plant for replacement, repair 
+       or making good; provided that, when in the opinion of the <em>Minister</em> 
+       it is not expedient to remove the <em>Work</em> from its location, the <em>
+       Contractor</em> shall carry out any necessary repair or making good of 
+       the <em>Work</em> at that location, and shall be paid the fair and reasonable 
+       Cost (including reasonable travelling and living expenses) incurred 
+       in so doing, with no allowance therein by way of profit, less an 
+       amount equal to the Cost of rectifying the defect or non-conformance 
+       at the <em>Contractor</em>'s plant.
+
+4.     <em>Canada</em> shall pay the transportation cost associated with returning 
+       any work or part thereof to the <em>Contractor</em>'s plant pursuant to 
+       subsection 3, and the <em>Contractor</em> shall pay the transportation cost 
+       associated with forwarding the replacement or returning the Work or 
+       part thereof when rectified to the delivery point specified in the <em>
+       Contract</em>, or such lesser cost as may be required to transport the 
+       Work or part thereof to another location directed by the Technical 
+       Authority.
+
+5.     The warranties set out in subsection 1 shall apply for the remainder 
+       of the warranty period to any part of the <em>Work</em> repaired, replaced or 
+       otherwise made good pursuant to subsection 2.  All of the provisions 
+       of subsections 2 to 5 of this section apply mutatis mutandis to any 
+       such part of the <em>Work</em> that is found during that period to be 
+       defective or not in conformance with the <em>Contract</em>.
+
+
+<strong>9601-10       14     (01/12/92)    Indemnity Against Third-party Claims</strong>
+
+1.     The <em>Contractor</em> shall indemnify and save harmless <em>Canada</em>, the <em>
+       Minister</em> and their servants and agents from and against any damages, 
+       costs or expenses or any claim, action, suit or other proceeding 
+       which they or any of them may at any time incur or suffer as a 
+       result of or arising out of:
+
+       (a)    any injury to persons (including injuries resulting in death) 
+              or loss of or damage to property of others which may be or be 
+              alleged to be caused by or suffered as a result of the 
+              performance of the <em>Work</em> or any part thereof, except that <em>
+              Canada</em> and the <em>Minister</em> shall not claim indemnity under this 
+              section to the extent that the injury, loss or damage has 
+              been caused by <em>Canada</em>; and
+
+       (b)    any liens, attachments, charges or other encumbrances or 
+              claims upon or in respect of any materials, parts, 
+              work-in-process or finished work furnished to, or in respect 
+              of which any payment has been made by, <em>Canada</em>; and
+
+       (c)    payment of royalties and claims for damages based upon the 
+              use or infringement of any patented invention, registered 
+              industrial design, trade mark, copyrighted work, trade secret, 
+              or other intellectual property right, that results from or is 
+              alleged to result from the carrying out of the <em>Contract</em> or 
+              the use or disposal by <em>Canada</em> of anything furnished by the <em>
+              Contractor</em> under the <em>Contract</em>.
+
+
+<strong>9601-10       15     (31/03/95)    Copyright</strong>
+
+1.     In this section,
+
+       "<strong>Material</strong>" includes anything that is created or developed by the <em>
+       Contractor</em> as part of the <em>Work</em> under the <em>Contract</em>, and in which  
+       copyright subsists, but does not include computer programs and 
+       related software documentation;
+
+       "<strong>Moral Rights</strong>" has the same meaning as in the <em>Copyright Act</em>, R.S.C. 
+       1985, c. C-42.
+
+2.     Copyright in the Material shall vest in <em>Canada</em> and the <em>Contractor</em> 
+       shall incorporate in all Material the copyright symbol and the 
+       following notice:
+
+       (c)    HER MAJESTY THE QUEEN IN RIGHT OF <em>Canada</em> (year)
+
+3.     At the completion of the <em>Contract</em>, or at such other time as the <em>
+       Contract</em> or the <em>Minister</em> may require, the <em>Contractor</em> shall fully and 
+       promptly disclose to the <em>Minister</em> all Material created or developed 
+       under the <em>Contract</em>.
+
+4.     Where copyright in any Material vests in <em>Canada</em> under the <em>Contract</em>, 
+       the <em>Contractor</em> shall execute such conveyances and other documents 
+       relating to title or copyright as the <em>Minister</em> may require.
+ 
+5.     The <em>Contractor</em> shall not use, copy, divulge or publish any Material 
+       except as it is necessary to perform the <em>Contract</em>.
+
+6.     At the request of the <em>Minister</em>, the <em>Contractor</em> shall provide to <em>
+       Canada</em>, at the completion of the <em>Contract</em>, or at such other time as 
+       the <em>Minister</em> may require, a written permanent waiver of Moral Rights, 
+       in a form acceptable to the <em>Minister</em>, from every author that 
+       contributed to the Material.
+
+7.     If the <em>Contractor</em> is the author of the Material, the <em>Contractor</em> 
+       hereby permanently waives the <em>Contractor</em>'s Moral Rights in respect 
+       of the Material.
+
+8.     The <em>Contractor</em> shall indemnify and save harmless <em>Canada</em>, the <em>
+       Minister</em> and their servants and agents from and against any damages, 
+       costs or expenses or any claim, action, suit or other proceeding 
+       which they or any of them may at any time incur or suffer as a 
+       result of or arising out of the exercise by any person of Moral 
+       Rights in respect of the Material.
+
+
+<strong>9601-10       16     (01/12/92)    Default by the Contractor</strong>
+
+1.     Where the <em>Contractor</em> is in default in carrying out any of its 
+       obligations under the <em>Contract</em>, the <em>Minister</em> may, upon giving 
+       written notice to the <em>Contractor</em>, terminate for default the whole or 
+       any part of the <em>Contract</em>, either immediately, or at the expiration 
+       of a cure period specified in the notice if the <em>Contractor</em> has not 
+       cured the default to the satisfaction of the <em>Minister</em> within that 
+       cure period.
+
+2.     Where the <em>Contractor</em> becomes bankrupt or insolvent, makes an 
+       assignment for the benefit of creditors, or takes the benefit of any 
+       statute relating to bankrupt or insolvent debtors, or where a 
+       receiver is appointed under a debt instrument or a receiving order 
+       is made against the <em>Contractor</em>, or an order is made or a resolution 
+       passed for the winding up of the <em>Contractor</em>, the <em>Minister</em> may, upon 
+       giving notice to the <em>Contractor</em>, immediately terminate for default 
+       the whole or any part of the <em>Contract</em>.
+
+3.     Upon the giving of a notice provided for in subsection 1 or 2, the <em>
+       Contractor</em> shall have no claim for further payment, but shall be 
+       liable to <em>Canada</em> for any amounts, including milestone payments, paid 
+       by <em>Canada</em> and for all losses and damages which may be suffered by <em>
+       Canada</em> by reason of the default or occurrence upon which the notice 
+       was based, including any increase in the cost incurred by <em>Canada</em> in 
+       procuring the <em>Work</em> from another source.  Nothing in this section 
+       affects any obligation of <em>Canada</em> under the law to mitigate damages.
+
+
+<strong>9601-10       17     (01/12/92)    Termination for Convenience</strong>
+
+1.     Notwithstanding anything contained in the <em>Contract</em>, the <em>Minister</em> may, 
+       at any time prior to the completion of the <em>Work</em>, by giving notice to 
+       the <em>Contractor</em> (hereinafter sometimes referred to as a "termination 
+       notice"), terminate the <em>Contract</em> as regards all or any part of the <em>
+       Work</em> not completed. Upon a termination notice being given, the <em>
+       Contractor</em> shall cease work (including the manufacture and procuring 
+       of materials for the fulfilment of the <em>Contract</em>) in accordance with 
+       and to the extent specified in the notice, but shall proceed to 
+       complete such part or parts of the <em>Work</em> as are not affected by the 
+       termination notice. The <em>Minister</em> may, at any time or from time to 
+       time, give one or more additional termination notices with respect 
+       to any or all parts of the <em>Work</em> not terminated by any previous 
+       termination notice.
+
+2.     In the event of a termination notice being given pursuant to 
+       subsection 1, the <em>Contractor</em> shall be entitled to be paid, to the 
+       extent that costs have been reasonably and properly incurred for 
+       purposes of performing the <em>Contract</em> and to the extent that the <em>
+       Contractor</em> has not already been so paid or reimbursed by <em>Canada</em>:
+
+       (a)    on the basis of the <em>Contract Price</em>, for all completed work 
+              that is inspected and accepted in accordance with the <em>
+              Contract</em>, whether completed before, or after and in 
+              compliance with the instructions contained in the termination 
+              notice; 
+
+       (b)    the cost to the <em>Contractor</em> plus a fair and reasonable profit 
+              thereon, for all work terminated by the termination notice 
+              before completion, the cost to the <em>Contractor</em> being 
+              determined in accordance with the terms of the <em>Contract</em> and 
+              with <em>Contract</em> Cost Principles, DSS-
+MAS 1031-2;
+ 
+       (c)    all Costs of and incidental to the termination of the <em>Work</em> or 
+              part thereof, but not including the cost of severance 
+              payments or damages to employees whose services are no longer 
+              required by reason of the termination except wages that the <em>
+              Contractor</em> is obligated by statute to pay them and except for 
+              reasonable severance payments or damages paid to employees 
+              hired to perform the <em>Contract</em> whose hiring was expressly 
+              required by the <em>Contract</em> or approved in writing by the <em>
+              Minister</em> for the purpose of the <em>Contract</em>.
+
+3.     The <em>Minister</em> may reduce the payment in respect of any of the <em>Work</em> to 
+       the extent that, upon inspection, it is deficient in meeting the 
+       requirements of the <em>Contract</em>.
+
+4.     Notwithstanding anything in subsection 2, the total of the amounts 
+       to which the <em>Contractor</em> is entitled under paragraphs 2(a) and (b), 
+       together with any amounts paid or due or becoming due to the <em>
+       Contractor</em> under other provisions of the <em>Contract</em>, shall not exceed 
+       the <em>Contract Price</em> or the portion thereof that is applicable to the 
+       part of the <em>Work</em> that is terminated.
+
+5.     In the procuring of materials and parts required for the performance 
+       of the <em>Contract</em> and in the subcontracting of any of the <em>Work</em>, the <em>
+       Contractor</em> shall, unless otherwise authorized by the <em>Minister</em>, place 
+       purchase orders and subcontracts on terms that will enable the <em>
+       Contractor</em> to terminate the same upon terms and conditions similar 
+       in effect to those provided in this section, and generally, the <em>
+       Contractor</em> shall co-operate with the <em>Minister</em> and do everything 
+       reasonably within its power at all times to minimize the amount of <em>
+       Canada</em>'s obligations in the event of a termination under this 
+       section.
+
+6.     The <em>Contractor</em> shall have no claim for damages, compensation, loss 
+       of profit, allowance or otherwise by reason of, or directly or 
+       indirectly arising out of, any action taken or termination notice 
+       given by the <em>Minister</em> under this section, except to the extent that 
+       this section expressly provides.
+
+
+<strong>9601-10       18     (01/12/92)    Members of the House of Commons</strong>
+
+No member of the House of Commons shall be admitted to any share or part of 
+the <em>Contract</em> or to any benefit arising from the <em>Contract</em>.
+
+
+<strong>9601-10       19     (01/05/96)    Conflict of Interest</strong>
+
+The <em>Contractor</em> agrees that it is a term of the <em>Contract</em> that no person who 
+is not in compliance with the provisions of the Conflict of Interest and 
+Post-Employment Code for Public Office Holders or the Conflict of Interest 
+and Post-Employment Code for the Public Service, shall derive any direct 
+benefit from this <em>Contract</em>.
+
+
+<strong>9601-10       20     (01/06/94)    No Bribe</strong>
+
+The <em>Contractor</em> represents and covenants that no bribe, gift, benefit, or 
+other inducement has been or will be paid, given, promised or offered 
+directly or indirectly to any official or employee of <em>Canada</em> or to a member 
+of the family of such a person, with a view to influencing the entry into 
+the <em>Contract</em> or the administration of the <em>Contract</em>.
+
+
+<strong>9601-10       21     (01/12/92)    Severability</strong>
+
+If any provision of the <em>Contract</em> is declared by a court of competent 
+jurisdiction to be invalid, illegal or unenforceable, such provision shall 
+be severed from the <em>Contract</em> and all other provisions of the <em>Contract</em> shall 
+remain in full force and effect.
+
+
+<strong>9601-10       22     (01/12/92)    Entire Agreement</strong>
+
+The <em>Contract</em> constitutes the entire and sole agreement between the Parties 
+with respect to the subject matter of the <em>Contract</em> and supersedes all 
+previous negotiations, communications and other agreements, whether written 
+or oral, relating to it, unless they are incorporated by reference in the <em>
+Contract</em>.
+
+ 
+<strong>9601-10       23     (06/06/94)    Certification - Contingency Fees</strong>
+
+1.     The <em>Contractor</em> certifies that it has not directly or indirectly paid 
+       or agreed to pay and covenants that it will not directly or 
+       indirectly pay a <em>contingency fee</em> for the solicitation, negotiation 
+       or obtaining of this <em>Contract</em> to any person other than an <em>employee</em> 
+       acting in the normal course of the <em>employee's</em> duties.
+
+2.     All accounts and records pertaining to payments of fees or other 
+       compensation for the solicitation, obtaining or negotiation of the <em>
+       Contract</em> shall be subject to the Accounts and Audit provisions of 
+       the <em>Contract</em>.
+
+3.     If the <em>Contractor</em> certifies falsely under this section or is in 
+       default of the obligations contained therein, the <em>Minister</em> may 
+       either terminate this <em>Contract</em> for default in accordance with the 
+       termination for default provisions of the <em>Contract</em> or recover from 
+       the <em>Contractor</em> by way of reduction to the <em>Contract Price</em> or 
+       otherwise the full amount of the <em>contingency fee</em>.
+
+4.     In this section:
+
+       "<em>contingency fee</em>" means any payment or other compensation that is 
+       contingent upon or is calculated upon the basis of a degree of 
+       success in soliciting or obtaining a government <em>Contract</em> or 
+       negotiating the whole or any part of its terms;
+
+       "<em>employee</em>" means a <em>person</em> with whom the <em>Contractor</em> has an employer/
+       employee relationship;
+
+       "<em>person</em>" includes an individual or group of individuals, a 
+       corporation, a partnership, an organization and an association and, 
+       without restricting the generality of the foregoing, includes any 
+       individual who is required to file a return with the registrar 
+       pursuant to section 5 of the <em>Lobbyist Registration Act</em> R.S. 1985 c.44 
+       (4th Supplement) as the same may be amended from time to time.
+
+
+</pre>
+</div>

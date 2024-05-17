@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats qui exigent un Rapport intérimaire 
+de production , formule DD 375, lorsque le contrat américain provient d'un 
+organisme autre que le DISC (Defense Industrial Supply Center).  Inscrire le 
+« Nombre de copies » et le « Nom et l'adresse » tel qu'indiqué sur le contrat 
+américain.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit préparer le Rapport intérimaire de
+production (<cite>formule DD 375</cite>) tous les mois et lorsqu'il y a
+dérogation au calendrier de livraison du contrat. La formule
+DD 375 doit être présentée, mensuellement, au plus
+tard le deuxième jour ouvrable suivant le mois de
+référence. La formule DD 375 doit être
+distribuée comme suit :</p>
+<table>
+<caption>Formule DD 375 - Rapport intérimaire de production</caption>
+<tbody><tr>
+<th>Nombre d'exemplaires</th>
+<th>Nom et adresse</th>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+</tbody></table>
+</div></pre>
+</div>

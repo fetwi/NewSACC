@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in services contracts when Canada wants to reserve the 
+right to terminate the contract on thirty (30) days notice without paying 
+termination costs, if applicable.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Canada reserves the right to terminate the Contract at any time in 
+       whole or in part by giving thirty (30) calendar days written notice 
+       to the Contractor.
+
+2.     In the event of such termination, Canada will only pay for costs  
+       incurred for services rendered and accepted by Canada up to the date 
+       of the termination.  Despite any other provision of the Contract, 
+       there will be no other costs that will be paid to the Contractor as 
+       a result of the termination.
+
+
+</pre>
+</div>

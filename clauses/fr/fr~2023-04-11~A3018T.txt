@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause d’attestation suivante dans les demandes de soumissions concurrentielles ou les demandes d’offres à commandes ou d’arrangements en matière d’approvisionnement pour les achats d’une valeur supérieure à 25 millions de dollars canadiens, taxes, frais et options compris, qui comprennent les critères d’évaluation obligatoires liés à la divulgation des renseignements sur les émissions de gaz à effet de serre et l’établissement des cibles de réduction ou à la participation au Défi carboneutre ou à une initiative équivalente. Révision par le Centre d’expertise en matière d’approvisionnement (CEDA) est recommandé avant d’inclure les critères d’évaluation obligatoires lies à la norme de divulgation de
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A9076T
+  
+  et
+  
+   A3020C
+  
+  ou
+  
+   A3022C
+  
+  le cas échéant. Utiliser cette clause en conjonction avec
+  
+   A3015T
+  
+  et
+  
+   A3015C
+  
+  uniquement si le modèle pour les besoins de complexité élevée ou moyenne n’est pas utilisé.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p><kbd>Instruction aux agents de négociation des contrats : Sélectionnez « soumissionnaire », « offrant » ou « fournisseur », selon le cas.</kbd></p> <p><kbd>Le soumissionnaire/L’offrant/Le fournisseur</kbd> doit démontrer dans <kbd>sa soumission/son offre/son arrangement</kbd> qu’il participe au Défi carboneutre du Canada en fournissant une lettre de participation au Défi carboneutre signée d’Environnement et Changement climatique Canada.</p> <p>OU</p> <p><kbd>Le soumissionnaire/L’offrant/Le fournisseur</kbd> doit démontrer dans <kbd>sa soumission/son offre/son arrangement</kbd> qu’il participe à une initiative équivalente au Défi carboneutre en fournissant une attestation de participation fournie par l’organisation responsable. Veuillez-vous reporter à l’AP-157 pour consulter la liste des initiatives équivalentes.</p></pre>
+</div>

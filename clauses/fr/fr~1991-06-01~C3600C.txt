@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lors des achats de métaux où les prix ne sont pas 
+fermes à cause de la fluctuation des prix de base.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les prix spécifiés ont été calculés d'après les prix de base du jour plus 
+   des suppléments et ils sont sujets à révision pour les adapter aux prix 
+   de base en cours au moment des livraisons prévues au présent contrat; 
+   étant entendu toutefois que l'entrepreneur ne peut facturer à d'autres 
+   prix que ceux spécifiés aussi longtemps qu'une révision des prix 
+   proposés n'a pas été approuvée par le Ministre et tant que le présent 
+   contrat n'aura été modifié en conséquence.
+</pre>
+</div>

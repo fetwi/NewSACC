@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats et demandes de soumission pour les 
+approvisionnements de défense lorsque le ministère de la Défense nationale est 
+l'importateur, et que la valeur du contrat dépassera 250 000 $CAN.  Les agents 
+de négociation des contrats devraient demander des prix avec les droits de 
+douane indiqués séparément (les clauses D0035D ou D0038D peuvent s'appliquer).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les marchandises fournies aux termes du contrat étant des 
+       approvisionnements de défense, une remise des droits de douane sur 
+       les importations au Canada peut être accordée en vertu du numéro 
+       tarifaire 9982.00.00, des annexes du Tarif des douanes.
+
+2.     La remise des droits de douane payables peut être accordée selon le 
+       numéro tarifaire 9982.00.00 lorsque la valeur totale du contrat des 
+       approvisionnements de défense est de 250 000 $CAN ou plus.  Cette 
+       valeur comprend la valeur à l'importation des produits plus le droit 
+       qui serait applicable en l'absence du Tarif des douanes.
+
+3.     C'est au ministère de la Défense nationale qu'incombe la 
+       responsabilité de veiller à la remise des droits de douane à 
+       l'importation ou au paiement de ces mêmes droits et de demander un 
+       remboursement à l'Agence des services frontaliers du Canada.  Il lui 
+       incombe aussi de demander à Travaux publics et Services 
+       gouvernementaux Canada, en temps opportun, l'attestation exigée aux 
+       termes du Tarif des douanes.
+
+</pre>
+</div>

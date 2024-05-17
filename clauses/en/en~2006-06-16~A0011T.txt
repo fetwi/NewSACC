@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Contracting officers may include this clause in the bid solicitation.  Use if 
+applicable when a project schedule has not been requested elsewhere in the bid 
+solicitation.  Use the clause in conjunction with A0011C.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     As part of its technical bid, the Bidder must propose its 
+       preliminary project schedule, in __________ (fill-in with: "network", 
+       "Gantt chart" or "detailed bar chart") format.  The project schedule 
+       must include the Bidder's work breakdown structure, the scheduling 
+       of main activities and milestone events, and any potential problem 
+       areas involved in completing the Work.
+
+2.     The Bidder's schedule must also provide a target date for each of 
+       the following significant events:
+
+       (a)    _________;
+       (b)    _________;
+       (c)    _________;
+       (d)    _________;
+       (e)    _________;
+       (f)    _________;
+       (g)    _________.
+</pre>
+</div>

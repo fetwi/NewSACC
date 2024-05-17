@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause where Canada is to own the Foreground Information, if 
+the Crown is prepared, at the time of the Contract, to consider granting the 
+Contractor a license to exercise the Intellectual Property Rights in the 
+Foreground Information owned by Canada, on terms and conditions that could 
+include the payment of a royalty by the Contractor.
+
+Article 9.1 of the Intellectual Property (IP) Policy states that the Crown 
+should not unreasonably refuse to grant a license to the Contractor for the 
+Contractor's use of the Foreground Information.  Where the client department is 
+relying on any exception in the IP Policy for Canada's ownership of the 
+Intellectual Property Rights in the Foreground Information other than those 
+exceptions set out in 6.4.2 or 6.4.3 of the IP Policy, or in the event that 
+6.4.2 or 6.4.3 of the IP Policy was invoked by the Crown but a license is to be 
+granted to the Contractor as part of the transfer of the final product or 
+complete system to the private sector, then the following clause may be used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Subject to subsection 2, if the Contractor wishes to make use of the 
+       Foreground Information for purposes of its commercial exploitation 
+       or further development, then the Contractor may make a written 
+       request for a license to the minister for whose department or agency 
+       the Work is being or was carried out.  Such a request should be made 
+       within thirty (30) working days following completion of the Work.  
+       The Contractor shall give that minister an explanation as to why 
+       such a license is required.  That minister shall respond in writing 
+       to any request for such a license within a reasonable period of time.  
+       If the request is refused the response shall provide an explanation 
+       for the refusal.  Should the minister for whose department the work 
+       is being or was carried out agree to grant such a license, it shall 
+       be on terms and conditions to be negotiated between the Contractor 
+       and that minister.  It is understood that those terms may include 
+       payment of compensation to Canada.
+
+2.     Where the Work under the Contract involves the preparation of a 
+       database or other compilation using information or data supplied by 
+       Canada, or personal information (as this term is defined in the <em>
+       Privacy Act</em> (R.S.C., c. P-21)) collected by the Contractor as part 
+       of the Work, then the license referred to in subsection 1 shall be 
+       restricted to the Intellectual Property Rights in Foreground 
+       Information that are capable of being exploited without the use of 
+       such information or data or such personal information.
+
+</pre>
+</div>

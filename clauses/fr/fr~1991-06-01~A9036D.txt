@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>401. CR COMMIS AUX ÉCRITURES ET AUX REGLEMENTS 
+402. DA-CON PREPOSE A LA CONVERSION DES DONNÉES 
+403. DA-PRO PREPOSE A LA PRODUCTION DES DONNÉES 
+404. ST-OCE MECANOGRAPHES 
+405. ST-SCY SECRETAIRES 
+406. ST-STN STENOGRAPHES 
+407. ST-TYP DACTYLOS 
+408. CM COMMUNICATEURS 
+</pre>
+</div>

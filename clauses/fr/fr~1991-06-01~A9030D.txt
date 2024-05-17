@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Si l'Usager désigné trouve que les services rendus par un employé du 
+fournisseur sont inacceptables, et que le Fournisseur en est avisé dans les 
+quatre (4) premières heures, la Couronne ne se verra pas facturer, ni ne 
+devra aucunement régler, les services insatisfaisants de cet employé et le 
+Fournisseur remplacera aussitôt l'employé concerné.
+
+Il est également convenu que le Fournisseur a l'entière responsabilité des 
+   salaires de l'employé temporaire au cours du délai de quatre (4) heures 
+   susmentionné. 
+</pre>
+</div>

@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in request for standing offers for service 
+requirements, where specific individuals will be proposed for the work.  Use in 
+conjunction with
+  
+   M3020C
+  
+  .
+ </p>
+<p>
+  If the template 2T-RFSO1 is used, insert this clause, if applicable, under 
+"Certifications precedent to issuance of a standing offer", and delete the last 
+sentence of the second paragraph "Failure to comply with the request may result 
+in the offer being declared non-responsive."
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Offeror certifies that, should it be issued a standing offer
+as a result of the Request for Standing Offer, every individual
+proposed in its offer will be available to perform the Work
+resulting from a call-up against the Standing Offer as required by
+Canada's representatives and at the time specified in a call-up or
+agreed to with Canada's representatives. If for reasons beyond its
+control, the Offeror is unable to provide the services of an
+individual named in its offer, the Offeror may propose a substitute
+with similar qualifications and experience. The Offeror must advise
+the Standing Offer Authority of the reason for the substitution and
+provide the name, qualifications and experience of the proposed
+replacement. For the purposes of this clause, only the following
+reasons will be considered as beyond the control of the Offeror:
+death, sickness, maternity and parental leave, retirement,
+resignation, dismissal for cause or termination of an agreement for
+default.</p>
+<p>If the Offeror has proposed any individual who is not an
+employee of the Offeror, the Offeror certifies that it has the
+permission from that individual to propose his/her services in
+relation to the Work to be performed and to submit his/her
+résumé to Canada. The Offeror must, upon request from the
+Standing Offer Authority, provide a written confirmation, signed by
+the individual, of the permission given to the Offeror and of
+his/her availability. Failure to comply with the request may result
+in the offer being declared non-responsive.</p>
+</div></pre>
+</div>

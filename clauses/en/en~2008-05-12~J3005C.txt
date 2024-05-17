@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when the offeror has advised that it wants to withdraw 
+its standing offer. If the standing offer is under seal, contracting officers 
+must consult Legal Services.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Canada acknowledges receipt of the Offeror's notice dated
+<var>_____</var> informing Canada of the Offeror's decision to
+withdraw its offer made under Standing Offer number
+<var>_____</var>, effective as of <span class="input-required"><var>_____</var> <kbd>(<em>insert date of
+withdrawal</em>)</kbd></span>. The Offeror must fulfill any call-up
+received before that date in accordance with the conditions of the
+Standing Offer.</p>
+</div></pre>
+</div>

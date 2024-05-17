@@ -1,0 +1,181 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Research and Development Clause - Contractor Receives Intellectual Property 
+Rights.
+
+Use the following clause in a contract or part of a contract involving research 
+and development that is for the purchase of goods, and where Canada requires 
+only those rights to intellectual property necessary for the operation and 
+maintenance of the goods and for further development of custom designed or 
+custom fabricated goods.  Do not use in conjunction with General Conditions 
+DSS-MAS 9076, or with General Conditions DSS-MAS 9224 which have their own 
+clauses.
+
+NOTE:  This clause must be used in conjunction with clause K3400D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>(1)    In the Contract
+
+       (a)    "<strong>Background Intellectual Property</strong>" means all Technical 
+              Information that is not Foreground Intellectual Property and 
+              that is proprietary to the Contractor, its subcontractors or 
+              any other supplier of the Contractor;
+
+       (b)    "<strong>Foreground Intellectual Property</strong>" means any Invention first 
+              conceived, developed or reduced to practice as part of the 
+              Work under the Contract and all Technical Information 
+              collected, developed or produced as part of the Work under 
+              the Contract;
+
+       (c)    "<strong>Invention</strong>" means any new and useful art, process, 
+              methodology, technique, machine, manufacture or composition 
+              of matter, or any new and useful improvement of any art, 
+              process, methodology, technique, machine, manufacture or 
+              composition of matter, whether or not patentable;
+
+       (d)    "<strong>Other Contractor</strong>" means any contractor to which Canada 
+              sublicenses the use of Foreground Intellectual Property for 
+              purposes of carrying out a contract with Canada; and
+
+       (e)    "<strong>Technical Information</strong>" means all information of a scientific 
+              or technical nature relating to the Work, whether oral or 
+              recorded in any form or medium and whether or not 
+              copyrightable, including but not limited to Inventions, 
+              designs, methods, processes, techniques, know-how, reports, 
+              drawings, plans, specifications, photographs, models, 
+              prototypes, patterns, samples, schematics, experimental or 
+              test data, and computer software, source code, data files, 
+              and documentation.
+
+(2)    The Contractor shall promptly report and fully disclose to the 
+       Minister the conception, development, or reduction to practice of 
+       any Invention that could be Foreground Intellectual Property, and 
+       shall report and fully disclose to the Minister all other Foreground 
+       Intellectual Property at a time selected by the Contractor, but not 
+       later than the time of completion of the Work or such other time as 
+       the Minister or the Contract may require in respect of any such 
+       Foreground Intellectual Property.  The Contractor shall, in each 
+       disclosure under this subsection, indicate the name of any 
+       subcontractor at any tier in which title to any of the Foreground 
+       Intellectual Property has vested or will vest.
+
+(3)    Except as otherwise specified in the Contract and subject to 
+       subsection (7), copyright, patent and all other proprietary rights 
+       to all Foreground Intellectual Property shall, immediately upon its  
+       conception, development, reduction to practice or production, vest 
+       in and remain the property of the Contractor.  
+
+(4)    Notwithstanding the Contractor's ownership of the Foreground 
+       Intellectual Property in any prototype or any custom machinery, 
+       device, system or equipment delivered under the Contract, Canada 
+       shall have unrestricted ownership rights in the thing delivered, 
+       including the right to sell it and to make it available for public 
+       use whether for a fee or otherwise.
+
+(5)    The Contractor hereby grants to Canada a non-exclusive, irrevocable, 
+       world-wide, fully paid and royalty-free licence to use any 
+       Foreground Intellectual Property and such of the Background 
+       Intellectual Property incorporated into the Work or necessary for 
+       the performance of the Work as may be required solely for the 
+       following purposes:
+
+       (a)    for the operation, maintenance, repair or overhaul of the 
+              Work;
+
+       (b)    for the purpose of manufacturing spare parts for maintenance, 
+              repair or overhaul of the Work by Canada if those parts are 
+              not reasonably available to enable timely maintenance, repair 
+              or overhaul; or
+
+       (c)    in respect of Foreground Intellectual Property only, for the 
+              further development of or alteration of any part of the Work;
+
+       including the right to sublicense the use of the Foreground or 
+       Background Intellectual Property to an Other Contractor to be used 
+       solely in the carrying out of a contract let by Canada for a purpose 
+       set out in paragraph (a), (b), or (c) in relation to that particular 
+       intellectual property.   Any sublicence given by Canada to an Other 
+       Contractor shall require the Other Contractor to maintain the 
+       confidentiality of the Foreground or Background Intellectual 
+       Property.  In respect of Background Intellectual Property, Canada 
+       shall have the right to sublicense use by an Other Contractor only 
+       if the Contractor is unable or unwilling to do the maintenance, 
+       repair or overhaul or provide the spare parts on reasonable 
+       commercial terms and within reasonable delivery times.
+
+(6)    Wherever practical, the Contractor shall mark or identify any 
+       Foreground or Background Intellectual Property delivered to Canada 
+       under this section as "Property of (Contractor name); permitted 
+       Government uses defined under DSS Contract No. (fill in contract 
+       number)", and Canada shall not be liable for any unauthorized use or 
+       disclosure of Foreground or Background Intellectual Property that 
+       could have been so marked or identified and was not.
+ 
+(7)    Until the Contractor discloses Foreground Intellectual Property in 
+       accordance with subsection (2), it shall not, without the prior 
+       written permission of the Minister, assign or otherwise transfer 
+       title to the Foreground Intellectual Property or license or 
+       otherwise authorize the use of that intellectual property by any 
+       person.  If the Contractor fails to disclose any Foreground 
+       Intellectual Property in accordance with subsection (2), the 
+       Minister may, within 90 days of the date when Canada learns of the 
+       failure of the Contractor to so disclose, issue a notice to the 
+       Contractor whereupon copyright, patent and all other proprietary 
+       rights to the Foreground Intellectual Property not disclosed shall 
+       immediately vest in and remain the property of Canada.  In that 
+       event, the Contractor shall, at its own expense, execute such 
+       conveyances or other documents relating to title as the minister for 
+       whose department or agency the Work is being carried out may require, 
+       and the Contractor shall, at Canada's expense, afford that minister 
+       all reasonable assistance in the prosecution of any patent 
+       application or registration of copyright or an industrial design, 
+       including assistance of the inventor in the case of Inventions.
+
+(8)    Canada is prepared to license the use by the Contractor of 
+       intellectual property owned by Canada and furnished to the 
+       Contractor under this Contract for purposes of the commercial 
+       exploitation or further development by the Contractor of the 
+       Foreground Intellectual Property, on terms and conditions, which may 
+       include the payment of compensation, to be negotiated between the 
+       Contractor and the minister for whose department or agency the Work 
+       is being carried out.
+
+(9)    The Contractor shall not, without the written permission of the 
+       Minister, incorporate into the Work any Background Intellectual 
+       Property unless it owns or has procured the rights necessary to 
+       provide the licence to Canada under subsection (5).  
+
+(10)   In any transfer of title to or assignment of the Foreground 
+       Intellectual Property or any licence for the use of the Foreground 
+       Intellectual Property, the Contractor shall impose on the other 
+       party any obligations to Canada imposed under this Contract and any 
+       restrictions on the use or disposition of the Foreground 
+       Intellectual Property contained in this Contract, including the 
+       obligation to impose the same obligations and restrictions on any 
+       subsequent transferee, assignee or licensee, so that such 
+       obligations and restrictions will continue to apply to the current 
+       holder of those rights to the Foreground Intellectual Property.  The 
+       Contractor agrees that neither the Contractor nor any such current 
+       holder of those rights to the Foreground Intellectual Property shall 
+       have the right to collect a royalty or other compensation on the use 
+       of the Foreground Intellectual Property for purposes of a contract 
+       or other arrangement with Canada.  The Contractor or other current 
+       holder of rights to the Foreground Intellectual Property shall 
+       promptly notify Canada of the name, address and other pertinent 
+       information in regard to any such transferee, assignee or licensee.
+
+(11)   Before and after final payment to the Contractor, the Minister shall 
+       have the right to examine all records and supporting data of the 
+       Contractor which the Minister reasonably deems pertinent to the 
+       discovery or identification of Technical Information to which 
+       subsection (2) applies.
+
+(12)   The Contractor shall, upon the written request of the Minister, 
+       furnish all logistical support and life-cycle support data relating 
+       to the Work, including lists of suppliers, supplier part numbers and 
+       related drawings, and shall do so at the minimum extra cost to 
+       Canada.
+
+
+</pre>
+</div>

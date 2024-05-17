@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense nationale portant sur l'acquisition de biens d'équipement.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A1030C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir au ministère de la Défense nationale (MDN), qui est le Bureau national de codification (BNC) au Canada, suffisamment de données techniques pour permettre au Directeur - Opérations de la chaîne d'approvisionnement (DOCA), de classifier, de codifier et de décrire les nouveaux articles qui seront versés dans le Système de catalogage du gouvernement canadien.</li>
+<li value="2">Les données techniques de chacun des articles peuvent inclure les dessins techniques du fabricant (niveau minimum 2), les normes, les spécifications et(ou) les données des fiches techniques (brochure). Sans égard au format de présentation, les données doivent clairement indiquer ce qui suit, selon le cas :
+<ol type="a">
+<li value="1">le nom et l'adresse du vrai fabricant, ou de la personne chargée du contrôle de la conception;</li>
+<li value="2">le numéro de pièce unique du fabricant;</li>
+<li value="3">les caractéristiques physiques (ayant trait au matériel, aux dimensions, aux tolérances);</li>
+<li value="4">les données liées au rendement (c.-à-d. exigences fonctionnelles ou opérationnelles, comme la vitesse, la charge);</li>
+<li value="5">les caractéristiques électriques et(ou) électroniques;</li>
+<li value="6">les exigences de montage;</li>
+<li value="7">les aspects particuliers des articles qui leur confèrent leur caractère unique;</li>
+<li value="8">l'application finale de l'article; et, s'il y a lieu</li>
+<li value="9">le numéro de code à barre unique du fabricant.</li>
+</ol>
+</li>
+<li value="3">Il n'est pas nécessaire de fournir des données descriptives techniques pour les articles désignés dans une spécification du gouvernement du Canada ou des États-Unis, ou dans une norme militaire comprenant une description complète des articles en question.</li>
+<li value="4">L'entrepreneur doit aviser le responsable technique du <abbr title="Ministère de la Défense nationale">MDN</abbr> et le <abbr title="Bureau national de codification">BNC</abbr> (DOCA 5) de toute donnée faisant l'objet d'une propriété exclusive ou restriction touchant la diffusion de ses données techniques aux entités
+gouvernementales du Canada ou à l'étranger.</li>
+<li value="5">En cas de différend concernant l'acceptabilité des données techniques présentées par l'entrepreneur, la décision du <abbr title="Bureau national de codification">BNC</abbr> (DOCA) doit prévaloir.</li>
+<li value="6">L'entrepreneur détient l'ultime responsabilité, en vertu des conditions du contrat, de fournir les données techniques pour tous les articles désignés dans le contrat. L'entrepreneur doit inclure les conditions de cette clause dans les contrats de sous-traitance, pour faire en sorte que le <abbr title="Ministère de la Défense nationale">MDN</abbr> et le <abbr title="Bureau national de codification">BNC</abbr> (DOCA) puissent avoir accès aux données techniques.</li>
+<li value="7">En ce qui concerne les articles complets achetés par l'entrepreneur auprès d'un sous-traitant ou d'un fournisseur, l'entrepreneur doit fournir le nom du fabricant réel ainsi que leur numéro d'identification de pièce unique, en plus de tous les documents techniques nécessaires, et leur numéro de code à barre, si disponible.</li>
+<li value="8">L'entrepreneur doit soumettre toutes les données au responsable technique du <abbr title="Ministère de la Défense nationale">MDN</abbr> au moins soixante (60) jours avant la livraison de l'équipement. Les articles ne doivent pas être libérés aux fins d'expédition, sauf s'il sont désignés par un numéro de nomenclature <abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr> dans le contrat ou s'ils ont été expressément autorisés par l'autorité contractante.</li>
+<li value="9">L'entrepreneur doit communiquer avec le <abbr title="Directeur - Opérations de la chaîne d'approvisionnement">DOCA</abbr> pour obtenir de plus amples précisions sur les exigences relatives à la codification des données techniques, en s'adressant au :
+<br/>Quartier général de la Défense nationale<br/>
+Édifice Mgén George R. Pearkes<br/>
+101, promenade Colonel By<br/>
+Ottawa (Ontario) K1A 0K2<br/>
+À l'attention du : Directeur - Opérations de la chaîne d'approvisionnement (DOCA)</li>
+</ol>
+</div></pre>
+</div>

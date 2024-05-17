@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause ne devrait pas être utilisée dans les contrats de la Défense 
+nationale.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les marchandises devront être prêtes pour l'inspection dans un délai de _____ 
+   jours à compter de la date du contrat et l'expédition devra en être 
+   faite _____ jours après la date d'approbation par le responsable de 
+   l'inspection.
+</pre>
+</div>

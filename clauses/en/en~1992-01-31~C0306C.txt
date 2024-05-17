@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>No payment shall be made for costs incurred in the preparation and 
+submission of a proposal in response to this Request for Proposal.    
+
+No costs incurred before receipt of a signed contract or specified written 
+   authorization from the Contracting Authority can be charged to the 
+   proposed contract.  
+</pre>
+</div>

@@ -1,0 +1,355 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2022-12-01R2810Dinterpretation">CG1.1 Interprétation</a>
+<ul class="no-markers">
+<li><a href="#2022-12-01R2810Den-tetes-et-references">CG1.1.1 En-têtes et références</a></li>
+<li><a href="#2022-12-01R2810Dterminologie">CG1.1.2 Terminologie</a></li>
+<li><a href="#2022-12-01R2810Dapplication-de-certaines-dispositions">CG1.1.3 Application de certaines dispositions</a></li>
+<li><a href="#2022-12-01R2810Dachevement-substantiel">CG1.1.4 Achèvement substantiel</a></li>
+<li><a href="#2022-12-01R2810Dachevement">CG1.1.5 Achèvement</a></li>
+</ul>
+</li>
+<li><a href="#2022-12-01R2810Ddocuments-contractuels">CG1.2 Documents contractuels</a>
+<ul class="no-markers">
+<li><a href="#2022-12-01R2810Dgeneralites">CG1.2.1 Généralités</a></li>
+<li><a href="#2022-12-01R2810Dordre-de-priorite">CG1.2.2 Ordre de priorité</a></li>
+<li><a href="#2022-12-01R2810Dsecurite-et-protection-des-travaux-et-des-documents">CG1.2.3 Sécurité et protection des travaux et des documents</a></li>
+</ul>
+</li>
+<li><a href="#2022-12-01R2810Dstatut-de-l-entrepreneur">CG1.3 Statut de l'entrepreneur</a></li>
+<li><a href="#2022-12-01R2810Ddroits-et-recours">CG1.4 Droits et recours</a></li>
+<li><a href="#2022-12-01R2810Drigueur-des-delais">CG1.5 Rigueur des délais</a></li>
+<li><a href="#2022-12-01R2810Dindemnisation-par-l-entrepreneur">CG1.6 Indemnisation par l'entrepreneur</a></li>
+<li><a href="#2022-12-01R2810Dindemnisation-par-le-canada">CG1.7 Indemnisation par le Canada</a></li>
+<li><a href="#2022-12-01R2810Dlois-permis-et-taxes">CG1.8 Lois, permis et taxes</a></li>
+<li><a href="#2022-12-01R2810Dindemnisation-des-travailleurs">CG1.9 Indemnisation des travailleurs</a></li>
+<li><a href="#2022-12-01R2810Dsecurite-nationale">CG1.10 Sécurité nationale</a></li>
+<li><a href="#2022-12-01R2810Dtravailleurs-inaptes">CG1.11 Travailleurs inaptes</a></li>
+<li><a href="#2022-12-01R2810Dceremonies-publiques-et-enseignes">CG1.12 Cérémonies publiques et enseignes</a></li>
+<li><a href="#2022-12-01R2810Dconflit-d-interets">CG1.13 Conflit d'intérêts</a></li>
+<li><a href="#2022-12-01R2810Dconventions-et-modifications">CG1.14 Conventions et modifications</a></li>
+<li><a href="#2022-12-01R2810Dsuccession">CG1.15 Succession</a></li>
+<li><a href="#2022-12-01R2810Dcession">CG1.16 Cession</a></li>
+<li><a href="#2022-12-01R2810Dpots-de-vin">CG1.17 Pots-de-vin</a></li>
+<li><a href="#2022-12-01R2810Dattestation-honoraires-conditionnels">CG1.18 Attestation - Honoraires conditionnels</a></li>
+<li><a href="#2022-12-01R2810Dsanctions-internationales">CG1.19 Sanctions internationales</a></li>
+<li><a href="#2022-12-01R2810Ddisposition-relatives-a-l-integrite-contrat">CG1.20 Disposition relatives à l'intégrité : contrat</a></li>
+<li><a href="#2022-12-01R2810Dcode-de-conduite-pour-approvisionnement">CG1.21 Code de conduite pour l’approvisionnement : contrat</a></li>
+<li><a href="#2022-12-01R2810Devaluation-du-rendement">CG1.22 Évaluation du rendement : contrat</a></li>
+</ul>
+</div>
+<h2 id="2022-12-01R2810Dinterpretation">CG1.1 (2022-12-01) Interprétation</h2>
+<p>La section suivante donne une interprétation des en-têtes et des références.</p>
+<h3 id="2022-12-01R2810Den-tetes-et-references">CG1.1.1 En-têtes et références</h3>
+<ol>
+<li>Les en-têtes des documents contractuels, sauf ceux des dessins et des devis, ne font pas partie du contrat; ils sont reproduits pour en faciliter la consultation seulement.</li>
+<li>Les renvois à des parties du contrat à
+            l'aide de chiffres précédés de lettres correspondent aux parties du contrat désignées par cette combinaison de chiffres et de lettres et à toutes les autres parties du contrat visées par ces renvois.</li>
+<li>Un renvoi à un alinéa ou à un sous-alinéa suivi d'un chiffre, d'une lettre ou d'une combinaison de chiffres et de lettres constitue, sauf indication contraire, un renvoi à l'alinéa ou au sous-alinéa faisant partie de la clause dans laquelle ce renvoi est noté.</li>
+</ol>
+<h3 id="2022-12-01R2810Dterminologie">CG1.1.2 Terminologie</h3>
+    Dans le contrat à moins que le contexte n'indique un sens différent :
+    <dl>
+<dt>« Canada », « État » et « Sa Majesté »</dt>
+<dd>désigne Sa Majesté le Roi du chef du Canada;</dd>
+<dt>« certificat d'achèvement »</dt>
+<dd>signifie le certificat délivré par le Canada à la fin des travaux;</dd>
+<dt>« certificat d'achèvement substantiel »</dt>
+<dd>signifie le certificat délivré par le Canada lorsque les travaux sont substantiellement achevés;</dd>
+<dt>« certificat de mesure »</dt>
+<dd>signifie le certificat délivré par le Canada pour confirmer l'exactitude des quantités finales, des prix unitaires et des valeurs pour la main-d'œuvre, les installations et les matériaux fournis et utilisés par l'entrepreneur pour la construction de la partie de l'ouvrage à laquelle se rapporte une entente à prix unitaire;</dd>
+<dt>« Conditions supplémentaires »</dt>
+<dd>signifient la partie du contrat modifiant ou complétant les Conditions générales;</dd>
+<dt>« contrat »</dt>
+<dd>signifie les documents mentionnés dans ce contrat et tous les autres documents précisés ou visés dans l'un quelconque des documents faisant partie du contrat, et inclut les modifications apportées audits documents par convention des parties;</dd>
+<dt>« Coût estimatif total », « coût estimatif révisé », « augmentation (diminution) » à la page 1 du contrat ou modification au contrat </dt>
+<dd>signifie un montant utilisé à des fins administratives internes seulement qui comprend le montant du contrat, ou le montant révisé du contrat, ou le montant qui augmenterait ou diminuerait le montant du contrat et les taxes applicables, conformément à l'évaluation de l'autorité contractante; il ne s'agit pas d'une opinion fiscale de la part du Canada;</dd>
+<dt>« dans les présentes », « par les présentes », « des présentes », « en vertu des présentes » et les expressions comparables</dt>
+<dd>désignent l'ensemble du contrat, et non une section ou une partie du contrat en particulier;</dd>
+<dt>« entente à forfait »</dt>
+<dd>signifie la partie du contrat prescrivant le versement d'un forfait pour l'exécution des travaux correspondants;</dd>
+<dt>« entente à prix unitaire »</dt>
+<dd>signifie la partie du contrat prescrivant le produit de la multiplication d'un prix par unité de mesure par le nombre d'unités de mesure pour l'exécution des travaux correspondants;</dd>
+<dt>« entrepreneur »</dt>
+<dd>signifie la personne qui passe un contrat avec le Canada pour fournir l'ensemble de la main-d'œuvre, des matériaux et de l'outillage permettant d'exécuter les travaux en vertu de ce contrat, y compris le surintendant de l'entrepreneur identifié par écrit au Canada.</dd>
+<dt>« fournisseur »</dt>
+<dd>signifie la personne ayant un contrat direct avec l'entrepreneur pour fournir l'outillage ou les matériaux non personnalisés pour les travaux;</dd>
+<dt>« garantie du contrat »</dt>
+<dd>signifie toute garantie donnée au Canada par l'entrepreneur conformément au contrat;</dd>
+<dt>« jour ouvrable »</dt>
+<dd>signifie une journée distincte du samedi, du dimanche ou d'un jour férié observé dans le secteur du bâtiment, dans la région où se déroulent les travaux.</dd>
+<dt>« matériaux »</dt>
+<dd>comprend toutes les marchandises, articles, machinerie, équipement, appareils et choses à
+            être fournis en vertu du contrat, pour être incorporés aux travaux;</dd>
+<dt>« montant du contrat »</dt>
+<dd>signifie le montant indiqué
+            dans le contrat et à verser à l'entrepreneur pour les travaux, sous réserve des modalités et des conditions du contrat, excluant les taxes applicables;</dd>
+<dt>« outillage »</dt>
+<dd>comprend les outils, instruments, machines, véhicules, constructions, équipements, articles et choses qui sont nécessaires à l'exécution des travaux, autres que les matériaux et les outils habituellement fournis par une personne de métier dans l'exercice d'un métier;</dd>
+<dt>« personne »</dt>
+<dd>comprend également, sauf lorsque le contrat stipule le contraire, une corporation, une compagnie, une entreprise, une firme, une coentreprise, un consortium ou une société;</dd>
+<dt>« représentant du ministère »</dt>
+<dd>signifie la personne désignée dans le contrat ou dans un avis
+            écrit signifié à l'entrepreneur comme représentant du ministère pour l'application de ce contrat, y compris toute personne autorisée et désignée par ce dernier par écrit;</dd>
+<dt>« services d'architecture et de génie »</dt>
+<dd>services pour fournir une gamme de rapports d'enquêtes et de recommandations, la planification, la conception, la préparation ou la supervision de travaux de construction, de réparation, de rénovation ou de restauration et inclut les services de gestion de contrats, de projets immobiliers;</dd>
+<dt>« services de construction »</dt>
+<dd>la construction, la réparation, la rénovation ou la restauration d'un ouvrage à l'exception d'un navire et qui comprend; la fourniture et l'érection d'une structure préfabriquée; le dragage; la démolition; les services environnementaux liés à un bien immobilier; ou, la location d'outillage destiné directement ou indirectement à l'exécution des services de construction mentionnés ci-dessus;</dd>
+<dt>« services d’entretien d’installations »</dt>
+<dd>services liés aux activités normalement associées à l’entretien d’une installation et le maintien des espaces, des structures et des infrastructures en bon état de fonctionnement, d’une manière routinière, prévue ou anticipée pour éviter la défaillance et / ou la dégradation, incluant des services d’inspections, d’essais, d’entretien, de classification quant à l’état de fonctionnement, de réparations, de reconstruction et de remise en état, ainsi que la fourniture de services d'entretien ménager, d'enlèvement des déchets, de déneigement, d'entretien des pelouses, de remplacement des revêtements de sol, d’appareils d’éclairage ou de plomberie, de peinture, et autres petits travaux;</dd>
+<dt>« sous-traitant »</dt>
+<dd>signifie une personne ayant un contrat direct avec l'entrepreneur, conformément à la CG3.6, « Sous-traitance », pour exécuter une ou des partie(s) des travaux ou pour fournir des matériaux personnalisés pour les travaux;</dd>
+<dt>« surintendant »</dt>
+<dd>signifie l'employé ou le représentant de l'entrepreneur désigné par ce dernier pour exercer les fonctions décrites dans la CG2.6, « Surintendant »</dd>
+<dt>« tableau des prix unitaires »</dt>
+<dd>signifie le tableau des prix figurant dans le contrat;</dd>
+<dt>« Taxes applicables »</dt>
+<dd>signifie la taxe sur les produits et services (TPS), la taxe de vente harmonisée (TVH) et toute taxe provinciale payable par le Canada selon la loi, tel que la taxe de vente du Québec (TVQ) à compter du 1<sup>er</sup> avril 2013;</dd>
+<dt>« travaux »</dt>
+<dd>signifient, sous réserve de toute disposition contraire dans le contrat, tout ce que l'entrepreneur doit faire, fournir ou livrer pour exécuter le contrat, conformément aux documents contractuels.</dd>
+</dl>
+<h3 id="2022-12-01R2810Dapplication-de-certaines-dispositions">CG1.1.3 Application de certaines dispositions</h3>
+<ol>
+<li>Toutes les dispositions du contrat qui s'appliquent expressément à une entente à prix unitaire exclusivement ne s'appliquent pas à toute partie des travaux
+            à laquelle s'applique une entente à forfait.</li>
+<li>Toutes les dispositions du contrat qui s'appliquent expressément à une entente à forfait ne s'appliquent pas à toute partie des travaux à laquelle s'applique une entente à prix unitaire.</li>
+</ol>
+<h3 id="2022-12-01R2810Dachevement-substantiel">CG1.1.4 Achèvement substantiel</h3>
+<ol>
+<li>Les travaux sont substantiellement achevés lorsqu'on jugera qu'ils sont suffisamment achevés
+            <ol type="a">
+<li>lorsque, suite aux inspections et essais réalisés, une partie substantielle ou la totalité
+                    des travaux visés par le contrat est, de l'avis du Canada, prête à être utilisée par le Canada ou est utilisée aux fins prévues;</li>
+<li>lorsque les travaux qui restent à effectuer en vertu du contrat peuvent, de l'avis du Canada, être achevés ou rectifiés à un coût n'excédant pas
+                    <ol type="i">
+<li>3p. 100 des premiers 500 000 $;</li>
+<li>2p. 100 des prochains 500 000 $;</li>
+<li>1p. 100 du reste</li>
+</ol>
+<p>du montant du contrat au moment du calcul de ce coût.</p>
+</li>
+</ol>
+</li>
+<li>Lorsque les travaux ou une partie considérable des travaux sont prêts à être utilisés aux fins prévues;
+            <ol type="a">
+<li>et que le reste ou une partie des travaux ne peut
+                    être achevée dans les délais précisés dans le contrat ou dans une version modifiée conformément
+                    à la CG6.5, « Retards et prolongation de délai », pour des raisons indépendantes de la volonté de l'entrepreneur ou</li>
+<li>que le Canada et l'entrepreneur ont convenu de ne pas terminer les travaux dans les délais précisés;</li>
+</ol>
+            le coût de la partie des travaux qui n'a pas été
+            complétée en raison de circonstances indépendantes de la volonté de l'entrepreneur ou que le Canada et l'entrepreneur ont convenu de ne pas terminer dans les délais précisés est déduit du montant du contrat mentionné au sous-alinéa 1)b) de la CG1.1.4 et ledit coût ne fait pas partie du coût des travaux restants
+            à effectuer aux fins de la détermination de l'achèvement substantiel. </li>
+</ol>
+<h3 id="2022-12-01R2810Dachevement">CG1.1.5 (2015-02-25) Achèvement</h3>
+<p>Les travaux sont réputés avoir
+        été achevés lorsque l'ensemble de la main-d'œuvre, de l'outillage et des matériaux nécessaires ont
+        été utilisés ou fournis et que l'entrepreneur a respecté le contrat, de même que tous les ordres et toutes les directives donnés à cet égard, à la satisfaction du Canada.</p>
+<h2 id="2022-12-01R2810Ddocuments-contractuels">CG1.2 (2015-03-25) Documents contractuels</h2>
+<p>La section suivante traite des documents contractuels.</p>
+<h3 id="2022-12-01R2810Dgeneralites">CG1.2.1 Généralités</h3>
+<ol>
+<li>Les documents contractuels sont complémentaires et les exigences de l'un quelconque de ces documents ont le même caractère obligatoire que si elles
+            étaient indiquées dans tous les documents.</li>
+<li>Dans les documents contractuels, le singulier s'entend également du pluriel lorsque le contexte l'exige.</li>
+<li>Nulle disposition des documents contractuels n'aura pour effet de créer une relation contractuelle entre le Canada et un sous-traitant ou un fournisseur, leurs sous-traitants ou leurs fournisseurs, ou leurs mandataires ou employés.</li>
+</ol>
+<h3 id="2022-12-01R2810Dordre-de-priorite">CG1.2.2 Ordre de priorité</h3>
+<ol>
+<li>En cas de divergence ou de contradiction dans les documents suivants, leur prépondérance est établie selon l'ordre ci-après:
+            <ol type="a">
+<li>toute modification ou variante des documents contractuels apportée conformément aux Conditions générales;</li>
+<li>toutes les modifications émises avant la date de clôture;</li>
+<li>les Conditions supplémentaires;</li>
+<li>les Conditions générales;</li>
+<li>le Formulaire de soumission et d'acceptation rempli en bonne et due forme lorsqu'il est accepté;</li>
+<li>les dessins et devis;</li>
+</ol>
+            les dates ultérieures déterminent la priorité des documents dans chacune des catégories de documents ci-dessus. </li>
+<li>En cas de divergence ou de contradiction dans l'information reproduite dans les dessins et devis, les règles suivantes s'appliquent 
+            <ol type="a">
+<li>les devis l'emportent sur les dessins;</li>
+<li>les dimensions exprimées en chiffres sur un dessin, lorsque celles-ci diffèrent des dimensions à
+                    l'échelle sur le même dessin, l'emportent sur ces dernières;</li>
+<li>les dessins à grande échelle l'emportent sur les dessins à petite échelle.</li>
+</ol>
+</li>
+</ol>
+<h3 id="2022-12-01R2810Dsecurite-et-protection-des-travaux-et-des-documents">CG1.2.3 Sécurité et protection des travaux et des documents</h3>
+<ol>
+<li>L'entrepreneur garde et protège les documents contractuels, les dessins, l'information, les maquettes et les copies fournis ou non par le Canada à l'entrepreneur contre toute perte ou dommage de quelque nature que ce soit.</li>
+<li>L'entrepreneur respecte le caractère confidentiel de tous les renseignements qui lui sont fournis par le Canada ou en son nom relativement aux travaux et de tous les renseignements qu'il élabore dans le cadre des travaux. Il ne devra pas divulguer ces renseignements à quiconque sans l'autorisation écrite du Canada, mais pourra toutefois divulguer à un sous-traitant autorisé conformément au contrat les renseignements nécessaires à
+            l'exécution du contrat de sous-traitance. Cette section ne s'applique pas aux renseignements:
+            <ol type="a">
+<li>publiquement accessibles d'une source autre que l'entrepreneur; ou</li>
+<li>dont l'entrepreneur a obtenu connaissance auprès d'une source distincte du Canada, à l'exception d'une source qui, au su de l'entrepreneur, est tenue de ne pas les divulguer en vertu de son obligation envers le Canada.</li>
+</ol>
+</li>
+<li>Lorsque le contrat, les travaux ou tous les renseignements visés à l'alinéa 2) sont désignés par le Canada comme très secret, secret, confidentiel ou protégé, l'entrepreneur doit, en tout temps, prendre toute mesure raisonnable jugée nécessaire pour les protéger, y compris les mesures qui peuvent être précisées ailleurs dans le contrat ou fournies par
+            écrit, périodiquement, par le Canada.</li>
+<li>Sans limiter la portée générale des alinéas 2) et 3) de la CG1.2.3, lorsque le contrat, les travaux ou tous les renseignements visés à l'alinéa 2) sont désignés par le Canada comme très secret, secret, confidentiel ou protégé, le Canada a le droit d'inspecter les locaux de l'entrepreneur et de ses sous-traitants ou fournisseurs, de même que ceux de quelque autre personne que ce soit à tous les niveaux, pour des raisons de sécurité, en tout temps pendant la durée du contrat;
+            l'entrepreneur doit respecter toutes les instructions écrites délivrées par le Canada et s'assurer que tous ces sous-traitants ou fournisseurs en font autant, en ce qui a trait aux documents ainsi désignés, y compris lorsque des employés de l'entrepreneur et de ses sous-traitants et fournisseurs et de quelque autre personne que ce soit, à tous les niveaux, doivent signer et fournir des déclarations se rapportant à des enquêtes de sûreté, à des cotes de sécurité et à d'autres procédures.</li>
+<li>L'entrepreneur doit protéger les travaux et le contrat, les devis, les dessins et tous les autres renseignements que lui fournit le Canada et est responsable, envers ce dernier, de toutes les pertes ou de tous les dommages de quelque nature que ce soit et découlant de quelque cause que ce soit.</li>
+</ol>
+<h2 id="2022-12-01R2810Dstatut-de-l-entrepreneur">CG1.3 (2008-05-12) Statut de l'entrepreneur</h2>
+<ol>
+<li>L'entrepreneur est engagé, en vertu du contrat, à titre d'entrepreneur indépendant.</li>
+<li>L'entrepreneur, ses sous-traitants et fournisseurs et quelque autre personne que ce soit, à tous niveaux, ainsi que leurs employés ne sont pas engagés à titre d'employés, de préposés ou de mandataires du Canada.</li>
+<li>Pour les besoins du contrat, l'entrepreneur est seul responsable de toutes les sommes à verser et de toutes les retenues à prélever en vertu de la loi relativement
+            à l'exécution des travaux, ainsi que des sommes à
+            verser dans le cadre du Régime de pensions du Canada ou du Régime de rentes du Québec, de l'assurance-emploi, du Régime de Santé et sécurité au travail, de régimes provinciaux de santé ou d'assurance, et de l'impôt sur le revenu.</li>
+</ol>
+<h2 id="2022-12-01R2810Ddroits-et-recours">CG1.4 (2015-02-25) Droits et recours</h2>
+<p>Sauf dans les cas prévus expressément dans le contrat, les droits et obligations imposés en vertu du contrat et les droits et recours dont on peut se prévaloir
+        à ce titre s'ajoutent aux devoirs, aux obligations, aux droits et aux recours normalement imposés ou prévus par la loi et sans les restrictions.</p>
+<h2 id="2022-12-01R2810Drigueur-des-delais">CG1.5 (2015-02-25) Rigueur des délais</h2>
+<p>Le temps est de l'essence même du contrat.</p>
+<h2 id="2022-12-01R2810Dindemnisation-par-l-entrepreneur">CG1.6 (2008-05-12) Indemnisation par l'entrepreneur</h2>
+<ol>
+<li>L'entrepreneur acquitte toutes les redevances et les droits de brevet nécessaires à l'exécution du contrat et assume à ses frais la défense du Canada contre toutes les réclamations, actions ou procédures déposées ou intentées contre le Canada et alléguant que les travaux ou toute partie de ceux-ci réalisés ou fournis par l'entrepreneur pour le Canada portent atteinte à des brevets, modèles industriels, droits d'auteur, marques de commerce, secrets industriels ou autres droits de propriété susceptibles d'exécution au Canada.</li>
+<li>L'entrepreneur tient le Canada indemne ou à
+            couvert de toutes réclamations, demandes d'indemnités, pertes, frais, dommages, actions, poursuites ou procédures présentés ou intentés par quiconque et découlant, directement ou indirectement, des activités de l'entrepreneur, de ses sous-traitants et fournisseurs, et tout autre personne à tous niveaux, dans l'exécution des travaux.</li>
+<li>Pour l'application de l'alinéa 2) de la CG1.6, le terme « <dfn>activités</dfn> » signifie toute activité
+            exécutée de manière fautive, toute omission relativement à une activité et tout retard dans l'exécution d'une activité.</li>
+</ol>
+<h2 id="2022-12-01R2810Dindemnisation-par-le-canada">CG1.7 (2015-02-25) Indemnisation par le Canada</h2>
+<p>Le Canada, sous réserve des dispositions de la <cite>Loi sur la responsabilité civile de l'État et le contentieux administratif</cite>, de la <cite>Loi sur les brevets</cite> et de toutes les autres lois touchant ses droits, pouvoirs, privilèges ou obligations, tient indemne et à couvert l'entrepreneur de toutes réclamations, demandes d'indemnités, pertes, coûts, dommages, actions en justice, poursuites ou procédures découlant de ses activités en vertu du contrat et attribuables directement
+        à :</p>
+<ol type="a">
+<li>une lacune ou un vice, réel ou allégué, dans les droits du Canada concernant le chantier s'il en est propriétaire;</li>
+<li>une contrefaçon ou prétendue contrefaçon par l'entrepreneur de tout brevet d'invention ou de toute autre forme de propriété intellectuelle, dans l'exécution de tout acte aux fins du contrat, comportant l'utilisation d'un modèle, d'un plan, d'un dessin ou de toute autre chose fournis par le Canada à l'entrepreneur aux fins des travaux.</li>
+</ol>
+<h2 id="2022-12-01R2810Dlois-permis-et-taxes">CG1.8 (2014-06-26) Lois, permis et taxes</h2>
+<ol>
+<li>L'entrepreneur observe toutes les dispositions législatives et réglementaires applicables à
+            l'exécution des travaux ou toute partie de ceux-ci qu'elles soient fédérales, provinciales ou municipales, y compris, sans nécessairement s'y limiter, toute loi se rapportant
+            à la santé et à la protection de l'environnement; il doit exiger que tous ses sous-traitants et fournisseurs, à tous les niveaux, en fassent autant comme si les travaux étaient exécutés pour un maître de l'ouvrage distinct du Canada. L'entrepreneur doit fournir au Canada la preuve confirmant que ces lois et règlements sont respectés à tout moment où le Canada lui adresse une demande à cet effet.</li>
+<li>Sauf indication contraire dans le contrat, l'entrepreneur obtient et maintient en vigueur tous les permis, certificats, licences, enregistrements et autorisations nécessaires pour exécuter les travaux conformément
+            à la loi.</li>
+<li>Avant le début des travaux, l'entrepreneur dépose auprès de l'administration municipale, un montant
+            égal à l'ensemble des droits et des frais qui, en vertu de la loi, seraient payables à cette administration municipale pour les permis de construction, comme si les travaux étaient exécutés pour un maître de l'ouvrage distinct du Canada.</li>
+<li>Dans les 10 jours qui suivent l'offre mentionnée
+            à l'alinéa 3) de la CG1.8, l'entrepreneur avise le Canada du montant qu'il a déposé auprès de l'administration municipale et précise si ce dépôt fut accepté
+            ou non.</li>
+<li>Si l'administration municipale n'accepte pas le montant déposé, l'entrepreneur verse cette somme au Canada dans les 6 jours suivant l'expiration du délai fixé à l'alinéa 4) de la CG1.8.</li>
+<li>Pour l'application de la présente clause, l'expression « <dfn>administration municipale</dfn> » signifie une administration qui aurait compétence pour autoriser la construction de l'ouvrage si le propriétaire n'en était pas le Canada.</li>
+<li>Nonobstant le lieu de résidence de l'entrepreneur, l'entrepreneur verse toute taxe applicable découlant de l'exécution des travaux visés par le contrat.</li>
+<li>Conformément à la déclaration statutaire visée à l'alinéa 4) de la CG5.5, « Achèvement substantiel des travaux », l'entrepreneur dont ni le lieu de résidence ni la place d'affaires n'est dans la province où sont effectués les travaux visés par le contrat, fourni au Canada une preuve d'enregistrement auprès des autorités provinciales responsables de la taxe de vente dans ladite province.</li>
+<li>Pour le paiement des taxes applicables ou pour le dépôt de la garantie du paiement des taxes applicables découlant directement ou indirectement de l'exécution des travaux, et nonobstant la clause stipulant que si l'ensemble des matériaux, de l'outillage et des droits sur tous les biens immobiliers, permis, pouvoirs et privilèges appartiennent au Canada après que ce dernier les ait acquis, conformément
+            à la CG3.10, « Matériaux, outillage et biens immobiliers devenus propriété du Canada », l'entrepreneur assume la responsabilité, à titre d'utilisateur ou de consommateur, la responsabilité du paiement des taxes applicables et du dépôt de garantie pour le paiement desdites taxes applicables, durant la période pendant laquelle il utilise ou consomme ces matériaux, outillage et droits conformément aux lois pertinentes.</li>
+<li value="10">Les ministères et organismes fédéraux doivent payer les taxes applicables. </li>
+<li value="11">Les taxes applicables seront payées par le Canada conformément aux dispositions sur la présentation de demande paiement. Il revient à l'entrepreneur de facturer les taxes applicables selon le taux approprié, conformément aux lois en vigueur. L'entrepreneur accepte de remettre aux autorités fiscales appropriées les sommes acquittées ou exigibles au titre de taxes applicables. </li>
+<li value="12">L'entrepreneur n'a pas droit aux exemptions fiscales dont jouit le Canada, comme pour le paiement des taxes de vente provinciales, sauf indication contraire de la loi. L'entrepreneur doit payer la taxe de vente provinciale, les taxes accessoires et toute taxe à la consommation qui s'appliquent sur les biens ou services taxables utilisés ou consommés dans le cadre de l'exécution du contrat (conformément aux lois en vigueur), y compris les matériaux incorporés dans des biens immobiliers. </li>
+<li value="13">Dans les cas où les taxes applicables, les droits de douane et les taxes d'accise sont compris dans le montant du contrat, ce dernier sera ajusté afin de tenir compte de toute augmentation ou diminution des taxes applicables, droits de douane et taxes d'accise qui se sera produite entre la présentation de la soumission et l'attribution du contrat. Toutefois, il n'y aura pas d'ajustement relatif à toute modification pour augmenter le montant du contrat si un avis public assez détaillé de la modification a été donné avant la date de clôture de la soumission qui aurait pu permettre à l'entrepreneur de calculer les effets de cette modification. </li>
+<li value="14">Retenue d'impôt de 15  <abbr title="pour">p.</abbr> 100 – Agence du revenu du Canada <br/>
+            En vertu de la <cite>Loi de l'impôt sur le revenu</cite>, 1985, <abbr title="chapitre">ch.</abbr> 1 (5<sup>e</sup> <abbr title="supplémentaire">suppl.</abbr>) et le <cite>Règlement de l'impôt sur le revenu</cite>, le Canada doit retenir 15  <abbr title="pour">p.</abbr> 100 du montant à payer à l'entrepreneur pour des services rendus au Canada si l'entrepreneur n'est pas un résident du Canada, à moins que ce dernier obtienne une exonération valide de l'Agence du revenu du Canada. Le montant retenu sera conservé dans un compte pour l'entrepreneur pour tout impôt à payer exigible par le Canada. </li>
+</ol>
+<h2 id="2022-12-01R2810Dindemnisation-des-travailleurs">CG1.9 (2010-01-11) Indemnisation des travailleurs</h2>
+<ol>
+<li>Avant le début des travaux, de même qu'à la date de l'achèvement substantiel des travaux et avant la délivrance du certificat d'achèvement, l'entrepreneur dépose des pièces justificatives confirmant qu'il respecte les lois sur l'indemnisation des travailleurs applicables sur les lieux des travaux, et notamment qu'il a acquitté les sommes exigibles à ce titre.</li>
+<li>En tout temps pendant la durée du contrat, à la demande du Canada, l'entrepreneur dépose les pièces justificatives démontrant qu'il respecte lesdites lois et qu'il en est de même de ses sous-traitants et de toutes autres personnes à quelque niveau et de toutes personnes participant à l'exécution des travaux qui sont assujetties aux dites lois.</li>
+</ol>
+<h2 id="2022-12-01R2810Dsecurite-nationale">CG1.10 (2008-05-12) Sécurité nationale</h2>
+<ol>
+<li>Si le Canada est d'avis que les travaux sont de nature à mettre en cause la sécurité nationale, il peut ordonner à l'entrepreneur
+            <ol type="a">
+<li>de lui fournir tout renseignement sur les personnes embauchées ou à embaucher par l'entrepreneur aux fins du contrat; et</li>
+<li>de retirer de l'emplacement des travaux toute personne dont l'emploi peut en l'occurrence, de l'avis du Canada, comporter un risque pour la sécurité nationale; et</li>
+</ol>
+            l'entrepreneur doit s'y conformer. </li>
+<li>Les contrats que l'entrepreneur pourra conclure avec les personnes qui seront affectées à l'exécution des travaux, doivent contenir des dispositions qui lui permettront de s'acquitter de toute obligation qui lui incombent en vertu de l'alinéa 1) de la CG1.10.</li>
+</ol>
+<h2 id="2022-12-01R2810Dtravailleurs-inaptes">CG1.11 (2015-02-25) Travailleurs inaptes</h2>
+<p>Le Canada ordonnera à l'entrepreneur de retirer de l'emplacement des travaux toute personne engagée par ce dernier aux fins de l'exécution du contrat qui, de l'avis du Canada, est incompétente ou s'est conduite de façon malveillante, et l'entrepreneur doit interdire l'accès à
+        l'emplacement des travaux à toute personne ayant ainsi
+        été retirée.</p>
+<h2 id="2022-12-01R2810Dceremonies-publiques-et-enseignes">CG1.12 (2007-05-25) Cérémonies publiques et enseignes</h2>
+<ol>
+<li>L'entrepreneur ne permet pas de cérémonies publiques relativement aux travaux sans le consentement préalable du Canada.</li>
+<li>L'entrepreneur n'érige ou ne permet l'érection d'enseignes ou de panneaux publicitaires sur les travaux ou à l'emplacement des travaux sans le consentement préalable du Canada.</li>
+</ol>
+<h2 id="2022-12-01R2810Dconflit-d-interets">CG1.13 (2015-02-25) Conflit d'intérêts</h2>
+<p>Il est entendu qu'une personne assujettie aux dispositions relatives à l'après-mandat du Code régissant la conduite des titulaires de charge publique concernant les conflits d'intérêts et l'après-mandat ou du Code de valeurs et d'éthique de la fonction publique ne peut bénéficier directement du présent contrat, à moins que cette personne ne respecte les dispositions applicables concernant l'après-mandat.</p>
+<h2 id="2022-12-01R2810Dconventions-et-modifications">CG1.14 (2008-05-12) Conventions et modifications</h2>
+<ol>
+<li>Le contrat constitue l'intégralité des conventions conclues entre les parties en ce qui a trait à son objet et annule et remplace toutes négociations, communications et autres conventions antérieures s'y rapportant, qu'elles aient été écrites ou verbales, sauf si elles sont intégrées par renvoi. Aucune modalité, condition, déclaration, affirmation ou clause autres que celles énoncées au contrat ne lient les parties.</li>
+<li>Le défaut de l'une ou l'autre des parties d'exiger, à quelque moment, que l'autre partie se conforme
+            à une clause du contrat n'aura pour effet d'empêcher qu'elle puisse exiger l'exécution de cette clause ultérieurement; de même, la renonciation par l'une ou l'autre des parties à invoquer le manquement de l'autre partie
+            à une clause, terme ou condition du contrat ne sera pas réputée constituer une renonciation à son droit d'opposer tout manquement ultérieur à cette même clause, terme ou condition.</li>
+<li>Le contrat pourra être modifié uniquement en conformité des modalités qui y sont prévues.</li>
+</ol>
+<h2 id="2022-12-01R2810Dsuccession">CG1.15 (2015-02-25) Succession</h2>
+<p>Le contrat est au bénéfice des parties au contrat, de même qu'à celui de leurs héritiers légaux, exécuteurs testamentaires, administrateurs, successeurs et, sous réserve de la CG1.16, « Cession », au bénéfice de leurs ayants droit, qui sont tous par ailleurs liés par ses dispositions.</p>
+<h2 id="2022-12-01R2810Dcession">CG1.16 (2015-02-25) Cession</h2>
+<p>L'entrepreneur ne peut céder le contrat, en totalité ou en partie, sans le consentement écrit du Canada.</p>
+<h2 id="2022-12-01R2810Dpots-de-vin">CG1.17 (2015-02-25) Pots-de-vin</h2>
+<p>L'entrepreneur déclare aux fins des présentes qu'aucun pot-de-vin, présent, bénéfice ou autre avantage n'a été ni sera consenti, promis ou offert, directement ou indirectement, à un représentant ou à un employé du Canada ni à un membre de sa famille, en vue d'exercer une influence sur la conclusion ou la gestion du contrat.</p>
+<h2 id="2022-12-01R2810Dattestation-honoraires-conditionnels">CG1.18 (2012-07-16) Attestation - honoraires conditionnels</h2>
+<ol>
+<li>À la présente:
+            <ol type="a">
+<li>« <dfn>honoraires conditionnels</dfn> » signifie tout paiement ou autre forme de rémunération, qui est subordonné au degré de succès ou calculé en fonction du degré de succès obtenu en rapport à
+                    l'obtention d'un contrat gouvernemental, à la négociation d'une partie ou de la totalité des conditions de ce contrat ou
+                    à toute demande ou démarche reliée à ce contrat;</li>
+<li>« <dfn>employé(e)</dfn> » signifie toute personne avec qui l'entrepreneur a une relation d'employeur à
+                    employé;</li>
+<li>« <dfn>personne</dfn> » comprend un particulier ou un groupe, une corporation, une société, une organisation et une association et, sans limiter la portée générale de ce qui précède, tout particulier qui est tenu de fournir au directeur une déclaration en vertu de l'article 5 de la <cite>Loi sur le lobbying</cite>, L.R. 1985, <abbr title="chapitre">ch.</abbr> 44 (4<sup>e</sup> <abbr title="supplémentaire">suppl.</abbr>) et de toute modification qui pourrait lui être apportée de temps à autre.</li>
+</ol>
+</li>
+<li>L'entrepreneur atteste qu'il n'a pas versé ni convenu de verser, directement ou indirectement, et s'engage à
+            ne pas verser, directement ni indirectement, des honoraires conditionnels en rapport à la négociation ou à
+            l'obtention du présent contrat ou en rapport à toute demande ou démarche reliée au présent contrat, à aucune personne autre qu'un employé agissant dans l'exécution normale de ses fonctions.</li>
+<li>Tous les comptes et documents concernant le versement d'honoraires ou de toute autre rémunération reliés
+            à la sollicitation, l'obtention ou la négociation du contrat, sont assujettis aux dispositions du contrat portant sur les comptes et la vérification.</li>
+<li>Si l'entrepreneur fait une fausse déclaration aux termes de la présente section ou ne respecte pas les obligations précisées dans le présent document, le Canada peut soit retirer à l'entrepreneur les travaux qui lui ont été confiés conformément aux dispositions du contrat, soit recouvrer, de l'entrepreneur, par une réduction du prix du contrat ou autrement, le montant total des honoraires conditionnels.</li>
+</ol>
+<h2 id="2022-12-01R2810Dsanctions-internationales">CG1.19 (2021-12-02) Sanctions internationales</h2>
+<ol>
+<li>Les personnes au Canada, et les Canadiens à
+            l'étranger, sont liées par les sanctions économiques imposées par le Canada. En conséquence, le gouvernement du Canada ne peut accepter la livraison d'aucun bien ou service provenant, directement ou indirectement, d'un ou plusieurs pays assujettis aux sanctions
+                économiques.</li>
+<li>Une condition essentielle de ce contrat est que l'entrepreneur ne fournisse pas au gouvernement canadien un bien ou un service assujetti aux sanctions économiques.</li>
+<li>Tel que prescrit par le règlement en vigueur, l'entrepreneur respecte tout changement apporté aux sanctions imposées durant la période du contrat. Lors de l'exécution du contrat, si l'imposition de sanctions contre un pays ou une personne ou l'ajout d'un bien ou service à la liste des biens et services empêche l'entrepreneur de satisfaire la totalité ou une partie de ses obligations, l'entrepreneur peut demander que le contrat soit terminé
+            conformément à la CG7.3, « Résiliation du contrat  ».</li>
+</ol>
+<h2 id="2022-12-01R2810Ddisposition-relatives-a-l-integrite-contrat">CG1.20 (2016-04-04) Disposition relatives à l'intégrité : contrat</h2>
+<p>La <cite>Politique d’inadmissibilité et de suspension</cite> (la « Politique ») et toutes les directives connexes incorporées par renvoi dans la demande de soumissions à sa date de clôture sont incorporées au contrat et en font partie intégrante. L’entrepreneur doit respecter les dispositions de la Politique et des directives, lesquelles se trouvent sur le site Web de Travaux publics et Services gouvernementaux Canada à l’adresse Politique d’inadmissibilité et de suspension.</p>
+<h2 id="2022-12-01R2810Dcode-de-conduite-pour-approvisionnement">CG1.21 (2022-01-28) Code de conduite pour l’approvisionnement : contrat</h2>
+<p>L’entrepreneur accepte de se conformer au Code de conduite pour l'approvisionnement et d’être lié par ses dispositions pendant la période du contrat.</p>
+<h2 id="2022-12-01R2810Devaluation-du-rendement">CG1.22 (2017-08-17) Évaluation du rendement : contrat</h2>
+<ol>
+<li>Le rendement de l'entrepreneur pendant et après la prestation des services sera évalué par le Canada. L'évaluation sera basée sur les critères suivants :
+            <ol type="a">
+<li>qualité des travaux exécutés</li>
+<li>délais d’exécution</li>
+<li>gestion de projet</li>
+<li>gestion du contrat</li>
+<li>santé et sécurité</li>
+</ol>
+</li>
+<li>Un facteur de pondération de 20 points est attribué à chacun des cinq critères comme suit :
+            <ol type="a">
+<li>inacceptable: 0 à 5 points</li>
+<li>non satisfaisant: 6 à 10 points</li>
+<li>satisfaisant: 11 à 16 points</li>
+<li>supérieur: 17 à 20 points</li>
+</ol>
+</li>
+<li>Les conséquences découlant de l’évaluation du rendement sont les suivantes :
+            <ol type="a">
+<li>Pour une cote globale de 85 % ou plus, une lettre de félicitation est envoyée à l’entrepreneur.</li>
+<li>Pour une cote globale entre 51 % et 84 %, une lettre type « rencontre les attentes », est envoyée à l’entrepreneur.</li>
+<li>Pour une cote globale entre 30 % et 50 %, une lettre d’avertissement est envoyée à l’entrepreneur indiquant que si, au cours des deux prochaines années à partir de la date de la lettre, sa côte de rendement est de 50 % ou moins sur une autre évaluation, l’entrepreneur pourrait être suspendu de toute nouvelle invitation à soumissionner de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> pour des services de construction, des services d'architecture et de génie ou des services d'entretien des installations, de projets immobiliers, pour une période d’un an.</li>
+<li>Pour une cote globale de moins de 30 %, une lettre de suspension est envoyée à l’entrepreneur indiquant que l’entrepreneur est suspendu de toute nouvelle invitation à soumissionner de Travaux publics et Services gouvernementaux Canada (TPSGC) pour des services de construction, des services d'architecture et de génie ou des services d'entretien des installations, de projets immobiliers, pour une période d’un an à partir de la date de la lettre.</li>
+<li>Lorsque la moyenne générale est entre 30 % et 50 % et inclus une cote de 5 points ou moins pour un critère, une lettre de suspension est envoyée à l’entrepreneur indiquant que l’entrepreneur est suspendu de toute nouvelle invitation à soumissionner de <abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> pour des services de construction, des services d'architecture et de génie ou des services d'entretien des installations, de projets immobiliers, pour une période d’un an à partir de la date de la lettre.</li>
+</ol>
+</li>
+</ol>
+<p>Le formulaire PWGSC-TPSGC 2913, Select - Formulaire du rapport d'évaluation du rendement de l'entrepreneur (FRERE), est utilisé pour évaluer le rendement.</p>
+</div></pre>
+</div>

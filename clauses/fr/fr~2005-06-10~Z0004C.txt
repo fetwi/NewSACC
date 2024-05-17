@@ -1,0 +1,97 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'expression « <dfn><abbr title="franco à bord">FAB</abbr> origine, installation de
+l'entrepreneur</dfn> », utilisée dans la présente clause,
+signifie que les marchandises sont livrées sans frais pour le
+gouvernement américain, à bord du véhicule
+correspondant au moyen de transport indiqué du transporteur
+(ou du gouvernement américain, si cela est stipulé)
+à l'installation désignée, sur la rue ou la route
+nommée, dans la ville, le comté et la province ou
+l'état d'où l'envoi sera effectué.</li>
+<li value="2">L'entrepreneur doit :
+<ol type="a">
+<li value="1">
+<ol type="i">
+<li value="1">emballer et marquer les envois conformément
+aux spécifications contractuelles; ou</li>
+<li value="2">en l'absence de spécifications, préparer l'envoi
+conformément aux exigences du transporteur pour protéger
+les biens et assurer l'évaluation des frais applicables les
+plus économiques;</li>
+</ol>
+</li>
+<li value="2">
+<ol type="i">
+<li value="1">commander l'équipement particulier du
+transporteur lorsque le gouvernement américain en fait la
+demande; ou</li>
+<li value="2">si ce n'est pas indiqué, commander l'équipement
+approprié du transporteur de manière à ne pas
+dépasser la capacité nécessaire à l'envoi;</li>
+</ol>
+</li>
+<li value="3">livrer l'envoi en bon état au transporteur, et
+charger, arrimer, assujettir et (ou) consolider l'envoi
+effectué par wagon ou camion (lorsqu'il est chargé par
+l'entrepreneur) sur ou dans le véhicule du transporteur,
+conformément aux règles et aux règlements de ce
+dernier;</li>
+<li value="4">assumer la responsabilité de toute perte et (ou)
+de tout dommage aux marchandises
+<ol type="i">
+<li value="1">se produisant avant la livraison au
+transporteur;</li>
+<li value="2">résultant d'un emballage ou d'un marquage insuffisant;
+ou</li>
+<li value="3">résultant d'un chargement, d'un arrimage d'une
+consolidation et (ou) d'un assujettissement insuffisants de
+l'envoi, s'il est chargé par l'entrepreneur sur ou dans le
+véhicule du transporteur;</li>
+</ol>
+</li>
+<li value="5">remplir le connaissement du gouvernement
+américain fourni par l'organisme de commande <span lang="en-CA"><cite>Defense
+Contract Management Americas</cite> (DCMA)</span>/Ottawa ou, si aucun
+connaissement du gouvernement américain n'est fourni,
+préparer un connaissement commercial ou un autre reçu de
+transport, indiquant
+<ol type="i">
+<li value="1">une description de l'envoi selon la classification
+des marchandises ou les tarifs (ou les tarifs prévus dans
+l'appel d'offres du gouvernement américain) en vigueur, en
+vertu desquels les tarifs les plus économiques de transport
+sont applicables;</li>
+<li value="2">les sceaux apposés au véhicule avec leurs
+numéros de série ou autres inscriptions
+d'identification;</li>
+<li value="3">les longueurs et capacités des wagons ou des camions
+commandés et fournis;</li>
+<li value="4">d'autres renseignements pertinents requis pour effectuer
+une prompte livraison au destinataire, y compris le nom, l'adresse
+de livraison, l'adresse postale, le code postal ou le code de zone
+du destinataire, l'acheminement, etc.;</li>
+<li value="5">des instructions ou annotations spéciales
+requises par <span lang="en-CA"><abbr title="Defense Contract Management Americas">DCMA</abbr></span>/Ottawa pour les connaissements commerciaux, p.
+ex. : (a) « à convertir en un connaissement du
+gouvernement américain », ou (b) « cet envoi est la
+propriété du gouvernement américain et les montants
+versés au transporteur, au titre du fret, seront
+remboursés par le gouvernement américain » et</li>
+<li value="6">la signature du représentant du transporteur et la
+date à laquelle l'envoi a été reçu par le
+transporteur; et</li>
+</ol>
+</li>
+<li value="6">distribuer les copies du connaissement ou d'autres
+reçus de transport, conformément aux directives de
+<span lang="en-CA"><abbr title="Defense Contract Management Americas">DCMA</abbr></span>/Ottawa.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

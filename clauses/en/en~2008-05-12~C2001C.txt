@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for goods when the contract price does not 
+include any duties and/or taxes required to be paid on imported goods to be 
+delivered to Canada under the contract and that will be exported by Canada.
+
+Refer to Supply Manual procedure 7E.602.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contract Price does not include any duties and/or taxes required to be 
+paid on imported goods to be delivered to Canada under the Contract and 
+that will be exported by Canada.
+
+Canada waives to the Contractor all its rights of drawback accruing in 
+connection with the Contract pursuant to the <em>Goods Imported and Exported 
+Refund and Drawback Regulations</em> and the Canada Border Services Agency (CBSA) 
+Memorandum D7-3-8, Goods Purchased by Canadian Government Departments.
+
+Canada will provide upon request from the Contractor a Drawback Certificate 
+which will enable the Contractor to claim duties drawback from CBSA.
+
+
+</pre>
+</div>

@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Personnel assigned to the Contract must be capable of performing the work 
+at a reasonable level of competence.  The replacement must be of similar 
+ability and attainment.  Any replacement will be at the Contractor's 
+expense.
+
+The Contractor is to supply competent back-up so that in the event of 
+unforeseen sickness, accident, or any cause which renders a specific 
+individual unavailable, he/she can be replaced within one (1) working day.
+
+Personnel assigned to this Contract must be experienced in performing the 
+data entry services required on the equipment specified under FACILITY 
+EQUIPMENT in Appendix "A".
+
+
+
+ 
+</pre>
+</div>

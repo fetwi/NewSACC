@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le calendrier de livraison 
+des rapports n'est pas précisé dans l'énoncé des travaux.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   H4016C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>En plus des rapports <span class="input-required"><var>________</var> <kbd>(<em>insérer « mensuels » ou « bi-mensuels » ou « trimestriels » selon la clause <span class="clauseRef">H4016C</span></em>)</kbd></span> sur l'avancement des
+travaux, l'entrepreneur doit livrer une ébauche du rapport
+final en format électronique, au plus tard le <span class="input-required"><var>_____</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>, et un rapport final, au plus tard le
+<span class="input-required"><var>_____</var> <kbd>(<em>insérer la
+date</em>)</kbd></span>, au <span class="input-required"><var>_______</var> <kbd>(<em>insérer « responsable technique » ou « chargé de projet »</em>)</kbd></span>.</p>
+</div></pre>
+</div>

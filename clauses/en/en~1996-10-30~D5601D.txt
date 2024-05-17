@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when Quality Assurance Authority clause (D5510D) was 
+used. At the contract stage, include clause D5620C.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Materiel is to be released for shipment using one of the release documents 
+indicated below:
+
+<strong>FOR CANADIAN CONTRACTORS</strong>
+
+Unless otherwise directed by the Department of National Defence (DND) 
+Quality Assurance Authority, signature of the DND Quality Assurance 
+Representative (QAR) on the release document is not required.
+
+Materiel is to be released for shipment using either DND form CF 1280, 
+Certificate of Inspection and Release, or a release document containing the 
+same information. Release document(s) shall be prepared by the Contractor.
+
+For return of materiel from repair and overhaul contractors to the Canadian 
+Forces Supply System (CFSS), use DND form CF 2302 in lieu of DND form CF 
+1280.
+
+<strong>FOR U.S. CONTRACTORS</strong>
+
+Materiel is to be released for shipment using a DD Form 250, Materiel 
+Inspection and Receiving Report, or a release document containing the same 
+information and acceptable to the QAR. Release document(s) shall be 
+prepared by the Contractor.
+
+<strong>FOR NON-CANADIAN CONTRACTORS (EXCEPT U.S) </strong>
+
+Materiel is to be released for shipment using a Certificate of Conformity 
+in accordance with NATO STANAG 4107 which shall be prepared by the 
+Contractor.
+
+
+</pre>
+</div>

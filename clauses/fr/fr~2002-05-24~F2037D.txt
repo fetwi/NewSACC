@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante après avoir consulté la Direction de la sécurité 
+industrielle canadienne et internationale.
+
+Il est obligatoire de remplir le formulaire TBS/SCT 350-103, Liste de 
+vérification des exigences relatives à la sécurité, qui est disponible en ligne 
+à : www.ciisd.gc.ca, ou en version papier dans le Guide des approvisionnements, 
+à l'annexe 6.13.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     La Liste de vérification de exigences relatives à la sécurité (LVERS) 
+       ci-jointe fait état des exigences en matière de sécurité pour la 
+       destruction des renseignements CLASSIFIÉS au niveau _______, à 
+       l'aide de l'équipement de déchiquetage approuvé dans les 
+       établissements de l'entrepreneur ou l'offrant.
+
+2.     Le ministère client doit s'assurer que seuls les documents 
+       CLASSIFIÉS portant la cote _______ et non une cote supérieure sont 
+       fournis à l'entrepreneur ou l'offrant pour être détruits dans le 
+       cadre du contrat ou l'offre à commandes. 
+
+3.     L'entrepreneur ou l'offrant doit détenir en permanence, pendant 
+       l'exécution du contrat ou l'offre à commandes, une cote de sécurité 
+       d'installation valable et une cote approuvée de protection des 
+       documents au niveau ________, délivrées ou approuvées par la 
+       Direction de la sécurité industrielle canadienne et internationale 
+       (DSICI) de Travaux publics et Services gouvernementaux Canada (TPSGC).
+
+4.     Les membres du personnel de l'entrepreneur ou l'offrant devant 
+       fournir des services de déchiquetage et(ou) devant avoir accès à des 
+       renseignements ou à des biens CLASSIFIÉS, ou à des établissements de 
+       travail dont l'accès est réglementé, doivent TOUS détenir une cote 
+       de VÉRIFICATION APPROFONDIE DE LA FIABILITÉ valable, délivrée ou 
+       approuvée par la DSICI de TPSGC.
+
+5.     Si l'entrepreneur ou l'offrant décide de faire appel aux services de 
+       personnes ayant une déficience intellectuelle, la cote de 
+       VÉRIFICATION APPROFONDIE DE LA FIABILITÉ NE sera pas nécessaire; 
+       toutefois, ces personnes devront être surveillées constamment par un 
+       représentant agréé de l'entreprise qui devra détenir une cote exigée 
+       de VÉRIFICATION APPROFONDIE DE LA FIABILITÉ.
+
+6.     Les contrats de sous-traitance comportant des exigences en matière 
+       de sécurité ne doivent pas être attribués sans l'autorisation 
+       préalable écrite de la DSICI de TPSGC. 
+
+7.     L'entrepreneur ou l'offrant doit respecter les dispositions :
+
+       a)     de la Liste de vérification des exigences relatives à la 
+              sécurité, reproduite ci-joint à l'Annexe _____;
+       b)     du <em>Manuel de la sécurité industrielle</em> (juin 1992).
+
+</pre>
+</div>

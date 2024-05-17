@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une ébauche du rapport final n'est pas 
+requise et que la forme et le contenu du rapport final n'ont pas été précisés 
+dans l'énoncé des travaux.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Un rapport final en ____ copies devra être envoyé par l'entrepreneur 
+       au responsable technique le ou avant le _____.  Ce rapport doit 
+       couvrir de façon détaillée toutes les facettes des travaux et 
+       comporter suffisamment de dessins, d'esquisses et de photographies, 
+       ainsi qu'un exposé des problèmes et des succès liés à la réalisation 
+       des travaux afin de faciliter l'évaluation complète et précise des 
+       travaux par le responsable technique.  Le rapport sera rédigé 
+       conformément à de bonnes pratiques professionnelles et d'ingénierie 
+       et comprendra, au minimum, les éléments suivants : une page titre, 
+       une table des matières, un résumé, une introduction, un exposé 
+       technique accompagné des conclusions et, selon le cas, des 
+       graphiques, tableaux et figures à l'appui.
+
+2.     Ce rapport final devra être préparé dans les deux langues 
+       officielles du Canada.  Un spécimen de page titre figure à l'annexe 
+       «_____» du présent contrat.  Une copie de la page titre du rapport 
+       final devra être envoyée à l'autorité contractante.
+
+
+</pre>
+</div>

@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A bidders' conference pertaining to this requirement will be held at _____ _____:
+
+TIME:
+
+DATE:
+
+LOCATION:
+
+In order to fully understand the scope of the program, it is suggested that 
+firms intending to submit a proposal should attend the bidders' conference. 
+Kindly advise the Contracting Authority specified herein if your firm 
+intends to delegate a representative to attend the conference. 
+
+
+</pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats avec livraison par étape, s'il y a 
+lieu.   Le mot « jours civils » peut être remplacé par « semaines » ou « mois », 
+selon le cas, et « par semaine » peut être remplacé par « par jour » ou « par 
+mois », selon le cas.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La première livraison doit être faite dans un délai de _____ jours civils à 
+partir de la date d'entrée en vigueur du contrat.  La quantité livrée doit 
+être de _____.  Le reste doit être livré au rythme de _____ par semaine, 
+après la première livraison jusqu'à pleine exécution du contrat.
+
+
+</pre>
+</div>

@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contract period covers more than 
+one fiscal year and the customer department requests that maximum funding for 
+each fiscal year be limited.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Despite the Total Estimated Cost (Limitation of Expenditure)
+specified in the Contract, and unless otherwise authorized in
+writing by the Contracting Authority, the maximum amount which may
+be paid for work completed in the period ending 31 March of the
+year specified is as follows:</p>
+<ul class="no-markers"><li>Period of 1st April 20<var>___</var> to 31 March 20<var>___</var>:
+$<var>________</var></li>
+<li>Period of 1st April 20<var>___</var> to 31 March 20<var>___</var>:
+$<var>________</var></li>
+<li>Period of 1st April 20<var>___</var> to 31 March 20<var>___</var>:
+$<var>________</var>.</li>
+</ul>
+</div></pre>
+</div>

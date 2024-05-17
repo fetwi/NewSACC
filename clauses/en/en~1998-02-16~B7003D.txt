@@ -1,0 +1,72 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Government Supplied Material (GSM) is the property of the Government 
+       of Canada. The Contractor is responsible for maintaining 
+       satisfactory records of the disposition of all GSM.
+
+2.     The GSM described herein must be used in the manufacture of the 
+       item(s) contracted. Only the quantity of material stated herein will 
+       be supplied by Canada without charge.
+
+3.     If additional GSM is required for Contract completion, it shall be 
+       purchased from Canada at the unit price stated herein, Goods and 
+       Services Tax or the Harmonized Sales Tax extra. Payment for excess 
+       material shall be in the form of a certified cheque payable to the 
+       Receiver General for Canada and shall be sent with the request for 
+       additional material directly to the attention of the Contracting 
+       Authority at the address specified on page 1. This material will be 
+       shipped to the Contractor, transportation charges collect.
+
+4.     Where pre-production sample(s) is a requirement of the Contract, the 
+       Contractor agrees that no GSM, with the exception of material 
+       required for the pre-production sample(s), shall be cut, used or 
+       processed until the government Technical Authority has approved the 
+       pre-production sample and provided a formal notice of acceptance. 
+       Damage incurred as a result of cutting GSM prior to acceptance of 
+       any pre-production sample(s) shall be the Contractor's 
+       responsibility.
+
+5.     The Contractor shall replace or make good, at its own expense, any 
+       goods which fail to conform to the Contract requirements, as a 
+       result of faulty or inefficient cutting, manufacture or workmanship.
+
+6.     In the event of problems with the GSM supplied, the Contractor shall 
+       advise the Contracting Authority immediately, identifying the 
+       specific problem. Should the Contractor proceed without guidance 
+       from the Contracting Authority, any costs incurred, and loss of GSM 
+       shall be at the Contractor's expense.
+
+7.     The Contractor shall be required to rebate Canada for the value of 
+       GSM applicable to any quantity not delivered against the Contract. 
+       The value shall be calculated at the unit price and usage stated 
+       herein.
+
+8.     Upon completion of the total Contract quantity, should there be GSM 
+       with a total value in excess of $250, the Contractor is required to 
+       either:
+
+       (a)    return the material to the sender with transportation charges 
+              to the account of Canada. The Contracting Authority is to be 
+              contacted to make appropriate arrangements;<strong><strong><strong> OR
+</strong></strong></strong> 
+       (b)    apply for an overrun to the Contract quantity. Prior approval 
+              by the Contracting Authority for an overrun is required under 
+              a formal Contract amendment.
+
+9.     Canada will not be obligated to pay for work performed on any GSM 
+       that is damaged or lost while in the Contractor's care.
+
+10.    GSM and/or rejected units containing GSM shall not be disposed of 
+       without written approval of the Contracting Authority. 
+       Transportation charges for the return of GSM where the Contract has 
+       not been satisfactorily completed shall be at the Contractor's 
+       expense.
+
+11.    While a final GSM accounting is not automatically required for every 
+       Contract, Canada reserves the right to request a final accounting at 
+       any time within one year of the Contract completion date.
+
+</pre>
+</div>

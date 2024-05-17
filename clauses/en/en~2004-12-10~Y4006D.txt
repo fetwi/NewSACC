@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following in conjunction with one of the following clauses:
+ 
+  Y4000D
+ 
+ ,
+ 
+  Y4001D
+ 
+ ,
+ 
+  Y4002D
+ 
+ ,
+ 
+  Y4003D
+ 
+ ,
+ 
+  Y4004D
+ 
+ or
+ 
+  Y4005D
+ 
+ .
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Send all invoices for Canadian International Development Agency,
+at the following address:</p>
+<p>Canadian International Development Agency<br/>
+200 Promenade du Portage<br/>
+Gatineau, Quebec<br/>
+K1A 0G4<br/>
+Attention: <var>______________</var></p>
+</div></pre>
+</div>

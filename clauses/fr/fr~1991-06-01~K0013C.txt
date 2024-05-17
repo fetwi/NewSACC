@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats scientifiques qui comprennent 
+les Conditions générales - Recherche et développement, DSS-MAS 9224.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Après avoir achevé le Travail en vertu du présent Contrat, l'Entrepreneur 
+devra présenter au Délégué scientifique et à l'Agent de négociation des 
+contrats scientifiques un certificat énonçant que toutes les divulgations 
+applicables ont été soumises ou qu'il n'y avait aucune divulgation à 
+soumettre en vertu de l'article 14 des Conditions générales - Recherche et 
+développement, DSS-MAS 9224.
+
+Une copie du certificat de divulgation est jointe à titre d'annexe ___.
+</pre>
+</div>

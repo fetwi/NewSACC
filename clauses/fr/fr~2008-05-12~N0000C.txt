@@ -1,0 +1,75 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante uniquement dans des contrats de gestion de 
+l'information ou de technologie de l'information (GI/TI), puisque le Conseil du 
+Trésor a accordé une autorisation spéciale de répartition du risque conformément 
+à cette clause uniquement dans le cas des contrats de GI/TI.  Les agents doivent 
+remplir l'espace ci-dessous en indiquant le montant selon le groupe de biens et 
+de services («le prix contractuel au moment où le dommage survient» ou un 
+montant précis, déterminé selon le groupe de biens et de services) ou en 
+consultation avec les Services consultatifs de gestion des risques.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Cet article s'applique malgré toute autre disposition du contrat et 
+       remplace l'article des conditions générales intitulée « 
+       Responsabilité ». Toute mention dans cet article de dommages causés 
+       par l'entrepreneur comprennent les dommages causés par ses employés, 
+       ainsi que ses sous-traitants, ses mandataires, et ses représentants, 
+       et leurs employés.
+
+2.     <strong>Responsabilité de première partie de l'entrepreneur envers le Canada :</strong>
+
+       a)     Que la réclamation soit fondée contractuellement, sur un 
+              délit civil ou un autre motif de poursuite, l'entrepreneur 
+              est entièrement responsable de tous les dommages, y compris 
+              les dommages indirects, particuliers et consécutifs, causés 
+              par l'exécution ou la non-exécution du contrat par 
+              l'entrepreneur et qui se rapportent à :
+
+              (i)    toute violation aux droits de propriété intellectuelle;
+               
+              (ii)   tout manquement à l'obligation de confidentialité;
+
+              (iii)  tout manquement aux obligations de garantie; et
+
+              (iv)   toute blessure, y compris la mort.
+
+       b)     L'entrepreneur est responsable de tous les dommages directs 
+              qui touchent des biens personnels ou des biens immobiliers 
+              qui sont la propriété du Canada, en sa possession, ou qui 
+              sont occupés par le Canada.
+
+       c)     L'entrepreneur est responsable de tous les dommages directs 
+              qui se rapportent à une charge ou à une réclamation liée à 
+              une partie des travaux pour lesquels le Canada a effectué un 
+              paiement.
+
+       d)     L'entrepreneur est responsable de tout autre dommage direct 
+             causé au Canada qui a un lien quelconque avec le contrat, 
+             jusqu'à concurrence ________, y compris l'ensemble des frais 
+             encourus par le Canada pour trouver une autre partie qui 
+             exécutera les travaux si le contrat est résilié pour défaut. 
+             Ces frais comprennent toute augmentation du prix qui doit être 
+             payé pour les travaux. 
+
+       e)     Si les dossiers ou les données du Canada sont endommagés à la 
+             suite de l'exécution des travaux ou du défaut d'exécuter les 
+             travaux, la seule responsabilité de l'entrepreneur consiste à 
+             rétablir, à ses frais, les dossiers et les données du Canada 
+             en utilisant la copie de sauvegarde la plus récente conservée 
+             par le Canada.
+
+3.     <strong>Réclamations de tiers :</strong> Chaque partie convient qu'elle est 
+       pleinement responsable des dommages qui sont causés à tout tiers par 
+       et qui sont liés aux travaux, que la réclamation soit faite au 
+       Canada ou à l'entrepreneur.  Si le Canada doit, en raison d'une 
+       responsabilité conjointe et individuelle, payer un tiers pour des 
+       dommages causés par l'entrepreneur, l'entrepreneur doit rembourser 
+       ce montant au Canada.  L'entrepreneur n'est cependant pas tenu de 
+       rembourser le Canada pour tout dommage indirect, particulier ou 
+       consécutif que le Canada doit payer à un tiers, sur ordre d'un 
+       tribunal, en raison d'une responsabilité conjointe et individuelle.
+
+
+
+</pre>
+</div>

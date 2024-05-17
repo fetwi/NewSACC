@@ -1,0 +1,90 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le besoin n’est pas assujetti à la Norme sur la divulgation des
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  , mais qu’il est obligatoire d’inclure des considérations environnementales, et dans les contrats concurrentiels et non concurrentiels lorsque la Norme sur la divulgation des
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  s’applique, mais que l’état de préparation du marché est faible ou ne peut être déterminé.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent sélectionner l’une des options proposées.
+ </p>
+<p>
+  Option 1 : Utiliser cette option dans les clauses du contrat subséquent pour les besoins concurrentiels lorsque les critères d’évaluation cotés liés à la divulgation des émissions de gaz à effet de serre (GES) et à l’établissement de cibles de réduction ou à la participation au Défi carboneutre ou à une initiative équivalente sont inclus dans la demande de soumissions, mais le fournisseur n’a pas répondu au critère. Autrement, cette option peut aussi être incluse dans les besoins concurrentiels où aucune clause de demande de soumissions n’a été incluse, et dans les besoins non concurrentiels assujettis à la Norme sur la divulgation des
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  , lorsque l’état de préparation du marché est faible ou ne peut être déterminé.
+ </p>
+<p>
+  Option 2 : Utiliser cette option pour les besoins non concurrentiels assujettis à la Norme sur la divulgation des
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  et dans les contrats non assujettis à la Norme sur la divulgation des
+  <abbr title="gaz à effet de serre">
+   GES
+  </abbr>
+  lorsqu’il est obligatoire d’inclure des considérations environnementales.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A9076T
+  
+  ,
+  
+   A3016T
+  
+  ,
+  
+   A3017T
+  
+  ,
+  
+   A3018T
+  
+  et
+  
+   A3019T
+  
+  , le cas échéant. Utiliser cette clause en conjonction avec
+  
+   A3015T
+  
+  et
+  
+   A3015C
+  
+  uniquement si le modèle pour les besoins de complexité élevée ou moyenne n’est pas utilisé.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p><kbd>Option 1</kbd></p> <p><kbd>Instruction aux agents de négociation des contrats : Sélectionnez « année civile », ou « exercice financier », selon le cas, avant l’émission de la demande de soumissions.</kbd></p> <p>Publication de l’inventaire d’émissions de <abbr tite="gaz à effet de serre">GES</abbr></p> <p>L’entrepreneur doit rendre public son inventaire d’émissions de <abbr tite="gaz à effet de serre">GES</abbr> vérifié pour (<kbd>l’année civile/l’exercice financier</kbd>) précédent<kbd>(e)</kbd> dans les <kbd><var>(__)</var></kbd> jours civils suivant l’attribution du contrat. Il peut par exemple publier l’inventaire sur le site Web de son entreprise avant la fin de (choisir <kbd>l’année civile/l’exercice financier</kbd> ou une autre période, selon le cas) ou l’inclure dans son rapport annuel pour (choisir <kbd>l’année civile/l’exercice financier</kbd> visé par le rapport).</p> <p><kbd>Option 2</kbd></p> <p><kbd>Instruction aux agents de négociation des contrats : Insérer le nombre de jours civils avant l’émission de la demande de soumissions. S’il y a lieu, insérer le nom de l’initiative équivalente à laquelle l’entrepreneur participera s’il ne participe pas au Défi carboneutre.</kbd></p> <p>Divulgation des émissions de gaz à effet de serre et établissement des cibles de réduction</p> <p>Dans les <kbd><var>(__)</var></kbd> jours civils suivant l’attribution du contrat, l’entrepreneur doit démontrer qu’il a établi ou travaille à établir des cibles scientifiques de réduction des émissions de gaz à effet de serre (GES) au moyen de l’une des options suivantes :</p> <ol>
+<li>Participation au Défi carboneutre du Canada ou <kbd><var>(___________)</var></kbd> <kbd>(<em>le cas échéant, insérer le nom de l’initiative équivalente lorsqu’elle est connue</em>)</kbd>, qu’il démontre en fournissant une lettre de participation; ou</li>
+<li>
+<p>Une stratégie propre à l’entreprise qui doit inclure tous les éléments suivants :</p>
+<ol type="a">
+<li><strong>Obtenir la vérification de l’inventaire des émissions de <abbr tite="gaz à effet de serre">GES</abbr></strong> et de la réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr> pour l’année civile précédente par un tiers accrédité et indépendant dans les <kbd><var>(__)</var></kbd> jours civils suivant la fin de l’année civile visée par la vérification.
+                <ol type="i">
+<li>« Accrédité » signifie reconnu par l’un des organismes d’accréditation des <abbr tite="gaz à effet de serre">GES</abbr> suivants : American National Standards Institute (ANSI) (lien en anglais seulement), California Air Resources Board (CARB) (lien en anglais et en espagnol seulement), Conseil canadien des normes (SCC), Conseil des normes internationales d’audit et d’assurance (lien en anglais seulement) ou autres organismes d’accréditation reconnus par l’International Accreditation Forum (IAF) (lien en anglais seulement).</li>
+</ol>
+</li>
+<li><strong>Fixer des cibles de réduction</strong> pour les émissions de portée 1 et 2 conformément à l’Accord de Paris.
+                <ol type="i">
+<li>Les émissions de portée 1 sont les émissions directes provenant de sources détenues ou contrôlées (c’est-à-dire les installations de l’entreprise et les véhicules de l’entreprise).</li>
+<li>Les émissions de portée 2 sont les émissions indirectes provenant de la production d’énergie achetée (c’est-à-dire l’électricité achetée, la vapeur, le chauffage et le refroidissement pour son propre usage).</li>
+</ol>
+</li>
+<li><strong>Consigner ses cibles de réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr></strong> pour les émissions de portée 1 et de portée 2 dans un document de stratégie d’entreprise.</li>
+<li><strong>Rendre publiques les cibles de réduction des émissions.</strong> L’entrepreneur peut par exemple les publier sur le site Web de son entreprise avant la fin de <kbd>(<em>choisir l’année civile/l’exercice financier ou une autre période, selon le cas</em>)</kbd> ou les inclure dans son rapport annuel pour <kbd>(<em>choisir l’année civile/l’exercice financier visé par le rapport</em>)</kbd>.</li>
+<li><strong>Rendre public l’inventaire vérifié des émissions de <abbr tite="gaz à effet de serre">GES</abbr> de l’année civile précédente.</strong> L’entrepreneur peut par exemple publier l’inventaire sur le site Web de son entreprise avant la fin de <kbd>(<em>choisir l’année civile/l’exercice financier ou une autre période, selon le cas</em>)</kbd> ou l’inclure dans son rapport annuel pour <kbd>(<em>choisir l’année civile/l’exercice financier visé par le rapport</em>)</kbd>.</li>
+</ol>
+<p>L’entrepreneur doit indiquer à l’autorité contractante, dans les <kbd><var>(__)</var></kbd> jours civils suivant l’attribution du contrat, laquelle des deux (2) stratégies de réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr> il adoptera pour la durée du contrat, y compris toute période d’option ou prolongation prévue ou non prévue. L’entrepreneur doit fournir des mises à jour <kbd>(<em>insérer « annuelles », « semestrielles » ou une autre période, selon le cas</em>)</kbd> à l’autorité contractante sur ses progrès dans la réalisation de ses cibles de réduction des émissions de <abbr tite="gaz à effet de serre">GES</abbr>. <kbd>L’entrepreneur/l’offrant/le fournisseur</kbd> doit aviser l’autorité contractante s’il cesse de participer à une initiative.</p>
+</li>
+</ol></pre>
+</div>

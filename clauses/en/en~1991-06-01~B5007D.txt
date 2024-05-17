@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the event of Design Changes, whether introduced by the Owner or the 
+Contractor, the detailed procedure given below must be followed:   
+
+Design Changes Originating from the Customer Department:   
+
+       a. The customer department will inform the Department of Supply and 
+       Services of the Design Change requirement giving sufficient details.  
+
+       b. The Department of Supply and Services will forward this 
+       information to the Contractor requesting him to submit estimates for 
+       the work on a Firm Price basis wherever possible (increased or 
+       decreased).   
+
+       c. The Contractor will submit his estimate supported by full details 
+       to the Department of Supply and Services on form DSS-MAS 1686, "
+       Quotation for Design Change or Additional Work".   
+
+       d. The Department of Supply and Services will evaluate and negotiate 
+       with the Contractor as necessary and, upon agreement being reached, 
+       authorize the work and amend the Contract accordingly.   
+
+Design Changes Originating from the Contractor:   
+
+       a. The Contractor will submit his proposal to the Department of 
+       Supply and Services supported by full details including 
+       specifications and drawings if necessary, and reasons for the 
+       submission, together with his estimated cost (increased or decreased) 
+       for the work, and request approval for same.   
+
+       b. If approved, the Department of Supply and Services will negotiate 
+       with the Contractor, finalize prices, authorize the Work and amend 
+       the Contract. If not approved, the Department of Supply and Services 
+       will advise the Contractor. If approved with the modifications, the 
+       procedures outlined under "Design Changes Originating from the 
+       Customer Department" will be followed. 
+
+Local Approvals:   
+
+       a. For Design Changes of a minor nature and low-dollar value, and 
+       particularly those requiring urgent decisions, WHEREVER POSSIBLE, 
+       these will be dealt with by the Contracting Authority on site.   
+
+       b. The Contracting Authority will negotiate "Firm Price" with the 
+       Contractor for the work and will then discuss same with the 
+       Technical Authority and, upon agreement, will approve and advise the 
+       Contractor to proceed.   
+ 
+       c. The Contract will be amended.   
+
+       d. Forms will be provided for the proper reporting of the above and 
+   individual and cumulative maximum dollar values will be set for such 
+   work beyond which the on-site Contracting Authority cannot authorize but 
+   must submit to the Department of Supply &amp; Services for authorization. 
+</pre>
+</div>

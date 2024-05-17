@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations for defence supplies, as defined 
+in the Defence Production Act, valued at over $500,000, issued to U.S. or 
+Canadian suppliers.  See SPM Directive 4007.
+
+ 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Bidder shall clearly indicate in the proposal either of the following:
+
+       (a)  the type and amount of recoupment charges payable to the U.S. 
+       Department of Defense by the Bidder or its U.S. subcontractors with 
+       subcontracts over C$500,000; or
+
+       (b)  that recoupment charges do not apply.
+
+As Canada may be eligible to receive a waiver of such charges, and as U.S. 
+   legislation precludes application for a waiver following contract award, 
+   failure to identify such charges in the proposal may result in a 
+   significant loss of savings to Canada.  Canada will therefore not be 
+   held responsible for paying such charges if the information has not been 
+   provided. 
+</pre>
+</div>

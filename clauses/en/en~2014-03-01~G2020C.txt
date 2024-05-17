@@ -1,0 +1,75 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the contractor must use its own 
+vehicle to perform the work even though automobile liability insurance, at 
+varying limits, is statutory in all Canadian jurisdictions.
+ </p>
+<p>
+  When contracting with rental companies for the use of short-term leases by 
+Federal Government employees, refer to clause G6005C.
+ </p>
+<p>
+  Contracting officers must choose options (e), (f), (g), (h), (i), (j), (k), (l), 
+and/or (m) under paragraph 2 when applicable to their specific contract.
+ </p>
+<p>
+  Contracting officers must consult
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  if the suggested limit of $2,000,000 per accident or occurrence is not considered adequate.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Automobile Liability
+Insurance, and maintain it in force throughout the duration of the
+Contract, in an amount usual for a contract of this nature, but for
+not less than $2,000,000 per accident or occurrence.</li>
+<li value="2">The policy must include the following:
+<ol type="a">
+<li value="1">Third Party Liability - $2,000,000 Minimum Limit per
+Accident or Occurrence</li>
+<li value="2">Accident Benefits - all jurisdictional statutes</li>
+<li value="3">Uninsured Motorist Protection</li>
+<li value="4">Notice of Cancellation: The Insurer will endeavour to
+provide the Contracting Authority thirty (30) days written notice
+of cancellation.</li>
+</ol>
+<span class="description">(<strong><em>Contracting officers must insert the applicable
+options below and renumber accordingly</em></strong>.)</span>
+<ol type="a">
+<li value="5"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr> #3 - Drive Government Automobiles
+Endorsement</li>
+<li value="6"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr> #4B - Permission to Carry Radioactive
+Material Endorsement</li>
+<li value="7"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr> #4a - Permission to Carry
+Explosives</li>
+<li value="8"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr> #6a - Permission to Carry Passengers for
+Compensation or Hire</li>
+<li value="9"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr> #6b - School Bus Endorsement</li>
+<li value="10"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr> #6c - Public Passenger Vehicles
+Endorsement</li>
+<li value="11"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="Quebec Endorsement Form">QEF</abbr> #6f - Public Passenger Vehicles -
+Combined Limits for Passengers and road liability Passenger
+Hazard/Bodily Injury Minimum Limits required:
+<ul class="no-markers">
+<li>8 to 12 Passengers: $5,000,000</li>
+<li>13 or more Passengers: $8,000,000</li>
+</ul>
+</li>
+<li value="12">Liability for Physical Damage to Non-owned
+Automobiles: Ontario <abbr title="Ontario Policy Change Form">OPCF</abbr> 27 or 27B / Quebec: <abbr title="Quebec Endorsement Form">QEF</abbr> #27 / Other
+Provinces: <abbr title="Standard Endorsement Form">SEF</abbr>#27</li>
+<li value="13"><abbr title="Ontario Policy Change Form">OPCF</abbr>/<abbr title="Standard Endorsement Form">SEF</abbr>/<abbr title="New Brunswick Endorsement Form">NBEF</abbr> #44 or #44R - Family Protection
+Endorsement - Private Passenger Vehicles.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

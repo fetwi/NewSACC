@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions pour le ministère 
+de la Défense nationale lorsqu'une liste de pièces de rechange recommandées est 
+requise.
+
+Utiliser cette clause en conjonction avec
+ 
+  B4052C
+ 
+ ,
+ 
+  B4060C
+ 
+ et
+ 
+  B4061C
+ 
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les soumissionnaires doivent indiquer le coût de la liste
+de pièces de rechange recommandées (LPRR) ainsi que de la
+documentation connexe dans leur soumission. La liste doit faire
+état du nombre estimatif d'articles.</p>
+</div></pre>
+</div>

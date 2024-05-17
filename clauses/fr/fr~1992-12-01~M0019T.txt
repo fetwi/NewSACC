@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En plus des taux fermes proposés pour la période initiale de l'offre à 
+commandes, vous devez fournir des taux fermes qui s'appliqueront aux années 
+subséquentes, advenant que l'utilisation de l'offre à commandes soit 
+autorisée au-delà de la période initiale. Vous pouvez présenter ces taux 
+comme des taux fermes ou un pourcentage ferme d'augmentation par année qui 
+s'appliqueront systématiquement.    Les taux pour chaque période seront 
+utilisés en rapport avec l'utilisation estimée pour calculer la valeur 
+totale de votre offre relative à la période potentielle de ___ ans de 
+l'offre à commandes. Ce total sera utilisé pour déterminer l'offre valable 
+la plus basse aux fins de sélection. 
+
+</pre>
+</div>

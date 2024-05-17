@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer must edit the clause as required by the situation.  Use 
+the following clause in 1 Stage - 1 Phase proposals.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>SI1    (2003-05-30)  Introduction</strong>
+
+1.     Public Works and Government Services Canada (PWGSC) intends to 
+       retain an individual consulting firm or joint venture to provide the 
+       professional services for the project as set out in this Request for 
+       Proposal (RFP).
+
+2.     This is a single phase selection process.  The nature of the 
+       requirement and the anticipated limited number of response by the 
+       industry leads PWGSC to believe that this approach will not unduly 
+       force a large number of firms to expend an overall unreasonable 
+       amount of effort in response to PWGSC.
+
+3.     Proponents responding to this RFP are requested to submit a full and 
+       complete proposal.  The proposal will cover not only the 
+       qualifications, experience and organization of the proposed 
+       Consultant Team, but also the detailed approach to the work, and the 
+       pricing and terms offered.  A combination of the technical and price 
+       of services submissions will constitute the proposal.
+
+<strong>SI2    (2003-05-30)  Questions or Requests for Clarification</strong>
+
+Questions or requests for clarification during the Phase One solicitation 
+period must be submitted in writing to the Contracting Authority as early 
+as possible.  Enquiries should be received no later than ten (10) working 
+days prior to the closing date identified on the front page of the RFP.  
+Enquiries received after that date may not be answered prior to the closing 
+date of the solicitation.
+
+<strong>SI3    (2003-05-30)  Canada's Trade Agreements</strong>
+
+This procurement is covered under the provisions of the ________ [North 
+   American Free Trade Agreement (NAFTA)] [World Trade Organization - 
+   Agreement on Government Procurement (WTO-AGP)] [Agreement on Internal 
+   Trade (AIT)].
+</pre>
+</div>

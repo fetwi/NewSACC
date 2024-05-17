@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats de radoub des navires civils du 
+gouvernement.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'acceptation des navires doit être conforme au formulaire
+PWGSC-TPSGC 1205, Acceptation.</p>
+<p>Le responsable de l'inspection, en collaboration avec
+l'entrepreneur, établira une liste des travaux non
+complétés à la fin de la période des travaux.
+Cette liste formera les annexes au document officiel d'acceptation
+pour le navire. Une réunion suivant la fin du contrat sera
+organisée par le responsable de l'inspection à la date
+d'achèvement des travaux, pour examiner et signer le document
+d'acceptation. En plus du montant retenu en vertu de la clause de
+retenue de la garantie, une retenue correspondant au double de la
+valeur estimative des travaux non complétés s'appliquera
+jusqu'à l'achèvement des travaux. La taxe sur les
+produits et services ou la taxe de vente harmonisée, selon le
+cas, sera calculée pour le montant retenu pour les travaux non
+complétés et sera payée au moment du paiement de la
+retenue.</p>
+<p>L'entrepreneur doit remplir le formulaire ci-dessus en trois (3)
+exemplaires qui seront distribués par l'autorité
+contractante de la façon suivante :</p>
+<ol type="a">
+<li value="1">l'original à l'autorité contractante;</li>
+<li value="2">une copie au responsable technique;</li>
+<li value="3">une copie à l'entrepreneur.</li>
+</ol>
+</div></pre>
+</div>

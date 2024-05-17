@@ -1,0 +1,135 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for rental of vehicles.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Unless otherwise stated in the Contract, the following
+applies:</p>
+<ol type="1">
+<li value="1">For the purposes of this clause,
+<ol type="a">
+<li value="1">The term "<dfn>Lease</dfn>" refers to the Contract resulting
+from a call-up, by which the Contractor (as Lessor) grants Canada
+(as Lessee), for the term specified in the call-up, the right to
+possess, use and enjoy the vehicle specified in the call-up. The
+lease will be an operating and closed end type of lease, and will
+not convey ownership of the vehicle to Canada nor create any
+obligation on Canada to purchase the vehicle at lease expiry.</li>
+<li value="2">The term "<dfn>Normal Wear and Tear</dfn>" refers to the natural
+amount of deterioration, which can be expected over the term of the
+lease and include:
+<ol type="i">
+<li value="1">tire wear, paint chips and minor scratches that do
+not extend to the base metal;</li>
+<li value="2">all paint scratches and paint wear and minor dents to
+interior, top rails and tailgates of pick-up trucks;</li>
+<li value="3">paint chips caused by stones thrown by the wheels of the
+vehicles;</li>
+<li value="4">frayed or stretched emergency brake cables;</li>
+<li value="5">interior wear of vehicles not including holes, burns
+or tears of interior surfaces;</li>
+<li value="6">interior wear of trucks including all paint scratches;
+and</li>
+<li value="7">tire wear and damage, provided that the tires meet
+provincial safety standards.</li>
+</ol>
+</li>
+</ol>
+Removal of decals or signage and any resultant paint repairs are
+not considered normal wear and tear and will be chargeable as a
+repair.
+</li>
+<li value="2">The Contractor is responsible for:
+<ol type="a">
+<li value="1">Delivery of the vehicle to the designated dealer
+closest to the area identified in the call-up;</li>
+<li value="2">Pre-servicing the vehicle in the normal way for
+customer delivery;</li>
+<li value="3">Supplying approximately one quarter (1/4) tank of
+fuel with the vehicles delivered;</li>
+<li value="4">Ensuring each vehicle delivered has the following
+equipment and accessories:
+<ol type="i">
+<li value="1">two ignition keys</li>
+<li value="2">vehicle jack</li>
+<li value="3">wheel wrench</li>
+<li value="4">all minimum features as detailed in the applicable
+<cite>Government Motor Vehicle Ordering Guide</cite> and specifications;</li>
+</ol>
+</li>
+<li value="5">Replacement of tires covered by the tire
+manufacturer's normal warranty. (Replacement tires will be to
+original equipment specifications with the same life, standard and
+quality.);</li>
+<li value="6">All Warranty Servicing: <dfn>"Warranty servicing"</dfn> means the
+supply of parts normally provided by the manufacturer's warranty
+together with the labour necessary to install such parts. The
+warranty service must be made available at any dealer for the make
+of vehicle leased, within Canada; and</li>
+<li value="7">Inspecting the vehicle upon its return to the
+designated dealer for any damages.</li>
+</ol>
+</li>
+<li value="3">Canada is responsible for:
+<ol type="a">
+<li value="1">Picking up the vehicle at the designated dealer;</li>
+<li value="2">Supply of fuel during the lease period;</li>
+<li value="3">Oil, fluids and lubricants between and including
+routine oil changes;</li>
+<li value="4">Washing the vehicle;</li>
+<li value="5">Maintenance in accordance with Contractor's published
+maintenance schedule for the vehicle;</li>
+<li value="6">Ordinary tire repairs due to road hazards and
+replacement due to normal wear and tear, as required. (Replacement
+tires will be to original equipment specifications with the same
+life, standard and quality.);</li>
+<li value="7">Providing written notification to the Contractor,
+five (5) business days before the end of the lease, that the
+vehicle will be returned to the closest Contractor's dealer;</li>
+<li value="8">Returning the vehicle with one quarter (1/4) tank of
+fuel;</li>
+<li value="9">Ensuring that all original manufacturers' components
+of the returned vehicle are in working condition; and</li>
+<li value="10">Fines for traffic violations, including unlawful
+parking issued to representatives of Canada during the lease
+period.</li>
+</ol>
+</li>
+<li value="4"><strong>Loss, damage, repairs</strong>
+<ol type="a">
+<li value="1">Canada is responsible for loss and damage to the
+vehicle (including damage to optional equipment not requested but
+accepted by Canada) during the lease period and caused or
+contributed to by negligence or carelessness of representatives of
+Canada and recorded to the extent that the loss or damage is not
+the result of normal wear and tear. Loss or damage due to theft but
+not due to negligence of Canada will be self-underwritten by
+Canada.</li>
+<li value="2">If a vehicle is returned to the Contractor at the end
+of the lease in damaged condition, the Contractor must provide to
+Canada within five (5) business days after the return of the
+vehicle, a written estimate for the cost of repairs or replacement
+of the loss to the authorized representative of Canada identified
+in the call-up document. Repair work must be in accordance with
+industry standard.</li>
+<li value="3">Canada reserves the rights to obtain, through a third
+party, its own estimates for the identified repairs to validate the
+Contractor's estimate.</li>
+<li value="4">Once the cost of repairs is agreed to by both
+parties, the Contractor will invoice Canada for the agreed amount.
+The Contracting Authority will resolve disagreements.</li>
+<li value="5">If Canada decides to repair damage to a vehicle
+during the lease period, Canada will notify the Contractor before
+proceeding with the repairs. Both parties must agree to the
+repairs.</li>
+</ol>
+</li>
+<li value="5"><strong>General</strong>
+<p>Where Canada requests the Contractor to plate the vehicle, an
+administration charge up to a maximum of $25 may apply.</p>
+</li>
+</ol>
+</div></pre>
+</div>

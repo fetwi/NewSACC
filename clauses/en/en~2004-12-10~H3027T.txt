@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when it is anticipated that client departments will pay 
+invoices associated with the contract or call-ups against the standing offer by 
+Government of Canada Acquisition Card (credit card).
+
+Use clause H3027C in the contract or standing offer where the bidder indicates 
+that payment of invoices by credit card is acceptable.  (Refer to the Supply 
+Manual, procedure 7A.042).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Government of Canada Acquisition Cards (credit cards) may be offered 
+       for payment of invoices.  Payment of invoices made by credit card 
+       will not be subject to the Payment and Interest on Overdue Accounts 
+       provisions, as set out in general conditions _____ of the Contract 
+       or Standing Offer.  If discounts for early payment are not available 
+       when a credit card is used to pay the invoice, it must be clearly 
+       indicated below.
+
+2.     Acceptance of credit cards for payment of invoices is optional, and 
+       at the discretion of the Bidder.  Acceptance or non-acceptance of 
+       credit cards for the payment of invoices will not be considered in 
+       the evaluation of offers submitted in response to the bid 
+       solicitation.
+
+3.     The Bidder must indicate:
+
+       (a)    (   )  Government of Canada Acquisition Cards (credit cards) 
+                            will be accepted for payment of invoices up 
+                            until the ____ day of the payment period as set 
+                            out in the Contract or Standing Offer.  
+                            Payments of invoices made by credit card on or 
+                            before this date will not be subject to the 
+                            Payment and Interest on Overdue Accounts 
+                            provisions, as set out in general conditions _____ 
+                            of the Contract or Standing Offer.  Payment of 
+                            invoices after this date will only be accepted 
+                            by Government of Canada cheque, direct deposit, 
+                            or electronic funds transfer, and will continue 
+                            to be subject to the above-mentioned general 
+                            conditions provisions.
+
+              The use of a credit card as the payment instrument will _____ 
+              / will not _____ preclude early payment incentives.
+
+              The following credit card(s) are accepted:
+              VISA ____
+              MasterCard ____
+
+      <strong><strong><strong> OR
+</strong></strong></strong>
+       (b)    (   )  Government of Canada Acquisition Cards (credit cards) 
+                            will not be accepted for payment of invoices.
+
+
+</pre>
+</div>

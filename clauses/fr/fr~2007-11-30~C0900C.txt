@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats de location et d'entretien.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur sera remboursé les taux mensuels fermes pour la location et 
+les taux fermes par le nombre spécifié de copies pour l'entretien (incluant 
+toutes les pièces, la main-d'oeuvre, l'entretien préventif et l'entretien 
+correctif), payables chaque mois en souffrance.  Les droits de douane sont _________ 
+(<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">exclus</span><em> » ou « </em><span class="wsInlineRemark">exonérés</span> ») et la taxe sur les 
+produits et service ou la taxe de vente harmonisée est en sus, s'il y a 
+lieu.
+
+
+
+</pre>
+</div>

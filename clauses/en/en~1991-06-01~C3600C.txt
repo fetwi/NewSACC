@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for purchase of metal where prices are not firm due to 
+fluctuations of base prices. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The prices specified are computed on today's base prices plus extras and 
+   are subject to revision to accord with the base prices in effect at the 
+   time or respective times provided in this Contract for delivery; 
+   provided that the Contractor is not to invoice at other than the prices 
+   specified unless and until any proposed price revision is approved by 
+   the Minister and until this Contract is amended accordingly. 
+</pre>
+</div>

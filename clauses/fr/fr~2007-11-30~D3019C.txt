@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats avec des entrepreneurs établis aux 
+États-Unis pour définir les exigences en matière d'emballage militaire du 
+ministère de la Défense nationale relativement aux articles militarisés visés 
+par les catégories suivantes :
+ </p>
+<ol type="a">
+<li>
+   articles qui ne sont assujettis à aucune spécification des Forces canadiennes 
+relative à l'emballage des classes d'articles (voir
+   
+    D3016C
+   
+   ) ou à l'emballage 
+commercial (
+   
+    D3018C
+   
+   );
+  </li>
+<li>
+   matériel réparable pour le stock national;
+  </li>
+<li>
+   réparation et révision de matériel réparable.
+  </li>
+</ol>
+<p>
+  Utiliser cette clause en conjonction avec la clause
+  
+   D3013C
+  
+  dans la partie des « 
+clauses du contrat subséquent » de la demande de soumissions.  Au moment de 
+l'attribution du contrat, utiliser soit cette clause ou
+  
+   D3013C
+  
+  selon que 
+l'entrepreneur est établi aux États-Unis ou au Canada.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">La préservation et l'emballage des articles
+<var>________</var> doivent être conformes à la
+dernière version de la <cite>spécification militaire
+MIL-STD-2073 du Département de la Défense des
+États-Unis</cite>, et le marquage doit être conforme à la
+norme <cite>MIL-STD-129</cite>.</li>
+<li value="2">Les formulaires de données d'emballage
+antérieurement approuvées par les autorités
+américaines sont acceptables.</li>
+<li value="3">Les données d'emballage codées sont
+indiquées immédiatement sous la description de l'article
+auquel elles s'appliquent. Si aucune donnée n'est
+indiquée, l'entrepreneur doit soumettre un formulaire de
+données d'emballage pour approbation.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur proposé 
+sera payé pour les travaux exécutés avant la date d'entrée en vigueur du contrat.
+
+Utiliser cette clause en conjonction avec A9120C ou A9094C ou A9088C, selon le 
+cas.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En considération des travaux exécutés pour la période commençant le _____ (<span class="wsInlineRemark"><strong>
+insérer la date du début des travaux</strong></span>) et se terminant le _____ (<span class="wsInlineRemark"><strong>insérer la 
+date du dernier jour avant l'entrée en vigueur du contrat</strong></span>), l'entrepreneur 
+sera payé un prix ferme de _____ $.  Les droits de douane ______ (<span class="wsInlineRemark"><strong>insérer</strong></span><em> </em>«
+ sont inclus », « sont exclus »<strong><em> </em></strong><span class="wsInlineRemark"><strong>ou</strong></span><strong><em> </em></strong>« font l'objet d'une exemption ») et la 
+taxe sur les produits et services ou la taxe de vente harmonisée est en sus, 
+s'il y a lieu.
+
+
+</pre>
+</div>

@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Voir l'annexe "A" ci-jointe, qui fait partie intégrante de la présente 
+   demande de proposition.    Il est entendu et convenu que les paiements 
+   sont assujettis à la livraison, l'inspection et l'acceptation des 
+   travaux et que tout paiement provisoire est conditionnel à 
+   l'acceptabilité de la photographie et des épreuves au Responsable de 
+   l'inspection.  
+</pre>
+</div>

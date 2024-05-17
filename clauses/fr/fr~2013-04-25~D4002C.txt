@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la livraison est à 
+destination et que l'entrepreneur est responsable de tous les frais de livraison 
+et d'administration, de tous les coûts et risques liés au transport, ainsi que 
+du dédouanement et des droits de douane et des taxes applicables.
+ </p>
+<p>
+  Utiliser l'option 1 lorsque la livraison est
+  <abbr title="franco à bord">
+   FAB
+  </abbr>
+  destination.  Utiliser l'option 
+2 lorsque la livraison est « rendue droits acquittés » selon les Incoterms 2000.
+ </p>
+<p>
+  Ne pas utiliser cette clause dans les contrats pour le ministère de la Défense 
+nationale (MDN) lorsque le
+  <abbr title="Ministère de la Défense nationale ">
+   MDN
+  </abbr>
+  est responsable pour l'expédition.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les biens doivent être expédiés et livrés au
+point de destination précisé dans le contrat :</p>
+<h2>Option 1</h2>
+<p><abbr title="franco à bord">FAB</abbr> destination <span class="input-required"><var>_______</var>
+<kbd>(<em>insérer le point de destination</em>)</kbd></span> incluant
+tous les frais de livraison, les droits de douanes et les
+taxes applicables.</p>
+<h2>Option 2</h2>
+<p>Selon les Incoterms 2000 rendu droits acquittés (DDP)
+<span class="input-required"><var>________</var> <kbd>(<em>insérer
+le point de destination</em>)</kbd></span>.</p>
+</div></pre>
+</div>

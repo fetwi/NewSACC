@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats de recherche et de développement 
+ou de services professionnels ou qui portent sur les étapes de conception d'un 
+projet d'achat d'un grand système en plusieurs étapes, lorsque le ministère 
+client exige d'avoir accès à la propriété intellectuelle de base de 
+l'entrepreneur.  Utiliser uniquement avec la clause K3000D ou K3001D. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur accorde par la présente au Canada une licence d'utilisation 
+de toute Propriété intellectuelle de base lui appartenant intégrée aux 
+Travaux ou nécessaire à l'exécution des Travaux en vertu du présent Contrat 
+dont le Canada pourrait avoir besoin pour modifier ou élaborer davantage 
+ces Travaux ou la Propriété intellectuelle originale, y compris le droit 
+d'accorder une sous-licence d'utilisation à des Entrepreneurs dont les 
+services seraient retenus par le Canada à cette fin.  Toute sous-licence de 
+ce genre imposera à l'Autre Entrepreneur l'obligation de n'utiliser les 
+Propriétés intellectuelles de base que pour l'exécution d'un contrat conclu 
+avec le Canada et exigera que l'Autre Entrepreneur protège le caractère 
+confidentiel de la propriété intellectuelle.  Le Canada versera à 
+l'Entrepreneur une indemnité raisonnable pour l'utilisation de toute 
+Propriété intellectuelle de base qui ne constitue pas déjà un produit 
+livrable en vertu du Contrat ou pour laquelle le Canada ne détient pas déjà 
+un droit équivalent en vertu d'un précédent contrat ou autrement.  Les 
+paragraphes 7) et 9) de la clause «Droits de propriété intellectuelle» 
+mentionnée dans le présent document s'appliqueront à l'égard de la 
+Propriété intellectuelle de base.  Sous réserve de la Loi sur l'accès à 
+l'information, S.R.C., 1985, ch. A-1, le Canada ne divulguera ni ne 
+révélera à l'extérieur du gouvernement du Canada ces Propriétés 
+intellectuelles de base autrement qu'en vertu d'une sous-licence mentionnée 
+au présent paragraphe, sauf si
+
+       a)  ces données sont publiquement disponibles auprès d'une source 
+       autre que l'Entrepreneur;
+
+       b)  le Canada a pris ou prend connaissance de ces données auprès 
+       d'une source autre que l'Entrepreneur sauf d'une source que le 
+       Canada sait être engagée vis-à-vis l'Entrepreneur à ne pas divulguer 
+       ces données; ou
+
+       c)  ces données sont élaborées de façon autonome par ou pour le 
+   Canada.  
+</pre>
+</div>

@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Consulter le tableau intitulé « Résumé des avantages découlant de l'Avis de 
+politique des marchés 1997-8 du Secrétariat du Conseil du Trésor du Canada » 
+pour savoir dans quels cas on doit appliquer cette clause.  Elle doit figurer 
+intégralement à la fin de l'invitation à soumissionner, avant les annexes ou les 
+appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les avantages qui s'appliquent à ce marché sont
+exprimés dans la section 5.2 des clauses de <cite>l'Entente
+définitive des premières nations de Champagne et de
+Aishihik</cite> (EDPNCA) :</p>
+<ul class="hierarchy">
+<li><span class="number">13.12.1.1</span> Le gouvernement avise par
+écrit les premières nations de Champagne et de Aishihik
+de tout appel d'offres public visant des marchés concernant la
+gestion d'un lieu historique désigné situé dans le
+territoire traditionnel des premières nations de Champagne et
+de Aishihik et directement lié à l'histoire ou à la
+culture des Indiens de Champagne et de Aishihik.</li>
+<li><span class="number">13.12.1.2</span> Le gouvernement offre
+d'abord aux premières nations de Champagne et de Aishihik la
+possibilité de conclure un marché de durée
+déterminée quant à la gestion d'un lieu historique
+désigné directement lié à l'histoire ou à
+la culture des Indiens de Champagne et de Aishihik et situé
+dans le territoire traditionnel des premières nations de
+Champagne et de Aishihik.</li>
+<li><span class="number">13.12.1.5</span> Le gouvernement doit
+inclure les critères suivants dans toute offre de marché
+touchant la gestion d'un lieu historique désigné qui est
+situé dans le territoire traditionnel des premières
+nations de Champagne et de Aishihik et directement lié à
+l'historique ou à la culture des Indiens de Champagne et de
+Aishihik :
+<ol type="a">
+<li value="1">un critère concernant l'embauchage d'Indiens de
+Champagne et de Aishihik;</li>
+<li value="2">un critère concernant les connaissances ou
+l'expérience spéciales des Indiens de Champagne et de
+Aishihik qui sont pertinentes au lieu historique
+désigné.</li>
+</ol>
+</li>
+</ul>
+</div></pre>
+</div>

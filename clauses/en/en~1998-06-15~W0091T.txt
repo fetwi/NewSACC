@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 5.4, <cite>Vuntut Gwich'in First Nation Final Agreement (VGFA)</cite>,
+Chapter 10, Schedule A, clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">9.6</span> The Canadian Parks Service
+shall provide timely written notice to the Vuntut Gwitchin First
+Nation of any invitation by the Canadian Parks Service respecting
+contracts for the provision of goods and services in the Vuntut
+Gwitchin First Nation Traditional Territory for the development,
+operation and management of the Park.</li>
+<li><span class="number">9.7</span> The Canadian Parks Service
+shall provide the Vuntut Gwitchin with a right of first refusal to
+accept any contract offered by the Canadian Parks Service for the
+construction or maintenance of trails within the Vuntut Gwitchin
+First Nation Traditional Territory in the following manner:
+<ul class="hierarchy">
+<li><span class="number">9.7.1</span> the Canadian Parks Service
+shall provide notice to the Vuntut Gwitchin First Nation specifying
+the terms and conditions of the contract;</li>
+<li><span class="number">9.7.2</span> the Vuntut Gwitchin First
+Nation shall have 30 days from the date the notice in 9.7.1 is
+received to advise the Park superintendent in writing whether it is
+exercising its right of first refusal under 9.7;</li>
+<li><span class="number">9.7.3</span> if the Vuntut Gwitchin First
+Nation does not exercise its right of first refusal under 9.7, the
+Canadian Parks Service may offer the contract publicly on the same
+terms and conditions specified in the notice pursuant to 9.7.1;
+and</li>
+<li><span class="number">9.7.4</span> if the contract offered
+publicly is not accepted, the Canadian Parks Service may re-offer
+the contract on new terms and conditions in accordance with the
+procedure set out in 9.7.</li>
+</ul>
+</li>
+</ul>
+</div></pre>
+</div>

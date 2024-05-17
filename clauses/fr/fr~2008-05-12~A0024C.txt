@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats de radoub et de réparation de 
+navire lorsque le navire en réparation sera sans équipage et que la charge ou la 
+garde est assurée par l'entrepreneur et qu'il en a le contrôle.
+
+Utiliser cette clause en conjonction avec G3002C et(ou) G5001C, s'il y a lieu, 
+lorsque la charge ou la garde du navire est assurée par l'entrepreneur et qu'il 
+en a le contrôle.
+
+Les agents de négociation des contrats doivent s'assurer que les conditions 
+générales 1026A et les conditions générales supplémentaires 1029 sont incluses 
+par renvoi dans le contrat.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le navire sera sans équipage durant la période des travaux et il sera 
+considéré comme n'étant « pas en service actif ».  Durant cette période, la 
+charge ou la garde du navire sera assurée par l'entrepreneur et il en aura 
+le contrôle.
+
+
+</pre>
+</div>

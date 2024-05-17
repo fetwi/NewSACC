@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats si l'entrepreneur doit être tenu 
+responsable du paiement des dommages-intérêts fixés à l'avance si le 
+renseignement original est exploité à l'extérieur du Canada.  Si plus d'un 
+élément du renseignement original est susceptible d'avoir des effets commerciaux 
+différents, préciser le montant des dommages dans chaque cas.
+ </p>
+<p>
+  Utiliser cette clause uniquement en conjonction avec
+  
+   K3415C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur reconnaît que le Canada pourrait subir des
+dommages par suite d'un manquement aux obligations prévues au
+paragraphe 1 de la clause K3415C et
+que ces dommages peuvent s'avérer extrêmement difficiles
+à évaluer. Si un tel manquement survient, l'entrepreneur
+accepte de verser au Canada des dommages-intérêts
+fixés à l'avance de <var>_____</var> $. Le Canada et
+l'entrepreneur conviennent que ce montant est leur meilleure
+estimation de la perte encourue par le Canada si la situation
+précité se produit, qu'il n'a pas pour but d'imposer une
+sanction et qu'il ne doit pas être interprété en ce
+sens.</p>
+</div></pre>
+</div>

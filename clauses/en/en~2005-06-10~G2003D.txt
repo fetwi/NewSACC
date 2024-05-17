@@ -1,0 +1,46 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Products Liability insurance protects the Contractor against claims for damages 
+(principally property damage and bodily injury) caused by the products 
+manufactured by the Contractor.  This coverage may be secured as a stand alone 
+policy where the contract may warrant.
+
+Alternatively, this insurance may be included in G2001D by invoking the 
+endorsement (h), Products and Completed Operations Broad Form (24 months), of 
+clause G2015D.  DO NOT USE BOTH.
+
+If either the contracting officer or the client believes that the suggested 
+MINIMUM LIMIT of liability of $1,000,000 per loss is not sufficient, alternate 
+limits may be established in consultation with the client and Public Works and 
+Government Services Canada's Risk Management and Insurance Advisory Services, at 
+NCR RMIAS-SCGRA@pwgsc.gc.ca.
+
+The contracting officer should also refer to G2015D for important additional 
+endorsements that may apply to specific contracting areas and that are to be 
+individually selected and included in the endorsements found in this clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Products Liability insurance shall be effected by the Contractor and 
+       maintained in force throughout the duration of the Contract, in an 
+       amount usual for a contract of this nature, but, in any case, for a 
+       limit of liability NOT LESS THAN $1,000,000 per loss, inclusive of 
+       defence cost.
+
+2.     If this is a claims made policy and the duration of the Contract 
+       exceeds the policy term; in the event of cancellation or non-renewal 
+       of the policy, an Extended Claims Reporting Endorsement, minimum 
+       twelve (12) months, must be secured by the Contractor.
+
+3.     The following endorsements must be included:
+
+       (a)    Notice of Cancellation or Amendment:  The Insurer agrees to 
+              provide the Contracting Authority thirty (30) days written 
+              notice of cancellation.
+
+       (b)    Contractual Liability:  The policy shall, on a blanket basis 
+              or by specific reference to this Contract, extend to assumed 
+              liabilities with respect to contractual insurance provisions.
+
+
+</pre>
+</div>

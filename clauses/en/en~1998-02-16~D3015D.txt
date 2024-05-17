@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     It is the responsibility of the Contractor to ensure proper 
+       labelling and packaging in the supply and shipping of hazardous and 
+       dangerous goods to the Government of Canada.
+
+2.     Canada shall not be held liable for any damages caused by improper 
+       packaging, labelling or carriage of goods.
+
+3.     All merchandise labels are to be clearly marked with the percentage 
+       of volume that is a hazardous item.  Failure to do so will result in 
+       the Contractor being held responsible for damages caused in the 
+       movement of goods by government vehicles or government personnel.
+
+4.     Contractors must ensure they adhere to all levels of regulations 
+       regarding dangerous goods as set forth by federal, provincial and 
+       municipal laws, by-laws and acts of Parliament.
+
+</pre>
+</div>

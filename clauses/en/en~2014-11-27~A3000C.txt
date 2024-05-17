@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for procurements that have been set aside 
+under the federal government Procurement Strategy for Aboriginal Business 
+(PSAB).
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor warrants that its certification of
+compliance is accurate and complete and in accordance with the
+"Requirements for the Set-aside Program for Aboriginal Business"
+detailed in Annex 9.4 of the <cite>Supply Manual</cite>.</li>
+<li value="2">The Contractor must keep proper records and
+documentation relating to the accuracy of the certification
+provided to Canada. The Contractor must obtain the written consent
+of the Contracting Authority before disposing of any such records
+or documentation before the expiration of six years after final
+payment under the Contract, or until settlement of all outstanding
+claims and disputes, under the Contract, whichever is later. All
+such records and documentation must at all times during the
+retention period be open to audit by the representatives of Canada,
+who may make copies and take extracts. The Contractor must provide
+all reasonably required facilities for any audits.</li>
+<li value="3">Nothing in this clause must be interpreted as
+limiting the rights and remedies which Canada may otherwise have
+pursuant to the Contract.</li>
+</ol>
+</div></pre>
+</div>

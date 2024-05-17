@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Contracting officers may choose one of the clauses below when the contractor is 
+performing work on government sites.  Choose the first clause only when the work 
+is performed on Canadian Forces sites across Canada.  Choose the second clause 
+when the work is performed on other government sites.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Clause 1</strong>
+
+The Contractor must comply with all standing orders or other rules, 
+instructions and directives in force on the site where the Work is 
+performed.
+
+<strong>Clause 2</strong>
+
+The Contractor must comply with all rules, instructions and directives in 
+   force on the site where the Work is performed.
+</pre>
+</div>

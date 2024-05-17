@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when electrical equipment purchased for use within 
+Canada should be certified by the Canadian Standards Association or the 
+appropriate inspection authority.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Department of National Defence will provide a copy of the 
+       Canadian Government Catalogue of Materiel (CGCM) on CD-ROM, 
+       Publication A-LM-137-COM/LX-001 to the Contractor, upon written 
+       request to the CFQAR as specified in the Contract.  The CGCM 
+       includes limited rights data of certain NATO countries or 
+       manufacturers, and such information is proprietary to these entities.  
+       Therefore, as required by NATO Standardization Agreement (STANAG) 
+       4438, the Contractor shall be required to sign a non-disclosure 
+       agreement and protect the data in accordance with the conditions of 
+       the said Agreement.
+
+2.     Provisions of the CGCM will be coordinated through the Canadian 
+       Forces Quality Assurance Region.
+
+
+</pre>
+</div>

@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the client department requests an 
+option to extend the contract be included in the contract.
+
+Do not use for Medium Complexity requirements if the Plain Language template 
+2T-MED1 is used with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor grants to Canada the irrevocable option to extend the term 
+of the Contract by up to _______ additional ________ year period(s) under 
+the same terms and conditions.  The Contractor agrees that, during the 
+extended period of the Contract, it will be paid in accordance with the 
+applicable provisions as set out in the Basis of Payment.
+
+Canada may exercise this option at any time by sending a written notice to 
+   the Contractor at least _____ calendar days before the Contract expiry 
+   date.  The option may only be exercised by the Contracting Authority, 
+   and will be evidenced for administrative purposes only, through a 
+   contract amendment.
+</pre>
+</div>

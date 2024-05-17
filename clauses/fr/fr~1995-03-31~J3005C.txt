@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser le texte suivant lorsque le fournisseur veut se retirer d'une offre à 
+commandes. S'il s'agit d'une offre à commandes scellée, consulter les Services 
+juridiques.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Par la présente, nous accusons réception de votre lettre du _____ nous 
+   demandant de retirer et d'annuler l'offre à commandes _____ (inscrire le 
+   numéro de l'offre à commandes), à compter du _____ (inscrire la date du 
+   retrait). Il est toutefois entendu par la présente que toute commande 
+   subséquente à cette offre à commandes, reçue à ou avant cette date, sera 
+   satisfaite conformément aux conditions de l'offre à commandes. 
+</pre>
+</div>

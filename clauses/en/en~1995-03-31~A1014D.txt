@@ -1,0 +1,50 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in solicitation and contract documents for security guard 
+services.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Guard Quality Assurance Authority (GQAA):
+_____ 
+_____
+
+Guard Quality Assurance Officer 
+Guard Quality Assurance Unit 
+Industrial and Corporate Security Branch 
+Supply and Services Canada 
+Place du Portage, Phase III, 1A2 
+11 Laurier Street 
+Hull, Quebec 
+K1A 0S5
+
+Tel: (819) _____
+
+The Guard Quality Assurance Unit (GQAU) of the DSS Industrial and Corporate 
+Security Branch consists of two (2) DSS employees and eleven (11) 
+Commissionaires on contract. The Unit has three (3) security vehicles and 
+ancillary communications equipment.  Through this unit, DSS provides a de 
+facto command post to which commercial guards can report problems, plus an 
+inspection service which checks guard posts to see that they are manned and 
+that the guards on duty are properly attired and have evidence of the 
+required training and experience.
+
+The responsibilities of the GQAA are limited to the National Capital Region 
+(NCR) and are basically to:
+
+a)     coordinate a commercial security guard testing function for security 
+       personnel to be assigned to federal government work sites;
+
+b)     inspect, examine and report upon the quality of guard services 
+       provided by the Contractor under the Contract arrangement;
+
+c)     log, record and report guard deficiencies to the Contracting 
+       Authority and the Consignee; and
+
+d)     notify the Contracting Authority of formal complaints against the 
+       Contractor failing to meet conditions of the Contract.
+
+The Contractor agrees that the inspections by the GQAU will be carried out 
+at the locations identified at Article ___, herein.
+
+</pre>
+</div>

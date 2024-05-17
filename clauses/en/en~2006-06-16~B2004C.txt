@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts whenever contracting officers need to purchase dimensional lumber or building supplies that might include the supply of dimensional lumber.
+ </p>
+<p>
+  Grading stamps are provincially regulated and are applied at the mill to clearly mark the species and grade of the lumber being supplied.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>All lumber supplied is to be stamped showing the grade, species and name of the grading agency authorized to grade mark lumber in Canada by the Canadian Lumber Standards Accreditation Board.</p>
+</div></pre>
+</div>

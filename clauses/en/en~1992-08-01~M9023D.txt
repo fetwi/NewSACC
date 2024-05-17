@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>We offer to sell or provide and deliver to Canada, acting through and 
+represented by the Minister of Supply and Services, upon the terms and 
+conditions hereinafter set out, the services, listed at the price(s) or on 
+the pricing basis set out in this Standing Offer, as and when the 
+designated user may request such services, in accordance with the 
+provisions hereof.
+
+It is understood and agreed that:
+
+a) a call-up against this Standing Offer shall form a contract, only for 
+those services, which have been called-up, provided always that such 
+call-up is made in accordance with the terms set out hereinafter;
+
+b) receipt of this Standing Offer does not oblige Canada, the Minister or 
+designated users, to authorize or order all or any of the services.
+
+c) Canada's liability shall be limited to that which arises from call-ups 
+against this offer, made within the period specified herein.
+
+</pre>
+</div>

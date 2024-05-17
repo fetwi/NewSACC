@@ -1,0 +1,130 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats pour les besoins de tissu 
+lorsqu'un ou des échantillons de pré-production et(ou) un ou des échantillons de 
+production sont exigés. 
+
+Utiliser l'option 1 lorsqu'un ou des échantillons de pré-production sont exigés.
+Utiliser l'option 2 lorsqu'un ou des échantillons de production sont exigés.
+Utiliser l'option 3 lorsque des échantillons de pré-production et de production 
+sont exigés.
+
+Les agents de négociation des contrats doivent s'assurer que les paragraphes 3 à 
+8 sont inclus pour l'option choisie.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<ol type="1">
+<li value="1">Échantillons de pré-production :
+L'entrepreneur doit fournir <span class="input-required"><var>_____</var> <kbd><i>(insérer le nombre
+d'échantillons de pré-production exigés</i>)</kbd></span>
+échantillons de pré-production d'une longueur de deux (2)
+mètres, pleine largeur, au responsable technique, avec le ou
+les échantillons scellés s'il y a lieu, en vue de
+l'acceptation dans les <span class="input-required"><var>_________</var> <kbd>(<i>insérer le nombre
+de jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant la date d'attribution
+du contrat.</li>
+<li value="2">Si le ou les premiers échantillons sont
+rejetés, l'entrepreneur doit soumettre le ou les
+deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<i>insérer le nombre de
+jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant l'avis du rejet par le
+responsable technique.</li></ol>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">Échantillons de production : L'entrepreneur doit
+prélever un échantillon de production d'une longueur de
+deux (2) mètres, pleine largeur, dans le premier lot de
+fabrication et le fournir au responsable technique, avec le ou les
+échantillons scellés s'il y a lieu, en vue de
+l'acceptation dans les <span class="input-required"><var>_________</var> <kbd>(<i>insérer le nombre
+de jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant la date d'attribution
+du contrat.</li>
+<li value="2">Si le ou les premiers échantillons sont
+rejetés, l'entrepreneur doit soumettre le ou les
+deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<i>insérer le nombre de
+jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant l'avis du rejet par le
+responsable technique.</li></ol>
+<h2>Option 3</h2>
+<ol type="1">
+<li value="1">
+<ol type="a">
+<li value="1">Échantillons de pré-production : L'entrepreneur doit fournir <span class="input-required"><var>_____</var> <kbd>(<i>insérer le nombre
+d'échantillons de pré-production exigés</i>)</kbd></span>
+échantillons de pré-production d'une longueur de deux (2)
+mètres, pleine largeur, au responsable technique, avec le ou
+les échantillons scellés s'il y a lieu, en vue de
+l'acceptation dans les <span class="input-required"><var>_________</var> <kbd>(<i>insérer le nombre
+de jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant la date d'attribution
+du contrat.</li>
+<li value="2">Si le ou les premiers échantillons sont
+rejetés, l'entrepreneur doit soumettre le ou les
+deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<i>insérer le nombre de
+jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant l'avis du rejet par le
+responsable technique.</li></ol></li>
+<li value="2">
+<ol type="a">
+<li value="1">Échantillons de production : L'entrepreneur
+doit prélever un échantillon de production d'une longueur
+de deux (2) mètres, pleine largeur, dans le premier lot de
+fabrication et le fournir au responsable technique, avec le ou les
+échantillons scellés s'il y a lieu, en vue de
+l'acceptation dans les <span class="input-required"><var>_________</var> <kbd>(<i>insérer le nombre
+de jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant la date d'attribution
+du contrat.</li>
+<li value="2">Si le ou les premiers échantillons sont
+rejetés, l'entrepreneur doit soumettre le ou les
+deuxièmes échantillons dans les <span class="input-required"><var>_____</var> <kbd>(<i>insérer le nombre de
+jours précisé par le soumissionnaire dans sa
+soumission</i>)</kbd></span> jours civils suivant l'avis du rejet par le
+responsable technique.
+<p class="description"><strong>Instruction aux agents de
+négociation des contrats :</strong> <em>S'assurer que les
+paragraphes 3 à 8 sont inclus pour l'option choisie.</em></p>
+</li>
+</ol>
+</li>
+<li value="3">L'entrepreneur doit effectuer toutes les inspections
+et tous les essais requis afin de vérifier si les exigences
+techniques indiquées dans le contrat sont
+respectées.</li>
+<li value="4">L'entrepreneur doit fournir le ou les
+échantillons requis ainsi qu'une copie des rapports
+d'inspection et d'essai au responsable technique, frais de
+transport payés d'avance et sans frais pour le Canada. Le ou
+les échantillons soumis par l'entrepreneur demeureront la
+propriété du Canada.</li>
+<li value="5">Le responsable technique devra aviser l'entrepreneur,
+par écrit, de l'acceptation conditionnelle, de l'acceptation
+ou du rejet des échantillons. Le responsable technique devra
+fournir une copie de cet avis à l'autorité contractante.
+L'avis d'acceptation conditionnelle ou d'acceptation ne dégage
+pas l'entrepreneur de sa responsabilité de respecter toutes
+les exigences des spécifications et toutes les autres
+conditions du contrat.</li>
+<li value="6">L'entrepreneur ne doit pas entreprendre ou continuer
+la production des articles et ne doit pas faire de livraison avant
+d'avoir reçu du responsable technique un avis indiquant que le
+ou les échantillons sont acceptables. Toute fabrication
+d'articles avant l'acceptation des échantillons se fera au
+risque de l'entrepreneur.</li>
+<li value="7">Lorsque le responsable technique rejettera le ou les
+deuxièmes échantillons soumis par l'entrepreneur parce
+qu'ils ne répondent pas aux exigences contractuelles, le
+contrat pourra être résilié pour manquement.</li>
+<li value="8">Le ou les échantillons ne seront peut-être
+pas requis si l'entrepreneur est actuellement en production.
+L'entrepreneur doit soumettre par écrit au responsable
+technique sa demande d'exemption de fourniture d'échantillons.
+La décision relative à l'exemption de fourniture
+d'échantillons sera à la discrétion du responsable
+technique.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for service contracts with non-resident contractors 
+where the services will be performed in Canada.  (Refer to Section 6D in the 
+Supply Manual).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor agrees that, pursuant to the provisions of the <em>Income Tax 
+Act</em>, Canada is empowered to withhold an amount of 15 percent of the price 
+to be paid to the Contractor, if the Contractor is a non-resident 
+contractor as defined in said act.  This amount will be held on account 
+with respect to any liability for taxes which may be owed to Canada.
+
+
+</pre>
+</div>

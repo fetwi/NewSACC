@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats afin de préciser le montant qui 
+sera payé pour la période précontractuelle et d'inclure une base de paiement 
+pour la période allant de la date du contrat à la fin du contrat.
+
+Utiliser cette clause en conjonction avec A9094C; et avec C6001C qui devrait 
+refléter le montant total des paragraphes 1. et 2. ci-dessous.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     En considération des services rendus pour la période commençant le _____ 
+       (<strong><em>insérer la date du début des travaux</em></strong>) et se terminant le _____ (<strong><em>
+       insérer la date du dernier jour avant l'entrée en vigueur du contrat</em></strong>), 
+       la somme de _____ $ sera versée à l'entrepreneur.  Les droits de 
+       douane sont ______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus</span><em> », « </em><span class="wsInlineRemark">exclus </span><em>» </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">exonérés </span>») 
+       et la taxe sur les produits et services ou la taxe de vente 
+       harmonisée (TPS ou TVH) est en sus, s'il y a lieu.
+
+2.     Pour la période commençant le _____ (<strong><em>insérer la date d'entrée en 
+       vigueur du contrat</em></strong>) et se terminant à la fin du contrat, 
+       l'entrepreneur sera remboursé pour les coûts qu'il a raisonnablement 
+       et correctement engagés dans l'exécution des travaux selon les 
+       conditions énoncées dans la Base de paiement _______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">
+       comme il est indiqué à l'annexe</span><span class="wsInlineRemark"><strong> ____ </strong></span><em>» </em><strong><em>OU</em></strong><em> « </em><span class="wsInlineRemark">comme il est indiqué 
+       ci-dessous </span>»).  Les droits de douane sont ______ (<strong><em>insérer</em></strong><em> « </em><span class="wsInlineRemark">inclus </span><em>»</em><strong><em>, 
+       </em></strong><em>« </em><span class="wsInlineRemark">exclus </span><em>» </em><strong><em>ou</em></strong><em> « </em><span class="wsInlineRemark">exonérés </span>») et la TPS ou TVH est 
+       en sus, s'il y a lieu.
+
+
+
+</pre>
+</div>

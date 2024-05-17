@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats uniquement si le Canada détient 
+les droits de propriété intellectuelle sur les renseignements originaux en vertu 
+des conditions du contrat et accepte de donner à l'entrepreneur une licence pour 
+l'utilisation de ces renseignements sans lui accorder le droit d'une 
+sous-licence.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   K3305C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur n'a pas le droit d'autoriser, par sous-licence ou
+autrement, quiconque à exercer l'un quelconque des droits de
+propriété intellectuelle sur les renseignements
+originaux.</p>
+</div></pre>
+</div>

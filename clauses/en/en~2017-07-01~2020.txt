@@ -1,0 +1,263 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2017-07-012020interpretation">01 Interpretation</a></li>
+<li><a href="#2017-07-012020standard-clauses-and-conditions">02 Standard clauses and conditions</a></li>
+<li><a href="#2017-07-012020bid-solicitations-and-resulting-contracts">03 Bid solicitations and resulting contracts</a></li>
+<li><a href="#2017-07-012020supply-arrangement-period">04 Supply Arrangement period</a></li>
+<li><a href="#2017-07-012020modifications">05 Modifications</a></li>
+<li><a href="#2017-07-012020confirmation-of-qualification">06 Confirmation of qualification</a></li>
+<li><a href="#2017-07-012020on-going-opportunity-for-qualification">07 On-going opportunity for qualification</a></li>
+<li><a href="#2017-07-012020withdrawal-by-supplier">08 Withdrawal by Supplier</a></li>
+<li><a href="#2017-07-012020suspension-or-cancellation-of-qualification-by-canada">09 Suspension or cancellation of qualification by Canada</a></li>
+<li><a href="#2017-07-012020termination-of-contracts-made-under-the-supply-arrangement">10 Termination of contracts made under the Supply Arrangement</a></li>
+<li><a href="#2017-07-012020joint-venture">11 Joint venture</a></li>
+<li><a href="#2017-07-012020publication-of-supply-arrangement-information">12 Publication of Supply Arrangement information</a></li>
+<li><a href="#2017-07-012020application-of-trade-agreements">13 Application of trade agreements</a></li>
+<li><a href="#2017-07-012020costs">14 Costs</a></li>
+<li><a href="#2017-07-012020disclosure-of-information">15 Disclosure of information</a></li>
+<li><a href="#2017-07-012020integrity-provisions">16 Integrity provisions—Supply Arrangement</a></li>
+<li><a href="#2017-07-012020access-to-information">17 Access to information</a></li>
+<li><a href="#2017-07-012020code-of-conduct-for-procurement">18 Code of Conduct for Procurement—Supply Arrangement </a></li>
+</ul>
+</div>
+<h2 id="2017-07-012020interpretation">2020 01 (2016-04-04) Interpretation</h2>
+<dl>
+<dt>"Canada", "Crown", "Her Majesty" or "the Government"</dt>
+<dd>means Her Majesty the Queen in right of Canada as represented by the Minister of Public Works and Government Services and any other person duly authorized to act on behalf of that Minister. </dd>
+<dt>"Supplier"</dt>
+<dd>means the person or entity whose name appears on the Supply Arrangement and who has become a pre-qualified supplier and been issued a Supply Arrangement; </dd>
+<dt>"Supply Arrangement" </dt>
+<dd>means the written arrangement between Canada and the Supplier, these general conditions, any referenced clauses and conditions, and any other document specified or referred to as forming part of the Supply Arrangement;</dd>
+<dt>"Supply Arrangement Authority" </dt>
+<dd>means the person designated as such in the Supply Arrangement, or by notice to the Supplier, to act as the representative of Canada in the management of the Supply Arrangement. </dd>
+</dl>
+<h2 id="2017-07-012020standard-clauses-and-conditions">2020 02 (2008-12-12) Standard clauses and conditions</h2>
+<p>Pursuant to the <cite>Department of Public Works and Government Services Act</cite>, <abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr> 16, the clauses and conditions
+identified in the Supply Arrangement by number, date and title are
+incorporated by reference into the Supply Arrangement and form part
+of any contract resulting from the Supply Arrangement as though
+expressly set out in the Supply Arrangement and resulting
+contract.</p>
+<h2 id="2017-07-012020bid-solicitations-and-resulting-contracts">2020 03 (2011-05-16) Bid solicitations and resulting contracts</h2>
+<p>The Supplier understands that identified users are allowed under
+a Supply Arrangement to solicit bids and award contracts to
+pre-qualified suppliers only. Suppliers must be pre-qualified and
+issued a Supply Arrangement to meet the requirements of a bid
+solicitation and/or be awarded a contract under a Supply
+Arrangement. If the Supply Arrangement includes ceiling prices or
+rates, suppliers will be allowed to lower their prices or rates
+based on the actual requirement or statement of work described in
+the bid solicitation. For competitive requirements, bid
+solicitations will be issued in accordance with the process
+established in the Supply Arrangement. Bids will be evaluated and
+contracts will be awarded in accordance with the process described
+in each bid solicitation. Each contract awarded will be considered
+to be a separate binding contract established between the
+contracting department or agency and the Supplier.</p>
+<p>The Supplier understands and agrees that:</p>
+<ol type="a">
+<li>issuance of a supply arrangement to the Supplier does
+not oblige Canada to authorize or order all or any of the goods or
+services described in the Supply Arrangement or to spend any monies
+whatsoever;</li>
+<li>a contract will exist only if there is an authorized
+contract awarded under the Supply Arrangement and only for those
+goods, services, or both which are described in the contract;</li>
+<li>Canada's liability is limited to that which arises
+from contracts awarded under the Supply Arrangement;</li>
+<li>Canada has the right to procure the goods and
+services specified in the Supply Arrangement by means of any other
+contract, standing offer or contracting method;</li>
+<li>neither the Supply Arrangement nor any bid in
+response to a bid solicitation issued in accordance with it can be
+assigned or transferred in whole or in part.</li>
+</ol>
+<h2 id="2017-07-012020supply-arrangement-period">2020 04 (2008-12-12) Supply Arrangement period</h2>
+<p>The Supply Arrangement may be issued for a specific period as
+set out in the Supply Arrangement or until such time as Canada no
+longer considers it to be advantageous to use the Supply
+Arrangement to award contracts under the Supply Arrangement
+framework.</p>
+<h2 id="2017-07-012020modifications">2020 05 (2014-09-25) Modifications</h2>
+<ol>
+<li>From time to time, Canada may modify the conditions
+of the Supply Arrangement. Canada will advise all suppliers of any
+proposed modification to the supply arrangement and will provide
+suppliers with an opportunity to either withdraw or confirm their
+consent to the modification. The Supplier may withdraw if it no
+longer wishes to be considered for future contracts as a result of
+the modification. If the Supplier does not withdraw, the Supplier
+must confirm its consent to the modification and confirm that it
+meets any qualification requirement that may be affected by the
+modification. The Supplier must provide any information or evidence
+the Supply Arrangement Authority may require to verify that the
+Supplier continues to be a qualified supplier.</li>
+<li>Canada may also, from time to time, update the
+conditions of the bid solicitation and resulting contract clauses
+included in the Supply Arrangement. Canada will then publish the
+updates no less than 10 working days before including them in
+any individual bid solicitation. Canada may also modify the
+requirement described in the Supply Arrangement or, if the Supply
+Arrangement includes categories, modify the requirements associated
+with categories. If Canada adds a new category, the Supplier may
+submit an application to qualify for that category. Upon successful
+qualification, that category will simply be added to the Supplier's
+existing Supply Arrangement. In the event of a modification to the
+requirement, the Supplier may either be required to qualify in
+respect to the modification only or to submit another arrangement,
+depending on the extent of the modification.</li>
+<li>Modifications will not affect contracts that are
+already in place before the date of the modification.</li>
+</ol>
+<h2 id="2017-07-012020confirmation-of-qualification">2020 06 (2014-09-25) Confirmation of qualification</h2>
+<ol>
+<li>The Supplier must continue to meet all the
+qualification requirements related to the Supply Arrangement during
+the entire period of the Supply Arrangement. Any certification
+provided by the Supplier must be true on the date of the Supply
+Arrangement and remain true throughout the period of the Supply
+Arrangement. The Supplier must immediately notify the Supply
+Arrangement Authority if it no longer meets any of the
+qualification requirements of the Supply Arrangement.</li>
+<li>The Supply Arrangement Authority may require the
+Supplier to confirm its qualification at any time and provide
+evidence to support its confirmation. If the Supplier no longer
+meets any of the requirements for qualification, Canada may, at its
+option:
+<ol type="a">
+<li>suspend the Supply Arrangement until the Supplier has
+demonstrated, to the satisfaction of Canada, that it meets the
+requirements in respect of which it has been found deficient.
+During this time, the Supplier will not be eligible to bid on bid
+solicitations issued under the Supply Arrangement;</li>
+<li>suspend the Supplier's qualification under specific
+categories of the Supply Arrangement until the Supplier has
+demonstrated, to the satisfaction of Canada, that it meets the
+requirements in respect of which it has been found deficient.
+During this time, the Supplier will not be eligible to bid on bid
+solicitations issued under Supply Arrangement for those
+categories;</li>
+<li>cancel the Supply Arrangement or the Supplier's
+qualification for specific categories, in which case, the Supplier
+will not be allowed to submit a new arrangement for a period of six months following the cancellation.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2017-07-012020on-going-opportunity-for-qualification">2020 07 (2008-12-12) On-going opportunity for qualification</h2>
+<p>The Supplier understands that either through a notice posted on
+the Government Electronic Tendering Service (GETS) or through a
+process set out in the Supply Arrangement, new suppliers may submit
+arrangements to pre-qualify and be added to the list of suppliers
+pre-qualified to provide the goods and services described in the
+Supply Arrangement. This process will also permit pre-qualified
+suppliers to qualify for requirements for which they are not
+already qualified. The Supplier acknowledges that Canada may issue
+an unlimited number of supply arrangements and may continue to
+issue supply arrangements to pre-qualified suppliers throughout the
+Supply Arrangement period.</p>
+<h2 id="2017-07-012020withdrawal-by-supplier">2020 08 (2014-09-25) Withdrawal by Supplier</h2>
+<p>If the Supplier wishes to withdraw from the Supply Arrangement
+or only from any specific category, the Supplier must advise Canada
+by providing no less than 30 days written notice to the
+Supply Arrangement Authority, unless provided otherwise in the
+Supply Arrangement.</p>
+<p>Upon receipt of the notice, the Supply Arrangement Authority
+will remove the Supplier from the list of pre-qualified suppliers
+and the Supplier will not be eligible to bid on bid solicitations
+issued under the Supply Arrangement anymore. The Supplier will be
+required to qualify again to become a pre-qualified supplier.</p>
+<p>The Supplier acknowledges that its withdrawal will not affect
+any contract entered into before the receipt by the Supply
+Arrangement Authority of the notice. Canada may at its discretion
+advise the Supplier that the Supplier will not be allowed to submit
+a new arrangement to re-qualify for a period of time as determined
+by Canada.</p>
+<h2 id="2017-07-012020suspension-or-cancellation-of-qualification-by-canada">2020 09 (2014-09-25) Suspension or cancellation of qualification by Canada</h2>
+<ol>
+<li>Canada may, by sending written notice to the
+Supplier, suspend or cancel the Supply Arrangement under any of the
+following circumstances:
+<ol type="a">
+<li>the Supplier no longer meets any of the required
+qualifications of the Supply Arrangement as provided in section 6;</li>
+<li>the Supplier is in default in carrying out any of its
+obligations under any resulting contract and Canada has exercised
+its contractual right to terminate the contract for default;</li>
+<li>the Supplier becomes bankrupt or insolvent, or takes the benefit of any statute relating to bankrupt or insolvent debtors, or if a receiver is appointed under a debt instrument or a receiving order is made against the Supplier, or an order is made or a resolution passed for the winding-up of the Supplier;</li>
+<li>Canada has imposed measures on the Supplier under the
+Vendor Performance Corrective Measure Policy (or such similar policy that may be in
+place from time to time).</li>
+</ol>
+</li>
+<li>Suspension or cancellation of the Supply Arrangement
+will not affect the right of Canada to pursue other remedies or
+measures that may be available. It will not, on its own, affect any
+contract entered into before the issuance of the notice. The Supply
+Arrangement Authority will however remove the Supplier from the
+list of pre-qualified suppliers and the Supplier will not be
+eligible to bid on bid solicitations issued under the Supply
+Arrangement. The Supplier will not be allowed to submit another
+arrangement for a period to be determined by Canada.</li>
+</ol>
+<h2 id="2017-07-012020termination-of-contracts-made-under-the-supply-arrangement">2020 10 (2008-12-12) Termination of contracts made under the Supply Arrangement</h2>
+<p>If a contract made under the Supply Arrangement is terminated
+for default or otherwise, such termination does not terminate the
+Supply Arrangement. The Supplier acknowledges, however, that a
+default under any contract made under the Supply Arrangement may
+result in the suspension or cancellation of the Supply
+Arrangement.</p>
+<h2 id="2017-07-012020joint-venture">2020 11 (2008-12-12) Joint venture</h2>
+<p>If the Supplier is a joint venture, the Supplier agrees that all
+members of the joint venture are jointly and severally or
+solidarily liable for the performance of any contract awarded under
+the Supply Arrangement. If the membership of a joint venture
+changes, the Supply Arrangement will be cancelled and members who
+wish to qualify separately or as part of a different joint venture
+must submit a new arrangement by following the qualification
+process established by Canada.</p>
+<h2 id="2017-07-012020publication-of-supply-arrangement-information">2020 12 (2008-05-12) Publication of Supply Arrangement information</h2>
+<ol>
+<li>The Supplier agrees that Canada may publish certain
+information related to the Supply Arrangement or a supply
+arrangement catalogue. The Supplier agrees to the disclosure of the
+following information included in the Supply Arrangement:
+<ol type="a">
+<li>the conditions of the Supply Arrangement;</li>
+<li>the Supplier's procurement business number, its name,
+the name, address, telephone number, fax number and e-mail address
+of its representative;</li>
+<li>the Supplier's profile and its level of security
+clearance;</li>
+<li>the Supplier's qualified domains of expertise or the
+categories for which the Supplier has qualified.</li>
+</ol>
+</li>
+<li>Canada will not be liable for any errors,
+inconsistencies or omissions in any published information. If the
+Supplier identifies any error, inconsistency or omission, the
+Supplier agrees to notify the Supply Arrangement Authority
+immediately.</li>
+</ol>
+<h2 id="2017-07-012020application-of-trade-agreements">2020 13 (2017-07-01) Application of trade agreements</h2>
+<p>The Supplier understands that even if the qualification process established for the issuance of the Supply Arrangement was subject to the World Trade Organization Agreement on Government Procurement, the North American Free Trade Agreement, and the Canadian Free Trade Agreement or  Agreement on Internal Trade, not all agreements will necessarily apply to individual bid solicitations under the Supply Arrangement. The trade agreements applicable to individual bid solicitations will be identified on a case-by-case basis.</p>
+<h2 id="2017-07-012020costs">2020 14 (2008-05-12) Costs</h2>
+<p>The Supplier will not be reimbursed for any costs incurred
+before the award of a contract and no costs incurred before the
+award of a contract can be charged to the Supply Arrangement or any
+contract entered into under the Supply Arrangement.</p>
+<h2 id="2017-07-012020disclosure-of-information">2020	15	(2012-07-16) Disclosure of information</h2>
+<p>The Supplier agrees to the disclosure of its supply arrangement unit prices or rates by Canada, and further agrees that it will have no right to claim against Canada, the Identified User, their employees, agents or servants in relation to such disclosure.</p>
+<h2 id="2017-07-012020integrity-provisions">2020 16 (2016-04-04) Integrity provisions—Supply Arrangement</h2>
+<p>The <em>Ineligibility and Suspension Policy</em> (the  “Policy”) and all related Directives incorporated by reference into the Request  for Supply Arrangements on its closing date are incorporated into, and form a  binding part of the Supply Arrangement and any resulting contracts. The Supplier  must comply with the provisions of the Policy and Directives, which can be  found on Public Works and Government Services Canada’s website at <em>Ineligibility and Suspension Policy</em>.</p>
+<h2 id="2017-07-012020access-to-information">2020 17 (2012-07-16) Access to information</h2>
+<p>Records created by the Supplier, and under the control of Canada, are subject to the <cite>Access to Information Act</cite>. The Supplier acknowledges the responsibilities of Canada under the <cite>Access to Information Act</cite> and must, to the extent possible, assist Canada in discharging these responsibilities. Furthermore, the Supplier acknowledges that section 67.1 of the <cite>Access to Information Act</cite> provides that any person, who destroys, alters, falsifies or conceals a record, or directs anyone to do so, with the intent of obstructing the right of access that is provided by the <cite>Access to Information Act</cite> is guilty of an offence and is liable to imprisonment or a fine, or both.
+</p>
+<h2 id="2017-07-012020code-of-conduct-for-procurement">2020 18 (2016-04-04)  Code of Conduct for Procurement—Supply Arrangement</h2>
+<p>The Supplier agrees to comply with the <em>Code of Conduct for Procurement</em> and to be bound by its terms for the period of the Supply Arrangement  and of any resulting contracts. </p>
+</div></pre>
+</div>

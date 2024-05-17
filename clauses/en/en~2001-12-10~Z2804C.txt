@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when called for in the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">In conjunction with and pursuant to the provisions of
+clause J-74, the Contractor may, within 110 days after date of
+shipment of the supplies, inform the Canadian Commercial
+Corporation (CCC) project officer, in writing,
+<ol type="a">
+<li value="1">that the Contract unit prices are subject to upward
+adjustment; or</li>
+<li value="2">that the Contract unit prices are subject to downward
+adjustment; or</li>
+<li value="3">certifying that there is no decrease in the Contract
+unit prices.</li>
+</ol>
+</li>
+<li value="2">If the appropriate <abbr title="United States">U.S.</abbr> Bureau of Labor indexes are
+not available to meet the above time frame, the Contractor must
+apply to <abbr title="Canadian Commercial Corporation">CCC</abbr> for an extension of time.</li>
+<li value="3">The Contractor's request for an upward adjustment or
+downward adjustment must be supported with copies of the applicable <abbr title="United States">U.S.</abbr> Bureau of Labor indexes. An information copy of the claim is
+to be sent by the Contractor to:
+<br/><address>Defense Logistics Agency (USA)
+<br/>Defense Contract Management Americas (Canada)
+<br/>200 - 275 Bank Street
+<br/>Ottawa, Ontario K2P 2L6</address>
+</li>
+</ol>
+</div></pre>
+</div>

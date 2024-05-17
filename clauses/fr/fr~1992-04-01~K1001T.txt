@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante et la formule DSS-MAS 4079, Déclaration des biens 
+admissibles, dans les demandes de soumissions assujetties à l'Accord de libre- 
+échange entre le Canada et les États-Unis et à l'égard desquels chaque 
+soumission doit comprendre une Déclaration des biens admissibles (c.-à-d., 
+lorsque la concurrence est restreinte aux soumissions admissibles au groupe 
+prioritaire 1).  Voir la directive 3005 du GPA.  
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Soumissionnaire déclare et atteste que la Déclaration des biens 
+admissibles (formule DSS-MAS 4079) jointe à la présente est exacte et 
+complète, qu'elle est conforme à la définition de biens admissibles y 
+mentionnée, que les biens offerts au Canada vont correspondre à cette 
+déclaration et que la proportion de biens admissibles offerts rend la 
+soumission admissible au group prioritaire 1, selon la directive 3005 du 
+Guide de la politique des approvisionnements du MAS.
+
+Le Soumissionnaire reconnaît que le Ministre s'appuie sur la présente 
+déclaration et attestation pour évaluer les soumissions et adjuger tout 
+contrat pouvant découler de la présente soumission.  La présente 
+déclaration et attestation peut être vérifiée de la manière que le Ministre 
+peut raisonnablement exiger.
+
+Si la vérification du Ministre révèle un manquement à  l'engagement, le 
+Ministre peut considérer que tout contrat découlant de la présente 
+soumission est en défaut.
+
+L'omission de joindre une Déclaration des biens admissibles à la soumission 
+rend la soumission irrecevable. 
+
+
+</pre>
+</div>

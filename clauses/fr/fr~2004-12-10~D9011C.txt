@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats, en conjonction avec la clause 
+A0301T, Pièces de rechange d'avion militaire - substituts et traçabilité.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>On doit pouvoir examiner les registres du fabricant constituant la preuve 
+d'origine de ces pièces, et l'entrepreneur doit conserver les registres et 
+les mettre à jour pendant trois (3) ans suivant la livraison des dernières 
+pièces en vertu du présent contrat.  Ces registres doivent comprendre :
+
+a)     des renseignements suffisants pour permettre de repérer les pièces 
+       selon le type, la classe, le style, la catégorie (dont le numéro de 
+       série ou de lot), le numéro de modèle, l'origine, ainsi que la date 
+       et le lieu de fabrication, selon le cas;
+
+b)     le nom et la description (ou une autre désignation claire), ainsi 
+       que le numéro de la spécification, du dessin, du processus et des 
+       exigences relatives à l'inspection, selon le cas;
+
+c)     des registres pour l'ensemble des inspections et des essais 
+       effectués, y compris ceux qui ont été exécutés au nom du fabricant 
+       ou de l'entrepreneur;
+
+d)     des copies de tous les certificats de conformité ou d'application 
+       délivrés par le fabricant;
+
+e)     toutes les autres données techniques pertinentes.
+
+
+</pre>
+</div>

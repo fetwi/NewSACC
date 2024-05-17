@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause lorsque les numéros de nomenclature de l'OTAN (NNO) ne 
+sont pas disponibles dans les cas où on lance une demande d'achat original.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>À moins d'une autorisation délivrée par l'autorité contractante, 
+l'entrepreneur ne doit pas faire expédier d'articles qui ne portent pas de 
+numéro de nomenclature de l'OTAN (NNO).  Si on n'a pas fourni de NNO, 
+l'entrepreneur doit en demander un à l'autorité contractante soixante (60) 
+jours avant la date d'expédition prévue au calendrier.  Cette demande doit 
+notamment porter sur les documents techniques à fournir pour permettre le 
+catalogage et l'affectation du NNO.
+
+
+</pre>
+</div>

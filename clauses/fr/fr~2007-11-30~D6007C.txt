@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats de radoub, de réparation et de 
+conversion de navires, s'il y a lieu.
+
+Utiliser cette clause en conjonction avec
+ 
+  D6007T
+ 
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><p>Les travaux doivent débuter et prendre fin comme
+suit :</p>
+<p>Début : <span class="input-required"><var>______</var>
+<kbd>(<i>insérer la date</i>)</kbd></span>;<br/>
+Fin : <span class="input-required"><var>_______</var>
+<kbd>(<i>insérer la date</i>)</kbd></span>.</p></li>
+<li value="2">L'entrepreneur confirme qu'il a suffisamment de
+matériel et de ressources humaines affectées ou
+disponibles et que la période de travail ci-dessus permettra
+de terminer les travaux prévus ainsi qu'une quantité
+raisonnable de travaux imprévus.</li>
+</ol>
+</div></pre>
+</div>

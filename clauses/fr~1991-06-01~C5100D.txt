@@ -1,9 +1,0 @@
-<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
-<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
- Pas de remarques.
-</section>
-<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les coûts du transport entre la résidence de l'employé temporaire et le 
-   lieu de travail ou les lieux du Fournisseur sont à la charge du 
-   Fournisseur et ne doivent pas faire partie des tarifs offerts. 
-</pre>
-</div>

@@ -1,0 +1,71 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive bid solicitations for multiple items 
+(line item) when competition is solely limited to Canadian goods and the 
+certification must be done on an item by item basis as defined in paragraph 3 
+(b) of clause A3050T.
+
+Contracting officers must select one of the options provided in the clause.
+
+Use clause A3053T for multiple items when the certification must be done on an 
+aggregate basis.
+
+Use this clause in conjunction with A3050T and A3060C.
+
+Follow these instructions only if the medium complexity (2T-MED1) or higher 
+complexity (2T-HIGH1) template is not used.  Contracting officers must consult 
+the procedures 2T-PROC1 to confirm they cannot use the template for the 
+requirement.
+
+1.	Insert one of the following options at the end of the clause :
+
+	Option 1:  use this paragraph when bidders must submit a completed 
+certification with their bid.
+
+"Failure to provide this certification completed with the bid will render the 
+bid non-responsive."
+
+	Option 2: use this paragraph when bidders should submit a completed 
+certification with their bid but if the certification is not submitted with the 
+bid, contracting officers will request the bidder to submit the certification 
+within a time frame.
+
+"Bidders should submit this certification completed with their bid.  If the 
+certification is not completed and submitted with the bid, the Contracting 
+Authority will so inform the Bidder and provide the Bidder with a time frame 
+within which to submit this completed certification.  Failure to comply with the 
+request of the Contracting Authority and submit the completed certification will 
+render the bid non-responsive."
+
+2.	Use this clause in conjunction with A3015T.
+
+Contracting officers must review the Canadian Content Policy (Supply Manual, 
+Chapter 5 and Annex 5.1) to establish if the requirement is subject to the 
+policy.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is limited to Canadian goods.
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers: </strong></span><span class="wsInlineRemark">Choose one of the following options</span>:
+
+       "Bidders must clearly identify beside each item listed in the bid 
+       solicitation document which items meet the definition of Canadian 
+       goods and complete the following certification." 
+
+<strong>       </strong><strong><em>OR</em></strong>
+
+       "Bidders must clearly identify below which items meet the definition 
+       of Canadian goods and complete the certification below."
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+       <span class="wsStyleUnderline">                                                                                                                                                            </span><span class="wsStyleUnderline"></span>
+
+The Bidder certifies that:
+
+       (     )       the item(s) offered and identified as Canadian goods 
+              are Canadian goods as defined in paragraph 1 of clause A3050T.
+
+
+
+</pre>
+</div>

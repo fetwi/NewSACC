@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Dès la livraison du navire à la Couronne, il faudra remplir un document 
+d'acceptation, formule DSS-MAS 1205, et le signer conformément aux 
+instructions de cette formule.
+
+Le document d'acceptation devra être rempli en cinq exemplaires et 
+distribué comme suit par le représentant local d'Approvisionnements et 
+Services Canada : 
+
+- l'original à l'Autorité contractante, 
+
+- une copie au Responsable de l'inspection, 
+
+- une copie au Responsable technique, 
+
+- une copie au Capitaine du navire, 
+
+- une copie à l'Entrepreneur.   
+</pre>
+</div>

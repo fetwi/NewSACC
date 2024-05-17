@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for the Department of National Defence (DND) when a system or equipment is newly introduced in the Canadian Forces Supply System, and when the corresponding technical publications for manuals are required in accordance with
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  specifications and standards.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   B4057C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Bidders must submit as part of their bid:</p>
+<ol type="a">
+<li value="1">a recommended list of publications for approval by the Technical Authority;</li>
+<li value="2">a price for any or all publications based on:
+<ol type="i">
+<li value="1">options 1 to 3 below for the bilingual publications and</li>
+<li value="2">options 1 or 2 below for the unilingual publications and for the right to translate or reproduce the unilingual publications.</li></ol>
+The price structure must be itemized in such a way as to clearly reflect the price differential between the different options and to clearly indicate what costs are directly attributable to the second official language requirement; and</li>
+<li value="3">delivery lead times required for the option(s) selected.</li>
+</ol>
+<h2>Bilingual Publications</h2>
+<h3>Option 1: Newly Written Manuals</h3>
+<p>All publications provided in both English and French, in one of the following formats: side-by-side, separate issues, separate
+joined, facing pages, or over and under. The selected format must be in full compliance with the latest issue of <cite>C-01-100-100/AG-006,
+Specification - Writing, Format and Production of Technical Publications</cite>.</p>
+<h3>Option 2: Existing Manuals</h3>
+<p>All publications provided as existing commercial or foreign government off-the-shelf manuals in both English and French, in side-by-side format. The format must be in full compliance with the latest issue of <cite>C-01-100-100/AG-005, Adoption of Commercial and Foreign Government Publications</cite>. When existing commercial publications are not available, Option 1 must apply.</p>
+<h3>Option 3: Alternate Format</h3>
+<p>All publications provided in the format approved by the Technical Authority, in both English and French. The format must be in full compliance with the latest issue of <cite>C-01-100-100/AG-005, Adoption of Commercial and Foreign Government Publications</cite>. This option requires the written approval of the Technical Authority before contract award.</p>
+<h2>Unilingual Publications</h2>
+<h3>Option 1: Newly Written Manuals</h3>
+<p>All publications provided in full compliance with the latest issue of <cite>C-01-100-100/AG-006, Specification - Writing, Format and
+Production of Technical Publications</cite>.</p>
+<h3>Option 2: Existing Manuals</h3>
+<p>All publications provided as existing commercial or foreign government off-the-shelf manuals must be in full compliance with the latest issue of <cite>C-01-100- 100/AG-005, Adoption of Commercial and Foreign Government Publications</cite>. When existing commercial publications are not available, Option 1 must apply.</p>
+<h3>Right to Translate and Reproduce</h3>
+<p>For publications provided as existing unilingual commercial manuals in full compliance with the latest issue of <cite>C-01-100-100/AG-005,Adoption of Commercial and Foreign Government Publications</cite>. Canada must be given the right to translate and reproduce, for government purposes, any or part of those publications. Bidders must submit a price to give that right to Canada.</p>
+</div></pre>
+</div>

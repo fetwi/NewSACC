@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Add the following clause where the contractor is to be given a royalty-free 
+licence to use intellectual property developed under the contract. Use only with 
+clause K3300D or K3301D. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada hereby grants to the Contractor a non-exclusive licence to exploit 
+   commercially the Foreground Intellectual Property, and to further 
+   develop the Foreground Intellectual Property for that purpose.  The said 
+   licence is fully paid and royalty-free.  The sale of a product or 
+   provision of a service incorporating or derived from the Foreground 
+   Intellectual Property shall not constitute a breach of subsection (6) of 
+   the Intellectual Property Rights clause referenced in this document.  
+</pre>
+</div>

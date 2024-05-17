@@ -1,0 +1,9 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le destinataire peut commander sur une Demande de livraison, formule 
+   DSS-MAS 10047, des lots minimums par mois par centre d'approvisionnement 
+   pendant la période allant du _____ au _____. 
+</pre>
+</div>

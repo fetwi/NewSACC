@@ -1,0 +1,152 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause only in Information Management/Information Technology 
+(IM/IT) contracts, because special authority was granted by Treasury Board to 
+allocate risk in accordance with this clause only for
+  <abbr title="Information Management/Information Technology">
+   IM/IT
+  </abbr>
+  contracts.
+Contracting officers must fill in the blank below using the amount from the 
+appropriate commodity grouping.
+ </p>
+<p>
+  Use this clause in conjunction with general conditions
+  
+   2030
+  
+  ,
+  
+   2035
+  
+  and
+  
+   2040
+  
+  .  Do 
+not use this clause with any of the other general conditions.
+ </p>
+<p>
+  For more information, contact Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@tpsgc-pwgsc.gc.ca
+  
+</p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">This section applies despite any other provision of
+the Contract and replaces the section of the general conditions
+entitled "Liability". Any reference in this section to damages
+caused by the Contractor also includes damages caused by its
+employees, as well as its subcontractors, agents, and
+representatives, and any of their employees. This section applies
+regardless of whether the claim is based in contract, tort, or
+another cause of action. The Contractor is not liable to Canada
+with respect to the performance of or failure to perform the
+Contract, except as described in this section and in any section of
+the Contract pre-establishing any liquidated damages. The
+Contractor is only liable for indirect, special or consequential
+damages to the extent described in this section, even if it has
+been made aware of the potential for those damages.</li>
+<li value="2">First Party Liability:
+<ol type="a">
+<li value="1">The Contractor is fully liable for all damages to
+Canada, including indirect, special or consequential damages,
+caused by the Contractor's performance or failure to perform the
+Contract that relate to:
+<ol type="i">
+<li value="1">any infringement of intellectual property rights to
+the extent the Contractor breaches the section of the general
+conditions entitled "Intellectual Property Infringement and
+Royalties";</li>
+<li value="2">physical injury, including death.</li>
+</ol>
+</li>
+<li value="2">The Contractor is liable for all direct damages
+caused by the Contractor's performance or failure to perform the
+Contract affecting real or tangible personal property owned,
+possessed, or occupied by Canada.</li>
+<li value="3">Each of the Parties is liable for all direct damages
+resulting from its breach of confidentiality under the Contract.
+Each of the Parties is also liable for all indirect, special or
+consequential damages in respect of its unauthorized disclosure of
+the other Party's trade secrets (or trade secrets of a third party
+provided by one Party to another under the Contract) relating to
+information technology.</li>
+<li value="4">The Contractor is liable for all direct damages
+relating to any encumbrance or claim relating to any portion of the
+Work for which Canada has made any payment. This does not apply to
+encumbrances or claims relating to intellectual property rights,
+which are addressed under (a) above.</li>
+<li value="5">The Contractor is also liable for any other direct
+damages to Canada caused by the Contractor's performance or failure
+to perform the Contract that relate to:
+<ol type="i">
+<li value="1">any breach of the warranty obligations under the
+Contract, up to the total amount paid by Canada (including Applicable Taxes) for the goods and services affected by the breach
+of warranty; and</li>
+<li value="2">any other direct damages, including all identifiable direct
+costs to Canada associated with re-procuring the Work from another
+party if the Contract is terminated either in whole or in part for
+default, up to an aggregate maximum for this subparagraph (ii) of
+the greater of <var>_____</var> times the total estimated cost
+(meaning the dollar amount shown on the first page of the Contract
+in the block titled "Total Estimated Cost" or shown on each
+call-up, purchase order or other document used to order goods or
+services under this instrument), or <span class="input-required">$<var>________</var> .
+<kbd>(<em><strong>Insert the amount from the appropriate commodity
+grouping</strong>.</em>)</kbd></span></li>
+</ol>
+<p>In any case, the total liability of the Contractor under
+paragraph (e) will not exceed the total estimated cost (as defined
+above) for the Contract or <span class="input-required">$<var>________</var> ,
+<kbd>(<em><strong>insert the dollar amount entered in subparagraph
+(ii</strong>)</em>)</kbd></span>, whichever is more.</p>
+</li>
+<li value="6">If Canada's records or data are harmed as a result of
+the Contractor's negligence or willful act, the Contractor's only
+liability is, at the Contractor's own expense, to restore Canada's
+records and data using the most recent back-up kept by Canada.
+Canada is responsible for maintaining an adequate back-up of its
+records and data.</li>
+</ol>
+</li>
+<li value="3">Third Party Claims:
+<ol type="a">
+<li value="1">Regardless of whether a third party makes its claim
+against Canada or the Contractor, each Party agrees that it is
+liable for any damages that it causes to any third party in
+connection with the Contract as set out in a settlement agreement
+or as finally determined by a court of competent jurisdiction,
+where the court determines that the Parties are jointly and
+severally liable or that one Party is solely and directly liable to
+the third party. The amount of the liability will be the amount set
+out in the settlement agreement or determined by the court to have
+been the Party's portion of the damages to the third party. No
+settlement agreement is binding on a Party unless its authorized
+representative has approved the agreement in writing.</li>
+<li value="2">If Canada is required, as a result of joint and
+several liability, to pay a third party in respect of damages
+caused by the Contractor, the Contractor must reimburse Canada by
+the amount finally determined by a court of competent jurisdiction
+to be the Contractor's portion of the damages to the third party.
+However, despite paragraph (a), with respect to special, indirect,
+and consequential damages of third parties covered by this section,
+the Contractor is only liable for reimbursing Canada for the
+Contractor's portion of those damages that Canada is required by a
+court to pay to a third party as a result of joint and several
+liability that relate to the infringement of a third party's
+intellectual property rights; physical injury of a third party,
+including death; damages affecting a third party's real or tangible
+personal property; liens or encumbrances on any portion of the
+Work; or breach of confidentiality.</li>
+<li value="3">The Parties are only liable to one another for
+damages to third parties to the extent described in this paragraph
+3.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

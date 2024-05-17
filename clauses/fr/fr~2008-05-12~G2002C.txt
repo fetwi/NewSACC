@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de services professionnels, par 
+exemple dans les domaines de la consultation, de la conception, de la formation, 
+de l'éducation, de la gestion, de l'architecture, de l'ingénierie, ou de la 
+recherche et du développement.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec la clause
+  
+   G2001C
+  
+  .
+ </p>
+<p>
+  Si les services fournis sont de nature médicale ou liés aux soins de santé, 
+utiliser la clause
+  
+   G2004C
+  
+  .
+ </p>
+<p>
+  Si la limite suggérée de 1 000 000 $ par accident ou incident est jugée 
+insuffisante, les agents de négociation des contrats doivent consulter les 
+Services consultatifs de gestion des risques de
+  <abbr title="Travaux publics et Services gouvernementaux Canada">
+   TPSGC
+  </abbr>
+  , à :
+  
+   NCR.RMIAS-SCGRA@tpsgc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire et maintenir pendant
+toute la durée du contrat une assurance responsabilité
+contre les erreurs et les omissions (également appelée
+assurance responsabilité civile professionnelle) d'un montant
+équivalant à celui habituellement fixé pour un
+contrat de cette nature; toutefois, la limite de
+responsabilité ne doit en aucun cas être inférieure
+à 1 000 000 $ par sinistre et suivant le total annuel, y
+compris les frais de défense.</li>
+<li value="2">S'il s'agit d'une police sur la base des
+réclamations, la couverture doit être valide pour une
+période minimale de douze (12) mois suivant la fin ou la
+résiliation du contrat.</li>
+<li value="3">L'avenant suivant doit être compris :
+<blockquote>Avis d'annulation : L'assureur s'efforcera de donner à
+l'autorité contractante un avis écrit de trente (30)
+jours en cas d'annulation de la police.</blockquote></li>
+</ol>
+</div></pre>
+</div>

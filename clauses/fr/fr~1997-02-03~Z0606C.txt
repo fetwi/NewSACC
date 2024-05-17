@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque le contrat américain stipule DFARS 
+252.246-7000. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour chaque expédition faite en vertu du présent contrat, la formule 
+       DD 250 «Material Inspection and Receiving Report», doit être 
+       préparée et distribuée en conformité avec le supplément à la 
+       «Defense Federal Acquisition Regulation, Appendix F» des États-Unis.<strong> 
+       Toute question relative à la préparation et la distribution de cette 
+       formule peut être adressée au représentant de l'assurance de la 
+       qualité assigné à l'usine de l'entrepreneur.</strong>
+
+2.     À titre d'attestation d'expédition, une (1) copie signée du document 
+       d'inspection doit être envoyée à : _____ (<strong>inscrire le nom de l'agent 
+       de négociation des contrats du ministère des Travaux publics et des 
+       Services gouvernementaux</strong>) et à la «Defense Contract Management 
+       Command Americas», 275, rue Bank, suite 200, Ottawa (Ontario) K1P 
+       6L4.
+
+</pre>
+</div>

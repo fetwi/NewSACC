@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats non concurrentiels, pour des 
+besoins d'une valeur de 50 000 $ ou plus, attribués aux universités, 
+institutions affiliées et collèges canadiens, lorsqu'une attestation des prix a 
+été obtenue.  (Pour de plus amples informations, veuillez consulter les 
+procédures 10.090 à 10.098 du Guide des approvisionnements.)
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'attestation de l'entrepreneur à l'effet que le prix proposé est fondé sur 
+les coûts calculés selon les procédures 10.090 à 10.098 
+(<strong class="wsStyleUnderline">http://www.tpsgc.gc.ca/acquisitions/text/sm/chapter10-f.html#
+researchuniversity</strong>) du Guide des approvisionnements de Travaux publics et 
+Services gouvernementaux Canada sur l'établissement des prix pour les 
+contrats de recherche et de développement passés avec les universités et 
+les collèges pourra faire l'objet d'une vérification.  La vérification 
+déterminera si le montant total demandé par l'entrepreneur sur un seul 
+contrat, lorsqu'un seul existe, ou sur une série de contrats négociés à 
+prix ferme, lorsque plus qu'un existe, est conforme aux procédures.
+
+Si la vérification démontre que l'attestation est erronée après que le 
+paiement ait été versé à l'entrepreneur, ce dernier doit, à la discrétion 
+du Canada, rembourser tout paiement en trop ou autoriser le Canada à 
+retenir le paiement en le déduisant de toute somme payable à l'entrepreneur 
+en vertu du contrat.
+
+Si la vérification démontre que l'attestation est erronée avant que le 
+   paiement ne soit effectué, l'entrepreneur convient que le Canada 
+   ajustera les factures en suspens, en fonction des résultats de la 
+   vérification.  En outre, il est entendu que si le contrat est toujours 
+   en vigueur au moment de la vérification, le prix sera réduit en fonction 
+   des résultats de la vérification.
+</pre>
+</div>

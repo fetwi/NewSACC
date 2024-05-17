@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1. Methods of delivery to conform to the Standards of the Canadian Gas 
+Association National Standard of Canada CAN 1-B49.2-M80 as amended to date.
+
+2. METERED TRUCKS
+
+       a. Delivery trucks must be equipped with meters capable of giving 
+       printed meter slips;
+
+       b. The Contractor is to provide printed meter slips for each 
+       delivery of petroleum products;
+
+       c. Meters will be measured in litres. 
+</pre>
+</div>

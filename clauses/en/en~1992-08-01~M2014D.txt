@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The pilot-in-command of the aircraft shall provide a safety briefing for 
+all passengers before flight. Said briefing is to be conducted in 
+accordance with the document titled "Safety Briefing" attached hereto and, 
+documented by the signature of the senior representative of the Charterer 
+boarding the aircraft. Such documentation shall be on a form similar to 
+that on the sheet attached following the title "Customer Safety Briefing 
+Confirmation".
+
+</pre>
+</div>

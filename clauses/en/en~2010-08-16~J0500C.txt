@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause to order the contractor to suspend all work under the 
+contract when the client has requested, in writing, a suspension of the work in 
+order to investigate Canada's alternatives and/or a review of the contract 
+status is required before deciding whether termination is appropriate and, if 
+so, the type and extent of termination.
+ </p>
+<p>
+  If general conditions
+  
+   2010A
+  
+  and
+  
+   2029
+  
+  have been used, the contracting officer must delete the first paragraph.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>This Stop Work Order is issued pursuant to Section
+<var>______</var>, Suspension of the Work, of general conditions
+<var>______</var>.</p>
+<p>The Contractor must stop immediately all work related to the
+Contract, including the Work of subcontractors, until further
+notice by the Contracting Authority. The Contractor must place no
+further orders and incur no further expense. The Contractor must
+also provide the Contracting Authority with current detailed
+contract status information.</p>
+</div></pre>
+</div>

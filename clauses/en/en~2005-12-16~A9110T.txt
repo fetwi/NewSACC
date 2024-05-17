@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when the procurement is being set aside under the Land 
+Claims Set-Aside Policy.  Ensure that the applicable trade agreement(s) is 
+identified in the clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is set aside pursuant to ______ [<strong><em>Insert applicable 
+agreement(s)</em></strong>]: 
+
+       <em>the North American Free Trade Agreement (NAFTA), Annex 1001.2b, 
+       Article 1(d); </em><em></em>
+
+<em>       the World Trade Organization Agreement on Government Procurement 
+       (WTO-AGP), Appendix I, article 1(d); and/or</em><em></em>
+
+<em>       the Agreement on Internal Trade (AIT), Article 1802.</em>
+
+
+</pre>
+</div>

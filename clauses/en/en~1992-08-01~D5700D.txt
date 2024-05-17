@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause whenever installation activity is to be verified on 
+site by the Director General Quality  Assurance. Include release document clause 
+D5701C in the Contract.                 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All installation work shall be subject to Government Quality Assurance (GQA).  
+The Quality Assurance Authority for all work provided under this Contract 
+is the Director General Quality Assurance, Department of National Defence, 
+MGen George R. Pearkes Building, Ottawa, Ontario.  K1A 0K2, or his 
+delegated representative.  At least 30 days prior to the commencement of 
+work at the installation, the Contractor shall make arrangements for 
+on-site GQA with the Director, Quality Assurance Operations, Site 
+Installation Supervisor, (613) 996-4625.
+
+The Design Change, Deviation and Waiver Procedure as defined in National 
+Defence Standard D-02-006-008/SG-001 shall apply to this Contract.                                               
+
+All work performed by the Contractor at the installation site  shall be 
+controlled and inspected in compliance with the requirements of AQAP-4, 
+NATO Inspection System Requirements for Industry.
+
+Quality Control and Inspection records shall be retained by the Contractor 
+for a period of three (3) years from the date of completion or termination 
+of the Contract.
+
+The Contractor is responsible for delivery, installation and proving of the 
+equipment.  The equipment shall remain the responsibility of the Contractor 
+until accepted by an authorized DND representative.
+
+Proof of Government Quality Assurance is required in the form of properly 
+completed release documents.  Such proof is required by DND prior to 
+payment of invoices.
+
+On completion of the installation, form CF 1280, Certificate of Inspection 
+and Release, shall be prepared by the Contractor listing the contract items 
+and, when properly completed and signed by the Department of National 
+Defence Quality Assurance Representative (QAR), be distributed as directed 
+in the Contract.
+
+
+</pre>
+</div>

@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour résilier le contrat en partie pour des raisons 
+de commodité lorsqu'on s'attend à une réclamation de la part de l'entrepreneur.
+
+Utiliser l'option 1 lorsque seules les conditions générales s'appliquent au 
+contrat.
+Utiliser l'option 2 lorsque les conditions générales supplémentaires 4001 ou 
+4005 s'appliquent au contrat.
+
+Les agents de négociation des contrats doivent consulter les Services juridiques 
+avant d'émettre un avis de résiliation partielle pour des raisons de commodité.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent avis donne suite à l'Ordre d'arrêt des travaux en date du _____ 
+(<span class="wsInlineRemark"><strong>supprimer ce paragraphe si un Ordre d'arrêt des travaux n'a pas été envoyé 
+par l'autorité contractante</strong></span>).
+
+<strong>Option 1</strong>
+Conformément au droit absolu du Canada de résilier le contrat en partie 
+pour des raisons de commodité, l'autorité contractante avise l'entrepreneur 
+que la partie suivante du contrat est résiliée en vertu de l'article _____, 
+Résiliation pour raisons de commodité, des conditions générales _____.
+
+<strong>Option 2</strong>
+Conformément au droit absolu du Canada de résilier le contrat en partie 
+pour des raisons de commodité, l'autorité contractante avise l'entrepreneur 
+que la partie suivante du contrat est résiliée en vertu de l'article _____, 
+Résiliation pour raisons de commodité, des conditions générales 
+supplémentaires _____.
+
+(<span class="wsInlineRemark"><strong>Décrire la partie du contrat qui est résiliée</strong></span>).
+
+
+L'entrepreneur doit poursuivre les autres travaux conformément aux 
+conditions du contrat.
+
+L'entrepreneur est prié de soumettre à l'autorité contractante, pour examen, 
+toute réclamation que l'entrepreneur pourrait avoir suite à cette 
+résiliation.  La réclamation doit être présentée sur les formulaires 
+ministériels de réclamation pour résiliation, lesquels peuvent être obtenus 
+en soumettant une demande par écrit à l'autorité contractante.  Les 
+réclamations pour résiliation devraient être préparées et présentées le 
+plus rapidement possible.  Les coûts admissible sont prévus dans la clause 
+ci-haut mentionnée.  La procédure de résiliation est décrite dans le <em>Manuel 
+de procédures sur la résiliation des contrats</em> qui sera fourni par 
+l'autorité contractante.  La réclamation et toute correspondance connexe 
+doivent être adressées à l'autorité contractante.
+
+
+
+</pre>
+</div>

@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in professional services contracts, for example: 
+consulting, design, training, educational, management, architectural, 
+engineering, research &amp; development.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   G2001C
+  
+  .
+ </p>
+<p>
+  If the professional services are medical in nature or related to healthcare, use 
+clause
+  
+   G2004C
+  
+  .
+ </p>
+<p>
+  Contracting officers must consult
+  <abbr title="Public Works and Government Services Canada">
+   PWGSC
+  </abbr>
+  Risk Management Advisory Services, at:
+  
+   NCR.RMIAS-SCGRA@pwgsc.gc.ca
+  
+  if the suggested limit of $1,000,000 per accident or occurrence is not considered adequate as alternate limits may be established.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must obtain Errors and Omissions
+Liability (a.k.a. Professional Liability) insurance, and maintain
+it in force throughout the duration of the Contract, in an amount
+usual for a contract of this nature but for not less than
+$1,000,000 per loss and in the annual aggregate, inclusive of
+defence costs.</li>
+<li value="2">If the policy is written on a claims-made basis,
+coverage must be in place for a period of at least 12 months after
+the completion or termination of the Contract.</li>
+<li value="3">The following endorsement must be included:
+<blockquote>Notice of Cancellation: The Insurer will endeavour to provide
+the Contracting Authority thirty (30) days written notice of
+cancellation.</blockquote></li>
+</ol>
+</div></pre>
+</div>

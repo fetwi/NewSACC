@@ -1,0 +1,91 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in solicitations that are subject to the Nunavut Directive.
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on the implementation of the
+  
+   Nunavut Directive
+  
+  in procurements, please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report,
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation), please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions Manual">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><p>This procurement is subject to the Directive on Government Contracts, Including Real Property Leases, in the Nunavut Settlement Area (the Nunavut Directive).</p> <p>The Nunavut Directive has the following objectives:</p> <ol type="a">
+<li>Increased participation by Inuit firms in business opportunities in the Nunavut Settlement Area economy;</li>
+<li>Improved capacity of Inuit firms to compete for government contracts and real property leases in the Nunavut Settlement Area; and</li>
+<li>Employment of Inuit at a representative level in the Nunavut Settlement Area workforce.</li>
+</ol></pre>
+</div>

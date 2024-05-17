@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour lesquels l'avis initial 
+d'attribution du contrat a été transmis par courriel, par télécopieur ou par 
+téléphone.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur a été avisé de l'attribution du
+contrat par <span class="input-required"><var>_______</var> <kbd>(<em><strong>insérer
+« courriel », « télécopieur » ou « téléphone », selon le cas</strong></em>)</kbd></span> en date du <var>_____</var>. Il ne
+doit pas y avoir dédoublement des travaux décrits dans l'avis envoyé, le cas échéant.</p>
+</div></pre>
+</div>

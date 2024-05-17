@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for "as-and-when requested" on-site maintenance of 
+Canada-owned equipment.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall perform on-site maintenance and related 
+       services with respect to Canada-owned equipment and components 
+       located at _____ sites, as identified in Appendix "_____" attached 
+       hereto.  The work shall be performed on an AS-AND-WHEN REQUESTED 
+       basis in accordance with the Statement of Work attached hereto as 
+       Appendix "_____."
+
+2.     This Contract shall not oblige Canada or the Maintenance Coordinator 
+   to authorize or order all or any of the services specified, or to spend 
+   the total estimated cost or any part thereof.  Canada's liability under 
+   this Contract shall be limited to that which arises from Work Requests 
+   issued by the Maintenance Coordinator, against this Contract, made 
+   within the period specified herein.
+</pre>
+</div>

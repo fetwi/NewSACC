@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le tapis mentionné aux présentes doit respecter les exigences de résistance 
+   au feu contenues dans la norme 4-GP-129 de l'ONGC. Comme preuve à 
+   l'appui, une attestation d'un laboratoire public, qualifié et autonome 
+   doit être présentée avec la soumission. 
+</pre>
+</div>

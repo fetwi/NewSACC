@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when contractors must obtain shipping instructions for 
+ammunition.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     At or prior to ammunition deliverable end items becoming available 
+       for shipment, the Contractor shall request shipping instructions 
+       from National Defence Quality Assurance Representative and provide 
+       the following information:
+
+       (a)    Work Order Number;
+       (b)    NATO Stock Number and Description; and
+       (c)    recommended method of shipment.
+
+2.     The Contractor shall not ship any ammunition deliverable end items 
+       until instructions are received from:
+
+       NDQAR TA TORONTO
+       ATTENTION: Canadian Forces Quality Assurance
+       4900 Yonge Street
+       Toronto, Ontario
+       Canada    M2M 6B7
+
+       Telephone:    1-877-447-7701 (TOLL FREE),<strong><strong><strong> OR
+</strong></strong></strong>                     (416) 635-4405, ext. 6101/ 6102 / 6103 / 6104
+
+       Facsimile:    (416) 635-2757 / 2758,<strong><strong><strong> OR
+</strong></strong></strong>                     1-877-877-7409 (TOLL FREE).
+
+</pre>
+</div>

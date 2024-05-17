@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tout le bois d'oeuvre fourni doit être estampillé de façon à indiquer la 
+classe et l'essence du bois, ainsi que le nom de l'agence qui est autorisée 
+par le Conseil d'accréditation de la Commission canadienne de normalisation 
+du bois d'oeuvre (CLSAB) à effectuer la classification du bois d'oeuvre au 
+Canada.
+
+
+</pre>
+</div>

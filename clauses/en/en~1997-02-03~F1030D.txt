@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when:
+
+1.	The contractual demand is for COURIER SERVICES at the DESIGNATED level;
+
+2.	ENHANCED RELIABILITY screening is required (Block No. 12);
+
+3. 	level of DESIGNATED information or assets to be transported is identified in 
+Block No. 11;
+
+4.	courier company MAY NOT SAFEGUARD MATERIAL OVERNIGHT (Block No. 13).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall, at all times during the performance of the 
+       Contract, hold a valid Facility Security Clearance at the level of 
+       ENHANCED RELIABILITY, issued by the Industrial Security Division 
+       (ISD) of the Department of Public Works and Government Services.
+
+2.     Contractor personnel who require access to PROTECTED information, 
+       assets or sensitive work sites shall EACH hold a valid ENHANCED 
+       RELIABILITY screening granted by ISD.
+
+3.     The Contractor may remove DESIGNATED information or assets from the 
+       work site(s) as required by this Contract, but is NOT AUTHORIZED TO 
+       SAFEGUARD MATERIAL OVERNIGHT. The Contractor shall ensure that its 
+       personnel are made aware of and comply with this restriction.
+
+4.     The Contractor shall comply with the provisions of the:
+
+       (a)    Security Requirements Check List, attached at Annex ____;
+       (b)    Industrial Security Manual (June 1992).
+
+
+</pre>
+</div>

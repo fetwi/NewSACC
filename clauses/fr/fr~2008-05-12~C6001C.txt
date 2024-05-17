@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats à coûts remboursables avec 
+une limitation des dépenses.
+
+Ne pas utiliser cette clause dans les contrats à prix ferme ou à prix plafond.
+
+Utiliser cette clause en conjonction avec C0206C.  Lorsque les contrats 
+comprennent deux types de base de paiement, (par ex., à prix ferme et à coûts 
+remboursables avec une limitation des dépenses), les agents de négociation des 
+contrats doivent insérer le montant dans l'espace ci-dessous tel qu'indiqué dans 
+la partie de la base de paiement comprend une limitation des dépenses.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     La responsabilité totale du Canada envers l'entrepreneur en vertu du 
+       contrat ne doit pas dépasser la somme de _____ $.  Les droits de 
+       douane ____ (<span class="wsInlineRemark"><strong>insérer</strong></span><em> </em>« sont inclus », « sont exclus » <span class="wsInlineRemark"><strong>ou</strong></span> « font 
+       l'objet d'une exemption ») et la taxe sur les produits et services 
+       ou la taxe de vente harmonisée est en sus, s'il y a lieu.
+
+2.     Aucune augmentation de la responsabilité totale du Canada ou du prix 
+       des travaux découlant de tout changement de conception, de toute 
+       modification ou interprétation des travaux, ne sera autorisée ou 
+       payée à l'entrepreneur, à moins que ces changements de conception, 
+       modifications ou interprétations n'aient été approuvés, par écrit, 
+       par l'autorité contractante avant d'être intégrés aux travaux.  
+       L'entrepreneur n'est pas tenu d'exécuter des travaux ou de fournir 
+       des services qui entraîneraient une augmentation de la 
+       responsabilité totale du Canada à moins que l'augmentation n'ait été 
+       autorisée par écrit par l'autorité contractante.  L'entrepreneur 
+       doit informer, par écrit, l'autorité contractante concernant la 
+       suffisance de cette somme :
+
+       a)     lorsque 75 p. 100 de la somme est engagée, ou
+
+       b)     quatre (4) mois avant la date d'expiration du contrat, ou
+
+       c)     dès que l'entrepreneur juge que les fonds du contrat sont 
+              insuffisants pour l'achèvement des travaux,
+
+       selon la première de ces conditions à se présenter.
+
+3.     Lorsqu'il informe l'autorité contractante que les fonds du contrat 
+       sont insuffisants, l'entrepreneur doit lui fournir par écrit une 
+       estimation des fonds additionnels requis.  La présentation de cette 
+       information par l'entrepreneur n'augmente pas la responsabilité du 
+       Canada à son égard.
+
+
+
+</pre>
+</div>

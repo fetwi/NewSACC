@@ -1,0 +1,153 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when electrical equipment purchased for use within 
+Canada should be certified by the CSA or the appropriate provincial inspection 
+authority. Delete the addresses of the inspection/approval authority which do 
+not apply.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All electrical equipment supplied under the Contract must be certified by 
+the Canadian Standards Association in accordance with the requirements of 
+the Canadian Electrical Code, Part 1, or approved for use by: 
+
+<strong>PROVINCE                    ADDRESS </strong>
+
+Newfoundland                Chief Electrical Inspector 
+and Labrador                Electrical Inspection 
+                            Department of Employment and Labour Relations 
+                            Confederation Building 
+                            St. John's, Newfoundland 
+                            A1B 4J6 
+                            (709) 729-2497 
+
+Nova Scotia                 Chief Electrical Inspector 
+                            Office of the Fire Marshall
+                            Department of Labour 
+                            P.O. Box 697 
+                            Halifax, Nova Scotia 
+                            B3J 2T8 (902) 424-5721 
+
+New Brunswick               Electrical Inspector 
+                            Technical Inspection Services 
+                            Department of Advanced Education and  Labour 
+                            470 York Street 
+                            P.O. Box 6000 
+                            Fredericton, New Brunswick 
+                            E3B 5H1 
+                            (506) 453-2740 
+
+Prince Edward               Director 
+Island                      Provincial Affairs and Attorney General 
+                            11 Kent Street 
+                            Charlottetown, P.E.I. 
+                            C1A 7N8 
+                            (902) 368-5590 
+
+Québec               Director General 
+                            Operations Directorate 
+                            Department of Labour 
+                            800 Place d'Youville 
+                            16th Floor 
+                            Québec, Québec 
+                            G1R 5S3 
+                            (418) 643-2036 
+                            FAX: (418) 643-8227
+
+Ontario                            Chief Electrical Inspector 
+                            Ontario Hydro 
+                            700 University Avenue 
+                            Toronto, Ontario 
+                            M5G 1X6 
+                            (416) 592-5111 
+
+ 
+Manitoba                    Supervisor of Inspectors
+                            Manitoba Labour
+                            Room 500
+                            501 York Avenue
+                            Winnipeg, Manitoba 
+                            R3C 0P8 
+                            (204) 954-3378
+
+Saskatchewan                Chief Inspector 
+                            Electrical Inspection Branch 
+                            Saskatchewan Power Corporation 
+                            2025 Victoria Ave. 
+                            Regina, Saskatchewan 
+                            S4P 0S1 
+                            (306) 566-2500 
+
+Alberta                            Chief Electrical Inspector 
+                            Alberta Labour Client Services  
+                            Safety Standards 
+                            10808 - 99th Avenue 
+                            Room 808 
+                            Edmonton, Alberta 
+                            T5K 0G5 
+                            (403) 427-8260 
+
+British                            Chief Inspector of 
+Columbia                    Electrical Energy 
+                            Safety Engineering Services Division 
+                            Electrical Safety Branch 
+                            Ministry of Municipal Affairs, Recreation and 
+Housing 
+                            750 Pacific Blvd.
+                            Vancouver, B.C. 
+                            V6B 5E7 
+                            (604) 660-6262 
+
+Yukon                       Chief Electrical Inspector 
+Territory                   Government of the Yukon
+                            Public Safety Branch 
+                            P.O. Box 2703 
+                            Whitehorse, Yukon Territory 
+                            Y1A 2C6 
+                            (403) 667-5741 
+
+Northwest                   Head, Electrical Section 
+Territories                 Safety Division 
+                            Department of Safety and Public Services 
+                            Government of the Northwest Territories 
+                            P.O. Box 1320 
+                            Yellowknife, N.W.T. 
+                            X1A 2L9 
+                            (403) 873-7473 
+ 
+City of                            Chief Electrical Inspector
+St. John's                  Department of Building and Development
+                            City of St. John's
+                            PO Box 908
+                            St. John's, Newfoundland
+                            A1C 5M2
+                            (709) 576-8368
+                            FAX: (709) 576-8160
+
+City of                            Chief Electrical Inspector 
+Halifax                            Development and Planning Dept. 
+                            City of Halifax 
+                            Duke Street Tower 
+                            Scotia Square 
+                            P.O. Box 1749 
+                            Halifax, Nova Scotia 
+                            B3J 3A5 
+                            (902) 421-8539 
+
+City of                            Chief Electrical Inspector 
+Winnipeg                    The City of Winnipeg 
+                            Building Trades Inspection Branch
+                            7th Floor, 395 Main Street 
+                            Winnipeg, Manitoba 
+                            R3B 3E1 
+                            (204) 986-5194
+
+City of                            Chief Electrical Inspector 
+Vancouver                   Corporation of the City of Vancouver 
+                            City Hall - East Wing 
+                            453 West 12th Avenue 
+                            Vancouver, B.C. 
+                            V5Y 3P9 
+                            (604) 873-7601 
+
+</pre>
+</div>

@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La période pour placer des commandes sur l'offre permanente sera du _____ 
+   au _____. Le fournisseur peut cependant offrir de fournir les services 
+   pour une année additionnelle. Dans le cas ou le MAS prévoyait qu'il 
+   pourrait, y avoir des besoins pour la période de _____ au _____ il 
+   pourrait autoriser les usagers à utiliser l'offre permanente pour une 
+   année additionnelle aux taux indiqués dans la présente.  
+</pre>
+</div>

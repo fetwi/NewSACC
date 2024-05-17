@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all Science contracts when the Contractor will 
+conduct some of the work on government-owned or controlled property.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor undertakes and agrees to comply with all standing orders or 
+   other regulations in force on the site where the Work is to be performed, 
+   relating to the safety of persons on the site or the protection of 
+   property against loss or damage from any and all causes, including fire.
+</pre>
+</div>

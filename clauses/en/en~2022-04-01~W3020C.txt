@@ -1,0 +1,91 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in contracts that are subject to the Nunavut Directive.
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on the implementation of Inuit and Nunavut benefits in procurements subject to the
+  
+   Nunavut Directive
+  
+  , please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates, please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><ol>
+<li>The Contractor must submit invoices in accordance with the section entitled "Invoice Submission" of the general conditions along with a completed and up-to-date Inuit Benefits Plan (IBP) Progress Report as described in Annex “___” (<abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report) of the Contract and the <span class="input-required">
+<var>________</var> <kbd>(<cite>insert "monthly"</cite> <strong><cite>or</cite></strong> <cite>"bi-monthly"</cite> <strong><cite>or</cite></strong> <cite>"quarterly"</cite>)</kbd></span> maintenance report described in <span class="input-required">
+<var>________</var> <kbd>(<cite>insert "the Statement of Work"</cite> <strong><cite>or</cite></strong> <cite>"article</cite> ____<cite>"</cite>)</kbd></span> of the Contract.
+        <p>Invoices cannot be submitted until all work identified in the invoice has been completed and that all maintenance service call reports related to the Work identified in the invoice have been received by the Project Authority.</p>
+</li>
+<li>The Contractor must distribute the invoices and reports as follows:
+        <p>The original and two (2) copies of the invoices, up-to-date <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report and <span class="input-required"><var>________</var> <kbd>(<cite>insert "monthly"</cite> <strong><cite>or</cite></strong> <cite>"bi-monthly"</cite> <strong><cite>or</cite></strong> <cite>"quarterly"</cite>)</kbd></span> maintenance reports must be forwarded to the address shown on page 1 of the Contract for certification and payment.</p>
+<p><strong>Or</strong></p>
+<p>The original and two (2) copies of the invoices, up-to-date <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report and <span class="input-required"><var>________</var> <kbd>(<cite>insert "monthly"</cite> <strong><cite>or</cite></strong> <cite>"bi-monthly"</cite> <strong><cite>or</cite></strong> <cite>"quarterly"</cite>)</kbd></span> maintenance reports must be forwarded to the following address for certification and payment <span class="input-required"><var>________</var>. <kbd>(<cite>Contracting officers must insert the name and address of the organization</cite>)</kbd></span></p>
+<p>One (1) copy of the invoice, the up-to-date <abbr title="Inuit Benefits Plan">IBP</abbr> Progress Report and <span class="input-required"><var>________</var> <kbd>(<cite>insert "monthly"</cite> <strong><cite>or</cite></strong> <cite>"bi-monthly"</cite> <strong><cite>or</cite></strong> <cite>"quarterly"</cite>)</kbd></span> maintenance report must also be forwarded to the Contracting Authority identified under the section entitled "Authorities" of the Contract.</p>
+</li>
+</ol></pre>
+</div>

@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Inclure dans toutes les demandes de soumissions et tous les contrats passés au 
+nom de l'ACDI lorsque la livraison se fait par l'entremise d'un entrepreneur 
+chargé du triage. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Toutes les demandes de drawback qui proviennent du présent contrat seront 
+assujetties aux critères et procédures décrits dans les mémoranda des 
+douanes, D-7-3-5 intitulé «Règlement sur les drawbacks relatifs aux 
+marchandises importées et exportées» ou D-7-3-4 intitulé «Règlement sur les 
+drawbacks relatifs aux marchandises de fabrication canadienne exportées».  
+L'ACDI délivrera un «certificat» comme preuve d'exportation. Afin d'obtenir 
+un tel certificat, le fournisseur doit présenter une copie de la facture 
+pour laquelle un certificat est exigé, ainsi qu'une lettre explicative à la :
+
+                     Direction du contrôleur
+                     Vérification des comptes
+                     ACDI
+                     200, Promenade du Portage
+                     Hull (Québec)
+                     K1A 0G4
+
+L'ACDI doit vérifier si la copie de la facture est conforme à la facture 
+   originale pour les biens de projet qui sont destinés à l'exportation, 
+   estampiller et signer la copie de la facture, et la retourner au 
+   fournisseur. 
+</pre>
+</div>

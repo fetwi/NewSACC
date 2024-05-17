@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     On demande que les propositions soumises en réponse à la présente 
+       demande de propositions 
+       (DP) :
+
+       a)     soient valides sous tous rapports, y compris le prix, pendant 
+              cent vingt (120) jours à compter de la date de clôture de la 
+              DP;
+
+       b)     soient signées par un représentant autorisé du 
+              soumissionnaire, dans l'espace réservé à cet effet sur la DP;
+
+       c)     contiennent le nom et le numéro de téléphone d'un 
+              représentant avec lequel il est possible de communiquer pour 
+              obtenir des précisions ou traiter d'autres questions 
+              concernant la soumission.
+
+</pre>
+</div>

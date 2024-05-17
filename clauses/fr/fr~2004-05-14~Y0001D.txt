@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans tous les contrats et demandes de soumissions 
+passés au nom de l'Agence canadienne de développement international avec des 
+fournisseurs commerciaux quand Travaux publics et Services gouvernementaux 
+Canada (TPSGC) est chargé des préparatifs de transport.  La Direction du 
+transport, produits logistiques, électriques et pétroliers,
+ <abbr title="Travaux publics et Services gouvernementaux Canada">
+  TPSGC
+ </abbr>
+ , se chargera 
+d'obtenir le permis d'exportation (ne s'applique pas aux achats de denrées 
+alimentaires).
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Travaux publics et Services gouvernementaux Canada doit obtenir
+le(s) permis d'exportation requis. Toute question doit être
+adressée à la :</p>
+<p>Direction du transport, produits logistiques, électriques
+et pétroliers</p>
+<p>Travaux publics et Services gouvernementaux Canada</p>
+<p>11, rue Laurier</p>
+<p>Place du Portage, Phase III</p>
+<p>Gatineau (Québec) K1A 0S5.</p>
+</div></pre>
+</div>

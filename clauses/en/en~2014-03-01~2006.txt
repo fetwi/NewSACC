@@ -1,0 +1,493 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>General Information</p>
+<p>01 Integrity Provisions - Offer</p>
+<p>02 Procurement Business Number</p>
+<p>03 Standard Instructions, Clauses and
+Conditions</p>
+<p>04 Definition of Offeror</p>
+<p>05 Submission of Offers</p>
+<p>06 Late Offers</p>
+<p>07 Delayed Offers</p>
+<p>08 Transmission by Facsimile</p>
+<p>09 Customs Clearance</p>
+<p>10 Legal Capacity</p>
+<p>11 Rights of Canada</p>
+<p>12 Rejection of Offer</p>
+<p>13 Communications - Solicitation Period</p>
+<p>14 Price Justification</p>
+<p>15 Offer Costs</p>
+<p>16 Conduct of Evaluation</p>
+<p>17 Joint Venture</p>
+<p>18 Conflict of Interest - Unfair Advantage</p>
+<p>19 Entire Requirement</p>
+<p>20 Further Information</p>
+<h2>General Information</h2>
+<p>One method of supply used by Public Works and Government
+Services Canada (PWGSC) to satisfy the requirements of departments
+and agencies is to arrange with suppliers to submit a standing
+offer to provide goods, services or both during a specified period.
+Specific departments and agencies are then authorized by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to
+make call-ups against the standing offer detailing the exact
+quantities of goods or level of services they wish to order at a
+particular time, during the effective period of the standing offer
+in accordance with the predetermined conditions.</p>
+<p>The process normally starts with a Request for Standing Offers
+(RFSO) that suppliers may obtain through the Government Electronic
+Tendering Service (GETS). A <abbr title="Request for Standing Offer">RFSO</abbr> is an invitation to suppliers to
+provide <abbr title="Public Works and Government Services Canada">PWGSC</abbr> with a standing offer. The quantity of goods, level
+of services and estimated expenditure specified in the <abbr title="Request for Standing Offer">RFSO</abbr> are
+only an approximation of requirements given in good faith. A <abbr title="Request for Standing Offer">RFSO</abbr>
+does not commit <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to authorize the utilization of a standing
+offer or to procure or contract for any goods, services or both. A
+standing offer is not a contract. The issuance by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> of a
+Standing Offer and Call-up Authority to successful suppliers and to
+departments and agencies authorized to make call-ups does not
+constitute an agreement by Canada to order any or all of the goods,
+services or both offered. Departments and agencies may make one or
+several call-ups against a standing offer.</p>
+<h2>01 (2014-03-01) Integrity Provisions - Offer  </h2>
+<ol type="1">
+<li>	Offerors must comply with the <cite>Code of Conduct for Procurement</cite>. In addition, offerors must respond to Requests for Standing Offers (RFSO) in an honest, fair and comprehensive manner, accurately reflect their capacity to satisfy the requirements stipulated in the <abbr title="Request for Standing Offer">RFSO</abbr>, Standing Offer (SO) and any resulting contracts, and submit offers as well as enter into contracts only if they will fulfill all obligations of the Contract.</li>
+<li value="2">	By submitting an offer, offerors confirm that they understand that, to ensure fairness, openness and transparency in the procurement process, the commission of certain acts or offences will render them ineligible to be issued a Standing Offer and awarded a contract. Canada will declare non-responsive any offer in respect of which the information requested is missing or inaccurate, or in respect of which the information contained in the certifications is found by Canada to be untrue in any respect, at the time of issuance of the Standing Offer (SO). If it is determined, after issuance of the <abbr title="Standing Offer">SO</abbr>, that the Offeror made a false declaration, Canada will, following a notice period, have the right to set aside the <abbr title="Standing Offer">SO</abbr> and to terminate for default any resulting contracts. The Offeror will be required to diligently maintain up-to-date the information requested. The Offeror and any of the Offeror's Affiliates, will also be required to remain free and clear of any acts or convictions specified in these Integrity Provisions during the period of any <abbr title="Standing Offer">SO</abbr> arising from this <abbr title="Request for Standing Offer">RFSO</abbr> and any resulting call-ups.</li>
+<li value="3"><dfn>Affiliates</dfn><br/>
+For the purpose of these Integrity Provisions, everyone, including but not limited to organizations, bodies corporate, societies, companies, firms, partnerships, associations of persons, parent companies and subsidiaries, whether partly or wholly-owned, as well as individuals and directors, are Offeror's Affiliates if:  <br/>
+<ol type="a">
+<li value="1">	directly or indirectly either one controls or has the power to control the other, or</li>
+<li value="2">a third party has the power to control both.</li>
+</ol>
+
+Indicia of control, include, but are not limited to, interlocking management or ownership, identity of interests among family members, shared facilities and equipment, common use of employees, or a business entity created following the acts or convictions specified in these Integrity Provisions which has the same or similar management, ownership, or principal employees, as the case may be.  </li>
+<li value="4">	Offerors who are incorporated, including those submitting offers as a joint venture, must provide a complete list of names of all individuals who are currently directors of the Offeror. Offerors submitting offers as sole proprietorship, including those submitting offers as a joint venture, must provide the name of the owner. Offerors submitting offers as societies, firms, or partnerships do not need to provide lists of names. <br/>
+
+If the required names have not been received by the time the evaluation of offers is completed, Canada will inform the Offeror of a time frame within which to provide the information. Failure to provide the names within the time frame specified will render the offer non-responsive. Providing the required names is a mandatory requirement for a Standing Offer to be issued. <br/>
+
+Canada may, at any time, request that the Offeror provide properly completed and signed consent forms (Consent to a Criminal Record Verification form - PWGSC-TPSGC 229) for any or all individuals mentioned above within a specified time frame. Failure to provide such consent forms and associated information within the time frame provided, or failure to cooperate to the verification process will result in the offer being declared non-responsive. 
+
+</li><li value="5">	The Offeror must diligently inform Canada in writing of any changes affecting the list of names of directors during this procurement process as well as during the period of any Standing Offer arising from this <abbr title="Request for Standing Offer">RFSO</abbr> and any resulting call-ups. The Offeror must also, when requested, provide Canada with properly completed and signed consent forms. </li>
+<li value="6">	By submitting an offer, the Offeror certifies that it is aware, and that its Affiliates are aware that Canada may request additional information, certifications, consent forms and other evidentiary elements proving identity or eligibility. Canada may also verify the information provided by the Offeror, including the information relating to the acts or convictions specified in these Integrity Provisions, through independent research, use of any government resources or by contacting third parties.</li>
+<li value="7">	By submitting an offer, the Offeror certifies that neither the Offeror nor any of the Offeror's Affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Standing Offer and any resulting call-ups if the payment of the fee would require the individual to file a return under section 5 of the <cite>Lobbying Act</cite>.</li>
+<li value="8"><dfn>Time Period</dfn><br/>
+The Time Period is 10 years and is measured from the date of the conviction or from the date of the conditional or absolute discharge.<br/>
+
+In addition, for a conviction under paragraphs a. or b. of subsection 9, following the 10-year period, a pardon or a record suspension must have been obtained, or capacities must have been restored by the Governor in Council.  The Offeror must therefore provide with its offer or promptly afterwards a copy of confirming documentation from an official source for its certification to be found true by Canada for the purpose of these Integrity Provisions.  If the documentation has not been received by the time the evaluation of offers is completed, Canada will inform the Offeror of a time frame within which to provide the information.  Failure to comply within the time frame specified will render the offer non-responsive. </li>
+<li value="9">	By submitting an offer, the Offeror certifies that neither the Offeror nor any of the Offeror's Affiliates have been convicted of an offence or received a conditional or an absolute discharge under any of the following provisions, unless the time period, as defined in the Time Period subsection, has elapsed:  
+
+<ol type="a">
+<li value="1">paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (<em>Fraud against Her Majesty</em>) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite>Financial Administration Act</cite>, or</li>
+<li value="2">section 121 (<em>Frauds on the government and Contractor subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>) of the <cite>Criminal Code</cite>, or</li>
+<li value="3">section 119 (<em>Bribery of judicial officers, etc</em>), section 120 (<em>Bribery of officers</em>), section 346 (<em>Extortion</em>), sections 366 to 368 (<em>Forgery and other offences resembling forgery</em>), section 382 (<em>Fraudulent manipulation of stock exchange transactions</em>), section 382.1 (<em>Prohibited insider trading</em>), section 397 (<em>Falsification of books and documents</em>), section 422 (<em>Criminal breach of contract</em>), section 426 (<em>Secret commissions</em>), section 462.31 (<em>Laundering proceeds of crime</em>) or sections 467.11 to 467.13 (<em>Participation in activities of criminal organization</em>) of the <cite>Criminal Code</cite>, or</li>
+<li value="4">section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), section 46 (<em>Foreign directives</em>), section 47 (<em>Bid rigging</em>), section 49 (<em>Agreements or arrangements of federal financial institutions</em>), section 52 (<em>False or misleading representation</em>), section 53 (<em>Deceptive notice of winning a prize</em>) of the <cite>Competition Act</cite>, or</li>
+<li value="5">section 239 (<em>False or deceptive statements</em>) of the <cite>Income Tax Act</cite>, or</li>
+<li value="6">section 327 (<em>False or deceptive statements</em>) of the <cite>Excise Tax Act</cite>, or</li>
+<li value="7">section 3 (<em>Bribing a foreign public official</em>), section 4 (<em>Accounting</em>), or section 5 (<em>Offence committed outside Canada</em>) of the Corruption of <cite>Corruption of Foreign Public Officials Act</cite>, or</li>
+<li value="8">section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite>Controlled Drugs and Substance Act</cite>.</li>
+</ol>
+
+The Offeror also certifies that no one convicted under any of the provisions under a. or b. are to receive any benefit under a Standing Offer arising from this Request for Standing Offers and any resulting call-ups, unless a pardon or a record suspension has been obtained or capacities restored by the Governor in Council, as defined in the Time Period subsection.
+
+</li><li value="10"><dfn>Foreign Offences</dfn><br/>
+The Offeror also certifies that, within a period, as defined in the Time Period subsection, neither the Offeror nor any of the Offeror's Affiliates have been convicted of or have received a conditional or an absolute discharge, under any foreign offence that Canada deems to be of similar constitutive elements to the offences listed in these Integrity Provisions.  Canada will also consider foreign measures declared by Canada to be similar in nature to the Canadian pardon, record suspension, or restoration of capacities by the Governor in Council.  
+</li>
+<li value="11"><dfn>Subcontractors</dfn><br/>
+The Offeror must ensure that subcontracts include Integrity Provisions no less favourable to Canada than those imposed in the resulting contract.</li>
+<li value="12"><dfn>Preventive Measures associated with the Time Period<br/>
+In cases where the period (as defined in the Time Period subsection), for a conviction, or a conditional or an absolute discharge of the Offeror or any of the Offeror's Affiliates has elapsed, then the Offeror must also certify for itself and for its Affiliates that measures have been diligently put in place in order to avoid the reoccurrence of such convictions or reprehensible actions. </dfn></li>
+<li value="13"><dfn>Public Interest Exception</dfn><br/>
+Offerors understand that Canada may issue a Standing Offer with an offeror where the Offeror or the Offeror's Affiliates have been convicted of or have received a conditional or an absolute discharge for an offence specified in these Integrity Provisions, when required to do so by law or legal proceedings, or when Canada in its sole discretion considers it necessary to the public interest for reasons which include, but are not limited to: 
+<ul>
+<li>no one else is capable of performing the contract;</li>
+<li>emergency;</li>
+<li>national security;</li>
+<li>health and safety;</li>
+<li>economic harm;</li>
+</ul>
+
+If all offers are found non-responsive for reason of a listed relevant conviction or act, then Canada may invoke the public interest exception, as described in the paragraph above.  In such cases, only offers containing a declaration concerning a relevant offence or act will be further considered.  Canada may also elect to procure outside of the present process.  In all cases, Canada reserves the right to impose additional conditions or measures to ensure the integrity of the procurement process.  
+
+</li><li value="14"><dfn>Non-application</dfn><br/>
+For governments, as well as entities controlled by a government, including Crown corporations, the present Integrity Provisions are reduced to complying with article 750 of the <cite>Criminal Code</cite>, the <cite>Government Contracts Regulations</cite> and the <cite>Code of Conduct for Procurement</cite>.</li>
+</ol>
+<h2>02 (2012-03-02)  Procurement Business Number</h2>
+<p>Suppliers are required to have a Procurement Business
+Number (PBN) before issuance of a standing offer. Suppliers may
+register for a <abbr title="Procurement Business Number">PBN</abbr> on line at Supplier Registration
+Information. For non-Internet registration, suppliers may
+contact the InfoLine at 1-800-811-1148 to obtain the telephone
+number of the nearest Supplier Registration Agent.</p>
+<h2>03 (2008-05-12)  Standard Instructions, Clauses and Conditions</h2>
+<p>Pursuant to the <cite>Department of Public
+Works and Government Services Act</cite> (<abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr>
+16), the
+instructions, clauses and conditions identified in the <abbr title="Request for Standing Offer">RFSO</abbr>
+,
+standing offer and resulting contract(s) by number, date and title
+are incorporated by reference into and form part of the <abbr title="Request for Standing Offer">RFSO</abbr>
+,
+standing offer and resulting contract(s) as though expressly set
+out in the <abbr title="Request for Standing Offer">RFSO</abbr>
+, the standing offer and the resulting
+contract(s).</p>
+<h2>04 (2008-12-12)  Definition of Offeror</h2>
+<p>"<dfn>Offeror</dfn>" means the person or entity (or, in the case
+of a joint venture, the persons or entities) submitting an offer to
+provide goods, services or both under a call-up resulting from a
+standing offer. It does not include the parent, subsidiaries or
+other affiliates of the Offeror, or its subcontractors.</p>
+<h2>05 (2014-03-01)  Submission of Offers</h2>
+<ol type="1">
+<li value="1">Canada requires that each offer, at closing date and
+time or upon request from the Standing Offer Authority, be signed
+by the Offeror or by an authorized representative of the Offeror.
+If an offer is submitted by a joint venture, it must be in
+accordance with section 17.</li>
+<li value="2">It is the Offeror's responsibility to:
+<ol type="a">
+<li value="1">obtain clarification of the requirements contained in
+the <abbr title="Request for Standing Offer">RFSO</abbr>
+, if necessary, before submitting an offer;</li>
+<li value="2">prepare its offer in accordance with the instructions
+contained in the <abbr title="Request for Standing Offer">RFSO</abbr>;</li>
+<li value="3">submit by closing date and time complete offer;</li>
+<li value="4">send its offer only to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> Bid Receiving Unit
+specified on page 1 of the <abbr title="Request for Standing Offer">RFSO</abbr> or to the address specified in the
+<abbr title="Request for Standing Offer">RFSO</abbr>. The facsimile number and related instructions for offers
+transmitted by facsimile are provided in section 08;</li>
+<li value="5">ensure that the Offeror's name, return address, <abbr title="Request for Standing Offer">RFSO</abbr>
+number, and <abbr title="Request for Standing Offer">RFSO</abbr> closing date and time are clearly visible on the
+envelope or the parcel(s) containing the offer; and,</li>
+<li value="6">provide a comprehensible and sufficiently detailed
+offer, including all requested pricing details, that will permit a
+complete evaluation in accordance with the criteria set out in the
+<abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+</ol>
+</li>
+<li value="3">	Canada will make available Notices of Proposed Procurement (NPP), <abbr title="Request for Standing Offer">RFSO</abbr>'s and related documents for download through the Government Electronic Tendering Service (GETS). Canada is not responsible and will not assume any liabilities whatsoever for the information found on websites of third parties. In the event an <abbr title="Notice of Proposed Procurement">NPP</abbr>, <abbr title="Request for Standing Offer">RFSO</abbr> or related documentation would be amended, Canada will not be sending notifications. Canada will post all amendments, including significant enquirires received and their replies, using <abbr title="Government Electronic Tendering Service">GETS</abbr>. It is the sole responsibility of the Offeror to regularly consult <abbr title="Government Electronic Tendering Service">GETS</abbr> for the most up-to-date information. Canada will not be liable for any oversight on the Offeror's part nor for notification services offered by a third party.</li>
+<li value="4">Offers will remain open for acceptance for a period
+of not less than sixty (60) days from the closing date of the <abbr title="Request for Standing Offer">RFSO</abbr>
+,
+unless specified otherwise in the <abbr title="Request for Standing Offer">RFSO</abbr>. Canada reserves the right
+to seek an extension of the offer validity period from all
+responsive offerors in writing, within a minimum of three (3) days
+before the end of the offer validity period. If the extension is
+accepted by all responsive offerors, Canada will continue with the
+evaluation of the offers. If the extension is not accepted by all
+responsive offerors, Canada will, at its sole discretion, either
+continue with the evaluation of the offers of those who have
+accepted the extension or cancel the <abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+<li value="5">Offers and supporting information may be submitted in
+either English or French.</li>
+<li value="6">Offers received on or before the stipulated <abbr title="Request for Standing Offer">RFSO</abbr>
+closing date and time will become the property of Canada and will
+not be returned. All offers will be treated as confidential,
+subject to the provisions of the <cite>
+Access to Information Act</cite> (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr>
+ A-1) and the
+<cite>
+Privacy Act</cite> (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr>
+ P-21).</li>
+<li value="7">Unless specified otherwise in the <abbr title="Request for Standing Offer">RFSO</abbr>, Canada will
+evaluate only the documentation provided with an offeror's offer.
+Canada will not evaluate information such as references to Web site
+addresses where additional information can be found, or technical
+manuals or brochures not submitted with the offer.</li>
+<li value="8">An offer cannot be assigned or transferred in whole
+or in part.</li>
+</ol>
+<h2>06 (2007-11-30)  Late Offers</h2>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> will return offers delivered after the stipulated <abbr title="Request for Standing Offer">RFSO</abbr>
+closing date and time, unless they qualify as a delayed offer as
+described below.</p>
+<h2>07 (2012-03-02)  Delayed Offers</h2>
+<ol type="1">
+<li value="1">An offer delivered to the specified Bid Receiving
+Unit after the closing date and time but before the standing offer
+issuance date may be considered, provided the offeror can prove the
+delay is due solely to a delay in delivery that can be attributed
+to the Canada Post Corporation (CPC) (or national equivalent of a
+foreign country). Purolator <abbr title="Incorporated">Inc.</abbr> is not considered to be part of
+<abbr title="Canada Post Corporation">CPC</abbr> for the purposes of delayed offers. The only pieces of evidence
+relating to a delay in the <abbr title="Canada Post Corporation">CPC</abbr> system that are acceptable to <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
+are:
+<ol type="a">
+<li value="1">a <abbr title="Canada Post Corporation">CPC</abbr> cancellation date stamp; or</li>
+<li value="2">a <abbr title="Canada Post Corporation">CPC</abbr> Priority Courier bill of lading; or</li>
+<li value="3">a <abbr title="Canada Post Corporation">CPC</abbr> Xpresspost label</li>
+</ol>
+<p>that clearly indicates that the offer was mailed before the <abbr title="Request for Standing Offer">RFSO</abbr>
+closing date.</p></li>
+<li value="2">Misrouting, traffic volume, weather disturbances,
+labour disputes or any other causes for the late delivery of offers
+are not acceptable reasons for the offer to be accepted by
+<abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</li>
+<li value="3">Postage meter imprints, whether imprinted by the
+Offeror, the <abbr title="Canada Post Corporation">CPC</abbr> or the postal authority outside Canada, are not
+acceptable as proof of timely mailing.</li>
+</ol>
+<h2>08 (2012-03-02)  Transmission by Facsimile</h2>
+<ol type="1">
+<li value="1">Unless specified otherwise in the <abbr title="Request for Standing Offer">RFSO</abbr>, offers may be
+submitted by facsimile. The only acceptable facsimile number for
+responses to <abbr title="Request for Standing Offer">RFSO</abbr>s issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> headquarters is 819-997-9776.
+The facsimile number for responses to <abbr title="Request for Standing Offer">RFSO</abbr>s issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
+regional offices is identified in the <abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+<li value="2">For offers transmitted by facsimile, Canada will not
+be responsible for any failure attributable to the transmission or
+receipt of the faxed offer including, but not limited to, the
+following:
+<ol type="a">
+<li value="1">receipt of garbled or incomplete offer;</li>
+<li value="2">availability or condition of the receiving facsimile
+equipment;</li>
+<li value="3">incompatibility between the sending and receiving
+equipment;</li>
+<li value="4">delay in transmission or receipt of the offer;</li>
+<li value="5">failure of the Offeror to properly identify the
+offer;</li>
+<li value="6">illegibility of the offer; or</li>
+<li value="7">security of offer data.</li>
+</ol>
+</li>
+<li value="3">An offer transmitted by facsimile will constitute the
+formal offer of the Offeror and must be submitted in accordance
+with section 05.</li>
+</ol>
+<h2>09 (2010-10-07)  Customs Clearance</h2>
+<p>It is the responsibility of the Offeror to allow sufficient time
+to obtain customs clearance, where required, before the <abbr title="Request for Standing Offer">RFSO</abbr>
+closing date and time. Delays related to the obtaining of customs
+clearance cannot be construed as "undue delay in the mail" and will
+not be accepted as a delayed offer under section 07.</p>
+<h2>10 (2007-05-25)  Legal Capacity</h2>
+<p>The Offeror must have the legal capacity to contract. If the
+Offeror is a sole proprietorship, a partnership or a corporate
+body, the Offeror must provide, if requested by the Standing Offer
+Authority, a statement and any requested supporting documentation
+indicating the laws under which it is registered or incorporated
+together with the registered or corporate name and place of
+business. This also applies to offerors submitting an offer as a
+joint venture.</p>
+<h2>11 (2007-11-30)  Rights of Canada</h2>
+<p>Canada reserves the right to:</p>
+<ol type="a">
+<li value="1">reject any or all offers received in response to the
+<abbr title="Request for Standing Offer">RFSO</abbr>;</li>
+<li value="2">enter into negotiations with offerors on any or all
+aspects of their offers;</li>
+<li value="3">authorize for utilization any offer in whole or in
+part without negotiations;</li>
+<li value="4">cancel the <abbr title="Request for Standing Offer">RFSO</abbr> at any time;</li>
+<li value="5">reissue the <abbr title="Request for Standing Offer">RFSO</abbr>;</li>
+<li value="6">if no responsive offers are received and the
+requirement is not substantially modified, reissue the <abbr title="Request for Standing Offer">RFSO</abbr> by
+inviting only the offerors who submitted an offer to resubmit
+offers within a period designated by Canada; and,</li>
+<li value="7">negotiate with the sole responsive offeror to ensure
+best value to Canada.</li>
+</ol>
+<h2>12 (2012-03-02)  Rejection of Offer</h2>
+<ol type="1">
+<li value="1">Canada may reject an offer where any of the following
+circumstances is present:
+<ol type="a">
+<li value="1">the Offeror is subject to a Vendor Performance
+Corrective Measure, under the Vendor Performance Corrective Measure Policy, which
+renders the Offeror ineligible to submit an offer for the
+requirement;</li>
+<li value="2">an employee, or subcontractor included as part of the
+offer, is subject to a Vendor Performance Corrective Measure, under
+the Vendor Performance Corrective Measure Policy, which would render that employee or
+subcontractor ineligible to submit an offer for the requirement, or
+the portion of the requirement the employee or subcontractor is to
+perform;</li>
+<li value="3">the Offeror is bankrupt or where, for whatever reason, its activities are rendered inoperable for an extended period;</li>
+<li value="4">evidence, satisfactory to Canada, of fraud, bribery, fraudulent misrepresentation or failure to comply with any law protecting individuals against any manner of discrimination, has been received with respect to the Offeror, any of its employees or any subcontractor included as part of the offer;</li>
+<li value="5">evidence satisfactory to Canada that based on past conduct or behavior, the Offeror, a subcontractor or a person who is to perform the Work is unsuitable or has conducted himself/herself improperly;</li>
+<li value="6">with respect to current or prior transactions with
+the Government of Canada:
+<ol type="i">
+<li value="1">Canada has exercised its contractual remedies of
+suspension or termination for default with respect to a contract
+with the Offeror, any of its employees or any subcontractor
+included as part of the offer;</li>
+<li value="2">Canada determines that the Offeror's performance on other
+contracts, including the efficiency and workmanship as well as the
+extent to which the Offeror performed the Work in accordance with
+contractual clauses and conditions, is sufficiently poor to
+jeopardize the successful completion of the requirement being bid
+on.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Where Canada intends to reject an offer pursuant to a
+provision of subsection 1. (f), the Standing Offer Authority will
+so inform the Offeror and provide the Offeror ten (10) days within
+which to make representations, before making a final decision on
+the offer rejection.</li>
+<li value="3">Canada reserves the right to apply additional scrutiny, in particular, when multiple offers are received in response to a request for standing offers from a single offeror or a joint venture. Canada reserves the right to:
+<ol type="i">
+<li value="1">reject any or all of the offers submitted by a single offeror or joint venture if their inclusion in the evaluation has the effect of prejudicing the integrity and fairness of the process, or;</li>
+<li value="2">reject any or all of the offers submitted by a single offeror or joint venture if their inclusion in the procurement process would distort the solicitation evaluation, and would cause a result that would not reasonably have been expected under prevailing market conditions and/or would not provide good value to Canada.</li>
+</ol>
+</li>
+</ol>
+<h2>13 (2014-03-01)  Communications - Solicitation Period</h2>
+<p>To ensure the integrity of the competitive <abbr title="Request for Standing Offer">RFSO</abbr> process,
+enquiries and other communications regarding the <abbr title="Request for Standing Offer">RFSO</abbr> must be
+directed only to the Standing Offer Authority identified in the
+<abbr title="Request for Standing Offer">RFSO</abbr>. Failure to comply with this requirement may result in the
+offer being declared non-responsive.</p>
+<p>To ensure consistency and quality of information provided to offerors, significant enquiries received and their replies will be posted on the Government Electronic Tendering Service (GETS).  For further information, refer to subsection 3 of  the Submission of Offers section.</p>
+<h2>14 (2007-11-30)  Price Justification</h2>
+<p>In the event that the Offeror's offer is the sole responsive
+offer received, the Offeror must provide, on Canada's request, one
+or more of the following price justification:</p>
+<ol type="a">
+<li value="1">a current published price list indicating the
+percentage discount available to Canada; or</li>
+<li value="2">a copy of paid invoices for the like quality and
+quantity of the goods, services or both sold to other customers;
+or</li>
+<li value="3">a price breakdown showing the cost of direct labour,
+direct materials, purchased items, engineering and plant overheads,
+general and administrative overhead, transportation, etc., and
+profit; or</li>
+<li value="4">price or rate certifications; or</li>
+<li value="5">any other supporting documentation as requested by
+Canada.</li>
+</ol>
+<h2>15 (2007-05-25)  Offer Costs</h2>
+<p>No payment will be made for costs incurred in the preparation
+and submission of an offer in response to the <abbr title="Request for Standing Offer">RFSO</abbr>. Costs
+associated with preparing and submitting an offer, as well as any
+costs incurred by the Offeror associated with the evaluation of the
+offer, are the sole responsibility of the Offeror.</p>
+<h2>16 (2008-12-12)  Conduct of Evaluation</h2>
+<ol type="1">
+<li value="1">In conducting its evaluation of the offers, Canada
+may, but will have no obligation to, do the following:
+<ol type="a">
+<li value="1">seek clarification or verification from offerors
+regarding any or all information provided by them with respect to
+the <abbr title="Request for Standing Offer">RFSO</abbr>;</li>
+<li value="2">contact any or all references supplied by offerors to
+verify and validate any information submitted by them;</li>
+<li value="3">request, before issuance of any standing offer,
+specific information with respect to offerors' legal status;</li>
+<li value="4">conduct a survey of offerors' facilities and/or
+examine their technical, managerial, and financial capabilities to
+determine if they are adequate to meet the requirements of the
+<abbr title="Request for Standing Offer">RFSO</abbr>;</li>
+<li value="5">correct any error in the extended pricing of offers
+by using unit pricing and any error in quantities in offers to
+reflect the quantities stated in the <abbr title="Request for Standing Offer">RFSO</abbr>; in the case of error in
+the extension of prices, the unit price will govern.</li>
+<li value="6">verify any information provided by offerors through
+independent research, use of any government resources or by
+contacting third parties;</li>
+<li value="7">interview, at the sole costs of offerors, any offeror
+and/or any or all of the resources proposed by offerors to fulfill
+the requirement of the <abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+</ol>
+</li>
+<li value="2">Offerors will have the number of days specified in
+the request by the Standing Offer Authority to comply with any
+request related to any of the above items. Failure to comply with
+the request may result in the offer being declared
+non-responsive.</li>
+</ol>
+<h2>17 (2007-11-30)  Joint Venture</h2>
+<ol type="1">
+<li value="1">A joint venture is an association of two or more
+parties who combine their money, property, knowledge, expertise or
+other resources in a single joint business enterprise, sometimes
+referred as a consortium, to submit an offer together on a
+requirement. Offerors who submit an offer as a joint venture must
+indicate clearly that it is a joint venture and provide the
+following information:
+<ol type="a">
+<li value="1">the name of each member of the joint venture;</li>
+<li value="2">the Procurement Business Number of each member of the
+joint venture;</li>
+<li value="3">the name of the representative of the joint venture,
+i.e. the member chosen by the other members to act on their behalf,
+if applicable;</li>
+<li value="4">the name of the joint venture, if applicable.</li>
+</ol>
+</li>
+<li value="2">If the information is not clearly provided in the
+offer, the Offeror must provide the information on request from the
+Standing Offer Authority.</li>
+<li value="3">The offer and any resulting standing offer must be
+signed by all the members of the joint venture unless one member
+has been appointed to act on behalf of all members of the joint
+venture. The Standing Offer Authority may, at any time, require
+each member of the joint venture to confirm that the representative
+has been appointed with full authority to act as its representative
+for the purposes of the <abbr title="Request for Standing Offer">RFSO</abbr> and any resulting standing offer. If a
+standing offer is issued to a joint venture, all members of the
+joint venture will be jointly and severally or solidarily liable
+for the performance of any contract resulting from a call-up
+against the standing offer.</li>
+</ol>
+<h2>18 (2012-03-02)  Conflict of Interest - Unfair Advantage</h2>
+<ol type="1">
+<li value="1">In order to protect the integrity of the procurement
+process, offerors are advised that Canada may reject an offer in
+the following circumstances:
+<ol type="a">
+<li value="1">if the Offeror, any of its subcontractors, any of
+their respective employees or former employees was involved in any
+manner in the preparation of the <abbr title="Request for Standing Offer">RFSO</abbr> or in any situation of
+conflict of interest or appearance of conflict of interest;</li>
+<li value="2">if the Offeror, any of its subcontractors, any of
+their respective employees or former employees had access to
+information related to the <abbr title="Request for Standing Offer">RFSO</abbr> that was not available to other
+offerors and that would, in Canada's opinion, give or appear to
+give the Offeror an unfair advantage.</li>
+</ol>
+</li>
+<li value="2">The experience acquired by an offeror who is
+providing or has provided the goods and services described in the
+<abbr title="Request for Standing Offer">RFSO</abbr> (or similar goods or services) will not, in itself, be
+considered by Canada as conferring an unfair advantage or creating
+a conflict of interest. This offeror remains however subject to the
+criteria established above.</li>
+<li value="3">Where Canada intends to reject an offer under this
+section, the Standing Offer Authority will inform the Offeror and
+provide the Offeror an opportunity to make representations before
+making a final decision. Offerors who are in doubt about a
+particular situation should contact the Standing Offer Authority
+before the <abbr title="Request for Standing Offer">RFSO</abbr> closing. By submitting an offer, the Offeror
+represents that it does not consider itself to be in conflict of
+interest nor to have an unfair advantage. The Offeror acknowledges
+that it is within Canada's sole discretion to determine whether a
+conflict of interest, unfair advantage or an appearance of conflict
+of interest or unfair advantage exists.</li>
+</ol>
+<h2>19 (2008-12-12)  Entire Requirement</h2>
+<p>The <abbr title="Request for Standing Offer">RFSO</abbr> contains all the requirements relating to the request
+for offers. Any other information or documentation provided to or
+obtained by an offeror from any source are not relevant. Offerors
+should not assume that practices used under previous contracts will
+continue, unless they are described in the <abbr title="Request for Standing Offer">RFSO</abbr>. Offerors should
+also not assume that their existing capabilities meet the
+requirements of the <abbr title="Request for Standing Offer">RFSO</abbr> simply because they have met previous
+requirements.</p>
+<h2>20 (2007-11-30)  Further Information</h2>
+<ol type="1">
+<li value="1">For further information, offerors may contact the
+Standing Offer Authority identified in the <abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+<li value="2">For <abbr title="Request for Standing Offer">RFSO</abbr>s issued out of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> headquarters, enquiries
+concerning receipt of offers may be addressed to the Bid Receiving
+Unit, Procurement Operational Support Division, telephone
+819-956-3370. For <abbr title="Request for Standing Offer">RFSO</abbr>s issued out of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> regional offices,
+enquiries concerning receipt of offers may be addressed to the
+Standing Offer Authority identified in the <abbr title="Request for Standing Offer">RFSO</abbr>.</li>
+</ol>
+</div></pre>
+</div>

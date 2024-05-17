@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  L'agent de négociation des contrats peut utiliser cette clause dans les contrats d'achat de camions de poids moyen et de poids lourd, d'autobus et de remorques lorsque le ministère client demande un échange de véhicule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le véhicule usagé à échanger sera retenu par le Canada jusqu'à son échange pour le nouveau véhicule. Aucun ajustement ne sera fait à la valeur de reprise pour compenser la dépréciation liée à
+l'usure normale du véhicule entre le moment où il a été évalué et celui où le véhicule usagé est échangé. Dès qu'il prend possession du véhicule usagé, l'entrepreneur doit signaler, par écrit, à l'autorité contractante, tout changement important dans l'état du véhicule usagé.</p>
+</div></pre>
+</div>

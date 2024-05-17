@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
+stipule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Tel que prévu au Contrat américain n°
+<var>______</var> qui prévoit ce qui suit : La présente
+clause vise les propositions de réduction de coûts
+suggérées et réalisées par l'Entrepreneur en
+vue de modifier les plans, dessins, spécifications ou autres
+exigences du présent Contrat. Cependant, cette clause ne
+s'applique à une telle proposition que si l'Entrepreneur la
+présente comme telle, lors de sa soumission à l'Agent de
+négociation des contrats américain. Les proposition de
+réduction de coûts visées sont celles qui :</p>
+<ol type="a">
+<li value="1">exigeraient une modification du présent Contrat
+pour pouvoir s'y appliquer; et</li>
+<li value="2">représenteraient une économie pour le
+Gouvernement américain en raison :
+<ol type="1">
+<li value="1">d'une diminution du coût d'exécution du
+présent Contrat, sans que soit compromise aucune des fonctions
+et caractéristiques essentielles des articles, qu'il s'agisse
+de la durée d'usage, de la fiabilité, de l'économie
+d'exploitation, de la facilité d'entretien ou des
+éléments normalisés nécessaires; ou</li>
+<li value="2">d'éléments qui, indépendamment des
+coûts d'acquisition, entraîneraient une réduction
+nette du coût des biens fournis par le Gouvernement, de leur
+exploitation, de leur entretien et autres aspects, qui
+dépasserait d'éventuelles augmentations des coûts
+d'acquisition, sans que soit compromise aucune des fonctions et
+caractéristiques essentielles des biens. Toute proposition
+d'amélioration technique doit être accompagnée des
+renseignements mentionnés dans le paragraphe 2) de la clause
+intitulée « Prime pour améliorations techniques »
+et être présentée conformément aux instructions
+de l'Agent de négociation des contrats américain.</li>
+</ol>
+</li>
+</ol>
+<p>Aux termes de la clause de Prime pour améliorations
+techniques, l'Entrepreneur recevra un pourcentage des
+économies réalisées, d'un montant de <var>____</var>
+p. 100 en vertu du présent Contrat, plus <var>____</var> p. 100 des économies incidentes prévues et <var>____</var>
+p. 100 des économies sur les paiements de redevances pendant
+deux (2) ans.</p>
+<p class="description"><strong>Nota</strong> : Voir le Contrat américain pour les
+facteurs servant à déterminer les pourcentages.</p>
+</div></pre>
+</div>

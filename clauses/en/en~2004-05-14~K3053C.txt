@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts if publication rights are requested by the 
+Contractor, and providing the Technical Authority is in agreement.
+
+Use the following clause when Canada is not going to grant any broader right, 
+but is prepared to grant a licence to the Contractor (with the right to 
+sub-license to the author) to publish or have published the "copyright work".  
+This clause is not required if the Contractor will own the intellectual property 
+rights.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In this section,
+
+       (a)    "copyright work" means any work in which a copyright may 
+              subsist, produced in or as a result of performing the 
+              Contract;
+
+       (b)    "publication" or "publish" do not include disclosure to an 
+              academic supervisor or appraiser, for the sole purpose of 
+              academic evaluation.
+
+2.     The Contractor shall have a royalty-free non-exclusive license, 
+       including the right to sublicense to the author, to publish or have 
+       published any copyright work in the course of the normal 
+       dissemination of knowledge in the subject field, but they shall not 
+       publish or have published any copyright work during the performance 
+       of the contract or for a period of ___ (  ) _____ thereafter without 
+       the prior written consent of the Minister.
+
+3.     Any copyright work published by or on behalf of the Contractor or 
+       the author shall acknowledge that the Work was performed under the 
+       Contract with Canada, unless the Minister gives notice to the 
+       contrary.
+
+
+</pre>
+</div>

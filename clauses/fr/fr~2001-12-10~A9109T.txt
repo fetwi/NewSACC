@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Depuis le 10 septembre 2001, l'Environnement automatisé de l'acheteur (EAA) est 
+modifié de façon à ce qu'aucun contrat ne puisse être attribué à une entreprise 
+canadienne ne possédant pas de numéro d'entreprise - approvisionnement (NEA).  
+Cette exigence doit donc être incluse dans tous  les documents d'invitation à 
+soumissionner traités dans l'EAA.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     En tant que fournisseurs du gouvernement du Canada, une importante 
+       caractéristique est le numéro d'entreprise - approvisionnement (NEA), 
+       créé à partir du numéro d'entreprise de l'Agence des douanes et du 
+       revenu du Canada pour identifier de façon particulière l'entreprise 
+       et ses secteurs, divisions ou bureaux, suivant le cas. 
+
+2.     Toutes les entreprises canadiennes devront avoir un NEA avant de se 
+       voir attribuer un contrat par Travaux publics et Services 
+       gouvernementaux Canada (TPSGC).  À sa propre discrétion, TPSGC peut 
+       décider d'attribuer, dans des circonstances exceptionnelles, un 
+       contrat à une entreprise qui n'a pas de NEA.  Les entreprises non 
+       canadiennes sont fortement encouragées à obtenir un NEA.
+
+3.     Les entreprises peuvent s'inscrire pour obtenir un NEA du système 
+       Données d'inscription des fournisseurs en se rendant au site 
+       Internet de Contrats Canada <strong class="wsStyleUnderline">http://contractscanada.gc.ca/fr/index.html.</strong>  
+       Pour que les entreprises deviennent des fournisseurs du gouvernement, 
+       elles doivent procéder à leur inscription dans le service DIF et 
+       activer leur compte.
+
+4.     Pour s'inscrire autrement que par Internet, veuillez communiquer 
+       avec la LigneInfo de Contrats Canada au 1-800-811-1148 ou (819) 
+       956-3440 dans la région de la capitale nationale afin d'obtenir le 
+       numéro de téléphone de l'agent d'inscription des fournisseurs le 
+       plus près de vous.
+
+
+</pre>
+</div>

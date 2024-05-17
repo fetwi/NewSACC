@@ -1,0 +1,97 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsqu’il est possible pour l’entrepreneur d’obtenir un bénéfice supplémentaire s’il respecte les dates cibles de livraison qui sont d’une importance cruciale pour le Canada, conformément à la section
+  
+   4.70.25.10
+  
+  du Guide des approvisionnements et à la section 4.4.2 du
+  
+   Guide à l’intention des praticiens sur l’établissement des prix en approvisionnement
+  
+  .
+ </p>
+<p>
+  Ces primes d’incitation peuvent être offertes en fonction de critères mesurables et objectifs prédéfinis par rapport au respect des échéanciers de livraison des biens et services qui
+  <strong>
+   sont d’une importance cruciale ou qui représentent une valeur ajoutée pour le Canada. Pour gagner une prime d’incitation, le rendement de l’entrepreneur doit surpasser les exigences mentionnées dans l’énoncé des travaux.
+  </strong>
+</p>
+<p>
+  Les niveaux de rendement spécifiés doivent être acceptés par le client et être raisonnables.
+ </p>
+<p>
+  Utiliser l’option 1 lorsque le montant de la prime est forfaitaire.
+ </p>
+<p>
+  Utiliser l’option 2 lorsque le montant de la prime est variable (varie en fonction du rendement de l’entrepreneur).
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les critères de rendement pour les primes d’incitation non versées peuvent être modifiés en cours de contrat, à la discrétion du Canada.</p>
+<p>Les primes d’incitation non versées ne sont pas payables si le contrat est résilié en totalité ou en partie pour des raisons de commodité par le Canada, par un accord mutuel ou pour cause de manquement.</p>
+<p><kbd><strong>Choisir l’un des types de paiements de mesures incitatives suivants :</strong></kbd></p>
+<p><kbd>Option 1 :</kbd> Paiement forfaitaire</p>
+<table>
+<thead>
+<tr>
+<th>Période d’évaluation</th>
+<th>Critères</th>
+<th>Méthode de validation</th>
+<th>Montant du paiement forfaitaire si les critères sont respectés</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+</tbody></table>
+<p><kbd>(<em>Ajuster au besoin</em>)</kbd></p>
+<p>Le montant maximal pouvant être octroyé comme mesure incitative liée au respect des échéances est de <span class="input-required"><var>_______</var></span> $ <kbd>(<em>inscrire la somme de tous les paiements forfaitaires de mesures incitatives</em>)</kbd>. Les taxes applicables sont en sus.</p>
+<p>Si <strong>tous</strong> les critères pour le montant individuel d’<strong>une</strong> mesure incitative ne sont pas respectés, l’entrepreneur ne recevra aucun paiement pour ce montant individuel.</p>
+<p><kbd>Option 2 :</kbd> Paiement variable</p>
+<ol>
+<li>L’objectif de rendement standard est <span class="input-required"><var>_______</var></span> <kbd>(<em>insérer les critères, en unité de temps, du rendement attendu dans des conditions normales</em>)</kbd>.</li>
+<li>Le montant maximal des mesures incitatives sous forme de paiement variable est de <span class="input-required"><var>_______</var></span>$ <kbd>(<em>inscrire la somme de tous les paiements maximum de mesures incitatives</em>)</kbd>. Les taxes applicables sont en sus.</li>
+<li>L’entrepreneur recevra un paiement proportionnel au degré de conformité aux critères précisés, comme suit :</li>
+</ol>
+<table>
+<thead>
+<tr>
+<th>Période d’évaluation</th>
+<th>Critères</th>
+<th>Méthode de validation</th>
+<th>(A) Montant maximal de la mesure incitative</th>
+<th>(B) Pourcentage de la mesure incitative obtenu (sous forme de paiement variable)</th>
+<th>(A) x (B) Montant en dollars de la mesure incitative sous forme de paiement variable</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+<td><span class="input-required"><var>_______</var></span>%</td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+<tr>
+<td> </td>
+<td> </td>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+<td><span class="input-required"><var>_______</var></span>%</td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+</tbody></table>
+<p><kbd>(<em>Ajuster au besoin</em>)</kbd></p>
+<p>Si <strong>tous</strong> les critères pour le montant individuel d’<strong>une</strong> mesure incitative ne sont pas respectés, l’entrepreneur ne recevra aucun paiement pour ce montant individuel.</p>
+</div></pre>
+</div>

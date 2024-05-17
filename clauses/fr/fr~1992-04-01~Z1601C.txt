@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain est 
+de type « coûts estimatifs ».
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Si l'Entrepreneur ou tout sous-traitant en vertu des
+présentes est informé d'un conflit de travail, réel
+ou potentiel, qui retarde ou menace de retarder l'exécution du
+Contrat, l'Entrepreneur ou le sous-traitant devra en avertir
+immédiatement la <abbr title="Corporation commerciale canadienne ">CCC</abbr> et lui donner tous les renseignements
+pertinents à cet égard.</p>
+</div></pre>
+</div>

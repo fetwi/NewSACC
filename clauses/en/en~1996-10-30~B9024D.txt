@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor hereby grants to Canada and Canada shall retain an 
+       irrevocable option exercisable at any time during the Contract 
+       period to procure any or all of the optional services described in 
+       the Statement of Work and to require the Contractor to continue to 
+       perform the services detailed herein, in accordance with the terms 
+       and conditions contained or referenced herein, at the firm lot price 
+       specified in the Basis of Payment. 
+
+2.     The Contractor shall be given a minimum of "_____" working days 
+       notice in writing by the Contracting Authority indicating that 
+       Canada intends to exercise the option. 
+
+3.     The option may only be exercised by the Contracting Authority, and 
+       the exercise of the option will be evidenced through a formal 
+       Contract Amendment.
+
+
+</pre>
+</div>

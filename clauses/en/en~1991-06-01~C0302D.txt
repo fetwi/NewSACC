@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for Industry, Science and Technology Canada (ISTC) 
+contracts providing assistance to contractors for the purchase of equipment.  
+This clause is to be used in any of the undernoted situations (refer to SPM 
+Directive 6300):
+
+	a)  any single/sole source Request for Proposal concerning the provision of 
+ISTC assistance to the Contractor for the purchase of equipment on a cost 
+sharing or cost reimbursable basis;
+
+	b)  any ISTC contract providing assistance to a contractor for the purchase of 
+equipment.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Upon completion of the Contract, the Contractor shall submit, to the 
+   Contracting Officer specified in the Contract, invoices in triplicate 
+   relating to the purchase and installation of all equipment for which 
+   full or partial reimbursement of costs is to be made by Canada under the 
+   terms of this agreement.
+</pre>
+</div>

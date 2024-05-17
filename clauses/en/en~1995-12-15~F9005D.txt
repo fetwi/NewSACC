@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following PARAGRAPH, as an additional insert into a security 
+requirements clause, ONLY after the client has given written concurrence to this 
+arrangement.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Until the security screenings of the Contractor's personnel required by 
+   this Contract have been completed satisfactorily by Industrial Security 
+   Division (ISD), Contractor personnel <strong>MAY NOT HAVE ACCESS</strong> to sensitive 
+   (CLASSIFIED/DESIGNATED) information or assets, and <strong>MAY NOT ENTER</strong> sites 
+   where such information or assets are kept, without an escort provided by 
+   the department or agency for which the Work is being performed.
+</pre>
+</div>

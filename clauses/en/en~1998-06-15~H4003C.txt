@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when milestone reports are required. This clause may be 
+used in conjunction with H3005D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor shall prepare and submit a milestone report in ____ 
+       copies to the Technical Authority. One copy of the report shall also 
+       be forwarded to the Contracting Authority.
+
+2.     This report shall be submitted for each milestone listed in the "
+       Schedule of Milestones" attached as Annex "____."
+
+3.     Each report shall consist of a narrative which shall contain, as a 
+       minimum:
+
+       (a)    a description of the Work completed under the milestone; and
+       (b)    any problems encountered or foreseen (relating to time, cost 
+              or technical matters).
+
+</pre>
+</div>

@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour les achats de fils 
+métalliques et de câbles lorsque des dévidoirs et des lattis sont requis.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Un dépôt sera payé par le
+ministère client ou l'organisme pour les dévidoirs et les
+lattis comme suit :
+<br/>Dévidoirs : <var>_____</var> $ Types/Grandeur <var>_____</var>
+<br/>Lattis : <var>_____</var> $ Types/Grandeur <var>_____</var></li>
+<li value="2">Le dépôt est remboursable au complet pour
+les dévidoirs et les lattis retournés en bon état
+à l'usine, les frais de transport payés d'avance, dans
+les douze (12) mois qui suivent la date d'expédition.</li>
+<li value="3">Pour chaque mois dépassant la période de
+douze (12) mois, jusqu'au 22e mois inclusivement, une retenue de 5
+p. 100 par mois sera faite sur le montant du dépôt,
+à condition que le dévidoir ou le lattis soit
+retourné en bon état à l'usine, les frais de
+transport payés d'avance.</li>
+<li value="4">Après le 22e mois, une remise de 50 p. 100 du
+dépôt sera accordée pour un dévidoir ou un
+lattis retourné en bon état à l'usine, les frais de
+transport payés d'avance.</li>
+</ol>
+</div></pre>
+</div>

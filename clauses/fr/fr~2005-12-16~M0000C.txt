@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les offres à commandes en conjonction avec les 
+clauses K0000D, M0000T et M0100D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Toutes les clauses et les conditions identifiées dans l'offre à commandes 
+(OC) par un titre, un numéro et une date sont reproduites dans le guide des <em>
+Clauses et conditions uniformisées d'achat</em> publié par Travaux publics et 
+Services gouvernementaux Canada (TPSGC).  Le guide est disponible sur le 
+site Web de TPSGC : <strong>http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</strong>.
+
+Conformément à la <em>Loi sur le ministère des Travaux publics et des Services 
+gouvernementaux</em>, 1996, ch. 16, les clauses et les conditions identifiées 
+dans l'OC par un titre, un numéro et une date sont incorporées par renvoi à 
+l'OC et à tout contrat découlant de l'OC et en font partie intégrante comme 
+si elles étaient formellement reproduites dans l'OC et dans tout contrat 
+découlant de l'OC.
+
+
+</pre>
+</div>

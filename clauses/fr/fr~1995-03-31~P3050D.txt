@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Dans le cas où l'entrepreneur remet du travail non conforme, et que 
+       ce défaut est dû au fait que des pages, des couvertures, des 
+       brochures et(ou) des documents se rapportant à une région, à une 
+       province ou à un travail interprovincial aient été mélangés au sein 
+       du même livret ou avec des pages, des couvertures, des brochures 
+       et(ou) des documents d'une autre région, d'une autre province ou 
+       d'un autre travail interprovincial, alors le Ministre avisera 
+       l'entrepreneur de ce défaut; l'entrepreneur est ainsi mis en défaut 
+       aux termes de la présente clause.
+
+2.     L'entrepreneur qui est mis en défaut, aux termes de la présente 
+       clause, est exclus du processus et n'est pas admissible, pour une 
+       période de deux ans suivant la date d'adjudication du contrat dans 
+       le cadre duquel l'erreur a été commise, à l'adjudication de plus 
+       d'un marché par tranche d'un travail d'impression requis par le 
+       Programme d'impôt du ministère du Revenu Canada (Impôt), afin 
+       d'éviter la possibilité qu'un mélange se reproduise.
+
+3.     Pendant cette période de deux ans, advenant que l'entrepreneur 
+       soumette plus d'une soumission la moins disante par portion d'un 
+       travail susmentionné, le Canada se réserve le droit de n'accepter 
+       qu'une seule de ces soumissions et l'entrepreneur aura le choix de 
+       celle-ci.
+
+</pre>
+</div>

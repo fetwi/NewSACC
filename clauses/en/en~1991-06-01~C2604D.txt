@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for bid solicitations/contracts involving the services 
+of a non-resident when it is anticipated that the non-resident may be required 
+to import tools, equipment or spare parts to perform the services in Canada.  
+See SPM Directive 4159.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor is responsible for Customs clearance of any tools, equipment 
+   or spare parts imported into Canada by the firm's own employees or by 
+   those of a subcontractor in performance under this Contract and shall 
+   pay the Customs duty, excise taxes and goods and services tax assessed 
+   by the customs officials.
+</pre>
+</div>

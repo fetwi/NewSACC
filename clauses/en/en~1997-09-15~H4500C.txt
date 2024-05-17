@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in domestic contracts for goods which contain provision 
+for progress payments.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     If any lien under section 427 of the <em>Bank Act</em> exists in respect to 
+       any materials, parts, work-in-process, or finished work for which 
+       the Contractor intends to claim payment, the Contractor agrees to 
+       inform the Contracting Authority without delay and agrees, unless 
+       otherwise instructed by the Contracting Authority, either
+
+       (a)    to cause the bank to remove such lien and to furnish the 
+              Contracting Authority, with written confirmation from the 
+              bank; or,
+
+       (b)    to furnish or cause to be furnished to the Contracting 
+              Authority an undertaking from the bank to the Contracting 
+              Authority that the bank will not make any claim under section 
+              427 of the <em>Bank Act</em> on materials, parts, work-in-process, or 
+              finished work in respect of which payment is made to the 
+              Contractor under this Contract.
+
+2.     Failure to inform the Contracting Authority of such lien or failure 
+       to implement paragraph 1(a) or (b) above shall constitute default 
+       under the clause entitled "Default by Contractor" in the General 
+       Conditions of the Contract and shall entitle Canada to terminate the 
+       Contract.
+
+
+</pre>
+</div>

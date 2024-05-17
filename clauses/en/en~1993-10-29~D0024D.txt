@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the event the Contractor fails to deliver the supplies or perform the 
+services within the time specified in the Contract, the Contractor agrees 
+to pay to Canada as liquidated damages the sum of $ _____ for each calendar 
+day of delay up to a maximum of _____ days, subject to the limitation that 
+the total amount of liquidated damages shall not exceed _____ percent of 
+the Contract Price.  The Parties agree that the aforesaid amount is their 
+best pre-estimate of the loss to Canada in the event of such a failure, and 
+that it is not intended to be, nor is it to be construed as, a penalty.
+
+Canada shall have the right to hold back, drawback, deduct or set off from 
+and against the amounts of any monies owing at any time by Canada to the 
+Contractor, any liquidated damages owing and unpaid under this article.
+
+Nothing in this article is to be interpreted as limiting the rights and 
+remedies which Canada or the Minister may otherwise be entitled to under 
+this Contract.
+
+</pre>
+</div>

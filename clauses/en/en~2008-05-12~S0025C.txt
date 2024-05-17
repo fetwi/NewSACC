@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in supply arrangements.
+
+Use this clause in conjunction with general conditions 2020.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Supply Arrangement Authority for the Supply Arrangement is:
+
+Name: ________________
+Title: ________________
+Public Works and Government Services Canada
+Acquisitions Branch<em></em>
+______________<em> </em>Directorate<em></em>
+Address: _______________
+
+Telephone: ____-___-____
+Facsimile: ____ ___ _____
+E-mail address: ______________
+
+The Supply Arrangement Authority is responsible for the establishment of 
+the Supply Arrangement, its administration and its revision, if applicable.
+
+
+</pre>
+</div>

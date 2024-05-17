@@ -1,0 +1,8 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Where applicable, equipment repaired, overhauled, modified or converted 
+   shall be weatherized in accordance with CFTO C-05-010-012/AM-000.   
+</pre>
+</div>

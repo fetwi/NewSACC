@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of  Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 3, Gwich'in Comprehensive Land Claim Agreement (GCLCA),
+Appendix <abbr title="Contract">C</abbr>, clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">9.7.1</span> Canada shall provide written
+notice to the Tetlit Gwich'in of any invitation for public tenders
+in respect of contracts associated with the management of heritage
+sites directly related to the history or culture of the Tetlit
+Gwich'in.</li>
+<li><span class="number">9.7.2</span> The Tetlit Gwich'in shall
+have the first opportunity to accept any fixed term contract
+offered by Canada associated with the management of a designated
+heritage site in the primary use area.</li>
+<li><span class="number">9.7.5</span> Canada shall include in any
+public tender in respect of contracts associated with the
+management of designated heritage sites in the primary use
+area:
+<ol type="a">
+<li value="1">a criterion for Tetlit Gwich'in employment; and</li>
+<li value="2">a criterion for special knowledge or experience
+related to the designated heritage site.</li>
+</ol>
+</li>
+</ul>
+</div></pre>
+</div>

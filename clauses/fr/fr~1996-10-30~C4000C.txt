@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque les frais de déplacement 
+et de subsistance ainsi que les bénéfices, déterminés conformément à la 
+politique ministérielle sur la marge bénéficiaire, doivent être directement 
+imputés au contrat. Consulter l'annexe 10.1.4 dans le Guide des 
+approvisionnements, COMMUNIQUÉ D'INTERPRÉTATION DES COÛTS - Numéro 04, Frais de 
+déplacement.  Lorsque nécessaire les clauses qui utilisent les frais de 
+subsistance recouvrés selon un taux quotidien ou une méthode d'établissement de 
+prix ferme doivent être modifiées en conséquence.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     On paiera à l'entrepreneur les frais autorisés de déplacement et de 
+       subsistance raisonnables et convenables qui sont engagés par le 
+       personnel participant directement à l'exécution des travaux, au prix 
+       coûtant calculé suivant les Principes des coûts contractuels, 
+       DSS-MAS 1031-2.  De plus, les indemnités suivantes seront versées 
+       aux taux indiqués :
+
+       RAYER OU REMPLIR S'IL Y A LIEU 
+
+       Frais généraux d'administration : ________ p. 100.
+
+       Marge bénéficiaire sur les frais de déplacements et de subsistance 
+       ainsi que les frais généraux d'administration : ________ p. 100
+
+2.     Tous les paiements peuvent faire l'objet d'une vérification du 
+       gouvernement.
+
+
+</pre>
+</div>

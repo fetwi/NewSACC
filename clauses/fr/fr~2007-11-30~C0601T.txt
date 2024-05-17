@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions non 
+concurrentielles pour des contrats avec des taux horaires fixes, pour des 
+services non commerciaux d'une valeur de 50 000 $, soumise à un soumissionnaire 
+établi au Canada.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   C0101C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le soumissionnaire atteste que le taux proposé est
+fondé sur les coûts calculés selon les Principes des
+coûts contractuels 1031-2, et que le taux en question comporte
+un profit estimatif de <var>_____</var> $.</p>
+</div></pre>
+</div>

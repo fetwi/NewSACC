@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The equivalence of your product(s) may have to be ensured by trial prior to 
+   award of purchase order, contract or standing offer.  You must be 
+   prepared to demonstrate the effectiveness of product(s) herein at the "
+   DESTINATION" specified above. 
+</pre>
+</div>

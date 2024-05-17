@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause pour indiquer qu'il faut tenir une Conférence 
+d'orientation d'approvisionnement initial (COAI) pour l'acquisition des nouveaux 
+biens d'équipement.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Sous réserve de l'alinéa 2., l'entrepreneur doit prévoir et tenir 
+       une Conférence d'orientation d'approvisionnement initial (COAI) pour 
+       préciser les exigences de la documentation d'approvisionnement 
+       initial indiquées dans le contrat.  Cette conférence, dont 
+       l'entrepreneur doit établir le procès-verbal officiel, doit avoir 
+       lieu dans les établissements de ce dernier, le plus tôt possible 
+       après la date d'entrée en vigueur du contrat.  Le Canada n'aura pas 
+       à supporter de frais pour la COAI.
+
+2.     L'entrepreneur doit se mettre en rapport avec ____ au numéro de 
+       téléphone (   ) ____-____ aussitôt après la date d'entrée en vigueur 
+       du contrat, afin :
+
+       a)     de savoir si une Conférence d'orientation est nécessaire dans 
+              ce cas en particulier;
+
+       b)     de confirmer les dispositions à prendre, si on juge que la 
+              conférence est nécessaire.
+
+3.     En principe, un ou deux délégué du ministère de la Défense nationale 
+       représenteront le Canada à la COAI, qui ne devrait normalement pas 
+       durer plus qu'une journée.
+
+</pre>
+</div>

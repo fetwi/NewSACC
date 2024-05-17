@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utilisez la clause suivante pour fournir des instructions de facturation, dans 
+le cas des besoins faisant l'objet d'un paiement unique à la livraison et à 
+l'acceptation.
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les paiements ne seront effectués qu'à la réception de factures 
+       appropriées dûment accompagnées des documents de sortie spécifiés et 
+       des autres documents requis en vertu du contrat attribué.
+
+2.     Les factures doivent être fournies en utilisant le formulaire de 
+       l'entrepreneur et contenir les renseignements suivants :
+
+       a)     date;
+       b)     nom et adresse du DESTINATAIRE;
+       c)     numéro d'article et de renvoi, produit et description des 
+              travaux;
+       d)     numéro de série du contrat et codes financiers;
+       e)     montant facturé (excluant la taxe sur les produits et 
+              services [TPS] ou la taxe de vente harmonisée [TVH]) et le 
+              montant de la TPS ou TVH s'il y a lieu, montré séparément.
+
+
+</pre>
+</div>

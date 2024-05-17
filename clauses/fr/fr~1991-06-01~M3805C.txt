@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Ajouter la clause suivante dans toutes les offres permanentes principales.  Voir 
+la directive 1100 du GPA. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tout représentant autorisé d'un ministère, d'une corporation de département 
+ou d'une corporation de mandataire du gouvernement canadien, comme les 
+définit la Loi sur la gestion des finances publiques, et tout représentant 
+autorisé d'une organisation nommément désignée dans la liste ci-jointe est 
+autorisé à commander des fournitures aux termes de la présente Offre.
+
+La liste ci-jointe peut être modifiée de temps à autre par le Ministre, et 
+   il est par les présentes convenu de tenir la présente Offre permanente 
+   principale ouverte aux organisations énumérées dans cette liste, pendant 
+   la durée de la présente Offre permanente principale. 
+</pre>
+</div>

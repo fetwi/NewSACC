@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque la documentation sur la 
+navigabilité est exigée.
+ </p>
+<p>
+  Utiliser cette clause en conjonction  avec
+  
+   A0300T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit fournir la documentation suivante sur la
+navigabilité, jointe à l'envoi ou attachée à la
+pièce :</p>
+<p><var>_______________________</var></p>
+<p><var>_______________________</var></p>
+<p><var>_______________________</var> .</p>
+</div></pre>
+</div>

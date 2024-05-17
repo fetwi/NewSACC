@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the schedule of reports to be 
+delivered is not included in the Statement of Work.
+
+Use this clause in conjunction with H4016C.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In addition to the _____ (<span class="wsInlineRemark">insert</span> "monthly" <span class="wsInlineRemark">or</span> "bi-monthly" <span class="wsInlineRemark">or</span> "quarterly" 
+as per clause H4016C) reports on the progress of the Work, the Contractor 
+must deliver a draft final report in _____ copies, no later than _____ (<span class="wsInlineRemark">
+insert date</span>), and a final report in ____ copies, no later than _____ (<span class="wsInlineRemark">
+insert date</span>), to the _______ (<span class="wsInlineRemark">insert</span> "Technical" <span class="wsInlineRemark">or</span> "Project") Authority.
+
+
+
+</pre>
+</div>

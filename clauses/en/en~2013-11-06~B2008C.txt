@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in all contracts for the acquisition of electronic goods or services that are related to public facing websites, public facing web applications or email of the Government of Canada, for a department or agency listed in Schedule I, I.1 and II of the
+  <cite>
+
+    Financial Administration Act
+   
+</cite>
+  . The Work must comply with the Government of Canada Web Standards, established by the Treasury Board that include the following standards:
+  
+   Web Accessibility
+  
+  ,
+  
+   Web Usability
+  
+  ,
+  
+   Web Interoperability
+  
+  ,
+  
+   Email
+  
+  and
+  
+   Optimizing Websites and Applications for Mobile Devices
+  
+  .
+ </p>
+<p>
+  The
+  
+   Web Standards for the Government of Canada
+  
+  and
+  
+   Standard on Email
+  
+  are revised periodically by the Treasury Board. Contracting officers should consult the most recent version of the standards available on the Treasury Board's website.
+ </p>
+<p>
+  Government of Canada Web and Email Standards may also be complemented by standards and guidelines developed by each individual department or agency for whom the Work is being performed. It is necessary to refer to the obligations of complying with these standards and guidelines as well.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Work must comply with the Government of Canada standards established by the Treasury Board, that include the Standard of Web Accessibility, the Standard on Web Usability, the Standard on Web Interoperability, the Standard on Email and the Standard on Optimizing Websites and Applications for Mobile Devices.</p>
+<p>In addition, the Work must comply with the standards and guidelines developed by the department or agency for whom the Work is being performed. Such standards and guidelines are available from the department or agency's Web Standards Centre of Expertise.</p>
+</div></pre>
+</div>

@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions, sauf dans les cas 
+décrits ci-dessous.
+
+Ne pas utiliser pour les achats de faible valeur et les marchés de complexité 
+moyenne pour lesquels les modèles en langage clair sont utilisés en conjonction 
+avec les instructions uniformisées 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Aucun paiement ne sera versé pour des coûts encourus pour la préparation et 
+la présentation d'une soumission en réponse à la demande de soumissions.  
+Le soumissionnaire sera seul responsable des coûts encourus dans la 
+préparation et la présentation d'une soumission, ainsi que des coûts 
+encourus par lui pour l'évaluation de sa soumission.
+
+</pre>
+</div>

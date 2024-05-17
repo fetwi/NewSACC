@@ -1,0 +1,67 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence to 
+outline the contractor's responsibility to inspect and provide an 
+inspection/test report of actual measurements taken when procurement is for 
+Safety Critical Class 3 Threaded Fasteners,
+  <abbr title="North Atlantic Treaty Organization">
+   NATO
+  </abbr>
+  Stock Number classes 5305, 
+5306, 5307, 5310 and 5315.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   D5510C
+  
+  or
+  
+   D5515C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">For items identified in the Contract as Safety
+Critical Class 3 fasteners, <abbr title="North Atlantic Treaty Organization">NATO</abbr> Stock Number classes 5305, 5306,
+5307, 5310 and 5315, the Contractor must provide to the Quality
+Assurance Representative (QAR) a valid inspection/test report of
+the results obtained for the following parameters:
+<ol type="a">
+<li value="1">"GO" functional diameter size;</li>
+<li value="2">pitch diameter size;</li>
+<li value="3">major diameter size (external threads only);</li>
+<li value="4">minor diameter size (does not apply to
+<span class="input-required"><var>______</var> <kbd>(<em>insert applicable
+specification</em>)</kbd></span> external threads);</li>
+<li value="5">root radius (applies to <span class="input-required"><var>______</var>
+<kbd>(<em>insert applicable specification</em>)</kbd></span>
+external threads only);</li>
+<li value="6">flank angle;</li>
+<li value="7">lead (including helix variations);</li>
+<li value="8">circularity;</li>
+<li value="9">taper;</li>
+<li value="10">runout; and</li>
+<li value="11">surface roughness.</li>
+</ol>
+</li>
+<li value="2">Definitions of these terms can be found in the latest
+issue of <span class="input-required"><var>______</var> <kbd>(<em>insert
+applicable specification</em>)</kbd></span>.</li>
+<li value="3">If the differential between "GO" functional and pitch
+diameter does not exceed <span class="input-required"><var>______</var> <kbd>(<em>insert applicable dimension
+and pertinent specification</em>)</kbd></span> of the pitch diameter
+tolerance, inspection of the flank angle and lead (including helix
+variations) is not necessary.</li>
+<li value="4">The Contractor must provide actual measurement
+results obtained for 100 percent of the contract quantity.</li>
+<li value="5">If the inspection/test report is not available from
+the manufacturer, the Contractor must have the inspection
+performed, at the Contractor's expense, either at its own facility
+or at a facility acceptable to the <abbr title="Quality Assurance Representative">QAR</abbr>.</li>
+</ol>
+</div></pre>
+</div>

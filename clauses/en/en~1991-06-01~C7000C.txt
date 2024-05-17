@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all competitive contracts awarded to other than a 
+low bidder on the basis of the application of the Canadian Content Premium 
+Policy.  Refer to DM Directive 637. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor represents and warrants that the Statement of Canadian 
+Content attached to this Contract is accurate and complete, using the 
+Definition of Canadian Content set out in that Statement.  The Contractor 
+acknowledges that the Minister relies upon such representation and warranty 
+to enter into this Contract.  Such representation and warranty of Canadian 
+content may be verified in such manner as the Minister may reasonably 
+require.
+
+Should a verification by the Minister disclose that the Work does not 
+contain the amount of Canadian content that is set out in the Statement of 
+Canadian Content, Canada shall be paid, upon written request, the amount of $0.10 
+for each dollar of shortfall.
+
+Nothing in this clause shall be interpreted as limiting the rights and 
+remedies which Canada or the Minister may otherwise have in relation to or 
+pursuant to this Contract.
+
+The Parties acknowledge that the actual damages which would be sustained by 
+Canada in the event of such shortfall would be impracticable or extremely 
+difficult to ascertain and the aforesaid amounts are stipulated to be fair 
+estimates of such actual damages.
+
+The Parties acknowledge that section 37 of the Federal Court Act, Revised 
+Statutes of Canada (1985), Chapter F7 applies to this Contract.  Canada 
+shall have the right to holdback, drawback, deduct and set off from and 
+against the amount of any monies owning at any time by Canada to the 
+Contractor any liquidated damages owing and unpaid under this clause; 
+provided that in respect of any such holdback, deduction or set off the 
+Minister shall provide a statement for such amount setting forth the amount 
+and method of calculation.
+
+In this clause, "shortfall" means the difference (measured in dollars) 
+   between the amount of Canadian content in the Work as set out in the 
+   Statement of Canadian Content and the amount of such content as 
+   disclosed in a verification by the Minister where the amount disclosed 
+   in the verification is less than the amount in the Statement.
+</pre>
+</div>

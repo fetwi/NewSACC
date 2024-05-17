@@ -1,0 +1,579 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2015-07-032003integrity-provisions">01 Integrity Provisions - Bid</a></li>
+<li><a href="#2015-07-032003procurement-business-number">02 Procurement Business Number</a></li>
+<li><a href="#2015-07-032003standard-instructions-clauses-and-conditions">03 Standard Instructions, Clauses and
+Conditions</a></li>
+<li><a href="#2015-07-032003definition-of-bidder">04 Definition of Bidder</a></li>
+<li><a href="#2015-07-032003submission-of-bids">05 Submission of Bids</a></li>
+<li><a href="#2015-07-032003late-bids">06 Late Bids</a></li>
+<li><a href="#2015-07-032003delayed-bids">07 Delayed Bids</a></li>
+<li><a href="#2015-07-032003transmission-by-facsimile">08 Transmission by Facsimile</a></li>
+<li><a href="#2015-07-032003customs-clearance">09 Customs Clearance</a></li>
+<li><a href="#2015-07-032003legal-capacity">10 Legal Capacity</a></li>
+<li><a href="#2015-07-032003rights-of-canada">11 Rights of Canada</a></li>
+<li><a href="#2015-07-032003rejection-of-bid">12 Rejection of Bid</a></li>
+<li><a href="#2015-07-032003communications-solicitation-period">13 Communications - Solicitation Period</a></li>
+<li><a href="#2015-07-032003price-justification">14 Price Justification</a></li>
+<li><a href="#2015-07-032003bid-costs">15 Bid Costs</a></li>
+<li><a href="#2015-07-032003conduct-of-evaluation">16 Conduct of Evaluation</a></li>
+<li><a href="#2015-07-032003joint-venture">17 Joint Venture</a></li>
+<li><a href="#2015-07-032003conflict-of-interest">18 Conflict of Interest - Unfair Advantage</a></li>
+<li><a href="#2015-07-032003entire-requirement">19 Entire Requirement</a></li>
+<li><a href="#2015-07-032003further-information">20 Further Information</a></li>
+</ul>
+</div>
+<h2 id="2015-07-032003integrity-provisions">01 (2015-07-03) Integrity Provisions - Bid</h2>
+<ol start="1" type="1">
+<li>Interpretation<br/>
+
+For the purposes of these Integrity Provisions, the following definitions apply:
+<dl>
+<dt>"Administrative Agreement"</dt>
+<dd>is a negotiated agreement between a supplier/potential supplier and the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> as provided for in the <cite>Ineligibility and Suspension Policy</cite>.</dd>
+<dt>"Affiliate"</dt>
+<dd>is a person, including, but not limited to, organizations, bodies corporate, societies, companies, firms, partnerships, associations of persons, parent companies or subsidiaries, whether partly or wholly-owned, as well as individuals, directors, officers and key employees if: 
+
+<ol start="1" type="i">
+<li>one controls or has the power to control the other, or </li>
+<li>a third party has the power to control both.</li>
+</ol>
+</dd>
+<dt>"Control"</dt>
+<dd>means
+<ol start="1" type="a">
+<li>direct control, such as where:
+
+<ol start="1" type="i">
+<li>a person controls a body corporate if securities of the body corporate to which are attached more than 50 percent of the votes that may be cast to elect directors of the body corporate are beneficially owned by the person and the votes attached to those securities are sufficient, if exercised, to elect a majority of the directors of the body corporate;</li>
+<li>a person controls a corporation that is organized on a cooperative basis if the person and all of the entities controlled by the person have the right to exercise more than 50 percent of the votes that may be cast at an annual meeting or to elect the majority of the directors of the corporation;</li>
+<li>a person controls an unincorporated entity, other than a limited partnership, if more than 50 percent of the ownership interests, however designated, into which the entity is divided are beneficially owned by that person and the person is able to direct the business and affairs of the entity;</li>
+<li>the general partner of a limited partnership controls the limited partnership; and</li>
+<li>a person controls an entity if the person has any direct or indirect influence that, if exercised, would result in control in fact of the entity.</li>
+</ol>
+</li>
+<li>deemed control, such as where: 
+<br/> a person who controls an entity is deemed to control any entity that is controlled, or deemed to be controlled, by the entity</li>
+<li>indirect control, such as where:
+<br/>a person is deemed to control, within the meaning of paragraph (a) or (b), an entity where the aggregate of
+<ol start="1" type="i">
+<li>any securities of the entity that are beneficially owned by that person, and</li>
+<li>any securities of the entity that are beneficially owned by any entity controlled by that person</li>
+</ol>
+is such that, if that person and all of the entities referred to in paragraph (c)(ii) that beneficially own securities of the entity were one person, that person would control the entity.</li>
+</ol>
+</dd>
+<dt>"Ineligibility"</dt>
+<dd>means not eligible for contract award.</dd>
+<dt>"Suspension"</dt>
+<dd>means a determination of temporary ineligibility by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</dd>
+</dl>
+</li>
+<li>Statement
+
+<ol start="1" type="a">
+<li>Bidders must comply with the <cite>Code of Conduct for Procurement</cite>  and be eligible for contract award under the <cite>Ineligibility and Suspension Policy</cite> In addition, Bidders must respond to bid solicitations in an honest, fair and comprehensive manner, and that accurately reflect their capacity to satisfy the requirements stipulated in the bid solicitations and resulting contracts, and submit bids as well as enter into contracts only if they will fulfill all obligations of the Contract.</li>
+<li>By submitting a bid, bidders confirm that they understand that being convicted of certain offences will render them ineligible to be awarded a contract. Canada will declare non-responsive any bid in respect of which the information requested is incomplete or inaccurate, or in respect of which the information contained in the certifications is found by Canada to be untrue in any respect, at the time of contract award. If it is determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, after contract award, that the Bidder made a false declaration, Canada will, following a notice period, have the right to terminate the Contract for default.</li>
+</ol>
+</li>
+<li>List of Names
+<ol start="1" type="a">
+<li>Bidders who are incorporated, including those bidding as a joint venture, must provide a complete list of names of all individuals who are currently directors of the Bidder. Bidders bidding as sole proprietorship, as well as those bidding as a joint venture, must provide the name of the owner(s). Bidders bidding as societies, firms, or partnerships do not need to provide lists of names.</li>
+<li>If the required list of names has not been received by the time the evaluation of bids is completed, Canada will inform the Bidder of a time frame within which to provide the information. Failure to provide the names within the time frame specified will render the bid non-responsive. Providing the required names is a mandatory requirement for contract award.</li>
+<li>The Bidder must immediately inform Canada in writing of any changes affecting the list of names of directors during this procurement process.</li>
+</ol>
+</li>
+<li>Request for Additional Information<br/>
+By submitting a bid, the Bidder certifies that it is aware, and that its Affiliates are aware, that Canada may request additional information, certifications, validations from a third party qualified by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, and other evidentiary elements proving identity or eligibility to contract with Canada. Canada may also verify the information provided by the Bidder, including the information relating to convictions for certain offences and any conditional or absolute discharges specified in these Integrity Provisions. 
+</li>
+<li>Lobbying Act<br/>
+By submitting a bid, the Bidder certifies that neither it nor any of its Affiliates have directly or indirectly, paid or agreed to pay, and will not, directly or indirectly, pay a contingency fee to any individual for the solicitation, negotiation or obtaining of the Contract if the payment of the fee would require the individual to file a return under section 5 of the <cite>Lobbying Act</cite>.</li>
+<li>
+Canadian Offences Resulting in Legal Incapacity<br/>
+By submitting a bid, the Bidder certifies that:
+<ol start="1" type="a">
+<li>it and the Affiliates of the Bidder have not been convicted of or pleaded guilty to an offence under any of the following provisions which would result in a legal incapacity under section 750(3) of the <cite>Criminal Code</cite>  and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+
+<ol start="1" type="i">
+<li>paragraph 80(1)(d) (<em>False entry, certificate or return</em>), subsection 80(2) (<em>Fraud against Her Majesty</em>) or section 154.01 (<em>Fraud against Her Majesty</em>) of the <cite>Financial Administration Act</cite>, or </li>
+<li>section 121 (<em>Frauds on the government and Contractor subscribing to election fund</em>), section 124 (<em>Selling or Purchasing Office</em>), section 380 (<em>Fraud</em>) for fraud committed against Her Majesty or section 418 (<em>Selling defective stores to Her Majesty</em>) of the <cite>Criminal Code</cite>, or</li>
+</ol>
+</li>
+<li>the Bidder has not been convicted of or pleaded guilty to the offences described in paragraph (a) and certifies that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract as described in (a).</li>
+</ol>
+</li>
+<li>Canadian Offences<br/>
+By submitting a bid, the Bidder certifies that:
+<ol start="1" type="a">
+<li>the Bidder and the Affiliates of the Bidder have not, in the last three years, from the bid submission date, been convicted of or pleaded guilty to an offence under any of the following provisions for which they would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned or received a record of discharge under the Canadian Pardons subsection:
+<ol start="1" type="i">
+<li>section 119 (<em>Bribery of judicial officers, etc</em>), section 120 (<em>Bribery of officers</em>), section 346 (<em>Extortion</em>), sections 366 to 368 (<em>Forgery and other offences resembling forgery</em>), section 382 (<em>Fraudulent manipulation of stock exchange transactions</em>), section 382.1 (<em>Prohibited insider trading</em>), section 397 (<em>Falsification of books and documents</em>), section 422 (<em>Criminal breach of contract</em>), section 426 (<em>Secret commissions</em>), section 462.31 (<em>Laundering proceeds of crime</em>) or sections 467.11 to 467.13 (<em>Participation in activities of criminal organization</em>) of the <cite>Criminal Code</cite>, or</li>
+<li>section 45 (<em>Conspiracies, agreements or arrangements between competitors</em>), section 46 (<em>Foreign directives</em>), section 47 (<em>Bid rigging</em>), section 49 (<em>Agreements or arrangements of federal financial institutions</em>), section 52 (<em>False or misleading representation</em>), section 53 (<em>Deceptive notice of winning a prize</em>) of the <cite>Competition Act</cite>, or</li>
+<li>section 239 (<em>False or deceptive statements</em>) of the <cite>Income Tax Act</cite>, or</li>
+<li>section 327 (<em>False or deceptive statements</em>) of the <cite>Excise Tax Act</cite>, or</li>
+<li>section 3 (<em>Bribing a foreign public official</em>), section 4 (<em>Accounting</em>), or section 5 (<em>Offence committed outside Canada</em>) of the <cite>Corruption of Foreign Public Officials Act</cite>, or </li>
+<li>section 5 (<em>Trafficking in substance</em>), section 6 (<em>Importing and exporting</em>), or section 7 (<em>Production of substance</em>) of the <cite>Controlled Drugs and Substance Act</cite>; or</li>
+</ol>
+</li>
+<li>the Bidder has not been convicted of or pleaded guilty to the offences described in paragraph (a) and it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible for contract award as described in (a).</li>
+</ol>
+</li>
+<li>Foreign Offences<br/>
+
+By submitting a bid, the Bidder certifies that:
+<ol start="1" type="a">
+<li>the Bidder and its Affiliates have not, in the last three years, from the bid submission date, been convicted of or pleaded guilty to an offence in a jurisdiction other than Canada that would, in Canada's opinion, be similar to an offence referenced in the Canadian Offences Resulting in Legal Incapacity and the Canadian Offences subsections, and for which it would be ineligible for contract award under these Integrity Provisions and for which they have not been pardoned under the Foreign Pardons subsection and:
+<ol start="1" type="i">
+<li>the court, before which the Bidder or its Affiliate appeared, acted within the court's jurisdiction;</li>
+<li>the Bidder or its Affiliate appeared during the court's proceedings or submitted to the court's jurisdiction;</li>
+<li>the court's decision was not obtained by fraud, and</li>
+<li>the Bidder or its Affiliate was entitled to present to the court every defence that the Bidder or its Affiliate would have been entitled to present had the proceeding been tried in Canada; or</li>
+</ol>
+</li>
+<li>it has not been convicted of or pleaded guilty to the offences described in paragraph (a) and certifies that it has not directed, influenced, authorized, assented to, acquiesced in or participated in the commission or omission of the acts or offences that would render that Affiliate ineligible to be awarded a contract as described in (a).</li>
+</ol>
+</li>
+<li>
+Ineligibility for Contract Award<br/>
+<ol start="1" type="a">
+<li>The Bidder confirms that it understands that where it or any of its Affiliates have been convicted of certain offences or have been held responsible of certain acts, as described under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences, the Foreign Offences and the Lobbying Act subsections, the Bidder or its Affiliate is ineligible to be awarded a contract, subject to a Public Interest Exception.</li>
+<li>The Bidder confirms that it understands that it is ineligible for contract award where it has been so determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under the <cite>Ineligibility and Suspension Policy</cite> and that the period of ineligibility or suspension has not expired.</li>
+</ol>
+</li>
+<li>
+Declaration of Convicted Offences<br/>
+Where a Bidder or its Affiliate is unable to certify that it has not been convicted of any of the offences referenced under the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections, the Bidder must provide with its bid the completed Declaration Form, to be given further consideration in the procurement process.
+</li>
+<li>
+Period of Ineligibility<br/>
+The following rules determine the period for which a Bidder or its Affiliate that has been convicted of certain offences is, ineligible to be awarded a contract:
+<ol start="1" type="a">
+<li>for all offences referenced under the Canadian Offences Resulting in Legal Incapacity subsection for which a Bidder or an Affiliate of the Bidder has pleaded guilty to or has been convicted of, the period of ineligibility to be awarded a contract is indefinite, subject to the Canadian Pardons subsection.</li>
+<li>subject to an Administrative Agreement, for all offences referenced under the Canadian Offences and Foreign Offences subsections for which a Bidder or an Affiliate of the Bidder has pleaded guilty to or been convicted of, as the case may be, in the last three years, from the bid submission date, the period of ineligibility for contract award is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections.</li>
+<li>subject to an Administrative Agreement, for violations of matters referenced in the <cite>Lobbying Act</cite> subsection for which a Bidder or an Affiliate of the Bidder has been found responsible, as the case may be, in the last three years, from the bid submission date, the period of ineligibility for contract award is ten years from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, subject to the Canadian Pardons and Foreign Pardons subsections.</li>
+</ol></li>
+<li>
+Canadian Pardons<br/>
+A determination of ineligibility for contract award will not be made or maintained by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> under these Integrity Provisions, in respect of an offence or act that gave rise or that could give rise to a determination of ineligibility, if the Bidder or its Affiliate has:
+<ol start="1" type="a">
+<li>been granted an absolute discharge in respect of the offence, or has been granted a conditional discharge in respect of the offence and those conditions have been satisfied;</li>
+<li>been granted a pardon under Her Majesty's royal prerogative of mercy;</li>
+<li>been granted a pardon under section 748 of the <cite>Criminal Code</cite>;</li>
+<li>received a record of suspension ordered under the <cite>Criminal Records Act</cite>; and</li>
+<li>been granted a pardon under the <cite>Criminal Records Act</cite>, as that Act read immediately before the day section 165 of the <cite>Safe Streets and Communities Act</cite> comes into force.</li>
+</ol></li>
+<li>
+Foreign Pardons<br/>
+A determination of ineligibility for entering into government contracts will not be made or maintained, as the case may be, by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> in respect of matters referenced in the Foreign Offences subsection and with respect to an offence or act that gave rise or will give rise to a determination of ineligibility, if the Bidder or its Affiliate, has at any time, benefited from foreign measures that are similar to Canadian pardons, conditional discharges, absolute discharges, record suspensions, or restoration of legal capacities by the Governor in Council.</li>
+<li>
+Suspension of Period of Ineligibility<br/>
+The Bidder confirms that it understands that a determination of ineligibility for entering into government contracts made under these Integrity Provisions may be suspended by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> through an Administrative Agreement, to the extent that it is permissible in law. The period of ineligibility applicable to that Bidder or its Affiliate and the right to participate in a given procurement process are guided by the terms and conditions of the Administrative Agreement. Subject to the Public Interest Exception, an Administrative Agreement may only suspend a period of ineligibility on solicitations issued after it has been concluded.</li>
+<li>
+Period of Ineligibility for Providing False or Misleading Information<br/>
+The Bidder confirms that it understands that where it has made a false declaration or provided false or misleading information under these Integrity Provisions, the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> will declare a Bidder to be ineligible to be awarded contracts for a period of ten years. The period of ineligibility is effective from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Period of Ineligibility for Breaching Administrative Agreements<br/>
+The Bidder confirms that it understands that where it has concluded an Administrative Agreement and that it has breached any of its terms and conditions, the Minister of PWGS will lengthen the period of ineligibility for a period to be determined by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Suspension of a Bidder<br/>
+The Bidder confirms that it understands that the Minister of <abbr title="Public Works and Government Services">PWGS</abbr> may suspend a Bidder from being awarded a contract for a period of up to 18 months, subject to renewal, pending completion of the criminal proceeding, if the Bidder has been charged with any of the offences listed in the Canadian Offences Resulting in Legal Incapacity, the Canadian Offences and the Foreign Offences subsections or if the Bidder has admitted to being guilty of any of these offences. The period of suspension is effective from the date of determination by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>. A period of suspension does not abridge or suspend all other periods of ineligibility that may be imposed on a Bidder by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>.</li>
+<li>
+Third Party Validation<br/>
+The Bidder confirms that it understands that where it or any of the Bidder's Affiliates has been subject to a period of ineligibility to be awarded contracts, for which the Canadian Pardons and the Foreign Pardons subsections do not apply, the Bidder must provide by bid closing date, a confirmation from an independent third party, recognized in advance by the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, confirming that measures have been put in place in order to avoid the re-occurrence of such wrongdoings that led to the convictions. Failure to provide the said confirmation from an independent third party renders this bid non-responsive.</li>
+<li>
+Subcontractors<br/>
+The Bidder must ensure that contracts with first tier subcontractors include Integrity Provisions similar to those imposed in the resulting contract.</li>
+<li>
+Public Interest Exception<br/>
+The Bidder confirms that it understands:
+<ol start="1" type="a">
+<li>that, with the exception of a legal incapacity to contract resulting from section 750(3) of the Criminal Code, Canada may enter in a contract with a Bidder, or any of its Affiliates, which have been convicted of or have pleaded guilty to any of the offences referenced in the Canadian Offences and Foreign Offences subsections, where Canada considers it necessary to the public interest for reasons which include, but are not limited to:
+<ol start="1" type="i">
+<li>the need is one of pressing emergency in which delay would be injurious to the public interest;</li>
+<li>the Bidder is the only person capable of performing the contract;</li>
+<li>the contract is essential to maintain sufficient emergency stocks in order to safeguard against possible shortages; and;</li>
+<li>not entering into the contract with the Bidder would have a significant adverse impact on the health, national security, safety, security or economic or financial well-being of the people of Canada or the functioning of any portion of the federal public administration;</li>
+</ol>
+</li>
+<li>Canada may only enter into a contract with a Bidder under this subsection where the ineligible Bidder has concluded an Administrative Agreement with the Minister of <abbr title="Public Works and Government Services">PWGS</abbr>, on such terms and conditions that are necessary to safeguard the integrity of the procurement process and can apply to any procurement. The Administrative Agreement need not be concluded in advance of the solicitation.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2015-07-032003procurement-business-number">02 (2012-03-02) Procurement Business Number</h2>
+<p>Suppliers are required to have a Procurement Business
+Number (PBN) before contract award. Suppliers may register for a
+<abbr title="Procurement Business Number">PBN</abbr> online at Supplier Registration
+Information. For non-Internet registration, suppliers may
+contact the InfoLine at 1-800-811-1148 to obtain the telephone
+number of the nearest Supplier Registration Agent.</p>
+<h2 id="2015-07-032003standard-instructions-clauses-and-conditions">03 (2007-05-25) Standard Instructions, Clauses and Conditions</h2>
+<p>Pursuant to the <cite>Department of Public
+Works and Government Services Act</cite> (<abbr title="Statutes of Canada">S.C.</abbr> 1996, c.16), the
+instructions, clauses and conditions identified in the bid
+solicitation and resulting contract by number, date, and title are
+incorporated by reference into and form part of the bid
+solicitation and resulting contract as though expressly set out in
+the bid solicitation and resulting contract.</p>
+<h2 id="2015-07-032003definition-of-bidder">04 (2007-11-30) Definition of Bidder</h2>
+<p>"<dfn>Bidder</dfn>" means the person or entity (or, in the case of
+a joint venture, the persons or entities) submitting a bid to
+perform a contract for goods, services or both. It does not include
+the parent, subsidiaries or other affiliates of the Bidder, or its
+subcontractors.</p>
+<h2 id="2015-07-032003submission-of-bids">05 (2014-09-25) Submission of Bids</h2>
+<ol type="1">
+<li value="1">Canada requires that each bid, at closing date and
+time or upon request from the Contracting Authority, be signed by
+the Bidder or by an authorized representative of the Bidder. If a
+bid is submitted by a joint venture, it must be in accordance with
+section 17.</li>
+<li value="2">It is the Bidder's responsibility to:
+<ol type="a">
+<li value="1">obtain clarification of the requirements contained in
+the bid solicitation, if necessary, before submitting a bid;</li>
+<li value="2">prepare its bid in accordance with the instructions
+contained in the bid solicitation;</li>
+<li value="3">submit by closing date and time a complete bid;</li>
+<li value="4">send its bid only to Public Works and Government
+Services Canada (PWGSC) Bid Receiving Unit specified on page 1 of
+the bid solicitation or to the address specified in the bid
+solicitation. The facsimile number and related instructions for
+bids transmitted by facsimile are provided in section 08;</li>
+<li value="5">ensure that the Bidder's name, return address, the
+bid solicitation number, and bid solicitation closing date and time
+are clearly visible on the envelope or the parcel(s) containing the
+bid; and,</li>
+<li value="6">provide a comprehensible and sufficiently detailed
+bid, including all requested pricing details, that will permit a
+complete evaluation in accordance with the criteria set out in the
+bid solicitation.</li>
+</ol>
+</li>
+<li value="3">Canada will make available Notices of Proposed Procurement (NPP), bid solicitations and related documents for download through the Government Electronic Tendering Service (GETS). Canada is not responsible and will not assume any liabilities whatsoever for the information found on websites of third parties. In the event an NPP, bid solicitation or related documentation would be amended, Canada will not be sending notifications. Canada will post all amendments, including significant enquiries received and their replies, using <abbr title="Government Electronic Tendering Service">GETS</abbr>. It is the sole responsibility of the Bidder to regularly consult <abbr title="Government Electronic Tendering Service">GETS</abbr> for the most up-to-date information. Canada will not be liable for any oversight on the Bidder's part nor for notification services offered by a third party.</li>
+<li value="4">Bids will remain open for acceptance for a period of
+not less than 60 days from the closing date of the bid
+solicitation, unless specified otherwise in the bid solicitation.
+Canada reserves the right to seek an extension of the bid validity
+period from all responsive bidders in writing, within a minimum of
+3 days before the end of the bid validity period. If the
+extension is accepted by all responsive bidders, Canada will
+continue with the evaluation of the bids. If the extension is not
+accepted by all responsive bidders, Canada will, at its sole
+discretion, either continue with the evaluation of the bids of
+those who have accepted the extension or cancel the
+solicitation.</li>
+<li value="5">Bid documents and supporting information may be
+submitted in either English or French.</li>
+<li value="6">Bids received on or before the stipulated bid
+solicitation closing date and time will become the property of
+Canada and will not be returned. All bids will be treated as
+confidential, subject to the provisions of the <cite>
+Access to Information Act</cite> (<abbr title="Revised Statutes">R.S.</abbr> 1985, <abbr title="chapter">c.</abbr> A-1) and the
+<cite>
+Privacy Act</cite> (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> P-21).</li>
+<li value="7">Unless specified otherwise in the bid solicitation,
+Canada will evaluate only the documentation provided with a
+bidder's bid. Canada will not evaluate information such as
+references to Web site addresses where additional information can
+be found, or technical manuals or brochures not submitted with the
+bid.</li>
+<li value="8">A bid cannot be assigned or transferred in whole or
+in part.</li>
+</ol>
+<h2 id="2015-07-032003late-bids">06 (2007-05-25) Late Bids</h2>
+<p><abbr title="Public Works and Government Services Canada">PWGSC</abbr> will return bids delivered after the stipulated bid
+solicitation closing date and time, unless they qualify as a
+delayed bid as described below.</p>
+<h2 id="2015-07-032003delayed-bids">07 (2012-03-02) Delayed Bids</h2>
+<ol type="1">
+<li value="1">A bid delivered to the specified bid receiving unit
+after the closing date and time but before the contract award date
+may be considered, provided the bidder can prove the delay is due
+solely to a delay in delivery that can be attributed to the Canada
+Post Corporation (CPC) (or national equivalent of a foreign
+country). Purolator <abbr title="Incorporated">Inc.</abbr> is not considered to be part of <abbr title="Canada Post Corporation">CPC</abbr> for
+the purposes of delayed bids. The only pieces of evidence relating
+to a delay in the <abbr title="Canada Post Corporation">CPC</abbr> system that are acceptable to <abbr title="Public Works and Government Services Canada">PWGSC</abbr> are:
+<ol type="a">
+<li value="1">a <abbr title="Canada Post Corporation">CPC</abbr> cancellation date stamp; or</li>
+<li value="2">a <abbr title="Canada Post Corporation">CPC</abbr> Priority Courier bill of lading; or</li>
+<li value="3">a <abbr title="Canada Post Corporation">CPC</abbr> Xpresspost label</li>
+</ol>
+that clearly indicates that the bid was mailed before the bid
+closing date.</li>
+<li value="2">Misrouting, traffic volume, weather disturbances,
+labour disputes or any other causes for the late delivery of bids
+are not acceptable reasons for the bid to be accepted by
+<abbr title="Public Works and Government Services Canada">PWGSC</abbr>.</li>
+<li value="3">Postage meter imprints, whether imprinted by the
+Bidder, the <abbr title="Canada Post Corporation">CPC</abbr> or the postal authority outside Canada, are not
+acceptable as proof of timely mailing.</li>
+</ol>
+<h2 id="2015-07-032003transmission-by-facsimile">08 (2012-03-02) Transmission by Facsimile</h2>
+<ol type="1">
+<li value="1">Unless specified otherwise in the bid solicitation,
+bids may be submitted by facsimile. The only acceptable facsimile
+number for responses to bid solicitations issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
+headquarters is 819-997-9776 or, if applicable, the facsimile
+number identified in the bid solicitation. The facsimile number for
+responses to bid solicitations issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> regional offices is
+identified in the bid solicitation.</li>
+<li value="2">For bids transmitted by facsimile, Canada will not be
+responsible for any failure attributable to the transmission or
+receipt of the faxed bid including, but not limited to, the
+following:
+<ol type="a">
+<li value="1">receipt of garbled or incomplete bid;</li>
+<li value="2">availability or condition of the receiving facsimile
+equipment;</li>
+<li value="3">incompatibility between the sending and receiving
+equipment;</li>
+<li value="4">delay in transmission or receipt of the bid;</li>
+<li value="5">failure of the Bidder to properly identify the
+bid;</li>
+<li value="6">illegibility of the bid; or</li>
+<li value="7">security of bid data.</li>
+</ol>
+</li>
+<li value="3">A bid transmitted by facsimile constitutes the formal
+bid of the Bidder and must be submitted in accordance with section
+05.</li>
+</ol>
+<h2 id="2015-07-032003customs-clearance">09 (2010-10-07) Customs Clearance</h2>
+<p>It is the responsibility of the Bidder to allow sufficient time
+to obtain customs clearance, where required, before the bid closing
+date and time. Delays related to the obtaining of customs clearance
+cannot be construed as "undue delay in the mail" and will not be
+accepted as a delayed bid under section 07.</p>
+<h2 id="2015-07-032003legal-capacity">10 (2007-05-25) Legal Capacity</h2>
+<p>The Bidder must have the legal capacity to contract. If the
+Bidder is a sole proprietorship, a partnership or a corporate body,
+the Bidder must provide, if requested by the Contracting Authority,
+a statement and any requested supporting documentation indicating
+the laws under which it is registered or incorporated together with
+the registered or corporate name and place of business. This also
+applies to bidders submitting a bid as a joint venture.</p>
+<h2 id="2015-07-032003rights-of-canada">11 (2007-11-30) Rights of Canada</h2>
+<p>Canada reserves the right to:</p>
+<ol type="a">
+<li value="1">reject any or all bids received in response to the
+bid solicitation;</li>
+<li value="2">enter into negotiations with bidders on any or all
+aspects of their bids;</li>
+<li value="3">accept any bid in whole or in part without
+negotiations;</li>
+<li value="4">cancel the bid solicitation at any time;</li>
+<li value="5">reissue the bid solicitation;</li>
+<li value="6">if no responsive bids are received and the
+requirement is not substantially modified, reissue the bid
+solicitation by inviting only the bidders who bid to resubmit bids
+within a period designated by Canada; and,</li>
+<li value="7">negotiate with the sole responsive Bidder to ensure
+best value to Canada.</li>
+</ol>
+<h2 id="2015-07-032003rejection-of-bid">12 (2014-09-25) Rejection of Bid</h2>
+<ol type="1">
+<li value="1">Canada may reject a bid where any of the following
+circumstances is present:
+<ol type="a">
+<li value="1">the Bidder is subject to a Vendor Performance
+Corrective Measure, under the Vendor Performance Corrective Measure Policy, which
+renders the Bidder ineligible to bid on the requirement;</li>
+<li value="2">an employee, or subcontractor included as part of the
+bid, is subject to a Vendor Performance Corrective Measure, under
+the Vendor Performance Corrective Measure Policy, which would render that employee or
+subcontractor ineligible to bid on the requirement, or the portion
+of the requirement the employee or subcontractor is to
+perform;</li>
+<li value="3">the Bidder is bankrupt or where, for whatever reason, its activities are rendered inoperable for an extended period;</li>
+<li value="4">evidence, satisfactory to Canada, of fraud, bribery, fraudulent misrepresentation or failure to comply with any law protecting individuals against any manner of discrimination, has been received with respect to the Bidder, any of its employees or any subcontractor included as part of the bid;</li>
+<li value="5">evidence satisfactory to Canada that based on past conduct or behavior, the Bidder, a subcontractor or a person who is to perform the Work is unsuitable or has conducted himself/herself improperly;</li>
+<li value="6">with respect to current or prior transactions with
+the Government of Canada:
+<ol type="i">
+<li value="1">Canada has exercised its contractual remedies of
+suspension or termination for default with respect to a contract
+with the Bidder, any of its employees or any subcontractor included
+as part of the bid;</li>
+<li value="2">Canada determines that the Bidder's performance on other
+contracts, including the efficiency and workmanship as well as the
+extent to which the Bidder performed the Work in accordance with
+contractual clauses and conditions, is sufficiently poor to
+jeopardize the successful completion of the requirement being bid
+on.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">Where Canada intends to reject a bid pursuant to a
+provision of subsection 1. (f), the Contracting Authority will so
+inform the Bidder and provide the Bidder 10 days within which
+to make representations, before making a final decision on the bid
+rejection.</li>
+<li value="3">Canada reserves the right to apply additional scrutiny, in particular, when multiple bids are received in response to a bid solicitation from a single bidder or a joint venture. Canada reserves the right to:
+<ol type="i">
+<li value="1">reject any or all of the bids submitted by a single bidder or joint venture if their inclusion in the evaluation has the effect of prejudicing the integrity and fairness of the process, or;</li>
+<li value="2">reject any or all of the bids submitted by a single bidder or joint venture if their inclusion in the procurement process would distort the solicitation evaluation, and would cause a result that would not reasonably have been expected under prevailing market conditions and/or would not provide good value to Canada.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2015-07-032003communications-solicitation-period">13 (2014-03-01) Communications - Solicitation Period</h2>
+<p>To ensure the integrity of the competitive bid process,
+enquiries and other communications regarding the bid solicitation
+must be directed only to the Contracting Authority identified in
+the bid solicitation. Failure to comply with this requirement may
+result in the bid being declared non-responsive.</p>
+<p>To ensure consistency and quality of information provided to bidders, significant enquiries received and their replies will be posted on the Government Electronic Tendering Service (GETS). For further information, consult subsection 3 of the Submission of Bids section.</p>
+<h2 id="2015-07-032003price-justification">14 (2007-11-30) Price Justification</h2>
+<p>In the event that the Bidder's bid is the sole responsive bid
+received, the Bidder must provide, on Canada's request, one or more
+of the following price justification:</p>
+<ol type="a">
+<li value="1">a current published price list indicating the
+percentage discount available to Canada; or</li>
+<li value="2">a copy of paid invoices for the like quality and
+quantity of the goods, services or both sold to other customers;
+or</li>
+<li value="3">a price breakdown showing the cost of direct labour,
+direct materials, purchased items, engineering and plant overheads,
+general and administrative overhead, transportation, etc., and
+profit; or</li>
+<li value="4">price or rate certifications; or</li>
+<li value="5">any other supporting documentation as requested by
+Canada.</li>
+</ol>
+<h2 id="2015-07-032003bid-costs">15 (2007-05-25) Bid Costs</h2>
+<p>No payment will be made for costs incurred in the preparation
+and submission of a bid in response to the bid solicitation. Costs
+associated with preparing and submitting a bid, as well as any
+costs incurred by the Bidder associated with the evaluation of the
+bid, are the sole responsibility of the Bidder.</p>
+<h2 id="2015-07-032003conduct-of-evaluation">16 (2008-05-12) Conduct of Evaluation</h2>
+<ol type="1">
+<li value="1">In conducting its evaluation of the bids, Canada may,
+but will have no obligation to, do the following:
+<ol type="a">
+<li value="1">seek clarification or verification from bidders
+regarding any or all information provided by them with respect to
+the bid solicitation;</li>
+<li value="2">contact any or all references supplied by bidders to
+verify and validate any information submitted by them;</li>
+<li value="3">request, before award of any contract, specific
+information with respect to bidders' legal status;</li>
+<li value="4">conduct a survey of bidders' facilities and/or
+examine their technical, managerial, and financial capabilities to
+determine if they are adequate to meet the requirements of the bid
+solicitation;</li>
+<li value="5">correct any error in the extended pricing of bids by
+using unit pricing and any error in quantities in bids to reflect
+the quantities stated in the bid solicitation; in the case of error
+in the extension of prices, the unit price will govern.</li>
+<li value="6">verify any information provided by bidders through
+independent research, use of any government resources or by
+contacting third parties;</li>
+<li value="7">interview, at the sole costs of bidders, any bidder
+and/or any or all of the resources proposed by bidders to fulfill
+the requirement of the bid solicitation.</li>
+</ol>
+</li>
+<li value="2">Bidders will have the number of days specified in the
+request by the Contracting Authority to comply with any request
+related to any of the above items. Failure to comply with the
+request may result in the bid being declared non-responsive.</li>
+</ol>
+<h2 id="2015-07-032003joint-venture">17 (2010-01-11) Joint Venture</h2>
+<ol type="1">
+<li value="1">A joint venture is an association of two or more
+parties who combine their money, property, knowledge, expertise or
+other resources in a single joint business enterprise, sometimes
+referred as a consortium, to bid together on a requirement. Bidders
+who bid as a joint venture must indicate clearly that it is a joint
+venture and provide the following information:
+<ol type="a">
+<li value="1">the name of each member of the joint venture;</li>
+<li value="2">the Procurement Business Number of each member of the
+joint venture;</li>
+<li value="3">the name of the representative of the joint venture,
+i.e. the member chosen by the other members to act on their behalf,
+if applicable;</li>
+<li value="4">the name of the joint venture, if applicable.</li>
+</ol>
+</li>
+<li value="2">If the information is not clearly provided in the
+bid, the Bidder must provide the information on request from the
+Contracting Authority.</li>
+<li value="3">The bid and any resulting contract must be signed by
+all the members of the joint venture unless one member has been
+appointed to act on behalf of all members of the joint venture. The
+Contracting Authority may, at any time, require each member of the
+joint venture to confirm that the representative has been appointed
+with full authority to act as its representative for the purposes
+of the bid solicitation and any resulting contract. If a contract
+is awarded to a joint venture, all members of the joint venture
+will be jointly and severally or solidarily liable for the
+performance of any resulting contract.</li>
+</ol>
+<h2 id="2015-07-032003conflict-of-interest">18 (2012-03-02) Conflict of Interest - Unfair Advantage</h2>
+<ol type="1">
+<li value="1">In order to protect the integrity of the procurement
+process, bidders are advised that Canada may reject a bid in the
+following circumstances:
+<ol type="a">
+<li value="1">if the Bidder, any of its subcontractors, any of
+their respective employees or former employees was involved in any
+manner in the preparation of the bid solicitation or in any
+situation of conflict of interest or appearance of conflict of
+interest;</li>
+<li value="2">if the Bidder, any of its subcontractors, any of
+their respective employees or former employees had access to
+information related to the bid solicitation that was not available
+to other bidders and that would, in Canada's opinion, give or
+appear to give the Bidder an unfair advantage.</li>
+</ol>
+</li>
+<li value="2">The experience acquired by a bidder who is providing
+or has provided the goods and services described in the bid
+solicitation (or similar goods or services) will not, in itself, be
+considered by Canada as conferring an unfair advantage or creating
+a conflict of interest. This bidder remains however subject to the
+criteria established above.</li>
+<li value="3">Where Canada intends to reject a bid under this
+section, the Contracting Authority will inform the Bidder and
+provide the Bidder an opportunity to make representations before
+making a final decision. Bidders who are in doubt about a
+particular situation should contact the Contracting Authority
+before bid closing. By submitting a bid, the Bidder represents that
+it does not consider itself to be in conflict of interest nor to
+have an unfair advantage. The Bidder acknowledges that it is within
+Canada's sole discretion to determine whether a conflict of
+interest, unfair advantage or an appearance of conflict of interest
+or unfair advantage exists.</li>
+</ol>
+<h2 id="2015-07-032003entire-requirement">19 (2007-11-30) Entire Requirement</h2>
+<p>The bid solicitation documents contain all the requirements
+relating to the bid solicitation. Any other information or
+documentation provided to or obtained by a bidder from any source
+are not relevant. Bidders should not assume that practices used
+under previous contracts will continue, unless they are described
+in the bid solicitation. Bidders should also not assume that their
+existing capabilities meet the requirements of the bid solicitation
+simply because they have met previous requirements.</p>
+<h2 id="2015-07-032003further-information">20 (2007-11-30) Further Information</h2>
+<ol type="1">
+<li value="1">For further information, bidders may contact the
+Contracting Authority identified in the bid solicitation.</li>
+<li value="2">For bid solicitations issued out of <abbr title="Public Works and Government Services Canada">PWGSC</abbr>
+headquarters, enquiries concerning receipt of bids may be addressed
+to the Bid Receiving Unit, Procurement Operational Support
+Division, telephone 819-956-3370. For bid solicitations issued out
+of <abbr title="Public Works and Government Services Canada">PWGSC</abbr> regional offices, enquiries concerning receipt of bids may
+be addressed to the Contracting Authority identified in the bid
+solicitation.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The documents specified below form part of and are incorporated into this 
+   Contract. If there is a discrepancy between the wording of any other 
+   document which appears on the list, the wording of the document which 
+   first appears shall prevail over the wording of any document which 
+   subsequently appears on the list:    ______  
+</pre>
+</div>

@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Selon les plus récents calculs, le coût total des services qui pourraient 
+être commandés par le Canada en vertu des offres à commandes proposées 
+pourrait se chiffrer à ______ $.  Le Canada a donc l'intention d'émettre, 
+jusqu'à concurrence de ce montant global, une série d'offres à commandes 
+aux fournisseurs de services temporaires déjà accrédités.
+
+</pre>
+</div>

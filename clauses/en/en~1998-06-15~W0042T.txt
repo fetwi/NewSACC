@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The benefits that apply to this procurement are contained in: Section 4, 
+Inuit of Nunavut Land Claims Agreement (NLCA), clause:
+
+24.7.1 The Designated Inuit Organization shall prepare and maintain a 
+              comprehensive list of Inuit firms, together with information 
+              on the goods and services which they would be in a position 
+              to furnish in relation to government contracts. This list 
+              shall be considered by the Government of Canada and the 
+              Territorial Government in meeting their obligations under 
+              this Article.
+
+</pre>
+</div>

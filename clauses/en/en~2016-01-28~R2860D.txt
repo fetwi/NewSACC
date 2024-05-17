@@ -1,0 +1,360 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  For PWGSC use only, other departments are to use R2865D.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2016-01-28R2860Dchanges-in-the-work">GC6.1 Changes in the Work</a></li>
+<li><a href="#2016-01-28R2860Dchanges-in-subsurface-conditions">GC6.2 Changes in Subsurface Conditions</a></li>
+<li><a href="#2016-01-28R2860Dhuman-remains-archaeological-remains-and-items-of-interest">GC6.3 Human Remains, Archaeological Remains and Items of Historical or Scientific Interest</a></li>
+<li><a href="#2016-01-28R2860Ddetermination-of-price">GC6.4 Determination of Price</a>
+<ul class="no-markers">
+<li><a href="#2016-01-28R2860Dprice-determination-prior-to-undertaking-changes">GC6.4.1 Price Determination Prior to Undertaking Changes</a></li>
+<li><a href="#2016-01-28R2860Dprice-determination-following-completion-of-changes">GC6.4.2 Price Determination Following Completion of Changes</a></li>
+<li><a href="#2016-01-28R2860Dprice-determination-variations-in-tendered-quantities">GC6.4.3 Price Determination - Variations in Tendered Quantities</a></li>
+</ul>
+</li>
+<li><a href="#2016-01-28R2860Ddelays-and-extension-of-time">GC6.5 Delays and Extension of Time</a></li>
+</ul>
+</div>
+<h2 id="2016-01-28R2860Dchanges-in-the-work">GC6.1 (2008-05-12) Changes in the Work</h2>
+<ol type="1">
+<li value="1">At any time before issuance of a Certificate of
+Completion, Canada may issue orders for additions, deletions or
+other changes to the Work, or changes in the location or position
+of the whole or any part of the Work, if the addition, deletion,
+change or other revision is deemed by Canada to be consistent with
+the general intent of the Contract.</li>
+<li value="2">An order referred to in paragraph 1) of GC6.1 shall
+be in writing and given to the Contractor in accordance with GC2.3,
+"Notices".</li>
+<li value="3">Upon receipt of an order, the Contractor shall
+promptly perform the work in accordance with the order as if the
+order had appeared in and been part of the original Contract.</li>
+<li value="4">If anything done or omitted by the Contractor
+pursuant to an order increases or decreases the cost of the Work to
+the Contractor, payment for the work shall be made in accordance
+with GC6.4, "Determination of Price".</li>
+</ol>
+<h2 id="2016-01-28R2860Dchanges-in-subsurface-conditions">GC6.2 (2008-05-12) Changes in Subsurface Conditions</h2>
+<ol type="1">
+<li value="1">If, during the performance of the Work, the
+Contractor encounters subsurface conditions that are substantially
+different from the subsurface conditions described in the tender
+documents supplied to the Contractor, or a reasonable assumption of
+fact based thereon, the Contractor shall give notice to Canada
+immediately upon becoming aware of the situation.</li>
+<li value="2">If the Contractor is of the opinion that the
+Contractor may incur or sustain any extra expense or any loss or
+damage that is directly attributable to the changed subsurface
+conditions, the Contractor shall within 10 days of the date the
+changed subsurface conditions were encountered, give Canada written
+notice of intention to claim for that extra expense, loss or
+damage.</li>
+<li value="3">If the Contractor has given a notice referred to in
+paragraph 2) of GC6.2, the Contractor shall give Canada a written
+claim for extra expense, loss or damage no later than 30 days after
+the date that a Certificate of Substantial Performance is
+issued.</li>
+<li value="4">A written claim referred to in paragraph 3) of GC6.2
+shall contain a sufficient description of the facts and
+circumstances of the occurrence that is the subject of the claim to
+enable Canada to determine whether or not the claim is justified,
+and the Contractor shall supply such further and other information
+for that purpose as Canada requires.</li>
+<li value="5">If Canada determines that a claim referred to in
+paragraph 3) of GC6.2 is justified, Canada shall make an extra
+payment to the Contractor in an amount that is calculated in
+accordance with GC6.4, "Determination of Price".</li>
+<li value="6">If, in the opinion of Canada, the Contractor effects
+a saving of expenditure that is directly attributable to a
+substantial difference between the information relating to
+subsurface conditions at the site of the Work that is contained in
+the tender documents, or a reasonable assumption of fact based
+thereon, and the actual subsurface conditions encountered by the
+Contractor, the Contract Amount shall be reduced by the amount of
+the saving of expenditure determined in accordance with GC6.4,
+"Determination of Price".</li>
+<li value="7">If the Contractor fails to give a notice referred to
+in paragraph 2) of GC6.2 and a claim referred to in paragraph 3) of
+GC6.2 within the times stipulated, an extra payment shall not be
+made to the Contractor in respect of the occurrence.</li>
+<li value="8">Canada does not warrant the content expressed in any
+subsurface report available for the perusal of the Contractor that
+does not form part of the tender and contract documents.</li>
+</ol>
+<h2 id="2016-01-28R2860Dhuman-remains-archaeological-remains-and-items-of-interest">GC6.3 (2008-05-12) Human Remains, Archaeological Remains and Items of Historical or Scientific Interest</h2>
+<ol type="1">
+<li value="1">For the purposes of this clause
+<ol type="a">
+<li value="1">"<dfn>human remains</dfn>" means the whole or any part
+of a deceased human being, irrespective of the time of death;</li>
+<li value="2">"<dfn>archaeological remains</dfn>" are items, artefacts or
+things made, modified or used by human beings in antiquity and may
+include, but not be limited to, stone, wood or iron structures or
+monuments, dump deposits, bone artefacts, weapons, tools, coins,
+and pottery; and</li>
+<li value="3">"<dfn>items of historical or scientific interest</dfn>" are
+naturally occurring or manufactured objects or things of any age
+that are not archaeological remains but may be of interest to
+society because of their historical or scientific significance,
+value, rarity, natural beauty, or other quality.</li>
+</ol>
+</li>
+<li value="2">If, during the course of the Work, the Contractor
+encounters any object, item or thing which is described in
+paragraph 1) of GC6.3 or which resembles any object, item or thing
+described in paragraph 1) of GC6.3, the Contractor shall
+<ol type="a">
+<li value="1">take all reasonable steps, including stopping work in
+the affected area, to protect and preserve the object, item or
+thing;</li>
+<li value="2">immediately notify Canada of the circumstances in
+writing; and</li>
+<li value="3">take all reasonable steps to minimize additional
+costs that may accrue as a result of any work stoppage.</li>
+</ol>
+</li>
+<li value="3">Upon receipt of a notification in accordance with
+subparagraph 2)(b) of GC6.3, Canada shall promptly determine
+whether the object, item or thing is one described in, or
+contemplated by paragraph 1) of GC6.3, and shall notify the
+Contractor in writing of any action to be performed, or work to be
+carried out, by the Contractor as a result of Canada's
+determination.</li>
+<li value="4">Canada may, at any time, enlist the services of
+experts to assist in the investigation, examination, taking of
+measurements or other such recordings, placing of permanent
+protection around or removing of the object, item or thing
+encountered by the Contractor, and the Contractor shall, to the
+satisfaction of Canada, allow them access and co-operate with them
+in the carrying out of their duties and obligations.</li>
+<li value="5">Human remains, archaeological remains and items of
+historical or scientific interest encountered at the site of the
+Work shall be deemed to be the property of Canada.</li>
+<li value="6">Except as may be otherwise provided for in the
+Contract, the provisions of GC6.4, "Determination of Price", and
+GC6.5, "Delays and Extension of Time", shall apply.</li>
+</ol>
+<h2 id="2016-01-28R2860Ddetermination-of-price">GC6.4 (2013-04-25) Determination of Price</h2>
+<h3 id="2016-01-28R2860Dprice-determination-prior-to-undertaking-changes">GC6.4.1 Price Determination Prior to Undertaking Changes</h3>
+<ol type="1">
+<li value="1">If a Lump Sum Arrangement applies to the Contract or
+a part thereof, the price of any change shall be the aggregate
+estimated cost of labour, Plant and Material that is required for
+the change as agreed upon in writing by the Contractor and Canada
+plus an allowance for supervision, co-ordination, administration,
+overhead, margin and the risk of undertaking the work within the
+stipulated amount, which allowance shall be equal to
+<ol type="a">
+<li value="1">20 percent of the aggregate costs referred to herein
+for that portion of the Work done by the Contractor's own forces,
+if the aggregate cost of the Work does not exceed $50,000;</li>
+<li value="2">15 percent of the aggregate costs referred to herein
+for that portion of the Work that is done by subcontract, if the
+aggregate cost of the Work does not exceed $50,000; or</li>
+<li value="3">a negotiated percentage of the aggregate costs
+referred to herein or a negotiated amount
+<ol type="i">
+<li value="1">if the aggregate cost of the Work exceeds $50,000;
+or</li>
+<li value="2">if the Contractor and Canada agree in writing.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">If a Unit Price Arrangement applies to the Contract
+or a part thereof, the Contractor and Canada may, by agreement in
+writing, add items, units of measurement, estimated quantities and
+prices per unit to the Unit Price Table.</li>
+<li value="3">A price per unit referred to in paragraph 2) of
+GC6.4.1 shall be determined on the basis of the aggregate estimated
+cost of labour, Plant and Material that is required for the
+additional item as agreed upon by the Contractor and Canada, plus
+an allowance determined in accordance with paragraph 1) of
+GC6.4.1.</li>
+<li value="4">To facilitate approval of the price of the change or
+the additional price per unit as applicable, the Contractor shall
+submit a cost estimate breakdown identifying, as a minimum, the
+estimated cost of labour, Plant, Material, each subcontract amount,
+and the amount of the allowance.</li>
+<li value="5">If no agreement is reached as contemplated in
+paragraph 1) of GC6.4.1, the price shall be determined in
+accordance with GC6.4.2.</li>
+<li value="6">If no agreement is reached, as contemplated in
+paragraphs 2) and 3) of GC6.4.1, Canada shall determine the class
+and the unit of measurement of the item of labour, Plant or
+Material and the price per unit shall be determined in accordance
+with GC6.4.2.</li>
+</ol>
+<h3 id="2016-01-28R2860Dprice-determination-following-completion-of-changes">GC6.4.2 Price Determination Following Completion of Changes</h3>
+<ol type="1">
+<li value="1">If it is not possible to predetermine, or if there is
+failure to agree upon the price of a change in the Work, the price
+of the change shall be equal to the aggregate of
+<ol type="a">
+<li value="1">all reasonable and proper amounts actually expended
+or legally payable by the Contractor in respect of the labour,
+Plant and Material that fall within one of the classes of
+expenditure described in paragraph 2) of GC6.4.2, that are directly
+attributable to the performance of the Contract;</li>
+<li value="2">an allowance for profit and all other expenditures or
+costs, including overhead, general administration costs, financing
+and interest charges, in an amount that is equal to 10 percent of the sum
+of the expenses referred to in subparagraph 1)(a) of GC6.4.2;
+and</li>
+<li value="3">interest on the amounts determined under
+subparagraphs 1)(a) and 1)(b) of GC6.4.2 calculated in accordance
+with GC5.12, "Interest on Settled Claims";</li>
+</ol>
+</li>
+<li value="2">The cost of labour, Plant and Material referred to in
+subparagraph 1)(a) of GC6.4.2 shall be limited to the following
+categories of expenditure:
+<ol type="a">
+<li value="1">payments to Subcontractors and Suppliers;</li>
+<li value="2">wages, salaries, bonuses and, if applicable, travel
+and lodging expenses of employees of the Contractor located at the
+site of the Work and that portion of wages, salaries, bonuses and,
+if applicable, travel and lodging expenses of personnel of the
+Contractor generally employed at the head office or at a general
+office of the Contractor provided they are actually and properly
+engaged on the Work under the Contract;</li>
+<li value="3">assessments payable under any statutory authority
+relating to workers' compensation, employment insurance, pension
+plan or holidays with pay, provincial health or insurance plans,
+environmental reviews, and Applicable Taxes collection costs;</li>
+<li value="4">rent that is paid for Plant, or an amount equivalent
+to the said rent if the Plant is owned by the Contractor, that is
+necessary for and used in the performance of the Work, if the rent
+or the equivalent amount is reasonable and use of that Plant has
+been approved by Canada;</li>
+<li value="5">payments for maintaining and operating Plant
+necessary for and used in the performance of the Work, and payments
+for effecting repairs thereto that, in the opinion of Canada, are
+necessary for the proper performance of the Contract, other than
+payments for any repairs to the Plant arising out of defects
+existing before its allocation to the Work;</li>
+<li value="6">payments for Material that is necessary for and
+incorporated in the Work, or that is necessary for and consumed in
+the performance of the Contract;</li>
+<li value="7">payments for preparation, delivery, handling,
+erection, installation, inspection, protection and removal of the
+Plant and Material necessary for and used in the performance of the
+Contract; and</li>
+<li value="8">any other payments made by the Contractor with the
+approval of Canada that are necessary for the performance of the
+Contract in accordance with the Contract Documents.</li>
+</ol>
+</li>
+</ol>
+<h3 id="2016-01-28R2860Dprice-determination-variations-in-tendered-quantities">GC6.4.3 Price Determination - Variations in Tendered
+Quantities</h3>
+<ol type="1">
+<li value="1">Except as provided in paragraphs 2), 3), 4) and 5) of
+GC6.4.3, if it appears that the final quantity of labour, Plant and
+Material under a price per unit item shall exceed or be less than
+the estimated tendered quantity, the Contractor shall perform the
+Work or supply the Plant and Material required to complete the item
+and payment shall be made for the actual Work performed or Plant
+and Material supplied at the price per unit set out in the
+Contract.</li>
+<li value="2">If the final quantity of the price per unit item
+exceeds the estimated tendered quantity by more than 15 percent,
+either party to the Contract may make a written request to the
+other party to negotiate an amended price per unit for that portion
+of the item which exceeds 115 percent of the estimated tendered
+quantity, and to facilitate approval of any amended price per unit,
+the Contractor shall, on request, provide Canada with
+<ol type="a">
+<li value="1">detailed records of the actual cost to the Contractor
+of performing or supplying the tendered quantity for the price per
+unit item up to the time the negotiation was requested; and</li>
+<li value="2">the estimated unit cost of labour, Plant and Material
+required for the portion of the item that is in excess of 115
+percent of the tendered quantity.</li>
+</ol>
+</li>
+<li value="3">If agreement is not reached as contemplated in
+paragraph 2) of GC6.4.3, the price per unit shall be determined in
+accordance with GC6.4.2.</li>
+<li value="4">If it appears that the final quantity of labour,
+Plant and Material under a price per unit item shall be less than
+85 percent of the estimated tendered quantity, either party to the
+Contract may make a written request to the other party to negotiate
+a change to the price per unit for the item if
+<ol type="a">
+<li value="1">there is a demonstrable difference between the unit
+cost to the Contractor of performing or supplying the estimated
+tendered quantity and the unit cost to the Contractor for
+performing or supplying the final quantity; and</li>
+<li value="2">the difference in unit cost is due solely to the
+decrease in quantity and not to any other cause.</li>
+</ol>
+</li>
+<li value="5">For the purposes of the negotiation referred to in
+paragraph 4) of GC6.4.3
+<ol type="a">
+<li value="1">the onus of establishing, justifying and quantifying
+a proposed change lies with the party making the request for
+negotiation; and</li>
+<li value="2">in no event shall the total price for an item that
+has been amended as a result of a reduction in quantity pursuant to
+paragraph 4) of GC6.4.3 exceed the amount that would have been
+payable to the Contractor had 85 percent of the tendered quantity
+actually been performed or supplied.</li>
+</ol>
+</li>
+</ol>
+<h2 id="2016-01-28R2860Ddelays-and-extension-of-time">GC6.5 (2008-05-12) Delays and Extension of Time</h2>
+<ol type="1">
+<li value="1">Upon application of the Contractor made before the
+date first fixed for completion of the Work or before any other
+date previously fixed under this clause, Canada may extend the time
+for completion of the Work by fixing a new date if Canada
+determines that causes beyond the control of the Contractor have
+delayed its completion.</li>
+<li value="2">The Contractor's application shall be accompanied by
+the written consent of the bonding company whose bond forms part of
+the Contract Security.</li>
+<li value="3">Subject to paragraph 4) of GC6.5, no payment, other
+than a payment that is expressly stipulated in the Contract, shall
+be made by Canada to the Contractor for any extra expense, loss or
+damage incurred or sustained by the Contractor due to delay,
+whether or not the delay is caused by circumstances beyond the
+control of the Contractor.</li>
+<li value="4">If the Contractor incurs or sustains any extra
+expense or any loss or damage that is directly attributable to any
+neglect or delay that occurs after the date of the Contract on the
+part of Canada in providing any information or in doing any act
+that the Contract either expressly requires Canada to do or that
+would ordinarily be done by an owner in accordance with the
+practice of the trade, the Contractor shall give Canada written
+notice of intention to claim for that extra expense or loss or
+damage within ten working days of the date the neglect or delay
+first occurred.</li>
+<li value="5">When the Contractor has given a notice referred to in
+paragraph 4) of GC6.5, the Contractor shall give Canada a written
+claim for the extra expense, loss or damage no later than 30 days
+after the date that a Certificate of Completion is issued and not
+afterwards.</li>
+<li value="6">A written claim referred to in paragraph 5) of GC6.5
+shall contain a sufficient description of the facts and
+circumstances of the occurrence that is the subject of the claim to
+enable Canada to determine whether or not the claim is justified
+and the Contractor shall supply such further and other information
+for that purpose as Canada may require.</li>
+<li value="7">If Canada determines that a claim referred to in
+paragraph 5) of GC6.5 is justified, Canada shall make an extra
+payment to the Contractor in an amount that is calculated in
+accordance with GC6.4, "Determination of Price".</li>
+<li value="8">If the Contractor fails to give a notice referred to
+in paragraph 4) and a claim referred to in paragraph 5) of GC6.5
+within the times stipulated, an extra payment shall not be made to
+the Contractor in respect of the occurrence.</li>
+</ol>
+</div></pre>
+</div>

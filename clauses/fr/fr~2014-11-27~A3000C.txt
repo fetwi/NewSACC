@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats portant sur des marchés réservés 
+dans le cadre de la Stratégie d'approvisionnement auprès des entreprises autochtones 
+(SAEA), une initiative du gouvernement fédéral.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur déclare que l'attestation de
+conformité qu'il a fourni est exacte, complète et
+conforme aux « Exigences relatives au Programme de
+marchés réservés aux entreprises autochtones »
+décrite à l'Annexe 9.4 du <cite>Guide des approvisionnements</cite>.</li>
+<li value="2">L'entrepreneur doit conserver des dossiers et
+documents appropriés sur l'exactitude de l'attestation fournie
+au Canada. L'entrepreneur doit obtenir l'autorisation
+préalable écrite de l'autorité contractante, avant
+de disposer des dossiers ou des documents pour une période de
+six ans commençant à la dernière des dates
+suivantes: la date du paiement final en vertu du contrat ou la date
+du règlement de toute plainte ou de tout litige en suspens. Au
+cours de cette période, tous les dossiers et documents devront
+être en tout temps accessibles pour vérification par les
+représentants du Canada, qui pourront en tirer des copies ou
+des extraits. L'entrepreneur fournira toutes les installations
+raisonnablement nécessaires à ces vérifications.</li>
+<li value="3">La présente clause ne peut être
+interprétée de façon à limiter les droits et
+recours que le Canada pourra par ailleurs avoir en vertu du
+contrat.</li>
+</ol>
+</div></pre>
+</div>

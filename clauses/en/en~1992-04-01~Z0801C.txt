@@ -1,0 +1,234 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in fixed price contracts (other than contracts for 
+experimental development, or research work with educational or non-profit 
+institutions where no profit is contemplated).
+ </p>
+<p>
+  Note: To be used in conjunction with clause
+  
+   Z0802C
+  
+  (formerly
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  5A, Alternate I) or clause
+  
+   Z0803C
+  
+  (formerly
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  5A, Alternate II), as applicable.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">Government-furnished property.
+<ol type="1">
+<li value="1">The <abbr title="United States">U.S.</abbr> Government shall deliver to the Contractor,
+for use in connection with and under the terms of this Contract,
+the Government-furnished property described in the Schedule or
+specifications together with any related data and information that
+the Contractor may request and is reasonably required for the
+intended use of the property (hereinafter referred to as
+"Government-furnished property").</li>
+<li value="2">The delivery or performance dates for this Contract
+are based upon the expectation that Government-furnished property
+suitable for use (except for property furnished "as is") will be
+delivered to the Contractor at the times stated in the Schedule or,
+if not so stated, in sufficient time to enable the Contractor to
+meet the Contract's delivery or performance dates.</li>
+<li value="3">If Government-furnished property is received by the
+Contractor in a condition not suitable for the intended use, the
+Contractor shall, upon receipt of it, notify the Contracting
+Officer, detailing the facts, and, as directed by the Contracting
+Officer and at <abbr title="United States">U.S.</abbr> Government expense, either repair, modify,
+return, or otherwise dispose of the property. After completing the
+directed action and upon written request of the Contractor, the
+Contracting Officer shall make an equitable adjustment as provided
+in paragraph (h) of this clause.</li>
+<li value="4">If Government-furnished property is not delivered to
+the Contractor by the required time, the Contracting Officer shall,
+upon the Contractor's timely written request, make a determination
+of the delay, if any, caused the Contractor and shall make an
+equitable adjustment in accordance with paragraph (h) of this
+clause.</li>
+</ol>
+</li>
+<li value="2">Changes in Government-furnished property. 
+<ol type="1">
+<li value="1">The Contracting Officer may, by written notice,
+<ol type="i">
+<li value="1">decrease the Government-furnished property provided
+or to be provided under this Contract; or</li>
+<li value="2">substitute other Government-furnished property for the
+property to be provided by the <abbr title="United States">U.S.</abbr> Government, or to be acquired
+by the Contractor for the <abbr title="United States">U.S.</abbr> Government, under this Contract. The
+Contractor shall promptly take such action as the Contracting
+Officer may direct regarding the removal, shipment, or disposal of
+the property covered by such notice.</li>
+</ol>
+</li>
+<li value="2">Upon the Contractor's written request, the
+Contracting Officer shall make an equitable adjustment to the
+Contract in accordance with paragraph (h) of this clause, if the <abbr title="United States">U.S.</abbr> Government has agreed in the Schedule to make
+Government-furnished property available for performing this
+Contract and there is any
+<ol type="i">
+<li value="1">decrease or substitution of this property pursuant to
+subparagraph (b)1. above; or</li>
+<li value="2">withdrawal of authority to use this property, if provided
+under any other Contract or lease.</li>
+</ol></li>
+</ol>
+</li>
+<li value="3">Title to Government property. 
+<br/><span class="description">(If clause <span class="clauseRef">Z0803C</span> is referenced in the procurement
+document, this paragraph (c) does not apply.)</span>
+<ol type="1">
+<li value="1">The <abbr title="United States">U.S.</abbr> Government shall retain title to all
+Government-furnished property.</li>
+<li value="2">All Government-furnished property and all property
+acquired by the Contractor, title to which vests in the <abbr title="United States">U.S.</abbr>
+Government under this paragraph (collectively referred to as
+"Government property"), are subject to the provisions of this
+clause. However, special tooling accountable to this Contract is
+subject to the provisions of the Special Tooling clause and is not
+subject to the provisions of this clause. Title to Government
+property shall not be affected by its incorporation into or
+attachment to any property not owned by the <abbr title="United States">U.S.</abbr> Government, nor
+shall Government property become a fixture or lose its identity as
+personal property by being attached to any real property.</li>
+<li value="3">Title to each item of facilities and special test
+equipment acquired by the Contractor for the Government under this
+Contract shall pass to and vest in the <abbr title="United States">U.S.</abbr> Government when its use
+in performing this Contract commences or when the <abbr title="United States">U.S.</abbr> Government
+has paid for it, whichever is earlier, whether or not title
+previously vested in the <abbr title="United States">U.S.</abbr> Government.</li>
+<li value="4">If this Contract contains a provision directing the
+Contractor to purchase material for which the <abbr title="United States">U.S.</abbr> Government will
+reimburse the Contractor as a direct item of cost under this
+Contract:
+<ol type="i">
+<li value="1">title to material purchased from a vendor shall pass
+to and vest in the Government upon the vendor's delivery of such
+material; and</li>
+<li value="2">title to all other material shall pass to and vest in the <abbr title="United States">U.S.</abbr> Government upon
+<ol type="A">
+<li value="1">issuance of the material for use in Contract
+performance;</li>
+<li value="2">commencement of processing of the material or its use in
+Contract performance; or</li>
+<li value="3">reimbursement of the cost of the material by the <abbr title="United States">U.S.</abbr>
+Government,</li>
+</ol>
+whichever occurs first.
+</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="4">Use of Government property. The Government property
+shall be used only for performing this Contract, unless otherwise
+provided in this Contract or approved by the Contracting
+Officer.</li>
+<li value="5">Property administration.
+<ol type="1">
+<li value="1">The Contractor shall be responsible and accountable
+for all Government property provided under this Contract and shall
+comply with Federal Acquisition Regulation (<abbr title="Federal Acquisition Regulation">FAR</abbr>) Subpart 45.5, as
+in effect on the date of this Contract.</li>
+<li value="2">The Contractor shall establish and maintain a program
+for the use, maintenance, repair, protection, and preservation of
+Government property in accordance with sound industrial practice
+and the applicable provisions of Subpart 45.5 of the <abbr title="Federal Acquisition Regulation">FAR</abbr>.</li>
+<li value="3">If damage occurs to Government property, the risk of
+which has been assumed by the <abbr title="United States">U.S.</abbr> Government under this Contract,
+the <abbr title="United States">U.S.</abbr> Government shall replace the items or the Contractor shall
+make such repairs as the <abbr title="United States">U.S.</abbr> Government directs. However, if the
+Contractor cannot effect such repairs within the time required, the
+Contractor shall dispose of the property as directed by the
+Contracting Officer. When any property for which the <abbr title="United States">U.S.</abbr>
+Government is responsible is replaced or repaired, the Contracting
+Officer shall make an equitable adjustment in accordance with
+paragraph (h) of this clause.</li>
+<li value="4">The Contractor represents that the Contract Price
+does not include any amount for repairs or replacement for which
+the <abbr title="United States">U.S.</abbr> Government is responsible. Repair or replacement of
+property for which the Contractor is responsible shall be
+accomplished by the Contractor at its own expense.</li>
+</ol>
+</li>
+<li value="6">Access. The <abbr title="United States">U.S.</abbr> Government and all its designees
+shall have access at all reasonable times to the premises in which
+any Government property is located for the purpose of inspecting
+the Government property.</li>
+<li value="7">Risk of loss. 
+<br/><span class="description">(If clause <span class="clauseRef">Z0802C</span> or <span class="clauseRef">Z0803C</span>
+is referenced in the procurement document, this paragraph (g) does
+not apply.)</span>
+<br/>Unless otherwise provided in this Contract, the
+Contractor assumes the risk of, and shall be responsible for, any
+loss or destruction of, or damage to, Government property upon its
+delivery to the Contractor or upon passage of title to the <abbr title="United States">U.S.</abbr>
+Government under paragraph (c) of this clause. However, the
+Contractor is not responsible for reasonable wear and tear to
+Government property or for Government property properly consumed in
+performing this Contract.</li>
+<li value="8">Equitable adjustment. When this clause specifies an
+equitable adjustment, it shall be made to any affected Contract
+provision in accordance with the procedures of the Changes clause,
+if any, or any other clause that establishes the procedures for
+amendment of the Contract. When appropriate, the Contracting
+Officer may initiate an equitable adjustment in favour of <abbr title="Canadian Commercial Corporation">CCC</abbr> or
+the <abbr title="United States">U.S.</abbr> Government. The right to an equitable adjustment shall be
+the Contractor's exclusive remedy. Neither <abbr title="Canadian Commercial Corporation">CCC</abbr> nor the <abbr title="United States">U.S.</abbr> Government shall be liable to suit for breach of Contract for
+<ol type="1">
+<li value="1">any delay in delivery of Government-furnished
+property;</li>
+<li value="2">delivery of Government-furnished property in a
+condition not suitable for its intended use;</li>
+<li value="3">a decrease in or substitution of Government-furnished
+property; or</li>
+<li value="4">failure to repair or replace Government property for
+which the <abbr title="United States">U.S.</abbr> Government is responsible.</li>
+</ol>
+</li>
+<li value="9">Final accounting and disposition of Government
+property. Upon completing this Contract, or at such earlier dates
+as may be fixed by the Contracting Officer, the Contractor shall
+submit, in a form acceptable to the Contracting Officer, inventory
+schedules covering all items of Government property (including any
+resulting scrap) not consumed in performing this Contract or
+delivered to the <abbr title="United States">U.S.</abbr> Government. The Contractor shall prepare for
+shipment, deliver <abbr title="Free on Board">FOB</abbr> origin, or dispose of the Government property
+as may be directed or authorized by the Contracting Officer. The
+net proceeds of any such disposal shall be credited to the Contract
+Price or shall be paid to <abbr title="Canadian Commercial Corporation">CCC</abbr> or the <abbr title="United States">U.S.</abbr> Government as the
+Contracting Officer directs.</li>
+<li value="10">Abandonment and restoration of Contractor's
+premises. Unless otherwise provided herein, the <abbr title="United States">U.S.</abbr>
+Government
+<ol type="1">
+<li value="1">may abandon any Government property in place, at
+which time all obligations of the <abbr title="United States">U.S.</abbr> Government regarding such
+abandoned property shall cease; and</li>
+<li value="2">has no obligation to restore or rehabilitate the
+Contractor's premises under any circumstances (e.g., abandonment,
+disposition upon completion of need, or upon Contract completion).
+However, if the Government-furnished property (listed in the
+Schedule or specifications) is withdrawn or is unsuitable for the
+intended use, or if other Government property is substituted, then
+the equitable adjustment under paragraph (h) of this clause may
+properly include restoration or rehabilitation costs.</li>
+</ol>
+</li>
+<li value="11">Communications. All communications under this clause
+shall be in writing.</li>
+</ol>
+</div></pre>
+</div>

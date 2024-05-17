@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats concernant des logiciels-services (
+  <abbr lang="en" title="Software as a Service">
+   SaaS
+  </abbr>
+  ) dans un nuage public afin de limiter la responsabilité de l’entrepreneur envers le Canada pour les réclamations de la première partie et de tiers. Il faut se servir de cette clause lorsqu’on utilise le groupe de produits relatif à un nuage public (logiciels-services/
+  <abbr lang="en" title="Software as a Service">
+   SaaS
+  </abbr>
+  ) et la limitation de la responsabilité qui y est rattachée.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><ul>
+<li><p><strong>Responsabilité de la première partie</strong></p>
+<ul>
+<li><strong>Exécution du contrat :</strong> L’entrepreneur est entièrement responsable envers le Canada de tous les dommages résultant de l’exécution ou l’inexécution du contrat par l’entrepreneur. </li>
+<li><strong>Violation des données :</strong> L’entrepreneur est entièrement responsable envers le Canada de tous les dommages qui résultent d’un manquement qu’il a commis aux obligations en matière de sécurité ou de confidentialité et qui entraîne un accès non autorisé à des documents, des données ou de l’information appartenant au Canada ou à un tiers, ou leur divulgation non autorisée. </li>
+<li><strong>Limitation par incident :</strong> Sous réserve de l’article suivant, quel que soit le fondement ou la nature de la réclamation, la responsabilité totale de l’entrepreneur par incident n’excédera pas la valeur cumulative des factures contractuelles pour les 12 mois précédant l’incident. </li>
+<li><strong>Aucune limite :</strong> La limite fixée ci-dessus pour la responsabilité de l’entrepreneur ne s’applique pas aux éléments suivants :
+        <ul type="a">
+<li>inconduite volontaire ou actes délibérément fautifs; et</li>
+<li>tout manquement aux obligations en matière de garantie.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li><p><strong>Responsabilité envers les tiers :</strong> Que la réclamation d’un tiers soit faite au Canada, à l’entrepreneur ou aux deux, chaque partie convient qu’elle acceptera l’entière responsabilité des dommages qu’elle cause au tiers dans le cadre du contrat. La répartition de la responsabilité correspondra au montant convenu par les parties ou déterminé par la cour. Les parties conviennent de se rembourser pour tout paiement à un tiers relativement aux dommages causés par l’autre. L’autre partie accepte d’effectuer promptement le remboursement pour sa part de responsabilité.</p></li>
+</ul></pre>
+</div>

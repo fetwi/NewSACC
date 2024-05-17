@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats relatifs aux sciences lorsque le 
+ministère client demande que le droit de prolonger le contrat pour une ou 
+plusieurs périodes soit prévu dans l'entente contractuelle.  Cette clause est 
+normalement utilisée avec les Conditions générales - Services, DSS-MAS 9076. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur devra consentir au Canada une option irrévocable de 
+prolongation du présent Contrat jusqu'à concurrence de _____ (nombre) 
+périodes consécutives supplémentaires de _____ (période habituellement 
+exprimée en mois ou en année), aux mêmes conditions et aux _____ (prix ou 
+taux) indiqués à la base de paiement.
+
+Si le Canada décide d'exercer cette option, il le fera en avisant 
+l'Entrepreneur, par écrit, au plus tard _____ jours précédant l'expiration 
+du présent Contrat ou tout prolongement de celui-ci.
+
+
+</pre>
+</div>

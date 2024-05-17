@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In view of operating problems that may result from handling trucks 
+   exceeding 12 ft. x 6 in. in height in the lower level of the Printing 
+   Bureau, Hull, Quebec, it is mandatory that deliveries be made in 
+   vehicles not exceeding 12 ft. x 6 in. when empty. 
+</pre>
+</div>

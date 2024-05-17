@@ -1,0 +1,95 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in conjunction with E0004T, E0005C and E0007T.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In this clause,
+
+<strong>"security deposit</strong>" means
+
+(a)    a bill of exchange
+
+       (1)    that is payable to the Receiver General for Canada, and
+
+       (2)    that is certified by an approved financial institution or 
+              drawn by an approved financial institution on itself; or
+
+(b)    a Government guaranteed bond; or
+
+(c)    an irrevocable standby letter of credit, or
+
+(d)    such other security as may be deemed appropriate by the Contracting 
+       Authority (Department of Public Works and Government Services) and 
+       approved by Treasury Board;
+
+<strong>"approved financial institution"</strong> means
+
+(a)    any corporation or institution that is a member of the Canadian 
+       Payments Association;
+
+(b)    a corporation that accepts deposits that are insured by the Canada 
+       Deposit Insurance Corporation or the "Régie de l'assurance-dépôts du 
+       Québec" to the maximum permitted by law;
+
+(c)    a credit union as defined in the <em>Income Tax Act</em>; or
+
+(d)    a corporation that accepts deposits from the public, if repayment of 
+       the deposits is guaranteed by Canada in right of a province.
+
+<strong>"Government guaranteed bond"</strong> means a bond of the Government of Canada or a 
+bond unconditionally guaranteed as to principal and interest by the 
+Government of Canada that is:
+
+(a)    payable to bearer; or
+
+(b)    accompanied by a duly executed instrument of transfer of the bond to 
+       the Receiver General for Canada in accordance with the Domestic 
+       Bonds of Canada Regulations; or
+
+(c)    registered in the name of the Receiver General for Canada.
+ 
+<strong>"irrevocable standby letter of credit"</strong> means any arrangement, however named 
+or described, whereby a financial institution (the "Issuer"), acting at the 
+request and on the instructions of a customer (the "Applicant"), or on its 
+own behalf, is to make a payment to or to the order of Canada, as the 
+beneficiary, or is to accept and pay bills of exchange drawn by Canada, or 
+authorizes another financial institution to effect such payment, or accept 
+and pay such bills of exchange, or authorizes another financial institution 
+to negotiate, against written demand(s) for payment provided that the terms 
+and conditions of the letter of credit are complied with.
+
+The letter of credit shall:
+
+(a)    state the face amount which may be drawn against it;
+
+(b)    state its expiry date;
+
+(c)    provide for sight payment to the Receiver General for Canada by way 
+       of the financial institution's draft against presentation of a 
+       written demand for payment signed by the authorized departmental 
+       representative identified in the letter of credit by his\her office;
+
+(d)    provide that more than one written demand for payment may be 
+       presented subject to the sum of those demands not exceeding the face 
+       amount of the letter of credit;
+
+(e)    provide that it is subject to the International Chamber of Commerce 
+       (ICC) Uniform Customs and Practice for Documentary Credits, 1993 
+       Revision, ICC Publication No. 500;
+
+(f)    clearly specify that it is irrevocable or deemed to be irrevocable 
+       pursuant to article 6c) of the ICC Uniform Customs and Practice for 
+       Documentary Credits, 1993 Revision, ICC Publication No. 500; and
+
+(g)    be issued or confirmed, in either official language, by a financial 
+       institution which is a member of the Canadian Payments Association 
+       and is on the letterhead of the Issuer or Confirmer. The format is 
+       left to the discretion of the Issuer or Confirmer.
+
+<strong>"completion of warranty period"</strong> means the later of the date upon which the 
+warranty period expires by the passage of time or the date upon which the 
+obligation of the Contractor related to the warranty provisions of the 
+Contract have been fulfilled.
+
+</pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>À titre additionnel et APRÉS avoir obtenu l'approbation écrite du client, 
+utiliser la PHRASE suivante dans les clauses d'exigences en matière de sécurité.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tant que les autorisations de sécurité du personnel de l'entrepreneur 
+requises au titre du présent contrat n'ont pas été émises, ces derniers <strong>NE</strong> 
+peuvent <strong>AVOIR ACCÈS </strong>aux renseignements et/ou biens de nature délicate 
+(DÉSIGNÉS ou CLASSIFIÉS); de plus, ils <strong>NE</strong> peuvent <strong>PAS PÉNÉTRER</strong> sur les 
+lieux où ces renseignements ou biens sont entreposés sans une escorte 
+fournie par le ministère client.
+
+
+</pre>
+</div>

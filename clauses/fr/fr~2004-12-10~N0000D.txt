@@ -1,0 +1,165 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante uniquement dans les contrats relatifs à la gestion 
+de l'information ou à la technologie de l'information assujettis aux pouvoirs 
+spéciaux attribués par le Conseil du Trésor à Travaux publics et Services 
+gouvernementaux Canada (TPSGC).  (Veuillez consulter le Manuel de référence, 
+Appendice A, Tableau des risques des groupes de produits et de services.)
+
+Les agents de négociation des contrats devraient consulter les Services 
+juridiques pour remanier éventuellement l'alinéa 2. a) si le contrat est un 
+contrat de défense dans le cadre duquel les pouvoirs prévus à l'article 22 de la 
+Loi sur la production de défense sont exercés.
+
+Si le contrat porte sur des services de télécommunications réglementés par un 
+tarif établi par le Conseil de la radiodiffusion et des télécommunications 
+canadiennes, ce tarif l'emportera sur certaines de ces dispositions.  (Veuillez 
+consulter les Services juridiques pour de plus amples renseignements).
+
+1.	Pour les contrats de Services professionnels en informatique (SPI) et les 
+commandes subséquentes passés dans le cadre d'offres à commandes dont la valeur 
+est inférieure au seuil de l'ALENA :
+
+	La responsabilité des entrepreneurs envers l'État relativement aux pertes 
+qu'ils causent à ce dernier et à des tiers est précisée dans l'article sur la 
+limite de responsabilité reproduit ci-après. Le contrat ne doit pas comporter de 
+conditions relatives aux assurances.  L'État s'en remet à la protection prévue 
+dans la clause ci-dessous. 
+
+2.	Pour les contrats et les commandes subséquentes passés dans le cadre d'offres 
+à commandes, y compris les achats de SPI, dont la valeur est supérieure au seuil 
+de l'ALENA :
+
+	Lorsqu'on utilise cette clause, le contrat doit comporter une clause 
+d'assurance conformément à la recommandation exprimée dans la politique 
+ministérielle de TPSGC, qui oblige à prévoir, au minimum, une limite pour le 
+capital assuré, une protection conforme à la nature du contrat (assurance de 
+responsabilité générale commerciale et/ou assurance contre les erreurs et les 
+omissions) et d'autres clauses d'assurances, le cas échéant.  L'entrepreneur 
+doit déposer un certificat d'assurance ou une lettre d'autoassurance équivalente 
+pour tous les contrats dans lesquels cette clause est reproduite.  Veuillez 
+contacter les Services consultatifs de la gestion des risques et de l'assurance 
+de TPSGC, au numéro 819-956-7379.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     <strong>Responsabilité du Canada et de l'entrepreneur envers les tiers </strong>: 
+       chacune des parties à ce contrat s'engag à prendre la responsabilité 
+       des blessures ou des pertes que les tiers pourraient subir dans la 
+       mesure où cette partie les a causées, dans les cas où ces tiers ont 
+       des motifs de poursuivre directement cette partie du fait de ces 
+       blessures ou de ces pertes.  Les parties s'entendent qu'en ce qui 
+       concerne les demandes d'indemnités déposées par des tiers contre lui, 
+       l'entrepreneur sera responsable des dommages découlant des blessures 
+       ou des pertes dans le mesure où il les a causées, notamment dans les 
+       cas où le Canada pourrait être appelé à payer les dommages-intérêts 
+       imputables à l'entrepreneur en raison d'une responsabilité conjointe 
+       et solidaire.  En ce qui concerne les demandes d'indemnités des 
+       tiers qui n'ont pas de motifs de poursuivre directement la partie 
+       qui a causé les dommages, le présent paragraphe 1 n'empêche pas le 
+       Canada d'exercer les droits dont il peut se prévaloir contre 
+       l'entrepreneur ou ne le limite pas dans ses droits.  En cas de 
+       contradiction avec une autre section du présent article, la section 
+       1 sera prépondérante.
+
+2      <strong>Étendue de la responsabilité de l'entrepreneur au titre des dommages
+        </strong>: sans égard aux motifs pour lesquels le Canada pourrait avoir le 
+       droit de réclamer des dommages à l'entrepreneur (dans le cadre du 
+       contrat, en cas de préjudice extra contractuel ou pour tout autre 
+       motif), ce dernier n'assumera, envers le Canada, que les 
+       responsabilités suivantes : 
+
+       a)     tous les dommages-intérêts et tous les frais découlant de la 
+              violation aux droits de propriété intellectuelle selon les 
+              modalités définies dans le présent contrat;
+
+       b)     tous les dommages au titre des blessures et des décès causés 
+              par l'entrepreneur, par ses employés, par ses mandataires ou 
+              par ses sous-traitants; 
+
+       c)     tous les dommages directs au titre des pertes ou des dégâts 
+              matériels causés à des biens corporels et à des immeubles par 
+              l'entrepreneur, par ses employés, par ses mandataires ou par 
+              ses sous-traitants; 
+
+       d)     tous les dommages au titre du non-respect de la 
+              confidentialité de l'information; 
+
+       e)     tous les dommages découlant des demandes d'indemnités pour 
+              des privilèges, des réclamations, des charges, des sûretés ou 
+              des servitudes visant des matériaux, des pièces, des travaux 
+              en cours ou des ouvrages finis fournis au Canada ou à l'égard 
+              desquels celui-ci a effectué un paiement, à la condition que 
+              cette sous-section ne s'applique pas aux demandes 
+              d'indemnités portant sur l'atteinte aux droits de propriété 
+              intellectuelle, qui font l'objet de l'alinéa 2. a) ci-dessus; 
+
+       f)     tous les autres dommages directs causés par l'entrepreneur, 
+              ses employés, ses mandataires ou ses sous-traitants dans le 
+              cadre de ce contrat, dont les frais de réapprovisionnement 
+              définis ci-après et les frais de rétablissement des dossiers 
+              dans la mesure où l'entrepreneur ne respecte pas le 
+              paragraphe 4 ci-dessous, jusqu'à concurrence d'un maximum 
+              correspondant à la plus élevée des deux valeurs suivantes 
+              pour l'application de cet alinéa 2. f) : _______ (<strong><em>Insérer le 
+              facteur de risque, déterminé selon le Tableau des risques des 
+              groupes de produits et de services</em></strong>), multiplié par le coût 
+              total estimatif, ou 1 M$.
+
+              Si toutefois le contrat porte sur des services de maintenance 
+              ou sur des licences de logiciel et qu'il prévoit le versement 
+              de sommes périodiques, par exemple des frais annuels ou 
+              mensuels, le maximum global pour cet alinéa 2. f) 
+              correspondra à la plus élevée des deux valeurs suivantes : le 
+              total des coûts estimatifs multiplié par ________ (<strong><em>Insérer le 
+              facteur de risque, déterminé selon le Tableau des risques des 
+              groupes de produits et de services</em></strong>) et divisé par la durée 
+              totale du contrat en années entières ou 1 M$.
+
+3.     L'entrepreneur n'assumera pas de responsabilité envers le Canada 
+       pour : 
+
+       a)     les dommages causés aux tiers et réclamés au Canada, sauf 
+              ceux qui sont visés dans les alinéas 2. a), b), c), d) ou e) 
+              ci-dessus; 
+
+       b)     les préjudices causés aux documents ou aux données du Canada, 
+              sauf dans les cas prévus dans la section 4 ci-dessous et sous 
+              réserve de la limite indiquée dans l'alinéa 2. f) ci-dessus;
+
+       c)     les dommages-intérêts spéciaux, indirects ou accessoires 
+              (sauf les sommes visées dans l'alinéa 2. a) ci-dessus et les 
+              dommages faisant l'objet de l'alinéa 2. b) ci-dessus), même 
+              si l'entrepreneur est au courant de la possibilité de ces 
+              dommages, y compris les manques à gagner au titre de la marge 
+              bénéficiaire et des économies.
+
+       Le Canada doit veiller à sauvegarder adéquatement ses documents et 
+       données pour permettre de les rétablir si on en a besoin pour 
+       quelque raison que ce soit.  Si, en raison d'une négligence ou d'un 
+       acte délibéré, l'entrepreneur ou un sous-traitant porte atteinte aux 
+       documents ou aux données du Canada, l'entrepreneur devra les 
+       rétablir dans l'état où ils se trouvaient dans la dernière copie de 
+       sauvegarde disponible. 
+
+5.     Pour l'application de la présente clause, on entend par : 
+
+       « coût total estimatif »: le montant indiqué à la première page du 
+       contrat dans la section ou case intitulée « coût total estimatif »; 
+
+       « frais de réapprovisionnement »: tous les frais directs 
+       identifiables et engagés par le Canada pour faire appel à un autre 
+       entrepreneur dans le cadre des travaux, dont la désinstallation et 
+       la restitution de l'ouvrage à l'entrepreneur, les frais 
+       d'administration à consacrer à la sélection d'un autre entrepreneur 
+       ou au lancement de la totalité ou d'une partie du contrat, le cas 
+       échéant, et toute augmentation du prix à verser par le Canada pour 
+       les autres ouvrages ayant des fonctions, un rendement et une qualité 
+       équivalents; 
+
+       « contrat »: tout contrat indépendant et chaque commande subséquente, 
+       bon de commande et autre document contractuel, sans égard à son 
+       titre, publiés dans le cadre d'une offre à commandes ou d'un 
+       arrangement en matière d'approvisionnement. 
+
+</pre>
+</div>

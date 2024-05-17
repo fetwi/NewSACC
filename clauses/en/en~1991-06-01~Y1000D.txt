@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>To be used in all bid solicitations and contracts placed on behalf of CIDA when 
+delivery is made direct to ultimate consignee. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All drawback submissions stemming from this Contract shall be subject to 
+   the criteria and procedures described in the Customs Memoranda D-7-3-5 
+   entitled "Goods Imported and Exported Drawback Regulations" or D-7-3-4 
+   entitled "Canadian Manufactured Goods Exported Drawback Regulations." 
+</pre>
+</div>

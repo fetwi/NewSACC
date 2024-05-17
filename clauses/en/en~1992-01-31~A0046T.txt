@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The selected Contractor shall comply with the provisions of the National 
+   Transportation Act, the Aeronautics Act and with all directions, orders, 
+   rules and regulations made thereunder which are applicable to the said 
+   service. In particular, the Contractor must hold a valid Operating 
+   Certificate issued by the Federal Department of Transport.  
+</pre>
+</div>

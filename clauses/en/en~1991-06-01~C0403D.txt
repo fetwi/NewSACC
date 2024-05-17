@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The price to be paid will be the minimum per diem rates established by the 
+   professional association in the province of _____ plus the actual cost 
+   of all disbursements properly incurred in the performance of this 
+   Contract including fair and reasonable travelling and living costs where 
+   applicable. 
+</pre>
+</div>

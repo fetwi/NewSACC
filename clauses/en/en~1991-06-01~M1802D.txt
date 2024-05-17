@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Our invoice shall be submitted as indicated in any resulting contract and:
+
+a)   in an envelope marked "Invoices";
+
+b)   with separate invoice for each shipment or provision of services;
+
+c)   be applied to one contract (call-up) only and shall state if the 
+shipment or service rendered is partial or final; and
+
+d)   shall show the terms of payment, name and address of the consignee, 
+   DSS serial number, date and method of shipment and any relevant 
+   financial coding as set out in the standing offer. 
+</pre>
+</div>

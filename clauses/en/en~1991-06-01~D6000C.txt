@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts placed with a U.S. supplier where there is 
+a possibility of shipments exceeding 20,000 lbs.  When requests for routing 
+instructions are received from the supplier, the directorate will refer such 
+requests to the Consumer Products and Traffic Management Branch, to obtain 
+details of shipping instructions. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Immediately it is known there will be available a shipment weighing 20,000 
+lbs. or over, the Contractor is to notify the _____ Directorate, Department 
+of Supply and Services, Hull, Quebec, Canada K1A 0S5 who will issue routing 
+instructions.  Shipment is not to be made until such instructions are 
+received.  Report of availability must state the following:
+
+       1.  contract number,
+       2.  gross weight and freight classification,
+       3.  name of railway serving the Contractor's plant site,
+       4.  the Contractor's recommended method of shipment and
+           cost,
+       5.  name of consignee and destination,
+       6.  location of stores and date of availability.
+
+Unless otherwise directed, all shipments shall be shipped collect in 
+   accordance with the Shipping provisions of this Contract.
+</pre>
+</div>

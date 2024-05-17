@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause for materiel originating in USA or Canada for delivery to 
+offshore locations.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     For items that are to be exported to offshore locations, the 
+       following procedures shall be followed:
+
+       (a)    the shipment shall be FOB common carrier Contractor's plant. 
+              At least ten (10) days prior to the items being scheduled for 
+              shipment, the Contractor shall advise by letter or, when 
+              urgency warrants by telephone, to:
+
+              Director Movements 2
+              National Defence Headquarters
+              MGen George R. Pearkes Building
+              101 Colonel By Drive
+              Ottawa ON  K1A 0K2
+
+              Telephone: (613) 995-2434 or
+              Fax: DGT/D Mov (613) 992-7953
+
+              advising the following details:
+
+              (1)    contract identity;
+              (2)    consignee;
+              (3)    number of pieces;
+              (4)    description;
+              (5)    dimensions and weight including cubic measurement; and
+
+       (b)    the Contractor shall report any item measuring over eight 
+              feet or weighing 500 lb., and
+
+       (c)    the Contractor shall report full details of dangerous 
+              materiel as required for shipment in accordance with the 
+              International Maritime Organization (IMO), or International 
+              Air Transportation Association (IATA) regulations of the 
+              applicable Canadian Dangerous Goods Shipping regulations (CTC 
+              regulations).
+
+2.     Upon receipt of this information, shipping instructions will be 
+       provided by Canada. The Contractor may be requested to prepay all 
+       shipping charges to the export port of loading, or to destination, 
+       in which case prepaid charges shall be included as a separate item 
+       on the Contractor's invoice and supported by the carrier's freight 
+       bill. No materiel shall be shipped prior to receipt of shipping 
+       instructions.
+
+</pre>
+</div>

@@ -1,0 +1,75 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2><span class="clauseRef">R1245D</span> CG8 (2011-05-16)
+Règlements des conflits</h2>
+<ol type="1">
+<li value="1">Dans le cas d'un désaccord concernant un aspect
+quelconque des services ou d'une directive donnée en
+application de l'entente :
+<ol type="a">
+<li value="1">l'expert-conseil peut donner un avis de
+désaccord au représentant du Ministère. Cet avis
+doit être donné promptement et comprend les détails
+du désaccord, tout changement de temps ou sommes
+demandées ainsi que la référence aux clauses
+pertinentes de l'entente;</li>
+<li value="2">l'expert-conseil doit continuer d'exécuter les
+services, conformément aux directives du représentant du
+Ministère; et</li>
+<li value="3">l'expert-conseil et le représentant du
+Ministère essaient de résoudre le désaccord en
+négociant de bonne foi. Les négociations seront
+menées d'abord entre le représentant de l'expert-conseil
+responsable du projet et le représentant du Ministère et,
+ensuite, si nécessaire, entre un directeur de la firme
+d'expert-conseil et un gestionnaire senior du Ministère.</li>
+</ol>
+</li>
+<li value="2">Le fait que l'expert-conseil continue d'exécuter
+les services conformément aux directives du représentant
+du Ministère ne compromette pas sa position sur le plan
+juridique advenant un différend relativement à
+l'entente.</li>
+<li value="3">S'il s'avère par la suite que les directives
+étaient erronées ou allaient à l'encontre de
+l'entente, le Canada assumera les honoraires de l'expert-conseil
+pour la mise à exécution de ces directives, y compris les
+coûts raisonnables découlant de quelconque changement(s),
+les coûts ayant été préalablement
+autorisés par le représentant du Ministère.</li>
+<li value="4">Les honoraires, dont il est fait mention au
+paragraphe 3 seront calculés selon les Modalités de
+paiement de l'entente.</li>
+<li value="5">Si le désaccord n'est pas réglé,
+l'expert-conseil peut présenter au représentant du
+Ministère une demande de décision écrite et le
+représentant du Ministère avise l'expert-conseil de la
+décision du Ministère dans les quatorze (14) jours de la
+réception de la demande de décision, en donnant les
+détails de la réponse et en indiquant les clauses
+pertinentes de l'entente.</li>
+<li value="6">Dans les quatorze (14) jours suivant la
+réception de la décision écrite du Ministère,
+l'expert-conseil doit avertir le représentant du
+Ministère de son acceptation ou de son rejet de la
+décision.</li>
+<li value="7">Si l'expert-conseil n'est pas satisfait de la
+décision du Ministère, l'expert-conseil, par écrit,
+peut demander au représentant du Ministère que le
+désaccord soit renvoyé à la médiation.</li>
+<li value="8">Si le désaccord est renvoyé à la
+médiation, la médiation sera menée avec l'aide d'un
+médiateur compétent et expérimenté, choisi par
+l'expert-conseil, à partir d'une liste de médiateurs
+présentée par le Canada, et, sauf en cas d'entente
+alternative entre les parties, les procédures de
+médiation du Ministère seront utilisées.</li>
+<li value="9">Les négociations engagées en application de
+l'entente, y compris celles menées pendant une médiation,
+sont sous toutes réserves.</li>
+</ol>
+</div></pre>
+</div>

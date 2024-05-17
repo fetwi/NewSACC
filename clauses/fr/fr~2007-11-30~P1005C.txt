@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans tous les contrats pour définir les exigences 
+relatives à l'emballage des travaux d'imprimerie.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit emballer les travaux selon le « Guide d'emballage des 
+produits d'imprimerie<span class="wsStyleUnderline"> </span>», disponible sur le site Web suivant : http://www.tpsgc.gc.ca
+/acquisitions/text/nfprdcmmnf/cpac/qgpgnq-f.html.
+
+</pre>
+</div>

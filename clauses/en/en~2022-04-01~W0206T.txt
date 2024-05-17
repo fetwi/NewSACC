@@ -1,0 +1,113 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Include the following in solicitations that are subject to the Nunavut Directive, and are limited to competition among firms on the Inuit Firm Registry (IFR).
+ </p>
+<p>
+  Contracting Authorities must ensure that the timeframes provided for
+  <abbr title="Inuit Firm Registry">
+   IFR
+  </abbr>
+  registration are appropriate given the nature of the specific procurement.
+ </p>
+<p>
+  For each new procurement that is subject to the Directive, an up-to-date supplementary template (Inuit Benefits Plan (IBP),
+  <abbr title="Inuit  benefits plans">
+   IBP
+  </abbr>
+  Progress Report and
+  <abbr title="Inuit Benefits Plan">
+   IBP
+  </abbr>
+  Evaluation) must be obtained from Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD).
+ </p>
+<p>
+  For important information on how and when to implement limiting bidding among firms on the
+  <abbr title="Inuit Firm Registry">
+   IFR
+  </abbr>
+  in procurements subject to the
+  
+   Nunavut Directive
+  
+  , please see the
+  
+   Guide on Government Contracts in the Nunavut Settlement Area
+  
+  .
+ </p>
+<p>
+  For additional advice and guidance on the Nunavut Directive, the use of these clauses, and for the most up-to-date copy of the supplementary templates, please contact Strategic Policy Sector’s Indigenous Procurement Policy Division (IPPD) at:
+  
+   tpsgc.pacontratsnunavut-apnunavutcontracts.pwgsc@tpsgc-pwgsc.gc.ca
+  
+  .
+ </p>
+<p>
+  To be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual items
+  
+   W0205T
+  
+  ,
+  
+   W0027T1
+  
+  , and
+  
+   W0215C
+  
+  .
+ </p>
+<p>
+<strong>
+   Note:
+  </strong>
+  These solicitation clauses cannot be used in conjunction with
+  <abbr title="Standard Acquisition Clauses and Conditions">
+   SACC
+  </abbr>
+  Manual items
+  
+   A3000C
+  
+  ,
+  
+   A3000T
+  
+  ,
+  
+   A3001T
+  
+  ,
+  
+   A3002T
+  
+  ,
+  
+   M3030T
+  
+  ,
+  
+   M9030T
+  
+  ,
+  
+   S3035T
+  
+  , or
+  
+   S3036T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><ol type="a">
+<li>Only Bidders registered on the Inuit Firm Registry (IFR) may qualify for contract award.</li>
+<li>Bidders must be registered on the <abbr title="Inuit Firm Registry">IFR</abbr> <span class="input-required"><var>_______</var><kbd><cite>(insert( "by bid closing"</cite> <strong><cite>or</cite></strong> <cite>" by <var>___</var>(insert number of days) business days after bid closing”).</cite></kbd></span> If a bidder is not registered on the <abbr title="Inuit Firm Registry">IFR</abbr> by that time, their bid will be declared non responsive and given no further consideration.</li>
+<li>Failure to maintain registration on the <abbr title="Inuit Firm Registry">IFR</abbr> for the duration of the Contract may result in Canada terminating the contract for default.</li>
+</ol></pre>
+</div>

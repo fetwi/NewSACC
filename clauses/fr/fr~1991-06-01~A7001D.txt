@@ -1,0 +1,9 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>La principale période d'entretien s'étend de 8 h à 17 h du lundi au 
+   vendredi, à l'exception des congés du gouvernement fédéral dans la ville 
+   où se trouve le matériel en question. 
+</pre>
+</div>

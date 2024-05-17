@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Pour les marchés avec la date de livraison après la date de mise en oeuvre, les 
+agents d'achat considéreront que la «taxe sur les produits et services» est 
+remplacée par la «taxe de vente harmonisée» dans les cas où les marchés sont 
+attribués en Nouvelle-Écosse, au Nouveau-Brunswick ou à Terre-Neuve et au 
+Labrador.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Dans le présent contrat, sauf indication contraire, tous les prix et toutes 
+les sommes excluent la taxe sur les produits et services (TPS) ou la taxe 
+de vente harmonisée (TVH), le cas échéant. La TPS ou la TVH, s'il y a lieu, 
+vient s'ajouter au prix indiqué dans le présent contrat et sera acquittée 
+par le Canada.
+
+La TPS ou la TVH estimative est comprise dans le coût estimatif total.  
+Dans la mesure où elle s'applique, la TPS ou la TVH sera précisée dans 
+toutes les factures et demandes d'acompte et sera indiquée distinctement 
+sur ces factures et dans ces demandes.  Tous les biens ou les services 
+détaxés, exonérés ou auxquels la TPS ou la TVH ne s'appliquent pas doivent 
+être précisés à ce titre sur toutes les factures.  L'entrepreneur s'engage 
+à verser à l'Agence des douanes et du revenu du Canada toutes les sommes 
+acquittées ou exigibles au titre de la TPS et de la TVH.
+
+
+</pre>
+</div>

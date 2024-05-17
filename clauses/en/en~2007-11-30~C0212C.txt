@@ -1,0 +1,69 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in cost reimbursable contracts with hourly rates for 
+on-site maintenance services. 
+If Incoterms 2000 apply, replace FOB Destination with CPT (Carriage Paid To 
+________ named place of destination), CIP (Carriage and Insurance Paid to 
+________ named place of destination) or DDP (Delivered Duty Paid ________ named 
+place of destination).
+
+Add or delete paragraphs as applicable to meet specific requirements.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor will be paid as follows for on-site maintenance and related 
+services performed during and outside the Principal Period of Maintenance 
+for the equipment listed in Annex _____.
+
+<strong>Labour</strong>
+
+The Contractor will be paid for the actual hours worked at the firm hourly 
+rates detailed below.  The Contractor will be paid an initial half hour 
+minimum charge calculated from the time the Contractor's technician arrives 
+on-site.  All additional chargeable time, over and above the first half 
+hour, will be rounded to the nearest quarter hour.
+
+<strong><em>(Insert details)</em></strong><strong><em></em></strong>
+
+
+<strong>Material and Replacement Parts</strong>
+
+The material and replacement parts must be provided at the list price 
+detailed in Annex _____ , less a discount of ____ percent.  All prices for 
+parts and material are FOB destination.  Customs duties are ________ (<strong><em>
+insert</em></strong><em> "</em><span class="wsInlineRemark">included</span><em>", "</em><span class="wsInlineRemark">excluded</span><em>" </em><strong><em>or</em></strong><em> "</em><span class="wsInlineRemark">exempt</span>") and Goods and Services Tax (GST) 
+or Harmonized Sales Tax (HST) is extra, if applicable.
+
+<strong>On-call Services (Wait-Time)</strong>
+
+The Contractor will be paid for the actual hours of on-call period (wait 
+time) at the firm hourly rate of $_____.
+
+<strong>Travel and Living Expenses</strong>
+
+There will be no travel time or travel and living expenses payable for 
+services rendered within ____ kilometres from the Designated Service Centre 
+listed in Annex _____.
+
+For services rendered further than ____ kilometres from the Designated 
+Service Centre, the Contractor will be paid its actual travel time in 
+accordance with the hourly rates detailed in Annex ____.
+
+The Contractor will be paid its authorized travel and living expenses 
+reasonably and properly incurred in the performance of the Work, at cost, 
+without any allowance for overhead or profit, in accordance with the meal, 
+private vehicle and incidental allowances specified in Appendices B, C and 
+D of the Treasury Board Travel Directive (http://www.tbs-sct.gc.ca/hr-rh/
+gtla-vgcl/), and with the other provisions of the directive referring to "
+travellers", rather than those referring to "employees".
+
+All travel must have the prior authorization of the _________ (<strong><em>insert name 
+of relevant authority</em></strong>). 
+
+Estimated Cost: ________.
+
+<strong>Total Estimated Cost to a Limitation of Expenditure: ___________ (GST/HST 
+extra)</strong><strong></strong>
+
+
+
+</pre>
+</div>

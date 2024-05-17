@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when drum charges are extra to the 
+contract price and a full credit will be allowed for each drum returned in good 
+condition, transportation costs prepaid.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Drums (205 litres) will be charged extra to the contract price
+at the cost $ <var>_____</var> by drum. A full credit will be
+allowed for each drum returned in good condition, transportation
+costs prepaid to <span class="input-required"><var>_____________</var> <kbd>(<em>insert destination
+address</em>)</kbd></span>.</p>
+</div></pre>
+</div>

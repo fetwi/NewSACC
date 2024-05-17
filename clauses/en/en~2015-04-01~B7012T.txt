@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for clothing requirements when pre-production sample(s) are required.
+ </p>
+<p>
+  Use Option 1 for all government departments except the Royal Canadian Mounted Police (RCMP).
+ </p>
+<p>
+  Use Option 2 for
+  <abbr title="Royal Canadian Mounted Police">
+   RCMP
+  </abbr>
+  requirements only.
+ </p>
+<p>
+  Use this clause in conjunction with clause
+  
+   B7011C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p><kbd>(<em>NOTE TO CONTRACTING OFFICER:  Choose between the two options below, as applicable</em>)</kbd></p>
+<h2>Option 1</h2>
+<ol type="1">
+<li value="1">Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_______</var> <kbd>(<em>insert the number of pre-production samples required</em>)</kbd></span> pre-production samples, accompanied by the sealed sample(s) if applicable, to the Technical Authority for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from <span class="input-required"><var>___________</var> <kbd>(<em>insert "date of contract award" or insert one or both of the following: "receipt of Government Supplied Material" and/or "receipt of tooling"</em>)</kbd></span>.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>_______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">Government Available Material: The successful Bidder must purchase, within seven (7) calendar days following the date of contract award, sufficient materials from the Royal Canadian Mounted Police to make up pre-production sample(s) and submit for approval before commencing production.
+
+<br/>Pre-production Samples: After contract award, the successful Bidder will be required to provide <span class="input-required"><var>_______</var> <kbd>(<em>insert the number of pre-production samples required</em>)</kbd></span> pre-production samples, accompanied by the sealed sample(s) if applicable, to the Technical Authority for acceptance within <span class="input-required"><var>_____</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days from <span class="input-required"><var>__________</var> <kbd>(<em>insert "date of contract award" or insert one or both of the following: "receipt of Government Available Material" and/or "receipt of tooling"</em>)</kbd></span>.</li>
+<li value="2">If the first sample(s) are rejected, the successful Bidder will be required to submit the second sample(s) within <span class="input-required"><var>______</var> <kbd>(<em>bidders must insert the number of days</em>)</kbd></span> calendar days of notification of rejection from the Technical Authority.</li>
+</ol>
+</div></pre>
+</div>

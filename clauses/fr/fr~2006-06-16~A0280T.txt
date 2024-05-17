@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque les soumissionnaires doivent fournir des 
+documents particuliers avec leur soumission (p. ex., preuve d'assurance, lettre 
+de crédit, liste de sous-traitants).  Utiliser cette clause en conjonction avec 
+la clause A0031T, A0034T, A0035T ou A0036T.  Insérer la clause dans la section 
+portant sur les exigences obligatoires des critères d'évaluation, dans la 
+demande de soumissions.
+
+Lorsque le modèle de complexité moyenne 2T-MED1 est utilisé, insérer la clause 
+dans l'Annexe X - Critères d'évaluation et Base de sélection, qui figure dans la 
+Partie 1 (Critères d'évaluation), article 1 (Exigences obligatoires).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le soumissionnaire doit fournir les documents suivants avec sa soumission :
+
+1. ______________
+
+2. ______________
+
+3. ______________.
+</pre>
+</div>

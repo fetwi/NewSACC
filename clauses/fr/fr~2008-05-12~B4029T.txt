@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions pour des besoins 
+maritimes lorsque le carénage, l'entretien et le réaménagement d'un navire du 
+gouvernement et des travaux imprévus et approuvés sont exigés.
+
+Utiliser cette clause en conjonction avec
+ 
+  B4029C
+ 
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le besoin est comme suit :</p>
+<ol type="a">
+<li value="1">le carénage, l'entretien et le
+réaménagement du navire <span class="input-required"><var>____________</var> <kbd>(<i>insérer le nom
+et la désignation du navire</i>)</kbd></span> du ministère
+<span class="input-required"><var>____________</var>
+<kbd>(<i>insérer le nom du ministère</i>)</kbd></span>
+conformément au Besoin décrit à l'annexe
+<span class="input-required"><var>____</var> <kbd>(<i>insérer les
+annexes supplémentaires contenant des spécifications
+supplémentaires, s'il y a lieu</i>)</kbd></span>.</li>
+<li value="2">tous les travaux imprévus et approuvés qui
+ne sont pas mentionnés au paragraphe a) ci-dessus.</li>
+</ol>
+</div></pre>
+</div>

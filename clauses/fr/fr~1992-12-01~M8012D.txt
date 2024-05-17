@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le proposant offre de fournir aux ministères et organismes du 
+       Gouvernement du Canada tous ceux-ci étant appelés «destinataire» 
+       dans les présentes, les services indiqués, aux conditions énoncées 
+       et aux prix indiqués dans la présente, au fur et à mesure que le 
+       destinataire en aura besoin, pourvu qu'il commande et autorise 
+       lesdits services conformément aux dispositions de la présente.
+
+2.     Le proposant comprend et convient :
+
+       a)     qu'une obligation contractuelle n'existera qu'à la suite 
+              d'une commande directe autorisée, subséquente à cette offre à 
+              commandes et que dans la mesure indiquée dans la commande;
+
+       b)     que le présent document n'oblige aucunement le destinataire à 
+              autoriser ou à commander la fourniture des services ni à 
+              engager des dépenses égales aux dépenses estimatives, ni même 
+              aucune dépense; et
+
+       c)     que le destinataire ne sera redevable, en vertu de la 
+              présente offre, que pour les services réellement commandés 
+              durant la période précisée dans la commande.
+
+3.     Le proposant convient aussi que les conditions énoncées dans le 
+       formulaire DSS-MAS 9076 font partie de la présente offre et, par 
+       conséquent, feront partie intégrante de toute «Commande subséquente 
+       à une offre à commandes» autorisée.
+
+4.     Si le proposant décide de retirer la présente offre, il s'efforcera 
+       d'en fournir un préavis écrit de trente (30) jours au ministère des 
+       Approvisionnements et Services afin qu'il puisse en informer toutes 
+       les parties autorisées à passer des commandes. Le proposant 
+       reconnaît que le retrait de l'offre n'influera aucunement sur les 
+       commandes passées auparavant.
+
+</pre>
+</div>

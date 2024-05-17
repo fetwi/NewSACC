@@ -1,0 +1,52 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque des primes au rendement peuvent être offertes afin de motiver les entrepreneurs à fournir un bon rendement dans les domaines essentiels à la réussite d’un achat et assujettis à une évaluation et un jugement qualitatifs, conformément à la section
+  
+   4.70.25.15
+  
+  du Guide des approvisionnements et à la section 4.4.3 du
+  
+   Guide du praticien pour l’établissement des prix en approvisionnement
+  
+  . Ces primes au rendement s’obtiennent en fonction de critères de rendement prédéfinis qui, en raison de leur nature subjective, nécessitent un jugement professionnel pour être évalués. Pour gagner une prime d’incitation, le rendement de l’entrepreneur doit surpasser les exigences mentionnées dans l’énoncé des travaux.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les critères de rendement pour les primes au rendement non versées peuvent être modifiés en cours de contrat, à la discrétion du Canada.</p>
+<p>Les primes au rendement non versées ne sont pas payables si le contrat est résilié en totalité ou en partie pour des raisons de commodité par le Canada, par un accord mutuel ou pour cause de manquement.</p>
+<p>Selon l’évaluation décrite au paragraphe ci-dessous, l’entrepreneur peut toucher des primes au rendement à intervalles réguliers. Le montant maximal des primes au rendement qu’un entrepreneur peut toucher est de <span class="input-required"><var>_______</var></span> $. Les taxes applicables sont en sus.</p>
+<p>Les périodes d’évaluation et les primes au rendement pouvant être gagnées vont comme suit :</p>
+<table>
+<thead>
+<tr>
+<th>Période(s) d’évaluation :</th>
+<th>Primes au rendement possibles :</th>
+</tr>
+</thead>
+<tbody><tr>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+<tr>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+<tr>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+<tr>
+<td> </td>
+<td><span class="input-required"><var>_______</var></span>$</td>
+</tr>
+</tbody></table>
+<p><kbd>(<em>Ajuster au besoin</em>)</kbd></p>
+<ol>
+<li>Le rendement de l’entrepreneur sera examiné et évalué de façon continue par le Canada. À la fin de chaque période d’évaluation, l’autorité contractante examinera le rendement en fonction des normes et des critères définis à l’annexe <span class="input-required"><var>_______</var></span> de l’énoncé des travaux daté du <span class="input-required"><var>_______</var></span> <kbd>(<em>JJ-MM-AAAA</em>)</kbd>, jointe aux présentes et faisant partie intégrante du présent contrat.</li>
+<li>Les résultats de l’évaluation détermineront le montant de la prime au rendement que touchera l’entrepreneur pour la période d’évaluation désignée. En aucun cas, toutefois, une prime non touchée ne sera offerte au cours des périodes d’évaluation subséquentes.</li>
+<li>L’autorité contractante avisera l’entrepreneur, par écrit, de la prime au rendement gagnée pour une période d’évaluation donnée. À la réception de cet avis, l’entrepreneur est admissible à la prime au rendement et doit présenter une facture pour le paiement.</li>
+<li>La détermination de la prime au rendement lie les deux parties et n’est pas assujettie à la clause relative au règlement des différends énoncée à l’article <span class="input-required"><var>_______</var></span> <kbd>(<em>inscrire le numéro de l’article approprié</em>)</kbd> du contrat.</li>
+</ol>
+</div></pre>
+</div>

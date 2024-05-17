@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause.  It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 5.7, <cite>Tr'ondëk Hwëch'in Final Agreement</cite> (THFA),
+clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">15.7.1.1</span> In evaluating any
+competitive proposal, bid or tender for the survey of Tr'ondëk
+Hwëch'in Settlement Land, Government shall include among the
+factors for consideration, employment of Tr'ondëk
+Hwëch'in, or for Tr'ondëk Hwëch'in and Tr'ondëk
+Hwëch'in ownership or equity investment in the firm submitting
+the proposal, bid or tender, and in any subcontractor to that
+firm.</li>
+<li><span class="number">15.7.1.2</span> The Tr'ondëk
+Hwëch'in and Government shall ensure that qualifications and
+experience requirements for employment of Tr'ondëk
+Hwëch'in in the surveying of Tr'ondëk Hwëch'in
+Settlement Land shall be established at levels appropriate to the
+nature of the tasks being performed in that employment, and shall
+take into account the local knowledge of Tr'ondëk
+Hwëch'in.</li>
+</ul>
+</div></pre>
+</div>

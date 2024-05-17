@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+Buildings.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The <em>Consultant</em> shall, after acceptance of the design concept 
+       documents, prepare and
+
+       (a)    submit to the <em>Departmental Representative</em>, design development 
+              documents in sufficient detail to define the size, intent and 
+              character of the entire Project;
+
+       (b)    submit an updated <em>Construction Cost Estimate</em> based on the 
+              design development documents, and an updated <em>Cost Plan</em> and <em>
+              Project Schedule</em>; and
+
+       (c)    provide copies of all design development documents in the 
+              type and number specified in clause R2001D, Agreement 
+              Particulars.
+
+</pre>
+</div>

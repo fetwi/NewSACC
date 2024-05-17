@@ -1,0 +1,79 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts for janitorial, food catering and security 
+services when the contractor must keep its employees' records up to date and 
+provide, upon request, information to the contracting officer in accordance with 
+Ontario Labour Legislation. Refer to procedure 9K.7 of the Supply Manual.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor must keep records of its employees up to date and 
+       provide, within seven (7) days following a request from the 
+       Contracting Authority, the following information for each employee 
+       as provided for in section 77(2) of the <em>Employment Standards Act</em>, 
+       2000, S.O. 2000, c. 41, and in Ontario Regulation 287/01:
+
+       (a)    the employee's name, residential address and telephone number;
+
+       (b)    the employee's job classification or job description;
+
+       (c)    the wage rate actually paid to the employee;
+
+       (d)    a description of the benefits, if any, provided to the 
+              employee including the cost of each benefit and the benefit 
+              period to which the cost relates;
+
+       (e)    the number of hours that the employee works in a regular work 
+              day and in a regular work week, or if the employee's hours of 
+              work vary from week to week, the number of the employee's 
+              non-overtime hours for each week that the employee worked 
+              during the thirteen (13) weeks before the date of the request 
+              for information;
+
+       (f)    the date on which the employer hired the employee;
+
+       (g)    any period of employment attributed to the employer under 
+              section 10 of the Act;
+
+       (h)    the number of weeks that the employee worked at the premises 
+              during the twenty-six (26) weeks before the request date.  
+              The 26-week period must be calculated without including any 
+              period during which the provision of services at the premises 
+              was temporarily discontinued, or during which the employee 
+              was on leave of absence under Part XIV of the Act;
+
+       (i)    a statement indicating whether either of the following 
+              subparagraphs applies to the employee
+
+              (i)    The employee's work, before the request date, included 
+                     the provision of services at the premises, but the 
+                     employee did not perform his or her job duties 
+                     primarily at those premises during the thirteen (13) 
+                     weeks before the request date.
+
+              (ii)   The employee's work included the provision of services 
+                     at the premises, but the employee was not actively at 
+                     work immediately before the request date, and did not 
+                     perform his or her job duties primarily at the 
+                     premises during the most recent thirteen (13) weeks of 
+                     active employment.
+
+2.     In addition to the above information, the Contractor must provide, 
+       within seven (7) days following a request from the Contracting 
+       Authority, an up-to-date copy of the collective agreement regarding 
+       the employees at the premises or, if no collective agreement exists 
+       for these premises, a copy of the union certificate regarding these 
+       employees or, if no union certificate was issued, a copy of any 
+       pending union application if it exists.
+
+3.     The Contractor must immediately provide the Contracting Authority 
+       with updated information if changes occur between the date the 
+       information requested by the Contracting Authority is provided and 
+       the expiry date of the Contract.
+
+4.     The Contracting officer will provide the information described above, 
+       with the exception of 1.(a) to potentiel bidders for a future 
+       contract for those services relating to the premises.
+
+
+
+</pre>
+</div>

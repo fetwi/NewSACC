@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats FAB à l'usine dans tous les cas où 
+l'entrepreneur paye d'avance les frais de transport et que la clause C5200C 
+n'est pas incluse.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur devra payer d'avance les frais de transport continental et 
+   les indiquer séparément sur la facture en joignant, à l'appui, une copie 
+   certifiée conforme de la facture de transport acquittée. 
+</pre>
+</div>

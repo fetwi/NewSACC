@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all bid solicitations.
+
+Do not use this clause with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canadian suppliers are required to have a Procurement Business Number (PBN) 
+before Contract award. Suppliers may register for a PBN in the Supplier 
+Registration Information service on line at the Business Access Canada 
+Website at: <strong class="wsStyleUnderline">http://contractscanada.gc.ca</strong>.
+
+For non-Internet registration, suppliers may contact the Business Access 
+   Canada InfoLine at 1-800-811-1148 to obtain the telephone number of the 
+   nearest Supplier Registration Agent.
+</pre>
+</div>

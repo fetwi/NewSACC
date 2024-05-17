@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in Science Contracts when a draft final report is not 
+required, and when the form and content of the final report has not been 
+detailed in the Statement of Work.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A final report in _____ copies shall be submitted to the Scientific 
+Authority on or before _____.  It must be a comprehensive report on all 
+facets of the Work and must include sufficient drawings, sketches, 
+photographs and a discussion of problems and successes associated with the 
+Work to facilitate a full and accurate evaluation of the Work by the 
+Scientific Authority.  The report will be prepared in accordance with good 
+engineering/professional practices and will include, as a minimum, the 
+following: a title page, a table of contents, an executive summary, an 
+introduction, a technical discussion with conclusions and include, as 
+applicable, supporting graphs, tables and figures.
+
+The final report shall be prepared in both the French and the English 
+language.  A sample title page is attached as Annex "___" to this Contract.  
+One copy of the title page of the final report shall be submitted to the 
+Science Contracting Officer.
+
+
+</pre>
+</div>

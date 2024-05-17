@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Should the temporary employee be required to travel as part of the actual 
+performance of the work, then the supplier will be reimbursed for actual 
+costs incurred with respect to travel and living expenses not exceeding the 
+applicable allowances listed in the current Treasury Board Travel Directive.
+
+In no event shall the supplier add to these expenses an element to cover 
+   profit or general and administrative charges. 
+</pre>
+</div>

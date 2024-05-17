@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contracts for the printing of forms.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor must perform the Work in accordance with the quality 
+requirement described in the document "Quality Levels for Forms", available 
+on the following Website:  http://www.pwgsc.gc.ca/acquisitions/text/
+nfprdcmmnf/cpac/qgpgnq-e.html.
+
+
+
+</pre>
+</div>

@@ -1,0 +1,56 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to outline Bidder/Contractor responsibility to inspect 
+and provide an inspection/test report of actual measurements taken when 
+procurement is for Safety Critical Class 3 Threaded Fasteners, NSN classes 5305, 
+5306, 5307, 5310 and 5315.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Items identified as Safety Critical Class 3 fasteners on the 
+       Contract, require the Contractor to provide to the Quality Assurance 
+       Representative (QAR) a valid inspection/test report of the results 
+       obtained for the following parameters:
+
+       (a)    "go" functional diameter size;
+       (b)    pitch diameter size;
+       (c)    major diameter size (external threads only);
+       (d)    minor diameter size (does not apply to MIL-S-7742 external 
+              threads);
+       (e)    root radius (applies to MIL-S-8879 external threads only);
+       (f)    flank angle;
+       (g)    lead (including helix variations);
+       (h)    circularity;
+       (j)    taper;
+       (k)    runout; and
+       (l)    surface roughness
+
+2.     If the differential between "GO" Functional and Pitch diameter does 
+       not exceed 0.5 for MIL-S-7742 or 0.4 for MIL-S-8879 of the Pitch 
+       diameter tolerance, inspection of the Flank Angle and Lead 
+       (including helix variations) is not necessary.
+
+3.     Definitions of these terms can be found in the latest revision of 
+       MIL-S-7742 or MIL-S-8879.
+
+4.     The Contractor shall provide actual measurement results obtained for 
+       100 percent of the contract quantity.
+
+5.     If the inspection/test report is not available from the manufacturer, 
+       the Contractor shall have the inspection performed, at the 
+       Contractor's expense, either at his own facility or at a facility 
+       acceptable to the QAR.
+
+6.     The Bidder/Contractor hereby certifies that the stated unit price 
+       for each of the items identified above includes the Test Reports 
+       called up under this clause.
+
+
+
+       __________________          _____________
+       Signature                          Date
+
+7.     Failure to provide this certification will result in your bid being 
+       declared as non-responsive.
+
+</pre>
+</div>

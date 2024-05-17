@@ -1,0 +1,89 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Cette clause est généralement utilisée pour les contrats dont la valeur estimée 
+est inférieure à 100 000 $.
+
+Si la limite suggérée est jugée insuffisante, les agents de négociation des 
+contrats doivent consulter les Services consultatifs de gestion des risques de
+ <abbr title="Travaux publics et Services gouvernementaux Canada">
+  TPSGC
+ </abbr>
+ , à :
+ 
+  NCR-RMIAS-SCGRA@tpsgc.gc.ca
+ 
+ .
+
+L'assurance responsabilité civile des entreprises (RCE) peut s'avérer 
+insuffisante ou inappropriée pour certains contrats de construction. Pour les 
+travaux exécutés du côté piste des opérations d'un aéroport, la
+ <abbr title="responsabilité civile des entreprises">
+  RCE
+ </abbr>
+ devrait être 
+substituée par l'Assurance responsabilité aérienne (G2030C). Pour les travaux 
+effectués à l'aide d'outillage flottant ou de drague, la RCE devrait être 
+substituée par l'Assurance responsabilité en matière maritime (G5003C).
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>CG9.1 Généralités</h2>
+<ol type="1">
+<li value="1">L'entrepreneur souscrit et maintient, à ses
+propres frais, les polices d'assurance conformément aux
+exigences décrites aux présentes.</li>
+<li value="2">L'entrepreneur doit assumer le paiement de toutes
+sommes d'argent en règlement d'un sinistre, jusqu'à
+concurrence de la franchise.</li>
+</ol>
+<h2>CG9.2 Preuve du contrat d'assurance</h2>
+<ol type="1">
+<li value="1">Avant le début des travaux, et dans un
+délai de trente (30) jours après l'acceptation de sa
+soumission, l'entrepreneur doit remettre au Canada une Attestation
+d'assurance formulaire PWGSC-TPSGC 357.</li>
+<li value="2">À la demande du Canada, l'entrepreneur doit
+fournir les originaux ou les copies certifiées de tous les
+contrats d'assurance auxquels l'entrepreneur a souscrit
+conformément aux exigences décrites aux
+présentes.</li>
+<li value="3">Les polices d´assurance doivent comprendre un
+avenant prévoyant la transmission au Canada d'un préavis
+écrit d'au moins trente (30) jours en cas d'annulation de
+l´assurance ou de toute réduction de la garantie
+d´assurance.</li>
+</ol>
+<h2>CG9.3 Assurance de la responsabilité civile des
+entreprises</h2>
+<ol type="1">
+<li value="1">La garantie d'assurance fournie ne doit pas être
+inférieure à la garantie fournie par le formulaire <abbr title="Bureau d'assurance du Canada">BAC</abbr>
+2100 avec toutes ses modifications successives et doit avoir un
+« Plafond par sinistre » d'au moins 5 000 000 $.</li>
+<li value="2">Le contrat d'assurance doit inclure ou avoir un
+avenant pour l'inclusion d'une garantie pour les risques et dangers
+suivants si les travaux y sont assujettis :
+<ol type="a">
+<li value="1">Dynamitage.</li>
+<li value="2">Battage de pieux et travaux de caisson.</li>
+<li value="3">Reprise en sous-oeuvre.</li>
+<li value="4">Enlèvement ou affaiblissement d'un support
+soutenant des bâtiments ou terrains, que ce support soit
+naturel ou non, si le travail est exécuté par
+l'entrepreneur assuré.</li>
+</ol>
+</li>
+<li value="3">Le contrat d'assurance doit assurer l'entrepreneur et
+doit inclure à titre d'assuré additionnel, Sa
+Majesté la Reine du chef du Canada représentée par
+le Ministre des Travaux publics et Services gouvernementaux Canada,
+à l'égard de la responsabilité découlant des
+activités de l'entrepreneur ayant trait aux travaux.</li>
+<li value="4">À moins d'avis contraire par écrit du
+Canada ou d'indication contraire ailleurs dans les présentes,
+le contrat d'assurance exigé dans les présentes doit
+prendre effet le jour de l'attribution du contrat et demeurer en
+vigueur jusqu'au jour de délivrance du Certificat
+d'achèvement.</li>
+</ol>
+</div></pre>
+</div>

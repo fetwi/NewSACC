@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations, in conjunction with clause 
+E0004T.  
+
+The contracting officer must insert only the percentage amount in paragraphs 1 
+and 2.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Enclosed with the bid is the requested security consisting of:
+
+       (a)    a security deposit (government guaranteed bonds, bills of 
+              exchange, irrevocable standby letters of credit) in the 
+              amount of $ _____, being not less than _____ percent of the 
+              bid price; or
+
+       (b)    a bid bond in the amount of $ _____, being not less than _____ 
+              percent of the bid price.
+
+2.     If the bid is accepted, the Bidder will be required to provide one 
+       of the following contract financial securities within _____ calendar 
+       days of contract award:
+
+       (a)    a performance bond (form PWGSC-TPSGC 505 attached) in the 
+              amount of _____ percent of the contract price;<strong><strong><strong> OR
+</strong></strong></strong>
+       (b)    a performance bond (form PWGSC-TPSGC 505 attached) and a 
+              labour and material payment bond (form PWGSC-TPSGC 506 
+              attached), each in the amount of _____ percent of the 
+              contract price;<strong><strong><strong> OR
+</strong></strong></strong>
+       (c)    a labour and material payment bond (form PWGSC-TPSGC 506 
+              attached), in the amount of _____ percent of the contract 
+              price,  plus the security deposit furnished in accordance 
+              with 1.(a) above, both of which Canada will retain;<strong><strong><strong> OR
+</strong></strong></strong>
+              <strong>NOTE:  </strong>The above-mentioned bonds are also available 
+                     electronically on the following Public Works and 
+                     Government Services Canada Website: http://www.pwgsc.gc.ca
+                     /acquisitions/text/forms/forms-e.html, and must be 
+                     accepted as security by one of the insurance companies 
+                     listed in Treasury Board Contracting Policy, Appendix 
+                     L, Acceptable Bonding Companies,   http://www.tbs-sct.gc.ca
+                     /pubs_pol/dcgpubs/contracting/contractingpol_l_e.asp.
+
+       (d)    a security deposit (government guaranteed bonds, bills of 
+              exchange, irrevocable standby letters of credit) to the value 
+              of _____ percent of the contract price, plus the security 
+              deposit furnished in accordance with 1.(a) above, both of 
+              which Canada will retain;<strong><strong><strong> OR </strong></strong></strong>
+
+       (e)    a security deposit (government guaranteed bonds, bills of 
+              exchange, irrevocable standby letters of credit) to the value 
+              of _____ percent of the contract price.
+
+3.     If, for any reason, Canada does not receive, within the specified 
+       period, the Contract signed by the Bidder and the requested contract 
+       financial security, Canada may, at its discretion, retain the bid 
+       security and accept another bid, issue a new bid solicitation, award 
+       a contract or reject all the bids.
+
+
+</pre>
+</div>

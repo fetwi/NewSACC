@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Inclure la clause suivante et la formule DSS-MAS 4079, Déclaration de biens 
+admissibles, dans les invitations à soumissionner assujetties à l'Accord de 
+libre-échange entre le Canada et les États-Unis, sauf dans les cas d'offres à 
+commandes pour des produits multiples, lorsqu'il n'existe aucune méthode 
+pratique pour évaluer l'usage annuel (voir la directive 3005 du GPA).  En outre, 
+supprimer la case "Contenu étranger" au recto de l'invitation à soumissionner, 
+ou indiquer "Sans objet".  
+
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Soumissionnaire déclare et garantit que la Déclaration des biens 
+admissibles jointes à la présente soumission est précise et complète et 
+respecte la définition des biens admissibles stipulée dans la déclaration 
+en question.  
+
+Le Soumissionnaire reconnaît par ailleurs que le Ministre se fie à une 
+telle déclaration et une telle garantie pour évaluer les soumissions et 
+conclure un marché quel qu'il soit à la suite de la présente soumission.  
+Une telle déclaration et une telle garantie pourront faire l'objet de toute 
+vérification que le Ministre jugera opportune. 
+
+Les biens admissibles, les produits d'origine canadienne et les produits 
+   désignés des sociétés multinationales rationalisées (voir la politique 
+   d'ASC, directive 3051 du GPA) se verront accorder la préséance, 
+   c'est-à-dire que le prix de soumission pour tous les autres biens sera 
+   augmenté par un facteur de 10 p. 100 aux fins d'évaluation. Le facteur 
+   de 10 p. 100 sera également appliqué aux produits qui ne sont pas 
+   indiqués dans la Déclaration des biens admissibles ou dans les 
+   soumissions présentées sans cette dernière Déclaration.   
+</pre>
+</div>

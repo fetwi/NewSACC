@@ -1,0 +1,180 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats décrits ci-dessous lorsque 
+l'entrepreneur est situé à l'extérieur du Canada et que le ministère de la 
+Défense nationale (MDN) est responsable de l'expédition : 
+
+-	contrats à fournisseur unique pour des biens;
+-	tous les contrats de réparation et de révision lorsque le transport ne faisait 
+pas partie de la soumission concurrentielle; et
+-	les contrats de vente de matériel militaire des États-Unis à l'étranger.
+
+Utiliser cette clause en conjonction avec C2608C pour toutes les expéditions 
+lorsque le MDN sera l'importateur; et avec C2610C lorsque le MDN sera 
+l'importateur et que la valeur du contrat est de 250 000 $CAN ou plus.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     La livraison doit s'effectuer FCA franco transporteur ________ (<span class="wsInlineRemark"><strong>
+       insérer le nom du lieu convenu, par ex. l'établissement de 
+       l'entrepreneur</strong></span>) selon les Incoterms 2000. L'entrepreneur doit 
+       charger les biens dans les véhicules de l'entreprise de transport 
+       désigné par le ministère de la Défense nationale (MDN).  Le Canada 
+       est responsable par la suite du transport des biens, du point de 
+       livraison jusqu'au destinataire.
+
+2.     Avant l'expédition des biens, l'entrepreneur doit contacter le 
+       centre de coordination suivant de la logistique intégrée du MDN par 
+       téléphone, télécopieur ou courriel afin d'arranger l'expédition et 
+       fournir l'information détaillée au paragraphe 3.
+
+       <span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats</strong></span><em> :    Avant 
+       l'attribution du contrat, choisir l'option a, b, c, ou d, et 
+       supprimer les options non utilisées et cette instruction.</em><em></em>
+
+       a)     <em>Insérer le texte suivant lorsque l'entrepreneur est situé aux 
+       États-Unis</em> :
+
+              Centre de coordination de la logistique intégrée (CCLI)
+              Téléphone     1-877-447-7701 (sans frais) 
+              Télécopieur   1-877-877-7409 (sans frais)
+              Courriel      ilhqottawa@forces.gc.ca
+
+       <strong>OU</strong>
+
+       b)     <em>Insérer le texte suivant lorsque l'entrepreneur est situé au 
+              Royaume Uni ou en Irlande</em> :
+
+              Logistique intégrée du Royaume Uni (LIRU)
+              Téléphone :   011-44-1895-613023, ou
+                            011-44-1895-613024, ou
+              Télécopieur : 011-44-1895-613047
+              Courriel :    DawsHillMovement@forces.gc.ca
+
+       De plus, l'entrepreneur doit envoyer au centre de coordination de la 
+       logistique intégrée du MDN le formulaire <em>« Shipping Advice and 
+       Export Certificate »</em>, dûment complété, disponible sur le site Web : 
+       http://www.cfsue.de/dawshill/docs/shipping_advice.doc ou par 
+       courriel à : DawsHillMovement@forces.gc.ca.
+
+       La livraison de tout article excédant 600 livres sterling (GPB) 
+       exporté du Royaume-Uni et de l'Irlande sera dédouané par le MDN 
+       selon les nouveaux systèmes britanniques d'exportation et de tarifs 
+       douaniers <em>« Her Majesty's Customs &amp; Excise » (HMCE) New Export 
+       Systems</em> (NES).  L'entrepreneur doit respecter les exigences de « 
+       HMCE » en s'enregistrant auprès de cette organisation ou en laissant 
+       le soin à un transitaire d'assurer l'entrée des envois au Canada.  
+       Une copie imprimée de la section <em>Export Declaration</em> dans les « NES », 
+       indiquant clairement le numéro « Declaration Unique Consignment 
+       Reference Number », doit être fournie par l'entrepreneur et jointe à 
+       l'envoi.  L'entrepreneur doit s'assurer que cette procédure est 
+       exécutée pour tout le matériel, qu'il s'agisse d'exportation 
+       d'articles d'achat initial ou d'articles de réparation et de 
+       révision.  « HMCE » autorisera à l'Unité de soutien des Forces 
+       canadiennes (Europe) à expédier les biens seulement si la procédure 
+       a été suivie de façon intégrale et convenable par l'entrepreneur.
+
+       <strong>OU</strong>
+
+       c)     <em>Insérer le texte suivant lorsque l'entrepreneur est situé 
+              dans un pays autre que le Canada, les États-Unis, le Royaume 
+              Uni ou l'Irlande</em> :
+
+              Logistique intégrée de l'Europe (LIE)
+              Téléphone :   +49-(0)-2451-910625
+              Télécopieur : +49-(0)-2451-910626
+              Courriel :    CFSUEMovement@forces.gc.ca
+
+       <strong>OU</strong>
+
+       d)     <em>Insérer le texte suivant pour les ventes de matériel 
+       militaire des États-Unis à l'étranger</em> :
+
+              Centre de coordination de la Logistique intégrée (CCLI)
+              Téléphone :   1-877-447-7701 (sans frais)
+              Télécopieur :        1-877-877-7409 (sans frais)
+              Courriel :    ilhqottawa@forces.gc.ca
+
+       Le Canada est responsable du choix de l'entreprise de transport pour 
+       l'expédition des biens fourni en vertu du contrat de vente de 
+       matériel militaire à l'étranger.  Les instructions sur la façon de 
+       procéder pour obtenri du Canada le choix de l'entreprise de 
+       transport se trouvent dans le « Military Assistance Program Address 
+       Directory » du Département de la défense des États-Unis (DoD 
+       4000.25-8-M), sous l'Indicateur des instructions spéciales (IIS) 
+       pour le Canada.  L'entrepreneur ne doit pas expédier les biens tant 
+       que les instructions correspondant à l'indicateur IIS n'ont pas été 
+       respectées.
+
+       <span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats</strong></span><em>:  Insérer les 
+       paragraphes 3 à 7 suivants avec toutes les options ci-dessus, sauf d) 
+       - Ventes de matériel militaire des États-Unis à l'étranger, et 
+       supprimer cette instruction</em>.
+
+3.     Lors de la préparation de l'expédition, l'entrepreneur doit fournir 
+       les renseignements suivants au centre de coordination de la 
+       logistique intégrée du MDN :
+
+       a)     le numéro du contrat;
+
+       b)     l'adresse du destinataire (pour les adresses multiples, les 
+              articles doivent être emballés et étiquetés séparément, et 
+              chaque article doit porter l'adresse du destinataire);
+
+       c)     la description de chaque article;
+
+       d)     le nombre de pièces et le type d'emballage (par ex. boîtes, 
+              caisses à claire-voie, fûts, palettes);
+
+       e)     le poids et les dimensions réels de chaque pièce, y compris 
+              le poids brut;
+
+       f)     un exemplaire de la facture commerciale (conformément à 
+              l'article 4 de la clause C2608C du guide des Clauses et 
+              conditions uniformisées d'achat [CCUA]) ou un exemplaire de 
+              la facture des douanes canadiennes;
+
+       g)     le numéro tarifaire harmonisé/à l'exportation (aux États-Unis, 
+              le tarif à l'exportation est appelé généralement « Schedule B » 
+              et est disponible aux adresses suivantes : http://www.customs.ustreas.gov
+              /xp/cgov/export ou http://www.census.gov/foreign-trade/
+              schedules/b/index.html);
+
+       h)     le certificat d'origine de l'ALENA (conformément à l'article 
+              2 de la clause C2608C du guide des CCUA), applicable 
+              seulement aux États-Unis et au Mexique);
+
+       i)     les détails complets sur les matières dangereuses selon les 
+              exigences du mode de transport applicable, les certificats 
+              nécessaires à l'expédition dûment signés, en vertu des 
+              dispositions applicables du Code maritime international des 
+              marchandises dangereuses, du Règlement de l'Association du 
+              transport aérien international, ou du <em>Règlement sur le 
+              transport des marchandises dangereuses du Canada</em>, ainsi 
+              qu'une copie de la fiche signalétique.
+
+4.     Après avoir reçu cette information, le Canada fournira à 
+       l'entrepreneur des instructions pertinentes relatives à l'expédition, 
+       notamment l'obligation d'utiliser des étiquettes particulières 
+       portant l'adresse du destinataire et d'inscrire sur chaque pièce un 
+       numéro de contrôle pour le transport, et des documents douaniers.
+
+5.     L'entrepreneur ne doit en aucun cas expédier des biens sans avoir 
+       reçu au préalable les instructions d'expédition du point de contact 
+       en matière de logistique intégrée du MDN.
+
+6.     Si l'entrepreneur livre les biens à un endroit et à une date non 
+       conformes aux instructions de livraison ou s'il ne respecte pas les 
+       instructions raisonnables de livraison fournies par le Canada, il 
+       devra alors rembourser à ce dernier tous les suppléments de frais et 
+       de coûts engagés.
+
+7.     Si la livraison des biens est reportée du fait des retards 
+       occasionnés par le Canada, la propriété sur les biens ainsi que les 
+       risques encourus seront transférés au Canada après un délai de 
+       trente (30) jours suivant la date à laquelle le Canada ou son 
+       transitaire désigné aura reçu une demande d'expédition en bonne et 
+       due forme ou trente (30) jours suivant la date de livraison 
+       spécifiée dans le contrat, le délai le plus long étant retenu.
+
+
+</pre>
+</div>

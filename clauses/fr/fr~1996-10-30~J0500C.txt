@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser le texte suivant lors de la préparation d'un Ordre d'arrêt des travaux 
+transmis par télégramme ou fac-similé si une résiliation pour des raisons de 
+commodité est envisagée ou s'il faut voir à quel étape en est le contrat avant 
+de décider si une résiliation s'avère nécessaire et, le cas échéant, le type et 
+l'ampleur de la résiliation (y compris une résiliation pour inexécution).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent Ordre d'arrêt des travaux est émis conformément à l'article _____ 
+(dispositions sur la «Suspension des travaux») des Conditions générales, 
+s'il y en a à l'égard du numéro de dossier du contrat _____. 
+
+       «Vous êtes prié, par le Ministre des Travaux publics et des Services 
+       gouvernementaux, de cesser immédiatement tous les travaux relatifs 
+       au présent contrat, y compris ceux de vos sous-traitants, jusqu'à 
+       nouvel avis de l'autorité contractante.  Vous ne devrez plus passer 
+       de commandes et engager de frais additionnels.  Vous devrez 
+       également fournir à l'autorité contractante un rapport détaillé de 
+       l'état actuel du contrat.»
+
+</pre>
+</div>

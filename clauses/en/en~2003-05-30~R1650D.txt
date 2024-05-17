@@ -1,0 +1,232 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause requires a minimum of $250K insurance which is the industry standard 
+for smaller projects.   Use clause R1250D for the projects advertized on GETS or 
+where a minimum of $1M insurance is required.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>GC 9.1 (30/05/03)    Indemnification</strong>
+
+1.     The Consultant shall indemnify and save harmless Canada, its 
+       employees and agents, from losses arising out of the errors, 
+       omissions or negligent acts of the Consultant, its employees and 
+       agents, in the performance of the Services under the Agreement.
+
+2.     The Consultant's liability to indemnify or reimburse Canada under 
+       the Agreement shall not affect or prejudice Canada from exercising 
+       any other rights under law.
+
+<strong>GC 9.2 (30/05/03)    Insurance Requirements</strong>
+
+1.     General
+
+       (a)    The Consultant, at the Consultant's expense, shall obtain and 
+              maintain, or shall cause to be obtained and maintained, 
+              insurance coverage in respect of the Services, and in 
+              accordance with the requirements of this General Condition.
+
+       (b)    If requested in writing by the Contracting Authority, within 
+              thirty (30) days after acceptance of the Consultant's 
+              proposal by Canada, the Consultant shall deposit with the 
+              Contracting Authority an Insurer's Certificate of Insurance 
+              in the form included in this clause and, if requested by the 
+              Contracting Authority, the originals or certified true copies 
+              of all contracts of insurance maintained by or on behalf of 
+              the Consultant and the Consultant's Sub-Consultants as might 
+              be applicable pursuant to the insurance coverage requirements 
+              contained in the proposal documents.  Thereafter, during and 
+              after the performance of the Services, the Consultant shall 
+              provide the Contracting Authority, on request, with 
+              verification satisfactory to the Contracting Authority that 
+              the required insurance coverage is in place.
+
+       (c)    If requested in writing by the Contracting Authority the 
+              Consultant shall provide annually to the Contracting 
+              Authority an Insurer's Certificate of Insurance until the 
+              services provided by the Consultant under the contract are 
+              completed.
+
+       (d)    This insurance coverage is not intended to cover all of the 
+              Consultant's indemnification obligations.  Any additional 
+              insurance coverage the Consultant may deem necessary to 
+              fulfill the Consultant's obligations shall be at the 
+              Consultant's discretion and expense.
+
+       (e)    The payment of monies up to any deductible amount made in 
+              satisfaction of any claim shall be at the Consultant's 
+              expense.
+
+       (f)    Forthwith upon receipt of the Insurer's certification, the 
+              Consultant shall deposit it with the Contracting Authority.
+
+2.     Commercial General Liability
+
+       (a)    Commercial General Liability insurance coverage shall be 
+              effected by the Consultant at the Consultant's expense, and 
+              maintained in force throughout the performance of the 
+              Services.  The policy shall be in an amount usual for the 
+              nature and scope of the Services but, unless specified 
+              elsewhere in the proposal documents, shall have a limit of 
+              liability of not less than $1,000,000 for any one occurrence 
+              or series of occurrences arising out of one cause.  Legal or 
+              defence costs incurred in respect of a claim or claims shall 
+              not operate to decrease the limit of liability.
+
+       (b)    The policy shall insure Canada, the Consultant, and the 
+              Consultant's Sub-Consultants for the performance of the 
+              Services, and shall include but not be limited to the 
+              following coverage/provisions:
+
+              (i)    "Additional Named Insured:  Canada as represented by 
+                     the Minister of Public Works and Government Services 
+                     is named as an Additional Named Insured under any 
+                     liability insurance policies for Canada's respective 
+                     rights and interests under the contract for the 
+                     performance of the Services."
+
+              (ii)   "Cross Liability:  Any act or omission by one or 
+                     another of the Insured hereunder shall not prejudice 
+                     the rights or interests of any other Insured.  This 
+                     policy, subject to its limits of liability, shall 
+                     apply to each Insured in the same manner and to the 
+                     same extent as if a separate policy had been issued to 
+                     each.  The inclusion herein of more than one Insured 
+                     shall not operate to increase the limits of the 
+                     Insurers' liability."
+
+              (iii)  "Litigation Rights:  It is understood and agreed that 
+                     where any suit is instituted for or against Canada 
+                     which the Insurer or Insurers would, but for this 
+                     clause, have the right to pursue or defend on behalf 
+                     of Canada as an Additional Named Insured under this 
+                     insurance policy, the Insurer shall promptly contact 
+                     the Attorney General of Canada to agree on the legal 
+                     strategies by sending a registered letter to:
+
+                     Senior General Counsel
+                     Civil Litigation Section
+                     Department of Justice
+                     East Memorial Building
+                     284 Wellington Street, 2nd Floor
+                     Ottawa, Ontario   K1A 0H8
+
+                     The notification must be followed, within a reasonable 
+                     period, by an information copy to the Contracting 
+                     Authority. 
+
+                     The Insurer also agrees that Canada reserves the right 
+                     to co-defend any action brought against Canada.  
+                     However, all expenses incurred by Canada to co-defend 
+                     such actions would be at Canada's expense."
+
+              (iv)   "Notice of Cancellation or Amendments of Insurance 
+                     Coverage:  The Insurer agrees to give the Contracting 
+                     Authority at least thirty (30) days' prior written 
+                     notice of any policy cancellation or any changes in 
+                     the policy coverage."
+
+3.     Professional Liability
+
+       (a)    The Consultant, at the Consultant's expense, shall effect and 
+              continuously maintain Professional Liability insurance 
+              coverage from the commencement of performance of the Services 
+              for a minimum five (5) years after their completion.  The 
+              policy shall be in an amount usual for the nature and scope 
+              of the Services but, unless specified elsewhere in the 
+              proposal documents, shall have a limit of liability of not 
+              less than $250,000 per claim.
+
+       (b)    The following clauses must be incorporated into the 
+              conditions of the Consultant's Professional Liability 
+              insurance coverage:
+
+              (i)    "Litigation Rights:  It is understood and agreed that 
+                     where any suit is instituted for or against Canada 
+                     which the Insurer, or Insurers would, but for this 
+                     clause, have the right to pursue or defend on behalf 
+                     of Canada under this insurance policy, the Insurer 
+                     shall promptly contact the Attorney General of Canada 
+                     to agree on the legal strategies by sending a 
+                     registered letter to:
+
+                     Senior General Counsel,
+                     Civil Litigation Section,
+                     Department of Justice
+                     East Memorial Building
+                     284 Wellington Street, 2nd Floor
+                     Ottawa, Ontario   K1A 0H8
+
+                     The notification must be followed, within a reasonable 
+                     period, by an information copy to the Contracting 
+                     Authority.
+
+                     The Insurer also agrees that Canada reserves the right 
+                     to co-defend any action brought against Canada.  
+                     However, all expenses incurred by Canada to co-defend 
+                     such actions would be at Canada's expense."
+
+              (ii)   "Notice of Cancellation of Insurance Coverage:  The 
+                     Insurer agrees to give the Contracting Authority at 
+                     least thirty (30) days' prior written notice of any 
+                     policy cancellation."
+
+4.     Insurer's Certificate of Insurance
+
+(To be completed by the Insurer (not the Broker) and delivered to Canada 
+within thirty (30) days following acceptance of proposal)
+
+<strong>CONTRACT</strong>
+Description of Work: _________________________________________
+
+Location:            _________________________________________
+
+Contract No.         _________________________________________
+
+Award Date:          _________________________________________
+
+<strong>INSURER</strong>
+Name:         ________________________________________________
+
+Address:      ________________________________________________
+
+
+<strong>BROKER</strong>
+Name:         ________________________________________________
+
+Address:      ________________________________________________
+
+
+<strong>INSURED</strong>
+Name:         ________________________________________________
+
+Address:      ________________________________________________
+
+
+This document certifies that the following policies of insurance are at 
+present in force covering all operations of the Insured, in connection with 
+the contract made between the named insured and Canada.
+
+
+<strong>Type of PolicyNumberInception DateExpiry DateLimits of LiabilityDeductible</strong>_______________________________________________________________________________________________________________________________________________________________________________________
+
+Each of these policies includes coverage as specified in the Insurance 
+Requirements in this document, and Supplementary Insurance Requirements if 
+included in this solicitation document, which form part of this contract.
+
+The Insurer agrees to notify Canada and the Insured in writing thirty (30) 
+days prior to cancellation of any policy or coverage.
+
+Name of Insurer's Officer or Authorized Employee:       ________________________
+
+Telephone Number:    _______________________
+
+
+Signature:           _______________________     Date:  __________________
+
+
+ISSUANCE OF THIS CERTIFICATE SHALL NOT LIMIT<strong><strong><strong> OR </strong></strong></strong>RESTRICT THE RIGHT OF 
+CANADA TO REQUEST AT ANY TIME DUPLICATE CERTIFIED COPIES OF SAID INSURANCE 
+POLICIES.
+
+</pre>
+</div>

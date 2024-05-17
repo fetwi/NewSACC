@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la demand du MDN indique qu'il s'agit d'une 
+assurance officielle de la qualité à la source et qu'il y a plus d'un code 
+d'assurance de la qualité (CAQ).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Pour l'exécution des travaux décrits dans le présent document, 
+l'entrepreneur doit satisfaire aux exigences en matière de contrôle de la 
+qualité et d'inspection indiquées dans la soumission ou le contrat ou pour 
+chaque code d'assurance de la qualité (CAQ) sur les formules ou les 
+feuilles de continuation annexée. Les exigences à respecter, pour chaque 
+CAQ, sont expliquées dans les clauses suivantes:
+
+
+CAQ A -        Inspection à destination                        -      
+D5531D
+
+CAQ B -       Vérification à destination                       -      
+D5530D
+
+CAQ D -       AQAP-9 (ne s'applique pas aux É.-U.)             -      
+D5534D
+CAQ D -       FAR 52.246-2 (E.-U. seulement)                   -      
+D5534D
+
+CAQ E -       D-QA-001-015/SF-001                       -      D5536D
+
+CAQ F -       AQAP-13 (ne s'applique pas aux É-U)              -      
+D5535D
+CAQ F -       DOD-STD-2168 au complet en                -      D5535D
+              plus des exigences supplement-
+              aires (É.-U. seulement)
+
+CAQ G -       AQAP-4 (ne s'applique pas aux É-U.)              -      
+D5533D
+CAQ G -       MIL-I-45208A (É.-U. seulement)                   -      
+D5533D
+
+CAQ H -       AQAP-1 (ne s'applique pas aux É.-U.)             -      
+D5532D
+CAQ H -       MIL-Q-9858A (É.-U. seulement)                    -      
+D5532D
+
+CAQ J -       FAA - É.-U./MT                                   -      
+D5580D
+
+CAQ P -       D-QA-001-015/SF-002                       -      D5537D
+
+Les registres de contrôle de la qualité, d'inspection et d'essai faisant 
+état de la conformité aux exigences spécifiées, ainsi que les registres des 
+mesures correctives, doivent être conservés par l'entrepreneur pendant 
+trois (3) ans après la date d'exécution ou de résiliation du contrat, et 
+présentés sur demande au RAQ.
+
+</pre>
+</div>

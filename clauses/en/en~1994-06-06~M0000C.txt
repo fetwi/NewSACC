@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used in all Standing Offers in conjunction with 
+clause K0000D "Conditions."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</strong>
+
+All instructions, general terms, conditions and clauses identified herein 
+by title, number and date are set out in the Standard Acquisition Clauses 
+and Conditions (SACC) Manual, issued by the Department of Supply and 
+Services bearing Catalogue No. P60-4/1-1991E and revised as of 6 June 1994.
+
+The SACC Manual may be obtained from the Canada Communication Group - 
+Publishing, telephone (XXX) XXX-XXXX, and may also be viewed on the Open 
+Bidding Service, telephone (XXX) XXX-XXXX and 1-800-XXX-XXXX, and at all 
+DSS procurement offices.
+
+<strong>TERMS AND CONDITIONS - STANDING OFFER </strong>
+
+Pursuant to the <em>Department of Supply and Services Act</em>, R.S.C. 1985, c.S-25,
+
+(a)    the Particulars of the Standing Offer set out in Part B of Standard 
+       Instructions and Conditions - Standing Offers, DSS-MAS 9403-6 (06/94), 
+       as well as the general terms, conditions and clauses identified 
+       herein by number, date and title, are hereby incorporated by 
+       reference into and form part of this Standing Offer, and 
+
+(b)    Conditions set out in Part C of Standard Instructions and Conditions 
+       - Standing Offers, DSS-MAS 9403-6 (06/94), as well as the general 
+       terms, conditions and clauses identified herein by number, date and 
+       title, are hereby incorporated by reference into and form part of 
+       any contract resulting from any call-up pursuant to this Standing 
+       Offer,
+
+as though expressly set out herein, subject to any other express terms and 
+   conditions herein contained.
+</pre>
+</div>

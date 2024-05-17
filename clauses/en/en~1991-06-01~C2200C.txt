@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all Science contracts which incorporate a 
+"Limitation of Expenditure" clause. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Goods and Services Tax (GST) is not included in the amounts shown in 
+   the Basis of Payment and Limitation of Expenditure clauses.  The GST, 
+   which is estimated at $_____, is included in the Total Estimated Cost 
+   shown on page 1 of this Contract.  The GST, to the extent applicable, is 
+   to be shown separately on all invoices and claims for progress payments 
+   and will be paid by Canada.  The Contractor agrees to remit to Revenue 
+   Canada - Customs and Excise any GST that the Contractor receives from 
+   Canada pursuant to this Contract. 
+</pre>
+</div>

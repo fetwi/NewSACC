@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when contractors or their vendors are 
+importing articles or material from the U.S. for the use in defence production 
+or development sharing contracts. 
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Goods purchased in or imported into Canada for use solely and exclusively 
+in the performance of this Contract, which will not be altered so as to 
+lose their identity and are or will become the property of the United 
+States Government, will, provided the Contractor receives specific 
+authorization from CCC, be entitled to:
+
+       (a) remission of customs duties, and exemption from payment of sales 
+       and excise taxes, ordinarily payable on importation of the goods 
+       into Canada; and
+
+       (b) exemption from payment of the sales and excise taxes ordinarily 
+       payable on purchase of the goods in Canada.      
+
+The details and procedures are set out in Department of National Revenue 
+   Memorandum D8-9-1 as authorized by Order-in-Council PC 1970-1913, which 
+   is available from local Customs and Excise offices.   
+</pre>
+</div>

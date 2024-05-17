@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les factures devront préciser ce qui suit:
+
+a) Numéro de série de l'offre permanente:
+
+b) No. du dossier MAS:
+
+c) Codes financiers: (voir MAS 942) 
+
+d) Numéro d'autorisation de la tâche: (voir MAS 942) 
+
+e) Description des tâches poursuivies durant la période de facturation:
+
+f) Coût total encouru pour chaque tâche durant la période de facturation; 
+et 
+
+g) Frais de déplacement et de subsistance effectivement encourus pour 
+chacune des tâches durant la période de facturation et approuvés par le 
+Chef de projet (reçus requis)
+
+Faire parvenir l'original et deux copies des factures, y compris les pièces 
+   justificatives, à: _____ Aux soins de:  
+</pre>
+</div>

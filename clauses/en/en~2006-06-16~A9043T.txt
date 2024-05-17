@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when reissuing a bid solicitation.  Contracting 
+officers are to insert the number, date and closing time and date of the bid 
+solicitation which is being superseded.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This cancels and supersedes previous bid solicitation number ______ dated _______ 
+   with a closing of ______ (<strong><em>insert the closing date</em></strong>) at ________ (<strong><em>insert 
+   the closing time</em></strong>).
+</pre>
+</div>

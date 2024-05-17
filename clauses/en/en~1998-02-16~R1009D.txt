@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in Architectural and Engineering Consultant Agreements - 
+Buildings and Engineering Works.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Tender Call</strong>
+
+1.     Whereas the <em>Departmental Representative</em> shall be responsible for the 
+       production of the required number of copies of the tender documents, 
+       and for such other documents as are necessary for tender call 
+       purposes, the <em>Consultant</em> shall, after acceptance of the final 
+       submission of the construction documents, provide, in a manner 
+       satisfactory to the <em>Departmental Representative</em>, one (1) complete 
+       set of the approved working drawings on mylar or similar material, 
+       suitable for reproduction and microfilming, and two (2) sets of the 
+       approved specifications, one set to be suitable for reproduction and 
+       the other set to be properly bound and covered.  The <em>Consultant</em> 
+       shall, on request:
+
+       (a)    provide the <em>Departmental Representative</em> with information 
+              required for interpretation and clarification of the 
+              construction documents;
+
+       (b)    assist in the evaluation and approval of equivalent 
+              alternative materials, methods and systems;
+
+       (c)    assist with the preparation of addenda;
+
+       (d)    attend job or site showings as required.
+
+<strong>Bid Evaluation and </strong><strong><em>Construction Contract</em></strong><strong> Award</strong>
+
+1.     Whereas the <em>Departmental Representative</em> shall be responsible for 
+       assembling and issuing tender documents and arranging for the 
+       receipt of tenders and awarding of the <em>Construction Contract</em>, the <em>
+       Consultant</em> shall, on request:
+
+       (a)    review and evaluate the bids received for the construction of 
+              the Project, and advise on their relative merits;
+
+       (b)    provide information to support price negotiations.
+
+</pre>
+</div>

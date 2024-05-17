@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsqu'un entrepreneur proposé a 
+entrepris les travaux, à ses propres risques, sans l'autorisation d'un 
+représentant du gouvernement, avant l'approbation du contrat, mais ne les a pas 
+terminés.  Le contrat précisera le montant qui sera payé pour  les travaux 
+exécutés avant l'attribution du contrat et inclura une base de paiement pour la 
+période allant de la date du contrat à la fin du contrat. 
+
+Les agents de négociation des contrats doivent inclure la base de paiement qui 
+s'applique dans le contrat,  par ex., inclure la clause C0206C pour un contrat 
+avec une limitation des dépenses ou C1200C pour un contrat avec un prix plafond.
+
+Utiliser cette clause en conjonction avec A9094C et C6000C.  La clause C6000C 
+s'applique seulement à la partie des travaux qui est à prix ferme.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En considération des travaux exécutés pour la période commençant le _____ (<span class="wsInlineRemark"><strong>
+insérer la date du début des travaux</strong></span>) et se terminant le _____ (<span class="wsInlineRemark"><strong>insérer la 
+date du dernier jour avant l'entrée en vigueur du contrat</strong></span>), l'entrepreneur 
+sera payé un prix ferme de _____ $.  Les droits de douane ______ (<span class="wsInlineRemark"><strong>insérer</strong></span><em> </em>«
+ sont inclus », « sont exclus »<strong><em> </em></strong><span class="wsInlineRemark"><strong>ou</strong></span><strong><em> </em></strong>« font l'objet d'une exemption ») et la 
+taxe sur les produits et services ou la taxe de vente harmonisée est en sus, 
+s'il y a lieu.
+
+
+</pre>
+</div>

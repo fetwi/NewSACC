@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive fixed time rate contracts for service 
+and material.  Fixed time rates may also include a pro-rata allowance for 
+incidental materials.  Identify the position or office of the designated 
+government representative who will verify time charged. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Time charged and the Contract Price of incidental materials used (if any), 
+   will be verified by _____ before or after payment is made to the 
+   Contractor under the terms and conditions of this Contract.
+</pre>
+</div>

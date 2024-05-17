@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les prix sont donnés en dollars canadiens et sont considérés comme des prix 
+nets à moins qu'un escompte de caisse ne soit offert.
+
+Les prix offerts ne comprennent pas la taxe de vente provinciale. Cependant, 
+   si une "Commande subséquente à une offre permanente" n'indique pas de 
+   numéro de permis d'exemption de cette taxe, celle-ci est portée sur la 
+   facture à titre d'élément distinct et est payable. 
+</pre>
+</div>

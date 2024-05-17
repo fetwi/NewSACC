@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous rappelons au Transporteur qu'il peut aussi soumettre son offre par 
+   télex (no. du mas: 053-3703) ou par facsimilé (no. 819-997-9776 ou 
+   819-994-0080). Il doit l'adresser à l'Administration des 
+   approvisionnements, Ministère des approvisionnements et services, aux 
+   soins de "Réception des Offres" et doit y faire apparaître le numéro de 
+   dossier et la date de clôture. L'offre en bonne et due forme doit suivre 
+   immédiatement en tant que confirmation officielle.  
+</pre>
+</div>

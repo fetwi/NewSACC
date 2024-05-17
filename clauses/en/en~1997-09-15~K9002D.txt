@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all bid solicitations/contractual documents 
+involving Canadian Arsenals Limited. (Refer to the Supply Manual, procedures 
+7.055 and 7.056.)
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Corporation acknowledges that it has received, read and 
+       understood the Canadian ownership requirements contained in the <em>
+       Canadian Arsenals Limited Divestiture Authorization Act</em>.
+
+2.     The Corporation certifies that it is in full compliance with the 
+       requirements of the Act and the terms of the Purchase and Sale 
+       Agreement between the Minister of Public Works and Government 
+       Services and S.N.C. Defence Products Incorporated.
+
+3.     In the event that it is determined that this certification made by 
+       the Corporation is untrue, whether made knowingly or unknowingly, 
+       the Contract may be determined to be in default and the Minister 
+       shall be entitled, pursuant to the provisions of the Contract, to 
+       terminate for default.
+
+4.     The Minister shall have access, at all reasonable times, to the 
+       Corporation's records, or to those of its transfer agent, relating 
+       to the issue, transfer and ownership of its securities to which are 
+       attached votes that may ordinarily be cast to elect directors of the 
+       Corporation or amalgamated corporation. For this purpose, the term "
+       amalgamated corporation" means a corporation that is formed by the 
+       amalgamation of the Corporation with another corporation, including 
+       a body corporate, association, partnership or other organization.
+
+</pre>
+</div>

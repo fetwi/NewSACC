@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when ISO 10012-1 is the requirement. This clause shall be used 
+in conjunction with ISO 9001 (QAC X), ISO 9002 (QAC Y) and/or AQAP 150 (QAC F) 
+as appropriate.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor's measurement and calibration system shall be in accordance 
+with the requirements of:
+
+       ISO 10012-1, <em>Quality Assurance Requirements for Measuring Equipment</em> 
+       -- Part 1: Metrological confirmation system for measuring equipment, 
+       published by the International Organization for Standardization, 
+       current edition at date of submission of Contractor's bid.
+
+</pre>
+</div>

@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'équipe d'évaluation se réserve le droit de faire passer une entrevue, aux 
+   frais du soumissionnaire uniquement, aux employés proposés pour répondre 
+   au besoin, à un endroit déterminé par le Canada, à 48 heures d'avis, 
+   ainsi que de communiquer avec les personnes dont le nom a été fourni aux 
+   fins de références et de demander des données à l'appui ou des données 
+   additionnelles. Le soumissionnaire garantit que les données à l'appui 
+   seront disponibles sur demande, dans un délai acceptable pour l'équipe 
+   d'évaluation.
+</pre>
+</div>

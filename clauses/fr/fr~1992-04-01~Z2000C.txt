@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats si le contrat américain le 
+stipule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'Entrepreneur est tenu d'indemniser la <abbr title="Corporation commerciale canadienne ">CCC</abbr> et le Gouvernement
+américain et leurs agents et employés contre toute
+responsabilité, y compris les dépens, pour toute
+infraction à un brevet d'invention américain (sauf les
+brevets émis sur demande secrète ou de toute autre
+façon non diffusée par ordre du Gouvernement
+américain, maintenant, ou ultérieurement) ou à un
+brevet canadien concernant la fabrication ou la livraison de
+marchandises commandées en vertu de présent Contrat, ou
+encore l'utilisation ou la disposition pour le compte du
+Gouvernement américain de ces marchandises. L'indemnité
+en question ne sera payable que si l'Entrepreneur a été
+averti dès que possible par la <abbr title="Corporation commerciale canadienne ">CCC</abbr> ou par le Gouvernement
+américain de poursuites ou actions éventuelles
+alléguant une telle infraction, et qu'il ait eu ainsi la
+possibilité de participer à la défense en vertu des
+lois, règles et règlements applicables. En outre,
+l'indemnité en question ne sera pas payable si :</p>
+<ol type="i">
+<li value="1">l'infraction résulte du fait que l'Entrepreneur
+a respecté des instructions écrites particulières de
+la <abbr title="Corporation commerciale canadienne ">CCC</abbr> relativement à des changements dans les marchandises
+à livrer ou les matériels ou équipements à
+utiliser ou à une manière d'exécuter le Contrat qui
+ne correspond pas aux procédés habituels de
+l'Entrepreneur;</li>
+<li value="2">l'infraction résulte d'une addition ou d'un changement
+aux marchandises ou à la fabrication commandées, lesquels
+changements ou additions ont été demandés après
+livraison ou exécution de la commande par l'Entrepreneur;
+ou</li>
+<li value="3">l'infraction alléguée se règle sans le
+consentement de l'Entrepreneur, sauf sur décision
+définitive de la part d'une cour compétente.</li>
+</ol>
+</div></pre>
+</div>

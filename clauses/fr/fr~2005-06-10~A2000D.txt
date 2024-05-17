@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les documents de soumission ainsi que dans les 
+contrats de biens et de services conclus avec un entrepreneur canadien lorsque 
+les termes de ceux-ci pourraient entraîner que des services soient rendus, au 
+Canada, par des résidents non permanents.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Il incombe à l'entrepreneur de s'assurer que les exigences en matière 
+d'immigration relatives aux résidents non permanents qui doivent séjourner 
+au Canada pour exécuter le contrat sont respectées.  Dans certains cas, le 
+permis de travail requis pour entrer au Canada ne peut être délivré sans 
+l'approbation préalable du ministère des Ressources humaines et du 
+Développement des compétences (RHDC).  Il faut toujours communiquer avec le 
+ministère des RHDC dès que l'on a décidé de faire venir un résident non 
+permanent.  L'entrepreneur sera responsable de tous les frais occasionnés 
+par suite de la non-conformité aux exigences en matière d'immigration.
+
+
+</pre>
+</div>

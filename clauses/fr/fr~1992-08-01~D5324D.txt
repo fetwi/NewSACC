@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les services fournis doivent être approuvés et acceptés par 
+l'Affréteur ou son représentant autorisé qui aura le droit d'inspecter 
+l'aéronef, l'équipement connexe, les documents ayant trait à la 
+navigabilité de l'aéronef ainsi que la documentation opérationnelle y 
+compris le plan de vol ou la notification de vol, les bordereaux de 
+chargement et les carnets de vol, (concernant aéronef et équipages), afin 
+d'assurer la conformité avec les conditions du contrat.
+
+</pre>
+</div>

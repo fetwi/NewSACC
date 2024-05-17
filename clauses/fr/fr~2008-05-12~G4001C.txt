@@ -1,0 +1,127 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour l'affrètement d'un aéronef.
+
+Lorsqu'il est difficile de distinguer les responsabilités respectives du Canada 
+et de l'entrepreneur en vertu du contrat, les agents de négociation des contrats 
+doivent remplacer le paragraphe 3.a) par l'option suivante:
+
+« Assuré additionnel désigné : Le Canada est désigné comme assuré additionnel 
+désigné, mais seulement en ce qui concerne les responsabilités qui peuvent 
+découler de l'exécution du contrat.»
+
+Les agents de négociation des contrats doivent choisir l'option e) du paragraphe 
+3 lorsqu'elle s'applique à leur contrat.
+
+Pour toute aide additionnelle, communiquer avec les Services consultatifs de 
+gestion des risques de TPSGC, à : NCR.RMIAS-SCGRA@tpsgc.gc.ca.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Il est interdit à l'entrepreneur de fournir au Canada un service 
+       intérieur ou international d'affrètement d'un aéronef à moins de 
+       posséder les assurances suivantes pour chaque sinistre lié à 
+       l'exploitation de ce service :
+
+       a)     une assurance responsabilité couvrant les risques de blessure 
+              ou de décès de passagers pour un montant au moins égal au 
+              montant de 300 000 $ multiplié par le nombre de sièges 
+              passagers à bord de l'aéronef affecté au service, ou 
+              conformément aux règlements pertinents, selon le plus élevé;
+
+       b)     en plus des limites précitées au point (a) ci-dessus, une 
+              assurance de responsabilité civile d'un montant au moins égal 
+              à :
+
+              (i)    1 000 000 $, si la masse maximale admissible au 
+                     décollage de l'aéronef est inférieure à 3 402 kg (7 
+                     500 livres);
+
+              (ii)   2 000 000 $, si la masse maximale admissible au 
+                     décollage de l'aéronef est supérieure à 3 402 kg (7 
+                     500 livres), mais inférieure à 8 165 kg (18 000 livres); 
+                     et,    
+
+              (iii)  2 000 000 $ plus un montant déterminé en multipliant 
+                     68 $ par le nombre de kilogrammes au-dessus de la 
+                     limite supérieure permise de 8 165 kg (18 000 livres), 
+                     lorsque la masse maximale admissible au décollage de 
+                     l'aéronef est supérieure à 8 165 kg (18 000 livres).
+
+2.     Les passagers employés de l'entrepreneur n'ont pas à être couverts 
+       par l'assurance prescrite au paragraphe 1.a) si les demandes en 
+       dommages-intérêts de ces passagers contre l'entrepreneur sont régies 
+       par une loi sur l'indemnisation des accidents du travail.
+
+3.     La police d'assurance de l'entrepreneur doit comprendre les éléments 
+       suivants :
+
+       a)     Assuré additionnel : Le Canada est désigné comme assuré 
+              additionnel, mais seulement en ce qui concerne les 
+              responsabilités qui peuvent découler de l'exécution du 
+              contrat par l'entrepreneur. L'intérêt du Canada en tant 
+              qu'assuré additionnel devrait se lire comme suit : Le Canada, 
+              représenté par Travaux publics et Services gouvernementaux 
+              Canada.
+
+       b)     Avis d'annulation : L'assureur s'efforcera de donner à 
+              l'autorité contractante un avis écrit de trente (30) jours en 
+              cas d'annulation de la police.
+
+       c)     Responsabilité réciproque/Séparation des assurés : Sans 
+              augmenter la limite de responsabilité, la police doit couvrir 
+              toutes les parties assurées dans la pleine mesure de la 
+              couverture prévue. De plus, la police doit s'appliquer à 
+              chaque assuré de la même manière et dans la même mesure que 
+              si une police distincte avait été émise à chacun d'eux.
+
+       d)     Responsabilité contractuelle générale : La police doit, sur 
+              une base générale ou par renvoi explicite au contrat, couvrir 
+              les obligations assumées en ce qui concerne la responsabilité 
+              contractuelle.
+
+       (<span class="wsInlineRemark"><strong>Les agents de négociation des contrats doivent insérer l'option 
+       suivante, si elle s'applique</strong></span>.)
+
+       e)     Droits de poursuite : Droits de poursuite : Conformément é 
+              l'alinéa 5 d) de la <em>Loi sur le ministère de la Justice</em>, L.R.C. 
+              1993, ch. J-2, art. 1, si une poursuite est intentée par ou 
+              contre le Canada et que, indépendamment de la présente clause, 
+              l'assureur a le droit d'intervenir en poursuite ou en défense 
+              au nom du Canada à titre d'assuré additionnel désigné en 
+              vertu de la police d'assurance, l'assureur doit communiquer 
+              promptement avec le Procureur général du Canada, par lettre 
+              recommandée ou par service de messagerie, avec accusé de 
+              réception, pour s'entendre sur les stratégies juridiques.
+
+              Pour la province de Québec, envoyer à l'adresse suivante :
+              Directeur
+              Direction du droit des affaires
+              Bureau régional du Québec (Ottawa)
+              Ministère de la Justice
+              284, rue Wellington, pièce SAT-6042
+              Ottawa (Ontario) K1A 0H8
+
+              Pour les autres provinces et territoires, envoyer à l'adresse 
+              suivante :
+              Avocat général principal
+              Section du contentieux des affaires civiles
+              Ministère de la Justice
+              234, rue Wellington, Tour de l'Est
+              Ottawa (Ontario) K1A 0H8
+
+       Une copie de cette lettre doit être envoyée à l'autorité 
+       contractante à titre d'information. Le Canada se réserve le droit 
+       d'intervenir en codéfense dans toute poursuite intentée contre le 
+       Canada. Le Canada assumera tous les frais liés à cette codéfense. Si 
+       le Canada décide de participer à sa défense en cas de poursuite 
+       intentée contre lui et qu'il n'est pas d'accord avec un règlement 
+       proposé et accepté par l'assureur de l'entrepreneur et les 
+       plaignants qui aurait pour effet de donner lieu à un règlement ou au 
+       rejet de l'action intentée contre le Canada, ce dernier sera 
+       responsable envers l'assureur de l'entrepreneur pour toute 
+       différence entre le montant du règlement proposé et la somme adjugée 
+       ou payée en fin de compte (coûts et intérêts compris ou en sus) au 
+       nom du Canada.
+
+
+</pre>
+</div>

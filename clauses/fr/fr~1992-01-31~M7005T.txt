@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Fournisseur doit fournir les formulaires de déclaration conformément à 
+   l'annexe "___"; cette dernière est annexée à l'offre permanente et en 
+   fait partie intégrante. Les modèles de formulaires incorporés à la DOP 
+   font partie intégrante de la présente offre permanente.  
+</pre>
+</div>

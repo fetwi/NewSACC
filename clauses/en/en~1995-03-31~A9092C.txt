@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause should be used when a proposed contractor has started work with the 
+authorization of a government official, prior to contract authorization, and the 
+work has not been completed. This will ensure that the work done prior to the 
+contract date will be covered by the contract.  If the work has been completed, 
+the contracting authority must request that a confirming order be prepared by 
+legal counsel. 
+
+The second paragraph is to be deleted if the client department does not wish to 
+retain the rights to the intellectual property.  In addition, add clause C0210C 
+to the Basis of Payment.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Canada and the Contractor acknowledge that, as of _____ (start date), the 
+Contractor, with the agreement of _____ (client department) and without a 
+written agreement, started the Work required pursuant to this Contract.  
+Canada hereby confirms its obligation to pay the Contractor the sum of $_____ 
+in consideration of the services provided from _____ (start date) up to _____ 
+(effective date of this Contract).  The Contractor agrees that upon such 
+payment by Canada to the Contractor, Canada shall be released and forever 
+discharged from all manner of actions, claims, suits, or demands which may 
+arise as a result of providing the above-mentioned services.  The 
+Contractor further confirms that it has agreed to complete all Work 
+required under the terms and conditions of this Contract.
+
+The parties hereby confirm that copyright in the Work shall vest and remain 
+   in Canada and that ownership of any intellectual property, including 
+   technical documentation, prototypes, inventions and technical 
+   information, produced by the Contractor in the performance of the 
+   Precontractual Work shall vest and remain in Canada.
+</pre>
+</div>

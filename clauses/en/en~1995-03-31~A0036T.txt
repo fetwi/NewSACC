@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when the evaluation will be done using mandatory minimum 
+requirements and point rating and where the selection will be on the basis of 
+the highest rated technical proposal.  This clause must be used in conjunction 
+with A0200T or similar clause.  In the first blank, procurement officers are to 
+insert the percentage minimum number of points and in the second blank the total 
+point rating scale.  Consideration should be given to using this clause in 
+conjunction with A0210T Maximum Funding, or some other clause which indicates to 
+prospective bidders the level of effort required.  An alternate clause to this 
+could be A0275T. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     To be considered responsive, a bid must:
+
+       (a)    meet all the mandatory requirements of this solicitation; and
+
+       (b)    obtain the required minimum of _____ percent of the points 
+              for the criteria which are subject to point rating. The 
+              rating is performed on a scale of _____ points.
+
+2.     Bids not meeting (a) or (b) above will be given no further 
+   consideration. The responsive bid that scores the highest number of 
+   rated points will be recommended for award of a contract or issuance of 
+   a standing offer, as the case may be, provided that the estimated total 
+   price does not exceed the funds available for this requirement.
+</pre>
+</div>

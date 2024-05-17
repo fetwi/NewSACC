@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>While delivery is requested by __________, the best delivery that could be 
+offered is ________.
+
+<strong>NOTE</strong>:  Date of delivery will be of the essence of any resulting contract.  
+              Refer to Section 11 of general conditions 9601.
+
+
+</pre>
+</div>

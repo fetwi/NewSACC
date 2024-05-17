@@ -1,0 +1,39 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>La clause suivante apparaîtra automatiquement au début de l'ensemble de clauses 
+figurant dans chacun des documents d'achat.  Insérez l'information appropriée 
+(numéro de l'instruction ou de la condition générale ou supplémentaire, son 
+titre (facultatif) et sa date d'entrée en viqueur) à l'endroit indiqué et 
+supprimez ensuite la ligne "**SUPPRIMEZ CETTE LIGNE...**".
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>**SUPPRIMEZ CETTE LIGNE UNE FOIS TOUTES LES RÉVISIONS (**) TERMINÉES**
+
+Les instructions et conditions uniformisées DSS-MAS (**INDIQUEZ LEUR NUMÉRO 
+ET LEUR DATE D'ENTRÉE EN VIGUEUR**) définies dans la Section 1 du guide 
+intitulé "Clauses et conditions uniformisées d'achat" (CCUA), paru le 1er 
+juin 1991, sont incorporées par la présente sous forme de renvois et elles 
+font partie intégrante de ce/cette (**PRÉCISEZ LE GENRE DE DOCUMENT**).  Le 
+fait de présenter une soumission signifie que le(l') (**SOUMISSIONNAIRE/
+ENTREPRENEUR**) a lu ces instructions et accepte de s'y conformer.
+
+CONDITIONS GÉNÉRALES
+
+Les conditions générales DSS-MAS (**PRÉCISEZ LEUR NUMÉRO ET LEUR DATE 
+D'ENTRÉE EM VIGUEUR) définies dans le guide des CCUA sont incorporées par 
+la présente sous forme de renvois, conformément à la Loi sur le ministère 
+des Approvisionnement et Services et à l'arrêté ministériel en date du 22 
+mai 1991 figurant dans le guide des CCUA.
+
+Ces conditions générales font partie intégrante de ce/cette (**PRÉCISEZ LE 
+GENRE DE DOCUMENT**) comme si elles y étaient définies au complet et elles 
+sont assujetties à toute autre condition expresse énoncée dans la présente.
+
+Pour obtenir un exemplaire du guide des Clauses et conditions uniformisées 
+d'achat, il suffit de communiquer avec le Groupe Communication Canada 
+(Édition), au numéro de téléphone suivant : (XXX) XXX-XXXX.
+
+Les renvois aux clauses et conditions sont aussi affichés au Tableau des 
+   projets de marchés.
+</pre>
+</div>

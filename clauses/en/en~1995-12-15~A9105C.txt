@@ -1,0 +1,45 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where clauses A9103T or A9104T and clause 
+A9106T were used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     It is a term of this contract:
+
+       (a)    that the Contractor has declared to the Contracting Authority 
+              whether the Contractor has received a lump sum payment made 
+              pursuant to any work force reduction program, including but 
+              not limited to the Work Force Adjustment Directive, the Early 
+              Departure Incentive Program, the Early Retirement Incentive 
+              Program or the Executive Employment Transition  Program, 
+              which has been implemented to reduce the public service;
+
+       (b)    that the Contractor has informed the Contracting Authority of 
+              the terms and conditions of that work force reduction program, 
+              pursuant to which the Contractor was made a lump sum payment, 
+              including the termination date, the amount of the lump sum 
+              payment and the rate of pay on which the lump sum payment was 
+              based; and
+
+       (c)    that the Contractor has informed the Contracting Authority of 
+              any exemption in respect of the abatement of a contract fee 
+              received by the Contractor under the Early Departure 
+              Incentive Program Order or paragraph 4 of Policy Notice 1995-
+              8, of July 28, 1995.
+
+2.     The Contractor represents and warrants that the information 
+       submitted with its bid is accurate and complete. The Contractor 
+       acknowledges that the Minister has relied upon such representation 
+       to enter into this Contract. Such representation may be verified in 
+       such manner as the Minister may reasonably require.
+
+3.     The Contractor acknowledges that in the event of a breach of such 
+       covenant, the Minister shall have the right to rescind the Contract.
+
+4.     Nothing in this clause shall be interpreted as limiting the rights 
+       and remedies which Canada or the Minister may otherwise have in 
+       relation to or pursuant to this Contract.
+
+
+</pre>
+</div>

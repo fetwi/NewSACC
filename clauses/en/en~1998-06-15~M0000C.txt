@@ -1,0 +1,47 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used in all standing offers in conjunction with 
+clause K0000D "Conditions."
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>REVISION OF DEPARTMENTAL NAME</strong>
+
+Reference to the Minister of Supply and Services or to the Department of 
+Supply and Services contained in any term, condition or clause of this 
+standing offer shall be interpreted as a reference to the Minister of 
+Public Works and Government Services or to the Department of Public Works 
+and Government Services, as the case may be.
+
+<strong>STANDARD ACQUISITION CLAUSES AND CONDITIONS MANUAL</strong>
+
+All instructions, general terms, conditions and clauses identified herein 
+by title, number and date are set out in the <em>Standard Acquisition Clauses 
+and Conditions</em> (SACC) Manual, issued by the Department of Public Works and 
+Government Services (DPWGS), bearing Catalogue No. P60-4/1-1991E and 
+revised as of 15 June 1998.
+
+The SACC Manual may be obtained from the Government of Canada, Canadian 
+Government Publishing, telephone (819) 956-4800, and may also be viewed on 
+the Government Electronic Tendering Service (GETS), provided by MERX, 
+telephone: 1-800-964-6379, Internet Address: http://www.merx.cebra.com.
+
+<strong>TERMS AND CONDITIONS - STANDING OFFER</strong>
+
+1.     Pursuant to the <em>Department of Public Works and Government Services 
+       Act</em>, S.C. 1996, c.16,
+
+       (a)    the general terms, conditions and clauses identified herein 
+              by title, number and date, and
+
+       (b)    the Particulars of the Standing Offer set out in Part B and, 
+              for the purchase of goods, the Conditions set out in Part C 
+              of Standard Instructions and Conditions - Standing Offers, 
+              DSS-MAS 9403-6 (_____)<strong><em> {Insert Date and Delete this 
+              Instruction}</em></strong>, are hereby incorporated by reference into this 
+              Standing Offer and form part of any contract resulting from 
+              any call-up made pursuant to this Standing Offer as though 
+              expressly set out herein, subject to any other express terms 
+              and conditions herein contained.
+
+</pre>
+</div>

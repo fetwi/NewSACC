@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is requested that the Bidder's proposal use a numbering system 
+   corresponding to that of the Request For Proposal (RFP) and Statement of 
+   Work.  All references to descriptive material, technical manuals and 
+   brochures must be included in the Bidder's proposal.
+</pre>
+</div>

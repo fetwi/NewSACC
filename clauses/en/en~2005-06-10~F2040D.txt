@@ -1,0 +1,117 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts and/or subcontracts containing security 
+requirements to be forwarded to foreign Contractor/Offeror.
+
+Use this clause in consultation with the Canadian and International Industrial 
+Security Directorate.
+
+Completion of the Security Requirement Check List, form TBS/SCT 350-103, is 
+mandatory and is available on line at: 
+http://www.ciisd.gc.ca/text/forms/form-e.asp.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The FOREIGN Contractor/Offeror shall, at all times during the 
+       performance of the Contract/Standing Offer, hold a valid Facility 
+       Security Clearance, issued by the National Security Authority/
+       Designated Security Authority (NSA/DSA), for Industrial Security of ______ 
+       (<strong class="wsStyleUnderline">insert name of country</strong>), at the level of _____________. 
+
+2.     All CLASSIFIED/PROTECTED information/assets, furnished to the 
+       Contractor/Offeror or produced by the Contractor/Offeror, shall be 
+       safeguarded as follows:
+
+       (a)    the recipient Contractor/Offeror shall not disclose the 
+              CLASSIFIED /PROTECTED information to a third party government, 
+              person or firm, or representative thereof, without the prior 
+              written consent of the Canadian DSA.  Such consent shall be 
+              sought from the recipient's NSA/DSA.  The DSA for industrial 
+              matters in Canada is the Director, Canadian and International 
+              Industrial Security Directorate (CIISD), Public Works and 
+              Government Services Canada (PWGSC). 
+
+       (b)    the recipient Contractor/Offeror shall provide the CLASSIFIED
+              /PROTECTED information a degree of safeguarding as stated in 
+              the appropriate Bilateral Industrial Security Memorandum of 
+              Understanding (MOU), or in its absence, in accordance with 
+              NATO CM (2002).
+
+       (c)    the recipient Contractor/Offeror shall not use the CLASSIFIED
+              /PROTECTED information/assets for any purpose other than for 
+              the performance of the Contract/Standing Offer without the 
+              prior written approval of the Government of Canada.  This 
+              approval must be obtained by contacting the Canadian DSA for 
+              industrial matters in Canada; and
+
+       d)     such information/assets shall be released only to personnel, 
+              who have a need-to-know for the performance of the Contract/
+              Standing Offer and who have a security clearance at a level 
+              appropriate to the classification of the information/assets, 
+              granted by their respective NSA/DSA.
+
+       e)     CLASSIFIED/PROTECTED information/assets provided or generated 
+              pursuant to this Contract/Standing Offer shall be transferred 
+              only through government-to-government channels (in Canada, 
+              this is CIISD/PWGSC).
+
+3.     CLASSIFIED/PROTECTED information/assets generated pursuant to this 
+       Contract/Standing Offer, by the Government of Canada, shall be 
+       marked by the recipient Contractor/Offeror with its government s 
+       equivalent security classification. 
+
+4.     All CLASSIFIED/PROTECTED information/assets generated pursuant to 
+       this Contract/Standing Offer shall be assigned a security 
+       classification in accordance with the security classification 
+       specifications provided on the Security Requirements Check List 
+       (SRCL) attached at Annex _____.
+
+5.     The Contractor/Offeror shall immediately report to its respective 
+       NSA/DSA all cases in which it is known or there is reason to suspect 
+       that CLASSIFIED/PROTECTED information/assets furnished to or 
+       generated for pursuant this Contract/Standing Offer have been lost 
+       or disclosed to unauthorized persons.
+
+6.     Upon completion of the Work, the Contractor/Offeror shall return to 
+       the Government of Canada, via government-to-government channels, all 
+       CLASSIFIED/PROTECTED information/assets furnished to or produced by 
+       the Contractor/Offeror pursuant to this Contract/Standing Offer, 
+       including all CLASSIFIED/PROTECTED information/assets released to or 
+       produced by its subcontractors, unless stated otherwise in the 
+       contract.
+
+7.     CLASSIFIED/PROTECTED information/assets provided or generated 
+       pursuant to this Contract/Standing Offer shall not be further 
+       provided to another potential contractor/offeror or subcontractor 
+       unless:
+
+       (a)    written assurance is obtained from the recipient s NSA/DSA to 
+              the effect that the potential contractor/offeror or 
+              subcontractor has been approved for access to CLASSIFIED/
+              PROTECTED information by the NSA/DSA; and
+
+       (b)    written consent is obtained from the Contracting Authority 
+              (CIISD/PWGSC) for the prime contract, if the potential 
+              subcontractor is located in a third country.
+
+8.     All CLASSIFIED/PROTECTED information/assets provided or generated 
+       under this Contract/Standing Offer will continue to be safeguarded 
+       in the event of withdrawal by the recipient party or upon 
+       termination of the Contract/Standing Offer, in accordance with 
+       national regulations.
+
+9.     The Contractor/Offeror shall contact their Industrial Security 
+       Authority in order to comply with the provisions of the Bilateral 
+       Industrial Security MOU signed with Canada in relation to 
+       equivalencies for CLASSIFIED/PROTECTED information and/or assets.
+
+10.    The recipient Contractor/Offeror shall also insert the above 
+       paragraphs in all subcontracts that involve access to CLASSIFIED/
+       PROTECTED information/assets provided or generated under this 
+       Contract/Standing Offer.
+
+<strong>NOTE</strong>:  When the safeguarding of PROTECTED information/assets is not 
+              identified, please consult with CIISD/PWGSC.
+
+
+</pre>
+</div>

@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque l'entrepreneur est 
+autorisé à facturer ses coûts réels conformément aux Principes des coûts 
+contractuels, DSS-MAS 1031-2, sous réserve d'une vérification obligatoire.  
+Cependant, n'utilisez pas cette clause dans les situations où le prix doit être 
+négocié.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Sous réserve des dispositions du présent contrat, l'entrepreneur se verra 
+   rembourser le coût raisonnablement et correctement engagé dans 
+   l'exécution des travaux, tel que déterminé par le Canada à la suite 
+   d'une vérification et conformément aux Principes des coûts contractuels, 
+   DSS-MAS 1031-2, plus un profit fixé à _____ p. 100 du coût déterminé 
+   selon la vérification.  Les résultats et les constatations découlant de 
+   la vérification du Canada seront déterminants.
+</pre>
+</div>

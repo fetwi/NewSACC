@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante après avoir consulté la Direction de la sécurité 
+industrielle canadienne et internationale.
+
+Il est obligatoire de remplir le formulaire TBS/SCT 350-103, Liste de 
+vérification des exigences relatives à la sécurité, qui est disponible en ligne 
+à : http://www.ciisd.gc.ca/text/forms/form-f.asp.
+
+Utiliser la clause suivante dans les marchés dans lesquels l'entrepreneur ou 
+l'offrant étranger N'A PAS PROTÉGÉ OU TRAITÉ de renseignements ou de biens 
+classifiés dans ses propres installations. 
+
+Remarque : 	** La clause doit préciser la nature du marché, à savoir s'il s'agit 
+d'un contrat ou d'une offre à commandes.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>Exigence relative à la sécurité :  **DOSSIER TPSGC no _________</strong>
+
+1.     L'entrepreneur ou l'offrant ÉTRANGER doit détenir en permanence, 
+       pendant l'exécution du contrat ou offre à commandes, une cote de 
+       sécurité d'installation valable, délivrée par l'autorité nationale 
+       de la sécurité ou l'autorité désignée en matière de sécurité (ANS/
+       ADS), pour la sécurité industrielle de ________ <strong><em>(</em></strong><strong class="wsStyleUnderline">Inscrire le nom du 
+       pays</strong>), au niveau _______. 
+
+2.     Les membres du personnel de l'entrepreneur ou de l'offrant ÉTRANGER 
+       devant avoir accès à des renseignements ou à des biens CLASSIFIÉS, 
+       ou à des établissements dont l'accès est réglementé, doivent TOUS 
+       détenir une cote de sécurité du personnel valable, délivrée ou 
+       approuvée par l'ANS/ADS de __________ (<strong class="wsStyleUnderline">Inscrire le nom du pays</strong>), au 
+       niveau _______. 
+
+3.     L'entrepreneur ou l'offrant ÉTRANGER NE DOIT PAS emporter de 
+       renseignements CLASSIFIÉS hors des établissements désignés et dont 
+       l'accès est réglementé, et l'entrepreneur ou l'offrant ÉTRANGER doit 
+       s'assurer que son personnel est au courant de cette restriction et 
+       qu'il la respecte. 
+
+4.     L'entrepreneur ou l'offrant ÉTRANGER doit respecter les dispositions :
+
+       a)     des règlements sur la sécurité industrielle ou le manuel de 
+              sécurité industrielle de l'ANS/ADS de ________ (<strong class="wsStyleUnderline">Inscrire le 
+              nom du pays</strong>);
+
+       b)     de la Liste de vérification des exigences relatives à la 
+              sécurité, reproduite ci-joint à l'Annexe ____.
+
+5.     Les alinéas ci-dessus doivent être reproduits dans tous les contrats 
+       de sous-traitance prévoyant des droits d'accès à des renseignements 
+       ou à des biens CLASSIFIÉS.
+
+
+</pre>
+</div>

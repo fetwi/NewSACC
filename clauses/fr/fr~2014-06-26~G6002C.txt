@@ -1,0 +1,112 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats relatifs à la vente, à la 
+réparation et à l'entretien des véhicules.
+ </p>
+<p>
+  Lorsqu'il est difficile de distinguer les responsabilités respectives du Canada 
+et de l'entrepreneur en vertu du contrat, les agents de négociation des contrats 
+doivent remplacer le paragraphe 2 a) par l'option suivante:
+ </p>
+<p>
+  « Assuré additionnel désigné : Le Canada est désigné comme assuré additionnel 
+désigné, mais seulement en ce qui concerne les responsabilités qui peuvent 
+découler de l'exécution du contrat. »
+ </p>
+<p>
+  Les agents de négociation des contrats doivent choisir l'option e) du paragraphe 
+2 lorsqu'elle s'applique à leur contrat.
+ </p>
+<p>
+  Pour toute aide additionnelle, communiquer avec les Services consultatifs de 
+gestion des risques de
+  <abbr title="Travaux publics et Services gouvernementaux Canada">
+   TPSGC
+  </abbr>
+  , à :
+  
+   NCR.RMIAS-SCGRA@tpsgc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire et maintenir pendant
+toute la durée du contrat une police d'assurance
+responsabilité civile des garagistes d'un montant
+équivalant à celui habituellement fixé pour un
+contrat de cette nature; toutefois, la limite de
+responsabilité ne doit pas être inférieure à 
+2 000 000 $ par accident ou par incident et suivant le total
+annuel.</li>
+<li value="2">La police d'assurance responsabilité civile des
+garagistes doit comprendre les éléments suivants :
+<ol type="a">
+<li value="1">Assurance de responsabilité civile - limite
+minimale de 2 000 000 $ par accident ou par incident.</li>
+<li value="2">Responsabilité civile pour des dommages
+causés au véhicule du client lorsque l'assuré en a
+la charge, la garde ou le contrôle comprenant une couverture
+complète avec collisions et dommages (y compris le vol dans
+les terrains non clôturés).</li>
+<li value="3">Assuré additionnel : Le Canada est
+désigné comme assuré additionnel, mais seulement en
+ce qui concerne les responsabilités qui peuvent découler
+de l'exécution du contrat par l'entrepreneur.
+L'intérêt du Canada en tant qu'assuré additionnel
+devrait se lire comme suit : Le Canada, représenté par
+Travaux publics et Services gouvernementaux Canada.</li>
+<li value="4">Avis d'annulation : L'assureur s'efforcera de donner
+à l'autorité contractante un avis écrit de trente
+(30) jours en cas d'annulation de la police.
+<span class="description">(<strong><em>Les agents de négociation de contrats doivent
+insérer l'option, s'il y a lieu</em></strong>.)</span>
+</li>
+<li value="5">Droits de poursuite : Conformément à
+l'alinéa 5 d) de la <cite>Loi sur le ministère de la Justice</cite>, <abbr title="Lois révisées du Canada">L.R.C.</abbr> 1993, <abbr title="chapitre">ch.</abbr> J-2, art. 1, si une poursuite est
+intentée par ou contre le Canada et que, indépendamment
+de la présente clause, l'assureur a le droit d'intervenir en
+poursuite ou en défense au nom du Canada à titre
+d'assuré additionnel désigné en vertu de la police
+d'assurance, l'assureur doit communiquer promptement avec le
+Procureur général du Canada, par lettre recommandée
+ou par service de messagerie, avec accusé de réception,
+pour s'entendre sur les stratégies juridiques.
+
+<br/><strong>Pour la province de Québec, envoyer à l'adresse
+suivante :</strong>
+<br/><address>Directeur
+<br/>Direction du droit des affaires
+<br/>Bureau régional du Québec (Ottawa)
+<br/>Ministère de la Justice
+<br/>284, rue Wellington, pièce SAT-6042
+<br/>Ottawa (Ontario) K1A 0H8</address>
+<br/><strong>Pour les autres provinces et territoires, envoyer à
+l'adresse suivante :</strong>
+<br/><address>Avocat général principal
+<br/>Section du contentieux des affaires civiles
+<br/>Ministère de la Justice
+<br/>234, rue Wellington, Tour de l'Est
+<br/>Ottawa (Ontario) K1A 0H8</address>
+<br/>Une copie de cette lettre doit être envoyée à
+l'autorité contractante à titre d'information. Le Canada
+se réserve le droit d'intervenir en codéfense dans toute
+poursuite intentée contre le Canada. Le Canada assumera tous
+les frais liés à cette codéfense. Si le Canada
+décide de participer à sa défense en cas de
+poursuite intentée contre lui et qu'il n'est pas d'accord avec
+un règlement proposé et accepté par l'assureur de
+l'entrepreneur et les plaignants qui aurait pour effet de donner
+lieu à un règlement ou au rejet de l'action intentée
+contre le Canada, ce dernier sera responsable envers l'assureur de
+l'entrepreneur pour toute différence entre le montant du
+règlement proposé et la somme adjugée ou payée
+en fin de compte (coûts et intérêts compris) au nom du Canada.
+</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

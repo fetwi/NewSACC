@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Subject to the following provisions, a portion of the price may be 
+       increased or decreased, depending on the price variation of paper 
+       stock. This clause is only applicable to changes to the price of 
+       paper stock (upwards or downwards) that occur after thirty (30) days 
+       from the closing date of the solicitation.
+
+2.     In the event of paper transaction cost variation, the Contractor 
+       shall provide notice of increase or decrease in the price of paper 
+       used for this requirement. It is mandatory that for the notice to be 
+       considered it must be received within ten (10) days of the paper 
+       delivered to the printer, indicating the price fluctuation (upwards 
+       or downwards) of paper stock, as publicly announced and came into 
+       effect, by at least three (3) Canadian paper mills who manufacture 
+       the grade specified in this requirement and one of those announcing 
+       the increase or decrease is in fact the supplier to the contractor 
+       either directly or through a distributor.
+
+3.     If less than three (3) Canadian paper mills manufacture the 
+       specified grade, the majority of the mills making this grade must 
+       have announced a price change (upwards or downwards) that did come 
+       into effect for escalation to be implemented.
+
+4.     At the time of submitting its bid, the Contractor represents that 
+       the transaction costs of paper and estimated quantities of the paper 
+       proposed, to be used for this requirement are as follows:
+
+       a)     Cover Stock: (if applicable) _____ lbs. at a base transaction 
+              price per Cwt. of $ _____. Brandname and Manufacturing Mill: _____
+
+       b)     Text Stock: (if applicable) _____ lbs. at a base transaction 
+              price per Cwt. of $ _____. Brandname and Manufacturing Mill: _____ 
+
+       c)     Text Stock: (if applicable) _____ lbs. at a base transaction 
+              price per Cwt. of $ _____. Brandname and Manufacturing Mill: _____ 
+
+5.     If requested by the Contracting Authority, the above base 
+       transaction prices will be supported by submitting copies of 
+       quotations from the paper supplier(s).
+
+6.     Escalation will be implemented by using the percentage of the 
+       announced increase or decrease that came into effect by applying it 
+       to the transaction base price(s). Price changes will also be 
+       supported by before and after invoices.
+
+7.     Upon receipt of the above notice and of the evidence of the price 
+       changes announced by the paper mills, the Contracting Authority will 
+       then modify the price, by an amendment thereto, to reflect the 
+       percentage fluctuation of the paper costs to the Contractor's 
+       supported based transaction prices.
+
+8.     While not activating the above escalation clause, if, after award, 
+       an equivalent paper stock is used by the Contractor other than that 
+       specified in the solicitation document, the Contractor must advise 
+       the Contracting Authority in writing within fourteen (14) calendar 
+       days of this change. It is understood that equivalent means that the 
+       paper must meet the specifications in the solicitation document.
+
+</pre>
+</div>

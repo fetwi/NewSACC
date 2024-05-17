@@ -1,0 +1,73 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when the requirement may be subject to design change/deviation and the procedures are not included in the statement of work.
+ </p>
+<p>
+  Contracting officers must:
+ </p>
+<ol>
+<li>
+   complete the clause;
+  </li>
+<li>
+   ensure that the name of the technical or project authority is provided in the contract.  Use clause
+   
+    A1022C
+   
+   or
+   
+    A1030C
+   
+   , as applicable;
+  </li>
+<li>
+   use one of the options provided in the clause:
+   <ul>
+<li>
+     option 1 when
+     <cite>
+
+       Design Change/Deviation Form 9038
+      
+</cite>
+     available on Public Works and Government Services Canada Web site must be used;
+    </li>
+<li>
+     option 2 when
+     <abbr title="Department of National Defence">
+      DND
+     </abbr>
+     form 672 must be used;
+    </li>
+</ul>
+</li>
+<li>
+   consult
+   
+    8.70.25
+   
+   and
+   
+    8.70.25.1
+   
+   of the
+   <cite>
+
+     Supply Manual
+    
+</cite>
+   .
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must follow these procedures for any proposed design change/deviation to contract specifications.</p>
+<h2>Option 1</h2>
+<p>The Contractor must complete Part 1 of form PWGSC-TPSGC 9038 (PDF 241 KB) - (Help on File Formats), Design Change/Deviation, and forward <span class="input-required"><var>_______</var> <var>___</var><kbd>(<em>insert number</em>)</kbd></span> copies to the <span class="input-required"> <var>______</var> Authority <kbd>(<em>insert "Technical" or "Project", as applicable</em>)</kbd> </span>and one (1) copy to the Contracting Authority.</p>
+<h2>Option 2</h2>
+<p>The Contractor must complete Part 1 of the Design Change/Deviation form <abbr title="Department of National Defence">DND</abbr> 672 and forward <span class="input-required"><var>_______</var> <var>___</var><kbd>(<em>insert number</em>)</kbd></span> copies to the <span class="input-required"> <var>______</var> Authority <kbd>(<em>insert "Technical" or "Project", as applicable</em>)</kbd> </span> and one (1) copy to the
+Contracting Authority.</p>
+<p>The Contractor will be authorized to proceed upon receipt of the design change/deviation form signed by the Contracting Authority. A contract amendment will be issued to incorporate the design change/deviation in the Contract.</p>
+</div></pre>
+</div>

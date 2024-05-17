@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when samples are required. The term 
+"calendar days" may be replaced by "weeks" or "months", as appropriate; and "by  
+week" may be replaced by "by day" or "by  month", as appropriate.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The first delivery must be made within <var title="blank">_____</var> calendar
+days from the date on which the samples were inspected and
+accepted. The quantity delivered must be <var title="blank">_____</var> . The
+balance must be delivered at the rate of <var title="blank">_____</var> per week
+after the first delivery until completion.</p>
+</div></pre>
+</div>

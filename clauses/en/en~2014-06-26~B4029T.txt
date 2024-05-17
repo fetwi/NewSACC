@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in bid solicitations for marine requirements when docking, maintenance and alterations of a government vessel and approved unscheduled work are required.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   B4029C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The requirement is as follows:</p>
+<ol type="a">
+<li value="1">the docking, maintenance and alterations of the Department of <span class="input-required"><var>__________</var><kbd>(<em>insert the department's name</em>)</kbd></span> vessel <span class="input-required"><var>_________</var> <kbd>(<em>insert the name and vessel designator</em>)</kbd></span> in accordance with the Requirement at Annex <span class="input-required"><var>_____</var> <kbd>(<em>insert additional annexes that contain additional specifications, if applicable</em>)</kbd></span>.</li>
+<li value="2">any approved unscheduled work not covered in the above paragraph (a).</li>
+</ol>
+</div></pre>
+</div>

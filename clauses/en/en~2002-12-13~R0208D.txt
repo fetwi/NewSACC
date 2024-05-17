@@ -1,0 +1,277 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+RM 01  Interpretation
+RM 02  Application
+RM 03  Communications
+RM 04  Appointment of Project Mediator
+RM 05  Confidentiality
+RM 06  Time and Place of Mediation
+RM 07  Representation
+RM 08  Procedure
+RM 09  Settlement Agreement
+RM 10  Termination of Mediation
+RM 11  Costs
+RM 12  Subsequent Proceedings
+
+
+<strong>RM 01  (13/12/02)    Interpretation</strong>
+
+1.1    Terms defined in the Contract and used in these Rules shall have the 
+       meaning assigned to them in the Contract.
+
+1.2    "Dispute Resolution Coordinator" or "Coordinator" means the Director, 
+       Contract Claims Resolution Board, Public Works and Government 
+       Services Canada, Place du Portage Phase III, 7A1, 11 Laurier Street, 
+       Hull, Quebec K1A 0S5. 
+
+<strong>RM 02  (13/12/02)    Application</strong>
+
+2.1    These Rules apply to mediation conducted under the Contract.  By 
+       mutual agreement, the parties may change or make additions to the 
+       Rules. 
+
+<strong>RM 03  (13/12/02)    Communications</strong>
+
+3.1    Written communications pursuant to these Rules shall be given in the 
+       same manner as written notices are to be given pursuant to the 
+       Contract.
+
+<strong>RM 04  (13/12/02)    Appointment of Project Mediator</strong>
+
+4.1    The parties to the Contract may, by mutual consent, at any time 
+       after entry into the Contract, appoint a mediator (the "Project 
+       Mediator") to conduct mediation proceedings in accordance with these 
+       Rules for Mediation of Construction Disputes, in regard to any 
+       dispute which may arise with regard to the interpretation, 
+       application or administration of the Contract.  In this case, they 
+       shall jointly enter into a contract with the appointed Project 
+       Mediator, which contract shall be in a form drafted by the 
+       Coordinator and agreed to by the parties.
+
+4.2    If the parties do not appoint a Project Mediator pursuant to RM 4.1, 
+       the parties shall appoint a Project Mediator within seventeen (17) 
+       working days following receipt of a written notice from the 
+       Contractor, in accordance with DR 4.3 of Dispute Resolution 
+       Conditions "G", requesting that mediated negotiations be undertaken 
+       in accordance with these Rules to assist the parties to reach 
+       agreement on any outstanding issues which may be in dispute.  Any 
+       contract entered into with the appointed Project Mediator shall meet 
+       the requirements as set out for the contract described in RM 4.1 of 
+       these rules.
+ 
+4.3    When mediation is requested by the Contractor pursuant to the terms 
+       of the Contract, if the parties have previously entered into a 
+       contract with a Project Mediator, the parties shall within two (2) 
+       days send to both the Project Mediator and the Coordinator 
+
+       4.3.1  a copy of the written notice of dispute requesting formal 
+              negotiation under the terms of the Contract, 
+
+       4.3.2  a copy of the Engineer's written position in relation to the 
+              notice, the issues in contention and the relevant provisions 
+              of the contract, and
+
+       4.3.3  a copy of the Contractor's written request for mediation 
+              required under the terms of the Contract.
+
+4.4    If the parties have not agreed on a Project Mediator, the parties 
+       shall forthwith provide the Coordinator with the written materials 
+       referred to in 4.3.1, 4.3.2 and 4.3.3 of RM 4.3 together with a 
+       request that the Coordinator assist in the appointment of a mutually 
+       acceptable Project Mediator in accordance with these Rules.
+
+4.5    Within five (5) working days following receipt of the request and 
+       materials referred to in RM 4.4, the Coordinator shall provide the 
+       parties with a list of qualified private sector mediators obtained 
+       from an independent and impartial entity, together with instructions 
+       to each party to individually and confidentially select and rank 
+       their preferred and fully acceptable choices of mediator in 
+       descending order.  Each mediator listed shall be impartial and 
+       independent of the parties, and shall be an experienced and skilled 
+       commercial mediator, preferably with knowledge of the subject matter 
+       of the dispute.
+
+4.6    Within ten (10) working days of receipt of the list referred to in 
+       RM 4.5 each party shall comply with the instructions accompanying 
+       the list(s) and shall deliver the completed listing to the 
+       Coordinator. 
+
+4.7    Within two (2) working days following receipt of the completed 
+       listings, the Coordinator shall select the highest common ranked 
+       mediator to act as Project Mediator for the purposes of the contract.
+
+4.8    In the event of a tie, the Coordinator shall consult both parties to 
+       re-evaluate their rankings in order to assist the Coordinator in 
+       selecting a Project Mediator acceptable to both parties.  If the 
+       parties cannot agree upon a Project Mediator, the Coordinator shall 
+       forthwith provide the parties with a second list of mediators and 
+       the procedure shall be repeated. 
+
+4.9    If the parties have not previously entered into a contract with a 
+       mutually acceptable Project Mediator, the Coordinator shall use 
+       reasonable efforts to negotiate a contract with a mutually 
+       acceptable Project Mediator on behalf of the parties, which contract 
+       shall incorporate or otherwise comply with the provisions of these 
+       Rules.  If negotiations are unsuccessful, or if for other reason the 
+       individual is unwilling or unable to enter into  a contract to act 
+       as Project Mediator, the Coordinator shall repeat the process with 
+       the second-highest common ranked mediator. 
+
+4.10   The parties agree that, upon successful completion of the 
+       negotiations referred to in RM 4.9, they shall jointly enter into an 
+       agreement with the selected Project Mediator, which agreement shall 
+       be in a form drafted by the Coordinator and agreed to by the parties.
+
+4.11   Upon execution of the agreement with the Project Mediator referred 
+       to in RM 4.10, the Coordinator shall provide the Project Mediator 
+       with copies of the documents referred to in RM 4.3 above.
+ 
+<strong>RM 05  (13/12/02)    Confidentiality</strong>
+
+5.1    Subject to RM 5.2, and unless otherwise agreed in writing by the 
+       parties, the Project Mediator, the parties and their counsel or 
+       representatives shall keep confidential all matters and documents 
+       disclosed during mediation proceedings except where the disclosure 
+       is necessary for any implementation of any agreement reached or is 
+       required by law.
+
+5.2    Evidence that is independently admissible or discoverable in any 
+       arbitral or judicial proceeding shall not be rendered inadmissible 
+       or non-discoverable by virtue of its use in mediation proceedings.
+
+5.3    Neither party shall make transcripts, minutes or other records of a 
+       mediation conference.
+
+5.4    The personal notes and written opinions of the Project Mediator made 
+       in relation to mediation are in the Project Mediator's sole 
+       possession and control, are confidential, and may not be used in any 
+       subsequent proceeding between the parties or where they are opposed 
+       in interest without the express written permission of the parties.
+
+5.5    All information exchanged during mediation procedures, by whatever 
+       means, shall be without prejudice and shall be treated as 
+       confidential by the parties and their representatives, unless 
+       otherwise required by law.
+
+<strong>RM 06  (13/12/02)    Time and Place of Mediation</strong>
+
+6.1    The Project Mediator, in consultation with the parties shall set the 
+       date, time and place of any mediation conference as soon as possible, 
+       bearing in mind that, subject to agreement to the contrary between 
+       the parties, only ten (10) working days are available within which 
+       to attempt to settle the dispute.
+
+<strong>RM 7   (13/12/02)    Representation</strong>
+
+7.1    Representatives of the parties may be accompanied at the mediation 
+       conference by legal counsel or any other person.
+
+7.2    If the Project Mediator is a lawyer, the Project Mediator shall not 
+       provide legal advice to a party during the course of the mediation 
+       conference, but may recommend that a party obtain independent legal 
+       advice before finalizing a settlement agreement.
+
+<strong>RM 8   (13/12/02)    Procedure</strong>
+
+8.1    The parties agree to an exchange of all facts, information and 
+       documents upon which they intend to rely in any oral or written 
+       presentation during the mediation.  This exchange shall be completed 
+       no later than two (2) working days prior to the date set for a 
+       mediation conference. 
+
+8.2    The Project Mediator shall be free to meet with the parties 
+       individually during a mediation conference if the Project Mediator 
+       is of the opinion that this may improve the chances of a mediated 
+       settlement, and either party may request such an individual meeting 
+       at any time.
+
+8.3    The parties may agree to extend the ten (10) working days available 
+       for settlement of the dispute through mediation, and the Project 
+       Mediator shall record that agreement in writing. 
+
+<strong>RM 09  (13/12/02)    Settlement Agreement</strong>
+
+9.1    The parties shall record in writing any settlement agreement reached, 
+       with sufficient detail to ensure a clear understanding of 
+
+       9.1.1  the issues resolved
+
+       9.1.2  any obligations assumed by each party including criteria to 
+              determine if and when these obligations have been met, and
+       9.1.3  the consequences of failure to comply with the agreement 
+              reached.
+
+9.2    The parties agree to carry out the terms of a settlement agreement 
+       as soon as possible and, in any event, within any time periods 
+       specified in the agreement.
+
+<strong>RM 10  (13/12/02)    Termination of Mediation</strong>
+
+10.1   Either party may withdraw from mediation at any time without reason 
+       and, in that event, the Project Mediator shall give each party a 
+       written notice terminating the mediation and establishing the 
+       effective date of termination.
+
+10.2   If, in the opinion of the Project Mediator, either party fails to 
+       mediate in good faith or fails to comply with the terms of these 
+       Rules, or if the Project Mediator, at any time during mediation, is 
+       of the opinion that further negotiations will fail to resolve the 
+       issues outstanding, the Project Mediator may terminate the 
+       negotiations by providing the parties with a written notice of 
+       termination, stating therein the Project Mediator's reasons for the 
+       termination, and the effective date of termination.
+
+10.3   If a dispute has not been resolved within the 10-day period set out 
+       in DR 5.3 of Dispute Resolution Conditions "G" or such other longer 
+       period as may have been agreed to by the parties, the Project 
+       Mediator shall terminate the mediation by giving written notice to 
+       the parties stating the effective date of termination.
+
+<strong>RM 11  (13/12/02)    Costs</strong>
+
+11.1   The parties agree that they will each be responsible for the costs 
+       of their own representatives and advisors and associated travel and 
+       living expenses.  Fees and expenses of the Project Mediator and all 
+       administrative costs of mediation, such as the cost of the meeting 
+       room(s), if any, shall be borne equally by the parties.
+
+<strong>RM 12  (13/12/02)    Subsequent Proceedings</strong>
+
+12.1   The parties shall not rely on or introduce as evidence in any 
+       arbitral or judicial proceeding, whether or not such proceeding 
+       relates to the subject matter of mediation, 
+
+       12.1.1 any document of other parties which are not otherwise 
+              producible in those proceedings,
+
+       12.1.2 any views expressed or suggestions made by any party in 
+              respect of a possible settlement of issues,
+
+       12.1.3 any admission made by any party in the course of mediation 
+              unless otherwise stipulated by the admitting party,
+
+       12.1.4 the fact that any party has indicated a willingness to make 
+              or accept a proposal or recommendation for settlement.
+
+12.2   The Project Mediator shall neither represent nor testify on behalf 
+       of either of the parties in any subsequent investigation, action or 
+       proceeding relating to the issues in mediation proceedings.
+ 
+12.3   The Project Mediator shall not be subpoenaed to give evidence 
+       relating to
+
+       12.3.1 the Project Mediator's role in mediation, or 
+
+       12.3.2 the matters or issues in mediation
+
+       in any subsequent investigation, action or proceeding and the 
+       parties agree to vigorously oppose any effort to have the Mediator 
+       so subpoenaed. 
+
+
+</pre>
+</div>

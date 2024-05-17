@@ -1,0 +1,51 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque des modifications de conception ou des travaux supplémentaires peuvent être requis et que les 
+procédures ne sont pas comprises dans l'énoncé des travaux.  Cela peut comprendre des contrats pour la construction de navires ou le radoub, des 
+contrats de réparation, des contrats de construction générale, etc.
+ </p>
+<p>
+  Consulter les articles
+  
+   8.70.25
+  
+  et
+  
+   8.70.25.1
+  
+  du Guide des approvisionnements.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Ces procédures doivent être suivies pour toute modification de conception ou travaux supplémentaires.</p>
+<ol type="1">
+<li value="1">Lorsque le Canada demande une modification de conception ou des travaux supplémentaires :
+<ol type="a">
+<li value="1">Le responsable technique fournira à l'autorité contractante une description de la modification de conception ou des travaux supplémentaires en donnant suffisamment de détails pour permettre à l'entrepreneur de fournir les renseignements suivants :
+<ol type="i">
+<li value="1">tout impact de la modification de conception ou des travaux supplémentaires sur les exigences du contrat;</li>
+<li value="2">une ventilation des prix (avec augmentation ou diminution) découlant de la mise en oeuvre de la modification de conception ou de l'exécution des travaux supplémentaires, au moyen du formulaire PWGSC-TPSGC 1686, Soumission pour modification du plan ou travail supplémentaire, ou du formulaire PWGSC-TPSGC 1379 (PDF 56Ko) - (Aide sur les formats de fichier), Travaux imprévus ou nouveaux travaux.
+</li>
+<li value="3">un calendrier pour effectuer la modification de conception ou pour exécuter les travaux supplémentaires ainsi que l'impact sur le calendrier d'exécution du contrat.</li>
+</ol>
+</li>
+<li value="2">L'autorité contractante transmettra alors cette information à l'entrepreneur.</li>
+<li value="3">L'entrepreneur retournera le formulaire rempli à l'autorité contractante pour évaluation et négociation. Lorsqu'une entente est conclue, le formulaire doit être signé par toutes les parties dans les blocs-signature appropriés. Cela constituera l'autorisation
+écrite permettant à l'entrepreneur d'exécuter les travaux, et le contrat sera modifié en conséquence.</li>
+</ol>
+</li>
+<li value="2">Lorsque l'entrepreneur demande une modification de conception ou des travaux supplémentaires : 
+<ol type="a">
+<li value="1">L'entrepreneur doit fournir à l'autorité contractante une demande de modification de conception ou de travaux supplémentaires en donnant suffisamment de détails pour permettre au Canada de l'examiner.</li>
+<li value="2">L'autorité contractante transmettra la demande au responsable technique pour examen.</li>
+<li value="3">Si le Canada convient qu'une modification de conception ou que des travaux supplémentaires sont requis, les procédures figurant au paragraphe 1 devront être suivies.</li>
+<li value="4">Si le Canada détermine que la modification de conception ou les travaux supplémentaires ne sont pas requis, l'autorité contractante en informera l'entrepreneur par écrit.</li>
+</ol>
+</li>
+<li value="3">Approbation
+<br/>L'entrepreneur ne doit effectuer aucune modification de conception ou exécuter des travaux supplémentaires sans avoir obtenu l'autorisation écrite de l'autorité contractante. Tout travail exécuté sans l'autorisation écrite de l'autorité contractante sera considéré comme étant hors de la portée du contrat et aucun paiement ne sera versé pour ces travaux.
+</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour des biens ou des services lorsque des dommages-intérêts fixés à l'avance seront inclus dans le contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Si l'entrepreneur <span class="input-required"><var title="blank">____________</var> <kbd>(<em>insérer « ne
+livre pas les biens » ou « n'exécute pas les
+services »</em>)</kbd></span> dans le délai spécifié
+dans le contrat, l'entrepreneur accepte de verser au Canada des
+dommages-intérêts fixés à l'avance de
+<var title="blank">_____</var> $ pour chaque jour civil de retard. Le montant
+total des dommages-intérêts fixés à l'avance ne
+doit pas dépasser <var title="blank">_____</var> p. 100 du prix
+contractuel.</li>
+<li value="2">Le Canada et l'entrepreneur conviennent que le
+montant précité au-dessus est leur meilleure estimation
+de la perte encourue par le Canada si la situation
+précitée se produit, qu'il n'a pas pour but d'imposer une
+sanction et qu'il ne doit pas être interprété en ce
+sens.</li>
+<li value="3">Le Canada est autorisé en tout temps à
+retenir, recouvrer ou déduire tout montant de
+dommages-intérêts fixés à l'avance dû et
+impayé aux termes du présent article et de prélever
+ces montants de toute somme due à l'entrepreneur par le
+Canada.</li>
+<li value="4">Rien dans le présent article ne doit être
+interprété comme limitant les droits et recours dont le
+Canada peut par ailleurs se prévaloir aux termes du
+contrat.</li>
+</ol>
+</div></pre>
+</div>

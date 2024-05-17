@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes d'offres à commandes si l'on 
+souhaite connaître les éventuels contrats de sous-traitance avant l'émission 
+d'une offre à commandes.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Lorsque l'offre comprend le recours à des sous-traitants
+pour l'exécution des travaux, l'offrant s'engage, à la
+demande du responsable de l'offre à commandes, à fournir
+une liste de tous les sous-traitants, y compris une description des
+articles à acheter, une description des travaux à
+exécuter et l'emplacement où ces travaux seront
+exécutés. La liste ne devrait pas comprendre l'achat
+d'articles et de logiciels du commerce, et des articles et du
+matériel standard fabriqués habituellement par les
+fabricants dans le cours normal de leurs affaires ou la fourniture
+des services connexes qui peuvent habituellement faire l'objet de
+sous-traitance dans le cadre de l'exécution des travaux.</p>
+</div></pre>
+</div>

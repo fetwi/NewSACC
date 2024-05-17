@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause dans les demandes d'offres à commandes lorsque l'offre à commandes qui sera autorisée sera inscrite sur le site Internet de la Chaîne d'approvisionnement électronique (achat en direct).
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Toute offre à commande qui sera émise suite
+à une demande d'offres à commandes peut être
+inscrite dans le système d'achat en direct; un système
+bureautique d'achat sur le Web qui est offert aux ministères
+fédéraux.</li>
+<li value="2">Bien que les offrants ne soient pas obligés
+d'inscrire leurs produits et(ou) prix dans le système d'achat
+en direct, ils sont fortement encouragés à le faire
+puisque c'est la voie que le gouvernement fédéral
+pourrait utiliser pour ses besoins futurs. De plus, cela augmentera
+la visibilité des produits figurant dans les catalogues de
+l'offrant retenu.</li>
+<li value="3">Que l'offrant accepte ou refuse d'inscrire ses
+produits dans le système d'achat en direct n'aura pas
+d'incidence sur l'évaluation de son offre ou l'autorisation
+d'utiliser l'offre à commandes.</li>
+<li value="4">Si l'offrant est intéressé à inscrire
+son offre à commandes dans le système d'achat en direct,
+il peut obtenir une copie des exigences de configuration en
+envoyant une demande écrite au responsable de l'offre à
+commandes identifié dans la demande d'offres à commandes.
+L'offrant devrait aussi indiquer :
+<ol type="a">
+<li value="1">son intérêt à inscrire son catalogue (produits et(ou) prix) dans le système d'achat en direct :<br/>
+Intéressé : OUI <var>___</var> NON <var>____</var>;</li>
+<li value="2">sa capacité de charger la liste des produits de l'offre à commandes en format bilingue dans Excel 
+(<abbr title="Travaux publics et Services gouvernementaux Canada">TPSGC</abbr> fournira un exemple de disposition du logiciel sur
+demande);</li>
+<li value="3">dans quel logiciel le catalogue (produits et(ou) prix) peut être chargé :<br/>
+Excel : OUI <var>___</var> NON <var>___</var> ; et<br/>
+</li>
+<li value="4">si les produits écologiques sont faciles à repérer :<br/>
+produits écologiques sont identifiés : OUI <var>___</var> NON <var>___</var><br/>
+produits écologiques peuvent être identifiés : OUI <var>___</var> NON <var>___</var><br/>
+Nom de la personne-ressource : <var>___________</var><br/>
+Numéro de téléphone : <var>____</var>-<var>____</var> -<var>_____</var></li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

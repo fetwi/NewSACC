@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in conjunction with H4005D when the customer department 
+has requested a draft final report.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>After approval of the draft final report, the final report in _____ copies 
+shall be submitted by the Contractor to the Technical Authority on or 
+before _____.  The final report shall contain an executive summary, 
+prepared in both of Canada's official languages.
+
+A copy of the covering letter accompanying the final report shall be 
+forwarded to the Contracting Authority.
+
+
+</pre>
+</div>

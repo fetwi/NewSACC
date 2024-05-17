@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Selon les plus récents calculs, le coût total des services qui pourrait 
+être commandés, en vertu des offres permanentes proposées, peut se chiffrer 
+à $_____.  Le Ministère a donc l'intention d'émettre, jusqu'à concurrence 
+de ce montant global, une série d'offres permanentes principales et 
+régionales faisant suite à la présente demande d'offre permanente et 
+destinées aux compagnies de services temporaires déjà accréditées de la 
+région Ottawa-Hull.
+
+L'utilisation mensuelle en moyenne de journées ressources pour la période _____ 
+au _____ a été comme suit et des besoins semblables sont prédits pour la 
+période de douze mois se terminant le _____.
+
+Journées ressources LSI
+
+LSII
+IS
+AS-A
+AS-B
+AS-C
+PM
+DD-A
+DD-B
+EG-ESS-A
+EG-ESS-B
+EG-ESS-C
+SI I
+SI II
+EL-A
+EL-B
+GL-ELE
+GS-STS-A
+GS-STS-B
+GS-STS-C
+
+ Utilisation mensuelle (Dollars):
+
+ 
+</pre>
+</div>

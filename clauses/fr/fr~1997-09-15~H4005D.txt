@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une ébauche du rapport final est exigée et 
+que les détails portant sur le contenu du rapport n'ont pas été précisés dans 
+l'énoncé des travaux.  Utiliser cette clause avec la clause H4006D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Une ébauche du rapport final devra être envoyée par l'entrepreneur au 
+responsable technique pour son approbation le ou avant le ____.  Ce rapport 
+doit couvrir de façon détaillée toutes les facettes des travaux et 
+comporter suffisamment de dessins, d'esquisses et de photographies, ainsi 
+qu'un exposé des problèmes et des succès liés à la réalisation des travaux 
+afin de faciliter l'évaluation complète et précise des travaux par le 
+responsable technique.  Le rapport sera rédigé conformément à de bonnes 
+pratiques professionnelles et d'ingénierie et comprendra, au minimum, les 
+éléments suivants : une page titre, une table des matières, un résumé, une 
+introduction, un exposé technique accompagné de conclusions et, selon le 
+cas, des graphiques, tableaux et figures à l'appui.
+
+</pre>
+</div>

@@ -1,0 +1,89 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque des paiements d'étape fermes doivent être 
+effectués conformément à un calendrier d'étapes pré-établi.
+
+Dans le cas où un rapport d'étape n'est pas requis, l'agent de négociation des 
+contrats peut supprimer l'alinéa 6.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Des paiements d'étape seront versés conformément au calendrier 
+       d'étapes pré-établi joint à l'annexe « _____ », à condition que :
+
+       a)     les demandes de paiement d'étape soient remplies en utilisant 
+              le formulaire PWGSC-TPSGC 1111, « Réclamation de paiement 
+              partiel », (<strong class="wsStyleUnderline">http://www.tpsgc.gc.ca/sos/corporate/forms-f.html</strong>) 
+              et présentées au Canada conformément aux instructions du 
+              présent document;
+
+       b)     toutes les attestations figurant sur le formulaire soient 
+              signées par les personnes indiquées ou leurs délégués; et
+
+       c)     le________ ait reçu et accepté tous les rapports nécessaires 
+              à la demande de paiement d'étape.
+
+2.     La réclamation doit indiquer les renseignements suivants :
+
+       a)     le montant actuellement demandé;
+
+       b)     le montant total de toutes les réclamations précédentes 
+              soumises dans le cadre du présent contrat et le total à ce 
+              jour; et
+
+       c)     le numéro du contrat, les codes financiers et le numéro de 
+              référence du client, tels qu'ils figurent à la page 1 du 
+              présent contrat.
+
+3.     L'entrepreneur doit rédiger et certifier un original et _____ copies 
+       de sa réclamation sur le formulaire PWGSC-TPSGC 1111 et l'envoyer au_______.
+
+4.     Le solde dû sera versé à l'entrepreneur sous réserve de : 
+
+       a)     la livraison et l'acceptation de tous les produits livrables; 
+              et
+
+       b)     l'approbation de la demande de paiement final par l'autorité 
+              contractante et le _________.
+
+5.     Pour les travaux accomplis, le Canada paiera l'entrepreneur :
+
+       a)     dans le cas d'un paiement d'étape autre que le paiement final, 
+              dans les trente (30) jours suivant la date de réception du 
+              formulaire PWGSC-TPSGC 1111 dûment rempli;
+
+       b)     dans le cas d'un paiement final, dans les trente (30) jours 
+              suivant la date de réception du formulaire PWGSC-TPSGC 1111 
+              dûment rempli, ou dans les trente (30) jours suivant la date 
+              à laquelle les travaux sont achevés, le délai le plus long 
+              étant retenu.
+
+6.     Si le Canada a une quelconque objection quant au contenu de la 
+       demande de paiement d'étape, le Canada devra, dans les quinze (15) 
+       jours de sa réception, aviser l'entrepreneur de la nature de son 
+       objection.  Le « contenu de la demande » signifie une demande de 
+       paiement accompagnée des documents d'appui exigés par le Canada.  Le 
+       défaut par le Canada d'agir dans les quinze (15) jours n'aura pour 
+       seul effet que la date précisée aux alinéas 5. a) et b) de la 
+       présente clause ne s'appliquera qu'aux seules fins de calculer 
+       l'intérêt sur les comptes en souffrance.
+
+7.     a)     L'entrepreneur doit préparer et soumettre au________ un 
+              rapport d'étape en _____ copies.  Une copie du rapport doit 
+              aussi être envoyée à l'autorité contractante.
+
+       b)     Ce rapport doit être présenté pour chaque étape indiquée dans 
+              le calendrier des étapes joint à titre d'annexe « _____ ».
+
+       c)     Chaque rapport doit consister en une description qui doit 
+              renfermer au moins :
+
+              (i)    une description des travaux accomplis durant cette 
+                     étape;
+
+              (ii)   tout problème rencontré ou anticipé (en ce qui a trait 
+                     au temps, au coût ou à des questions techniques).
+
+
+
+</pre>
+</div>

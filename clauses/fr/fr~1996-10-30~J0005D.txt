@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>On ne peut résilier un contrat sans avoir obtenu une opinion juridique par 
+écrit. Afin d'obtenir l'opinion du Contentieux, l'agent de négociation des 
+contrats doit présenter le dossier, accompagné d'un index chronologique des 
+documents relatifs à la demande de résiliation et d'une courte note faisant état 
+du motif de la résiliation.  En se fondant sur cette information, le Contentieux 
+peut décider si l'entrepreneur a une défense valable, pour le cas où l'État 
+réclamerait des pertes ou des dommages et intérêts, et recommander une méthode 
+de résiliation appropriée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le Canada peut, sur avis écrit de trente (30) jours civils, annuler toute 
+tâche ou résilier le présent contrat, en tout ou en partie, sans frais pour 
+le Canada s'ajoutant aux frais engagés avant la date de la résiliation pour 
+les travaux annulés. En cas de résiliation complète ou partielle du contrat, 
+l'entrepreneur doit remettre au Canada tous les documents de travail, les 
+notes et notes de service, les rapports, les progiciels, les données 
+assimilables ou autres et la documentation créés ou obtenus en rapport avec 
+le présent contrat.
+
+
+</pre>
+</div>

@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque tous les travaux dans le cadre d'un contrat doivent être réalisés au moyen d'autorisations de tâches afin de limiter l'obligation du Canada dans le cadre de celui-ci en fonction du montant précisé ci-après. Utiliser cette clause en conjonction avec
+  
+   C9010C
+  
+  .
+ </p>
+<p>
+  Autrement, utilisez la clause
+  
+   B9031C
+  
+  afin de limiter l'obligation du Canada lorsqu'une portion seulement des travaux est réalisée au moyen d'autorisations de tâches.
+ </p>
+<p>
+  Pour de plus amples renseignements, consulter l'article
+  
+   3.35.1.20
+  
+  du Guide des approvisionnements.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1"><p>Dans cette clause,</p>
+<p><dfn>« valeur maximale du contrat »</dfn> signifie le montant indiqué à la clause « Limite des dépenses » énoncée dans le contrat;</p>
+<p><dfn>« valeur minimale du contrat »</dfn> signifie <span class="input-required"><var>_____</var><kbd>(<em>insérer le pourcentage correspondant de la valeur maximale du contrat ou un montant fixe en dollar</em>).</kbd></span></p></li>
+<li value="2">L'obligation du Canada en vertu du contrat consiste à demander des travaux jusqu'à concurrence de la valeur minimale du contrat ou, au choix du Canada, de payer l'entrepreneur à la fin du contrat conformément au paragraphe 3. En contrepartie de cette obligation, l'entrepreneur convient de se tenir prêt, pendant toute la durée du contrat, à exécuter les travaux décrits dans le contrat. La responsabilité maximale du Canada à l'égard des travaux exécutés dans le cadre du contrat ne doit pas dépasser la valeur maximale du contrat, à moins d'une
+augmentation autorisée par écrit par l'autorité contractante.</li>
+<li value="3">Si le Canada ne demande pas de travaux pour un montant correspondant à la valeur minimale du contrat pendant la période du contrat, le Canada paiera à l'entrepreneur la différence entre la valeur minimale du contrat et le coût total des travaux demandés.</li>
+<li value="4">Si le Canada résilie le contrat en totalité ou en partie pour inexécution, le Canada n'assumera aucune obligation envers l'entrepreneur en vertu de cette clause.</li>
+</ol>
+</div></pre>
+</div>

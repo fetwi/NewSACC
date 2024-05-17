@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats qui comportent une limite de 
+dépenses et un prix plafond lorsque des paiements progressifs ou d'étapes seront 
+faits et que la soumission du formulaire de projet de contrat et de rapport est 
+une condition de paiement.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent s'assurer que la soumission du 
+formulaire de projet et de rapport est indiqué dans les instructions de 
+facturation du contrat.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit utiliser le Formulaire de projet
+de contrat et de rapport, PWGSC-TPSGC 9143 (ou un formulaire
+équivalent jugé acceptable par l'autorité
+contractante) pour faire état de l'avancement des travaux et
+de la situation des dépenses par rapport au plan de travail
+initial.</li>
+<li value="2">Une copie mise à jour du formulaire doit
+accompagner chaque réclamation de paiement.</li>
+<li value="3">La réception et l'acceptation du formulaire par
+l'autorité contractante est une condition de paiement en vertu
+du contrat.</li>
+</ol>
+</div></pre>
+</div>

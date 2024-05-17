@@ -1,0 +1,76 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions concurrentielles 
+pour plusieurs articles (selon la description du besoin) lorsque la concurrence 
+est limitée exclusivement aux produits canadiens et que chaque article doit 
+faire l'objet d'une attestation tel qu'il est défini au paragraphe 3 (b) de la 
+clause A3050T.
+
+Les agents de négociation des contrats doivent choisir une des options fournies 
+dans la clause.
+
+Utiliser la clause A3053T pour plusieurs articles lorsque l'ensemble des 
+articles doit faire l'objet d'une attestation globale.
+
+Utiliser cette clause en conjonction avec A3050T et A3060C.
+
+Il faut suivre ces instructions seulement si le modèle pour les besoins de 
+complexité moyenne (2T-MED1) ou plus complexes (2T-HIGH1) n'est pas utilisé.  
+Les agents de négociation des contrats doivent consulter les procédures 2T-PROC1 
+afin de confirmer qu'ils ne peuvent pas utiliser le modèle pour le besoin.
+
+1.	Insérer une des options suivantes à la fin de la clause :
+
+Option 1 : utiliser ce paragraphe lorsque les soumissionnaires doivent fournir 
+l'attestation remplie avec leur soumission.
+
+« Le défaut de fournir cette attestation remplie avec la soumission aura pour 
+conséquence que la soumission sera déclarée non recevable.»
+
+Option 2 : utiliser ce paragraphe lorsque les soumissionnaires devraient fournir 
+l'attestation remplie avec leur soumission mais si l'attestation n'est pas 
+fournie avec la soumission, les agents de négociation des contrats demanderont 
+au soumissionnaire de fournir l'attestation dans les délais prévus.
+
+« Les soumissionnaires devraient fournir cette attestation avec leur soumission. 
+Si l'attestation n'est pas remplie et fournie avec la soumission, l'autorité 
+contractante en informera le soumissionnaire et lui donnera un délai afin de 
+fournir cette attestation remplie.  Le défaut de répondre à la demande de 
+l'autorité contractante et de fournir l'attestation remplie aura pour 
+conséquence que la soumission sera déclarée non recevable.»
+
+2.	Utiliser cette clause en conjonction avec A3015T.
+
+Les agents de négociation des contrats doivent examiner la Politique sur le 
+contenu canadien (chapitre 5 et l'annexe 5.1 du Guide des approvisionnements) 
+afin d'établir si le besoin est assujetti à la politique.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Cet achat est limité aux produits canadiens.
+
+<span class="wsInlineRemark"><strong>Instruction aux agents de négociation des contrats : </strong></span><span class="wsInlineRemark">Choisir une des 
+options suivantes</span> :
+
+       « Les soumissionnaires doivent clairement indiquer à côté de chaque 
+       article énuméré dans la demande de soumissions quels articles 
+       répondent à la définition d'un produit canadien et remplir 
+       l'attestation suivante. »
+
+       <strong><em>OU</em></strong>
+
+       « Les soumissionnaires doivent clairement indiquer ci-bas quels 
+       articles répondent à la définition d'un produit canadien et remplir 
+       l'attestation ci-dessous. »
+
+       <span class="wsStyleUnderline">                                                                                                                                                          </span><span class="wsStyleUnderline"></span>
+
+       <span class="wsStyleUnderline">                                                                                                                                                          </span><span class="wsStyleUnderline"></span>
+
+Le soumissionnaire atteste que :
+
+       (     )       l'article ou les articles offerts et identifiés comme 
+              des produits canadiens sont des produits canadiens tel qu'il 
+              est défini au paragraphe 1 de la clause A3050T.
+
+
+</pre>
+</div>

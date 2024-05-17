@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>1.     OPERATION 1:</strong>
+
+       Hydrostatic testing including washing, drying and valving $_____ per 
+cylinder.
+
+<strong>2.     OPERATION 2:</strong>
+
+       Washing, drying and valving only $_____ per cylinder.
+
+<strong>3.     OPERATION 3:</strong>
+
+       Painting and stencilling $_____ per cylinder.
+
+<strong>4.     OPERATION 4:</strong>
+
+       (a)    Replacing valves $_____ per cylinder.
+       (b)    Repairing Valves $_____ per cylinder.
+
+
+</pre>
+</div>

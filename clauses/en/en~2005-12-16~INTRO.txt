@@ -1,0 +1,148 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>AUTHORITY</strong>
+
+Under the authority of the <em>Department of Public Works and Government 
+Services Act</em>:
+
+       "21.(1) The Minister may fix terms and conditions of contracts, and 
+       instructions and terms and conditions with respect to other 
+       documents relating to contracts and their formation.
+
+       Designation (2) The terms and conditions and instructions may be 
+       identified by number or other designation and may be incorporated in 
+       a contract or other document by reference to their number or other 
+       designation.
+
+       Publication (3) The Minister may, by regulation, prescribe the 
+       electronic or other means by which a term, condition or instruction, 
+       including its identification number or other designation, shall be 
+       published."
+
+<strong>DISTRIBUTION</strong>
+
+The <em>Standard Acquisition Clauses and Conditions </em>(SACC) Manual is produced 
+in two electronic versions -  HTML and PDF.  Both versions contain 
+information on current clauses and conditions as well as instructions on 
+how these clauses and conditions are used.  They also provide the reader 
+with the complete text of previous general conditions, supplemental general 
+conditions and/or clause found in the Manual, that have been either 
+cancelled or superseded.
+
+<strong>STRUCTURE</strong>
+
+The Manual has been organized to follow the progression of information 
+presented in procurement documents:
+
+<strong>Section 1 - Standard Instructions and Conditions</strong>
+
+Previously printed on the reverse of page 1 of solicitations and contracts, 
+or included as attachments, these instructions and conditions are now 
+identified in standard clause A0000T, located at the beginning of the 
+clause section in procurement documents.
+
+<strong>Section 2 - Templates and Forms</strong>
+
+<strong>Departmental Plain Language Standard Procurement Templates for Goods and 
+Services</strong>
+
+This section provides templates for Low Dollar Value and Medium Complexity 
+requirements as well as the procedures for their use.
+
+The development of the Plain Language Standard Procurement documents is an 
+on-going initiative whose objectives are to standardize procurement 
+terminology, simplify the language, and ensure more consistency and 
+uniformity in acquisition documents issued by the Department.
+
+<strong>Forms</strong>
+
+This section contains a listing of PWGSC forms available on PWGSC Website 
+and which are commonly used in the procurement process, such as PWGSC-TPSGC 
+1111, Claim for Progress Payment, and PWGSC-TPSGC 9411, Claim for Exchange 
+Rate Adjustments.  A number of forms commonly-used in real property 
+contracting are also included.
+
+<strong>Sections 3 and 4 - General Conditions and Supplemental General Conditions</strong>
+
+1.     These sections present those sets of standard conditions which form 
+       the foundation upon which all procurement documents issued by PWGSC 
+       are built.
+
+       (a)    Section 3, General Conditions, defines the basic sets of 
+              conditions which apply to specific classes of contracts (e.g. 
+              9601, General Conditions - Long Form).
+
+       (b)    Section 4, Supplemental General Conditions, addresses areas 
+              unique to specific subclasses of contracts (e.g. 1028, Ship 
+              Construction - Firm Price).
+
+2.     Each section/article within a condition set has been given its own 
+       effective date.  The condition set as a whole has also been given an 
+       effective date which is reflected in section 00 and is determined by 
+       the latest revision date of one or more of its sections.
+
+<strong>Section 5 - Standard Procurement Clauses</strong>
+
+1.     This section contains a collection of national procurement clauses, 
+       common to various classes of contracts.  The full text of individual 
+       clauses, incorporated by reference into a bid solicitation or 
+       contract by their Number, Title and Effective Date, can be found in 
+       this section of the Manual.  Each subsection (A-Z) is devoted to a 
+       particular subject area.  Please note that some subsections have not 
+       been assigned at this time.
+
+2.     Clauses may be identified by their numbers which break down as 
+       follows:
+
+       (a)    the first alphabetic character (A-Z) indicates the subsection 
+              in Section 5;
+
+       (b)    the four numeric characters (0000-9999) indicate the clause's 
+              position within the numeric sequence of the subsection;
+
+       (c)    the final alphabetic character (T, C or D) indicates the type 
+              of document in which a given clause would be used (i.e. T = 
+              Tender; C = Contract; D = Dual purpose, used in both tenders 
+              and contracts).
+
+Example:      Clause C0004T - Price Certification.  This is the fourth 
+              sequential clause found in subsection C - Price, of Section 5 
+              and is used in Tender (solicitation) documents.
+
+<strong>USE OF THE MANUAL</strong>
+
+<strong>1.     Incorporation by Reference clauses (R)</strong>
+Bid solicitations and contracts will contain references to specific clauses 
+and general conditions which will apply to that particular requirement. 
+Clause references will include the clause number, its effective date and 
+its title (e.g. B1504D (16/02/98) State of Charge).  All clauses referred 
+to in this manner can be found in Section 5 of this Manual.
+
+<strong>2.     Fill-in clauses (F)</strong>
+Clauses which require the insertion of specific information by the 
+contracting officer or the supplier (fill-in clauses) will be produced in 
+full on procurement documents.
+
+<strong>NOTE</strong>:  In the case of discrepancies in clause versions between solicitation 
+              documents and the Manual, any clause appearing in full text 
+              in a procurement document will override any version set out 
+              in the Manual.
+
+<strong>3.     Updates</strong>
+
+Any standard clause, and any condition or instruction set, used or 
+referenced in a bid solicitation or contract may be updated from time to 
+time.  When this happens, the version used in an already-issued document 
+will remain in effect in that document, unless the updated version is 
+legally incorporated.
+
+<strong>ENQUIRIES</strong>
+
+Enquiries on the content of the Manual may be directed to the Webmaster: 
+NCR.ACQ.Webmaster@pwgsc.gc.ca.
+
+
+</pre>
+</div>

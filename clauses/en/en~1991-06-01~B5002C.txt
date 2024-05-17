@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used in contracts for goods and services where 
+complete specifications are provided and where no substitution or deviation is 
+permitted or such procedures provided.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Unless stated in the Contract, the specification(s) and the conditions by 
+   which supply is to be made or services to be rendered shall not be 
+   modified by anyone without written instructions from the Minister.
+</pre>
+</div>

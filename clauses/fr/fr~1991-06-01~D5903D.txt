@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les qualifications des inspecteurs maritimes devront être attestées par la 
+Direction de l'inspection et des services techniques de la Direction 
+générale des systèmes aérospatiaux, maritimes et électroniques 
+d'Approvisionnements et Services, Hull (Québec). 
+
+Le processus de qualification comprendra un examen des curriculum vitae et, 
+au besoin, une entrevue personnelle visant à évaluer les connaissances, les 
+compétences et l'expérience de chaque candidat(e). Les soumissionnaires 
+devront indiquer les noms des candidat(e)s proposé(e)s et leurs domaines 
+respectifs de compétence, et fournir des curriculum vitae pour évaluation. 
+
+       CANDIDAT(E)                 DOMAINE DE COMPÉTENCE 
+
+       1.  
+
+       2.  
+
+       3.   
+</pre>
+</div>

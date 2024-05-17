@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in bid solicitations which do not require point rating.  The 
+procurement officer must edit the clause to show each item as being either 
+mandatory (M) or desirable (D) as required by the situation.  
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The following mandatory (M) and desirable (D) factors will be taken 
+       into consideration in the evaluation of each bid:
+
+       (a)    Technical compliance M/D
+       (b)    Delivery requirement M/D
+       (c)    Inspection requirement M/D
+       (d)    Packaging requirement M/D
+       (e)    Descriptive literature (where applicable)MD
+       (f)    Transportation costs (where applicable) M/D
+       (g)    Compliance with proposed pricing methods M/D
+       (h)    Price M/D
+       (i)    Acceptance of other proposed terms and conditions as 
+              mentioned in the bid solicitation M/D
+       (j)    Completion of the solicitation M/D
+
+2.     In addition to the above, bidders must comply with any other 
+       requirement stipulated in the bid solicitation.
+
+
+</pre>
+</div>

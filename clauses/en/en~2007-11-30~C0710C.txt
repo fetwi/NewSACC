@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in  fixed time rate contracts for services and 
+material. Fixed-time rates may  include a pro-rata allowance for incidental 
+materials.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Time charged and the contract price of incidental materials used
+are subject to verification by Canada, before or after payment is
+made to the Contractor. If verification is done after payment, the
+Contractor must repay any overpayment, at Canada's request.</p>
+</div></pre>
+</div>

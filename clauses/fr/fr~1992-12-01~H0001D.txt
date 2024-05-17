@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les invitations à soumissionner et dans les 
+contrats qui en découlent, SAUF lorsque l'on fait référence à la formule 
+détaillée DSS-MAS 9601, à la formule semi-détaillée DSS-MAS 9601-10 ou à la 
+formule DSS-MAS 9329.  Voir la directive 6250 du GPA.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     a)     Dans le présent article, un montant est "dû et payable" quand 
+              il est dû et payable par le Canada à l'entrepreneur 
+              conformément aux conditions du contrat.
+
+       b)     Aux fins du présent article, un montant est échu quand il n'a 
+              pas été payé le lendemain du jour où il est devenu dû et 
+              payable.
+
+       c)     Dans le présent article, l'expression "date de paiement" 
+              désigne le jour dont la date figure sur l'effet négociable 
+              tiré par le Receveur général du Canada et donné en règlement 
+              du montant dû et payable.
+
+       d)     Dans le présent article, l'expression "taux d'escompte" 
+              désigne le taux officiel d'escompte de la Banque du Canada.
+
+2.     a)     Le Canada est tenu de payer, sans que l'entrepreneur n'en 
+              fasse la demande, l'intérêt simple, calculé à l'aide du taux 
+              d'escompte plus 1 1/4 p.100, sur tout montant en souffrance, 
+              et ce, à compter du jour où le montant est devenu échu 
+              jusqu'au jour précédent la date où le paiement est effectué, 
+              inclusivement; cependant, l'intérêt ne sera ni payable, ni 
+              payé à moins que le montant n'ait été en suspens pour plus de 
+              quinze (15) jours suivant la date d'échéance. L'intérêt ne 
+              sera pas versé pour les avances en souffrance.
+
+       b)     Le taux d'escompte est celui qui avait cours à l'ouverture 
+              des bureaux, le jour du paiement.
+
+3.     L'intérêt ne sera payé que lorsque le Canada est responsable du 
+       retard pour le paiement à l'entrepreneur.  Aucun intérêt ne sera 
+       versé si le Canada n'est pas responsable du retard pour le paiement 
+       à l'entrepreneur.   
+
+</pre>
+</div>

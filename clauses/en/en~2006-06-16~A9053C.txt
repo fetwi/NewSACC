@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Contracting officers may use this clause in contracts for the procurement of medium and heavy trucks, buses, and trailers when a trade-in is requested by the client department.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The used vehicle to be traded in will be retained by Canada until exchanged for the new vehicle. No adjustment will be made to the trade-in allowance to allow for depreciation arising out of normal wear and tear on the used vehicle between the time of its appraisal and the time the used vehicle is exchanged. The Contractor must, immediately upon taking possession of the used vehicle, report in writing any significant change in the condition of the used vehicle to the Contracting Authority.</p>
+</div></pre>
+</div>

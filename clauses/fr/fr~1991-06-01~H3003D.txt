@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause H3003D pour les contrats à prix unitaires fermes lorsque la 
+clause H3000D ou H3001T est également utilisée.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le solde du montant dû pour chaque unité devra être payé à la livraison et 
+   l'acceptation de chacune, à condition qu'une facture pour ledit paiement 
+   soit présentée conformément aux instructions de facturation indiquées 
+   dans le Contrat.
+</pre>
+</div>

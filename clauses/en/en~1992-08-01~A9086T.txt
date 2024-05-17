@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Carrier is reminded that offers may also be submitted by telex (SSC 
+number 053-3703) or by facsimile message (No. 819-997-9776 or 819-994-0080). 
+Telex/Facsimile offers must be addressed to: The Supply Administration, 
+Department of Supply and Services, Attention "Bid Receiving" and must 
+include file number and closing date. The formal offer document must follow 
+immediately as the official confirmation.
+
+</pre>
+</div>

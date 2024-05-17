@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>All enquiries should be directed to: _____
+
+Contracting Officer, ______, 
+Supply and Services Canada, 
+Place du Portage, 
+Phase III, 10C1, 
+11 Laurier Street, 
+Hull, Quebec K1A 0S5
+
+Tel: (819) 956-____
+
+
+</pre>
+</div>

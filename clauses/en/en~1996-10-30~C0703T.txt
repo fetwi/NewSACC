@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause with the appropriate travel and living expense clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The prices quoted do not include the service of the Contractor's engineer 
+for supervising the installation of the equipment or for making the 
+necessary adjustments to same after installation by others. Such services, 
+if required, will be provided at a standard rate of $_____ per engineer per 
+day plus travel and living expenses reasonably and properly incurred in 
+carrying out this Work, if such services are required outside of the place 
+of manufacture.
+
+</pre>
+</div>

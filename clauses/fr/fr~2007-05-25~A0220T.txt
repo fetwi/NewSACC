@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les demandes de soumissions pour des biens 
+lorsque l'évaluation financière de la soumission sera faite conformément au 
+processus décrit ci-dessous.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le prix de la soumission sera évalué en dollars
+canadiens, excluant la taxe sur les produits et services ou la taxe
+de vente harmonisée, FAB destination, incluant les droits de
+douane et les taxes d'accise canadiens.</p>
+</div></pre>
+</div>

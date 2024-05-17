@@ -1,0 +1,69 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in marine refit and repair contracts only.  It is not 
+intended to be used in marine new construction contracts.  The contracting 
+officer must insert the number of days for paint warranty as required.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>General conditions 1026A, Supplies - Firm Price, are amended by replacing 
+section 08, Warranty, by the following:
+
+       "08    Warranty
+
+       1.     The Contractor, if requested by Canada, must replace or 
+              repair at its own expense any finished work, excluding 
+              Government Issue incorporated in the Work, which becomes 
+              defective or which fails to conform to contract requirements 
+              as a result of faulty or inefficient manufacture, material or 
+              workmanship.
+
+       2.     Despite acceptance of the finished work, and without 
+              restricting any other term of the Contract or any condition, 
+              warranty or provision imposed by law, the Contractor warrants 
+              that the following will be free from all defects and will 
+              conform with the requirements of the Contract: 
+
+              (a)    The painting of the underwater portion of the hull for 
+                     a period of ______ <em>(</em><strong><em>insert the number of days as 
+                     required</em></strong>) days commencing from the date of undocking, 
+                     except that the Contractor will only be liable to 
+                     repair and/or replace to a value to be determined as 
+                     follows:
+
+                     Original cost to Canada of the underwater painting 
+                     work, divided by ______ (<strong><em>insert the warranty period as 
+                     indicated above</em></strong>) days and multiplied by the number of 
+                     days remaining in the warranty period.  The resultant 
+                     sum would represent the "Dollar Credit" due to Canada 
+                     from the Contractor.
+
+              (b)    All other painting work for a period of _______ (<strong><em>
+                     insert the number of days as required</em></strong><strong>)</strong> days commencing 
+                     from the date of acceptance of the Work;
+
+              (c)    All other items of work for a period of ninety (90) 
+                     days commencing from the date of acceptance of the 
+                     Work, except that:
+
+                     (i)    the warranty on the work related to any system 
+                            or equipment not immediately placed in 
+                            continuous use or service will be for a period 
+                            of ninety (90) days from the date of acceptance 
+                            of the vessel;
+
+                     (ii)   for all outstanding defects, deviations, and 
+                            work items listed on the Acceptance Document at 
+                            Delivery, the warranty will be ninety (90) days 
+                            from the subsequent date of acceptance for each 
+                            item.
+
+       3.     The Contractor agrees to pass to Canada, and exercise on 
+              behalf of Canada, all warranties on the materials supplied or 
+              held by the Contractor which exceed the periods indicated 
+              above."
+
+       4.     Refer to Annex "______" for Warranty Defect Claim Procedures 
+              and forms."
+
+</pre>
+</div>

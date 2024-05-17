@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in all contracts.  
+
+Do not use for Low Dollar Value and Medium Complexity requirements if the Plain 
+Language templates 2T-LDV1 and 2T-MED1 are used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contracting Authority for the Contract is:
+
+Name: ______
+Title: ______
+Public Works and Government Services Canada
+Acquisitions Branch
+___________ Directorate
+Address:   ________
+
+Telephone:  (   ) ___ - ____
+Facsimile:    (   ) ___ - ____
+E-mail:  ____________
+
+The Contracting Authority is responsible for the management of the Contract, 
+   and any changes to the Contract must be authorized in writing by the 
+   Contracting Authority.  The Contractor must not perform work in excess 
+   of or outside the scope of the Contract based on verbal or written 
+   requests or instructions from anybody other than the Contracting 
+   Authority.
+</pre>
+</div>

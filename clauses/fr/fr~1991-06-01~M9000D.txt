@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Vous êtes par les présentes autorisé à passer des commandes subséquentes à 
+l'offre permanente no._____ du MAS, ci-jointe, reçue de _____ conformément 
+aux conditions qui y figurent ainsi qu'aux conditions suivantes :
+
+       a)  Le Règlement sur les marchés de l'État (RME) s'applique aux 
+       contrats éventuels (voir le Manuel sur les Marchés du Conseil du 
+       Trésor, annexe B).
+
+       A moins d'avis contraire de la part du MAS, toute offre permanente 
+       est considérée comme non concurentielle aux fins de l'application du 
+       RME.
+
+       b)  Les commandes peuvent être passées seulement entre le _____ et 
+       le _____ inclusivement à moins d'indication contraire du MAS.
+
+       c)  Il faut employer le document de commande autorisée, c'est-à-dire 
+       la formule DSS-MAS _____ .
+
+       d)  Limite financière: _____. 
+</pre>
+</div>

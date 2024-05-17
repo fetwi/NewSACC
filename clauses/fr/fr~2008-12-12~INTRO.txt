@@ -1,0 +1,152 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Mandat</h2>
+<p>En vertu de la <cite>Loi sur le ministère des Travaux
+publics et des Services gouvernementaux</cite> :</p>
+<blockquote><p>« 21. (1) Le ministre peut fixer les modalités des
+marchés et les directives et modalités des documents qui
+se rapportent aux marchés ou à leur passation.</p>
+<p>Désignation par numéro (2) Les modalités et
+directives peuvent être désignées par un numéro
+ou d'une autre façon et être incorporées dans les
+marchés et documents en y étant signalées par ce
+numéro ou selon l'autre façon.</p>
+<p>Règlements (3) Le ministre peut, par règlement,
+prévoir la manière de publier, notamment par voie
+électronique, les modalités et directives relatives aux
+marchés ou à leur passation, y compris leur
+désignation par un numéro ou d'une autre
+façon. »</p></blockquote>
+<h2>Diffusion</h2>
+<p>Le Guide des <cite>Clauses et conditions uniformisées
+d'achat</cite> (CCUA) est produit en deux formats électroniques
+: « <span lang="en-CA">HTML</span> » et « <span lang="en-CA">PDF</span> » . Les deux versions
+contiennent de l'information sur les clauses et conditions
+générales courantes ainsi que des instructions qui
+expliquent comment ces clauses et conditions générales
+sont utilisées. Elles contiennent également le texte
+intégral des conditions générales, conditions
+générales supplémentaires et clauses
+antérieures qui ont été soit annulées ou
+remplacées.</p>
+<h2>Structure</h2>
+<p>Le Guide a été structuré de façon à
+toujours être à jour quant aux renseignements
+présentés dans les documents d'achat :</p>
+<h3>Section 1 - Instructions et conditions uniformisées</h3>
+<p>Imprimées auparavant à l'endos de la page 1 des
+demandes de soumissions et des contrats ou incluses à titre
+d'annexes, les instructions et conditions sont maintenant dans la
+clause uniformisée <span class="clauseRef">A0000T</span>, qui
+se trouve au début de la section des documents d'achat
+concernant les clauses.</p>
+<h3>Section 2 - Modèles</h3>
+<h4>Modèles uniformisés d'approvisionnement
+ministériel</h4>
+<p>Cette section contient les modèles pour les besoins de
+faible valeur, de complexité moyenne et de haute
+complexité, les demandes d'offres à commandes et les
+demandes d'arrangements en matière d'approvisionnement, ainsi
+que les procédures pour l'utilisation de ces modèles.</p>
+<p>Le développement des documents d'approvisionnement
+uniformisés est une initiative du Ministère ayant pour
+objectifs de normaliser la terminologie des approvisionnements, de
+simplifier le langage et d'assurer une plus grande uniformité
+dans les documents d'approvisionnement publiés par le
+Ministère.</p>
+<h3>Sections 3 et 4 - Conditions générales et conditions
+générales supplémentaires</h3>
+<ol type="1">
+<li value="1">Figurent à ces sections les groupes de
+conditions uniformisées à la base de tous les documents
+d'achat publiés par TPSGC.
+<ol type="a">
+<li value="1">La Section 3, Conditions générales,
+définit les groupes de conditions de base s'appliquant à
+des catégories de contrats spécifiques (p. ex. 2010A,
+Conditions générales - biens (complexité
+moyenne).</li>
+<li value="2">La Section 4, Conditions générales
+supplémentaires, traite des points propres à des
+sous-catégories de contrats spécifiques (p. ex. 4001,
+Achat, location et maintenance de matériel).</li>
+</ol>
+</li>
+<li value="2">Chaque article faisant partie intégrante d'un
+groupe de conditions a sa propre date d'entrée en vigueur. Le
+groupe de conditions dans son ensemble a également une date
+d'entrée en vigueur qui figure à la section 00 et qui est
+déterminée par la date de révision la plus
+récente d'une ou de plusieurs de ses articles.</li>
+</ol>
+<h3>Section 5 - Clauses uniformisées d'achat</h3>
+<ol type="1">
+<li value="1">La Section 5 regroupe un ensemble de clauses d'achat
+nationales, communes à diverses catégories de contrats.
+Dans cette section du Guide figure le texte complet des clauses
+individuelles auxquelles font référence les demandes de
+soumissions ou les contrats dans lesquels on ne retrouve que le
+numéro, le titre et la date d'entrée en vigueur. Chaque
+sous-section (A-Z) est consacrée à un sujet en
+particulier. Noter que certaines sous-sections n'ont pas encore
+été attribuées.</li>
+<li value="2">Les clauses sont identifiées par leur
+numéro qui se décompose de la façon suivante :
+<ol type="a">
+<li value="1">la première lettre (A-Z) indique la sous-section
+de la Section 5;</li>
+<li value="2">les quatre chiffres suivants (0000-9999) indiquent
+l'ordre numérique à l'intérieur de la
+sous-section;</li>
+<li value="3">la dernière lettre (T ou C) identifie le type de
+document dans lequel on peut trouver une clause donnée,
+c.-à-d. T = soumissions, C = contrats.</li>
+</ol>
+</li>
+</ol>
+<p>Exemple : Clause <span class="clauseRef">C0004T</span>,
+Attestation des prix - agents et détaillants canadiens. Elle
+est la quatrième clause séquentielle figurant à la
+sous-section C - Prix, de la Section 5, et elle est utilisée
+dans les demandes de soumissions.</p>
+<h2>Utilisation du Guide</h2>
+<ol type="1">
+<li value="1"><strong>Clauses par renvoi (R)</strong>
+<p>Les demandes de soumissions et les contrats contiennent des
+renvois aux clauses spécifiques et aux conditions
+générales s'appliquant au besoin en cause. Les clauses
+par renvoi comprennent le numéro de la clause, sa date
+d'entrée en vigueur et son titre (p. ex. : <span class="clauseRef">B1505C</span> (2006-06-16) Transport des matières
+dangereuses). Toutes les clauses indiquées de cette façon
+se trouvent à la Section 5 du Guide.</p>
+</li>
+<li value="2"><strong>Clauses à compléter (F)</strong>
+<p>Les clauses nécessitant des données
+particulières, devant être fournies par l'agent de
+négociation des contrats ou les fournisseurs, seront
+reproduites en texte intégral dans les documents d'achat.</p>
+<p class="description"><strong>NOTA</strong> : En cas de divergences entre la version
+d'une clause dans le document de soumission et celle dans le Guide,
+la clause figurant en entier dans le document d'achat aura
+préséance sur toute version énoncée dans le
+guide.</p>
+</li>
+<li value="3"><strong>Révisions</strong>
+<p>Toute clause uniformisée, et tout groupe de conditions ou
+d'instructions, reproduits en texte intégral ou
+incorporés par référence dans une demande de
+soumissions ou dans un contrat, peuvent être révisés
+lorsqu'il y a lieu dans le Guide. Dans un tel cas, la version
+utilisée dans un document déjà publié demeurera
+en vigueur aux fins de ce même document, sauf si la version
+révisée est incorporée légalement.</p>
+</li>
+</ol>
+<h2>Renseignements</h2>
+<p>Pour des renseignements se rapportant au contenu du Guide,
+communiquer avec : NCR.ACQPOLICIES@tpsgc-pwgsc.gc.ca.</p>
+</div></pre>
+</div>

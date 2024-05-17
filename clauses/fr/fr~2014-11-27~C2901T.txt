@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour les biens 
+lorsque le prix ou les prix ne doivent comprendre aucun montant représentant des 
+droits remboursables et(ou) des taxes payés au moment de l'importation des 
+matières, pièces et composants qui sont incorporés aux biens qui seront par la 
+suite exportés du Canada.
+ </p>
+<p>
+  Utiliser la clause en conjonction avec
+  
+   C2001C
+  
+  .
+ </p>
+<p>
+  Pour plus de renseignements, consulter l'
+  
+   Annexe 4.3
+  
+  (6) du
+  <cite>
+   Guide des approvisionnements
+  </cite>
+</p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les biens qui seront achetés en vertu du contrat sont
+destinés à l'exportation. Le soumissionnaire atteste que
+le prix ou les prix indiqués dans sa soumission ne comprennent
+aucun montant représentant des droits remboursables et(ou) des
+taxes payés au moment de l'importation des matières,
+pièces et composants qui sont incorporés aux biens.</p>
+</div></pre>
+</div>

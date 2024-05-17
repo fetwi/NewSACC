@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for inspection and technical services for 
+ship refit, if applicable. Contracting officers must identify the "Lead On-site 
+Inspector" in the contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">For the provision of Inspection Services as and when
+required during the period commencing <var>_____</var> until
+<var>_____</var> to carry out the Work as stated in Annex
+<var>____</var> , on an all inclusive firm by day chargeout
+rate.
+<br/>Calendar year: 20<var>____</var>
+<br/>$<var>_____</var> by day</li>
+<li value="2">Overtime, if necessary, and where authorized by the
+Lead On-site Inspector of the Public Works and Government Services
+Canada Inspection Office, at the following firm chargeout
+rates:
+<br/>Outside regular hours: $<var>_____</var>
+<br/>Monday to Friday incl.: <var>______</var> by hour
+<br/>Outside regular hours: $<var>_____</var>
+<br/>Saturday and Sunday: $ <var>______</var> by hour.
+</li>
+</ol>
+</div></pre>
+</div>

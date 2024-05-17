@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause when the bid solicitation includes references to standards from the Canadian General Standards Board (CGSB).  Contracting officers must fill in the blank with the name(s) of the standard(s) available from
+  <abbr title="Canadian General Standards Board ">
+   CGSB
+  </abbr>
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>A copy of the <var>________</var> referred to in the bid solicitation is available and may be purchased from:</p>
+<br/>Canadian General Standards Board
+<br/>Place du Portage III, 6B1
+<br/>11 Laurier Street
+<br/>Gatineau, Québec
+<br/>Telephone: (819) 956-0425 or 1-800-665-CGSB (Canada only)
+<br/>Fax: (819) 956-5740
+<br/>E-mail: ncr.cgsb-ongc@pwgsc-tpsgc.gc.ca
+<br/>CGSB Website: <cite>Canadian General Standards Board</cite>
+</div></pre>
+</div>

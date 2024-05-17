@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Faites parvenir <strong>sans frais</strong> une copie de chaque article au :
+
+Secteur des relations publiques et des marchés de services d'imprimerie
+350, rue Albert, 4e étage 
+Ottawa (Ontario) 
+K1A 0S5
+ATTENTION : _____
+
+</pre>
+</div>

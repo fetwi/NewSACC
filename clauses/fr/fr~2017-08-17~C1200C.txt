@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser cette clause dans tous les contrats à frais remboursables lorsque les travaux sont soumis à un
+  
+   prix plafond
+  
+  .
+ </p>
+<p>
+  Utiliser l'option 1 lorsque tous les travaux dans un contrat à frais remboursables sont soumis à un prix plafond.
+ </p>
+<p>
+  Utiliser l'option 2 lorsqu’une partie seulement des travaux dans un contrat à frais remboursables est soumise à un prix plafond.
+ </p>
+<p>
+  Utiliser cette clause conjointement avec
+  
+   C6000C
+  
+  ; pour l'option 2, la clause
+  
+   C6000C
+  
+  s'applique seulement à la partie des travaux qui est à prix plafond.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p><kbd><strong>Instruction aux agents de négociation des contrats : compléter et insérer l’une des options suivantes :</strong></kbd></p> <div class="sacc-item">
+<h2>Option 1</h2>
+<p>L'entrepreneur sera payé pour les coûts qu'il a raisonnablement et convenablement engagés dans l'exécution des travaux, plus <span class="input-required"><var>_________</var> <kbd>(<em>insérer « un tarif fixe, » ou « un profit, »</em>)</kbd></span> conformément à la base de paiement <span class="input-required"><var>_________</var> <kbd>(<em>insérer « à l'annexe <var>_____</var> » ou « détaillée ci-dessous »</em>)</kbd></span>, jusqu'à un prix plafond de <span class="input-required"><var>______</var>$ <kbd>(<em>insérer le montant au moment de l'attribution du contrat</em>)</kbd></span>. Les droits de douane <span class="input-required"><var>_______</var> <kbd>(<em>insérer « sont inclus », « sont exclus » ou « font l'objet d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
+<p class="description">(<em><strong>Insérer les détails de la base de paiement s'ils ne sont pas inclus dans une annexe</strong></em>.)</p>
+<h2>Option 2</h2>
+<p>Pour les travaux décrits <span class="input-required"><var>_________</var> <kbd>(<em>insérer la ou les sections appropriées de l'énoncé des travaux ou des besoins auxquelles s'applique la base de paiement s'applique</em>)</kbd></span> <span class="input-required"><var>________</var> <kbd>(<em>insérer « de l'énoncé des travaux » ou « des besoins »</em>)</kbd></span> à l'annexe <span class="input-required"><var>____</var></span> :</p>
+<p>L'entrepreneur sera payé pour les coûts qu'il a raisonnablement et convenablement engagés dans l'exécution des travaux, plus <span class="input-required"><var>_________</var> <kbd>(<em>insérer « un tarif fixe, » ou « un profit, »</em>)</kbd></span> conformément à la base de paiement <span class="input-required"><var>_________</var> <kbd>(<em>insérer « à l'annexe <span class="input-required"><var>_____</var> »</span> ou « détaillée ci-dessous »</em>)</kbd></span>, jusqu'à un prix plafond de <span class="input-required"><var>______</var>$ <kbd>(<em>insérer le montant au moment de l'attribution du contrat</em>)</kbd></span>. Les droits de douane <span class="input-required"><var>_______</var> <kbd>(<em>insérer « sont inclus », « sont exclus » ou « font l'objet d'une exemption »</em>)</kbd></span> et les taxes applicables sont en sus.</p>
+<p class="description">(<em><strong>Insérer les détails de la base de paiement s'ils ne sont pas inclus dans une annexe</strong></em>.)</p>
+</div></pre>
+</div>

@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Supplier agrees to provide a high level of security guard services, and 
+associated support equipment whenever applicable on an as-and-when 
+requested basis in accordance with the terms and conditions specified 
+herein on behalf of Departments and Agencies of the Federal Government in 
+the National Capital Region (NCR) area. Detailed calling-up procedures are 
+outlined on Annex "___" of this document.
+
+The precise nature and the extent of the security guard services to be 
+provided will be detailed in the call-up made on DSS forms 7169-1 and 7170-
+1. Sample forms incorporated in Annex "___" of this RFSO, form part of this 
+Standing Offer.
+
+
+</pre>
+</div>

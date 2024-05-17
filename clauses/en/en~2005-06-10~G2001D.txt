@@ -1,0 +1,76 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>It is highly advisable that all contracts contain this clause.  Commercial 
+General Liability insurance protects the Contractor against claims for damages 
+(principally property damage and bodily injury), the Contractor may cause by 
+negligence in its activities and operations whilst in performance of the 
+Contract.
+
+This clause comprises essential endorsements applicable to government 
+procurement contracts.  The noted description of the endorsements convey only 
+the intent of the coverage sought and standard insurance industry wording is the 
+expected requirement.
+
+The contracting officer should also refer to G2015D for important additional 
+endorsements that may apply to specific contracting areas and that are to be 
+individually selected and included in the endorsements found in this clause.
+
+If either the contracting officer or the client believes that the suggested 
+MINIMUM LIMIT of liability of $2,000,000 per accident or occurrence is not 
+sufficient, alternate limits may be established in consultation with the client 
+and Public Works and Government Services Canada's Risk Management and Insurance 
+Advisory Services at NCR RMIAS-SCGRA@pwgsc.gc.ca.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Commercial General Liability insurance shall be effected by the 
+       Contractor and maintained in force throughout the duration of the 
+       Contract, in an amount usual for a contract of this nature, but, in 
+       any case, for a limit of liability NOT LESS THAN $2,000,000 per 
+       accident or occurrence and in the annual aggregate.
+
+2.     The following endorsements must be included:
+
+       (a)    Additional Insured:  Canada is included as an additional 
+              insured, but only with respect to liabilities that may arise 
+              from the Contractor's own negligence in the performance of 
+              the Contract.
+
+              The interest of Canada as additional insured should read as 
+              follows: Canada, represented by ________ (<strong class="wsStyleUnderline">insert client 
+              department's name</strong>) and/or Public Works and Government 
+              Services Canada.
+
+       (b)    Notice of Cancellation or Amendment:  The Insurer agrees to 
+              provide the Contracting Authority thirty (30) days written 
+              notice of policy cancellation.
+
+       (c)    Cross Liability:  Without increasing the limit of liability, 
+              the policy shall protect all insured parties to the full 
+              extent of coverage provided.  Further, the policy shall apply 
+              to each Insured in the same manner and to the same extent as 
+              if a separate policy had been issued to each.
+
+       (d)    Contractual Liability:  The policy shall, on a blanket basis 
+              or by specific reference to this Contract, extend to assumed 
+              liabilities with respect to contractual insurance provisions.
+
+       (e)    Contingent Employer's Liability:  To protect the Contractor 
+              for liabilities arising in the management and administration 
+              of statutory and contractual entitlements of its employees. 
+
+       (f)    Employees and (where applicable) Volunteers as Additional 
+              Insured:  All employees and (where applicable) volunteers, on 
+              behalf of the Contractor, shall be included as additional 
+              insured.
+
+       (g)    Voluntary Medical Payments, $5,000 per person, $25,000 per 
+              accident:  To provide for expenses incurred in instances of 
+              minor accidental bodily injuries without determination of 
+              liability.
+
+       (h)    Non-owned Automobile:  To protect the Contractor for 
+              liabilities arising by its use of vehicles owned by other 
+              parties.
+
+</pre>
+</div>

@@ -1,0 +1,80 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats à prix ferme lorsque des paiements 
+progressifs seront versés par étape. Pour plus de renseignements, consulter l'article
+  
+   4.70.30.15
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   H3010C
+  
+  ou
+  
+   H3009C
+  
+  .
+ </p>
+<p>
+  Les agents de modification des contrats doivent modifier l'entête de chaque 
+colonne selon le cas.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le calendrier des étapes selon lequel les paiements seront
+faits en vertu du contrat est comme suit :</p>
+<table>
+<tbody><tr>
+<th>Numéro de l'étape</th>
+<th>
+Description ou « Livrable  »
+</th>
+<th>
+Montant ferme
+</th>
+<th>
+Date d'échéance ou
+« Date de livraison »
+</th>
+</tr>
+<tr>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+</tr>
+</tbody></table>
+</div></pre>
+</div>

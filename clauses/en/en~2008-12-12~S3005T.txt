@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for supply arrangements for service 
+requirements, when proposed individuals or individuals with similar 
+qualifications and experience will be available for the term of the supply 
+arrangement.
+ </p>
+<p>
+  When using the 2T-RFSA1 template, insert this clause, if applicable, in Part 5 
+under "Certifications Precedent to Issuance of a Supply Arrangement".
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Supplier certifies that, should it be issued a supply
+arrangement as a result of the request for supply arrangements,
+every individual proposed in the arrangement or individuals with
+similar qualifications and experience will be available for the
+term of the supply arrangement.</p>
+<p>If the Supplier has proposed any individual who is not an
+employee of the Supplier, the Supplier certifies that it has the
+permission from that individual to propose his/her services in
+relation to the Work to be performed and to submit his/her
+résumé to Canada. The Supplier must, upon request from
+the Supply Arrangement Authority, provide a written confirmation,
+signed by the individual, of the permission given to the Supplier
+and of his/her availability.</p>
+</div></pre>
+</div>

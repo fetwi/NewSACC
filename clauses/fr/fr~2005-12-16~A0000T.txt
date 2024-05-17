@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions en conjonction avec 
+les clauses A0000C et K0000D.  Pour les offres à commandes, utiliser la clause 
+M0000T.
+
+Ne pas utiliser pour les achats de faible valeur et les marchés de complexité 
+moyenne pour lesquels les modèles en langage clair sont utilisés en conjonction 
+avec les instructions uniformisées 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Toutes les instructions, clauses et conditions identifiées dans la demande 
+de soumissions par un titre, un numéro et une date sont reproduites dans le 
+guide des <em>Clauses et conditions uniformisées d'achat </em>publié par Travaux 
+publics et Services gouvernementaux Canada (TPSGC).  Le guide est 
+disponible sur le site Web de TPSGC : <strong class="wsStyleUnderline">http://sacc.tpsgc.gc.ca/sacc/index-f.jsp</strong>.
+
+Les soumissionnaires qui présentent une soumission s'engagent à respecter 
+les instructions, les clauses et les conditions de cette demande de 
+soumissions et acceptent les clauses et les conditions du contrat 
+subséquent.
+
+Conformément à la <em>Loi sur le ministère des Travaux publics et des Services 
+gouvernementaux</em>, L.C., 1996, ch. 16, les instructions, les clauses et les 
+conditions identifiées dans la demande de soumissions par un titre, un 
+numéro et une date sont incorporées par renvoi à la demande de soumissions 
+et au contrat subséquent et en font partie intégrante comme si elles 
+étaient formellement reproduites dans la demande de soumissions et le 
+contrat subséquent.
+
+Les instructions et conditions uniformisées _______ (________) (<strong><em>Insérer le 
+   numéro et la date</em></strong>) sont incorporées par renvoi à la demande de 
+   soumissions et en font partie intégrante.
+</pre>
+</div>

@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall deliver to the Technical Authority ____ copies of any 
+Service Bulletins produced which cover modifications, improvements, or 
+special maintenance actions to the deliverable end items purchased by 
+Canada. This service shall continue for a period of ____ year(s) after 
+delivery of the goods.
+
+</pre>
+</div>

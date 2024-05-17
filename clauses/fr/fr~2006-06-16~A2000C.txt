@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de biens et de services conclus 
+avec un entrepreneur canadien, lorsque l'entrepreneur pourrait devoir embaucher 
+des ressortissants étrangers (c.-à-d. des non-Canadiens ou des résidents non 
+permanents) pour travailler au Canada.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit se conformer aux exigences canadiennes en
+matière d'immigration relatives aux ressortissants
+étrangers qui doivent séjourner temporairement au Canada
+pour exécuter le contrat. Si l'entrepreneur souhaite embaucher
+un ressortissant étranger pour travailler au Canada, pour
+exécuter le contrat, il devrait communiquer immédiatement
+avec le bureau régional de Service Canada le plus près,
+pour obtenir des renseignements sur les exigences de
+Citoyenneté et Immigration Canada en ce qui concerne la
+délivrance d'un permis de travail temporaire à un
+ressortissant étranger. L'entrepreneur doit acquitter tous les
+frais occasionnés par suite de la non-conformité aux
+exigences en matière d'immigration.</p>
+</div></pre>
+</div>

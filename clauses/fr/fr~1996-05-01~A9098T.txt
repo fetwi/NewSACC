@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>En signant la première page de la présente demande de propositions, le 
+   soumissionnaire atteste que toutes les déclarations relatives aux études 
+   et à l'expérience des personnes proposées pour effectuer les travaux 
+   sont exactes et vraies.  Le soumissionnaire reconnaît que le Canada se 
+   réserve le droit de vérifier tout renseignement fourni à cet égard et 
+   qu'en cas de fausse déclaration, la proposition peut être déclarée 
+   irrecevable ou le Canada peut prendre toute autre mesure qu'il juge 
+   appropriée.
+</pre>
+</div>

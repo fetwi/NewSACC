@@ -1,0 +1,59 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les achats qui ont trait aux services 
+pertinents (tels que services de transport e télécommunications; services de 
+publicité; services professionnels et spéciaux; et achats de services de 
+réparation et d'entretien) si l'élément « service » est d'un montant de 500 $ ou 
+plus dans l'année civile, (y compris les contrats composés à la fois de biens et 
+de services.  Ceci inclus les contrats ou les offres à commandes attribués à des 
+Canadiens qui effectuent des travaux gouvernementaux à l'étranger, et lorsque le 
+ministère client désire recevoir l'information pertinente par le biais de la 
+facturation.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Conformément à l'alinéa 221 (1) d) de la <em>Loi de l'impôt sur le 
+       revenu</em>, les ministères et organismes sont tenus de déclarer à l'aide 
+       de feuillets T1204, Paiements contractuels de services du 
+       gouvernement, les paiements contractuels versés aux entrepreneurs en 
+       vertu de contrats de services pertinents (y compris les contrats 
+       composés à la fois de biens et de services).
+
+2.     Afin de permettre aux ministères et organismes de se conformer à 
+       cette exigence, l'entrepreneur est tenu de fournir les 
+       renseignements suivants avec sa première facture.  Lorsque 
+       l'information requise comprend le numéro d'assurance sociale (NAS), 
+       celle-ci doit être expédiée dans une enveloppe séparée portant 
+       l'inscription « PROTÉGÉE ».
+
+       a)     la dénomination sociale de l'entité ou de l'entreprise à 
+              propriétaire unique, selon le cas, c.-à-d. la nomination 
+              sociale associée au numéro d'entreprise ou au NAS, ainsi que 
+              l'adresse et le code postal;
+
+       b)     le type d'entité, c.-à-d. société, société de personnes, 
+              entreprise à propriétaire unique, ou coentreprise;
+
+       c)     le numéro d'entreprise, s'il s'agit d'une société ou d'une 
+              société de personnes ou le NAS, s'il s'agit d'une entreprise 
+              à propriétaire unique :
+
+              (i)    si l'entité est une société de personnes qui n'a pas 
+                     de numéro d'entreprise, le partenaire ayant signé le 
+                     contrat doit fournir son NAS;
+
+              (ii)   si l'entité est une coentreprise, le numéro 
+                     d'entreprise de tous les entrepreneurs faisant partie 
+                     de celle-ci, qui recevront un paiement (le NAS pour 
+                     les entrepreneurs pertinents qui n'ont pas de numéro 
+                     d'entreprise);
+
+       d)     l'attestation suivante, signée par l'entrepreneur ou un 
+              représentant autorisé :
+
+              <em>« Je certifie par la présente que j'ai examiné tous les 
+              renseignements fournis en a), b) et c) ci-dessus, qu'ils sont 
+              corrects et complets et qu'ils divulguent clairement 
+              l'identité du présent entrepreneur. »</em>
+
+</pre>
+</div>

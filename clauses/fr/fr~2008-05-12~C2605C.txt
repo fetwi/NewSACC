@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats avec des entrepreneurs établis à 
+l'étranger lorsque l'entrepreneur n'est pas responsable de l'importation de 
+biens au Canada, et lorsque les droits de douane et la taxe de vente, si 
+applicable, sont en sus du prix contractuel.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les droits de douane et la taxe de vente du Canada, si
+applicable, sont en sus du prix contractuel et payable par le
+Canada.</p>
+</div></pre>
+</div>

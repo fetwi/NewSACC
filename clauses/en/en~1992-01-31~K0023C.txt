@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Without restricting the terms and conditions of the Contract, and 
+   particularly Section 9 of General Conditions DSS 9076, it is hereby 
+   understood and agreed that Her Majesty shall not be liable for any 
+   losses, claims, damages, or expenses relating to any injury, disease, 
+   illness, disability or death of any employee, agent or representative of 
+   the Contractor caused or alleged to be caused as a result of performing 
+   the Contract. The Contractor agrees to fully protect and indemnify Her 
+   Majesty and not to make any claims or demands against Her Majesty in 
+   respect of any of the foregoing contingencies.  
+</pre>
+</div>

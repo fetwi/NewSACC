@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions non 
+concurrentielles pour des contrats avec des taux horaires fixes, pour des 
+services commerciaux d'une valeur de 50 000 $ ou plus, soumises à un 
+soumissionnaire établi au Canada.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   C0100C
+  
+  ou
+  
+   C0705C
+  
+  , selon le cas.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le soumissionnaire atteste que le taux proposé :</p>
+<ol type="a">
+<li value="1">n'est pas supérieur au plus bas taux
+demandé à tout autre client, y compris au meilleur client
+du soumissionnaire, pour une qualité et une quantité
+semblables de services;</li>
+<li value="2">ne comprend aucun élément de
+bénéfice sur la vente qui soit supérieur à
+celui que le soumissionnaire réalise normalement pour des
+services de qualité et de quantité semblables, et</li>
+<li value="3">ne comprend aucune disposition prévoyant des
+escomptes à des vendeurs.</li>
+</ol>
+</div></pre>
+</div>

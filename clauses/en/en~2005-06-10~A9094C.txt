@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when a proposed contractor has started work at its own 
+risk without the authorization of a government official, prior to contract 
+authorization, and the work has not been completed.  This will ensure that the 
+work done prior to the contract date will be covered by the contract.  
+
+If the work has been completed, the contracting officer must request that a 
+confirming order be prepared by legal counsel.
+
+The second paragraph is to be deleted if the client department does not wish to 
+retain the rights to the intellectual property.  In addition, add clause C0210C 
+to the Basis of Payment.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In order to meet its obligations set forth in this Contract, it is 
+       recognized by the Parties that the Contractor, as of _____ ,  has 
+       started the Work required pursuant to this Contract prior to the 
+       effective date of this Contract (Pre-contractual Work) and has 
+       incurred certain costs directly related to the Work which, if they 
+       had been incurred after such date, would have been otherwise treated 
+       as costs reasonably and properly incurred by the Contractor in the 
+       performance of this Contract.  Inasmuch as the incurring of these 
+       costs was necessary to comply with the terms of this Contract, such 
+       cost shall be treated as costs reasonably and properly incurred by 
+       the Contractor in performance of this Contract.  The Contractor 
+       agrees that upon such payment by Canada to the Contractor, Canada 
+       shall be released and forever discharged from all manner of actions, 
+       claims, suits or demands in relation to the Pre-contractual Work.  
+       The Contractor further agrees to complete the Work in accordance 
+       with the terms and conditions of this Contract.
+
+2.     The Parties hereby confirm that copyright in the Pre-contractual 
+       Work shall vest and remain in Canada and that ownership of all 
+       intellectual property rights in all information of a scientific, 
+       technical or artistic nature relating to the Work, in any for or 
+       medium, conceived, developed or produced by the Contractor in the 
+       performance of the Pre-contractual Work shall vest and remain in 
+       Canada.
+
+
+</pre>
+</div>

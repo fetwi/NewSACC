@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>If the following clause is used, enter fill-in data.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A copy of the _____ referred to herein is available and may be purchased 
+from: 
+
+CGSB Sales Centre
+Place du Portage, Phase III, 6B1
+11 Laurier Street
+Hull, Québec   K1A 1G6
+
+Phone: (819) 956-0425, or
+       1-800-665-CGSB (Canada only)
+Fax:   (819) 956-5644
+
+Internet address:    <strong>http://www.pwgsc.gc.ca/cgsb</strong>
+
+
+</pre>
+</div>

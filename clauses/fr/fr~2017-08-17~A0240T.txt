@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions pour les besoins maritimes. Les agents de négociation des contrats doivent utiliser le plus récent tableau de l'est ou de l'ouest du Canada approuvé par le directeur de la Direction des radoubs, de la logistique et de la construction de petits navires pour dresser la liste des chantiers navals ou des installations de radoub où les travaux pourraient être exécutés conformément au paragraphe 2 de cette clause.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent inclure, à partir du tableau, les frais applicables de transfert du navire pour chaque chantier naval ou installation de radoub figurant sur la liste, en tenant compte de l'emplacement du port d'attache du navire et des travaux de radoub avec ou sans équipage. Lorsque le tableau ne mentionne aucun port d'attache précis pour le navire ou le nom d'un chantier naval ou d'une installation de radoub où les travaux pourraient être exécutés, les agents de négociation des contrats doivent communiquer avec le directeur de la Direction des radoubs, de la logistique et de la construction de petits navires, soit par téléphone au : 819-420-2910 ou par télécopieur au 819-956-0040, pour obtenir les renseignements nécessaires.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le prix d'évaluation doit inclure les frais de transfert du navire du port d'attache jusqu'au chantier naval ou à l'installation de radoub où les travaux seront exécutés, et de son retour au port d'attache une fois les travaux terminés, conformément à ce qui suit :
+<ol type="a">
+<li value="1">Le soumissionnaire doit fournir l'emplacement du chantier naval ou de l'installation de radoub où il propose d'exécuter les travaux ainsi que les frais applicables de transfert du navire, à partir de la liste fournie au paragraphe 2 de cette clause.
+<br/>Chantier naval ou installation de radoub : <var>______</var>
+<br/>Frais applicables de transfert du navire : <var>______</var>
+</li>
+<li value="2">Si l'emplacement du chantier naval ou de l'installation de radoub où le soumissionnaire a l'intention d'exécuter les travaux n'apparaît pas sur la liste fournie au paragraphe 2 de cette clause, le soumissionnaire doit, au moins <span class="input-required"><var>______</var> jours civils <kbd><em>(<strong>insérer le nombre de jours</strong>)</em></kbd></span> avant la date de clôture des soumissions, aviser par écrit l'autorité contractante de l'emplacement proposé pour l'exécution des travaux. L'autorité contractante confirmera par écrit au soumissionnaire, au moins <span class="input-required"><var>____</var> jours civils <kbd><em>(<strong>insérer le nombre de jours</strong>)</em></kbd></span> avant la date de clôture des soumissions, l'emplacement du chantier naval ou de l'installation de radoub et les frais applicables de transfert du navire.</li>
+</ol>
+<br/>Toute soumission précisant un emplacement pour l'exécution des travaux qui ne figure pas sur la liste au paragraphe 2 de cette clause et pour laquelle un avis écrit n'a pas été reçu par l'autorité contractante comme cela est indiqué ci-dessus, sera déclarée non recevable.
+</li>
+<li value="2">Liste des chantiers navals ou des installations de radoub ainsi que des frais applicables de transfert du navire :
+<br/>Navire : <var>_____</var>
+<br/>Port d'attache : <var>_____</var>
+<br/>Dans le cas des navires transférés avec un équipage du gouvernement, les frais de transfert incluent le coût du carburant à la vitesse de transit du navire la plus économique et le coût des travaux de radoub sans équipage seulement, ainsi que les frais de transport de l'équipage responsable de la livraison, basés sur le port d'attache du navire et du chantier naval ou de l'installation de radoub. Les frais de transport de l'équipage n'incluent pas les frais pour les membres de l'équipage de livraison qui demeurent au chantier naval ou à l'installation de radoub afin d'exécuter les tâches du projet liées au transfert du navire.
+<br/>Dans le cas des navires transférés sans équipage par remorquage commercial, par chemin de fer, par route ou tout autre moyen de transport convenable, les frais de transfert doivent :
+<ol type="i">
+<li value="1">faire partie de la soumission financière du soumissionnaire lorsque celui-ci est responsable du transfert; ou</li>
+<li value="2">être identifiés en tant que frais applicables de transfert du navire, selon la liste ci-dessous, lorsque le Canada est responsable du transfert.</li>
+</ol>
+</li>
+</ol>
+<p class="description"><em>(Les agents de négociation des contrats doivent établir la liste des chantiers navals ou des installations de radoub où les travaux pourraient être exécutés et indiquer les frais applicables de transfert du navire, basés sur le plus récent tableau approuvé par la Direction des radoubs, de la logistique et de la construction de petits navires.)</em></p>
+<table>
+<tbody><tr>
+<th>Chantiers navals ou installations de radoub</th>
+<th>Frais applicables de transfert du navire</th>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+<tr>
+<td><var>__________________________</var></td>
+<td><var>__________________________</var></td>
+</tr>
+</tbody></table>
+</div></pre>
+</div>

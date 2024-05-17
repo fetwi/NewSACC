@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer must edit the clause as required by the situation.  If 
+there are modifications required to clause GC 9 in R1250D or in R1650D, these 
+must be reflected here.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Supplementary to what is required under GC 9.2, the Consultant shall 
+       maintain the following supplementary insurance coverage:
+       
+       (a)    Commercial General Liability shall have a limit of liability 
+              of not less than $ _____ for any one occurrence or series of 
+              occurrences arising out of one cause, and shall have property 
+              damage deductible of not more than $ _____ per occurrence. 
+
+       (b)    Professional Liability shall have a limit of liability of not 
+              less than $ _____ per claim.
+
+       (c)    the premium, if any, for Supplementary Insurance bringing the 
+              liability coverage from $1,000,000 to $ _____ shall be 
+              reimbursed to the Consultant at actual cost.  The amount 
+              payable, shall not exceed the amount entered in the Agreement 
+              Particulars, without the prior authorization of the 
+              Departmental Representative.
+
+</pre>
+</div>

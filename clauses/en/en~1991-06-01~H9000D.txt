@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The clause below shall be included in all bid solicitations and contract 
+documents apart from those utilising General Conditions - Short Form, DSS-MAS 
+9329.  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Payment under the Contract is subject to there being an appropriation for 
+   the particular requirement during the fiscal year when any commitment 
+   under the Contract would occur.  
+</pre>
+</div>

@@ -1,0 +1,34 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Risks arising from work under the contract should be identified and assessed to 
+ensure that the contractor is adequately insured and to protect the interests of 
+Canada.  Procurement officers are advised to establish with their clients, based 
+on the Treasury Board Risk Management Policy, Chapter 2-1, Materiel, Risk and 
+Common Services Volume, Information and Administrative Management Manual, 
+whether or not: (1) the self-underwriting option of Canada is applicable; (2) 
+the contractor is responsible for the risks; and, (3) commercial insurance is 
+necessary.
+
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     It shall be the sole responsibility of the Contractor to decide 
+       whether or not any other insurance coverage, in addition to the 
+       insurance requirements stipulated in the bid solicitation and 
+       resulting contract, is necessary for its own protection or to fulfil 
+       its obligations under the Contract.  Any such additional insurance 
+       shall be provided and maintained by the Contractor at its own 
+       expense.
+
+       The foregoing insurance provisions shall not limit any insurance 
+       required by federal, provincial or municipal law.
+
+2.     To meet the insurance requirements of the Contract, the Contractor 
+       shall forward to the Contracting Authority, upon the execution of 
+       the Contract, either a certified true copy of the insurance policy 
+       or the certificate of insurance containing reasonable detail of the 
+       insurance coverage, exclusions, deductibles and conditions applying 
+       to such policies and confirming that the insurance is in force to 
+       meet these requirements.
+
+</pre>
+</div>

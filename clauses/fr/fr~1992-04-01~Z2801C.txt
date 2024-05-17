@@ -1,0 +1,133 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats lorsque le contrat américain le 
+stipule.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">L'Entrepreneur garantit que les prix unitaires
+déclarés ici-même, à l'exclusion de toute
+portion des prix correspondant à des normes de protection, de
+conditionnement et d'emballage supérieures aux normes
+commerciales habituelles, ne dépassent pas les prix habituels
+de l'Entrepreneur en vigueur à la date d'ouverture des
+soumissions (ou date du Contrat, s'il s'agit d'un Contrat
+négocié plutôt qu'un Contrat obtenu par
+l'utilisation de la publicité) et pour un quantité de
+marchandises équivalente à celle prévue par le
+présent Contrat.</li>
+<li value="2">L'Entrepreneur avertira dans les plus brefs
+délais l'Agent de négociation des contrats du montant et
+de la date d'entrée en vigueur de toute diminution de prix
+déterminé et chaque prix unitaire sera réduit du
+montant en question. Toute diminution d'un prix unitaire
+s'appliquera aux marchandises livrées le, ou après le
+jour d'entrée en vigueur de la diminution des prix
+déterminés de l'Entrepreneur, et le Contrat sera
+modifié en conséquence. L'Entrepreneur attestera sur
+chaque facture présentée en vertu du Contrat que chacun
+des prix unitaires déclarés correspond à toutes les
+diminutions éventuelles que l'Entrepreneur aura fait subir
+à ses prix depuis la date d'ouverture des soumissions (ou du
+Contrat, si celui-ci a été négocié plutôt
+qu'obtenu par l'utilisation de la publicité), ou attestera sur
+la facture finale que toutes les diminutions éventuelles ont
+été appliquées aux marchandises livrées le, ou
+après le jour d'entrée en vigueur de ces
+diminutions.</li>
+<li value="3">L'Entrepreneur pourra, de temps à autre,
+après la date du Contrat et au cours de son exécution,
+demander par écrit à l'Agent de négociation des
+contrats de la <abbr title="Corporation commerciale canadienne">CCC</abbr> une augmentation de n'importe quel prix unitaire
+du Contrat, devant entrer en vigueur à une date
+précisée par l'Entrepreneur. Cette demande sera
+traitée conformément aux articles suivants de la
+présente clause.</li>
+<li value="4">L'augmentation d'un prix unitaire ne peut être
+effectuée en vertu de la présente clause qu'aux conditons
+suivantes :
+<ol type="1">
+<li value="1">Une augmentation de ce type n'est possible que si le
+prix officiel de l'Entrepreneur a augmenté après la date
+d'ouverture des soumissions (ou la date du Contrat si celui-ci a
+été négocié plutôt qu'obtenu par
+l'utilisation de la publicité).</li>
+<li value="2">Aucun prix unitaire ne pourra être augmenté
+d'un montant supérieur au montant de l'augmentation du prix
+officiel de l'Entrepreneur.</li>
+<li value="3">Le montant global des augmentations d'un prix
+unitaire effectuées en vertu de la présente clause ne
+dépassera pas dix (10) pour cent du prix unitaire initial du
+Contrat.</li>
+<li value="4">Aucun prix unitaire ainsi modifié n'entrera en
+vigueur avant la date d'entrée en vigueur de l'augmentation du
+prix officiel déterminé, mais si la demande
+d'augmentation de l'Entrepreneur parvient à l'Agent de
+négociation des contrats plus de dix (10) jours après la
+date d'entrée en vigueur de l'augmentation du prix officiel,
+le prix unitaire modifié ne pourra entrer en vigueur avant la
+date de réception de la demande par l'Agent de
+négociation des contrats.</li>
+<li value="5">Aucune augmentation de prix unitaire ne sera
+autorisée pour des marchandises qui devaient, selon le
+calendrier de livraison, être livrées avant la date
+d'entrée en vigueur de l'augmentation du prix officiel de
+l'Entrepreneur, à moins que les marchandises ne soient
+livrées en retard par suite de conditions indépendantes
+de la volonté de l'Entrepreneur et sans qu'il y ait faute ni
+négligence de sa part selon les termes du paragraphe c) de la
+clause de présent Contrat intitulée
+« Inexécution », auquel cas le Contrat pourra
+être modifié de façon à permettre une extension
+raisonnable du calendrier de livraison.</li>
+</ol>
+</li>
+<li value="5">Si la demande d'augmentation d'un prix unitaire en
+vertu du Contrat est jugée acceptable par l'Agent de
+négociation des contrats de la <abbr title="Corporation commerciale canadienne">CCC</abbr>, celui-ci devra en avertir
+l'Entrepreneur, et le Contrat sera modifié en
+conséquence. Si tel n'est pas le cas ou si l'Agent de
+négociation des contrats n'en vient pas à un accord avec
+l'Entrepreneur au sujet d'une augmentation de prix, l'Agent de
+négociation des contrats peut dans les trente (30) jours
+suivant la réception de la demande de l'Entrepreneur, annuler
+- sans responsabilité envers aucune partie - le droit de
+l'Entrepreneur à poursuivre l'exécution de telle partie
+du Contrat non exécutée au moment de l'annulation, sauf
+que l'Entrepreneur peut livrer, en tout ou en partie, les
+marchandises dont un agent dûment autorisé attestera
+qu'elles étaient prêtes pour livraison ou en cours de
+fabrication au moment où l'avis d'annulation a été
+reçu. Dans ce cas, la <abbr title="Corporation commerciale canadienne">CCC</abbr> paiera toutes les marchandises
+livrées au prix unitaire demandé par l'Entrepreneur, et
+le Contrat sera modifié en conséquence, pourvu que cette
+attestation soit effectuée dans les dix (10) jours suivant la
+réception de l'avis d'annulation, et pourvu que la demande
+d'augmentation satisfasse à l'ensemble de ces conditions et ne
+dépasse pas les limites précisées au paragraphe d).
+Si le présent Contrat concerne des marchandises de série
+en acier, on considérera que la fabrication est commencée
+dès que l'acier se trouve à n'importe quel stage de
+traitement après le début de la fonte.</li>
+<li value="6">Au cours de la période suivant la demande
+d'augmentation et en attendant l'accord entre les parties, ou
+l'annulation du Contrat en vertu du paragraphe e), l'Entrepreneur
+sera payé pour ces livraisons au prix unitaire augmenté
+demandé, pourvu que ces augmentations satisfassent à
+toutes les conditions établies et ne dépassent pas les
+limites précisées au paragraphe d) et pourvu que, si les
+parties s'entendent sur une augmentation inférieure à la
+demande, les paiements déjà effectués au montant
+demandé soient modifiés en conséquence. Si l'Agent
+de négociation des contrats de la <abbr title="Corporation commerciale canadienne">CCC</abbr> n'en vient pas à un
+accord avec l'Entrepreneur sur l'augmentation demandée et
+n'annule pas le Contrat, l'Entrepreneur sera payé
+conformément aux prix unitaires augmentés demandés,
+pourvu que ces augmentations satisfassent à toutes les
+conditions établies et ne dépassent pas les limites
+précisées au paragraphe d).</li>
+</ol>
+</div></pre>
+</div>

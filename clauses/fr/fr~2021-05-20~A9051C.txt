@@ -1,0 +1,65 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats portant sur l'achat d'équipement lorsque le Canada demande des droits pour la traduction des publications existantes.
+ </p>
+<p>
+  Lorsque l'entrepreneur fournira des documents expressément rédigés dans le cadre 
+des travaux faisant l'objet du contrat, il faut utiliser l'une des conditions 
+générales suivantes :
+  
+   2010A
+  
+  ,
+  
+   2010B
+  
+  ,
+  
+   2010C
+  
+  ,
+  
+   2030
+  
+  ,
+  
+   2035
+  
+  ou
+  
+   2040
+  
+  .  Conformément à 
+ces conditions générales, le Canada détient les droits de traduction des 
+documents rédigés par l'entrepreneur dans le cadre du contrat étant donné qu'il 
+détient les droits d'auteur des travaux.  Dans le cas où des publications 
+rédigées dans le cadre des travaux et des publications existantes doivent être 
+fournis par l'entrepreneur, cette clause doit être utilisée de concert avec les 
+conditions générales pertinentes.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur accorde au Canada une licence non-exclusive,
+perpétuelle, irrévocable et libre de redevance pour la
+traduction et la reproduction en tout ou en partie, pour l'usage
+exclusif du gouvernement, des publications techniques fournies avec
+l'équipement livré dans le cadre du contrat. Les droits
+d'auteur des traductions effectuées par le Canada ou par des
+entrepreneurs indépendants engagés par le Canada
+appartiendront au Canada.</p>
+<p class="description"><strong>Instruction aux agents de négociation des
+contrats :</strong> Supprimer ce qui suit pour les besoins
+qui ne sont pas pour le ministère de la Défense
+nationale.</p>
+<p>En plus des exemplaires qui doivent être livrés avec
+l'équipement, <var>_____</var> exemplaires de chaque
+publication doivent être envoyés à l'adresse
+suivante :</p>
+<p>Ministère de la Défense nationale<br/>
+Édifice du Mgén George Pearkes<br/>
+Ottawa, Canada<br/>
+K1A 0K2<br/>
+À l'attention de : <var>_______________</var> .</p>
+</div></pre>
+</div>

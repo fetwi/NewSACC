@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante lorsque des marchandises dangereuses/produits 
+dangereux doivent être transportés dans le cadre de l'exécution des travaux.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit marquer les marchandises dangereuses/produits dangereux qui sont classés comme dangereux comme suit :
+<ol type="a">
+<li value="1">contenant utilisé pour le transport - conformément à la Loi de 1992 sur le transport des marchandises dangereuses, <abbr title="chapitre">ch.</abbr> 34; et</li>
+<li value="2">contenant pour produit immédiat - conformément à la Loi sur les produits dangereux, <abbr title="Lois révisées">L.R.</abbr>, 1985, <abbr title="chapitre">ch.</abbr> H-3.</li>
+</ol>
+</li>
+<li value="2">L'entrepreneur doit fournir les fiches de données de sécurité bilingues, indiquant le numéro de nomenclature de l'<abbr title="Organisation du traité de l'Atlantique Nord">OTAN</abbr> comme suit :
+<ol type="a">
+<li value="1">deux copies papier :
+<ol type="i">
+<li value="1">une copie doit être jointe à l'envoi, et</li>
+<li value="2">une copie doit être envoyée au :<br/>
+Quartier général de la Défense nationale<br/>
+Édifice MGén George R. Pearkes<br/>
+101, Promenade du Colonel By<br/>
+Ottawa (Ontario) K1A 0K2<br/>
+À l'attention de : <abbr title="Directeur - Opérations de la chaîne d'approvisionnement">DOCA</abbr> 5-4-2</li>
+</ol>
+</li>
+<li value="2">une copie dans tout format électronique envoyée à l'adresse suivante : MSDS-FS@FORCES.GC.CA.</li>
+</ol>
+</li>
+<li value="3">L'entrepreneur sera responsable des dommages causés par un emballage, étiquetage ou transport inapproprié de ces marchandises dangereuses/produits dangereux.</li>
+<li value="4">L'entrepreneur doit respecter tous les règlements relatifs aux marchandises dangereuses/produits dangereux prévus par les lois fédérales, provinciales et municipales.</li>
+<li value="5">L'entrepreneur doit communiquer avec le destinataire (Section du mouvement du dépôt d'approvisionnement) au moins 48 heures avant la date prévue de livraison des marchandises dangereuses/produits dangereux afin d'établir l'horaire de réception.</li>
+</ol>
+</div></pre>
+</div>

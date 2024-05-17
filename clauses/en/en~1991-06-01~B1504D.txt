@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Lead acid batteries are to be supplied in a dry charged state. Alkaline 
+   batteries are to be supplied in a wet uncharged state. In the event that 
+   the supplier advises in writing that the item(s) demanded is(are) not 
+   available as specified above, the originator of the requirement shall be 
+   contacted prior to the awarding of the DSS Contract. Batteries that are 
+   supplied contrary to this clause without prior approval of the DSS 
+   officer will be returned at the supplier's expense to his plant for 
+   exchange or credit. 
+</pre>
+</div>

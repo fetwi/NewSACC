@@ -1,0 +1,62 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions lorsqu'une garantie 
+financière de soumission est exigée.
+
+Utiliser cette clause en conjonction avec E0008T et, E0009T ou E0003T selon le 
+cas.
+
+Les agents de négociation des contrats doivent compléter les paragraphes 3 et 4 
+de la clause avant d'émettre la demande de soumissions.
+
+Les agents de négociation des contrats devraient consulter le procédures 6C.279 
+à 6C.287, 7A.020 à 7A.024, 7E.551, 7E.552 du Guide des approvisionnements, et la 
+section 12.11 de la Politique du Conseil du Trésor.  Cette liste n'est pas 
+exhaustive.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Les soumissionnaires doivent fournir une garantie financière de 
+soumission sous forme de :
+
+       a) dépôt de garantie tel qu'il est défini à la clause E0008T, ou
+
+       b) cautionnement de soumission (formulaire PWGSC-TPSGC 504 
+          disponible à l'adresse suivante : http://www.tpsgc.gc.ca/
+          acquisitions/text/forms/forms-f.html) lequel doit être accepté à 
+          titre de garantie par une des compagnies de cautionnement 
+          énumérées à l'appendice L, Compagnies de cautionnement reconnues, 
+de la Politique sur les marchés du Conseil du Trésor (http://www.tbs-
+          nullsct.gc.ca/pubs_pol/dcgpubs/Contracting/contractingpol_l_f.html).
+
+2.     Les dépôts de garantie sous forme d'obligations garanties par le 
+       gouvernement qui comprennent des coupons seront acceptés seulement 
+       si tous les coupons non échus, lorsque le dépôt est fourni, sont 
+       attachés aux obligations.  Les soumissionnaires doivent fournir des 
+       instructions écrites concernant le traitement des coupons qui 
+       viendront à échéance pendant que les obligations sont retenues à 
+       titre de garantie, lorsque ces coupons excèdent les exigences du 
+       dépôt de sécurité.
+
+3.     Si la garantie financière est sous forme d'une lettre de change ou 
+       d'une obligation garantie par le gouvernement et :
+
+       a) le prix de la soumission est de 250 000 $ ou moins, le montant du 
+          dépôt de sécurité doit représenter ____ (___) p. 100 du prix de 
+          la soumission; ou
+
+       b) le prix de la soumission est de plus de 250 000 $, le montant du 
+          dépôt de sécurité doit être d'une valeur de ______ $, plus  ____ 
+          (___) p. 100 de la différence entre le prix de la soumission et 
+          250 000 $, jusqu'à concurrence de _____ $.
+
+4.     Si la garantie financière est un cautionnement de soumission, le 
+       montant du cautionnement doit représenter ____ (___) p. 100 du prix 
+       de la soumission.
+
+5.     Les soumissionnaires qui fournissent un dépôt de garantie à titre de 
+       garantie financière de soumission sont tenus de présenter leur 
+       soumission scellée (sauf au Québec).
+
+
+
+</pre>
+</div>

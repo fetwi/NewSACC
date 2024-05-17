@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause must be used in purchase documents when a customer, other 
+than the National Research Council, claims exemption of customs duty for goods 
+imported under Tariff items 69605-1 or 69605-2.  The goods have to be used in 
+teaching, research or other specified use.  Indicate the end-use and the 
+authority number.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The goods described herein are of a class or kind enumerated in Customs 
+   Tariff items 69605-1 or 69605-2 and are therefore exempt from customs 
+   duty.  The goods are for use directly in _____ by _____ (authority no. _____ ).  
+   The Contractor certifies that the prices quoted herein do not contain 
+   any amount representing customs duty.
+</pre>
+</div>

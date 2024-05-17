@@ -1,0 +1,29 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The following clause is to be used when it is anticipated that clients will pay 
+invoices associated with the contract or call-ups under the standing offer by 
+Government of Canada Acquisition Card (credit card), and the bidder has 
+indicated in clause H3027T that payment of invoices by credit card will be 
+accepted. (Refer to the Supply Manual, procedure 7.042).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Government of Canada Acquisition Cards (credit cards) will be 
+       accepted for payment of invoices up until the ____ day (as specified 
+       by bidder) of the payment period as set out in the Contract or 
+       Standing Offer. Payment of invoices after this date will only be 
+       accepted by Government of Canada cheque, direct deposit, or 
+       electronic funds transfer, and will be subject to the Payment and 
+       Interest on Overdue Accounts provisions set out in General 
+       Conditions DSS-MAS ____.
+
+2.     The use of a credit card as the payment instrument will / will not 
+       (as specified by bidder) preclude early payment incentives.
+
+3.     The following credit card(s) (as specified by bidder) are accepted:
+
+       (a)    VISA ____
+       (b)    Mastercard ____
+       (c)    American Express ____
+
+</pre>
+</div>

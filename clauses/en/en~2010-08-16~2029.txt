@@ -1,0 +1,467 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+01     Interpretation
+02     Standard Clauses and Conditions
+03     Status of the Contractor
+04     Condition of Material
+05     Inspection, Acceptance and Warranty
+06     Invoice Submission
+07     Taxes
+08     Transportation Costs
+09     Shipment Documentation
+10     Payment Period
+11     Interest on Overdue Accounts
+12     Audit 
+13     Compliance with Applicable Laws
+14     Time of the Essence
+15     Ownership
+16     Government Property
+17     Amendment and Assignment
+18     Default by the Contractor
+19     Termination for Convenience
+20     Right of Set-off
+21     Conflict of Interest and Values and Ethics Codes for the Public 
+Service
+22     Contingency Fees
+23     International Sanctions
+24     Code of Conduct for Procurement
+25     Entire Agreement
+26     Transportation Carriers' Liability
+
+<strong>2029   01     (2008-05-12)  Interpretation </strong>
+
+In the Contract, unless the context otherwise requires:
+
+"Articles of Agreement" means the clauses and conditions set out in full 
+text or incorporated by reference from the <em>Standard Acquisition Clauses and 
+Conditions</em> Manual to form the body of the Contract; it does not include 
+these general conditions, any supplemental general conditions, annexes, the 
+Contractor's bid or any other document.
+
+"Canada", "Crown", "Her Majesty" or "the Government" means Her Majesty the 
+Queen in right of Canada as represented by the Minister of Public Works and 
+Government Services and any other person duly authorized to act on behalf 
+of that minister or, if applicable, an appropriate minister to whom the 
+Minister of Public Works and Government Services has delegated his or her 
+powers, duties or functions and any other person duly authorized to act on 
+behalf of that minister;
+
+"Contract" means the Articles of Agreement, these general conditions and 
+any other document specified or referred to as forming part of the Contract, 
+all as amended by agreement of the Parties from time to time;
+
+"Contracting Authority" means the person designated by that title in the 
+Contract, or by notice to the Contractor, to act as Canada's representative 
+to manage the Contract;
+
+"Contractor" means the person, entity or entities named in the Contract to 
+supply goods, services or both to Canada;
+
+"Contract Price" means the amount stated in the Contract to be payable to 
+the Contractor for the Work, exclusive of Goods and Services Tax and 
+Harmonized Sales Tax;
+
+"Government Property" means anything supplied to the Contractor by or on 
+behalf of Canada for the purposes of performing the Contract and anything 
+acquired by the Contractor in any manner in connection with the Work, the 
+cost of which is paid by Canada under the Contract;
+
+"Party" means Canada, the Contractor, or any other signatory to the 
+Contract and "Parties" means all of them;
+
+"Work" means all activities, services, goods, equipment, matters and things 
+required to be done, delivered or performed by the Contractor under the 
+Contract.
+
+<strong>2029   02     (2008-05-12)  Standard Clauses and Conditions</strong>
+
+Pursuant to the <em>Department of Public Works and Government Services Act</em>, S.C. 
+1996, c.16, the clauses and conditions identified by number, date and title 
+in the Contract are incorporated by reference and form part of the Contract 
+as though expressly set out in the Contract.
+
+<strong>2029   03     (2008-05-12)  Status of the Contractor</strong>
+
+The Contractor is as an independent Contractor engaged by Canada to perform 
+the Work.  Neither the Contractor nor any of its personnel is engaged as an 
+employee, servant or agent of Canada. The Contractor is responsible for all 
+deductions and remittances required by law in relation to its employees. 
+
+<strong>2029   04     (2008-05-12)  Condition of Material</strong>
+
+Unless provided otherwise in the Contract, material supplied must be new 
+and conform to the latest issue of the applicable drawing, specification 
+and part number that is in effect on the bid solicitation closing date or, 
+if there was no bid solicitation, the date of the Contract.
+
+<strong>2029   05     (2010-01-11)  Inspection, Acceptance and Warranty</strong>
+
+1.     The Contractor must perform the Work efficiently in accordance with 
+       standards of quality acceptable to Canada and in full conformity 
+       with all the requirements of the Contract.
+
+2.     All the Work is subject to inspection and acceptance by Canada.  
+       Despite inspection and acceptance of the Work by or on behalf of 
+       Canada and without restricting any provisions of the Contract or any 
+       condition, warranty or provision imposed by law, the Contractor, if 
+       requested by  Canada to do so, must replace, repair or correct, at 
+       its own option and expense any work that becomes defective or fails 
+       to conform to the  requirements of the Contract, where applicable.  
+       For goods, the warranty period will be twelve (12) months after 
+       delivery and acceptance of the Work or the length of the Contractor'
+       s or manufacturer's standard warranty period, whichever is longer.
+
+3.     Canada must pay the transportation cost associated with returning 
+       the Work or any part of the Work to the Contractor's plant for 
+       replacement, repair or making good, and the Contractor must pay the 
+       transportation cost associated with forwarding the replacement or 
+       returning the Work or part of the Work when rectified to the 
+       delivery point specified in the Contract or to another location as 
+       directed by Canada.  If, in the opinion of Canada, it is not 
+       expedient to remove the Work from its location, the Contractor must 
+       carry out any necessary repair or making good of the Work at that 
+       location and will be reimbursed its reasonable travel and living 
+       expenses.
+
+4.     The warranty period is automatically extended by the duration of any 
+       period or periods where the Work is unavailable for use or cannot be 
+       used because of a defect or non-conformance during the original 
+       warranty period.  The warranty applies to any part of the Work 
+       replaced, repaired or corrected<em> </em>pursuant to subsection 2, for the 
+       greater of:
+
+       (a)    the warranty period remaining, including the extension, or
+
+       (b)    ninety (90) days or such other period as may be specified for 
+              that purpose by agreement between the Parties.
+
+<strong>2029   06     (2008-05-12)  Invoice Submission</strong>
+
+1.     Invoices must be submitted in the Contractor's name.  The Contractor 
+       must submit invoices for each delivery or shipment; invoices must 
+       only apply to the Contract.  Each invoice must indicate whether it 
+       covers partial of final delivery.
+
+2.     Invoices must show:
+
+       (a)    the date, the name and address of the client department, item 
+              or reference numbers, deliverable and/or description of the 
+              Work, contract number, Client Reference Number (CRN), 
+              Procurement Business Number (PBN), and financial code(s);
+
+       (b)    details of expenditures in accordance with the Basis of 
+              Payment, exclusive of Goods and Services Tax (GST) or 
+              Harmonized Sales Tax (HST) (such as item, quantity, unit of 
+              issue, unit price, fixed time labour rates and level of 
+              effort, subcontracts, as applicable);
+
+       (c)    deduction for holdback, if applicable;
+
+       (d)    the extension of the totals, if applicable; and
+
+       (e)    if applicable, the method of shipment together with date, 
+              case numbers and part or reference numbers, shipment charges 
+              and any other additional charges.
+
+3.     If applicable, the GST or HST must be specified on all invoices as a 
+       separate item. All items that are zero-rated, exempt or to which the 
+       GST or HST does not apply, must be identified as such on all 
+       invoices.
+
+4.     By submitting an invoice, the Contractor certifies that the invoice 
+       is consistent with the Work delivered and is in accordance with the 
+       Contract.
+
+<strong>2029   07     (2010-08-16)  Taxes</strong>
+
+1.     Municipal Taxes
+       Municipal Taxes are not applicable.
+
+2.     Provincial Taxes
+
+       (a)    Excluding legislated exceptions, federal government 
+              departments and agencies are not required to pay any sales 
+              tax payable to the province in which the taxable goods or 
+              services are delivered.  This exemption has been provided to 
+              federal government departments and agencies under the 
+              authority of one of the following:
+
+              (i)    Provincial Sales Tax (PST) Exemption License Numbers, 
+                     for the provinces of:
+
+                     Prince Edward Island OP-10000-250
+                     Manitoba 390-516-0
+
+
+              (ii)   for Quebec, Saskatchewan, the Yukon Territory, the 
+                     Northwest Territories and Nunavut, an Exemption 
+                     Certificate, which certifies that the goods or 
+                     services purchased are not subject to the provincial/
+                     territorial sales and consumption taxes because they 
+                     are purchased by the federal government with Canada 
+                     funds for the use of the federal government. 
+
+       (b)    Currently, in Alberta, the Yukon Territory, the Northwest 
+              Territories and Nunavut, there is no general PST.  However, 
+              if a PST is introduced in Alberta, the Yukon Territory, the 
+              Northwest Territories or Nunavut, the sales tax exemption 
+              certificate would be required on the purchasing document.
+
+       (c)    Federal departments must pay the HST in the participating 
+              provinces of Newfoundland and Labrador, Nova Scotia,  New 
+              Brunswick, Ontario and British Columbia.
+
+       (d)    The Contractor is not exempt from paying PST under the above 
+              Exemption License Numbers or Exemption Certificate. The 
+              Contractor must pay the PST on taxable goods or services used 
+              or consumed in the performance of the Contract (in accordance 
+              with applicable provincial legislation), including material 
+              incorporated into real property.
+
+3.     Changes to Taxes and Duties
+
+       If there is any change to any tax or duty payable to any level of 
+       government in Canada after the bid submission date that affects the 
+       costs of the Work to the Contractor, the Contract Price will be 
+       adjusted to reflect the increase or decrease in the cost to the 
+       Contractor.  However, there will be no adjustment for any change 
+       that increases the cost of the Work to the Contractor if public 
+       notice of the change was given before bid submission date in 
+       sufficient detail to have permitted the Contractor to calculate the 
+       effect of the change on its cost.  There will be no adjustment if 
+       the change takes effect after the date required by the Contract for 
+       delivery of the Work.
+
+4.     GST or HST
+
+       The estimated GST or HST, if applicable, is included in the total 
+       estimated cost of the Contract.  The GST or HST is not included in 
+       the Contract price but will be paid by Canada as provided in the 
+       Invoice Submission section above. The Contractor agrees to remit to 
+       Canada Revenue Agency any amounts of GST and HST paid or due.
+
+5.     Tax Withholding of 15 Percent
+
+       Pursuant to the <em>Income Tax Act</em>, 1985, c. 1 (5th Supp.) and the <em>
+       Income Tax Regulations</em>, Canada must withhold 15 percent of the 
+       amount to be paid to the Contractor in respect of services provided 
+       in Canada if the Contractor is a non-resident unless the Contractor 
+       obtains a valid waiver.  The amount withheld will be held on account 
+       for the Contractor in respect to any tax liability which may be owed 
+       to Canada.
+
+<strong>2029   08     (2010-01-11)  Transportation Costs</strong>
+
+If transportation costs are payable by Canada under the Contract and the 
+Contractor makes the transportation arrangements, shipments must be made by 
+the most direct and economical means consistent with normal shipping 
+practice.  The costs must be shown as a separate item on the invoice.
+
+<strong>2029   09     (2008-05-12)  Shipment Documentation</strong>
+
+For the shipment of goods, the transportation bill of lading must accompany 
+the original invoice, except for "collect" shipments (if and when 
+stipulated), in which event it must accompany the shipment.  In addition, a 
+packing slip must accompany each shipment, showing item, quantity, part or 
+reference numbers, description of the goods and contract number, including 
+the CRN and PBN.  If the goods have been inspected at the Contractor's 
+plant, the signed inspection voucher must be attached to the packing slip 
+normally enclosed in the packing note envelope.
+
+<strong>2029   10     (2008-05-12)  Period of Payment </strong>
+
+1.     Canada's standard payment period is thirty (30) days.  The payment 
+       period is measured from the date an invoice in acceptable form and 
+       content is received in accordance with the Contract or the date the 
+       Work is delivered in acceptable condition as required in the 
+       Contract, whichever is later. A payment is considered overdue on the 
+       31st day following that date and interest will be paid automatically 
+       in accordance with section 11.
+
+2.     If the content of the invoice and its substantiating documentation 
+       are not in accordance with the Contract or the Work is not in 
+       acceptable condition, Canada will notify the Contractor within 
+       fifteen (15) days of receipt.  The 30-day payment period begins upon 
+       receipt of the revised invoice or the replacement or corrected Work.  
+       Failure by Canada to notify the Contractor within fifteen (15) days 
+       will only result in the date specified in subsection 1 to apply for 
+       the sole purpose of calculating interest on overdue accounts.
+
+<strong>2029   11     (2008-12-12)  Interest on Overdue Accounts</strong>
+
+1.     For the purposes of this section: 
+
+       "Average Rate" means the simple arithmetic mean of the Bank Rates in 
+       effect at 4:00 p.m. Eastern Time each day during the calendar month 
+       which immediately before the calendar month in which payment is made;
+
+       "Bank Rate" means the rate of interest established from time to time 
+       by the Bank of Canada as the minimum rate at which the Bank of 
+       Canada makes short term advances to members of the Canadian Payments 
+       Association;
+
+       "date of payment" means the date of the negotiable instrument drawn 
+       by the Receiver General for Canada to pay any amount under the 
+       Contract;
+
+       an amount becomes "overdue" when it is unpaid on the first day 
+       following the day on which it is due and payable according to the 
+       Contract.
+
+2.     Canada will pay the Contractor simple interest at the Average Rate 
+       plus 3 percent per year on any amount that is overdue, from the date 
+       that amount becomes overdue until the day before the date of payment, 
+       inclusive.  The Contractor is not required to provide notice to 
+       Canada for interest to be payable.
+
+3.     Canada will pay interest in accordance with this section only if 
+       Canada is responsible for the delay in paying the Contractor.  
+       Canada will not pay interest on overdue advance payments. 
+
+<strong>2029   12     (2008-05-12)  Audit</strong>
+
+The amount claimed under the Contract is subject to government audit both 
+before and after payment is made.  The Contractor must keep proper accounts 
+and records of the cost of performing the Work and keep all documents 
+relating to such cost for six (6) years after it receives the final payment 
+under the Contract.
+
+<strong>2029   13     (2008-05-12)  Compliance with Applicable Laws</strong>
+
+The Contractor must comply with all laws applicable to the performance of 
+the Contract.  The Contractor must provide evidence of compliance with such 
+laws to Canada at such times as Canada may reasonably request.
+
+The Contractor must obtain and maintain at its own costs all permits, 
+licences, regulatory approvals and certificates required to perform the 
+Work.  If requested by the Contracting Authority, the Contractor must 
+provide a copy of any required permit, licence, regulatory approvals or 
+certificate to Canada.
+
+<strong>2029   14     (2008-05-12)  Time of the Essence</strong>
+
+It is essential the Work be delivered within or at the time stated in the 
+Contract.
+
+<strong>2029   15     (2008-05-12)  Ownership</strong>
+
+Unless provided otherwise in the Contract, the Work or part of the Work 
+belongs to Canada after delivery and acceptance by or on behalf of Canada.  
+Despite any transfer of ownership, the Contractor is responsible for any 
+loss or damage to the Work or any part of the Work until it is delivered to 
+Canada in accordance with the Contract.
+
+<strong>2029   16     (2008-05-12)  Government Property</strong>
+
+The Contractor must take reasonable and proper care of all Government 
+Property while it is in its possession or subject to its control.  The 
+Contractor is responsible for any loss or damage resulting from its failure 
+to do so other than loss or damage caused by ordinary wear and tear.
+
+<strong>2029   17     (2008-05-12)  Amendment and Assignment</strong>
+
+The Contract must not be amended or assigned, in whole or in part, without 
+the prior written agreement of the Parties.
+
+<strong>2029   18     (2008-05-12)  Default by the Contractor</strong>
+
+If the Contractor is in default in carrying out any of its obligations 
+under the Contract, or is bankrupt or insolvent or in receivership, the 
+Contracting Authority may, by giving written notice to the Contractor, 
+terminate for default the Contract or part of the Contract.  Upon the 
+giving of such notice, the Contractor will have no claim for further 
+payment and remains liable to Canada for all losses and damages suffered by 
+Canada because of the default, including any increase in the cost incurred 
+by Canada in procuring the Work from another source.
+
+<strong>2029   19     (2008-05-12)  Termination for Convenience</strong>
+
+At any time before the completion of the Work, the Contracting Authority 
+may, by giving notice to the Contractor, terminate for convenience the 
+Contract or part of the Contract.  In such case, the Contractor will be 
+paid for Work that has been performed, accepted and unpaid in accordance 
+with the Contract price.  The Contractor will be entitled to be reimbursed 
+the actual costs reasonably and properly incurred as a direct result of the 
+termination, but in no case such reimbursement must exceed the Contract 
+price.  The Contractor will have no claim for damages, compensation, loss 
+of profit or otherwise, except as provided in this section.
+
+<strong>2029   20     (2008-05-12)  Right of Set-off</strong>
+
+Without restricting any right of set-off given by law, Canada may set-off 
+against any amount payable to the Contractor under the Contract, any amount 
+payable to Canada by the Contractor under the Contract or under any other 
+current contract.  Canada may, when making a payment pursuant to the 
+Contract, deduct from the amount payable to the Contractor any such amount 
+payable to Canada by the Contractor which, by virtue of the right of 
+set-off, may be retained by Canada.
+
+<strong>2029   21     (2008-05-12)  Conflict of Interest and Values and Ethics 
+                            Codes for the Public Service</strong>
+
+The Contractor acknowledges that individuals who are subject to the 
+provisions of the <em>Conflict of Interest Act</em>, 2006, c. 9, s. 2, the Conflict 
+of Interest Code for Members of the House of Commons, the Values and Ethics 
+Code for the Public Service or all other codes of values and ethics 
+applicable within specific organizations cannot derive any direct benefit 
+resulting from the Contract.
+
+<strong>2029   22     (2008-12-12)  Contingency Fees</strong>
+
+The Contractor certifies that it has not, directly or indirectly, paid or 
+agreed to pay and agrees that it will not, directly or indirectly, pay a 
+contingency fee for the solicitation, negotiation or obtaining of the 
+Contract to any person, other than an employee of the Contractor acting in 
+the normal course of the employee's duties.  In this section, "contingency 
+fee" means any payment or other compensation that depends or is calculated 
+based on a degree of success in soliciting, negotiating or obtaining the 
+Contract and "person" includes any individual who is required to file a 
+return with the registrar pursuant to section 5 of the <em>Lobbying Act</em>, 1985, 
+c. 44 (4th Supplement).
+
+<strong>2029   23     (2010-01-11)  International Sanctions</strong>
+
+1.     Persons in Canada, and Canadians outside of Canada, are bound by 
+       economic sanctions imposed by Canada.  As a result, the Government 
+       of Canada cannot accept delivery of goods or services that originate, 
+       either directly or indirectly, from the countries or persons subject 
+       to economic sanctions.
+
+2.     The Contractor must not supply to the Government of Canada any goods 
+       or services which are subject to economic sanctions.
+
+3.     The Contractor must comply with changes to the regulations imposed 
+       during the period of the Contract.  The Contractor must immediately 
+       advise Canada if it is unable to perform the Work as a result of the 
+       imposition of economic sanctions against a country or person or the 
+       addition of a good or service to the list of sanctioned goods or 
+       services.  If the Parties cannot agree on a work around plan, the 
+       Contract will be terminated for the convenience of Canada in 
+       accordance with section 19.
+
+<strong>2029   24     (2010-01-11)  Code of Conduct for Procurement</strong>
+
+The Contractor certifies that it has read the Code of Conduct for 
+Procurement and agrees to be bound by its terms.
+
+<strong>2029   25     (2008-05-12)  Entire Agreement</strong>
+
+The Contract constitutes the entire and sole agreement between the Parties.
+
+<strong>2029   26     (2010-01-11)  Transportation Carriers' Liability</strong>
+
+The federal government's policy of underwriting its own risks precludes 
+payment of insurance or valuation charges for transportation beyond the 
+point at which ownership of goods passes to the federal government 
+(determined by the FOB point or Incoterms). Where increased carrier 
+liability is available without charge, the Contractor must obtain the 
+increased liability for shipment.
+
+
+
+</pre>
+</div>

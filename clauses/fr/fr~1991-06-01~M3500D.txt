@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Comme indiqué _____ .   
+
+MODALITES DE PAIEMENT : 
+
+Les prix affichés par litre sont soumis aux fluctuations à la hausse ou à 
+   la baisse afin de refléter tout changement monétaire dans les prix 
+   affichés à la date de livraison.  L'Offrant donnera un avis écrit au 
+   Ministère dans les quinze (15) jours de la date d'entrée en vigueur du 
+   changement du prix affiché.  A défaut de ce faire, la date d'entrée en 
+   vigueur du changement du prix affiché sera celle à laquelle l'avis écrit 
+   de l'Offrant est reçu par le Ministère.  Au cas où le changement du prix 
+   affiché n'est pas acceptable au Ministère, la Couronne peut résilier 
+   l'offre permanente dans les quinze (15) jours de la réception du 
+   changement du prix affiché; cependant, la Couronne est tenue de payer le 
+   prix affiché de l'Offrant, moins la réduction ferme, pour tous les 
+   produits livrés entre la date d'entrée en vigueur et la date de 
+   résiliation du contrat ou la date de retrait de l'offre permanente. 
+</pre>
+</div>

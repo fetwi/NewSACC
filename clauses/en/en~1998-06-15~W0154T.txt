@@ -1,0 +1,37 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 9, Co-operation Agreement between the Inuvialuit Regional
+Corporation and the Department of National Defence Concerning the
+Operation and Maintenance of the North Warning System (NWS),
+clauses:</p>
+<ul class="hierarchy">
+<li><span class="number">4.3</span> The following specific business
+opportunities for the provision of services associated with Work
+within the Inuvialuit Settlement Region (ISR) shall be provided
+through the <abbr title="North Warning System">NWS</abbr> <abbr title="Operation and Maintenance">O&amp;M</abbr> Contractor or Subcontractors:
+<ul class="hierarchy">
+<li><span class="number">4.3.2</span>. <abbr title="Northern Transportation Company Limited">NTCL</abbr> shall have the first
+opportunity to bid on all contracts for marine transportation and
+barging services of equipment, materials and supplies.</li>
+</ul>
+<p>Except in cases of emergency or when the operation of <abbr title="North Warning System">NWS</abbr>
+site(s) could be interrupted, these companies shall be provided
+with not less than ten days for a bid response from the date of
+issue of the solicitation documents. Contracts shall be issued if
+the bids are technically compliant and based on the lower of
+published tariffs or most favoured customer rates. As existing
+contracts expire, renewals or new contracts shall be concluded in
+accordance with this subsection.</p>
+</li>
+</ul>
+</div></pre>
+</div>

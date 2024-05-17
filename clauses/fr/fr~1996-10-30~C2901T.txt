@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les demandes de soumissions lorsque les 
+produits sont destinés à l'exportation. Utiliser la clause C2001C dans le 
+contrat.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Comme ces produits sont destinés à l'exportation, le soumissionnaire 
+certifie que les prix indiqués dans les présentes ne comprennent aucun 
+montant représentant les taxes ou les droits de douane remboursables payés 
+au moment de l'importation des matières, pièces et composants qui sont 
+incorporés à ces produits.
+
+Le Canada fournira un certificat de drawback qui autorisera l'entrepreneur 
+à demander un drawback des droits de douane à Revenu Canada.
+
+
+
+</pre>
+</div>

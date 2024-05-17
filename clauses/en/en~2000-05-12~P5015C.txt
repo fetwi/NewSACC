@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Two (2) separate invoices are to be submitted in triplicate as 
+follows:
+
+       (a)    Mail first invoice to:
+
+              Canadian Government Publishing
+              Communications Co-ordination Services Branch
+              350 Albert, 4th floor
+              Ottawa, Ontario
+              K1A 0S5
+
+              Requisition No. and Financial Code _____;
+              Client Reference Number (CRN) ________;
+              For a firm lot amount of $ _____.
+
+       (b)    Mail second invoice to:
+
+              Department: _____
+              Division: _____
+              Address: _____
+              City/Prov.: _____
+              Postal Code: _____
+
+              Requisition No. and Financial Code _____;
+              Client Reference Number (CRN) ________;
+
+
+2.     Applies to all goods delivered to all Consignees (including the 
+       quantity for delivery to the Canadian Government Publishing, 
+       Communications Co-ordination Services Branch [CCSB]) itemized in 
+       accordance with the Contract pricing schedule herein.  Show the 
+       reduction off the total invoice cost for the amount payable by CCSB 
+       under (a) above.
+
+3.     All invoices, shipping and packing slips must show the applicable 
+       requisition number and financial code as indicated above.
+
+
+</pre>
+</div>

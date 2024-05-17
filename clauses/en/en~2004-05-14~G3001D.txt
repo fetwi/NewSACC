@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to cover any loss or damage to Government property 
+while under the care, custody or control of the Contractor.  The nature of the 
+property involved would determine the type of property insurance policy (e.g., 
+"All Risks" premises/plant, equipment floater, or construction/installation 
+insurance) that should be purchased by the Contractor.
+
+The value and basis of valuation of Government property must be filled in the 
+clause.  The basis of valuation of this property (replacement, market or book 
+value) should be established with the client and mentioned in the Contractor's 
+insurance policy.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Insurance Coverage:  Property insurance coverage shall be effected 
+       by the Contractor and maintained in force on Government property 
+       while under the care, custody or control of the Contractor in an 
+       amount of NOT LESS THAN $______.  Government property shall be 
+       insured on _______ value basis.
+
+2.     Administration of Claims:  The Contractor agrees to monitor, 
+       investigate and document losses of or damage to Government property 
+       to ensure that claims are properly made and paid to Canada.
+
+3.     The policy must include the following endorsements:
+
+       (a)    Notice of Cancellation:  The Insurer agrees to give the 
+              Contracting Authority at least thirty (30) days written 
+              notice of any policy cancellation or any changes in the 
+              policy coverage.
+
+       (b)    Settlement of Claims:  The insurance proceeds regarding any 
+              loss of or damage to Government property shall be payable to 
+              the appropriate party as directed by the Contracting 
+              Authority.
+
+</pre>
+</div>

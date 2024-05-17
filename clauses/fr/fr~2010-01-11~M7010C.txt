@@ -1,0 +1,55 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les offres à commandes lorsque l'offrant doit 
+présenter des rapports d'utilisation périodique.
+
+Le responsable de l'offre à commandes doit consulter l'article 8.75.1 du Guide 
+des approvisionnements pour connaître les directives concernant les exigences en 
+matière d'établissement de rapports.  Ces exigences doivent être décrites dans 
+une annexe jointe à l'offre à commandes et préciser les données que devra 
+fournir l'offrant.
+
+Les périodes de référence et le nombre de jours civils alloués pour présenter 
+chacun des rapports à la suite des périodes de référence doivent être indiqués 
+dans la clause.
+
+Le responsable de l'offre à commandes doit s'assurer que l'offrant satisfait à 
+toutes les exigences en matière d'établissement de rapports précisées dans 
+l'offre à commandes.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'offrant doit compiler et tenir à jour des données
+sur les biens, les services ou les deux fournis au gouvernement
+fédéral en vertu de contrats découlant de l'offre
+à commandes. Ces données doivent comprendre les achats
+payés au moyen d'une carte d'achat du gouvernement du
+Canada.</p>
+<p>L'offrant doit fournir ces données conformément aux
+exigences en matière d'établissement de rapports
+décrites à l'annexe « <var>_____</var> ».
+Si certaines données ne sont pas disponibles, la raison doit
+être indiquée dans le rapport. Si aucun bien ou service
+n'a été fourni pendant une période donnée,
+l'offrant doit soumettre un rapport portant la mention «
+NÉANT ».</p>
+<p>Les données doivent être présentées tous les
+<span class="input-required"><var>______</var> <kbd>(<i>insérer
+« trimestres  » ou indiquer une autre période de
+référence</i>)</kbd></span> au responsable de l'offre à
+commandes.</p>
+<p>(<em>Si une autre période de référence est
+utilisée, supprimer la répartition des trimestres
+indiquée ci-dessous et définir la période de
+référence appropriée</em>.)</p>
+<p>Voici la répartition des trimestres :</p>
+<p>Premier trimestre : du 1er avril au 30 juin;</p>
+<p>Deuxième trimestre : du 1er juillet au 30 septembre;</p>
+<p>Troisième trimestre : du 1er octobre au 31
+décembre;</p>
+<p>Quatrième trimestre : du 1er janvier au 31 mars.</p>
+<p>Les données doivent être présentées au
+responsable de l'offre à commandes dans les <span class="input-required"><var>______</var> <kbd>(<i>inscrire le nombre de
+jours</i>)</kbd></span> jours civils suivant la fin de la période
+de référence.</p>
+</div></pre>
+</div>

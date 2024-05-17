@@ -1,0 +1,822 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  This clause is generally used for contracts with an estimated value between 
+$100,000 and $5,000,000.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2019-11-28R2880Dinterpretation-8-1">GC8.1 Interpretation</a></li>
+<li><a href="#2019-11-28R2880Dconsultation-and-co-operation">GC8.2 Consultation and Co-operation</a></li>
+<li><a href="#2019-11-28R2880Dnotice-of-dispute">GC8.3 Notice of Dispute</a></li>
+<li><a href="#2019-11-28R2880Dnegotiation">GC8.4 Negotiation</a></li>
+<li><a href="#2019-11-28R2880Dmediation">GC8.5 Mediation</a></li>
+<li><a href="#2019-11-28R2880Dbinding-arbitration">GC8.6 Binding Arbitration</a></li>
+<li><a href="#2019-11-28R2880Ddisputes-not-subject-to-arbitration">GC8.7 Disputes not Subject to Arbitration</a></li>
+<li><a href="#2019-11-28R2880Dconfidentiality-8-8">GC8.8 Confidentiality</a></li>
+<li><a href="#2019-11-28R2880Dsettlement">GC8.9 Settlement</a></li>
+<li><a href="#2019-11-28R2880Drules-for-mediation">GC8.10 Rules for Mediation of Disputes</a>
+<ul class="no-markers">
+<li><a href="#2019-11-28R2880Dinterpretation-8-10-1">GC8.10.1 Interpretation</a></li>
+<li><a href="#2019-11-28R2880Dapplication-8-10-2">GC8.10.2 Application</a></li>
+<li><a href="#2019-11-28R2880Dcommunication-8-10-3">GC8.10.3 Communication</a></li>
+<li><a href="#2019-11-28R2880Dappointment-of-project-mediator">GC8.10.4 Appointment of Project Mediator</a></li>
+<li><a href="#2019-11-28R2880Dconfidentiality-8-10-5">GC8.10.5 Confidentiality</a></li>
+<li><a href="#2019-11-28R2880Dtime-and-place-of-mediation">GC8.10.6 Time and Place of Mediation</a></li>
+<li><a href="#2019-11-28R2880Drepresentation-8-10-7">GC8.10.7 Representation</a></li>
+<li><a href="#2019-11-28R2880Dprocedure">GC8.10.8 Procedure</a></li>
+<li><a href="#2019-11-28R2880Dsettlement-agreement">GC8.10.9 Settlement Agreement</a></li>
+<li><a href="#2019-11-28R2880Dtermination-of-mediation">GC8.10.10 Termination of Mediation</a></li>
+<li><a href="#2019-11-28R2880Dcosts">GC8.10.11 Costs</a></li>
+<li><a href="#2019-11-28R2880Dsubsequent-proceedings">GC8.10.12 Subsequent Proceedings</a></li>
+</ul>
+</li>
+<li><a href="#2019-11-28R2880Drules-for-arbitration">GC8.11 Rules for Arbitration of Disputes</a>
+<ul class="no-markers">
+<li><a href="#2019-11-28R2880Dinterpretation-8-11-1">GC8.11.1 Interpretation</a></li>
+<li><a href="#2019-11-28R2880Darbitration-tribunal">GC8.11.2 Arbitration Tribunal</a></li>
+<li><a href="#2019-11-28R2880Dapplication-8-11-3">GC8.11.3 Application</a></li>
+<li><a href="#2019-11-28R2880Dinitiation-of-proceedings">GC8.11.4 Initiation of Proceedings</a></li>
+<li><a href="#2019-11-28R2880Dappointment-of-tribunal">GC8.11.5 Appointment of Tribunal</a></li>
+<li><a href="#2019-11-28R2880Dpreliminary-meeting">GC8.11.6 Preliminary Meeting</a></li>
+<li><a href="#2019-11-28R2880Dcommunications-8-11-7">GC8.11.7 Communications</a></li>
+<li><a href="#2019-11-28R2880Drepresentation-8-11-8">GC8.11.8 Representation</a></li>
+<li><a href="#2019-11-28R2880Dconduct-of-proceedings">GC8.11.9 Conduct of Proceedings</a></li>
+<li><a href="#2019-11-28R2880Dplace-of-arbitration">GC8.11.10 Place of Arbitration</a></li>
+<li><a href="#2019-11-28R2880Dtime-limitations">GC8.11.11 Time Limitations</a></li>
+<li><a href="#2019-11-28R2880Dstatement-of-claim-and-defence">GC8.11.12 Statement of Claim and Defence</a></li>
+<li><a href="#2019-11-28R2880Dfurther-written-statements">GC8.11.13 Further Written Statements</a></li>
+<li><a href="#2019-11-28R2880Dagreed-statement-of-facts">GC8.11.14 Agreed Statement of Facts</a></li>
+<li><a href="#2019-11-28R2880Devidence">GC8.11.15 Evidence</a></li>
+<li><a href="#2019-11-28R2880Dhearings">GC8.11.16 Hearings</a></li>
+<li><a href="#2019-11-28R2880Ddefault">GC8.11.17 Default</a></li>
+<li><a href="#2019-11-28R2880Darbitral-decision">GC8.11.18 Arbitral Decision</a></li>
+</ul>
+</li>
+</ul>
+</div>
+<h2 id="2019-11-28R2880Dinterpretation-8-1">GC8.1 (2019-11-28) Interpretation</h2>
+<ol type="1">
+<li value="1">In these Dispute Resolution, an "<dfn>arbitral
+                question of law</dfn>" means a question of law that
+            <ol type="a">
+<li value="1">is capable of determination by arbitration under the
+                    laws of Canada;</li>
+<li value="2">does not involve interpretation or application of
+                    public law of Canada, including without limitation any matter of
+                    constitutional, administrative, criminal or tax law; and</li>
+<li value="3">concerns
+                    <ol type="i">
+<li value="1">the formation, validity, interpretation, application
+                            or enforceability of the Contract;</li>
+<li value="2">the performance, breach, termination or other discharge of
+                            the Contract;</li>
+<li value="3">the rights, duties, obligations or remedies of parties
+                            created by or pursuant to the Contract; or</li>
+<li value="4">any other issue of private law that may arise between
+                            parties relative to performance of the Contract.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="2">"<dfn>dispute</dfn>" means any disagreement regarding
+            any issue identified by the Contractor in the notice submitted to
+            Canada in accordance with paragraph 2) of GC8. 3, "Notice of
+            Dispute", and includes any claim by the Contractor arising from
+            such disagreement and any counterclaim by Canada, but does not
+            include any claim by either party for punitive or exemplary
+            damages, injury to persons, death, or any claim based on an
+            allegation of libel or slander; and</li>
+<li value="3">The alternative dispute resolution procedures set out
+            in GC8, do not apply to any claim by Canada against the Contractor
+            except any counterclaim in a dispute as defined in paragraph 2) of
+            GC8.1, including, but not limited to, any claim of setoff regarding
+            any amount due to Canada under GC5.10, "Assessments and Damages for
+            Late Completion".</li>
+</ol>
+<h2 id="2019-11-28R2880Dconsultation-and-co-operation">GC8.2 (2019-11-28) Consultation and Co-operation</h2>
+<ol type="1">
+<li value="1">The parties agree to maintain open and honest
+            communication throughout the performance of the Contract.</li>
+<li value="2">The parties agree to consult and co-operate with each
+            other in the furtherance of the Work and the resolution of problems
+            or disagreements that may arise.</li>
+</ol>
+<h2 id="2019-11-28R2880Dnotice-of-dispute">GC8.3 (2019-11-28) Notice of Dispute</h2>
+<ol type="1">
+<li value="1">Any disagreement between the parties to the Contract of
+            any nature arising out of or in connection with the Contract which
+            could result in a claim by the Contractor against Canada, and which
+            is not settled by consultation and co-operation as envisaged in
+            GC8.2, "Consultation and Co-operation", shall be resolved in the
+            first instance by Canada, whose written decision or direction shall
+            be final and binding subject only to the provisions of GC8. Such
+            written decision or direction includes, but is not limited to, any
+            written decision or direction by Canada under any provision of the
+            General Conditions.</li>
+<li value="2">The Contractor shall be deemed to have accepted the
+            decision or direction of Canada referred to in paragraph 1) of
+            GC8.3 and to have expressly waived and released Canada from any
+            claim in respect of the particular matter dealt with in that
+            decision or direction unless, within 15 working days after receipt
+            of the decision or direction, the Contractor submits to Canada a
+            written notice of dispute requesting formal negotiation under
+            GC8.4, "Negotiation". Such notice shall refer specifically to
+            GC8.4, "Negotiation", and shall specify the issues in contention
+            and the relevant provisions of the Contract.</li>
+<li value="3">The giving of a written notice in accordance with
+            paragraph 2) of GC8.3 shall not relieve the Contractor from
+            complying with the decision or direction that is the subject of the
+            dispute. Such compliance, however, shall not be construed as an
+            admission by the Contractor of the correctness of such decision or
+            direction.</li>
+<li value="4">If a dispute is not resolved promptly, Canada shall
+            give such instructions as, in Canada's opinion, are necessary for
+            the proper performance of the Work and to prevent delays pending a
+            resolution of the matter. Unless Canada terminates the Contract,
+            orders the Contractor to suspend the Work, or takes the Work out of
+            the hands of the Contractor, the Contractor shall continue to
+            perform the Work in accordance with the provisions and requirements
+            of the Contract and the instructions of Canada. Such performance
+            shall not prejudice any claim that the Contractor may have.</li>
+<li value="5">Nothing in GC8, relieves the Contractor from its
+            obligation to provide any other notice required by the Contract
+            within the time specified in the Contract, including, but not
+            limited to, any notice required under GC6.2, "Changes in Subsurface
+            Conditions".</li>
+</ol>
+<h2 id="2019-11-28R2880Dnegotiation">GC8.4 (2008-12-12) Negotiation</h2>
+<ol type="1">
+<li value="1">Within ten (10) working days after receipt by Canada
+            of a notice referred to in paragraph 2) of GC8.3, "Notice of
+            Dispute", or within such other period of time as may be mutually
+            agreed to, the parties shall commence formal negotiations in order
+            to resolve the dispute. Negotiations shall occur initially between
+            representatives of the Contractor and Canada who play a direct
+            supervisory role in the performance, administration or management
+            of the Contract.</li>
+<li value="2">If the representatives referred to in paragraph 1) of
+            GC8.4 are unable to resolve some or all of the issues which are the
+            subject of the negotiations within 10 working days, the parties
+            shall refer the remaining issues which are in dispute to a second
+            level of negotiation between a principal or principals of the
+            Contractor and a senior level manager or senior level managers
+            representing Canada.</li>
+<li value="3">If negotiations fail to resolve the dispute within 30
+            working days from the date of delivery of the notice referred to in
+            paragraph 2) of GC8.3, "Notice of Dispute", or within such longer
+            period as may have been agreed to by the parties, the Contractor
+            may, by giving written notice to Canada, in accordance with GC2.3,
+            "Notices", within 10 working days from the end of such period,
+            request that mediation be undertaken to assist the parties to reach
+            agreement on the outstanding issues.</li>
+<li value="4">If the Contractor does not request mediation within
+            the period permitted by paragraph 3) of GC8.4, the Contractor shall
+            be deemed to have accepted the decision or direction of Canada
+            under paragraph 1) of GC8.3 "Notice of Dispute", and to have
+            expressly waived and released Canada from any claim in respect of
+            the particular matter dealt with in that decision or
+            direction.</li>
+</ol>
+<h2 id="2019-11-28R2880Dmediation">GC8.5 (2008-05-12) Mediation</h2>
+<ol type="1">
+<li value="1">If the Contractor has requested mediation in
+            accordance with paragraph 3) of GC8.4, "Negotiation", mediation
+            shall be conducted in accordance with GC8.10, "Rules for Mediation
+            of Disputes".</li>
+<li value="2">If a Project Mediator has not previously been
+            appointed for the purposes of the Contract, a Project Mediator
+            shall be appointed in accordance with GC8.10, "Rules for Mediation
+            of Disputes", forthwith after delivery of a notice in accordance
+            with paragraph 3) of GC8.4, "Negotiation", requesting
+            mediation.</li>
+<li value="3">If the dispute has not been resolved within
+            <ol type="a">
+<li value="1">10 working days following the appointment of a
+                    Project Mediator in accordance with paragraph 2) of GC8.5, if a
+                    Project Mediator was not previously appointed;</li>
+<li value="2">10 working days following receipt by Canada of a
+                    written notice in accordance with paragraph 3) of GC8.4,
+                    "Negotiation", if a Project Mediator was previously appointed;
+                    or</li>
+<li value="3">such other longer period as may have been agreed to
+                    by the parties;</li>
+</ol>
+            the Project Mediator shall terminate the mediation by giving
+            written notice to the parties stating the effective date of
+            termination.
+        </li>
+</ol>
+<h2 id="2019-11-28R2880Dbinding-arbitration">GC8.6 (2008-05-12) Binding Arbitration</h2>
+<ol type="1">
+<li value="1">If mediation of the dispute is terminated pursuant to
+            the provisions of GC8.5, "Mediation", and
+            <ol type="a">
+<li value="1">the termination of mediation occurs prior to the
+                    applicable date set out in paragraph 4) of GC8.6; and</li>
+<li value="2">the disputed issues involve issues of fact or issues
+                    of arbitral questions of law or issues of mixed fact and arbitral
+                    questions of law;</li>
+</ol>
+            either party, by giving notice in writing to the other party in
+            accordance with GC2.3, "Notices", may require that the dispute be
+            resolved by binding arbitration pursuant to GC8.6.
+        </li>
+<li value="2">A notice referred to in paragraph 1) of GC8.6 shall
+            be given within 10 working days of the date of termination of
+            mediation under GC8.5 Mediation and shall be in accordance with
+            GC2.3, "Notices".</li>
+<li value="3">If no notice is given within the period set out in
+            paragraph 2) of GC8.6, or if the conditions set out in
+            subparagraphs 1)(a) and 1)(b) of GC8.6 are not met, the arbitration
+            provisions set out in GC8.6 do not apply to the dispute.</li>
+<li value="4">Unless otherwise agreed, the arbitration of the
+            dispute shall be held in abeyance until the earlier of
+            <ol type="a">
+<li value="1">the date of issuance of a Certificate of Substantial
+                    Performance under GC5.5, "Substantial Performance of the
+                    Work";</li>
+<li value="2">the date the Work is taken out of the Contractor's
+                    hands; and</li>
+<li value="3">the date of termination of the Contract;</li>
+</ol>
+            and consolidated with all other such disputes into a single
+            arbitration.
+        </li>
+<li value="5">Arbitral proceedings under this GC8.6 shall be
+            governed by and conducted in accordance with the <cite>Commercial Arbitration Act</cite>, <abbr title="Revised Statutes (1985)">R.S.</abbr> 1985, <abbr title="chapter">c</abbr>. 17 (2nd Supp.) and the provisions of
+            GC8.11, "Rules for Arbitration of Disputes".</li>
+<li value="6">For the purposes of calculating time under the Rules
+            for Arbitration referred to in paragraph 5) of GC8.6, arbitration
+            proceedings shall commence on the applicable date set out in
+            paragraph 4) of GC8.6.</li>
+<li value="7">Notwithstanding anything else contained in GC8.6, the
+            arbitration provisions in GC8.6 do not apply if the aggregate
+            amount of all claims by the Contractor required to be arbitrated on
+            the applicable date set out in paragraph 4) of GC8.6 is less than
+            $25,000.</li>
+</ol>
+<h2 id="2019-11-28R2880Ddisputes-not-subject-to-arbitration">GC8.7 (2008-05-12) Disputes not Subject to Arbitration</h2>
+<ol type="1">
+<li value="1">Where the arbitration provisions in GC8.6, "Binding
+            Arbitration", do not apply to a dispute as a result of paragraphs
+            3) or 7) of GC8.6, "Binding Arbitration", either party may take
+            such court action or proceedings as it considers appropriate,
+            including, without limiting the foregoing, all suits that would
+            otherwise have been immediately available to it but for the
+            provisions of these Dispute Resolution Conditions. Subject to the
+            provisions of paragraph 2) of GC8.7, the Contractor shall initiate
+            any such action or proceeding no later than three calendar months
+            after the date that a Certificate of Completion is issued under
+            GC5.6, "Final Completion", and not afterwards, except where it is
+            otherwise provided by law.</li>
+<li value="2">Any action or proceeding resulting from a direction
+            under GC3.13, "Warranty and Rectification of Defects in Work",
+            shall be initiated by the Contractor no later than three calendar
+            months after the expiry of the warranty or guarantee period and not
+            afterwards, except where it is otherwise provided by law.</li>
+</ol>
+<h2 id="2019-11-28R2880Dconfidentiality-8-8">GC8.8 (2015-02-25) Confidentiality</h2>
+<p>All information exchanged during alternative dispute
+        resolution procedures, by whatever means, shall be without
+        prejudice and shall be treated as confidential by the parties and
+        their representatives, unless otherwise required by law. However,
+        evidence that is independently admissible or discoverable shall not
+        be rendered inadmissible or non-discoverable by virtue of its use
+        during an alternative dispute resolution process.</p>
+<h2 id="2019-11-28R2880Dsettlement">GC8.9 (2015-02-25) Settlement</h2>
+<p>Any agreement to settle all or any part of a dispute,
+        by whatever means, shall be in writing and be signed by the parties
+        or their authorized representatives.</p>
+<h2 id="2019-11-28R2880Drules-for-mediation">GC8.10 (2015-03-25) Rules for Mediation of Disputes</h2>
+<p>The following outlines the rules for the mediation of disputes.</p>
+<h3 id="2019-11-28R2880Dinterpretation-8-10-1">GC8.10.1 Interpretation</h3>
+<p>In these Rules</p>
+<p>"<dfn>Coordinator</dfn>" means the person designated by
+        Canada to act as the Dispute Resolution Coordinator.</p>
+<h3 id="2019-11-28R2880Dapplication-8-10-2">GC8.10.2 Application</h3>
+<p>By mutual agreement, the parties may change or make
+        additions to the Rules.</p>
+<h3 id="2019-11-28R2880Dcommunication-8-10-3">GC8.10.3 Communication</h3>
+<p>Written communications pursuant to these Rules shall
+        be given in accordance with GC2.3, "Notices".</p>
+<h3 id="2019-11-28R2880Dappointment-of-project-mediator">GC8.10.4 Appointment of Project Mediator</h3>
+<ol type="1">
+<li value="1">The parties to the Contract may, by mutual consent,
+            at any time after entry into the Contract, appoint a mediator (the
+            "Project Mediator") to conduct mediation proceedings in accordance
+            with these Rules for Mediation of Disputes, in regard to any
+            dispute that may arise with regard to the interpretation,
+            application or administration of the Contract. In this case, they
+            shall jointly enter into a contract with the appointed Project
+            Mediator, which contract shall be in a form drafted by the
+            Coordinator and agreed to by the parties.</li>
+<li value="2">If the parties do not appoint a Project Mediator
+            pursuant to paragraph 1) of GC8.10.4, the parties shall appoint a
+            Project Mediator within 17 working days following receipt of a
+            written notice from the Contractor, in accordance with GC2.3,
+            "Notices", requesting that mediated negotiations be undertaken in
+            accordance with these Rules to assist the parties to reach
+            agreement on any outstanding issues that may be in dispute. Any
+            contract entered into with the appointed Project Mediator shall
+            meet the requirements as set out for the contract described in
+            paragraph 1) of GC8.8.4.</li>
+<li value="3">When mediation is requested by the Contractor
+            pursuant to paragraph 3) of GC8.4, "Negotiation", if the parties
+            have previously entered into a contract with a Project Mediator,
+            the parties shall within 2 days send to both the Project Mediator
+            and the Coordinator
+            <ol type="a">
+<li value="1">a copy of the notice requesting negotiation under
+                    paragraph 2) of GC8.3, "Notice of Dispute";</li>
+<li value="2">a copy of Canada's written position in relation to
+                    the notice, the issues in contention and the relevant provisions of
+                    the contract; and</li>
+<li value="3">a copy of the Contractor's written request for
+                    mediation required under paragraph 3 of GC8.4, "Negotiation".</li>
+</ol>
+</li>
+<li value="4">If the parties have not agreed on a Project Mediator,
+            the parties shall forthwith provide the Coordinator with the
+            written materials referred to in subparagraphs 3)(a), 3)(b) and
+            3)(c) of GC8.10.4 together with a request that the Coordinator
+            assist in the appointment of a mutually acceptable Project Mediator
+            in accordance with these Rules.</li>
+<li value="5">Within 5 working days following receipt of the
+            request and materials referred to in paragraph 4) of GC8.10.4, the
+            Coordinator shall provide the parties with a list of qualified
+            private sector mediators obtained from an independent and impartial
+            entity, together with instructions to each party to individually
+            and confidentially select and rank their preferred and fully
+            acceptable choices of mediator in descending order. Each mediator
+            listed shall be impartial and independent of the parties, and shall
+            be an experienced and skilled commercial mediator, preferably with
+            knowledge of the subject matter of the dispute.</li>
+<li value="6">Within 10 working days of receipt of the list
+            referred to in paragraph 5) of GC8.10.4 each party shall comply
+            with the instructions accompanying the list(s) and shall deliver
+            the completed listing to the Coordinator.</li>
+<li value="7">Within 2 working days following receipt of the
+            completed listings, the Coordinator shall select the highest common
+            ranked mediator to act as Project Mediator for the purposes of the
+            contract.</li>
+<li value="8">In the event of a tie, the Coordinator shall consult
+            both parties to re-evaluate their rankings in order to assist the
+            Coordinator in selecting a Project Mediator acceptable to both
+            parties. If the parties cannot agree upon a Project Mediator, the
+            Coordinator shall forthwith provide the parties with a second list
+            of mediators and the procedure shall be repeated.</li>
+<li value="9">If the parties have not previously entered into a
+            contract with a mutually acceptable Project Mediator, the
+            Coordinator shall use reasonable efforts to negotiate a contract
+            with a mutually acceptable Project Mediator on behalf of the
+            parties, which contract shall incorporate or otherwise comply with
+            the provisions of these Rules. If negotiations are unsuccessful, or
+            if for other reason the individual is unwilling or unable to enter
+            into a contract to act as Project Mediator, the Coordinator shall
+            repeat the process with the second-highest common ranked
+            mediator.</li>
+<li value="10">The parties agree that, upon successful completion
+            of the negotiations referred to in paragraph 9) of GC8.10.4, they
+            shall jointly enter into a contract with the selected Project
+            Mediator, which contract shall be in a form drafted by the
+            Coordinator and agreed to by the parties.</li>
+<li value="11">Upon execution of the contract with the Project
+            Mediator referred to in paragraph 10) of GC8.10.4 the Coordinator
+            shall provide the Project Mediator with copies of the documents
+            referred to in paragraph 3) of GC8.10.4.</li>
+</ol>
+<h3 id="2019-11-28R2880Dconfidentiality-8-10-5">GC8.10.5 Confidentiality</h3>
+<ol type="1">
+<li value="1">Subject to paragraph 2) of GC8.10.5, and unless
+            otherwise agreed in writing by the parties, the Project Mediator,
+            the parties and their counsel or representatives shall keep
+            confidential all matters and documents disclosed during mediation
+            proceedings except where the disclosure is necessary for any
+            implementation of any agreement reached or is required by law.</li>
+<li value="2">Evidence that is independently admissible or
+            discoverable in any arbitral or judicial proceeding shall not be
+            rendered inadmissible or non-discoverable by virtue of its use in
+            mediation proceedings.</li>
+<li value="3">Neither party shall make transcripts, minutes or
+            other records of a mediation conference.</li>
+<li value="4">The personal notes and written opinions of the
+            Project Mediator made in relation to mediation are in the Project
+            Mediator's sole possession and control, are confidential, and may
+            not be used in any subsequent proceeding between the parties or
+            where they are opposed in interest without the express written
+            permission of the parties.</li>
+<li value="5">All information exchanged during mediation
+            procedures, by whatever means, shall be without prejudice and shall
+            be treated as confidential by the parties and their
+            representatives, unless otherwise required by law.</li>
+</ol>
+<h3 id="2019-11-28R2880Dtime-and-place-of-mediation">GC8.10.6 Time and Place of Mediation</h3>
+<p>The Project Mediator, in consultation with the
+        parties shall set the date, time and place of any mediation
+        conference as soon as possible, bearing in mind that, subject to
+        agreement to the contrary between the parties, only 10 working days
+        are available within which to attempt to settle the dispute.</p>
+<h3 id="2019-11-28R2880Drepresentation-8-10-7">GC8.10.7 Representation</h3>
+<ol type="1">
+<li value="1">Representatives of the parties may be accompanied at
+            the mediation conference by legal counsel or any other person.</li>
+<li value="2">If the Project Mediator is a lawyer, the Project
+            Mediator shall not provide legal advice to a party during the
+            course of the mediation conference, but may recommend that a party
+            obtain independent legal advice before finalizing a settlement
+            agreement.</li>
+</ol>
+<h3 id="2019-11-28R2880Dprocedure">GC8.10.8 Procedure</h3>
+<ol type="1">
+<li value="1">The parties agree to an exchange of all facts,
+            information and documents upon which they intend to rely in any
+            oral or written presentation during the mediation. This exchange
+            shall be completed no later than 2 working days prior to the date
+            set for a mediation conference.</li>
+<li value="2">The Project Mediator shall be free to meet with the
+            parties individually during a mediation conference if the Project
+            Mediator is of the opinion that this may improve the chances of a
+            mediated settlement, and either party may request such an
+            individual meeting at any time.</li>
+<li value="3">The parties may agree to extend the 10 working days
+            available for settlement of the dispute through mediation, and the
+            Project Mediator shall record that agreement in writing.</li>
+</ol>
+<h3 id="2019-11-28R2880Dsettlement-agreement">GC8.10.9 Settlement Agreement</h3>
+<ol type="1">
+<li value="1">The parties shall record in writing any settlement
+            agreement reached, with sufficient detail to ensure a clear
+            understanding of
+            <ol type="a">
+<li value="1">the issues resolved;</li>
+<li value="2">any obligations assumed by each party including
+                    criteria to determine if and when these obligations have been met;
+                    and</li>
+<li value="3">the consequences of failure to comply with the
+                    agreement reached.</li>
+</ol>
+</li>
+<li value="2">The parties agree to carry out the terms of a
+            settlement agreement as soon as possible and, in any event, within
+            any time periods specified in the agreement.</li>
+</ol>
+<h3 id="2019-11-28R2880Dtermination-of-mediation">GC8.10.10 Termination of Mediation</h3>
+<ol type="1">
+<li value="1">Either party may withdraw from mediation at any time
+            without reason and, in that event, the Project Mediator shall give
+            each party a written notice terminating the mediation and
+            establishing the effective date of termination.</li>
+<li value="2">If, in the opinion of the Project Mediator, either
+            party fails to mediate in good faith or fails to comply with the
+            terms of these Rules, or if the Project Mediator, at any time
+            during mediation, is of the opinion that further negotiations will
+            fail to resolve the issues outstanding, the Project Mediator may
+            terminate the negotiations by providing the parties with a written
+            notice of termination, stating therein the Project Mediator's
+            reasons for the termination, and the effective date of
+            termination.</li>
+<li value="3">If a dispute has not been resolved within 10 working
+            days or such other longer period as may have been agreed to by the
+            parties, the Project Mediator shall terminate the mediation by
+            giving written notice to the parties stating the effective date of
+            termination.</li>
+</ol>
+<h3 id="2019-11-28R2880Dcosts">GC8.10.11 Costs</h3>
+<p>The parties agree that they will each be responsible
+        for the costs of their own representatives and advisors and
+        associated travel and living expenses. Fees and expenses of the
+        Project Mediator and all administrative costs of mediation, such as
+        the cost of the meeting room(s), if any, shall be borne equally by
+        the parties.</p>
+<h3 id="2019-11-28R2880Dsubsequent-proceedings">GC8.10.12 Subsequent Proceedings</h3>
+<ol type="1">
+<li value="1">The parties shall not rely on or introduce as
+            evidence in any arbitral or judicial proceeding, whether or not
+            such proceeding relates to the subject matter of mediation,
+            <ol type="a">
+<li value="1">any documents of other parties that are not otherwise
+                    producible in those proceedings;</li>
+<li value="2">any views expressed or suggestions made by any party
+                    in respect of a possible settlement of issues;</li>
+<li value="3">any admission made by any party in the course of
+                    mediation unless otherwise stipulated by the admitting party;
+                    and</li>
+<li value="4">the fact that any party has indicated a willingness
+                    to make or accept a proposal or recommendation for settlement.</li>
+</ol>
+</li>
+<li value="2">The Project Mediator shall neither represent nor
+            testify on behalf of either of the parties in any subsequent
+            investigation, action or proceeding relating to the issues in
+            mediation proceedings.</li>
+<li value="3">The Project Mediator shall not be subpoenaed to give
+            evidence relating to
+            <ol type="a">
+<li value="1">the Project Mediator's role in mediation; or</li>
+<li value="2">the matters or issues in mediation;</li>
+</ol>
+            in any subsequent investigation, action or proceeding and the
+            parties agree to vigorously oppose any effort to have the Mediator
+            so subpoenaed.
+        </li>
+</ol>
+<h2 id="2019-11-28R2880Drules-for-arbitration">GC8.11 (2015-03-25) Rules for Arbitration of Disputes</h2>
+<p>The following outlines the rules for the arbitration of disputes. </p>
+<h3 id="2019-11-28R2880Dinterpretation-8-11-1">GC8.11.1 Interpretation</h3>
+<p>In these Rules</p>
+<ul>
+<li>"<dfn>claimant</dfn>" means the Contractor;</li>
+<li>"<dfn>Coordinator</dfn>" means the person designated by Canada to
+            act as the Dispute Resolution Coordinator"</li>
+<li>"<dfn>respondent</dfn>" means Canada.</li>
+</ul>
+<h3 id="2019-11-28R2880Darbitration-tribunal">GC8.11.2 Arbitration Tribunal</h3>
+<p>Subject to these Rules, and unless otherwise agreed
+        by the parties, the arbitration tribunal shall consist of a single
+        arbitrator ("the Tribunal") who shall be appointed in accordance
+        with the provisions of the Rules.</p>
+<h3 id="2019-11-28R2880Dapplication-8-11-3">GC8.11.3 Application</h3>
+<ol type="1">
+<li value="1">By mutual agreement, the parties may change or make
+            additions to the Rules.</li>
+<li value="2">The scope of the arbitral proceedings shall be
+            limited to the resolution of the dispute submitted to
+            arbitration.</li>
+<li value="3">The dispute shall be subject to resolution pursuant
+            to the provisions of these Rules whether or not such resolution
+            requires determination of a question of law if such question of law
+            is an arbitral question of law as defined in the terms and
+            conditions of the Contract.</li>
+<li value="4">Arbitral proceedings shall be governed by and in
+            accordance with the <cite>Commercial Arbitration Act</cite>, <abbr title="Revised Statutes (1985)">R.S.</abbr> 1985, <abbr title="chapter">c</abbr>. 17
+            (2nd Supp.), the Code referred to therein, and the provisions of
+            these Rules, and, subject only to the provisions of the <cite>Commercial Arbitration Act</cite>, the parties agree that the determination and award
+            of the Tribunal shall be final and binding on both parties.</li>
+<li value="5">The Tribunal shall not decide the dispute ex aequo et
+            bono or as amiable compositeur.</li>
+<li value="6">The Tribunal shall decide in accordance with the
+            terms and conditions of the Contract and shall take into account
+            the usage of the trade applicable to the transaction.</li>
+<li value="7">The costs of the Tribunal and the arbitration shall
+            be shared equally by the parties and each party shall bear its own
+            costs.</li>
+</ol>
+<h3 id="2019-11-28R2880Dinitiation-of-proceedings">GC8.11.4 Initiation of Proceedings</h3>
+<ol type="1">
+<li value="1">Either party may submit a dispute to binding
+            arbitration pursuant to GC8.6, "Binding Arbitration", by giving
+            notice in writing to the other party in accordance with GC2.3,
+            "Notices".</li>
+<li value="2">The notice referred to in paragraph 1) of GC8.11.4
+            shall contain the following:
+            <ol type="a">
+<li value="1">a brief description of the Contract;</li>
+<li value="2">a statement of the issue(s) in dispute;</li>
+<li value="3">a request that the dispute be referred to binding
+                    arbitration; and</li>
+</ol>
+</li>
+<li value="3">A copy of the notice referred to in paragraph 1) of
+            GC8.11.4 shall be given to the Coordinator at the same time it is
+            given to the other party.</li>
+<li value="4">Unless otherwise agreed, the arbitration of the
+            dispute shall be held in abeyance and consolidated with all other
+            such disputes into a single arbitration in accordance with
+            paragraph 4) of GC8.6, "Binding Arbitration".</li>
+</ol>
+<h3 id="2019-11-28R2880Dappointment-of-tribunal">GC8.11.5 Appointment of Tribunal</h3>
+<ol type="1">
+<li value="1">No later than 10 working days following the date of
+            commencement of arbitration proceedings as set out in paragraph 6)
+            of GC8.6, "Binding Arbitration", the Coordinator shall assemble and
+            provide the parties with a list of qualified private sector
+            arbitrators obtained from an independent and impartial entity,
+            together with instructions to each party to individually and
+            confidentially select and rank their preferred and fully acceptable
+            choices of arbitrator in descending order.</li>
+<li value="2">Within 10 working days of receipt of the list
+            referred to in paragraph 1) of GC8.11.5, each party shall comply
+            with the instructions accompanying the list(s) and shall deliver
+            the completed listing to the Coordinator.</li>
+<li value="3">Within 2 working days following receipt of the
+            completed listings, the Coordinator shall select the highest common
+            ranked arbitrator to act as the Tribunal for the purposes of the
+            arbitration.</li>
+<li value="4">In the event of a tie, the Coordinator shall consult
+            both parties to re-evaluate their rankings in order to assist the
+            Coordinator in selecting a single arbitrator acceptable to both
+            parties. If the parties cannot agree upon an arbitrator, the
+            Coordinator shall forthwith provide the parties with a second list
+            of arbitrators and the procedure shall be repeated.</li>
+<li value="5">In the event that, following the repeated procedure,
+            the Coordinator again fails to select a single arbitrator
+            acceptable to both parties, the Tribunal shall consist of three (3)
+            arbitrators, one arbitrator appointed by each of the parties and
+            the third arbitrator appointed by these two (2) arbitrators.</li>
+<li value="6">The Tribunal shall in any event be composed of a
+            person or persons who have experience in the subject matter of the
+            dispute and are independent of either party. Without limiting the
+            generality of the foregoing, the Tribunal shall be at arm's length
+            from both parties and shall not be composed of members of any
+            company, firm, or agency which advises either party, nor shall the
+            Tribunal be composed of a person or persons who are otherwise
+            regularly retained by such parties.</li>
+<li value="7">The parties agree that they shall jointly enter into
+            an agreement with the selected Tribunal, which agreement shall be
+            in a form drafted by the Coordinator and agreed to by the
+            parties.</li>
+<li value="8">The parties agree that they shall each bear their own
+            costs. Fees and reasonable expenses of the Tribunal and reasonable
+            expenses associated with the conduct of the arbitration shall be
+            borne equally by the parties.</li>
+</ol>
+<h3 id="2019-11-28R2880Dpreliminary-meeting">GC8.11.6 Preliminary Meeting</h3>
+<p>Unless the parties to the arbitration and the
+        Tribunal otherwise agree, the parties shall meet with the Tribunal
+        within 10 working days of the Tribunal's appointment to</p>
+<ol type="a">
+<li value="1">settle the location of premises for proceedings and
+            responsibilities for the arrangement;</li>
+<li value="2">verify addresses for the delivery of written
+            communications to each party and to the Tribunal;</li>
+<li value="3">present to the Tribunal the issues to be resolved by
+            means of the arbitration;</li>
+<li value="4">estimate the length of time the hearing might take
+            and the number of witnesses likely to be produced;</li>
+<li value="5">determine if a stenographic record or any other type
+            of recording of proceedings should be kept, or if any particular
+            services, such as interpreters, translations or security measures
+            should be provided; and</li>
+<li value="6">determine any other matters pertinent to conduct of
+            the arbitration.</li>
+</ol>
+<h3 id="2019-11-28R2880Dcommunications-8-11-7">GC8.11.7 Communications</h3>
+<ol type="1">
+<li value="1">Subject to paragraph 2) of GC8.11.7, the Tribunal
+            shall not communicate with a party to the dispute except in the
+            presence of the other party.</li>
+<li value="2">Notwithstanding paragraph 1) of GC8.11.7, the
+            Tribunal may communicate with the parties separately for the
+            purpose of establishing procedures to be followed or setting the
+            time of a meeting; other exceptions to the general rule shall only
+            be made with the consent in writing of all parties.</li>
+<li value="3">If a communication by the Tribunal to one party is in
+            writing, a copy shall be sent to the other party.</li>
+<li value="4">If a party sends any written communication to the
+            Tribunal, a copy shall be sent to the other party.</li>
+<li value="5">Any communication that is required or permitted to be
+            given to the Tribunal or either party shall be in writing and may
+            be given by delivering the same by facsimile, electronic mail or by
+            mail, postage prepaid, to the address established for the purposes
+            of the Contract in the case of the parties, and to the address
+            provided by the Tribunal in the case of the Tribunal, and such
+            communication shall be deemed to have been received in accordance
+            with the provisions of GC2.3, "Notices".</li>
+</ol>
+<h3 id="2019-11-28R2880Drepresentation-8-11-8">GC8.11.8 Representation</h3>
+<p>The parties may be represented or assisted by any
+        person during the arbitral proceedings.</p>
+<h3 id="2019-11-28R2880Dconduct-of-proceedings">GC8.11.9 Conduct of Proceedings</h3>
+<p>Subject to the provisions of these Rules, the
+        Tribunal may conduct the arbitration in the manner it considers
+        appropriate. The power conferred upon the Tribunal includes the
+        power to determine the admissibility, relevance, materiality and
+        weight of any evidence.</p>
+<h3 id="2019-11-28R2880Dplace-of-arbitration">GC8.11.10 Place of Arbitration</h3>
+<p>The Tribunal may meet at any place it considers
+        appropriate for hearing witnesses, experts or the parties, or for
+        inspection of documents, goods or other property. The Tribunal
+        shall conduct on-site inspections at the request of either party.
+        Any on-site inspections shall be made in the presence of both
+        parties and their representatives. The proceedings of any on-site
+        inspections shall be recorded as part of the hearing itself.</p>
+<h3 id="2019-11-28R2880Dtime-limitations">GC8.11.11 Time Limitations</h3>
+<ol type="1">
+<li value="1">The Tribunal may extend or abridge a period of time
+            required in these Rules or fixed or determined by the Tribunal
+            where the Tribunal considers it to be reasonable and
+            appropriate.</li>
+<li value="2">Where any proceeding is terminated pursuant to
+            paragraph 25(a) or 32 (2)(a) of the Code referred to in the
+            <cite>Commercial Arbitration Act</cite>, unless the respondent agrees otherwise
+            in writing, such termination is deemed to be a final award
+            dismissing the claim of the claimant.</li>
+</ol>
+<h3 id="2019-11-28R2880Dstatement-of-claim-and-defence">GC8.11.12 Statement of Claim and Defence</h3>
+<ol type="1">
+<li value="1">Within 10 working days after the Tribunal has been
+            appointed, the claimant shall state, in writing, the facts
+            supporting its claim, points at issue and relief or remedy sought,
+            and shall submit the statement to the respondent, the Coordinator,
+            and the Tribunal.</li>
+<li value="2">Within 10 working days after receipt of the statement
+            of claim, the respondent shall state, in writing, its defence in
+            respect of these particulars and any counterclaim and shall submit
+            its statement to the claimant, the Coordinator and the
+            Tribunal.</li>
+<li value="3">Within 5 working days after receipt of the statement
+            of defence, the claimant may state, in writing, its response to the
+            defence and to any counterclaim, and shall submit its statement to
+            the respondent, the Coordinator and the Tribunal.</li>
+<li value="4">A party may amend or supplement its statements during
+            the course of arbitral proceedings unless the Tribunal considers it
+            inappropriate to allow such amendment or supplement having regard
+            to all circumstances including delay in making the amendment or
+            supplement.</li>
+<li value="5">A statement may not be amended if the amended
+            statement would fall outside the scope of the arbitration
+            agreement.</li>
+</ol>
+<h3 id="2019-11-28R2880Dfurther-written-statements">GC8.11.13 Further Written Statements</h3>
+<p>The Tribunal may require or permit the presentation
+        of further written statements by the parties and shall fix the
+        periods of time for submitting those statements.</p>
+<h3 id="2019-11-28R2880Dagreed-statement-of-facts">GC8.11.14 Agreed Statement of Facts</h3>
+<ol type="1">
+<li value="1">Within a time period specified by the Tribunal, the
+            parties shall prepare and file with the Tribunal an agreed
+            statement of facts including but not limited to a chronology of the
+            project, schedules, quantities and progress payments. The Tribunal
+            shall make itself available, upon reasonable notice, to assist the
+            parties to arrive at agreement on as many facts as possible under
+            the circumstances.</li>
+<li value="2">Within a time period specified by the Tribunal, the
+            parties shall prepare and file with the Tribunal a common book of
+            documents including all documents referred to in an agreed
+            statement of facts and in statements of claim, defence and
+            response.</li>
+</ol>
+<h3 id="2019-11-28R2880Devidence">GC8.11.15 Evidence</h3>
+<ol type="1">
+<li value="1">Each party shall prove the facts relied upon to
+            support its claim or defence.</li>
+<li value="2">Each party shall deliver to the Tribunal and to the
+            other party, within such period of time that the Tribunal
+            determines, a copy of the documents and a summary of the other
+            evidence that party intends to present in support of the facts in
+            issue set out in its statement of claim, defence or response.</li>
+<li value="3">From time to time, the Tribunal may require the
+            parties to produce documents, exhibits and other evidence within
+            such period of time that the Tribunal may determine.</li>
+</ol>
+<h3 id="2019-11-28R2880Dhearings">GC8.11.16 Hearings</h3>
+<ol type="1">
+<li value="1">All statements, documents or other information
+            supplied to, or applications made to, the Tribunal by one party
+            shall be communicated to the other party, and any expert report or
+            evidentiary document on which the Tribunal may rely in making its
+            decision shall be communicated to the parties at least 8 working
+            days prior to its entry in evidence.</li>
+<li value="2">The parties shall be given reasonably sufficient
+            advance notice of any hearing of the Tribunal and any meeting of
+            the Tribunal for the purpose of inspection of documents, goods or
+            other property.</li>
+<li value="3">If a party intends to give evidence through a
+            witness, the party shall communicate to the Tribunal and to the
+            other party, within such period that the Tribunal determines
+            <ol type="a">
+<li value="1">the names, addresses and curriculum vitae of each of
+                    the witnesses it intends to present; and</li>
+<li value="2">the subject upon which those witnesses shall give
+                    their testimony.</li>
+</ol>
+</li>
+<li value="4">Each party shall have the right to examine,
+            cross-examine and re-examine all witnesses as appropriate.</li>
+<li value="5">All oral hearings and meetings in arbitral
+            proceedings shall be held "in camera".</li>
+</ol>
+<h3 id="2019-11-28R2880Ddefault">GC8.11.17 Default</h3>
+<ol type="1">
+<li value="1">Where, without showing sufficient cause, the claimant
+            fails to communicate its statement of claim in accordance with
+            these Rules or within such further period of time permitted by the
+            Tribunal under these Rules, the Tribunal shall issue an order
+            terminating the arbitral proceedings with respect to that
+            claim.</li>
+<li value="2">An order made under paragraph 1) of GC8.11.17 does
+            not affect a counterclaim made in respect of those arbitral
+            proceedings.</li>
+<li value="3">Where, without showing sufficient cause, the
+            respondent fails to communicate a statement of defence in
+            accordance with these Rules, or within such further period of time
+            permitted by the Tribunal under these Rules, the Tribunal shall
+            continue the arbitral proceedings without treating that failure in
+            itself as an admission of the claimant's allegations.</li>
+<li value="4">Where, without showing sufficient cause, a party
+            fails to appear at an oral hearing or produce documentary evidence,
+            the Tribunal may continue the arbitral proceedings and make the
+            arbitral award on the evidence before it.</li>
+</ol>
+<h3 id="2019-11-28R2880Darbitral-decision">GC8.11.18 Arbitral Decision</h3>
+<p>Unless otherwise agreed to by the parties, the
+        Tribunal shall make the award no later than 30 days after
+        completion of the arbitration hearings unless that time period is
+        extended for an express period by the Tribunal on written notice to
+        each party, due to illness or other cause beyond the Tribunal's
+        control.</p>
+</div></pre>
+</div>

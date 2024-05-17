@@ -1,0 +1,57 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats ayant une clause de « Limitation 
+des dépenses » ou de « Prix plafond » lorsque la base de paiement ne comprend pas 
+de frais remboursables selon les Principes des coûts contractuels
+  
+   1031-2
+  
+  .  Ne 
+pas utiliser dans les contrats avec les universités et les collèges canadiens.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Les éléments qui suivent peuvent faire
+l'objet d'une vérification des comptes par le gouvernement
+avant ou après le paiement :
+<ol type="a">
+<li value="1">Le montant réclamé en vertu du contrat,
+calculé conformément à la base de paiement, y
+compris le temps facturé.</li>
+<li value="2">L'exactitude du système d'enregistrement du
+temps de l'entrepreneur.</li>
+<li value="3">Le profit estimatif compris dans tout
+élément de prix ferme, taux horaire ferme, taux ferme de
+frais généraux ou multiplicateur salarial ferme, pour
+lequel l'entrepreneur a fourni une attestation appropriée. Le
+but d'une telle vérification est de déterminer si le
+profit réel réalisé à la suite d'un seul
+contrat, s'il en existe un seul, ou si le profit global réel
+réalisé par l'entrepreneur à la suite d'un ensemble
+de contrats négociés renfermant un ou plusieurs des prix,
+taux basés sur le temps ou multiplicateurs précités
+pendant une période précise et choisie, est raisonnable
+et justifié par rapport au profit estimatif indiqué dans
+une ou des attestations de prix ou de taux antérieurs.</li>
+<li value="4">Tout élément de prix ferme, taux horaire
+ferme, taux ferme de frais généraux ou multiplicateur
+salarial ferme pour lequel l'entrepreneur a fourni une attestation
+indiquant que cet élément s'applique au meilleur client.
+Une telle vérification viserait à déterminer si
+l'entrepreneur a appliqué à quiconque, y compris le
+meilleur client de l'entrepreneur, des prix, taux ou
+multiplicateurs moins élevés pour des biens ou services
+de qualité et quantité comparables.</li>
+</ol>
+</li>
+<li value="2">Tout paiement effectué avant la fin de la
+vérification des comptes sera considéré uniquement
+comme paiement provisoire et devra faire l'objet d'un rajustement
+dans la mesure requise pour tenir compte des résultats de
+cette vérification. Pour tout paiement en trop, l'entrepreneur
+doit rembourser au Canada le trop-payé.</li>
+</ol>
+</div></pre>
+</div>

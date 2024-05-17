@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats maritimes lorsque l'approvisionnement en carburant et le débarquement du carburant des navires du gouvernement canadien doivent être effectués sous la supervision d'un superviseur responsable.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit s'assurer que l'approvisionnement en carburant et le débarquement du carburant des navires du gouvernement canadien sont effectués sous la supervision d'un superviseur responsable possédant la formation et l'expérience nécessaires à de telles opérations.</p>
+</div></pre>
+</div>

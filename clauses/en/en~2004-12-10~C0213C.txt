@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for services - firm price.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor shall be paid the firm lot price of $ ________ for work and 
+services performed pursuant to this Contract.
+
+<strong>Travel and Living Expenses</strong>
+
+The Contractor will be paid its authorized travel and living expenses, 
+reasonably and properly incurred in the performance of the Work, at cost, 
+without any allowance for overhead or profit, in accordance with the meal, 
+private vehicle and incidental allowances specified in Appendices B, C and 
+D of the Treasury Board Travel Directive (<strong class="wsStyleUnderline">http://www.tbs-sct.gc.ca/hr-rh/
+gtla-vgcl/</strong>), and with the other provisions of the directive referring to "
+travellers", rather than those referring to "employees".
+
+Estimated Cost: _____.
+
+All payments are subject to government audit.
+
+All travel must have prior authorization of the ________ (<strong><em>Insert name of 
+relevant authority</em></strong>).
+
+Goods and Services Tax or Harmonized Sales Tax, as applicable, estimated at $ _____, 
+is extra to the Estimated Cost shown herein and shall be paid in accordance 
+with the provisions of clause _______.
+
+Subject to the exercise of the Contract option for additional services in 
+accordance with clause ______ herein, the Contractor shall be paid the firm 
+lot price of $ _____ to perform all work and services required to be 
+performed in relation to the contract extension.
+
+<strong>Unfunded</strong>
+
+All deliverables items are FOB Destination, and Canadian Customs Duty 
+included, where applicable.
+
+
+
+</pre>
+</div>

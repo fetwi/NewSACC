@@ -1,0 +1,28 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause, in conjunction with clause Z1800C, in all contracts 
+which provide for progress payments. See SPM Directive 4203 for details.   
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>If any lien under section 178 of the Bank Act exists in respect of any 
+materials, parts, work in process or finished work for which the Contractor 
+claims or intends to claim payment, the Contractor hereby agrees to inform 
+CCC without delay and the Contractor further agrees, unless otherwise 
+instructed by Canadian Commercial Corporation, either:
+
+       (a) to cause the bank to remove such lien forthwith and to furnish 
+       CCC with written confirmation thereof from the bank; or
+
+       (b) to furnish or cause to be furnished forthwith to CCC an 
+       undertaking from the bank to Canadian Commercial Corporation that 
+       the bank will not make any claim under section 178 of the Bank Act 
+       upon materials, parts, work in process or finished work in respect 
+       of which payment is made to the Contractor under this Contract.
+
+Failure by the Contractor to inform CCC of any such lien or failure by the 
+   Contractor to implement paragraphs (a) or (b) above shall constitute 
+   default under the clause entitled "Default by Contractor" in the General 
+   Conditions of the Contract, entitling Canadian Commercial Corporation to 
+   terminate the Contract.    
+</pre>
+</div>

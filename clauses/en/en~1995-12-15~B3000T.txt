@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause where trade references are specified and substitutes 
+will be considered.  The words "or equal" must appear after each item.  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Products equivalent in form, fit, function and quality will be considered 
+only if the Bidder: (1) designates the trade reference of the substitutes 
+and the name of the manufacturer, (2) strikes out the trade reference 
+specified and the words "or equal", and (3) provides complete 
+specifications and descriptive literature for the substitutes.  The Bidder 
+warrants that proposed equivalent substitutes will be fully interchangeable 
+with the trade reference specified.
+
+</pre>
+</div>

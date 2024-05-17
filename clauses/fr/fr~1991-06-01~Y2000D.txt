@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Inclure dans toutes les demandes de soumissions et tous les contrats passés au 
+nom de l
+ <abbr title="Agence canadienne de développement international">
+  ACDI
+ </abbr>
+ .
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les frais de port doivent être payés à l'avance
+et rajoutés à la facture à titre de poste
+séparé, accompagnés du reçu et de la
+documentation.</p>
+</div></pre>
+</div>

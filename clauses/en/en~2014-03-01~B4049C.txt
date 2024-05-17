@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts for the Department of National Defence 
+when a Long Lead Time Item List is required.
+
+Contracting officers must include the name of the Technical Authority and the 
+Procurement Authority in the contract.
+
+Use this clause in conjunction with
+ 
+  B4060C
+ 
+ and
+ 
+  B4061C
+ 
+ .
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must, within <var>______</var> days
+after contract award, provide to the Procurement Authority a Long
+Lead Time Item List (LLTIL) prepared in accordance with the current
+issue of Canadian Forces Specification D-01-100-214/SF-000. Any
+items with a procurement lead time (from placement of order to
+delivery) of greater than <var>______</var> months must be included
+in the <abbr title="Long Lead Time Item List">LLTIL</abbr>. Upon request from the Contractor, the specification
+will be provided by the Contracting Authority.</li>
+<li value="2">Supplementary Provisioning Technical Documentation
+(SPTD), as prepared by the actual manufacturer of the item, is
+required for the codification and cataloguing of all items listed
+in the <abbr title="Long Lead Time Item List">LLTIL</abbr>. The <abbr title="Supplementary Provisioning Technical Documentation ">SPTD</abbr> called up in the above specification must
+accompany the <abbr title="Long Lead Time Item List">LLTIL</abbr> as detailed in the specification. Specific
+details of the data elements required must be listed on a
+Provisioning Documentation Selection Sheet, prepared in accordance
+with the above specification, and be submitted in electronic <abbr title="American Standard Code for Information Interchange">ASCII</abbr>
+text format.</li>
+<li value="3">Questions regarding the preparation, format or
+contents of the above provisioning documentation must be directed
+to the Procurement Authority.</li>
+</ol>
+</div></pre>
+</div>

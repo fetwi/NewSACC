@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause when ISO 9001 is the requirement. In the event the 
+requisition has multiple Quality Assurance (QA) codes, the contracting officer 
+is to identify the line item numbers which are associated with each QA clause.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>In the performance of the Work described herein, the Contractor shall 
+comply with the requirements of:
+
+       ISO 9001, Quality systems -- Model for quality assurance in design, 
+       development, production, installation and servicing,
+
+       published by the International Organization for Standardization (ISO), 
+       current edition at date of submission of Contractor's bid.
+
+<strong>Assistance for Government Quality Assurance</strong> (GQA)
+
+The Contractor shall provide the Quality Assurance Representative (QAR) 
+with the accommodation and facilities required for the proper 
+accomplishment of GQA and shall provide any assistance required by the QAR 
+for evaluation, verification, validation, documentation or release of 
+product.
+
+The QAR shall have the right of access to any area of the Contractor's or 
+subcontractor's facilities where any part of the Work is being performed. 
+The QAR shall be afforded unrestricted opportunity to evaluate and verify 
+contractor compliance with Quality System procedures and to validate 
+product conformance with contract requirements. The Contractor shall make 
+available for reasonable use by the QAR the equipment necessary for all 
+validation purposes. Contractor personnel shall be made available for 
+operation of such equipment as required.
+
+When the QAR determines that GQA is required at a subcontractor's 
+facilities, the Contractor shall provide for this in the purchasing 
+document and forward copies to the QAR, together with relevant technical 
+data as the QAR may request.
+
+The Contractor shall notify the QAR of non-conforming product received from 
+a subcontractor when the product has been subject to GQA.
+
+
+</pre>
+</div>

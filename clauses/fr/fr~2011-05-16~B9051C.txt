@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats avec autorisations de tâches du ministère de la Défense nationale.
+ </p>
+<p>
+  Pour de plus amples renseignements, consulter l'article
+  
+   3.35.1
+  
+  du Guide des approvisionnements.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le processus d'autorisation de tâches sera administré par <span class="input-required"><var>_____________</var> <kbd>(<em>insérer la désignation correspondante du ministère de la Défense nationale, p. ex. D MAR P 4-6-8</em>)</kbd></span>. Ce processus comprend la surveillance, le contrôle et le rapport des dépenses dans le cadre du contrat avec des autorisations de tâches à l'intention de l'autorité contractante.</p>
+</div></pre>
+</div>

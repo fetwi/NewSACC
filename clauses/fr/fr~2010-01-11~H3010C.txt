@@ -1,0 +1,64 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque des paiements progressifs 
+par étape seront versés conformément à un calendrier des étapes déjà établi en 
+présentant le formulaire
+  
+   PWGSC-TPSGC 1111
+  
+  et le montant réclamé n'est pas 
+assujetti à une retenue.  Utiliser la clause H3009C lorsque le montant réclamé 
+est assujetti à une retenue.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   H3022C
+  
+  ou
+  
+   H3024C
+  
+  et
+  
+   H4012C
+  
+  , s'il y a 
+lieu.
+ </p>
+<p>
+  Pour plus de renseignements sur les paiements progressifs, consulter l'article
+  
+   4.70.30.15
+  
+  du
+  <cite>
+
+    Guide des approvisionnements
+   
+</cite>
+  .  Les paiements d'étape constituent 
+une forme de paiement progressif et sont adressés sous la politique sur les 
+paiement progressifs.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Le Canada effectuera les paiements d'étape
+conformément au calendrier des étapes détaillé
+dans le contrat et les dispositions de paiement du contrat si :</p>
+<ol type="a">
+<li value="1">une demande de paiement exacte et complète en
+utilisant le formulaire PWGSC-TPSGC 1111, Demande de paiement progressif, et tout autre document
+exigé par le contrat ont été présentés
+conformément aux instructions relatives à la facturation
+fournies dans le contrat;</li>
+<li value="2">toutes les attestations demandées sur le
+formulaire PWGSC-TPSGC 1111 ont été signées par les
+représentants autorisés;</li>
+<li value="3">tous les travaux associés à l'étape
+et, selon le cas, tout bien livrable exigé ont été
+complétés et acceptés par le Canada.</li>
+</ol>
+</div></pre>
+</div>

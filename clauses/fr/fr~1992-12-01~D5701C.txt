@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante quand la demande indique que la formule CF 1280 et 
+l'installation sur place sont requises et que la clause D5700D a été utilisée. 
+Indiquer la distribution selon la demande.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsque l'installation est terminée, la formule CF 1280, Certificat de 
+conformité, indiquant les articles prévus au contrat, doit être préparée 
+par l'entrepreneur et signée par le représentant de l'assurance de la 
+qualité, doit être distribuée comme suit : _____
+
+</pre>
+</div>

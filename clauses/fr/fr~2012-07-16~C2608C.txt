@@ -1,0 +1,90 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats de biens lorsque le 
+ministère de la Défense nationale sera l'importateur.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   D0035C
+  
+  , s'il y a lieu; et avec
+  
+   C2610C
+  
+  lorsque la valeur du contrat est de 250 000 $CAN ou plus.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Généralités</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit fournir deux (2) exemplaires de
+la Facture des douanes canadiennes (FDC) ou deux (2) exemplaires de
+la facture commerciale portant la mention « Pour les douanes
+seulement&amp;raquo.</li>
+<li value="2">Pour les envois en provenance des États-Unis et
+du Mexique, et qui sont d'origine états-unienne, mexicaine ou
+canadienne aux termes de l'Accord de libre-échange
+nord-américain (ALENA) et aussi pour les envois en provenance
+d'Israël qui sont d'origine israélienne aux termes de
+l'Accord de libre-échange Canada-Israël (ALÉCI),
+l'entrepreneur doit fournir la preuve de l'origine des biens. Pour
+les biens d'une valeur égale ou supérieure à 1 600 $
+CAD, une telle preuve doit prendre la forme d'un certificat
+d'origine de l'<abbr title="l'Accord de libre-échange nord-américain">ALENA</abbr>/<abbr title="Accord de libre-échange Canada-Israël ">ALÉCI</abbr>. Par contre, dans le cas de biens
+d'une valeur inférieure à 1 600 $ CAD, une simple
+déclaration sur la facture sera suffisante. Dans les deux cas,
+le document doit porter une signature originale et faire
+référence au numéro de contrat. Pour les contrats
+d'une valeur égale ou supérieure à 250 000 $ CAD, la
+preuve de l'origine n'est pas nécessaire.</li>
+<li value="3">L'entrepreneur ne doit pas engager un courtier en douanes privé pour dédouaner les biens fournis en vertu du contrat, à moins d'avoir obtenu une autorisation en ce sens du Groupe de soutien du matériel canadien - Services des douanes, au Quartier général de la Défense nationale, en communiquant par téléphone au 1-855-210-5149 ou par télécopieur au 1-800-306-1811 ou 613-971-7333.</li>
+</ol>
+<h2>Documents à remplir</h2>
+<ol type="1">
+<li value="4">La <abbr title="Facture des douanes canadiennes">FDC</abbr> ou la facture commerciale doit fournir
+l'information suivante :
+<ol type="a">
+<li value="1">une description détaillée des biens
+expédiés, y compris les codes de la « Schedule
+B » (disponible en anglais seulement) applicables aux États-Unis ou les codes du tarif
+douanier fondé sur le Système harmonisé des
+États-Unis;</li>
+<li value="2">la valeur et les conditions de vente de chaque
+article (par ex. vente, prêt, garantie, Incoterms 2000), y
+compris la valeur des réparations, les réparations aux
+termes d'une garantie ou les coûts de remplacement;</li>
+<li value="3">le numéro de contrat et les codes financiers
+(utiliser la case 3 de la Facture des douanes canadiennes);</li>
+<li value="4">le pays d'origine des biens;</li>
+<li value="5">dans le cas où un certificat d'origine de
+l'<abbr title="l'Accord de libre-échange nord-américain">ALENA</abbr> ou de l'<abbr title="Accord de libre-échange Canada-Israël ">ALÉCI</abbr> a été établi, la case
+« Description » de la <abbr title="Facture des douanes canadiennes">FDC</abbr> ou de la facture commerciale doit
+contenir une déclaration indiquant qu'il a été
+rempli et est annexé à la facture.</li>
+</ol>
+</li>
+</ol>
+<h2>Distribution des documents</h2>
+<ol type="1">
+<li value="5">L'entrepreneur doit joindre les documents suivants au
+contenant d'expédition no 1 pour tous les envois, dans une
+enveloppe étanche portant la mention « Documentation Douane
+Canada » :
+<ol type="a">
+<li value="1">un (1) exemplaire de la <abbr title="Facture des douanes canadiennes">FDC</abbr> ou un (1) exemplaire de
+la facture commerciale, selon le cas;</li>
+<li value="2">un (1) exemplaire du certificat d'origine de l'<abbr title="l'Accord de libre-échange nord-américain">ALENA</abbr>
+(s'il y a lieu).</li>
+</ol>
+</li>
+<li value="6">Le second exemplaire de chacun des formulaires
+susmentionnés doit être joint aux documents
+d'expédition.</li>
+<li value="7">Un exemplaire du certificat d'origine de l'<abbr title="Accord de libre-échange Canada-Israël ">ALÉCI</abbr>
+doit être télécopié au 1-800-306-1811 ou
+envoyé par courriel à DCBSCustoms@forces.gc.ca.</li>
+</ol>
+</div></pre>
+</div>

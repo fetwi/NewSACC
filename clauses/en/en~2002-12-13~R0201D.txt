@@ -1,0 +1,299 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+TP1    Amount Payable - General
+TP2    Amounts Payable to the Contractor
+TP3    Amounts Payable to Her Majesty
+TP4    Time of Payment
+TP5    Progress Report and Payment Thereunder Not Binding on Her Majesty
+TP6    Delay in Making Payment
+TP7    Right of Set-off
+TP8    Payment in Event of Termination
+TP9    Interest on Settled Claims
+
+
+<strong>TP1    (01/01/96)    Amount Payable - General</strong>
+
+1.1    Subject to any other provisions of the contract, Her Majesty shall 
+       pay the Contractor, at the times and in the manner hereinafter set 
+       out, the amount by which
+
+       1.1.1  the aggregate of the amounts described in TP2 exceeds
+
+       1.1.2  the aggregate of the amounts described in TP3
+
+       and the Contractor shall accept that amount as payment in full 
+       satisfaction for everything furnished and done by the Contractor in 
+       respect of the work to which the payment relates.
+
+<strong>TP2    (01/10/94)    Amounts Payable to the Contractor</strong>
+
+2.1    The amounts referred to in TP1.1.1 are the aggregate of
+
+       2.1.1  the amounts referred to in the Articles of Agreement, and
+
+       2.1.2  the amounts, if any, that are payable to the Contractor 
+              pursuant to the General Conditions.
+
+<strong>TP3    (01/10/94)    Amounts Payable to Her Majesty</strong>
+
+3.1    The amounts referred to in TP1.1.2 are the aggregate of the amounts, 
+       if any, that the Contractor is liable to pay Her Majesty pursuant to 
+       the contract.
+
+3.2    When making any payment to the Contractor, the failure of Her 
+       Majesty to deduct an amount referred to in TP3.1 from an amount 
+       referred to in TP2 shall not constitute a waiver of the right to do 
+       so, or an admission of lack of entitlement to do so in any 
+       subsequent payment to the Contractor.
+
+<strong>TP4    (13/12/02)    Time of Payment</strong>
+
+4.1    In these Terms of Payment
+
+       4.1.1  The "payment period" means a period of 30 consecutive days or 
+              such other longer period as is agreed between the Contractor 
+              and the Engineer.
+
+       4.1.2  An amount is "due and payable" when it is due and payable by 
+              Her Majesty to the Contractor according to TP4.5, TP4.8 or 
+              TP4.11.
+
+       4.1.3  An amount is overdue when it is unpaid on the first day 
+              following the day upon which it is due and payable. 
+       4.1.4  The "date of payment" means the date of the negotiable 
+              instrument of an amount due and payable by the Receiver 
+              General for Canada.
+
+       4.1.5  The "Bank Rate" means the rate of interest established from 
+              time to time by the Bank of Canada as the minimum rate at 
+              which it makes short term advances to members of the Canadian 
+              Payments Association.
+
+       4.1.6  The "Average Bank Rate" means the simple arithmetic mean of 
+              the Bank Rate in effect at 4:00 p.m. Eastern Standard Time 
+              each day during the calendar month which immediately precedes 
+              the calendar month in which payment is made.
+
+4.2    The Contractor shall, on the expiration of a payment period, deliver 
+       to the Engineer in respect of that payment period a written progress 
+       claim that fully describes any part of the work that has been 
+       completed, and any material that was delivered to the work site but 
+       not incorporated into the work, during that payment period.
+
+4.3    The Engineer shall, not later than ten (10) days after receipt of a 
+       progress claim referred to in TP4.2,
+
+       4.3.1  inspect the part of the work and the material described in 
+              the progress claim; and
+
+       4.3.2  issue a progress report, a copy of which the Engineer will 
+              give to the Contractor, that indicates the value of the part 
+              of the work and the material described in the progress claim 
+              that, in the opinion of the Engineer,
+
+              4.3.2.1       is in accordance with the contract, and
+
+              4.3.2.2       was not included in any other progress report 
+                     relating to the contract.
+
+4.4    Subject to TP1 and TP4.5 Her Majesty shall pay the Contractor
+
+       4.4.1  an amount that is equal to 95% of the value that is indicated 
+              in the progress report referred to in TP4.3.2 if a labour and 
+              material payment bond has been furnished by the Contractor, 
+              or
+
+       4.4.2  an amount that is equal to 90% of the value that is indicated 
+              in the progress report referred to in TP4.3.2 if a labour and 
+              material payment bond has not been furnished by the 
+              Contractor.
+
+4.5    Her Majesty shall pay the amount referred to in TP4.4 not later than
+
+       4.5.1  30 days after the receipt by the Engineer of a progress claim 
+              referred to in TP4.2, or
+
+       4.5.2  15 days after the Contractor has made and delivered to the 
+              Engineer
+
+              4.5.2.1       a statutory declaration described in TP4.6 in 
+                     respect of a progress claim referred to in TP4.2,
+
+              4.5.2.2       in the case of the Contractor's first progress 
+                     claim, a construction schedule in accordance with the 
+                     relevant section of the Specifications, and 
+
+              4.5.2.3       if the requirement for a schedule is specified, 
+                     an update of the said schedule at the times identified 
+                     in the relevant sections of the Specifications,
+
+       whichever is later.
+
+4.6    A statutory declaration referred to in TP4.5 shall contain a 
+       deposition by the Contractor that, up to the date of the Contractor'
+       s progress claim, the Contractor has complied with all its lawful 
+       obligations with respect to the Labour Conditions and that all 
+       lawful obligations of the Contractor to subcontractors and suppliers 
+       of material in respect of the work under the contract have been 
+       fully discharged.
+
+4.7    Subject to TP1 and TP4.8, Her Majesty shall pay the Contractor the 
+       amount referred to in TP1 less the aggregate of
+
+       4.7.1  the sum of all payments that were made pursuant to TP4.4;
+
+       4.7.2  an amount that is equal to the Engineer's estimate of the 
+              cost to Her Majesty of rectifying defects described in the 
+              Interim Certificate of Completion; and
+
+       4.7.3  an amount that is equal to the Engineer's estimate of the 
+              cost to Her Majesty of completing the parts of the work 
+              described in the Interim Certificate of Completion other than 
+              the defects referred to in TP4.7.2.
+
+4.8    Her Majesty shall pay the amount referred to in TP4.7 not later than
+
+       4.8.1  30 days after the date of issue of an Interim Certificate of 
+              Completion referred to in GC44.2, or
+
+       4.8.2  15 days after the Contractor has made and delivered to the 
+              Engineer
+
+              4.8.2.1       a statutory declaration described in TP4.9 in 
+                     respect of an Interim Certificate of Completion 
+                     referred to in GC44.2, and
+
+              4.8.2.2       if so specified in the relevant sections of the 
+                     Specifications, an update of the construction schedule 
+                     referred to in TP4.5.2 and the updated schedule shall, 
+                     in addition to the specified requirements, clearly 
+                     show a detailed timetable that is acceptable to the 
+                     Engineer for the completion of any unfinished work and 
+                     the correction of all listed defects.
+
+       whichever is later.
+
+4.9    A statutory declaration referred to in TP4.8 shall contain a 
+       deposition by the Contractor that up to the date of the Interim 
+       Certificate of Completion the Contractor has
+
+       4.9.1  complied with all of the Contractor's lawful obligations with 
+              respect to the Labour Conditions;
+
+       4.9.2  discharged all of the Contractor's lawful obligations to the 
+              subcontractors and suppliers of material in respect of the 
+              work under the contract; and
+
+       4.9.3  discharged the Contractor's lawful obligations referred to in 
+              GC14.6.
+
+4.10   Subject to TP1 and TP4.11, Her Majesty shall pay the Contractor the 
+       amount referred to in TP1 less the aggregate of
+
+       4.10.1 the sum of all payments that were made pursuant to TP4.4; and
+
+       4.10.2 the sum of all payments that were made pursuant to TP4.7.
+
+4.11   Her Majesty shall pay the amount referred to in TP4.10 not later 
+       than
+
+       4.11.1 60 days after the date of issue of a Final Certificate of 
+              Completion referred to in GC44.1, or
+
+       4.11.2 15 days after the Contractor has made and delivered to the 
+              Engineer a statutory declaration described in TP4.12,
+ 
+       whichever is later.
+
+4.12   A statutory declaration referred to in TP4.11 shall, in addition to 
+       the depositions described in TP4.9, contain a deposition by the 
+       Contractor that all of the Contractor's lawful obligations and any 
+       lawful claims against the Contractor that arose out of the 
+       performance of the contract have been discharged and satisfied.
+
+<strong>TP5    (01/10/94)    Progress Report and Payment Thereunder not Binding on 
+Her Majesty</strong>
+
+5.1    Neither a progress report referred to in TP4.3 nor any payment made 
+       by Her Majesty pursuant to these Terms of Payment shall be construed 
+       as an admission by Her Majesty that the work, material or any part 
+       thereof is complete, is satisfactory or is in accordance with the 
+       contract.
+
+<strong>TP6    (01/01/96)    Delay in Making Payment</strong>
+
+6.1    Notwithstanding GC7 any delay by Her Majesty in making any payment 
+       when it is due pursuant to these Terms of Payment shall not be a 
+       breach of the contract by Her Majesty.
+
+6.2    Subject to TP6.3, Her Majesty shall pay to the Contractor simple 
+       interest at the Average Bank Rate plus 3 percent per annum on any 
+       amount which is overdue pursuant to TP4.1.3, and the interest shall 
+       apply from and include the day such amount became overdue until the 
+       day prior to the date of payment.
+
+6.3    Interest in accordance with TP6.2 shall be paid without demand by 
+       the Contractor except that
+
+       6.3.1  in respect of amounts which are less than 15 days overdue, no 
+              interest shall be paid in respect of payment made within such 
+              15 days unless the Contractor so demands after such amounts 
+              have become due, and 
+
+       6.3.2  interest shall not be payable or paid on overdue advance 
+              payments if any.
+
+<strong>TP7    (01/10/94)    Right of Set-off</strong>
+
+7.1    Without limiting any right of set-off or deduction given or implied 
+       by law or elsewhere in the contract, Her Majesty may set off any 
+       amount payable to Her Majesty by the Contractor under this contract 
+       or under any current contract against any amount payable to the 
+       Contractor under this contract.
+
+7.2    For the purposes of TP7.1, "current contract" means a contract 
+       between Her Majesty and the Contractor
+
+       7.2.1  under which the Contractor has an undischarged obligation to 
+              perform or supply work, labour or material, or
+
+       7.2.2  in respect of which Her Majesty has, since the date on which 
+              the Articles of Agreement were made, exercised any right to 
+              take the work that is the subject of the contract out of the 
+              Contractor's hands.
+
+<strong>TP8    (01/10/94)    Payment in Event of Termination</strong>
+
+8.1    If the contract is terminated pursuant to GC41, Her Majesty shall 
+       pay the Contractor any amount that is lawfully due and payable to 
+       the Contractor as soon as is practicable under the circumstances.
+
+<strong>TP9    (01/01/96)    Interest on Settled Claims</strong>
+
+9.1    Her Majesty shall pay to the Contractor simple interest on the 
+       amount of a settled claim at the Average Bank Rate plus 3 per cent 
+       per annum from the date the settled claim was outstanding until the 
+       day prior to the date of payment.
+
+9.2    For the purposes of TP9.1,
+
+       9.2.1  a claim is deemed to have been settled when an agreement in 
+              writing is signed by the Engineer and the Contractor setting 
+              out the amount of the claim to be paid by Her Majesty and the 
+              items of work for which the said amount is to be paid.
+
+       9.2.2  a settled claim is deemed to be outstanding from the day 
+              immediately following the date the said claim would have been 
+              due and payable under the contract had it not been disputed.
+
+9.3    For the purposes of TP9 a claim means a disputed amount subject to 
+       negotiation between Her Majesty and the Contractor under the 
+       contract.
+
+
+</pre>
+</div>

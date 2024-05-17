@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+Engineering Works.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Unless otherwise indicated in clause R1013D, Modification to 
+       Categories of Services or clause R2003D, Agreement Particulars, this 
+       Agreement includes the following Categories of Services:
+
+       (a)    Analysis of <em>Terms of Reference</em> and Conceptual Design,
+       (b)    Preliminary Design,
+       (c)    Construction Documents, Pre-Tender <em>Construction Cost Estimate</em> 
+              and <em>Project Schedule</em>,
+       (d)    Tender Call, Bid Evaluation and <em>Construction Contract</em> Award,
+       (e)    Construction and Contract Administration,
+       (f)    Post-Construction Warranty Review.
+</pre>
+</div>

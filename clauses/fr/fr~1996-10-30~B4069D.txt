@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause pour définir les exigences de marquage du matériel dont la 
+durée de conservation est limitée.  Faire un choix parmi la liste suivante :
+
+a)	numéro de spécification (type, qualité et catégorie) du bien;
+b)	nom du fabricant;
+c)	numéro de la pièce ou du dessin du fabricant;
+d)	numéro du lot de série du fabricant;
+e)	numéro d'homologation;
+f)	date de vulcanisation des pièces en caoutchouc;
+g)	autres données exigées dans le contrat ou dans la spécification de biens ou 
+de services;
+h)	date de réparation ou de remise en état;
+j)	date de fabrication;
+k)	nom de l'entrepreneur chargé de la réparation ou de la remise en état;
+m)	situation de la modification;
+n)	numéro de série du bien.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit s'assurer que les repères apposés sur 
+       l'emballage intérieur et extérieur des éléments _____ comprennent 
+       les symboles spéciaux suivants :
+
+2.     Liste des repères nécessaires : _____
+
+3.     Ces repères doivent être apposés conformément à la spécification 
+       D-LM-008-002/SF-001 des Forces canadiennes.
+
+</pre>
+</div>

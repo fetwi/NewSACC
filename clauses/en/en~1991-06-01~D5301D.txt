@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations and contracts when DND 
+requisitions specify inspection by a DND quality assurance representative at 
+destination  
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor is responsible for performing or having performed all 
+inspections and tests necessary to substantiate that the materiel or 
+services provided conform to the drawings, specifications and Contract 
+requirements of the specified manufacturer's part number.
+
+All materiel supplied under this Contract may be subject to inspection by a 
+   Department of National Defence quality assurance representative at 
+   destination.
+</pre>
+</div>

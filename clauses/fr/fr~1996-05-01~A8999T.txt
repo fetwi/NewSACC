@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Nous attestons que toutes les déclarations relatives aux études et à 
+l'expérience des personnes proposées pour l'exécution des travaux sont 
+exactes et vraies, et nous sommes conscients du fait que le Canada se 
+réserve le droit de vérifier toute information fournie à cet égard, et que 
+toute déclaration non véridique pourrait rendre la proposition irrecevable.
+
+Si la vérification par le Canada révèle qu'une déclaration est non 
+véridique, le Canada peut considérer que tout contrat découlant de la 
+présente soumission est en défaut et y mettre fin en conséquence.
+
+L'omission de joindre à la soumission la présente déclaration et 
+attestation, dûment signée, rend la soumission irrecevable.
+
+
+
+________
+Signature
+
+</pre>
+</div>

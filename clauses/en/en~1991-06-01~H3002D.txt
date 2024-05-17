@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use clause H3002D for cost reimbursable or fixed time rate contracts when using 
+clause H3000D or H3001T.  (For cost reimbursable contracts only, after the 
+phrase "provided a final claim for such payment is submitted" add the phrase 
+"together with a completed Contractor's Cost Submission on form DSS-MAS 7953.") 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The balance of the amount payable will be paid upon satisfactory completion 
+of the Contract, provided that a final claim for such payment is submitted.
+
+Progress payments shall be regarded as interim payments only.  The Minister 
+   shall have the right to conduct interim cost/time verifications or 
+   audits and to make adjustments during the performance of the Work. Any 
+   overpayments resulting from such progress payments or otherwise shall be 
+   promptly refunded to Canada.
+</pre>
+</div>

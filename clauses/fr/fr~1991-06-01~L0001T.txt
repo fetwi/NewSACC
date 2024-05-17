@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante pour les articles spéciaux pouvant nécessiter un 
+outillage spécial de production.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.  L'Entrepreneur doit fournir l'outillage spécial de production énuméré 
+dans la liste ci-annexée, au prix de $_____.
+
+2.  Les titres à l'outillage et à tout remplacement seront dévolus au 
+Canada.  L'entretien et le remplacement seront à la charge de 
+l'Entrepreneur au cours de l'exécution du Contrat.
+
+3.  L'Entrepreneur s'engage à prendre un soin raisonnable et convenable de 
+   l'outillage pendant qu'il lui sera confié et d'en assurer la garde sans 
+   frais supplémentaires pour le Canada pendant une période de _____ jours 
+   à compter de la date d'achèvement du Contrat.  Cependant, si des frais 
+   de protection et de conditionnement sont nécessaires, ils devront faire 
+   l'objet d'un nouveau contrat.
+</pre>
+</div>

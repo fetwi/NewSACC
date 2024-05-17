@@ -1,0 +1,10 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>If it is determined, following acceptance and during use, that the product 
+   does not meet the specification, the Contractor agrees to pay 25 percent 
+   of the price of the product used and to accept return of the balance at 
+   its own expense and refund any payments made therefor. 
+</pre>
+</div>

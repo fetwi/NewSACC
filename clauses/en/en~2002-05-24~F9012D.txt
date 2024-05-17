@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when Canada Customs and Revenue Agency is the client department, 
+and in consultation with the Canadian and International Industrial Security 
+Directorate.
+
+Completion of the Security Requirement Check List, form TBS/SCT 350-103, is 
+mandatory and is available on line at www.ciisd.gc.ca, or in paper version in 
+the Supply Manual, Annex 6.13.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor/Offeror must comply with the provisions of the:
+
+       (a)    Security Requirements Check List, attached at Annex _____;
+       (b)    <em>Industrial Security Manual</em> (June 1992);
+       (c)    <em>Security Requirements for Protection of Sensitive Information 
+              Manual</em> (March 1998), issued by Canada Customs and Revenue 
+              Agency, Security Directorate.
+
+</pre>
+</div>

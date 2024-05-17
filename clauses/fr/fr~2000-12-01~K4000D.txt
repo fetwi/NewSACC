@@ -1,0 +1,118 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsqu'une définition de produits canadiens et de 
+services canadiens est exigée.  Cette clause doit toujours être utilisée lorsque 
+les clauses K4001T, K4002T, K4003T, K4004T, K4005T et K4006T sont utilisées.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     <strong>Produit canadien</strong> : Un produit entièrement fabriqué au Canada ou 
+       d'origine canadienne est considéré comme un produit canadien.  Un 
+       produit dont des composantes sont importées peut aussi être 
+       considéré comme produit canadien aux fins de la politique, pourvu 
+       qu'il ait été suffisamment transformé au Canada pour être conforme à 
+       la définition des Règles d'origine établies par l'Accord de 
+       libre-échange nord-américain (ALENA)  (voir l'Annexe 5.5 du Guide 
+       des approvisionnements : RÈGLES DE DÉTERMINATION DE L'ORIGINE).  Aux 
+       fins de cette détermination, il faut remplacer le terme «territoire» 
+       qui figure dans les règles d'origine de l'ALENA par celui de «Canada».  
+       Pour les photocopieurs, ordinateurs et matériel de bureau dans les 
+       groupes 36, 70 et 74 du «Federal Supply Classification» (FSC) 
+       (classification fédérale des approvisionnements), seuls les produits 
+       des entreprises du Programme de partenariat MERIT et de CERCLE ou 
+       des entreprises qui faisaient partie du Groupe prioritaire 1 avant 
+       avril 1992, sont considérés comme des produits canadiens (voir 
+       ci-dessous le paragraphe intitulé «Programme de partenariat MERIT et 
+       CERCLE»).
+
+2.     <strong>Service canadien</strong> : Un service fourni par un individu établi au 
+       Canada est considéré comme un service canadien.  Lorsqu'un besoin 
+       consiste en l'acquisition de seulement un service, lequel est fourni 
+       par plus d'un individu, le service sera considéré comme canadien si 
+       au moins 80 p. 100 du prix total de la soumission pour le service 
+       est fourni par du personnel établi au Canada.
+
+3.     <strong>Produits divers</strong> : Lorsque les besoins consistent en l'acquisition de 
+       plusieurs produits, l'une des deux méthodes suivantes est appliquée:
+
+       a)     <strong>évaluation globale</strong> : Au moins 80 p. 100 du prix total de la 
+              soumission doit correspondre à des produits canadiens.
+
+       b)     <strong>évaluation individuelle de chaque article</strong> : Dans certains cas, 
+              chaque article de la soumission peut être évalué 
+              individuellement et des marchés peuvent être adjugés à plus 
+              d'un fournisseur.  Les fournisseurs doivent alors indiquer 
+              séparément chaque produit qui est conforme à la définition 
+              des produits canadiens.
+
+4.     <strong>Services divers</strong> : Pour les besoins se composant de plus d'un service, 
+       au moins 80 p. 100 du prix total de la soumission doit correspondre 
+       à des services fournis par du personnel établi au Canada.
+
+5.     <strong>Combinaison de produits et de services</strong> : Sauf lorsqu'il s'agit de 
+       besoins en matière de sciences et de technologie (voir l'alinéa 6 a) 
+       ci-dessous), si à la fois des produits et des services doivent être 
+       achetés, au moins 80 p. 100 du prix total de la soumission doit 
+       correspondre à des produits canadiens et des services canadiens 
+       (conformément aux définitions ci-dessus).
+
+       L'Annexe 7.8, Détermination de la teneur canadienne de plusierus 
+       produits et/ou services, du <em>Guide des approvisionnements</em> montre 
+       comment déterminer le contenu canadien pour plusieurs produits, 
+       plusieurs services ou une combinaison de produits et de services.
+
+6.     <strong>Autres produits et services canadiens</strong> :
+
+       a)     <strong>Politique «Sciences et technologie - sous-traitance</strong>» : La 
+              politique «Sciences et technologie -- sous-traitance» du 
+              Conseil du Trésor établit les exigences relatives à 
+              l'attribution de marchés fédéraux de sciences et de 
+              technologie en régime de concurrence.  Les marchés de 
+              sciences et de technologie peuvent être restreints aux 
+              fournisseurs canadiens.  À moins d'indication contraire dans 
+              l'Avis de projet de  marché (APM) ou dans l'invitation à 
+              soumissionner, le pourcentage du prix total de la soumission 
+              devant correspondre à des produits ou à des services 
+              canadiens est de 80 p. 100. 
+       b)     <strong>Programme de partenariat MERIT et CERCLE</strong> : Pour les 
+              photocopieurs, ordinateurs et matériel de bureau dans les 
+              groupes 36, 70 et 74 du FSC, seuls les produits des 
+              entreprises suivantes sont considérés comme des produits 
+              canadiens :
+
+              (1)    les associés du Programme de partenariat MERIT 
+                     (parrainé par Industrie Canada);
+
+              (2)    les entreprises qui, en date du 31 mars 1992, 
+                     faisaient partie du Groupe prioritaire 1, conformément 
+                     à la Politique relative aux groupes prioritaires alors 
+                     en vigueur; ou
+
+              (3)    les entreprises CERCLE tel que convenu entre Industrie 
+                     Canada et le ministère des Travaux publics et des 
+                     Services gouvernementaux.
+
+              Des informations supplémentaires concernant le Programme de 
+              partenariat MERIT et CERCLE peuvent être obtenues en 
+              téléphonant à Industrie Canada, Direction générale des 
+              technologies de l' information et des communications, Ottawa 
+              (Ontario), au (613) 998-4439.
+
+       c)     <strong>Véhicules automobiles</strong> : Les véhicules automobiles sont 
+              considérés comme des produits canadiens, aux fins de la 
+              Politique sur le contenu canadien, lorsqu'ils sont conformes 
+              aux conditions d'achat, selon les énoncés définissant les 
+              véhicules normalement achetés au Canada dans le <em>Manuel du 
+              Conseil du Trésor - Gestion de l'information et gestion 
+              administrative</em>, Matériel, risques et services communs, partie 
+              I, chapitre 2.
+
+       d)     <strong>Textiles</strong> : Les textiles sont considérés comme des produits 
+              canadiens lorsqu'ils sont conformes à une règle d'origine 
+              modifiée, dont il est possible d'obtenir des exemplaires 
+              auprès de la Division des vêtements et des textiles du 
+              Secteur des produits industriels et commerciaux et des 
+              services de normalisation.
+
+
+</pre>
+</div>

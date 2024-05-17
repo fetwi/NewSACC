@@ -1,0 +1,63 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes d'offres à commandes 
+concurrentielles lorsque le besoin est une combinaison de produits et de 
+services, et la concurrence est conditionnellement limitée aux produits 
+canadiens et aux services canadiens tel qu'il est défini au paragraphe 5 de la 
+clause
+  
+   A3050T
+  
+  .
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3050T
+  
+  et
+  
+   M3069T
+  
+  .
+ </p>
+<p>
+  Les agents de négociation des contrats doivent consulter la Politique sur le 
+contenu canadien (
+  
+   Annexe 3.6
+  
+  du
+  <cite>
+   Guide des approvisionnements
+  </cite>
+  ) afin d'établir si 
+le besoin est assujetti à la politique.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Cet achat est conditionnellement limité aux produits
+canadiens et aux services canadiens.</p>
+<p>Sous réserve des procédures d'évaluation
+contenues dans la demande d'offres à commandes, les offrants
+reconnaissent que seulement les offres accompagnées d'une
+attestation à l'effet que les produits et services offerts
+sont des produits canadiens et des services canadiens, tel qu'il
+est défini dans la clause A3050T, peuvent être
+considérées.</p>
+<p>Le défaut de fournir cette attestation remplie avec l'offre
+aura pour conséquence que les produits et services offerts
+seront traités comme des produits non-canadiens et des
+services non-canadiens.</p>
+<p>L'offrant atteste que :</p>
+<p><var title="checkbox">( )</var> au moins 80 p. 100 du prix total
+de l'offre correspond à des produits canadiens et des services
+canadiens tel qu'il est défini au paragraphe 5 de la clause
+A3050T.</p>
+<p>Pour de plus amples renseignements afin de déterminer le
+contenu canadien de plusieurs produits, plusieurs services ou une
+combinaison de produits et de services, consulter l'Annexe 3.6(9),
+Exemple 2 du <cite>Guide des approvisionnements</cite>.</p>
+</div></pre>
+</div>

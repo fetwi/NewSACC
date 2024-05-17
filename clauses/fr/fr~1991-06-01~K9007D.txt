@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Il est compris et convenu que Sa Majesté ne sera pas tenue responsable en 
+   cas de réclamation pour cause de décès, de maladie, de blessures ou 
+   d'invalidité qui pourraient survenir lors de la prestation des services 
+   définis dans la présente.   L'entrepreneur convient de ne présenter 
+   aucune réclamation de ce genre contre Sa Majesté en pareille situation.    
+</pre>
+</div>

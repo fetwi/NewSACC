@@ -1,0 +1,76 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer must edit the clause as required by the situation.  Use 
+the following clause in One Stage - One Phase requirements.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Consultant understands and agrees that upon acceptance of the 
+       offer by Canada, a binding Agreement shall be formed between Canada 
+       and the Consultant and the documents forming the Agreement shall be 
+       the following:
+
+       (a)    the Front Page and this Agreement clause;
+
+       (b)    the general terms, conditions and clauses, as amended, 
+identified as:
+              R1205D (14/05/04)    General Conditions - Table of Contents
+              R1210D (14/05/04)    GC 1 - General Provisions
+              R1215D (30/05/03)    GC 2 - Administration of the Contract
+              R1220D (12/12/03)    GC 3 - Consultant Services
+              R1226D (30/05/03)    GC 4 - Copyright and Reuse of Documents
+              R1230D (30/05/03)    GC 5 - Terms of Payment
+              R1235D (30/05/03)    GC 6 - Changes
+              R1240D        (30/05/03)    GC 7 - Taking the Services Out of 
+                                          the Consultant's Hands, 
+                                          Suspension or Termination
+              R1245D (30/05/03)    GC 8 - Dispute Resolution
+              R1250D (30/05/03)    GC 9 - Indemnification and Insurance
+              R1270D (30/05/03)    International Sanctions
+              Agreement Particulars;
+
+       (c)    Project Brief;
+
+       (d)    the document entitled "Doing Business with A&amp;ES";
+
+       (e)    any amendment to the solicitation document incorporated in 
+              the Agreement before the date of the Agreement;
+
+       (f)    the duly completed and signed proposal, Declaration Form and 
+              Price Proposal Form.
+
+2.     Pursuant to the <em>Department of Public Works and Government Services 
+       Act</em>, S.C. 1996, c.16, the general terms, conditions and clauses 
+       identified herein by title, number and date, are hereby incorporated 
+       by reference into and form part of this Agreement, as though 
+       expressly set out herein, subject to any other express terms and 
+       conditions herein contained.
+
+3.     All instructions, general terms, conditions and clauses identified 
+       herein by title, number and date are set out in the <em>Standard 
+       Acquisition Clauses and Conditions</em> Manual issued by Public Works and 
+       Government Services Canada (PWGSC).
+
+       An electronic version is available at the following PWGSC Website: <strong class="wsStyleUnderline">
+       http://sacc.pwgsc.gc.ca/sacc/index-e.jsp</strong>.
+
+4.     Order of Precedence
+
+       In the event of any inconsistency or conflict in the contents of the 
+       following documents, such documents shall take precedence and govern 
+       in the following order:
+
+       (a)    any amendment or variation in the Agreement that is made in 
+              accordance with the terms and conditions of the Agreement;
+       (b)    any amendment to the solicitation document incorporated in 
+              the Agreement before the date of the Agreement;
+       (c)    this Agreement clause;
+       (d)    Supplementary Conditions;
+       (e)    General Terms, Conditions and Clauses;
+       (f)    Agreement Particulars;
+       (g)    Project Brief; 
+       (h)    the document entitled "Doing Business with A&amp;ES";
+       (i)    the duly completed and signed proposal.
+
+
+</pre>
+</div>

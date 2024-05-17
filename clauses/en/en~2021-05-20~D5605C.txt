@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence 
+when the goods are supplied by a United States-based contractor.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   D5515C
+  
+  and
+  
+   D5620C
+  
+  in the part "resulting 
+contract clauses" of the bid solicitation.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>Material must be released for shipment using a DD Form 250,
+Material Inspection and Receiving Report, or a release document
+containing the same information and acceptable to the Quality
+Assurance Representative. The Contractor must prepare the release
+document(s).</p>
+</div></pre>
+</div>

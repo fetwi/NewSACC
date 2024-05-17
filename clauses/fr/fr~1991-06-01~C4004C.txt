@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Incorporer la clause suivante dans les contrats du MDN de type détachement 
+mobile de réparation et d'entretien, lorsque des services de transport et de 
+logement sont à la disposition de l'entrepreneur.  Voir l'annexe 10.1.4 dans le 
+Guide des approvisionnements, COMMUNIQUÉ D'INTERPRÉTATION DES COÛTS - numéro 04, 
+FRAIS DE DÉPLACEMENT.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsque le personnel de l'entrepreneur désire utiliser les services de 
+transport, de mess et de logement appartenant à la Couronne au cours de 
+l'exécution des travaux, le commandant de la base militaire renseignera sur 
+demande l'entrepreneur sur la possibilité d'utiliser ces services ou 
+installations.  Tous les frais engagés par l'entrepreneur pour 
+l'utilisation de ces services ou installations, plus tous les faux-frais 
+engagés, seront payables en vertu du présent contrat ainsi que des 
+indemnités pour les frais généraux d'administration et la marge 
+bénéficiaire, aux taux spécifiés dans le contrat.
+
+
+
+</pre>
+</div>

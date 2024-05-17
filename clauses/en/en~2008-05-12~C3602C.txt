@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the purchase of butter when prices are 
+subject to adjustment in accordance with any increase or decrease established by 
+the Canadian Dairy Commission.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The prices detailed in the Contract are subject to upward or
+downward adjustment to allow for any increase or decrease in the
+support prices for butter established by the Canadian Dairy
+Commission. A copy of the Contractor's notification of price
+increase or decrease from the Canadian Dairy Commission must be
+provided to the Contracting Authority.</p>
+<p>The Contract will be amended to reflect the actual price of the
+increase or decrease at time of delivery. The Contractor must not
+invoice at prices other than those specified in the Contract.</p>
+</div></pre>
+</div>

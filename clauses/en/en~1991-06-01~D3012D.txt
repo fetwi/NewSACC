@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>If the following clause is used enter fill-in data.
+
+ 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>IF PERFORMED IN CANADA:  Preservation and packaging shall be to level _____ 
+and packing shall be to level_____ in accordance with Canadian Forces 
+Packaging Specification _____ (CFPS_____) _____.                         
+
+IF PERFORMED IN UNITED STATES: Preservation and packaging shall be to level    _____ 
+and packing shall be to level _____ in accordance with United States 
+Department of Defense Military  Specification _____.        
+
+IF PERFORMED IN THE UK:  Preservation, packaging and packing shall be 
+   manufacturer's Trade Export Packaging or such packaging of a higher 
+   grade as recommended by the British Ministry.  
+</pre>
+</div>

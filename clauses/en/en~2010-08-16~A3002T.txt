@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations for procurements that have been 
+set aside under the federal government's Procurement Strategy for Aboriginal 
+Business, when the procurement would have been otherwise subject to one or more 
+trade agreements.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This procurement is set aside under the federal government's Procurement 
+Strategy for Aboriginal Business, as detailed in Annex 9.4 Requirements for 
+the Set-aside Program for Aboriginal Business, of the <em>Supply Manual</em>.
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers</strong></span><span class="wsInlineRemark">:  Insert the following sentence, if 
+applicable.</span><span class="wsInlineRemark"></span>
+
+       "This procurement is set aside from the international trade 
+       agreements under the provision each has for set-asides for small and 
+       minority businesses."
+
+<span class="wsInlineRemark"><strong>Instruction to contracting officers</strong></span><span class="wsInlineRemark">:  Insert the following sentence, if 
+applicable</span>.
+
+       "Further to Article 1802 of the Agreement on Internal Trade (AIT), 
+       AIT does not apply to this procurement."
+
+
+
+
+</pre>
+</div>

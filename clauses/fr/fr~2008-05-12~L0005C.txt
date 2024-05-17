@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour la gestion optimisée des 
+systèmes d'armes pour le ministère de la Défense nationale (MDN) lorsque le 
+Canada est propriétaire de l'outillage spécial de production et du matériel 
+spécial d'essai (OSP/MSE) et le Canada le fournira à l'entrepreneur.
+ </p>
+<p>
+  La liste de l'
+  <abbr title="outillage spécial de production">
+   OSP
+  </abbr>
+  et du
+  <abbr title="matériel spécial d'essai">
+   MSE
+  </abbr>
+  sera utilisée par les responsables du
+  <abbr title="Ministère de la Défense nationale">
+   MDN
+  </abbr>
+  pour 
+établir les instructions concernant la disposition plus tard dans le programme.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Le Canada fournira l'outillage spécial de
+production et le matériel spécial d'essai (<abbr title="outillage spécial de production">OSP</abbr>/<abbr title="matériel spécial d'essai">MSE</abbr>)
+à l'entrepreneur en vertu du contrat. L'<abbr title="outillage spécial de production">OSP</abbr> et le <abbr title="matériel spécial d'essai">MSE</abbr> fournis
+par le Canada seront enregistrés et gérés en vertu
+d'une convention de prêt avec le ministère de la
+Défense nationale.</li>
+<li value="2">L'entrepreneur doit identifier chaque article de
+l'<abbr title="outillage spécial de production">OSP</abbr> et du <abbr title="matériel spécial d'essai">MSE</abbr> comme propriété du Canada par
+l'apposition d'une plaque, ou par une empreinte ou estampille. La
+plaque ou le marquage doit porter le numéro de dossier et
+numéro du contrat de Travaux publics et Services
+gouvernementaux Canada, ainsi que le numéro de l'<abbr title="outillage spécial de production">OSP</abbr> et du <abbr title="matériel spécial d'essai">MSE</abbr>
+pour identifier chaque article.</li>
+</ol>
+</div></pre>
+</div>

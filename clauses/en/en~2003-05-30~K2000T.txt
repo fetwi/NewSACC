@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in bid solicitations where a resultant contract may be 
+subject to the Federal Contractors Program for Employment Equity (FCP EE).  
+Refer to Supply Manual, procedure 5.113 for exclusions from the FCP EE.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Federal Contractors Program for Employment Equity (FCP EE) 
+       requires that Canadian organizations bidding for federal government 
+       contracts, $200,000 and over, make a formal commitment to implement 
+       employment equity, as a pre-condition to the validation of their 
+       bids.  If the bidder is subject to the Program, evidence of its 
+       commitment must be provided prior to the award of any contract. 
+
+       (a)    The program requirements do not apply to organizations which: 
+              (CHECK THE APPROPRIATE ITEM IF APPLICABLE)
+
+              (   )  have fewer than 100 permanent part-time and/or full 
+                            time employees across Canada or;
+
+              (   )  are a federally regulated employer.
+
+       (b)    If the bidder's organization does not fall within the 
+              parameters of items above, the program requirements do apply 
+              and, as such the bidder is required to submit a duly signed 
+              Certificate of Commitment as referenced below, or its 
+              Certificate number _______ confirming its adherence to the 
+              program. 
+
+2.     In all cases, the bidder is required to produce evidence of 
+       supporting information on demand, if such evidence is not provided 
+       with its bid.  Under no circumstance will a contract be awarded to 
+       an organization that does not comply with the requirements of the 
+       FCP EE, unless it is exempt from the Program. 
+
+NOTE: 
+
+1.     The FCP EE applies to Canadian-based bidders only. 
+
+2.     The Certificate of Commitment, criteria and other information about 
+       the FCP EE, are available in the <em>Standard Acquisition Clauses and 
+       Conditions</em> Manual, Section 2.1, Employment Equity - Federal 
+       Contractors Program, and Form 2.1.1, Certificate of Commitment - 
+       Federal Contractors Program (PWGSC Website at: <span class="wsStyleUnderline">http://sacc.pwgsc.gc.ca
+       /sacc/index-e.jsp</span>).
+
+
+</pre>
+</div>

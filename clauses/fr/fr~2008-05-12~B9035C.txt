@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque les réunions d'avancement présidées et organisées par l'agent de négociation des contrats auront lieu aux installations de l'entrepreneur.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent identifier dans le contrat le gestionnaire de contrats (projet), le gestionnaire de la production (superviseur) et le gestionnaire de l'assurance de la qualité.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Les réunions d'avancement, présidées par l'autorité contractante, auront lieu aux installations de l'entrepreneur, au besoin, généralement une fois par mois. D'autres réunions pourront également être organisées. L'entrepreneur sera représenté à ces réunions, à tout le moins, par le gestionnaire de contrats (projet), le gestionnaire de la production (superviseur)
+et le gestionnaire de l'assurance de la qualité. Les réunions d'avancement incorporeront généralement des réunions techniques devant être présidées par le responsable technique.</p>
+</div></pre>
+</div>

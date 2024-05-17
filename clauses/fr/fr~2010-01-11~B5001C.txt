@@ -1,0 +1,74 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque le besoin peut faire l'objet d'une modification ou d'une altération de conception et que les procédures ne sont pas incluses dans l'énoncé des travaux.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent :
+ </p>
+<ol>
+<li>
+   compléter la clause;
+  </li>
+<li>
+   s'assurer que le nom du responsable technique ou du chargé de projet soit inscrit dans le contrat. Utiliser la clause
+   
+    A1022C
+   
+   ou
+   
+    A1030C
+   
+   , selon le cas;
+  </li>
+<li>
+   utiliser une des options de la clause :
+   <ul>
+<li>
+     option 1 si le formulaire
+     <cite>
+
+       Modification/Écart par rapport au modèle formulaire 9038
+      
+</cite>
+     disponible sur le site Web de Travaux publics et Services gouvernementaux Canada doit être utilisé;
+    </li>
+<li>
+     option 2 si le formulaire
+     <abbr title="Ministère de la Défense nationale">
+      MDN
+     </abbr>
+     672 doit être utilisé;
+    </li>
+</ul>
+</li>
+<li>
+   consulter les articles
+   
+    8.70.25
+   
+   et
+   
+    8.70.25.1
+   
+   du
+   <cite>
+
+     Guide des approvisionnements
+    
+</cite>
+   .
+  </li>
+</ol>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>L'entrepreneur doit suivre les procédures suivantes pour toute modification/altération de conception proposé aux spécifications du contrat.</p>
+<h2>Option 1</h2>
+<p>L'entrepreneur doit remplir la partie 1 du formulaire PWGSC-TPSGC
+9038 (PDF 241 Ko) - (Aide sur les formats de fichier), Modification/écart par rapport au modèle, et en transmettre <span class="input-required"><var>_____</var> <var>____</var><kbd>(<em>inserer le nombre</em>)</kbd></span> copies au <span class="input-required"><var>______</var> <kbd>(<em>insérer « responsable technique » ou « chargé de projet », selon le cas</em>)</kbd></span> et une (1) copie à l'autorité contractante.</p>
+<h2>Option 2</h2>
+<p>L'entrepreneur doit remplir la partie 1 du formulaire MDN 672, Modification au modèle/écart, et en envoyer <span class="input-required"><var>______</var> <var>____</var><kbd>(<em>inserer le nombre</em>)</kbd></span> copies au <span class="input-required"><var>_______</var> <kbd>(<em>insérer « responsable technique » ou « chargé de projet », selon le cas</em>)</kbd></span> et une (1) copie à
+l'autorité contractante.</p>
+<p>L'entrepreneur sera autorisé à procéder sur réception du formulaire signé par l'autorité contractante. Une modification au contrat sera émise afin d'incorporer la modification/altération de conception dans le contrat.</p>
+</div></pre>
+</div>

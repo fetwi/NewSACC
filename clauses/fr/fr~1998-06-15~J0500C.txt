@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser le texte suivant pour confirmer un Ordre d'arrêt des travaux transmis 
+par télégraphie, télécopieur ou par d'autres moyens par écrit lorsque le client 
+a demandé (par écrit) de suspendre le contrat afin d'étudier les solutions de 
+rechange qui s'offrent au Canada et (ou) lorsqu'il faut faire le point de la 
+situation du contrat avant de décider s'il est pertinent de le résilier et, dans 
+ce cas, pour établir la nature et l'étendue de la résiliation (y compris la 
+résiliation pour inexécution).
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Le présent Ordre d'arrêt des travaux est émis conformément à l'article _____ 
+(dispositions relatives à la « <em>Suspension des travaux </em>») des Conditions 
+générales, le cas échéant, relativement au numéro de dossier du contrat _____.
+
+Le ministre des Travaux publics et des Services gouvernementaux vous 
+ordonne de mettre fin immédiatement à tous les travaux dans le cadre de ce 
+contrat, y compris ceux de vos sous-traitants, jusqu'à nouvel avis de 
+l'autorité contractante.  Vous ne devez passer aucune autre commande ni 
+engager aucune autre dépense.  Vous devez également soumettre à l'autorité 
+contractante l'information à jour et détaillée sur la situation actuelle du 
+contrat.
+
+</pre>
+</div>

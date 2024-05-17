@@ -1,0 +1,12 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in PTBN contracts that provide for progress payments.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The price for the Work is to be negotiated and the Contractor will enter 
+   into such negotiations as soon as reasonably practicable and, in any 
+   event, prior to completion of the Work.  Pending completion of such 
+   negotiations, the Contractor will receive progress payments for Work 
+   satisfactorily performed on the basis set out herein. 
+</pre>
+</div>

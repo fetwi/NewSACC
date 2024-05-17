@@ -1,0 +1,14 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les services devront être exécutés en conformité des règlements et 
+ordonnances provinciaux et municipaux en vigueur.  Tous les frais imposés 
+en vertu de ces règlements et ordonnances seront à la charge de 
+l'Entrepreneur.  En conformité avec la loi provinciale sur la qualification 
+professionnelle des Entrepreneurs en construction, nous certifions que nous 
+détenons une licence qui porte le numéro : _____
+
+ 
+</pre>
+</div>

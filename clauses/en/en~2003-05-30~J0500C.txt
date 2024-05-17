@@ -1,0 +1,24 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to confirm a facsimile, electronic or other written 
+Stop Work Order, when the client has requested (in writing) a suspension of the 
+contract in order to investigate Canada's alternatives and/or a review of the 
+contract status is required before deciding whether termination is appropriate 
+and, if so, the type and extent of termination (including a termination for 
+default).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This Stop Work Order is issued pursuant to section _____ ("Suspension of 
+the Work" provisions) of the General Conditions, if any, in respect of 
+Contract No. _____.
+
+You are directed by the Minister of Public Works and Government Services to 
+stop immediately all Work related to this Contract, including the work of 
+your subcontractors, until further notice by the Contracting Authority.  
+You are to place no further orders and incur no further expense.  You are 
+also to provide the Contracting Authority with current detailed Contract 
+status information.
+
+
+</pre>
+</div>

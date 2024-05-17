@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Pour éviter tous les conflits d'intérêts réels ou apparents, 
+       l'entrepreneur convient par la présente qu'au cours de la période 
+       contractuelle, il n'exécutera pas de services pour le compte du 
+       constructeur de navires, _____ ni ne passera de contrats avec lui.
+
+2.     L'entrepreneur convient aussi qu'il s'assurera que le personnel 
+       fourni, en vertu du présent contrat, consacrera tout son temps et 
+       toute son attention à l'exécution des services prévus par la 
+       présente, et que, par conséquent, il ne sera pas en situation de 
+       conflit d'intérêts possible pendant la durée du contrat.  Le contrat 
+       précisera ce qui suit :
+
+       a)     aucun ancien détenteur de charge publique qui ne se 
+              conformerait pas aux dispositions l'après-mandat du Code 
+              régissant la conduite de titulaires de charge publique en ce 
+              qui concerne les conflits d'intérêts et l'après-mandat ne 
+              pourra retirer un avantage direct du présent contrat; et
+
+       b)     pendant la durée du contrat, toutes les personnes engagées 
+              pour exécuter le contrat se conduiront conformément aux 
+              principes du Code.  Si, pendant la durée du contrat, devait 
+              être acquis un intérêt occasionnant un conflit d'intérêts ou 
+              semblant occasionner un écart par rapport aux principes, 
+              l'entrepreneur le déclarerait immédiatement au représentant 
+              ministériel.
+   
+</pre>
+</div>

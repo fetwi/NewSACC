@@ -1,0 +1,20 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsque l'exécution des travaux comporte notamment le recours à des 
+sous-traitants, les noms et adresses des sous-traitants doivent être 
+indiqués dans la soumission ainsi que les détails des travaux qu'ils 
+exécuteront et du matériel qu'ils fourniront.  Avant le commencement des 
+travaux, l'autorité contractante doit être avisée, par écrit, de tout 
+changement apporté à la liste des sous-traitants.
+
+Aux fins de la présente clause, il n'est pas nécessaire d'indiquer l'achat 
+des articles et des logiciels du commerce et des autres articles ou du 
+matériel standard fabriqués habituellement par les fabricants dans le cours 
+normal des activités d'une entreprise ou la fourniture des services 
+connexes qui peuvent habituellement faire l'objet de sous-traitance dans le 
+cadre de l'exécution des travaux.
+
+</pre>
+</div>

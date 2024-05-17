@@ -1,0 +1,43 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans toutes les demandes de soumissions lorsque le ministère ou l'organisme client a déterminé que le Canada détiendra tout droit de propriété intellectuelle résultant des travaux en vertu du contrat.
+ </p>
+<p>
+  Les agents de négociation des contrats inséreront un ou plusieurs des motifs suivants pour permettre au Canada de revendiquer les droits de propriété intellectuelle sur les renseignements originaux, tel qu'indiqué par le ministère ou l'organisme client, en fonction des exceptions ou de l'exemption énoncées dans la
+  
+
+    Politique sur le titre de propriété intellectuelle découlant des marchés d'acquisition de l'État
+   
+
+  :
+ </p>
+<ul>
+<li>
+   pour des motifs de sécurité nationale;
+  </li>
+<li>
+   les droits de propriété intellectuelle sur les renseignements originaux ne peuvent appartenir à l'entrepreneur en vertu d'une loi, d’un règlement, ou d'une obligation antérieure contractée par Canada envers un ou des tiers;
+  </li>
+<li>
+   le soumissionnaire déclare par écrit qu'il n'est pas intéressé à détenir les droits de propriété intellectuelle sur les renseignements originaux;
+  </li>
+<li>
+   l'objet principal du contrat ou des biens livrables en vertu du contrat est d'obtenir des connaissances et des renseignements qui seront diffusés au public;
+  </li>
+<li>
+   l'objet principal du contrat ou des biens livrables en vertu du contrat est d'accroître certains acquis actuels du gouvernement en matière de droits de propriété intellectuelle sur les renseignements de base avant de transférer ceux-ci  au secteur privé, par attribution de licence ou cession de propriété (non nécessairement à l'entrepreneur initial), à des fins d'exploitation commerciale;
+  </li>
+<li>
+   l'objet principal du contrat ou des biens livrables en vertu du contrat est à livrer une composante développée en partie seulement ou un sous-système qui sera intégré ultérieurement dans un système complet, avant que celui-ci soit transféré au secteur privé, par octroi de licence ou cession de propriété, à des fins d'exploitation commerciale;
+  </li>
+<li>
+   les droits de propriété intellectuelle sur les renseignements originaux s'appliquent  à du matériel protégé par droit d'auteur, sauf dans le cas des logiciels informatiques et de la documentation connexe;
+  </li>
+<li>
+   une exemption a été accordée par la voie d'une présentation au Conseil du Trésor.
+  </li>
+</ul>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>Le <var>_____</var><kbd>(<em>insérer le nom du ministère ou de l'organisme client</em>)</kbd> a déterminé que tout droit de propriété intellectuelle découlant de l'exécution des travaux prévus par le contrat subséquent appartiendra au Canada, pour les motifs suivants, tel que défini dans la Politique sur le titre de propriété intellectuelle découlant des marchés d'acquisition de l'État :<var>______</var><kbd>(<em>insérer un ou plusieurs motifs énumérés ci-dessus permettant au Canada de revendiquer les droits de propriété intellectuelle sur les renseignements originaux</em>)</kbd>.</p></pre>
+</div>

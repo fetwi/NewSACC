@@ -1,0 +1,36 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause devrait être utilisée lorsqu'un entrepreneur proposé a entrepris 
+les travaux, à ses risques, sans l'autorisation d'un représentant du 
+gouvernement, avant l'approbation du contrat, mais ne les a pas achevés.  En 
+utilisant cette clause, on s'assure que les travaux exécutés avant la date du 
+contrat seront prévus au contrat.  Si les travaux sont achevés, le responsable 
+du contrat doit demander au conseiller juridique de préparer une confirmation de 
+commande.
+
+Le deuxième paragraphe doit être supprimé si le ministère client ne désire pas 
+conserver les droits de propriété intellectuelle.  Utiliser cette clause de 
+concert avec la clause C0210C sous la Base de paiement.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Afin de compléter les travaux prévus dans le contrat conformément aux 
+délais prescrits, les parties reconnaissent que l'entrepreneur, à partir du _____ 
+(date du début des travaux), a engagé certains coûts directement liés à 
+l'exécution de ce contrat avant la date d'entrée en vigueur de ce dernier, 
+lesquels coûts, s'ils avaient été engagés après cette date, auraient été 
+traités comme des coûts raisonnablement et correctement engagés par 
+l'entrepreneur pour l'exécution du présent contrat.  Dans la mesure où il 
+était nécessaire d'engager des coûts pré-contractuels pour respecter les 
+exigences du contrat, ces coûts seront traités comme des coûts 
+raisonnablement et correctement engagés par l'entrepreneur dans le cadre de 
+l'exécution du présent contrat.
+
+Les parties confirment que le droit d'auteur sur les travaux appartient au 
+Canada et que les droits de propriété intellectuelle, y compris la 
+documentation technique, les  prototypes, les inventions et les 
+renseignements techniques produits par l'entrepreneur dans le cadre de 
+l'exécution des travaux pré-contractuels appartiennent au Canada.
+
+
+</pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive contracts, for aircraft and/or airborne 
+aircraft equipment, when they are issued on a basis other than FCA Free Carrier 
+(... named place) Incoterms 2000 (clause D4001C may apply).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Items _____, as stated by the Department of National Defence, are for use 
+in aircraft and/or airborne aircraft equipment.  Canadian customs duty for 
+these items is not included in the Contract Price.  If chargeable, customs 
+duty is extra and will be paid by the Contractor who will be reimbursed the 
+amount of duty paid plus sales tax paid on importation, upon submission of 
+an invoice supported by customs documents.
+
+</pre>
+</div>

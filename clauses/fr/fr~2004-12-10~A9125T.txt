@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Lorsque le soumissionnaire est lié par une convention collective ou par un autre 
+instrument adéquat à ses travailleurs syndiqués, ladite convention collective ou 
+ledit instrument doit être valide pour la durée de la période proposée de tout 
+contrat subséquent.  La preuve documentaire de ladite convention collective ou 
+dudit instrument doit être fournie au plus tard à la clôture des soumissions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Lorsque le soumissionnaire est lié par une convention collective ou par un 
+autre instrument adéquat à ses travailleurs syndiqués, ladite convention 
+collective ou ledit instrument doit être valide pour la durée de la période 
+proposée de tout contrat subséquent.  La preuve documentaire de ladite 
+convention collective ou dudit instrument doit être fournie au plus tard à 
+la clôture des soumissions.
+
+</pre>
+</div>

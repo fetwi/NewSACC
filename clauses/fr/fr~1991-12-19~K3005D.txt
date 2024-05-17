@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Ajouter la clause suivante si l'entrepreneur est tenu de protéger ses intérêts 
+ou ceux du Canada à l'égard de la propriété intellectuelle (habituellement 
+lorsqu'on exige qu'il exploite la propriété intellectuelle au Canada).  Utiliser 
+uniquement avec la clause K3000D ou K3001D. 
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'Entrepreneur devra prendre des mesures raisonnables pour protéger le 
+   caractère confidentiel de la Propriété intellectuelle originale et, dans 
+   tous les cas, il devra prendre au moins les mêmes mesures qu'il prend en 
+   rapport avec toute autre propriété intellectuelle de la même nature dont 
+   il est le titulaire.  
+</pre>
+</div>

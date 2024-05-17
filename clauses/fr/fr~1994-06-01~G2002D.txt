@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>L'entrepreneur doit contracter une assurance contre les erreurs et les omissions 
+(appelée aussi assurance professionnelle) si une expertise professionnelle 
+(consultants, comptables, architectes, etc.) est requise en vertu du contrat et 
+si le contrat, de par sa nature, comporte un élément raisonnable de risque pour 
+le Canada ou d'autres tierces parties.
+
+Si l'agent des achats ou le client juge insuffisante la LIMITE MINIMALE de 
+responsabilité suggérée (1 000 000 $) par accident ou incident, il doit en fixer 
+une nouvelle de concert avec le client visé et le conseiller en assurances et en 
+gestion des risques du MAS.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>L'entrepreneur doit contracter et maintenir pendant toute la durée du 
+   contrat une assurance contre les erreurs et les omissions d'un montant 
+   équivalent à celui habituellement fixé pour un contrat de cette nature; 
+   toutefois, la limite de responsabilité NE DOIT EN AUCUN CAS ETRE 
+   INFeRIEURE à 1 000 000 $ par accident ou par incident.
+</pre>
+</div>

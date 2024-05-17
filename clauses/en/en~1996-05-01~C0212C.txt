@@ -1,0 +1,58 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause for on-site maintenance services when hourly rates are 
+proposed - cost reimbursable).
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     For on-site maintenance and related services for the equipment 
+       listed in Appendix "____" during the Principal Period of Maintenance 
+       (PPM) and outside the PPM, as defined in this Contract, the 
+       Contractor shall be paid for the labour, material (if any) and 
+       travel expenses (where applicable) as follows:
+
+       For the period of twelve (12) months commencing on _____:
+
+<strong>       LABOUR</strong>
+
+2.     The Contractor shall be paid for the actual hours worked at the firm 
+       hourly rates detailed in Appendix "____" attached hereto.  The 
+       Contractor shall be paid an initial half hour minimum charge 
+       calculated from the time the Contractor's technician arrives on-site.  
+       All additional chargeable time, over and above the first half hour, 
+       is to be rounded to the nearest quarter hour.
+
+<strong>       MATERIAL AND REPLACEMENT PARTS</strong>
+
+3.     The material and replacement parts shall be provided at the list 
+       price attached as Appendix "____" hereto, less a discount of ____ 
+       percent.  All prices for parts and material are FOB. Destination, 
+       Custom Duty included where applicable. Goods and Services Tax (GST) 
+       extra.
+
+<strong>       TRAVEL AND LIVING EXPENSES</strong>
+
+4.     There shall be no travel time or travel and living expenses payable 
+       for services rendered within ____ kilometres from the Designated 
+       Service Centre listed in Appendix "____" attached hereto.
+
+5.     For services rendered further than ____ kilometres from the 
+       Designated Service Centre, the Contractor shall be paid for actual 
+       travel time in accordance with the hourly rates specified in 
+       Appendix "____."
+
+6.     In addition, reasonable and proper travel and living expenses 
+       incurred by personnel directly engaged in the performance of the 
+       Work, as authorized in advance by the Maintenance Coordinator, shall 
+       be reimbursed at actual cost without any allowance thereon for 
+       overhead or profit and shall not exceed the then-current Treasury 
+       Board Guidelines.
+
+<strong>       ON-CALL SERVICES (WAIT-TIME)</strong>
+
+7.     The Contractor shall be paid for the actual hours of on-call period 
+       (wait time) at the firm hourly rate of $_____.
+
+       ESTIMATED COST FOR ARTICLES _____: $_____.
+
+</pre>
+</div>

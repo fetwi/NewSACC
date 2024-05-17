@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les demandes de soumissions.  La discrétion est 
+laissée à l'agent de négociation des contrats, mais il est recommandé d'utiliser 
+la présente clause lorsque la durée des travaux n'excède pas quatre (4) mois.  
+En général, cette clause est utilisée, sans en exclure d'autres, pour les 
+besoins de marine.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Lorsque le soumissionnaire est lié par une convention
+collective ou par un autre instrument adéquat à ses
+travailleurs syndiqués, la convention collective ou
+l'instrument doit être valide pour la durée de la
+période proposée de tout contrat subséquent. La
+preuve documentaire de la convention collective ou de l'instrument
+doit être fournie au plus tard à la clôture des
+soumissions.</p>
+</div></pre>
+</div>

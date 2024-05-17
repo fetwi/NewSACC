@@ -1,0 +1,77 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante lorsque l'entrepreneur est engagé pour, 
+essentiellement, produire un nouveau produit et lorsque le ministère responsable 
+a décidé qu'il souhaite avoir une licence élargie concernant les droits de 
+propriété intellectuelle sur les renseignements de base de l'entrepreneur afin 
+de permettre le développement ultérieur de ce produit, y compris la possibilité 
+de la production de ce produit aux fins d'utilisation par le Canada.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'article 04, « Licence concernant les droits de propriété 
+       intellectuelle sur les renseignements de base », dans les Conditions 
+       générales supplémentaires DSS-MAS 9601-7, est supprimé et remplacé 
+       par ce qui suit : 
+
+       « <strong>04   Licence concernant les droits de propriété intellectuelle sur 
+              les renseignements de base</strong>
+
+       1.     Sans restreindre la portée de toute licence ou de tout autre 
+              droit que le Canada pourrait autrement détenir sur les 
+              renseignements de base, l'entrepreneur accorde par les 
+              présentes au Canada une licence non exclusive, perpétuelle, 
+              irrévocable, mondiale, intégralement payée et libre de 
+              redevances, qui autorise le Canada à exercer, parmi les 
+              droits de propriété intellectuelle sur les renseignements de 
+              base intégrés dans les travaux ou nécessaires pour 
+              l'exécution des travaux, ceux qui sont nécessaires pour que 
+              le Canada puisse exercer ses droits de propriété 
+              intellectuelle sur les renseignements originaux. 
+              L'entrepreneur s'engage, sous réserve du paragraphe 4, à 
+              mettre promptement à la disposition du Canada, pour l'une 
+              quelconque de ces fins, tout renseignement de base de cette 
+              nature (y compris, dans le cas de logiciels, le code source).
+
+       2.     L'entrepreneur reconnaît que le Canada peut vouloir adjuger 
+              des contrats pour une fin prévue par le paragraphe 1 et que 
+              telles adjudications pourraient résulter d'un processus 
+              compétitif.  L'entrepreneur convient que la licence du Canada 
+              se rapportant aux droits de propriété intellectuelle sur les 
+              renseignements de base comprend le droit de divulguer les 
+              renseignements de base aux soumissionnaires intéressés par 
+              tels contrats et le droit d'autoriser, par sous-licence ou 
+              autrement, tout entrepreneur engagé par le Canada à utiliser 
+              ces renseignements, uniquement pour permettre l'exécution du 
+              contrat. Le Canada exigera des soumissionnaires et de 
+              l'entrepreneur qu'ils n'utilisent pas ni ne divulguent un 
+              quelconque renseignement de base, sauf dans la mesure 
+              nécessaire pour soumissionner le contrat ou l'exécuter.
+
+       3.     Lorsque les droits de propriété intellectuelle sur les 
+              renseignements de base appartiennent à un sous-traitant de 
+              quelque échelon que ce soit, l'entrepreneur soit obtiendra de 
+              ce sous-traitant une licence permettant la conformité avec 
+              les paragraphes 1 et 2, soit demandera au sous-traitant de 
+              concéder directement au Canada les mêmes droits, en signant 
+              la formule fournie à cette fin par le Ministre, auquel cas 
+              l'entrepreneur remettra cette formule au Ministre, dûment 
+              remplie et signée par le sous-traitant, au plus tard à la 
+              date de la divulgation au Canada de ces renseignements de 
+              base.
+
+       4.     Nonobstant le paragraphe 1, la licence mentionnée dans ces 
+              paragraphes ne s'appliquera pas à un logiciel faisant l'objet 
+              de conditions de licence détaillées qui sont énoncées 
+              ailleurs dans le contrat. De plus, dans le cas d'un logiciel 
+              normalisé dans le commerce, l'obligation de l'entrepreneur de 
+              mettre promptement le code source à la disposition du Canada 
+              pour une fin décrite au paragraphe 1, ne s'applique qu'à tout 
+              code source qui est sous le contrôle de l'entrepreneur ou 
+              d'un sous-traitant, ou qui peut être obtenu par l'un d'eux.  
+              L'entrepreneur devra alors, à la demande du Canada, mettre le 
+              code source à la disposition du Canada dans un délai 
+              raisonnable et à d'autres conditions commerciales 
+              raisonnables. »
+
+</pre>
+</div>

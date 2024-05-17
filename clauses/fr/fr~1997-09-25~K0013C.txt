@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Cette clause peut être utilisée avec DSS-MAS 9624, Conditions générales - 
+Recherche et développement, ou avec DSS-MAS 1053, Conditions générales - 
+Universités et autres institutions, lorsque l'entrepreneur doit fournir un 
+certificat de divulgation.
+
+Lorsque la clause est utilisée avec DSS-MAS 9624, insérer : « l'article 22 des 
+Conditions générales - Recherche et développement, DSS-MAS 9624. » 
+
+Lorsque le clause est utilisée avec DSS-MAS 1053, insérer : « l'article 7 des 
+Conditions générales - Universités et autres institutions, DSS-MAS 1053 ».
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Après avoir achevé le travail en vertu du présent contrat, 
+       l'entrepreneur devra présenter au responsable technique et à 
+       l'autorité contractante un certificat énonçant que toutes les 
+       divulgations applicables ont été soumises ou qu'il n'y avait aucune 
+       divulgation à soumettre en vertu de _____.
+
+2.     Une copie du certificat de divulgation est jointe à titre d'annexe « _____ ».
+</pre>
+</div>

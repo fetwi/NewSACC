@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts when the Technical Authority has 
+officially delegated some responsibilities and tasks to a technically qualified 
+person.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Technical Liaison Officer for this Contract is:
+
+Name: _____
+Title of Officer: _____
+Organization: _____
+Address: _____
+Postal Code: _____
+
+Telephone:    (___) ___-____
+Facsimile:    (___) ___-____
+
+The Technical Liaison Officer is responsible for the day-to-day technical 
+liaison between the Contractor and the Technical Authority, and will also 
+be responsible for reviewing draft reports submitted by the Contractor. The 
+Technical Liaison Officer has no authority to authorize any deviations from 
+this Contract.
+
+
+</pre>
+</div>

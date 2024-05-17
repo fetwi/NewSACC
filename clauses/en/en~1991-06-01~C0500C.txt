@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in fixed time rate contracts where provision is being 
+made for overtime.  See SPM Directive 4102. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Overtime work shall not be performed under this Contract unless authorized 
+   in writing by the Minister or an authorized representative; such written 
+   authorization shall be a condition precedent for payment of the rate or 
+   rates specified for overtime work; and the Contractor shall submit to 
+   the Minister a report with respect to the overtime performed pursuant to 
+   the said authorization containing such details as the Minister deems 
+   necessary.
+</pre>
+</div>

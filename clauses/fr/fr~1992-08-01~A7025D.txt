@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les ordres du poste seront transmis à L'Entrepreneur l'agent de sécurité 
+ministériel de Destinataire ou son représentant autorisé.  Les ordres de 
+poste seront suffisamment détaillés pour permettre à l'agence de sécurité 
+d'effectuer ses tâches de façon efficace.<strong></strong>
+
+L'Entrepreneur doit s'assurer que le personnel de sécurité se conforme aux 
+consignes communiquées ainsi qu'aux directives orales ou écrites du 
+représentant autorisé du Consignataire.
+
+</pre>
+</div>

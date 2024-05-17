@@ -1,0 +1,56 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in contracts where test validation is considered a 
+requirement.
+
+Use this clause in conjunction with D5510C or D5515C.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Contractor must collect a sample from the first batch of each of 
+       the items that will be supplied under the Contract.  The sample must 
+       consist of a group of items or portion of products of sufficient 
+       size to conduct the testing required.  The Contractor must split the 
+       sample into two equal portions.  One portion must be tested by the 
+       Contractor's test facility. The other portion must be tested by a 
+       facility meeting one of the following criteria:
+
+       (a)    an independent, arms length third party laboratory accredited 
+              by the Standards Council of Canada (or other nationally or 
+              internationally recognized laboratory accrediting body) to 
+              conduct the tests identified in the item specification(s) or
+
+       (b)    an independent, arms length third party laboratory operating 
+              a ISO 17025:1999 system, and participating regularly in a 
+              recognized proficiency testing program for the contracted 
+              product(s).
+
+2.     Each portion must be tested to all requirements detailed in the item 
+       specification(s).  The Contractor does not have to conduct tests 
+       identified by the specification(s) as qualification tests only.  The 
+       Contractor does not have to conduct a test on the first batch of 
+       items if the above program for sampling and testing has been 
+       conducted within six (6) months of the date of the Contract.
+
+3.     The Contractor must, on receipt of the third party test report, 
+       compare the results received with those of the Contractor's own test 
+       facility.  Any deviation between results obtained by the two test 
+       facilities in excess of the reproducibility of the test methods 
+       involved, must be investigated, the root cause determined and 
+       corrective action taken.
+
+4.     The Contractor must repeat the above program for sampling and 
+       testing at least once every six (6) months during the life of the 
+       Contract.
+
+5.     The purpose of this correlation testing is to verify the quality of 
+       the contracted item(s) and to validate the capability of the 
+       Contractor's testing facility.  The test report(s) received from the 
+       third party laboratory, the Contractor's test reports for the same 
+       batch(es) of contracted item(s), reports of any investigations of 
+       deviations of the results obtained by the two laboratories and any 
+       corrective actions taken, must be made available to the Quality 
+       Assurance Representative on request. Test validation must be 
+       conducted at Contractor's expense.
+
+
+</pre>
+</div>

@@ -1,0 +1,26 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats lorsque la livraison est franco 
+bord destination ou rendu droits acquittés et que l'entrepreneur est responsable 
+de tous les frais de livraison et d'administration, de tous les coûts et risques 
+liés au transport, ainsi que du dédouanement et des droits de douane.
+
+Ne pas utiliser cette clause dans les contrats pour le ministère de la Défense 
+nationale (MDN) lorsque le MDN est responsable pour l'expédition.
+
+Utiliser cette clause en conjonction avec C5200C.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les biens doivent être expédiés au point de destination précisé dans le 
+contrat et livrés : 
+
+a)     franco bord (destination) transporteur _______ (<span class="wsInlineRemark"><strong>insérer le</strong></span><strong> </strong><span class="wsInlineRemark"><strong>point de 
+       destination</strong></span>) pour les expéditions en provenance du gouvernement des 
+       États-Unis; ou
+
+b)     rendu droits acquittés (DDP) ________ (<span class="wsInlineRemark"><strong>insérer le nom du lieu de 
+       destination convenu</strong></span>) selon les Incoterms 2000 pour les expéditions 
+       en provenance d'un entrepreneur commercial.
+
+
+</pre>
+</div>

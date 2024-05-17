@@ -1,0 +1,33 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for defence supplies when the Department 
+of National Defence is the importer and the contract value is C$250,000 or more. 
+ Contracting officers should request prices with customs duties identified as a 
+separate item.  Clause
+  
+   D0035C
+  
+  may apply.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">As the goods to be supplied under the Contract are
+defence supplies, customs duties on importation to Canada may be
+remitted under the Tariff Item Number 9982.00.00 of the Schedule to
+the <em>Customs Tariff</em>.</li>
+<li value="2">Remission of customs duties payable may be granted
+under the Tariff Item Number 9982.00.00 when the total contract
+value of the defence supplies is C$250,000 or more. This reflects
+the import value of the goods plus the duty that would be
+applicable in the absence of the <em>Customs Tariff</em>.</li>
+<li value="3">The Department of National Defence (DND) will be
+responsible for prearranging remission on importation or for paying
+customs duties on importation and applying to Canada Border
+Services Agency for a refund. <abbr title="Department of National Defence">DND</abbr>  is also responsible for applying
+to Public Works and Government Services Canada in good time for the
+certification required by the <em>Customs Tariff</em>.</li>
+</ol>
+</div></pre>
+</div>

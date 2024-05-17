@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in any contracts where it is necessary to ensure 
+against the Contractor making changes or carrying out additional work without 
+the prior approval of the contracting officer.
+
+This clause is not required when C0207C is used.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>No increase in the total liability of Canada or in the price of Work 
+resulting from any design changes, modifications or interpretations of 
+specifications will be authorized or paid to the Contractor unless such 
+changes, modifications or interpretations, have been approved, in writing, 
+by the Contracting Authority, prior to their incorporation into the Work.
+
+
+</pre>
+</div>

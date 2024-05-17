@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in competitive bid solicitations.
+
+Do not use for Low Dollar Value and Medium Complexity requirements if the Plain 
+Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>To ensure the integrity of the competitive bid process, enquiries and other 
+communications regarding the bid solicitation, must be directed only to the 
+Contracting Authority identified in the bid solicitation.  Failure to 
+comply can, for that reason alone, result in the disqualification of the 
+bid.
+
+All enquiries must be submitted in writing to the Contracting Authority no 
+later than _____ calendar days prior to the bid closing date of the bid 
+solicitation.  Enquiries received after that time may not be answered prior 
+to the bid closing date.
+
+To ensure consistency and quality of information provided to bidders, 
+   significant enquiries received and the replies to such enquiries will be 
+   provided simultaneously to bidders to which the bid solicitation has 
+   been sent, without revealing the sources of the enquiries.
+</pre>
+</div>

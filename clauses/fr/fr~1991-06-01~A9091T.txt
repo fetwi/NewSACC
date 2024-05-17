@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>a) Fiches techniques : En plus de remplir la formule d'appel d'offres, le 
+Soumissionnaire devra inclure deux (2) copies des fiches techniques de prix 
+illustrant ce qui suit : 
+
+       Chaque élément de travail ou de services figurant dans la liste des 
+       spécifications devra être assorti d'un prix, de manière à indiquer 
+       le coût total sous forme d'un seul montant en dollars. 
+
+b) Contrats de sous-traitance : Une liste des contrats de sous-traitante 
+   dépassant 25 000 $ pour la main d'oeuvre et (ou) le matériel devra être 
+   incluse dans la soumission, et indiquer le nom du sous-traitant.  
+</pre>
+</div>

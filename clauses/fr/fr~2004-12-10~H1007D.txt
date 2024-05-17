@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante avec la clause H1003D.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     Le solde du montant à payer pour un trimestre doit être payé à 
+       chaque trimestre, à la condition qu'une demande de paiement soit 
+       présentée.  Chaque demande reçue à la fin d'un trimestre doit 
+       comprendre la demande de versement des retenues de garantie 
+       trimestrielles.
+
+2.     Les acomptes doivent être considérés comme des paiements provisoires 
+       seulement et le Canada aura le droit de procéder à des vérifications 
+       provisoires des coûts et du temps ou à des contrôles, et d'apporter 
+       des rajustements, de temps à autre, durant l'exécution des travaux.  
+       Tout paiement excédentaire qui résulte du versement de ces acomptes 
+       ou d'une autre cause devra être remboursé rapidement au Canada.
+
+
+</pre>
+</div>

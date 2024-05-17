@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Goods and Services Tax (GST) is not included in the price quoted by the 
+   offerer. The total estimated amount of GST is to be shown separately. 
+   The GST, to the extent applicable, will be shown separately on all 
+   invoices and claims for progress payments and will be paid by Canada. 
+   The bidder agrees to remit to Revenue Canada-Customs and Excise any GST 
+   that the bidder receives from Canada pursuant to any contract awarded as 
+   a result of this solicitation.  
+</pre>
+</div>

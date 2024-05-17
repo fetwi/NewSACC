@@ -1,0 +1,27 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause when it would be beneficial for bidders to view the work site to 
+improve their understanding of the requirement.  Contracting officers are to 
+edit the clause to specify the location of the site and the date and time of the 
+visit.  In the case of marine requirements, the word Vessel may be inserted 
+after the title.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>It is recommended that the Bidder or a representative of the Bidder visit 
+the work site and examine the scope of the Work required and the existing 
+conditions.
+
+Arrangements have been made for a tour of the work site.  The site visit 
+will be held on _____, at _____, and bidders are to communicate with the 
+Contracting Authority prior to the visit to confirm attendance.  Bidders 
+that do not attend are not precluded from submitting a bid.  Bidders are to 
+provide the Contracting Authority with the names of their representatives 
+no later than _____ days prior to the scheduled site visit.
+
+The person conducting the site visit will have an attendance form which is 
+to be signed by the Bidder's representative(s) in attendance.  Bidders are 
+advised that any clarifications or changes resulting from the site visit 
+shall be included as an amendment to the bid solicitation document.
+
+</pre>
+</div>

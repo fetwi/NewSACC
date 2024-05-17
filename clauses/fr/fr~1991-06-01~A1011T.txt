@@ -1,0 +1,13 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Toutes les demandes de renseignements et autres communications avec les 
+fonctionnaires du gouvernement au cours de la période visée par un appel 
+d'offres doivent être adressées UNIQUEMENT à l'agent du MAS (nommé à la 
+première page du document).
+
+Le fait de ne pas respecter cette condition pendant le période visée par 
+   l'appel d'offres constitue une raison suffisante pour rejeter une offre.
+</pre>
+</div>

@@ -1,0 +1,16 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats qui incluent les conditions 
+générales autres que 9601 ou 9624 lorsque les déchets et débris deviendront la 
+propriété de l'entrepreneur qui devra procéder à leur enlèvement des lieux.
+
+Utiliser la clause A9041C pour les contrats qui incluent les conditions 
+générales 9601 ou 9624.</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les déchets et les débris deviendront la propriété de l'entrepreneur 
+qui devra procéder à leur enlèvement des lieux.
+
+
+
+</pre>
+</div>

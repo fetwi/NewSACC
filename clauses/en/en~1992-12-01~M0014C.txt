@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>A.     Contracting Authority:
+
+       Department of Supply and Services     
+       Capital Region Supply Centre     
+       Purchasing Group     
+       1010 Somerset Street West     
+       Ottawa, Ontario     
+       K1A 0T4
+
+       Attention:     Telephone:(613)_____ Ext. ____
+
+B.     Inspection Authorities:
+
+       The Federal Government Authorized Person initiating the request for 
+   service or the Identified User on site specified in the form DSS-MAS 
+   8251, Call-up against a Standing Offer for Temporary Help Services. 
+</pre>
+</div>

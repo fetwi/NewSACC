@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser cette clause lorsqu'il faut prévoir du matériel fourni par le 
+gouvernement (MFG) pour l'emballage des munitions ou qu'il faut intégrer ce 
+matériel dans les munitions.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>On mettra à la disposition de l'entrepreneur le matériel fourni par le 
+gouvernement (MFG) suivant, à la condition d'adresser un préavis écrit d'au 
+moins six (6) semaines au Quartier général de la Défense nationale, 
+Directeur - Gestion des munitions (QGDN-DGM).
+
+<strong>Liste des articles</strong>
+
+______
+______
+______
+______
+
+</pre>
+</div>

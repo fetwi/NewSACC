@@ -1,0 +1,122 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utilisez la clause suivante dans les contrats de production à prix fixe.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="a">
+<li value="1">La <abbr title="Corporation commerciale canadienne ">CCC</abbr> peut, en vertu des dispositions du paragraphe
+c) ci- dessous et en envoyant à l'Entrepreneur un avis
+écrit d'inexécution, résilier en tout ou en partie
+le présent Contrat dans l'un des cas suivants :
+<ol type="i">
+<li value="1">si l'Entrepreneur ne livre pas les marchandises ou ne
+rend pas les services demandés dans les délais ou
+extensions de délais prévus au Contrat; ou</li>
+<li value="2">si l'Entrepreneur ne respecte pas une des autres
+dispositions du Contrat, ou si le développement du travail
+compromet l'exécution générale du Contrat selon les
+modalités précisées; et si, dans l'un ou l'autre
+cas, il ne corrige pas la situation dans les dix (10) jours (ou
+tout autre délai plus long que la <abbr title="Corporation commerciale canadienne ">CCC</abbr> peut accorder par
+écrit) après réception de l'avis de la <abbr title="Corporation commerciale canadienne ">CCC</abbr>
+mentionnant cette infraction au Contrat.</li>
+</ol>
+</li>
+<li value="2">Si la <abbr title="Corporation commerciale canadienne ">CCC</abbr> décide de résilier le Contrat en
+tout ou en partie selon les dispositions du paragraphe a) de la
+présente clause, elle peut, selon les termes et de la
+manière qu'elle jugera adéquats, faire livrer des
+marchandises ou exécuter des services semblables à ceux
+qu'affecte la résiliation, et l'Entrepreneur sera responable
+envers la <abbr title="Corporation commerciale canadienne ">CCC</abbr> des coûts supplémentaires engagés
+à cet effet, et l'Entrepreneur devra continuer
+l'exécution du Contrat, pour la partie non résiliée
+en vertu des dispositions de la présente clause.</li>
+<li value="3">Sauf en cas d'inexécution de la part de
+sous-traitants de n'importe quel échelon, l'Entrepreneur ne
+sera pas tenu responsable des coûts excédentaires
+résultant de causes indépendantes de sa volonté,
+sans qu'il n'y ait eu faute ou négligence de la part de
+l'Entrepreneur. Des exemples de telles causes peuvent être les
+suivants : (1) cas de force majeur ou sabotage, (2) Loi du
+Gouvernement américain dans l'exercice de son pouvoir
+souverain ou contractuel, (3) incendies, (4) inondations, (5)
+épidémies, (6) mises en quarantaine, (7) grèves, (8)
+embargos, et (9) conditions atmosphériques exceptionnellement
+mauvaises. Dans chaque cas, il faut que la situation soit hors du
+contrôle de l'Entrepreneur et qu'il n'ait commis ni faute ni
+négligence. Si l'inexécution du Contrat est due à un
+sous-traitant de n'importe quel niveau, et qu'elle résulte de
+causes indépendantes de la volonté de l'Entrepreneur ou
+de son sous-traitant, sans qu'il n'y ait eu faute ou
+négligence de la part de l'un ou l'autre, l'Entrepreneur ne
+sera pas tenu responsable des coûts excédentaires, à
+moins qu'il ait eu suffisamment de temps pour se procurer ailleurs
+les marchandises ou services sous-traités, afin de respecter
+le calendrier de livraison.</li>
+<li value="4">Si le présent Contrat est résilié
+conformément à l'article a) de la présente clause,
+la <abbr title="Corporation commerciale canadienne ">CCC</abbr>, outre les autres droits que lui donne la présente
+clause, peut demander à l'Entrepreneur de transmettre les
+titres de propriété au Gouvernement américain et de
+lui livrer, selon les termes que la <abbr title="Corporation commerciale canadienne ">CCC</abbr> jugera
+appropriés :
+<ol type="i">
+<li value="1">toute marchandise prête; et</li>
+<li value="2">toute marchandise partiellement prête et tous
+matériaux, pièces, outils, matrices, gabarits,
+appareillages, plans dessins, informations, et droits de Contrat
+(ci-après désignés comme « matériaux de
+fabrication ») que l'Entrepreneur aura produits ou
+commandés à cette fin en vue de l'exécution de la
+partie du Contrat qui a été résiliée;
+l'Entrepreneur sera tenu en outre, selon les directives de la <abbr title="Corporation commerciale canadienne ">CCC</abbr>,
+d'assurer la protection et la sécurité des biens en sa
+possession, dans lesquels la <abbr title="Corporation commerciale canadienne ">CCC</abbr> a des intérêts. Le
+paiement des marchandises livrées au Gouvernement
+américain et acceptées par lui sera conforme au Prix
+contractuel. Le paiement des matériaux de fabrication
+livrés au Gouvernement américain et acceptés par
+lui, ainsi que des coûts relatifs à la protection et
+à la sécurité des matériaux sera fonction de
+l'accord passé entre l'Entrepreneur et la <abbr title="Corporation commerciale canadienne ">CCC</abbr>; si
+l'Entrepreneur n'en arrive pas à un tel accord, ceci
+constituera un litige sur une question de fait au sens de la clause
+intitulée « litiges ». La <abbr title="Corporation commerciale canadienne ">CCC</abbr> se réserve le
+droit de retenir sur des sommes qu'elle doit par ailleurs à
+l'Entrepreneur au titre des marchandises ou matériaux de
+fabrication fournis, le montant qu'elle jugera nécessaire en
+vue de la protéger contre des pertes éventuelles
+résultant d'un droit de rétention existant ou des
+réclamations de détenteurs de privilèges
+précédents.</li>
+</ol>
+</li>
+<li value="5">S'il s'avère, après avis de
+résiliation du Contrat en vertu de la présente clause,
+que la responsabilité de l'Entrepreneur n'était pas
+engagée aux termes de la présente clause, ou que
+l'inexécution était excusable en vertu des mêmes
+termes, les droits et obligations des parties, si le Contrat inclut
+une clause stipulant la possibilité de résiliation pour
+des raisons de commodité de la <abbr title="Corporation commerciale canadienne ">CCC</abbr>, seront les mêmes que
+si l'avis de résiliation avait été émis
+conformément à ladite clause. S'il s'avère,
+après avis de résiliation du Contrat en vertu de la
+présente clause, que la responsabilité de l'Entrepreneur
+n'était pas engagée selon ladite clause et si le Contrat
+n'inclut aucune clause permettant la résiliation pour des
+raisons de commodité du Gouvernement, le Contrat devra
+être modifié en conséquence; le défaut de
+s'entendre sur une telle modification constituera un litige sur une
+question de fait au sens de la clause intitulée
+« Litiges ».</li>
+<li value="6">Les droits et recours de la <abbr title="Corporation commerciale canadienne ">CCC</abbr> prévus à la
+présente clause ne sont pas exclusifs et s'ajouent à tout
+autre droit ou recours assurés par la loi en vertu du
+présent Contrat.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,30 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence when a Provisioning Parts Breakdown is required.
+ </p>
+<p>
+  Contracting officers must include the name of the Technical Authority and the Procurement Authority in the contract.
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   B4060C
+  
+  and
+  
+   B4061C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">The Contractor must, <var>______</var> days after the design of a deliverable is accepted by the Technical Authority, provide to the Procurement Authority a Provisioning Parts Breakdown (PPB) prepared in accordance with the current issue of Canadian Forces Specification D-01-100-214/SF0-000. Copies of all assembly level drawings and parts lists required to verify the complete and current configuration of the equipment must accompany the <abbr title="Provisioning Parts Breakdown">PPB</abbr>. Upon request from the Contractor, the specification will be provided by
+the Contracting Authority.</li>
+<li value="2">Supplementary Provisioning Technical Documentation (SPTD), as prepared by the actual manufacturer of the item, is required for the codification and cataloguing of all items listed in the <abbr title="Provisioning Parts Breakdown">PPB</abbr>. The <abbr title="Supplementary Provisioning Technical Documentation">SPTD</abbr> called up in the above specification must be supplied, as detailed in the specification, within twenty (20) working days after receipt of a request from the Director Supply Chain Operations (DSCO). Specific details of the data elements
+required must be listed on a Provisioning Documentation Selection Sheet, prepared in accordance with the above specification and the <abbr title="Provisioning Parts Breakdown">PPB</abbr>, and be submitted in electronic <abbr title="American Standard Code for Information Interchange">ASCII</abbr> text format.</li>
+<li value="3">Final acceptance of the <abbr title="Provisioning Parts Breakdown">PPB</abbr> and the <abbr title="Supplementary Provisioning Technical Documentation">SPTD</abbr> will be made by <abbr title="Director Supply Chain Operations">DSCO</abbr>. Questions regarding the preparation, format or contents of the above provisioning documentation must be directed to Procurement Authority.</li>
+</ol>
+</div></pre>
+</div>

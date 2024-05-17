@@ -1,0 +1,40 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le marquage et la préparation 
+du papier pour expédition selon la norme de l'Office des normes générales du Canada.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   B4003T
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">Emballage de base - norme commerciale</li>
+<li value="2">Emballage en vrac :
+<ol type="a">
+<li value="1">numéro de nomenclature (code de produit);</li>
+<li value="2">description de l'article;</li>
+<li value="3">unité de distribution;</li>
+<li value="4">quantité;</li>
+<li value="5">numéro de lot ou numéro du contrat;</li>
+<li value="6">nom et adresse du destinataire;</li>
+<li value="7">nom et adresse de l'entrepreneur.</li>
+</ol>
+</li>
+<li value="3">En outre, le marquage et la préparation par
+l'entrepreneur en vue de l'expédition doivent être
+conforme à la norme 43-GP-103P, Emballage du papier
+d'impression et de bureau, de l'Office des normes
+générales du Canada.</li>
+<li value="4">Le défaut de se conformer aux exigences
+ci-dessus entraînera le renvoi de la marchandise pour qu'elle
+soit remballée et(ou) remaniée aux frais de
+l'entrepreneur.</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,49 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>GATT AGREEMENT: As this requirement is subject to the GATT Agreement on 
+Government Procurement, the following terms and conditions are applicable 
+to this bid solicitation.  
+
+       l. Suppliers who are not registered on the Department of Supply and 
+       Services Source List must complete a copy of the Regional 
+       Application for Source Listing, form DSS-MAS 10550.  
+
+       2. Bid documents and supporting information may be submitted either 
+       in English or in French.  
+
+       3. All prices quoted must be expressed in Canadian dollars.  
+
+       4. For suppliers located in Canada: Prices must be firm with 
+       Canadian customs duties and excise taxes as applicable INCLUDED, and 
+       goods and services tax as applicable EXCLUDED.  
+
+       For suppliers located outside of Canada: Prices must be firm with 
+       Canadian customs duties, goods and services tax and excise taxes 
+       EXCLUDED.  
+
+       5. Before award of contract, suppliers may be requested to provide 
+       specific information with respect to their legal and financial 
+       status, and their technical capability to supply the requirement as 
+       stipulated in the bid solicitation.  
+
+       6. All bidders must indicate the country of origin of imported 
+       products to their respective country, including imported material or 
+       components used by the bidders or their sub-contractors in the 
+       manufacture of the end product.  
+
+       7. Although the Minister reserves the right to award the contract 
+       either on a FOB plant or FOB destination basis, suppliers must 
+       provide prices FOB their plant or shipping point and FOB 
+       destination(s) as indicated in Appendix A of the bid solicitation.  
+
+       8. Contract(s) will be awarded to competent/qualified supplier(s) 
+       who provide the best value to the Crown with respect to price, 
+       technical compliance and delivery requirements.  
+
+       9. Use of Canadian Labour and Materials, para. 20 of form DSS-MAS 
+   1026 (S-100A), General Conditions - Supplies - Firm Price, do not apply 
+   to this solicitation/contract.   
+</pre>
+</div>

@@ -1,0 +1,97 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use this clause in the Architectural and Engineering Consultant Agreement - 
+General.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>1.     Agreement Particulars (as applicable)</strong>
+
+       (a)    Supplementary Liability Insurance Requirements for this 
+              Project (as described in clause R0300D, Supplementary 
+              Conditions)
+
+              ______________________________________________________________________
+              ______________________________________________________________________
+
+                            Amount of Insurance                $_______
+
+       (b)    Documents for Required <em>Services</em>
+                     Documents                          No. of copies:
+                                                        hard copies   CADD 
+files
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+              ______________________                    ________      ________
+
+       (c)    Percentage Fee (clause R2006D, Calculation of Fees)
+                                                        ________%
+
+       (d)    Fixed Fee (clause R2006D)
+                     <em>SERVICES                                         </em>FIXED 
+FEE
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              MAXIMUM FIXED FEES                                      $_______
+
+       (e)    Time Based Fees (clause R2006D)
+              Hourly Rates (clause R2006D)
+              Principals, Executives and other Personnel approved in that 
+capacity      Per Hour
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______
+              __________________________                              $_______ 
+              __________________________                              $_______
+
+              <em>Payroll Cost</em> Factors (clause R2006D)
+                     Staff                                            
+Factor
+              __________________________                              ________
+              __________________________                              ________
+              __________________________                              ________
+              __________________________                              ________
+
+              Maximum Amount(s) Payable (clause R2006D)
+                     <em>SERVICES                                         </em>TIME 
+BASED FEE
+              __________________________                              $________
+              __________________________                              $________
+              __________________________                              $________
+              __________________________                              $________
+              __________________________                              $________
+              __________________________                              $________
+              __________________________                              $________
+              MAXIMUM TIME BASED FEES                                 $________
+
+       (f)    Fee Arrangement(s) for Additional <em>Services</em> (clause R1016D, 
+Additional Services)
+              Bilingual Construction Documents:                       $________
+              Resident <em>Services</em> During Construction:                  $________
+              TOTAL FEES FOR ADDITIONAL <em>SERVICES</em>:                     $________
+
+       (g)    Maximum Amount Payable for Disbursements: (clause R0220D, 
+General Conditions)
+              Disbursements                                           $________
+              Premium for Supplementary Liability Insurance:
+              (subsection 1.(a) above)                                $________
+              TOTAL DISBURSEMENTS                                     $________
+
+       (h)    Maximum Amount Payable:
+              Maximum Fees for Required <em>Services</em>:                     $________
+              Maximum Fees for Additional <em>Services</em>:                   $________
+              Maximum Disbursements:                                  $________
+              Tax:                                                    $________
+
+              <strong>TOTAL THIS AGREEMENT                                    </strong>$________ 
+
+</pre>
+</div>

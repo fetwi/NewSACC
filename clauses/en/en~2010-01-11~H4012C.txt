@@ -1,0 +1,79 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in firm price contracts when progress payments against 
+milestones will be made.  
+For more information, consult
+  
+   4.70.30.15
+  
+  of the
+  <cite>
+
+    Supply Manual
+   
+</cite>
+  .
+ </p>
+<p>
+  Use this clause in conjunction with
+  
+   H3010C
+  
+  or
+  
+   H3009C
+  
+  .
+ </p>
+<p>
+  Contracting officers must revise the title of each column as applicable.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The schedule of milestones for which payments will be made in
+accordance with the Contract is as follows:</p>
+<table>
+<tbody><tr>
+<th>Milestone No.</th>
+<th>
+Description or "Deliverable"
+</th>
+<th>
+Firm Amount
+</th>
+<th>
+Due Date or "Delivery Date"
+</th>
+</tr>
+<tr>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_________________</var></p>
+</td>
+</tr>
+<tr>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>________________</var></p>
+</td>
+<td>
+<p><var>_______________</var></p>
+</td>
+<td>
+<p><var>_________________</var></p>
+</td>
+</tr>
+</tbody></table>
+</div></pre>
+</div>

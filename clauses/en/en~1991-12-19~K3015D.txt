@@ -1,0 +1,18 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Add the following clause where the Contractor is to be required to keep 
+Technical Information confidential.  It is preferable that this obligation be 
+limited to a specific period of time following completion of the contract.  Use 
+only with clause K3000D or K3001D. 
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The Contractor, during the performance of the Contract and for a period of ____ 
+   months thereafter, shall keep confidential and shall not publish or 
+   otherwise disclose to any person any Technical Information, except as 
+   may be necessary to carry out the Work under the Contract in which case 
+   the Contractor shall impose the same obligation of confidentiality on 
+   any person to whom the information is disclosed.  The foregoing 
+   obligation does not apply to any Technical Information where the same 
+   information is publicly available from a source other than Canada.  
+</pre>
+</div>

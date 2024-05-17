@@ -1,0 +1,35 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts when called for in the
+  <abbr title="United States">
+   U.S.
+  </abbr>
+  contract.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The <abbr title="United States">U.S.</abbr> Government hereby gives its authorization and consent
+(without prejudice to its rights of indemnification) for all use
+and manufacture, in the performance of this Contract or any part
+hereof or any amendment hereto or any subcontract hereunder
+(including any lower-tier subcontract), of any patented invention
+described in and covered by a patent of the United States</p>
+<ol type="i">
+<li value="1">embodied in the structure or composition of any
+article the delivery of such is accepted by the <abbr title="United States">U.S.</abbr> Government
+under this Contract; or</li>
+<li value="2">utilized in the machinery, tools, or methods, the use of
+which necessarily results from compliance by the Contractor or the
+using subcontractor with (i) specifications or written provisions
+now or hereafter forming a part of this Contract, or (ii) specific
+written instructions given by the <abbr title="United States">U.S.</abbr> Contracting Officer
+directing the manner of performance. The Contractor's entire
+liability to the <abbr title="United States">U.S.</abbr> Government for patent infringement shall be
+determined solely by the provisions of the indemnity clauses, if
+any, included in the Contract and the <abbr title="United States">U.S.</abbr> Government assumes
+liability for all other infringement to the extent of the
+authorization and consent hereinabove granted.</li>
+</ol>
+</div></pre>
+</div>

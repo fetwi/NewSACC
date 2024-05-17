@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>RE: REQUISITION NO. _____.
+
+The following item(s) are being shipped to you from the _____.
+
+ Please submit your Tender/Proposal as soon as possible after determining 
+the extent of repairs required, giving firm price(s) for the work involved 
+and FOB _____ in order that it may be decided if it will be economical to 
+carry out the repairs.
+
+It is understood that you will not proceed with any repairs until you are 
+in receipt of an official contract.
+
+ 
+</pre>
+</div>

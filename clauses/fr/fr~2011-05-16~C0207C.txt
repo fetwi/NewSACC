@@ -1,0 +1,69 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Utiliser la clause suivante dans les contrats à prix ferme.
+
+Utiliser l'option 1 lorsque tous les travaux font l'objet d'un prix ferme, 
+d'un(de) prix unitaire(s)s ferme(s) ou d'un(de) prix de lot(s) ferme(s).
+
+Utiliser l'option 2 lorsque seulement une partie des travaux fait l'objet d'un 
+prix ferme ou  d'un(de) prix de lot(s) ferme(s).
+
+Autrement, utiliser la clause
+ 
+  C0209C
+ 
+ pour les contrats avec autorisation de 
+tâches.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<p>À condition de remplir de façon satisfaisante toutes
+ses obligations en vertu du contrat, l'entrepreneur sera payé
+<span class="input-required"><var>_______</var> <kbd>(<i>insérer
+«  un prix ferme  » OU «  un(des prix
+unitaire(s) ferme(s) » <strong><em>OU</em></strong> «  un
+(des) prix de lot ferme(s)  » précisé(s) dans
+(<em>insérer</em> « le contrat  »
+<strong><em>OU</em></strong> dans «  l'annexe <var>_____</var>
+ »</i>)</kbd></span>, selon un montant total de <span class="input-required"><var>_____</var> $
+<kbd>(<i><em>insérer le montant au moment de l'attribution du
+contrat</em></i>)</kbd></span>. Les droits de douane <span class="input-required"><var>______</var> <kbd>(<i>insérer «  sont
+inclus  », «  sont exclus  » OU «  font l'objet
+d'une exemption  »</i>)</kbd></span> et la taxe sur les produits et
+services ou la taxe de vente harmonisée est en sus, s'il y a
+lieu.</p>
+<p>Le Canada ne paiera pas l'entrepreneur pour tout changement
+à la conception, toute modification ou interprétation des
+travaux, à moins que ces changements à la conception, ces
+modifications ou ces interprétations n'aient été
+approuvés par écrit par l'autorité contractante
+avant d'être intégrés aux travaux.</p>
+<h2>Option 2</h2>
+<p>Pour les travaux décrits dans <span class="input-required"><var>_________</var> <kbd>(<i>insérer la ou les
+sections appropriées de l'énoncé des travaux ou des
+besoins auxquelles s'applique cette base de paiement</i>)</kbd></span>
+<span class="input-required"><var>__________</var>
+<kbd>(<i>insérer «  de l'énoncé des travaux  »
+OU «  des besoins  »</i>)</kbd></span> à l'annexe
+<var>____</var> .</p>
+<p>À condition de remplir de façon satisfaisante ses
+obligations en vertu du contrat, l'entrepreneur sera payé
+<span class="input-required"><var>______</var> <kbd>(<i>insérer
+«  un prix ferme  » ou «  un(des</i>)</kbd></span> prix de
+lot ferme(s)  »), selon un montant total de <span class="input-required"><var>_____</var> $
+<kbd>(<i><em>insérer le montant au moment de l'attribution du
+contrat</em></i>)</kbd></span>. Les droits de douane <span class="input-required"><var>_______</var> <kbd>(<i>insérer «  sont
+inclus  », «  sont exclus  » OU «  font l'objet
+d'une exemption  »</i>)</kbd></span> et la taxe sur les produits et
+services ou la taxe de vente harmonisée est en sus, s'il y a
+lieu.</p>
+<p>Pour la portion des travaux faisant l'objet d'un prix ferme
+seulement, le Canada ne paiera pas l'entrepreneur pour tout
+changement à la conception, toute modification ou
+interprétation des travaux, à moins que ces changements
+à la conception, ces modifications ou ces interprétations
+n'aient été approuvés par écrit par
+l'autorité contractante avant d'être intégrés
+aux travaux.</p>
+</div></pre>
+</div>

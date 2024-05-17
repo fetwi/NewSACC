@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats, offres à commandes et commandes 
+subséquentes à une offre à commandes qui sont FOB à l'usine. Dans le premier 
+espace blanc, préciser le type de document (c.-à-d. le contrat, l'offre à 
+commandes ou la commande subséquente à une offre à commandes) et dans le second, 
+l'emplacement de l'usine.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les marchandises seront expédiées au point de destination spécifié dans ____ 
+et livrées FOB transporteur commun à ____.
+
+
+</pre>
+</div>

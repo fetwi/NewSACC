@@ -1,0 +1,452 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use in conjunction with general conditions for purchase of telecommunications 
+services and/or products.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><strong>Public Works and Government Services Canada</strong>
+
+<strong>Part I - Conditions Common to all Telecommunications Services and Products</strong>
+01     Interpretation
+02     Termination Rights Associated with Breach of Telecommunications 
+       Warranties and Representations
+03     Contractor to Advise of all Proceedings that may Affect the Contract
+04     Contractor to Advise of all Relevant CRTC Rulings
+05     Information on Canada
+06     Price Protection
+07     Limitation of Liability for Mandatory 9-1-1 Emergency Service for 
+       Wireless Telecommunications Services
+
+<strong>Part II - Additional Conditions: Tariffed Services and Products</strong>
+08     Status of Contract Pending Final Approval from CRTC
+09     Telecommunications Warranties and Representations
+10     Contractor not to File Amendments to Tariff without Consent
+11     Effect of CRTC-Mandated Amendments to the Tariff
+12     Limitation of Liability for Tariffed Telecommunications Services and 
+Products
+13     Termination for Convenience
+14     Deregulation of Services or Products
+
+<strong>Part III - Additional Conditions: Non-tariffed Services and Products</strong>
+15     Telecommunications Warranties and Representations 
+16     Termination for Convenience
+
+
+<strong>Part I - Conditions Common to all Telecommunications Services and Products</strong>
+
+<strong>4005   01     (2008-05-12)  Interpretation</strong>
+
+1.     In the Contract, unless the context otherwise requires,
+
+       "CRTC" means the Canadian Radio-television and Telecommunications 
+       Commission;
+
+       "General Conditions" means the general conditions that form part of 
+       the Contract; and
+
+       "Tariff" means the tariff or tariffs approved by the CRTC that are 
+       identified in the Articles of Agreement, if any;
+
+2.     Words and expressions defined in the General Conditions and used in 
+       these supplemental general conditions have the meanings assigned to 
+       them in the General Conditions.
+
+3.     If there is any inconsistency between the General Conditions and 
+       these supplemental general conditions, the applicable provisions of 
+       these supplemental general conditions prevail.
+
+4.     Part I of these supplemental general conditions applies to the 
+       purchase of all telecommunications services and products.
+
+5.     Part II of these supplemental general conditions applies if a tariff 
+       approved by the CRTC that applies to the provision of any of the 
+       telecommunications services or products in the Contract has been 
+       specifically identified in the Articles of Agreement. If Part II 
+       applies, Part III does not.
+
+6.     Part III of these supplemental general conditions applies if no 
+       tariff has been specifically identified in the Articles of Agreement. 
+       If Part III applies, Part II does not.
+
+<strong>4005   02     (2008-05-12)  Termination Rights Associated with Breach of 
+                            Telecommunications Warranties and 
+                            Representations</strong>
+
+1.     Despite any other provision of the Contract (including the Tariff, 
+       if applicable, and the priority of documents clause in the Articles 
+       of Agreement), if, during the contract period, Canada learns that 
+       the Contractor's representations and warranties set out in section 
+       09 or 15, as applicable, were or are untrue, the Contractor will be 
+       in default of the Contract and Canada will be entitled to terminate 
+       the Contract on thirty (30) calendar days' notice without any 
+       penalty (regardless of whether Canada has satisfied any minimum work 
+       guarantees in the Contract).  The Contractor must pay to Canada its 
+       reasonable reprocurement costs resulting from the termination. 
+       However, Canada agrees that it will only exercise this right of 
+       termination if the Contracting Authority determines that the 
+       Contractor's breach of its warranties and representations has 
+       resulted in:
+
+       (a)    a negative effect on the services or products to be provided 
+              under the Contract; or 
+
+       (b)    an increase in the amount payable under the Contract, without 
+              a commensurate benefit accruing to Canada.
+
+2.     Nothing in this section must be interpreted as limiting the rights 
+       and remedies that Canada is otherwise entitled to under the Contract 
+       or the law.
+
+<strong>4005   03     (2008-05-12)  Contractor to Advise of all Proceedings that 
+May Affect the Contract</strong>
+
+Within five (5) working days of becoming aware of any application to or 
+proceeding before the CRTC that may have an effect on the Contract, the 
+Contractor must advise the Contracting Authority of the nature of the 
+proceeding and how its outcome might affect the Contract.
+
+<strong>4005   04     (2008-05-12)  Contractor to Advise of all Relevant CRTC 
+Rulings</strong>
+
+1.     The Contractor must advise the Contracting Authority of any rulings 
+       made by the CRTC that could have an effect on the Contract, by 
+       identifying the specific ruling and the way it might affect the 
+       Contract. The Contractor must provide this information within a 
+       reasonable time following the ruling, not to exceed three (3) months 
+       or, if the Contracting Authority has requested information about a 
+       specific ruling, within thirty (30) calendar days of that request.
+
+2.     If a ruling by the CRTC results in an interpretation of the Tariff 
+       that is inconsistent with the other provisions of the Contract (or a 
+       ruling that additional tariffs apply to the Contract), the 
+       Contractor will be in breach of the warranties and representations 
+       set out in section 09 or 15, as applicable.
+
+<strong>4005   05     (2008-05-12)  Information on Canada</strong>
+
+1.     In relation to all telecommunications services and products provided 
+       by the Contractor under the Contract, unless Canada provides express 
+       consent or disclosure is pursuant to a legal power, all information 
+       kept by the Contractor regarding Canada or its users, other than the 
+       name, address and listed telephone number, is confidential and may 
+       not be disclosed by the Contractor to anyone other than:
+
+       (a)    the Contracting Authority; 
+
+       (b)    a person who, in the reasonable judgment of the Contractor, 
+              is seeking the information as an agent of Canada; however, 
+              the Contractor acknowledges that only the Contracting 
+              Authority may designate an individual as an agent of Canada 
+              and will do so in writing;
+
+       (c)    another telephone company, provided the information is 
+              required for the efficient and cost-effective provision of 
+              telephone service and disclosure is made on a confidential 
+              basis with the information to be used only for that purpose; 
+
+       (d)    a company involved in supplying Canada with telephone or 
+              telephone directory related services, provided the 
+              information is required for that purpose and disclosure is 
+              made on a confidential basis with the information to be used 
+              only for that purpose; or
+
+       (e)    an agent retained by the Contractor to evaluate Canada's 
+              creditworthiness or collect Canada's account, provided the 
+              information is required for and is to be used only for that 
+              purpose.
+
+2.     Express consent may be taken to be given by Canada only where the 
+       Contracting Authority or a person designated in writing by the 
+       Contracting Authority provides:
+
+       (a)    written consent; 
+
+       (b)    oral confirmation verified by an independent third party;
+
+       (c)    electronic confirmation through the use of a toll-free number;
+
+       (d)    electronic confirmation through the Internet; 
+
+       (e)    oral consent, where an audio recording of the consent is 
+              retained by the carrier; or
+
+       (f)    consent through other methods, as long as an objective 
+              documented record of customer consent is created by Canada or 
+              by an independent third party.
+
+3.     The Contractor acknowledges that the security requirements of the 
+       Contract also apply to all Canada's information.
+
+<strong>4005   06     (2008-05-12)  Price Protection</strong>
+
+1.     The Contractor warrants that the rates being charged under the 
+       Contract are just and reasonable, as required by section 27 of the <em>
+       Telecommunications Act</em>, S.C. 1993, c. 38. The Contractor also 
+       represents and warrants that the prices are at least as low as those 
+       charged by the Contractor to other customers for similar services 
+       under similar contract conditions.
+
+2.     On request by the Contracting Authority, within ten (10) working 
+       days, the Contractor must provide a certification signed by its 
+       chief financial officer confirming that the prices charged under the 
+       Contract are at least as low as those charged by the Contractor to 
+       other customers for similar services under similar contract 
+       conditions.
+
+<strong>4005   07     (2008-05-12)  Limitation of Liability for Mandatory 9-1-1 
+                            Emergency Service for Wireless 
+                            Telecommunications Services</strong>
+
+1.     Despite any other provision of the Contract concerning liability, 
+       the Contractor's liability with respect to the provision of 9-1-1 
+       emergency services for wireless telecommunications (if those 
+       services are provided under the Contract) will be determined as 
+       follows:
+
+       (a)    The Contractor's liability is not limited by paragraphs (b) 
+              through (d) below, in cases of deliberate fault, gross 
+              negligence or anti-competitive conduct on the part of the 
+              Contractor or in cases of breach of contract where the breach 
+              results from gross negligence of the Contractor.
+
+       (b)    Except in cases where negligence on the part of the 
+              Contractor results in physical injury, death or damage to 
+              Canada's property or premises, the Contractor's liability for 
+              negligence related to the provision of emergency services is 
+              limited to the greater of $20 and three times the amount 
+              Canada would otherwise be entitled to receive as a refund for 
+              the provision of defective service under the Contract.
+
+       (c)    In respect of the provision of emergency services, the 
+              Contractor is not liable:
+
+              (i)    for libel, slander, defamation or the infringement of 
+                     copyright arising from material or messages 
+                     transmitted over the Contractor's telecommunications 
+                     network from Canada's property or premises or recorded 
+                     by Canada's equipment or the Contractor's equipment,
+
+              (ii)   for damages arising out of the act, default, neglect 
+                     or omission of Canada in the use or operation of 
+                     equipment provided by the Contractor, or
+
+              (iii)  for damages arising out of the transmission of 
+                     material or messages over the Contractor's 
+                     telecommunications network on behalf of Canada, which 
+                     is in any way unlawful.
+
+       (d)    When facilities of other companies or telecommunications 
+              systems are used in establishing connections to or from 
+              customer-controlled facilities and equipment, the Contractor 
+              is not liable for any act, omission or negligence of the 
+              other companies or telecommunications systems in relation to 
+              the provision of emergency services on a mandatory (i.e., as 
+              mandated by the CRTC) basis to Canada.
+
+2.     Any other provisions of the Contract concerning liability continue 
+       to apply to all services or products other than 9-1-1 emergency 
+       services for wireless telecommunications.
+
+
+<strong>Part II - Additional Conditions: Tariffed Services and Products</strong>
+
+<strong>4005   08     (2008-05-12)  Status of Contract Pending Final Approval From 
+CRTC</strong>
+
+1.     If the Contract has been awarded to the Contractor on the basis of 
+       an interim tariff approval from the CRTC, the Contractor must not 
+       start the Work before receiving final tariff approval from the CRTC. 
+       When it receives final approval, the Contractor must submit the 
+       following to the Contracting Authority:
+
+       (a)    the Tariff in the final form approved by the CRTC; and
+
+       (b)    a list of any revisions made to the version of the Draft 
+              Tariff originally submitted with the Contractor's bid and an 
+              explanation of how these revisions affect the Contract.
+
+2.     Canada will review the Contractor's submission and will determine 
+       whether the revisions to the original form of Draft Tariff submitted 
+       with the Contractor's bid affect:
+
+       (a)    its compliance with the mandatory requirements of the bid 
+              solicitation that resulted in the contract award;
+
+       (b)    its score under the rated requirements of the bid 
+              solicitation, if any; or
+
+       (c)    its ranking compared to other bidders in accordance with the 
+              evaluation process described in the bid solicitation.
+
+3.     If Canada determines that the Contractor remains compliant to the 
+       requirements of the bid solicitation and that its ranking compared 
+       to other bidders has been unaffected by the revisions to the Draft 
+       Tariff, Canada will advise the Contractor to proceed with the Work.
+
+4.     If Canada determines that, as a result of the revisions to the Draft 
+       Tariff, the Contractor is either no longer compliant or would no 
+       longer have been the top-ranked bidder under the evaluation process 
+       described in the bid solicitation, Canada may terminate the Contract 
+       for default, without any cost or penalty to Canada, and proceed to 
+       consider the next-ranked bid for contract award under the provisions 
+       of the bid solicitation.
+
+5.     Unless the Contractor receives approval sooner, Canada will allow no 
+       less than the following time period following the date of the 
+       Contract for the Contractor to obtain final approval of the Draft 
+       Tariff:
+
+       (a)    if the CRTC granted the interim approval on the basis of an <em>
+              ex parte</em> application, no fewer than seventy (70) working days 
+              following the date of the Contract; or
+
+       (b)    if the CRTC granted the interim approval on the basis of a 
+              public process, no fewer than fifty-five (55) working days 
+              following the date of the Contract.
+
+       If the Contractor fails to obtain final approval of the Draft Tariff 
+       from the CRTC in this time period, Canada will be entitled to 
+       terminate the Contract for default, without cost or penalty, and 
+       proceed to consider the next-ranked bid for contract award.
+
+<strong>4005   09     (2008-05-12)  Telecommunications Warranties and 
+Representations</strong>
+
+1.     Canada acknowledges that non-forborne telecommunications services 
+       and products, and bundled services that include non-forborne 
+       telecommunications services or products, are required to be provided 
+       in accordance with the applicable tariffs approved by the CRTC. 
+       However, the Contractor warrants that:
+
+       (a)    the Tariff consists of the only tariff(s) that apply to the 
+              provision of the services and products to be provided under 
+              the Contract;
+
+       (b)    the Tariff does not contain any rate ranges and all prices 
+              listed in the Tariff are firm prices;
+
+       (c)    the services and products to be provided under the Contract 
+              and the rates at which those services and products will be 
+              provided are in accordance with the Tariff;
+
+       (d)    the Tariff is not inconsistent with any other provisions of 
+              the Contract; 
+
+       (e)    the conditions respecting the provision of non-tariffed 
+              services and products under the Contract are in no way 
+              dependent on Canada subscribing to any tariffed or tariffable 
+              services and products, and the non-tariffed services and 
+              products are available on a stand-alone basis at the price 
+              set out in the basis of payment provision of the Contract for 
+              those services;
+
+       (f)    the charges for, and availability of, the telecommunications 
+              services and products provided under the Contract are in no 
+              way contingent on Canada subscribing for the provision of any 
+              tariffed or tariffable telecommunications service or product 
+              from the Contractor or any of its affiliates, unless the 
+              arrangement is conditional on tariff approval; and
+
+       (g)    the Contractor has sought and obtained all necessary 
+              approvals from the CRTC to ensure that the Contract 
+              represents the entire agreement between the Contractor and 
+              Canada.
+
+2.     The Contractor acknowledges that Canada has relied on these 
+       warranties and representations in awarding the Contract to the 
+       Contractor.
+
+<strong>4005   10     (2008-05-12)  Contractor not to File Amendments to Tariff 
+without Consent</strong>
+
+If the Contract was awarded as a result of a competitive process, the 
+Contractor agrees that it will not, on its own initiative, seek any 
+amendment to any tariff (including any general tariff, special facilities 
+tariff or customer-specific tariff) that forms part of the Tariff without 
+the Contracting Authority's prior written consent. If the Contractor makes 
+an amendment that results in the Tariff no longer being consistent with the 
+other provisions of the Contract, the Contractor will be in breach of the 
+warranties and representations set out in section 09 or 15, as applicable.
+
+<strong>4005   11     (2008-05-12)  Effect of CRTC-Mandated Amendments to the 
+Tariff</strong>
+
+If the CRTC, on its own initiative, directs the Contractor to amend the 
+Tariff, the Contractor will not be considered to be in breach of the 
+warranties and representations set out in the section of this Part entitled 
+"Telecommunications Warranties and Representations". However, 
+interpretations by the CRTC of the Tariff will not be considered to be 
+CRTC-initiated amendments to the Tariff unless the CRTC specifically orders 
+that the Tariff be amended as a result of its order. An order by the CRTC 
+that the conditions of the Contract be amended to conform to the Tariff 
+(without amending the Tariff itself) is not considered to be a 
+CRTC-initiated amendment to the Tariff and will constitute a breach of the 
+warranties and representations set out in section 09 or 15, as applicable.
+
+<strong>4005   12     (2008-05-12)  Limitation of Liability for Tariffed 
+                            Telecommunications Services and Products</strong>
+
+Despite any other provision of the Contract, any limitation of liability 
+set out in the Tariff applies to the services or products subject to the 
+Tariff. Any other provisions of the Contract concerning limitation of 
+liability continue to apply to all other services or products to which the 
+Tariff does not expressly apply.
+
+<strong>4005   13     (2008-05-12)  Termination for Convenience</strong>
+
+Despite the contract period and the provisions of the General Conditions 
+concerning termination for convenience, Canada has the right to terminate 
+the Contract for convenience with thirty (30) calendar days' written notice, 
+at no cost to Canada. If Canada terminates for convenience, Canada will be 
+responsible only to pay for the services or products delivered and accepted 
+up to the date of termination. However, Canada acknowledges that, if it 
+exercises its right to terminate for convenience in respect of 
+telecommunications services or products subject to the Tariff, where the 
+price for that specific service or product is associated with a minimum 
+term for the service, any termination charges specified in the Tariff will 
+apply.
+
+<strong>4005   14     (2008-05-12)  Deregulation of Services or Products</strong>
+
+1.     If, during the contract period, the law no longer requires any of 
+       the services or products under in the Contract to be provided in 
+       accordance with the Tariff, at Canada's option, the conditions of 
+       the former Tariff will immediately cease to apply to the Contract 
+       and the Contract will be interpreted accordingly.
+
+2.     If the Contractor continues to be required by law to provide the 
+       services or products in accordance with the Tariff in only some 
+       locations, Canada may choose to have the conditions of the Tariff 
+       apply only to those locations.
+
+3.     At the time the conditions of the former Tariff cease to apply to 
+       any services or products, the Contractor agrees, throughout the 
+       remainder of the contract period, to lower its prices to the lowest 
+       price it charges to any other customer receiving similar quality and 
+       quantity of services or products.
+
+<strong>Part III - Additional Conditions: Non-tariffed Services and Products</strong>
+
+<strong>4005   15     (2008-05-12)  Telecommunications Warranties and 
+Representations</strong>
+
+The Contractor warrants that the provision of each of the services and 
+products to be provided by the Contractor under the Contract is either 
+non-regulated or forborne and, as a result, no tariffs apply to the 
+Contract. The Contractor also warrants and represents that it has sought 
+and obtained all necessary approvals from the CRTC to ensure that the 
+Contract represents the entire agreement between the Contractor and Canada. 
+The Contractor acknowledges that Canada has relied on these warranties and 
+representations in awarding the Contract to the Contractor.
+
+<strong>4005   16     (2008-05-12)  Termination for Convenience</strong>
+
+Despite the contract period and the provisions of the General Conditions 
+concerning termination for convenience, Canada has the right to terminate 
+the Contract for convenience with thirty (30) calendar days' written notice, 
+at no cost to Canada. In the event of termination, Canada will be 
+responsible only to pay for the services or products delivered and accepted 
+up to the date of termination.
+
+
+</pre>
+</div>

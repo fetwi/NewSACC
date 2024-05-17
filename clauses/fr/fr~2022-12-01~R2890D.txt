@@ -1,0 +1,69 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2022-12-01R2890Dobligation-de-deposer-une-garantie-contractuelle">CG9.1 Obligation de déposer une garantie contractuelle</a></li>
+<li><a href="#2022-12-01R2890Dtypes-et-montants-de-la-garantie-contractuelle">CG9.2 Types et montants de la garantie contractuelle</a></li>
+</ul>
+</div>
+<h2 id="2022-12-01R2890Dobligation-de-deposer-une-garantie-contractuelle">CG9.1 (2010-01-11) Obligation de déposer une garantie contractuelle</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit, à ses frais et dans les 14 jours suivant la réception d'un avis confirmant que le Canada accepte son offre, obtenir et déposer auprès du Canada une garantie contractuelle sous l'une des formes prescrites dans la CG9.2, « Types et montants de la garantie contractuelle ».</li>
+<li value="2">Si la totalité ou une partie de la garantie contractuelle déposée se présente sous la forme d'un dépôt de garantie, cette garantie est conservée et traitée conformément à la CG5.13, « Remise du dépôt de garantie », et à la CG7.4, « Dépôt de garantie - confiscation ou remise ».</li>
+<li value="3">Si une partie de la garantie contractuelle déposée se présente sous la forme d'un cautionnement pour le paiement de la main-d'œuvre et des matériaux, l'entrepreneur doit en afficher une copie à l'emplacement des travaux.</li>
+<li value="4">Le dépôt de la garantie contractuelle, selon les modalités précisées dans les présentes, constitue une des conditions préalables à l'autorisation du premier paiement progressif.</li>
+</ol>
+<h2 id="2022-12-01R2890Dtypes-et-montants-de-la-garantie-contractuelle">CG9.2 (2022-12-01) Types et montants de la garantie contractuelle</h2>
+<ol type="1">
+<li value="1">L'entrepreneur doit déposer auprès du Canada soit a) ou b). <ol type="a">
+<li value="1">Un cautionnement d'exécution et un cautionnement pour le paiement de la main-d'œuvre et des matériaux, représentant chacun au moins 50p. 100 du montant du contrat (avant taxe(s) applicable(s)).</li>
+<li value="2">Un dépôt de garantie ou une lettre de crédit irrévocable représentantau moins 20 p. 100 du montant du contrat (avant taxe(s) applicable(s)).</li>
+</ol>
+</li>
+<li value="2">Le cautionnement d'exécution (formulaire  PWGSC-TPSGC 505) et le cautionnement pour le paiement de la main-d'œuvre et des matériaux (formulaire PWGSC-TPSGC 506) mentionnés au sous-alinéa 1)a) de la CG9.2 doivent être présentés en utilisant un formulaire approuvé par le Canada et provenir d'une compagnie de cautionnement reconnue par le Canada (voir l'<cite>Appendice L</cite>, Compagnies de cautionnement reconnues, du Conseil du Trésor).</li>
+<li value="3">Le dépôt de garantie mentionné au sous-alinéa 1)b) de la CG9.2 consiste en : <ol type="a">
+<li value="1">une lettre de change, une traite bancaire ou un mandat de poste établi à l'ordre du Receveur général du Canada et certifié par une institution financière approuvée ou tiré par une institution financière approuvée sur son propre compte; ou</li>
+<li value="2">des obligations du gouvernement du Canada ou des obligations garanties inconditionnellement quant au capital et aux intérêts par le gouvernement du Canada.</li>
+</ol>
+</li>
+<li value="4">Aux fins du sous-alinéa 3)a) de la CG9.2 : <ol type="a">
+<li value="1">une lettre de change est un ordre inconditionnel donné par écrit par l'entrepreneur à une institution financière agréée et obligeant ladite institution à verser, sur demande et à une certaine date, une certaine somme au Receveur général du Canada ou à l'ordre de ce dernier;</li>
+<li value="2">si une lettre de change, une traite bancaire ou un mandat de poste est certifié(e) ou tiré par une institution financière ou une institution autre qu'une banque à charte, elle/il doit être accompagné(e) d'une lettre ou d'une attestation estampillée confirmant que l'institution financière appartient à au moins l'une des catégories mentionnées au sous-alinéa 4)c) de la CG9.2;</li>
+<li value="3">une institution financière agréée est : <ol type="i">
+<li value="1">une société ou institution membre de l'Association canadienne des paiements (Paiements Canada) tel que défini dans la <cite>Loi canadienne sur les paiements</cite>;</li>
+<li value="2">une société qui accepte les dépôts assurés par la Société d'assurance-dépôts du Canada ou l'Autorité des marchés financiers, et ce, jusqu'au maximum autorisé par la loi;</li>
+<li value="3">une société qui accepte les dépôts du public et pour laquelle le remboursement des dépôts est garanti par Sa Majesté le Roi au nom d'une province;</li>
+<li value="4">une société, une association ou une fédération constituée ou organisée comme caisse de crédit ou société coopérative de crédit, qui se conforme aux exigences d'une caisse de crédit, lesquelles sont plus amplement décrites au paragraphe 137(6) de la <cite>Loi de l'impôt sur le revenu</cite>; ou</li>
+<li value="5">La Société canadienne des Postes.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li value="5">Les obligations mentionnées au sous-alinéa 3)b) de la CG9.2 doivent être fournies à leur valeur courante sur le marché à la date du contrat et être : <ol type="a">
+<li value="1">payables au porteur; ou</li>
+<li value="2">accompagnées d'un document de transfert dûment exécuté à l'ordre du Receveur général du Canada, et dans la forme prescrite par le Règlement sur les obligations intérieures du Canada; ou</li>
+<li value="3">soit enregistrées quant au capital ou quant au capital et aux intérêts au nom du Receveur général du Canada, conformément au Règlement sur les obligations intérieures du Canada.</li>
+</ol>
+</li>
+<li value="6">La lettre de crédit irrévocable mentionnée au sous-alinéa 1)b) de la CG9.2 doit : <ol type="a">
+<li value="1">constituer une disposition, quelle que soit sa désignation ou description, en vertu de laquelle une institution financière (l'« émetteur »), agissant à la demande et selon les instructions d'un client (le « requérant »), ou à son nom, <ol type="i">
+<li value="1">doit verser un paiement au Canada ou l'établir à son ordre, à titre de bénéficiaire;</li>
+<li value="2">doit accepter et payer les lettres de change tirées par le Canada;</li>
+<li value="3">autorise une autre institution financière à effectuer un tel paiement ou à accepter et payer lesdites lettres de change; ou</li>
+<li value="4">autorise une autre institution financière à négocier, à la suite d'une demande écrite de paiement, à condition que les termes et conditions de la lettre de crédit soient respectées.</li>
+</ol>
+</li>
+<li value="2">indiquer le montant nominal que l'on peut tirer;</li>
+<li value="3">porter une date d'expiration;</li>
+<li value="4">prévoir le paiement à vue à l'ordre du Receveur général du Canada à partir de la lettre de change de l'institution financière sur présentation d'une demande écrite de paiement signée par le Canada;</li>
+<li value="5">prévoir que plus d'une demande écrite de paiement puisse être présentée à condition que la somme de ces demandes ne dépasse pas la valeur nominale de la lettre de crédit;</li>
+<li value="6">prévoir son assujettissement aux Règles et usances uniformes (RUU) relatives aux crédits documentaires de la Chambre de commerce internationale (CCI), révision de 2007, publication no 600 de la CCI, En vertu des Règles et usances uniformes relatives aux crédits documentaires de la CCI, un crédit est irrévocable même s'il n'y a pas d'indication à cet effet; et</li>
+<li value="7">être émise ou confirmée par une institution financière agréée sur son papier à en-tête, dans l'une ou l'autre des langues officielles avec une mise en page à la discrétion de l'émetteur ou du confirmateur.</li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause to order the contractor to suspend part of the work 
+under the contract when the client has requested, in writing, a partial 
+suspension of the work in order to investigate Canada's alternatives and/or a 
+review of the contract status is required before deciding whether termination is 
+appropriate and, if so, the type and extent of termination.</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>This Stop Work Order is issued pursuant to section ____, Suspension of the 
+Work, of general conditions ______.
+
+The Contractor must stop immediately the following part of the Work, 
+including the Work of subcontractors, until further notice by the 
+Contracting Authority:
+
+(<span class="wsInlineRemark"><strong>Describe the part of the work being suspended</strong></span>).
+
+
+The Contractor must place no further orders and incur no further expense 
+related to that part of the Work. The Contractor must also provide the 
+Contracting Authority with current detailed contract status information.
+
+
+</pre>
+</div>

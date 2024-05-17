@@ -1,0 +1,122 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats lorsque l'assurance couvrant 
+l'atteinte à l'environnement est requise. L'assurance couvrant l'atteinte à 
+l'environnement protège l'entrepreneur contre les réclamations découlant de 
+dommages causés à l'environnement par la pollution graduelle, subite et 
+accidentelle ainsi que les blessures corporelles et les dommages matériels 
+causés à des tiers.
+ </p>
+<p>
+  L'entrepreneur peut souscrire à quatre grands types de polices couvrant les 
+atteintes à l'environnement, selon ses activités. Les agents de négociation des 
+contrats doivent insérer l'un des quatre types d'assurance aux paragraphes 1 et 
+3 ci-dessous :
+ </p>
+<ul class="no-markers">
+<li>
+   Type 1 : « Responsabilité légale en matière de pollution - Chantier »
+  </li>
+<li>
+   Type 2 : « Responsabilité des entrepreneurs en matière de pollution »
+  </li>
+<li>
+   Type 3 : « Responsabilité civile relative aux réservoirs de stockage »
+  </li>
+<li>
+   Type 4 : « Responsabilité professionnelle de l'entrepreneur »
+  </li>
+</ul>
+<p>
+  Lorsqu'il est difficile de distinguer les responsabilités respectives du Canada 
+et de l'entrepreneur en vertu du contrat, les agents de négociation des contrats 
+doivent remplacer le paragraphe 3.a) par l'option suivante :
+ </p>
+<p>
+  « Assuré additionnel désigné : Le Canada est désigné comme assuré additionnel 
+désigné, mais seulement en ce qui concerne les responsabilités qui peuvent 
+découler de l'exécution du contrat. »
+ </p>
+<p>
+  Les agents de négociation des contrats doivent choisir les options f) et(ou) g) 
+du paragraphe 3 qui s'appliquent à leur contrat.
+ </p>
+<p>
+  Selon les services fournis par l'entrepreneur (p. ex. activités non 
+dangereuses), l'utilisation de la clause
+  
+   G2001C
+  
+  est acceptable en ajoutant 
+simplement l'avenant r) Pollution subite et accidentelle. Il importe toutefois 
+de noter que le Canada devrait alors constater la réclamation et la signaler 
+dans les 120 heures pour que celle-ci soit couverte.
+ </p>
+<p>
+  Si la limite suggérée de 1 000 000 $ par accident ou incident est jugée 
+insuffisante, les agents de négociation des contrats doivent consulter les 
+Services consultatifs de gestion des risques de
+  <abbr title="Travaux publics et Services gouvernementaux Canada">
+   TPSGC
+  </abbr>
+  , à :
+  
+   NCR.RMIAS-SCGRA@tpsgc.gc.ca
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<ol type="1">
+<li value="1">L'entrepreneur doit souscrire et maintenir, pendant toute la durée du contrat, une assurance <span class="input-required"><var>_____</var> <kbd>(<em>les agents de
+négociation de contrats doivent insérer l'un des quatre
+types d'assurance couvrant les atteintes à l'environnement
+indiqués ci-dessus dans la section des remarques</em>)</kbd></span> d'un montant équivalant à celui habituellement fixé pour un contrat de cette nature; toutefois, la limite de responsabilité ne doit pas être inférieure à 1 000 000 $ par accident ou par incident et suivant le total annuel.
+        </li>
+<li value="2">S'il s'agit d'une police sur la base des réclamations, la couverture doit être valide pour une période minimale de douze (12) mois suivant la fin ou la résiliation du contrat.</li>
+<li value="3">La police d'assurance <span class="input-required"><var>__________</var> <kbd>(<em>les agents de
+négociation des contrats doivent insérer l'un des quatre
+types d'assurance couvrant les atteintes à l'environnement
+indiqués ci-dessus dans la section des remarques</em>)</kbd></span> doit comprendre les éléments suivants :
+            <ol type="a">
+<li value="1">Assuré additionnel : Le Canada est désigné comme assuré additionnel, mais seulement en ce qui concerne les responsabilités qui peuvent découler de l'exécution du contrat par l'entrepreneur. L'intérêt du Canada en tant qu'assuré additionnel devrait se lire comme suit : Le Canada, représenté par Travaux publics et Services gouvernementaux Canada.</li>
+<li value="2">Avis d'annulation : L’entrepreneur fournira à l'autorité contractante un avis écrit de trente (30) jours avant l’annulation de la police ou tout autre changement à la police d’assurance.</li>
+<li value="3">Séparation des assurés : La police doit s'appliquer à chaque assuré de la même manière et dans la même mesure que si une police distincte avait été émise à chacun d'eux.</li>
+<li value="4">Responsabilité contractuelle générale : La police doit, sur une base générale ou par renvoi explicite au contrat, couvrir les obligations assumées en ce qui concerne les dispositions contractuelles.</li>
+<li value="5">Transport incident : La police doit couvrir les pertes découlant de tout déchet, produit ou matériel transporté, expédié ou livré par le biais d'un moyen de transport vers un emplacement situé au-delà des limites du site où l'entrepreneur ou toute entité pour laquelle il est juridiquement responsable exécute ou a exécuté les activités décrites dans le contrat.
+                </li>
+</ol>
+<span class="description">(<strong><em>Les agents de négociation des contrats doivent
+choisir les options applicables parmi les suivantes et
+renuméroter en conséquence</em></strong>.)</span>
+<ol type="a">
+<li value="6">Assurance de responsabilité civile relative aux réservoirs de stockage : La police doit couvrir les blessures corporelles et les dommages matériels causés hors site à des tiers par des rejets provenant de réservoirs de stockage (en surface et sous terre). La protection doit comprendre les mesures correctives et le nettoyage de ces rejets.</li>
+<li value="7">Droits de poursuite : Conformément é l'alinéa 5 d) de la
+                    Loi sur le ministère de la Justice,
+                    <abbr title="Lois révisées du Canada">L.R.C.</abbr> 1993,
+                    <abbr title="chapitre">ch.</abbr> J-2, art. 1, si une poursuite est intentée par ou contre le Canada et que, indépendamment de la présente clause, l'assureur a le droit d'intervenir en poursuite ou en défense au nom du Canada à titre d'assuré additionnel désigné en vertu de la police d'assurance, l'assureur doit communiquer promptement avec le Procureur général du Canada, par lettre recommandée ou par service de messagerie, avec accusé de réception, pour s'entendre sur les stratégies juridiques.
+                    <br/><strong>Pour la province de Québec, envoyer à l'adresse
+suivante :</strong>
+<br/>
+<address>Directeur
+                        <br/>Direction du droit des affaires
+                        <br/>Bureau régional du Québec (Ottawa)
+                        <br/>Ministère de la Justice
+                        <br/>284, rue Wellington, pièce SAT-6042
+                        <br/>Ottawa (Ontario) K1A 0H8</address>
+<br/><strong>Pour les autres provinces et territoires, envoyer à
+l'adresse suivante :</strong>
+<br/>
+<address>Avocat général principal
+                        <br/>Section du contentieux des affaires civiles
+                        <br/>Ministère de la Justice
+                        <br/>234, rue Wellington, Tour de l'Est
+                        <br/>Ottawa (Ontario) K1A 0H8</address>
+<br/>Une copie de cette lettre doit être envoyée à l'autorité contractante à titre d'information. Le Canada se réserve le droit d'intervenir en codéfense dans toute poursuite intentée contre le Canada. Le Canada assumera tous les frais liés à cette codéfense. Si le Canada décide de participer à sa défense en cas de poursuite intentée contre lui et qu'il n'est pas d'accord avec un règlement proposé et accepté par l'assureur de l'entrepreneur et les plaignants qui aurait pour effet de donner lieu à un règlement ou au rejet de l'action intentée contre le Canada, ce dernier sera responsable envers l'assureur de l'entrepreneur pour toute différence entre le montant du règlement proposé et la somme adjugée ou payée en fin de compte (coûts et intérêts compris) au nom du Canada.
+                </li>
+</ol>
+</li>
+</ol>
+</div></pre>
+</div>

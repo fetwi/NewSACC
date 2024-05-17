@@ -1,0 +1,329 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><strong>1278   01     (06/91)       Interprétation</strong>
+
+
+(1) Sauf incompatibilité avec le contexte,  
+
+       a) « convention » désigne le contrat relatif à un système de 
+       traitement de l'information dont les présentes conditions générales 
+       font partie et dont les conditions générales supplémentaires, devis, 
+       conditions de travail, annexes et tout autre document peuvent faire 
+       partie;
+
+       b) « système de traitement de l'information » désigne l'ensemble des 
+       machines périphériques qui fonctionnent en tant que groupe intégré;   
+       c) « matériel » est un terme générique qui désigne soit chacune des 
+       machines, soit un système complet de traitement de l'information;   
+       d) « ouvrage fini » désigne les approvisionnements, les entreprises 
+       ou tout ouvrage parachevés en conformité des termes du contrat;   
+       e) « machine » désigne un composant physique d'un système de 
+       traitement de l'information, par exemple un dérouleur de bande 
+       magnétique, un lecteur de cartes ou une unité centrale;   
+       f) « entretien préventif » désigne l'entretien de routine effectué 
+       par l'Entrepreneur à intervalles réguliers pour maintenir le 
+       matériel en bon état de fonctionnement;   
+       g) « période principale d'entretien » désigne une période 
+       ininterrompue du lundi au vendredi, à l'exception des jours fériés;   
+       h) « entretien correctif » désigne l'entretien effectué par 
+       l'Entrepreneur à intervalles imprévus pour rectifier une 
+       défectuosité du matériel;   
+       i) « devis » désigne les plans, dessins, formes et modèles;   
+       j) « performance des systèmes » désigne la mesure de la performance 
+       d'un système et s'exprime en pourcentage;   
+       k) « ouvrage » désigne l'ensemble des travaux à effectuer ou des 
+       services à fournir aux fins de l'exécution du contrat;   
+       l) « matériel fourni par l'État » désigne tous les biens, éléments, 
+       pièces, matériel, devis, objets et choses fournis à l'Entrepreneur 
+       par le Ministre, ou en son nom, pour les fins de l'ouvrage;
+
+       m) « prix contractuel » désigne le ou les montants spécifiés dans le 
+       contrat comme étant la somme payable à l'Entrepreneur pour l'ouvrage 
+       fini;   
+       n) « Ministre » désigne le ministre responsable de l'exécution du 
+       contrat, et comprend le sous-ministre ainsi que tout sous-ministre 
+       suppléant, associé ou adjoint et tout fonctionnaire ou représentant 
+       dûment autorisé. Le Ministre est l'agent de l'État à toutes les fins 
+       du contrat.   
+<strong>1278   02     (06/91)       Cessions de contrats et sous-traités</strong>
+
+
+L'Entrepreneur ne peut céder le contrat ni sous-traiter quelque partie de 
+l'ouvrage sans le consentement préalable, par écrit, du Ministre et toute 
+cession ou sous-traité conclus sans ce consentement sont nuls et sans effet.  
+
+<strong>1278   03     (06/91)       Exécution de l'ouvrage</strong>
+
+
+(1) L'Entrepreneur s'engage à exécuter l'ouvrage avec diligence et à le 
+faire surveiller et inspecter efficacement pour qu'il soit de bonne qualité, 
+fait avec des matériaux appropriés et selon les règles de l'art, ainsi 
+qu'en tous points conforme aux devis, dessins, s'il en est, et à toutes 
+autres exigences du contrat.  
+
+(2) Sauf sur l'ordre du Ministre, l'Entrepreneur ne doit ni interrompre ni 
+suspendre l'exécution du travail en attendant le règlement ou la fin de 
+tout différend découlant du contrat.  
+
+<strong>1278   04     (06/91)       Garantie et entretien</strong>
+
+
+(1) L'Entrepreneur garantit que tout matériel fourni en vertu d'un contrat 
+de location, une fois installé, est en bon état de fonctionnement et qu'il 
+effectuera tout réglage, réparation ou remplacement nécessaires au maintien 
+du matériel en bon état. Sauf stipulation contraire dans le présent contrat, 
+des frais supplémentaires ne peuvent être exigés pour :  
+
+       a) l'entretien préventif, peu importe quand cet entretien est 
+       effectué;   
+       b) les pièces de rechange, à moins qu'un manquement ou une 
+       négligence de la part de l'État n'ait rendu nécessaire le recours 
+       auxdites pièces;   
+       c) l'entretien correctif amorcé au cours de la période principale 
+       d'entretien, à moins qu'un manquement ou une négligence de la part 
+       de l'État n'ait rendu nécessaire ledit entretien;   
+       d) l'entretien correctif lorsque l'entretien préventif de routine 
+       prévu pour une date antérieure au mauvais fonctionnement n'a pas été 
+       effectué, à moins qu'un manquement ou une négligence de la part de 
+       l'État n'ait rendu nécessaire ledit entretien.   
+
+<strong>1278   05     (06/91)       Installation</strong>
+
+
+Le matériel loué en vertu du présent contrat doit être installé de façon à 
+être prêt à servir à la date d'installation ou de livraison spécifiée au 
+contrat. Toute pénalité imposable pour retard de livraison doit être 
+spécifiée dans chaque contrat de location. L'obligation pour le Ministre de 
+préparer le lieu d'installation en conformité des spécifications écrites de 
+l'Entrepreneur doit figurer en tant que partie intégrante du contrat de 
+location.   
+
+<strong>1278   06     (06/91)       Outils de programmation (logiciel)</strong>
+
+
+(1) Lorsque le Ministre le demande, les outils de programmation standard, y 
+compris les programmes, sous-programmes, programmes d'assemblage, 
+compilateur de traductions et articles connexes énoncés comme étant 
+disponibles sans frais supplémentaires, doivent lui être fournis.  
+
+(2) Les outils de programmation spéciaux auxquels il faut recourir pour une 
+application particulière de l'État doivent être détaillés dans le contrat.   
+
+<strong>1278   07     (06/91)       Durée de contrat</strong>
+
+
+Sauf stipulation contraire, le contrat de location doit être conclu pour 
+une période d'un an et peut être résilié en tout temps par la suite, sans 
+compensation, par l'une ou l'autre des parties au moyen d'un avis écrit 
+signifié à l'autre partie,  
+
+       a) quatre-vingt-dix (90) jours avant l'expiration du contrat dans le 
+       cas d'un système;
+
+       b) trente (30) jours avant l'expiration du contrat dans le cas d'une 
+       machine; ou
+
+       c) en tout temps, du consentement de l'autre partie.  
+
+<strong>1278   08     (06/91)       Résiliation</strong>
+
+
+Nonobstant toute autre disposition du contrat, le Ministre peut, au moyen 
+d'un avis signifié à l'Entrepreneur, mettre fin au contrat. Dans le cas 
+d'une telle résiliation, l'Entrepreneur a droit à une indemnité dont le 
+montant est fixé d'un commun accord, mais l'indemnité ne doit jamais 
+excéder le solde qui aurait été dû si le contrat n'avait pas été résilié.  
+
+<strong>1278   09     (06/91)       Expédition</strong>
+
+
+L'Entrepreneur doit pourvoir au transport initial et de retour, à 
+l'arrimage et au factage du matériel et en régler tous les frais; il 
+facturera lesdits frais au Ministre au titre de charge contractuelle 
+distincte. Les frais de transport encourus pour le remplacement de matériel 
+en mauvais état doivent être supportés par l'Entrepreneur à moins que la 
+négligence du Ministre n'ait rendu nécessaire ledit remplacement.   
+<strong>1278   10     (06/91)       Titre de propriété</strong>
+
+
+Le titre de propriété du matériel visé par un contrat de location demeurera 
+à l'Entrepreneur qui enlèvera ledit matériel dans un délai raisonnable 
+après l'expiration du contrat ou la réception d'un avis de résiliation 
+signifié en bonne et due forme.  
+
+<strong>1278   11     (06/91)       Assurance</strong>
+
+
+La responsabilité du Ministre est dégagée à l'égard de tout risque de perte 
+ou d'avarie, relativement au matériel, au cours du transport, de 
+l'installation et durant toute la période où l'État est en possession dudit 
+matériel, sauf si la perte ou l'avarie sont dues à un manquement ou à une 
+négligence de l'État, ou à une réaction nucléaire, une radiation nucléaire 
+ou une contamination radioactive pour lesquels l'État peut être légalement 
+tenu responsable.  
+
+<strong>1278   12     (06/91)       Performance du système</strong>
+
+
+(1) Les systèmes de traitement de l'information installés en vertu d'un 
+contrat de location doivent être soumis à l'inspection de l'État et à son 
+acceptation. L'acceptation par l'État d'un système de traitement de 
+l'information dépendra du maintien, par le système, d'un niveau de 
+performance d'au moins 90 % pour une période de trente (30) jours 
+consécutifs suivant l'installation. Si le niveau de 90 % n'est pas atteint 
+au cours des trente (30) jours suivant l'installation, la période 
+d'acceptation sera prorogée jusqu'à ce qu'un niveau de 90 % soit maintenu 
+pendant trente (30) jours consécutifs. Les frais de location sont exigibles 
+à compter du premier jour d'une telle période de trente jours.  
+
+(2) Le niveau moyen d'efficacité du système (performance du système) 
+s'exprime en nombre centésimal calculé en divisant le nombre total d'heures 
+au compteur de l'unité centrale par le nombre desdites heures au compteur 
+plus le temps d'arrêt en raison de défaillance. Le temps d'arrêt en raison 
+de défaillance doit se mesurer en fonction des intervalles au cours 
+desquels, pendant la période de performance, il ne s'effectue aucun passage 
+en machine à l'unité centrale en raison d'une défaillance du matériel; il 
+commence à l'heure où l'Entrepreneur est avisé de la défaillance du 
+matériel et se termine à l'heure où le matériel est renvoyé à l'État en bon 
+état de fonctionnement, à l'exclusion du temps effectivement consacré au 
+déplacement du personnel d'entretien de l'Entrepreneur mais ne dépassant 
+pas une heure chaque jour où un tel service a été demandé.  
+
+                                   OU  
+ 
+Le niveau moyen d'efficacité du système (performance du système) s'exprime 
+en nombre centésimal calculé en divisant le total du temps utile 
+d'exploitation par le total du temps utile d'exploitation plus le temps 
+d'arrêt du système. Le système est considéré comme étant immobilisé 
+lorsqu'une ou plusieurs machines du système ne peuvent fonctionner en 
+raison d'une défaillance du matériel. Lorsque l'impossibilité de 
+fonctionnement se produit pour deux machines en même temps, le temps 
+d'arrêt au cours de la période de chevauchement sera calculé comme si une 
+seule machine ne pouvait fonctionner. Le temps utile d'exploitation aux 
+fins de la norme de performance est le temps au cours duquel l'unité 
+centrale fonctionne effectivement, y compris les intervalles entre la mise 
+en marche et la mise au repos de l'unité centrale.  
+
+(3) L'État assume la gestion et le contrôle exclusifs de l'utilisation des 
+machines. Il est responsable de l'utilisation, de la gestion et de la 
+supervision rationnelles des machines et des programmes, des contrôles de 
+vérification, des méthodes d'exploitation et des pratiques de bureau et de 
+l'établissement de tous les contrôles opportuns nécessaires à l'usage que 
+l'État entend faire des machines. L'Entrepreneur n'est nullement 
+responsable des dommages qui découlent de l'inexécution par l'État d'une 
+obligation de l'État.  
+
+<strong>1278   13     (06/91)       Frais</strong>
+
+
+(1) Les frais de location et d'entretien sont normalement établis en 
+fonction du mois civil et doivent être fermes pour une période d'une (1) 
+année ou pour la durée du contrat, la plus courte de ces périodes faisant 
+foi. Les frais de location et d'entretien ne sont pas dus avant le mois qui 
+suit celui pour lequel ils sont exigibles. Les frais de location et 
+d'entretien stipulés dans le contrat sont exigibles à partir de la date 
+d'installation, laquelle est établie comme étant le premier jour ouvrable 
+qui suit celui où le matériel est installé, prêt à servir, et accepté par 
+l'État.  
+
+(2) Tous le temps de location et d'entretien rétribuable doit être vérifié 
+par l'utilisateur et peut être soumis à la vérification de l'État.  
+
+<strong>1278   14     (06/91)       Taxes</strong>
+
+
+Sauf stipulation contraire, les frais mensuels de location comprennent la 
+taxe de vente fédérale et les droits de douanes exigibles.   
+ 
+<strong>1278   15     (06/91)       Droit de préemption</strong>
+
+
+Le Ministre détient un droit de préemption sur tout article ou sur 
+l'ensemble du matériel visé par un contrat de location. Les conditions 
+d'achat doivent être stipulées dans le contrat.   
+
+<strong>1278   16     (06/91)       Formation et assistance technique</strong>
+
+
+Les services de formation et d'assistance technique devant être assurés par 
+l'Entrepreneur doivent être spécifiés dans le contrat de location.   
+
+<strong>1278   17     (06/91)       Brevets</strong>
+
+
+Tout matériel fourni par l'Entrepreneur en vertu du contrat doit être libre 
+et exempt de contrefaçon de brevet ou de marque de commerce, et 
+l'Entrepreneur doit justifier toute action et poursuite en justice 
+incriminant pareille contrefaçon et mettre le Ministre à couvert de perte, 
+dommage ou dépenses, de quelque nature que ce soit, y compris les 
+honoraires d'avocat lorsqu'une poursuite ou une action en justice sont 
+entamées ou une plainte déposée alléguant une telle contrefaçon. L'État 
+doit promptement informer l'Entrepreneur de toute accusation de contrefaçon. 
+Lorsqu'un dispositif fourni par l'Entrepreneur fait ou fera 
+vraisemblablement l'objet d'un chef d'accusation de contrefaçon de brevet, 
+l'Entrepreneur doit, à ses propres frais, procurer à l'État le droit de 
+continuer à utiliser ledit dispositif ou le modifier promptement afin de le 
+rendre libre de contrefaçon, ou enlever le matériel, sans qu'il en coûte 
+quoi que ce soit à l'État sauf les frais exigibles au moment où il est 
+interdit à l'État d'utiliser ledit matériel.  
+
+<strong>1278   18     (06/91)       Inexécution</strong>
+
+
+(1) Si l'Entrepreneur n'exécute pas l'un quelconque des termes, conditions, 
+engagements ou obligations du contrat, le Ministre peut, en signifiant un 
+avis par écrit, résilier ledit contrat.  
+
+(2) Si l'Entrepreneur fait faillite ou devient insolvable, donne lieu à une 
+ordonnance de séquestre, fait cession de ses biens à ses créanciers, ou 
+s'il est l'objet d'une ordonnance ou d'une résolution de liquidation, ou se 
+réclame de quelque loi alors en vigueur visant les débiteurs faillis ou 
+insolvables, le Ministre peut, en lui en donnant avis par écrit, résilier 
+le contrat.  
+
+(3) L'Entrepreneur n'est responsable d'aucun dommage ni perte si 
+l'inexécution faisant l'objet de l'avis de résiliation résulte de causes 
+indépendantes de sa volonté, sans qu'il y ait eu manquement ou négligence 
+de sa part. Sans les restreindre à l'énumération qui suit, ces causes 
+comprennent les grèves, inondations, incendies, épidémies, cas de force 
+majeure.  
+
+<strong>1278   19     (06/91)       Aucun acte de corruption</strong>
+
+
+L'Entrepreneur garantit qu'aucun pot-de-vin, don ou autre avantage n'a été 
+payé, donné, promis ou offert à quelque fonctionnaire ou employé de Sa 
+Majesté en raison ou en vue de l'obtention du contrat.   
+
+<strong>1278   20     (06/91)       Membres de la Chambre des communes</strong>
+
+
+Aucun membre de la Chambre des communes n'est admis à participer au contrat 
+ni aux avantages en découlant.   
+
+<strong>1278   21     (06/91)       Changes étrangers</strong>
+
+
+A moins de stipulations du contrat à l'effet contraire, ou du consentement 
+du Ministre, l'Entrepreneur n'a droit à aucun relèvement du prix 
+contractuel en raison de fluctuations des changes étrangers.   
+
+<strong>1278   22     (06/91)       Modification au matériel</strong>
+
+
+Le Ministre ne doit apporter aucune modification au matériel loué, sauf du 
+consentement écrit de l'Entrepreneur.   
+
+<strong>1278   23     (06/91)       Enlèvement du matériel</strong>
+
+
+Le matériel ne doit pas être déplacé d'un lieu géographique à un autre ou 
+d'un ministère de l'État à un autre, sauf du consentement écrit de 
+l'Entrepreneur.   
+
+
+
+</pre>
+</div>

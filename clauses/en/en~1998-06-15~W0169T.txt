@@ -1,0 +1,32 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Refer to the chart "Summary of Benefits from Treasury Board of Canada 
+Secretariat Contracting Policy Notice 1997-8" to determine when to use this 
+clause. It is to appear in full text at the end of the bid solicitation, before 
+any annexes or appendices.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The benefits that apply to this procurement are contained in:
+Section 10, Co-operation Agreement between the Inuvialuit Regional
+Corporation (IRC) and the Department of National Defence (DND)
+concerning the restoration and clean-up of <abbr title="Distant Early Warning">DEW</abbr> sites within the
+Inuvialuit Settlement Region, clause:</p>
+<ul class="hierarchy">
+<li><span class="number">6.4</span>
+<ol type="a">
+<li value="1">Subject to 6.4b, <abbr title="Department of National Defence">DND</abbr> will
+dispose of Tier II soils from <abbr title="Distant Early Warning">DEW</abbr> Line sites at a disposal site
+outside the Inuvialuit Settlement Region (ISR). <abbr title="Northern Transportation Company Limited">NTCL</abbr> will provide
+the marine transportation and barging of the soils from Nicholson
+Peninsula, Cape Parry and Shingle Point to Hay River in accordance
+with the prices set out in Schedule 4. Transportation rates for
+soils from the remaining <abbr title="Distant Early Warning">DEW</abbr> Line sites in the <abbr title="Inuvialuit Settlement Region">ISR</abbr> will be
+established six months prior to soil transportation from these
+sites and will reflect a similar discount over published tariffs as
+is the case for Nicholson Peninsula and Cape Parry.</li>
+</ol></li>
+</ul>
+</div></pre>
+</div>

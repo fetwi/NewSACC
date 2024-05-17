@@ -1,0 +1,23 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The contracting officer must indicate the name of the Canadian province or 
+territory the law of which Canada proposes to apply to the resulting contract.  
+The bidder is instructed to propose any change to applicable provincial or 
+territorial law in its bid response.
+
+Do not use for Low Dollar Value and Medium Complexity requirements if the Plain 
+Language templates 2T-LDV1 and 2T-MED1 are used with standard instructions 2003.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     Any resulting contract must be interpreted and governed, and the 
+       relations between the parties determined, by the laws in force in ______ 
+       (<strong>insert the name of the province or territory</strong>).
+
+2.     The Bidder may, at its discretion, substitute the applicable laws of 
+   a Canadian province or territory of its choice without affecting the 
+   validity of its bid, by deleting the name of the Canadian province or 
+   territory specified and inserting the name of the Canadian province or 
+   territory of its choice.  If no change is made, it acknowledges that the 
+   applicable laws specified are acceptable to the Bidder.
+</pre>
+</div>

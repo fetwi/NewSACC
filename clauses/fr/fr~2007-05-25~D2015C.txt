@@ -1,0 +1,42 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats pour lesquels le ministère de la 
+Défense nationale doit ajouter des marques d'identification sur l'emballage et 
+que celles-ci s'appliquent à tous les articles. 
+
+Voir la clause D2016C quand les marques d'identification détaillées diffèrent 
+pour certains articles.
+
+L'agent de négociation des contrats doit insérer toutes les informations 
+pertinentes dans le deuxième espace en blanc de l'article 1 : 
+
+a)	le numéro de spécification;
+b)	le nom du fabricant;
+c)	le numéro du dessin;
+d)	le numéro de série ou de lot;
+e)	le numéro d'homologation;
+f)	la date de vulcanisation des pièces en caoutchouc;
+g)	les données exigées dans le contrat ou dans la spécification de biens ou de 
+services;
+h)	la date de fabrication;
+i)	la date de la réparation ou de la remise en état;
+j)	le nom de l'entrepreneur chargé de la réparation ou de la remise en état;
+k)	la situation de la modification; et
+l)	le numéro de série.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>1.     L'entrepreneur doit veiller à ce que les informations suivantes 
+       soient fournies en plus des marques d'identification requises sur 
+       l'emballage intérieur et extérieur des articles ______ (l'agent de 
+       négociation des contrats doit insérer « pour les articles _____ » 
+       lorsque les informations ne s'appliquent pas à tous les articles).
+
+       a)     ________.
+       b)     ________.
+
+2.     Ces marques d'identification doivent être placées et appliquées 
+       conformément à la spécification de marquage D-LM-008-002/SF-001 des 
+       Forces canadiennes.
+
+</pre>
+</div>

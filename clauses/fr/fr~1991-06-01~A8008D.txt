@@ -1,0 +1,44 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Veuillez indiquer la façon dont vous entendez facturer les fournitures:
+                                        _____________________________
+                                        |VIREUR |REVELATEUR |PAPIER |
+                                        |_______|___________|_______|
+                                        |Oui|Non| Oui | Non |Oui|Non|
+                                        |   |   |     |     |   |   |
+ 1.  A indiquer sur la facture de       |   |   |     |     |   |   |
+ location du matériel, dans les coûts   |   |   |     |     |   |   |
+ par copie, à la page 1 de l'annexe B.  |   |   |     |     |   |   |
+                                   _____|___|___|_____|_____|___|___|
+                                        |   |   |     |     |   |   |
+ 2.  Au moment de la vente, selon       |   |   |     |     |   |   |
+ la quantité fournie.                   |   |   |     |     |   |   |
+                                        |___|___|_____|_____|___|___|
+ Le cas échéant, fournir les            |       |           |       |
+ renseignements suivants :              |       |           |       |
+                                        |       |           |       |
+ - unité (carton, etc.) :               |       |           |       |
+                                        |_______|___________|_______|
+ - quantité par unité (livres,          |       |           |       |
+ bouteilles, paquets) :                 |       |           |       |
+                                        |_______|___________|_______|
+ - nombre de copies pouvant être        |copies |  copies   |  S/O  |
+ produites par unités :                 |       |           |       |
+                                        |_______|___________|_______|
+ - prix d'achat par unité :             |$______|$__________|$______|
+                                   _____|_______|___________|_______|
+                                        |       |           |       |
+ 3.  Autre - veuillez préciser :        |       |           |       |
+                                   _____|_______|___________|_______|
+
+
+       NOTA : Le coût par copie des fournitures déterminé au moyen de votre 
+       méthode de facturation doit être compris dans le coût par copie 
+       figurant à l'annexe "B".
+
+A MOINS D'INDICATIONS CONTRAIRES, TOUS LES PRIX SOUMIS DOIVENT ETRE 
+   CONSIDERES COMME FERMES POUR LA DUREE DU CONTRAT. 
+</pre>
+</div>

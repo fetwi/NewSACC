@@ -1,0 +1,99 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ Use the following clause in contracts for clothing requirements when 
+pre-production sample(s) are required.
+
+Use Option 1 for all government departments, except the Royal Canadian Mounted 
+Police (RCMP).
+Use Option 2 for
+ <abbr title="Royal Canadian Mounted Police">
+  RCMP
+ </abbr>
+ requirements only.
+
+Contracting officers must ensure paragraphs 3 to 8 are included for the option 
+selected.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<h2>Option 1</h2>
+<ol type="1">
+<li value="1">Pre-production Samples: The Contractor must provide
+<span class="input-required"><var>_______</var> <kbd>(<i>insert the number of
+pre-production samples required</i>)</kbd></span>
+pre-production samples, accompanied by the sealed sample(s) if
+applicable, to the Technical Authority for acceptance within
+<span class="input-required"><var>_____</var> <kbd>(<i>insert the
+number of days as specified by the Bidder in its bid</i>)</kbd></span>
+calendar days from <span class="input-required"><var>______</var>
+<kbd>(<i>insert "date of contract award" or insert one or both of the
+following: "receipt of Government Supplied Material" and/or
+"receipt of tooling"</i>)</kbd></span>.</li>
+<li value="2">If the first sample(s) are rejected, the Contractor
+must submit the second sample(s) within <span class="input-required"><var>_____</var>
+<kbd>(<i>insert the number of days as specified by the Bidder
+in its bid</i>)</kbd></span> calendar days of notification of
+rejection from the Technical Authority.</li>
+</ol>
+<h2>Option 2</h2>
+<ol type="1">
+<li value="1">
+<ol type="a">
+<li value="1">Government Available Material: The Contractor
+must purchase, within seven (7) calendar days following the date of
+contract award, sufficient materials from the Royal Canadian
+Mounted Police to make up pre-production sample(s) and submit for
+approval before commencing production.</li>
+<li value="2">Pre-production Samples: The Contractor must provide
+<span class="input-required"><var>_______</var> <kbd>(<i>insert the
+number of pre-production samples required</i>)</kbd></span>
+pre-production samples, accompanied by the sealed sample(s) if
+applicable, to the Technical Authority for acceptance within
+<span class="input-required"><var>_____</var> <kbd>(<i>insert the
+number of days as specified by the Bidder in its bid</i>)</kbd></span>
+calendar days from <span class="input-required"><var>_______</var>
+<kbd>(<i>insert "date of contract award" or insert one or both of the
+following: "receipt of purchased Government Available Material"
+and/or "receipt of tooling"</i>)</kbd></span>.</li>
+</ol>
+</li>
+<li value="2">If the first sample(s) are rejected, the Contractor
+must submit the second sample(s) within <span class="input-required"><var>_____</var> <kbd>(<i>insert the number of days as
+specified by the Bidder in its bid</i>)</kbd></span> calendar days of
+notification of rejection from the Technical Authority.</li>
+</ol>
+<p class="description"><strong>Instruction to contracting
+officers:</strong> Ensure paragraphs 3 to 8 are included for the
+option selected.</p>
+<ol type="1">
+<li value="3">The Contractor must carry out all required inspection
+and tests to verify conformance to the technical requirements of
+the Contract.</li>
+<li value="4">The Contractor must provide the sample(s), and a copy
+of the inspection and test report(s), to the Technical Authority,
+transportation charges prepaid, and without charge to Canada. The
+sample(s) submitted by the Contractor will remain the property of
+Canada.</li>
+<li value="5">The Technical Authority will notify the Contractor,
+in writing, of the conditional acceptance, acceptance or rejection
+of the sample(s). A copy of this notification will be provided by
+the Technical Authority to the Contracting Authority. The notice of
+conditional acceptance or acceptance does not relieve the
+Contractor from complying with all requirements of the
+specification(s) and all other conditions of the Contract.</li>
+<li value="6">The Contractor must not commence or continue with
+production of the items and must not make any deliveries until the
+Contractor has received notification from the Technical Authority
+that the sample(s) are acceptable. Any production of items before
+sample acceptance will be at the sole risk of the Contractor.</li>
+<li value="7">Rejection by the Technical Authority of the second
+sample(s) submitted by the Contractor for failing to meet the
+contract requirements, will be grounds for termination of the
+Contract for default.</li>
+<li value="8">The sample(s) may not be required if the Contractor
+is currently in production. The request for waiver of sample(s)
+must be made by the Contractor in writing to the Technical
+Authority. The waiving of this requirement will be at the
+discretion of the Technical Authority.</li>
+</ol>
+</div></pre>
+</div>

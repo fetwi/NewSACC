@@ -1,0 +1,22 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in contracts for the Department of National Defence (DND) with European Union-based contractors to define
+  <abbr title="Department of National Defence">
+   DND
+  </abbr>
+  's military packaging requirements for militarized items which are not covered by another Canadian Forces commodity packaging specification (see
+  
+   D3016C
+  
+  ) or commercial packaging (see
+  
+   D3018C
+  
+  ).
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Contractor must prepare item number(s) <var>_____</var> for preservation and packaging in accordance with <abbr title="North Atlantic Treaty Organization">NATO</abbr> Marking and Packaging Standards as contained in the latest issue of TL8100-0100 and must be packaged to a minimum packing level C.</p>
+</div></pre>
+</div>

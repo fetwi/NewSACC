@@ -1,0 +1,19 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Use the following clause in requests for supply arrangements when the education 
+and experience of proposed individuals will be evaluated.
+ </p>
+<p>
+  When the 2T-RFSA1 template is used, insert this clause, if applicable, in Part 5 
+- Certifications.
+ </p>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<p>The Supplier certifies that all the information provided in the
+<span lang="fr-CA">résumés</span> and supporting material submitted with the
+arrangement, particularly the information pertaining to education,
+achievements, experience and work history, has been verified by the
+Supplier to be true and accurate.</p>
+</div></pre>
+</div>

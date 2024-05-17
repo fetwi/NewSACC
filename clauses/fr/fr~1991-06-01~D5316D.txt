@@ -1,0 +1,17 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Tous les travaux seront assujettis à un examen d'assurance de la qualité 
+   effectué par le ministère de la Défense nationale.  Dans les 48 heures 
+   suivant la réception du contrat consécutif à la présente, vous prendrez 
+   des dispositions avec l'Inspecteur du ministère de la Défense nationale 
+   qui sert normalement votre entreprise.  Son nom, son emplacement et son 
+   numéro de téléphone pourront être obtenus auprès de l'Agence des 
+   services techniques des Forces canadiennes, _____ . Vous devrez fournir 
+   des preuves relatives à l'assurance de la qualité du MDN, sous forme de 
+   documents d'autorisation dûment remplis.  Le MDN exigera ces preuves 
+   avant les paiements des factures.  Un système d'inspection par le MDN en 
+   vertu de l'AQAP-4 devra être intégré.
+</pre>
+</div>

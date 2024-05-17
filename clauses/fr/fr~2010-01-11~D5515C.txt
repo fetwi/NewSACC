@@ -1,0 +1,90 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les contrats pour le ministère de la Défense 
+nationale (MDN) lorsque les travaux seront effectués par des entrepreneurs 
+établis à l'étranger ou aux États-Unis et que l'assurance de la qualité du
+  <abbr title="Ministère de la Défense nationale">
+   MDN
+  </abbr>
+  à 
+la source est requise.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   D5604C
+  
+  et
+  
+   D5605C
+  
+  dans la partie « clauses du contrat subséquent » de la demande de soumissions.  Au moment de 
+l'attribution du contrat, utiliser cette clause en conjonction avec les clauses 
+suivantes, s'il y a lieu :
+  
+   D5402C
+  
+  ,
+  
+   D5509C
+  
+  ,
+  
+   D5540C
+  
+  et
+  
+   D5620C
+  
+  .
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><div class="sacc-item">
+<p>Tous les travaux sont assujettis à l'assurance de la
+qualité du gouvernement qui sera effectuée aux
+installations de l'entrepreneur ou à celles du sous-traitant,
+ainsi que sur les lieux d'installation, par le Directeur de
+l'assurance de la qualité, ou son représentant de
+l'assurance de la qualité (RAQ) désigné.
+<br/>Directeur de l'assurance de la qualité
+<br/>Quartier général de la Défense nationale
+<br/>Édifice du Major général George R. Pearkes
+<br/>101, promenade du Colonel By
+<br/>Ottawa (ON) K1A 0K2
+<br/>Courriel : ContractAdmin.DQA@forces.gc.ca</p>
+<p>Si l'entrepreneur n'a aucune nouvelle du <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> qui effectue l'<abbr title="assurance de la qualité du gouvernement">AQG</abbr>
+des installations de l'entrepreneur ou dans la région dans les
+quarante-cinq (45) jours ouvrables suivant l'attribution du
+contrat, l'entrepreneur doit aviser l'autorité
+contractante.</p>
+<p>Là où aucun aménagement officiel pour l'<abbr title="assurance de la qualité du gouvernement">AQG</abbr> n'a
+été conclu, le ministère de la Défense
+nationale s'assurera que les services de l'<abbr title="assurance de la qualité du gouvernement">AQG</abbr> soient
+effectués par une autorité nationale de l'assurance de la
+qualité acceptable au Directeur de l'assurance de la
+qualité. Si les services de l'<abbr title="assurance de la qualité du gouvernement">AQG</abbr> sont fournis sur une base de
+recouvrement des coûts, les coûts des services sont
+attribués au contrat et acquittés à la suite d'une
+facture séparée à cet égard.</p>
+<p>L'entrepreneur doit effectuer ou faire effectuer tous les essais
+et les inspections nécessaires pour confirmer que le
+matériel ou les services fournis sont conformes aux exigences
+du contrat.</p>
+<p>L'entrepreneur doit fournir, sans frais additionnels, toutes les
+données d'essai pertinentes, toutes les données
+techniques, les pièces d'essai et les échantillons
+pouvant raisonnablement être demandés par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr> pour
+vérifier s'ils sont conformes aux exigences du contrat.
+L'entrepreneur doit expédier, à ses frais, ces
+données et pièces d'essai de même que ces
+échantillons à l'endroit indiqué par le <abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
+<p>Les registres de contrôle de la qualité, d'inspection
+et d'essai faisant état de la conformité aux exigences
+spécifiées, ainsi que les registres des mesures
+correctives, doivent être conservés par l'entrepreneur
+pendant trois (3) ans après la date d'exécution ou de
+résiliation du contrat, et présentés sur demande au
+<abbr title="représentant de l'assurance de la qualité">RAQ</abbr>.</p>
+</div></pre>
+</div>

@@ -1,0 +1,53 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>The purpose of form DSS-MAS 944, Call-Up Against Multiple Standing Offers (a 
+french version entitled "Commande subséquente à plusieurs offres à commandes, 
+PWGSC-TPSGC 945", is also available) is to allow an identified user to issue a 
+single call-up against various standing offers (not to exceed $40,000) to a 
+single supplier who is the authorized agent of different offerors, when those 
+offerors each hold a valid standing offer with Canada for identified goods.
+
+The following clause should be included in all Requests for a Standing Offer 
+where form DSS-MAS 944 is to be used as a call-up document in addition to the 
+current PWGSC-TPSGC 942, Call-Up Against a Standing Offer. Should an offeror not 
+agree that its agent may represent the holder of a standing offer other than 
+itself and that its prices may appear on a multiple call-up form, then the 
+clause should not be included in any subsequent Standing Offer and Call-up 
+Authority for that offer.
+
+Only one invoice will be issued per call-up. Call-ups issued using form DSS-MAS 
+944 are not, under any circumstances, to be issued in order to prevent 
+competition.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     The Offeror agrees and accepts that its agent(s) listed on this 
+       Standing Offer may represent the holder of a Standing Offer other 
+       than itself. The Offeror further agrees and accepts that its prices, 
+       along with those prices offered by those other offerors, will appear 
+       on the multiple call-up form, thereby making the prices specified 
+       public information.
+
+2.     The Offeror agrees to the disclosure of its prices and further 
+       agrees that it shall have no right to claim against Canada, the 
+       Minister, the Identified User, their employees, agents or servants, 
+       or any of them, in relation to such disclosure.  The Offeror shall 
+       also indemnify Canada, the Minister, the Identified User, their 
+       employees, agent or servants, and any of them, against any action, 
+       suit, demand, right or claim asserted by anyone as a result of such 
+       disclosure.
+
+3.     The Offeror is responsible for delivery in the event of default by 
+       the agent for those products only that are normally offered by the 
+       Offeror.
+
+4.     The Identified User agrees that if the agent defaults on one or more 
+       items, the call-up using DSS-MAS 944, Call-Up Against Multiple 
+       Standing Offers, cannot be terminated in whole, but only for those 
+       portions relating to goods or services specified in the particular 
+       Standing Offer to which the default relates and only after the 
+       Offeror has been provided with a reasonable opportunity to remedy 
+       the default. 
+
+
+</pre>
+</div>

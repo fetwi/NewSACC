@@ -1,0 +1,31 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>This clause is to be used for ongoing services to allow payment of costs 
+incurred for services performed prior to contract authorization when the 
+Contractor has continued to provide the services for the ongoing requirement 
+with the consent of the client department and with the expectation that a 
+contract will be awarded. 
+
+The second paragraph is to be deleted if the client does not wish to retain the 
+rights to the intellectual property.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>The services described in this Contract are an ongoing requirement. Canada 
+recognizes that the Contractor, with the consent of the Department of _____ 
+(client department), has continued, after the expiry date of the previous 
+Contract (DSS No. _____) and in expectation of this Contract to provide the 
+services as stated in the Contract. It is therefore agreed that the costs 
+incurred by the Contractor for _____  (description of work) services 
+provided since _____ (start date) up to the effective date of this Contract, 
+inasmuch as the incurrence of these costs was necessary to comply with the 
+terms of this Contract, will be treated as costs incurred by the Contractor 
+in performance of this Contract.  
+
+The parties hereby confirm that copyright in the aforementioned work shall 
+vest and remain in Canada and that ownership of any intellectual property, 
+including technical documentation, prototypes, inventions and technical 
+information, produced by the Contractor in the performance of the 
+Precontractual Work shall vest and remain in Canada.
+
+</pre>
+</div>

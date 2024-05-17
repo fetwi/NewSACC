@@ -1,0 +1,21 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in firm price contracts, and should always be used in 
+combination with clause C2215D.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>1.     In consideration of the Contractor satisfactorily completing all of 
+       its obligations under the Contract, the Contractor shall be paid a 
+       firm price of $_____ (Goods and Services Tax or Harmonized Sales Tax 
+       extra, as appropriate).
+
+2.     No increase in the total liability of Canada or in the price of the 
+       Work resulting from any design changes, modifications or 
+       interpretations of the Specifications, will be authorized or paid to 
+       the Contractor unless such design changes, modifications or 
+       interpretations have been approved, in writing, by the Contracting 
+       Authority prior to their incorporation in the Work.
+
+
+</pre>
+</div>

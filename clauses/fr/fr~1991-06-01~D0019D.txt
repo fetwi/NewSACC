@@ -1,0 +1,11 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+ Pas de remarques.
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Compte tenu des problèmes que l'on pourra éprouver si l'on conduit des 
+   camions dont la hauteur excède 12 pi x 6 po à l'étage inférieur de 
+   l'Imprimerie, à Hull (Québec), il est obligatoire que les livraisons se 
+   fassent dans des véhicules dont la hauteur n'excède pas 12 pi x 6 po 
+   lorsqu'ils sont vides. 
+</pre>
+</div>

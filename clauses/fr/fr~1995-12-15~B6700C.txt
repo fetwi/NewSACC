@@ -1,0 +1,25 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Utiliser la clause suivante dans les contrats applicables au Fonds renouvelable 
+de la production de défense, lorsqu'il est prévu que l'entrepreneur doit 
+disposer de matériel ou d'équipement fourni par l'État.
+</pre>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre>Les fournitures de l'État décrites dans le présent contrat seront fournies 
+à l'entrepreneur afin d'être incorporées aux biens qui doivent être 
+produits ou livrés.
+
+L'entrepreneur doit entreposer et mettre à part ces fournitures de l'État, 
+à titre de propriété du Canada, en attendant de les incorporer aux biens à 
+livrer.
+
+Les fournitures de l'État qui doivent provenir directement des stocks du 
+Canada seront mises à la disposition de l'entrepreneur, sous réserve de la 
+disponibilité de ces dernières dans les stocks du Canada.
+
+Toutes les autres pièces, etc., qui ne sont pas mentionnées ci-dessus de 
+façon explicite, doivent être fournies par l'entrepreneur.
+
+
+</pre>
+</div>

@@ -1,0 +1,38 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarques - Utilisation recommandée de l’item des CCUA</h3><section class="remarks group-sacc-remarks field-group-section">
+<p>
+  Utiliser la clause suivante dans les procédures d'évaluation de la demande de soumissions lorsque la compétition est conditionnellement limitée aux soumissions qui offrent des biens canadiens, des services canadiens ou les deux.
+ </p>
+<p>
+  Utiliser cette clause en conjonction avec
+  
+   A3061T
+  
+  ,
+  
+   A3062T
+  
+  ,
+  
+   A3063T
+  
+  ,
+  
+   A3065T
+  
+  ,
+  
+   A3066T
+  
+  ou
+  
+   A3069T
+  
+  , selon le cas.
+ </p>
+<p>
+  Les agents de négociation des contrats doivent insérer cette clause sous les procédures d'évaluation.
+ </p>
+</section>
+<h3 class="clause-heading">Le texte légal de l’item des CCUA</h3><pre><p>L'équipe d'évaluation déterminera si deux (2) soumissions ou plus sont accompagnées d'une attestation valide de contenu canadien et présentées par deux soumissionnaires ou plus qui ne sont pas affiliés au sens utilisé dans la Loi sur la concurrence, <abbr title="Lois révisées du Canada">L.R.C.</abbr> (1985), <abbr title="chapitre">ch.</abbr> C-34. Si c'est le cas, seulement les soumissions accompagnées d'une attestation valide seront admissibles à l’attribution d’un contrat; sinon, toutes les soumissions reçues le seront. Si, à un moment quelconque du processus d’évaluation, on constate, que ce soit en déterminant l’invalidité des attestations, en déterminant que les soumissions sont irrecevables ou que les soumissions ont été retirées par les soumissionnaires, qu’il n’y a plus deux (2) soumissions recevables ou plus avec une attestation valide, alors toutes les soumissions recevables seront admissibles à l’attribution d’un contrat. Le Canada pourrait effectuer la validation des attestations de contenu canadien à tout moment durant le processus d’évaluation, y compris en même temps que d’autres étapes.</p></pre>
+</div>

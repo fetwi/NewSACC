@@ -1,0 +1,15 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+<pre>Use the following clause in  fixed time rate contracts  for the verification of 
+time charged and accuracy of recording.
+</pre>
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre>Time charged and the accuracy of the Contractor's time recording system<span class="wsInlineRemark"> </span>are 
+subject to verification<em> </em>by Canada, before or after payment is made to the 
+Contractor.  If verification is done after payment, the Contractor must 
+repay any overpayment, at Canada's request.
+
+
+
+</pre>
+</div>

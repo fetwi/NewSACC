@@ -1,0 +1,111 @@
+<button class="print-clause btn btn-default mrgn-tp-sm mrgn-rght-sm pull-right"><span class="glyphicon glyphicon-print"></span><span class="wb-inv">Print</span></button><div>
+<h3 class="clause-heading">Remarks – Recommended Use of SACC Item</h3><section class="remarks group-sacc-remarks field-group-section">
+ No remarks.
+</section>
+<h3 class="clause-heading">Legal text for SACC item</h3><pre><div class="sacc-item">
+<div class="toc">
+<ul class="no-markers">
+<li><a href="#2022-01-282007general-information">General information</a></li>
+<li><a href="#2022-01-282007integrity-provisions">01 Integrity provisions—offer</a></li>
+<li><a href="#2022-01-282007procurement-business-number">02 Procurement Business Number</a></li>
+<li><a href="#2022-01-282007standard-instructions">03 Standard instructions, clauses and conditions</a></li>
+<li><a href="#2022-01-282007definition-of-offeror">04 Definition of Offeror</a></li>
+<li><a href="#2022-01-282007submission-of-offers">05 Submission of an offer</a></li>
+<li><a href="#2022-01-282007legal-capacity">06 Legal capacity</a></li>
+<li><a href="#2022-01-282007rejection-of-offer">07 Rejection of offer</a></li>
+<li><a href="#2022-01-282007price-justification">08 Price justification</a></li>
+<li><a href="#2022-01-282007offer-costs">09 Offer costs</a></li>
+<li><a href="#2022-01-282007joint-venture">10 Joint venture</a></li>
+<li><a href="#2022-01-282007further-information">11 Further information</a></li>
+<li><a href="#2022-01-282007code-of-conduct-for-procurement">12 Code of Conduct for Procurement—offer</a></li>
+</ul>
+</div>
+<h2 id="2022-01-282007general-information">General information </h2>
+<p>One method of supply used by Public Works and Government Services Canada (PWGSC) to satisfy the requirements of departments and agencies is to arrange with suppliers to submit a standing offer to provide goods, services or both during a specified period. Specific departments and agencies are then authorized by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to make call-ups against the standing offer detailing the exact quantities of goods or level of services they wish to order at a particular time, during the effective period of the standing offer in accordance with the predetermined conditions.</p>
+<p> The quantity of goods, level of services and estimated expenditure specified in a Request for Standing Offer (RFSO) are only an approximation of requirements given in good faith. A <abbr title="Request for Standing Offer">RFSO</abbr> does not commit <abbr title="Public Works and Government Services Canada">PWGSC</abbr> to authorize the utilization of a standing offer or to procure or contract for any goods, services or both. A standing offer is not a contract. The issuance by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> of a Standing Offer and Call-up Authority to successful suppliers and to departments and agencies authorized to make call-ups does not constitute an agreement by Canada to order any or all of the goods, services or both offered. Departments and agencies may make one or several call-ups against a standing offer.</p>
+<h2 id="2022-01-282007integrity-provisions">01 (2016-04-04) Integrity provisions—offer</h2>
+<ol>
+<li>The <cite>Ineligibility and Suspension Policy</cite> (the “Policy”) in effect on the date the Request for Standing Offers (RFSO) is issued, and all related Directives in effect on that date, are incorporated by reference into, and form a binding part of the RFSO. The Offeror must comply with the Policy and Directives, which can be found at <cite>Ineligibility and Suspension Policy</cite>. </li>
+<li>Under the Policy, charges and convictions of certain offences against a Supplier, its affiliates or first tier subcontractors, and other circumstances, will or may result in a determination by Public Works and Government Services Canada (PWGSC) that the Supplier is ineligible to be issued or is suspended from being issued a standing offer and to enter into a contract with Canada. The list of ineligible and suspended Suppliers is contained in <abbr title="Public Works and Government Services Canada">PWGSC</abbr>’s Integrity Database. The Policy describes how enquiries can be made regarding the ineligibility or suspension of Suppliers.</li>
+<li>In addition to all other information required in the Request for Standing Offers, the Offeror must provide the following:
+            <ol type="a">
+<li>by the time stated in the Policy, all information required by the Policy described under the heading “Information to be Provided when Bidding, Contracting or Entering into a Real Property Agreement”; and</li>
+<li>with its offer, a complete list of all foreign criminal charges and convictions pertaining to itself, its affiliates and its proposed first tier subcontractors that, to the best of its knowledge and belief, may be similar to one of the listed offences in the Policy. The list of foreign criminal charges and convictions must be submitted using an Integrity Declaration Form, which can be found at Declaration form for procurement.</li>
+</ol>
+</li>
+<li>Subject to subsection 5, by submitting an offer in response to this Request for Standing Offers, the Offeror certifies that:
+            <ol type="a">
+<li>it has read and understands the <cite>Ineligibility and Suspension Policy</cite>;</li>
+<li>it understands that certain domestic and foreign criminal charges and convictions, and other circumstances, as described in the Policy, will or may result in a determination of ineligibility or suspension under the Policy;</li>
+<li>it is aware that Canada may request additional information, certifications, and validations from the Offeror or a third party for purposes of making a determination of ineligibility or suspension;</li>
+<li>it has provided with its offer a complete list of all foreign criminal charges and convictions pertaining to itself, its affiliates and its proposed first tier subcontractors that, to the best of its knowledge and belief, may be similar to one of the listed offences in the Policy;</li>
+<li>none of the domestic criminal offences, and other circumstances, described in the Policy that will or may result in a determination of ineligibility or suspension, apply to it, its affiliates and its proposed first tier subcontractors; and</li>
+<li>it is not aware of a determination of ineligibility or suspension issued by <abbr title="Public Works and Government Services Canada">PWGSC</abbr> that applies to it.</li>
+</ol>
+</li>
+<li>Where an Offeror is unable to provide any of the certifications required by subsection 4, it must submit with its offer a completed Integrity Declaration Form, which can be found at Declaration form for procurement.</li>
+<li>Canada will declare non-responsive any offer in respect of which the information requested is incomplete or inaccurate, or in respect of which the information contained in a certification or declaration is found by Canada to be false or misleading in any respect. If Canada establishes after issuance of the Standing Offer that the Offeror provided a false or misleading certification or declaration, Canada may set aside the Standing Offer and terminate for default any resulting contracts. Pursuant to the Policy, Canada may also determine the Offeror to be ineligible for issuance of a standing offer for providing a false or misleading certification or declaration. </li>
+</ol>
+<h2 id="2022-01-282007procurement-business-number">02 (2020-05-28) Procurement Business Number</h2>
+<p>Suppliers are required to have a Procurement Business Number (PBN) before issuance of a standing offer. Suppliers may register for a <abbr title="Procurement Business Number">PBN</abbr> on line at Supplier Registration Information. </p>
+<h2 id="2022-01-282007standard-instructions">03 (2013-01-28) Standard instructions, clauses and conditions</h2>
+<p>Pursuant to the <cite>Department of Public Works and Government Services Act</cite> (<abbr title="Statutes of Canada">S.C.</abbr> 1996, <abbr title="chapter">c.</abbr> 16), the instructions, clauses and conditions identified in the <abbr title="Request for Standing Offer">RFSO</abbr>, standing offer and resulting contract(s) by number, date and title are incorporated by reference into and form part of the <abbr title="Request for Standing Offer">RFSO</abbr>, standing offer and resulting contract(s) as though expressly set out in the <abbr title="Request for Standing Offer">RFSO</abbr>, the standing offer and the resulting contract(s).</p>
+<h2 id="2022-01-282007definition-of-offeror">04 (2007-11-30) Definition of Offeror</h2>
+<p>"<dfn>Offeror</dfn>" means the person or entity (or, in the case of a joint venture, the persons or entities) submitting an offer to provide goods, services or both under a call-up resulting from a standing offer. It does not include the parent, subsidiaries or other affiliates of the Offeror, or its subcontractors.</p>
+<h2 id="2022-01-282007submission-of-offers">05 (2010-10-07) Submission of an offer </h2>
+<ol>
+<li>Canada requires that each offer, at closing date and time or upon request from the Standing Offer Authority, be signed by the Offeror or by an authorized representative of the Offeror. If an offer is submitted by a joint venture, it must be in accordance with section 10.</li>
+<li> The offer will be treated as confidential, subject to the provisions of the Access to Information Act (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> A-1), and the Privacy Act (<abbr title="Revised Statutes">R.S.</abbr>, 1985, <abbr title="chapter">c.</abbr> P-21). </li>
+</ol>
+<h2 id="2022-01-282007legal-capacity">06 (2007-11-30) Legal capacity </h2>
+<p>The Offeror must have the legal capacity to contract. If the Offeror is a sole proprietorship, a partnership or a corporate body, the Offeror must provide, if requested by the Standing Offer Authority, a statement and any requested supporting documentation indicating the laws under which it is registered or incorporated together with the registered or corporate name and place of business. This also applies to offerors submitting an offer as a joint venture.</p>
+<h2 id="2022-01-282007rejection-of-offer">07 (2014-09-25) Rejection of offer </h2>
+<ol>
+<li>Canada may reject an offer where any of the following circumstances is present:
+            <ol type="a">
+<li>the Offeror is subject to a Vendor Performance Corrective Measure, under the Vendor Performance Corrective Measure Policy, which renders the Offeror ineligible to submit an offer for the requirement;</li>
+<li>an employee, or subcontractor included as part of the offer, is subject to a Vendor Performance Corrective Measure, under the Vendor Performance Corrective Measure Policy, which would render that employee or subcontractor ineligible to submit an offer for the requirement, or the portion of the requirement the employee or subcontractor is to perform;</li>
+<li>the Offeror is bankrupt or where, for whatever reason, its activities are rendered inoperable for an extended period;</li>
+<li>evidence, satisfactory to Canada, of fraud, bribery, fraudulent misrepresentation or failure to comply with any law protecting individuals against any manner of discrimination, has been received with respect to the Offeror, any of its employees or any subcontractor included as part of the offer;</li>
+<li>evidence satisfactory to Canada that based on past conduct or behavior, the Offeror, a subcontractor or a person who is to perform the Work is unsuitable or has conducted himself/herself improperly;</li>
+<li>with respect to current or prior transactions with the Government of Canada:
+                    <ol type="i">
+<li>Canada has exercised its contractual remedies of suspension or termination for default with respect to a contract with the Offeror, any of its employees or any subcontractor included as part of the offer;</li>
+<li>Canada determines that the Offeror's performance on other contracts, including the efficiency and workmanship as well as the extent to which the Offeror performed the Work in accordance with contractual clauses and conditions, is sufficiently poor to jeopardize the successful completion of the requirement being bid on.</li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Where Canada intends to reject an offer pursuant to a provision of subsection 1. (f), the Standing Offer Authority will so inform the Offeror and provide the Offeror 10 days within which to make representations, before making a final decision on the offer rejection.</li>
+</ol>
+<h2 id="2022-01-282007price-justification">08 (2007-11-30) Price justification </h2>
+<p>The Offeror must provide, on Canada's request, one or more of the following price justifications:</p>
+<ol type="a">
+<li>a current published price list indicating the percentage discount available to Canada; or</li>
+<li>a copy of paid invoices for the like quality and quantity of the goods, services or both sold to other customers;
+            or</li>
+<li>a price breakdown showing the cost of direct labour, direct materials, purchased items, engineering and plant overheads, general and administrative overhead, transportation, etc., and profit; or</li>
+<li>price or rate certifications; or</li>
+<li>any other supporting documentation as requested by Canada.</li>
+</ol>
+<h2 id="2022-01-282007offer-costs">09 (2007-11-30) Offer costs </h2>
+<p>No payment will be made for costs incurred in the preparation and submission of an offer in response to the <abbr title="Request for Standing Offer">RFSO</abbr>. Costs associated with preparing and submitting an offer are the sole responsibility of the Offeror.</p>
+<h2 id="2022-01-282007joint-venture">10 (2007-11-30) Joint venture </h2>
+<ol>
+<li>A joint venture is an association of two or more parties who combine their money, property, knowledge, expertise or other resources in a single joint business enterprise, sometimes referred as a consortium, to submit an offer together on a requirement. Offerors who submit an offer as a joint venture must indicate clearly that it is a joint venture and provide the following information:
+            <ol type="a">
+<li>the name of each member of the joint venture;</li>
+<li>the Procurement Business Number of each member of the joint venture;</li>
+<li>the name of the representative of the joint venture, i.e. the member chosen by the other members to act on their behalf, if applicable;</li>
+<li>the name of the joint venture, if applicable.</li>
+</ol>
+</li>
+<li>If the information is not clearly provided in the offer, the Offeror must provide the information on request from the Standing Offer Authority.</li>
+<li>The offer and any resulting standing offer must be signed by all the members of the joint venture unless one member has been appointed to act on behalf of all members of the joint venture. The Standing Offer Authority may, at any time, require each member of the joint venture to confirm that the representative has been appointed with full authority to act as its representative for the purposes of the <abbr title="Request for Standing Offer">RFSO</abbr> and any resulting standing offer. If a standing offer is issued to a joint venture, all members of the joint venture will be jointly and severally or solidarily liable for the performance of any contract resulting from a call-up against the standing offer.</li>
+</ol>
+<h2 id="2022-01-282007further-information">11 (2007-11-30) Further information </h2>
+<p>For further information, the Offeror may contact the Standing Offer Authority identified in the <abbr title="Request for Standing Offer">RFSO</abbr>.</p>
+<h2 id="2022-01-282007code-of-conduct-for-procurement">12 (2022-01-28) Code of Conduct for Procurement—offer</h2>
+<p>The <cite>Code of Conduct for Procurement</cite> provides that Offerors must respond to Requests for Standing Offers (RFSO) in an honest, fair and comprehensive manner, accurately reflect their capacity to satisfy the requirements set out in the <abbr title="Request for Standing Offer">RFSO</abbr> and resulting contract, submit offers and enter into contracts only if they will fulfill all obligations of the Contract. By submitting an offer, the Offeror is certifying that it is complying with the <cite>Code of Conduct for Procurement</cite>. Failure to comply with the <cite>Code of Conduct for Procurement</cite>, may render the offer non-responsive.</p>
+</div></pre>
+</div>
